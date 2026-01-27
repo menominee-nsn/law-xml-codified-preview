@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>704</num>
+  <heading>PHARMACEUTICALS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-5-2001 by Ord. No. 01-03. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>704-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this Charter is to establish a tribal business which will engage in the management of a wholesale pharmaceutical business and which will enter into contracts, agreements, and other legally permissible arrangements with other parties in order to generate profits for the Tribe, and no tribal assets shall be transferred to Menominee Tribal Pharmaceuticals (MTP) ownership.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-2</num>
+    <heading>Form of management.</heading>
+    <text>MTP shall be managed by a three-member Board of Directors composed of two Tribal Legislators, and the Financial Manager of the Tribe, selected by majority vote of the Legislature for one-year terms. Board members may be removed and replaced by other eligible persons when the Legislature determines such action will be in the best interests of the Tribe. Membership on the Board shall not create rights of any kind. After appointment of the Board by the Legislature, the Board shall organize itself by a set of bylaws which provide for the orderly conduct of business, including by not limited to officers, meetings, reports, and other matters. The Board shall serve without payment of any kind for its services.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-3</num>
+    <heading>Powers.</heading>
+    <text>Consistent with federal law, MTP is authorized to pledge, mortgage, lease, and otherwise encumber land or interests therein held in its own name as security for debts and to acquire sell, lease, exchange, transfer, or assign personal property or interests therein; provided, however, that MTP shall not be authorized to pledge, mortgage, lease, or otherwise encumber tribal lands or interests therein subject to its management.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-4</num>
+    <heading>Profits.</heading>
+    <text>Profits from MTP shall be shared with the Tribe on the basis of 99% paid to the Tribe and 1% retained by MTP for its business purposes.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-5</num>
+    <heading>Duration.</heading>
+    <text>This Charter in its entirety shall be for a period of one year, at which time the Tribal Legislature shall determine if this Charter shall be renewed for a one-year period.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-6</num>
+    <heading>Audits.</heading>
+    <text>MTP agrees that an annual audit shall be made by an independent auditing company of the business at the end of the calendar year for review by the Tribe and its members.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-7</num>
+    <heading>General provisions.</heading>
+    <text>MTP may enter into agreements with an independent contractor to effectuate the purposes of this Charter, which agreement includes but shall not be limited to provisions according to the following list:</text>
+    <para>
+      <num>A.</num>
+      <text>Purpose;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Performance;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Duration;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Compensation: not less than 51% profit for MTP;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Independent contractor status;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>No waiver of sovereign immunity by MTP or Tribe;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Indemnification;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Financial reporting;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Annual audit;</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Access by MTP to all records at all reasonable times;</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Due diligence on the contracted company;</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Background checks on contracted company personnel;</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Specific listing of cost of operations;</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Assignment;</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Exclusivity;</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>Insurance;</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Licensing; and</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>Any other relevant provisions.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-8</num>
+    <heading>Governing law.</heading>
+    <text>This Charter shall be governed by the laws of the Menominee Tribe as to substance, interpretation, performance, and any other judicial items.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-9</num>
+    <heading>Taxation.</heading>
+    <text>MTP, as a tribally chartered business entity, shall be exempt from all state and federal taxes that apply to the Menominee Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-10</num>
+    <heading>Retained governmental authority.</heading>
+    <text>The Tribe retains all proper governmental and sovereign functions over MTP and over property managed or owned by MTP.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-11</num>
+    <heading>Sovereign immunity.</heading>
+    <text>The Tribe as a federally recognized Indian tribe possesses sovereign immunity which extends to its tribally chartered business, MTP. The Tribe and MTP do not waive sovereign immunity under this Charter and do not extend this sovereign immunity to any other entity.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>704-12</num>
+    <heading>Charter amendments.</heading>
+    <text>The Tribal Legislature shall, if and when necessary, amend this Charter pursuant to the Menominee Constitution and Bylaws.</text>
+    <annotations/>
+  </section>
+</container>

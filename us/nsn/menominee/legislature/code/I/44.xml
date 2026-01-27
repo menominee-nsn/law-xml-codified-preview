@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|44">
+  <prefix>Chapter</prefix>
+  <num>44</num>
+  <heading>DEBT COLLECTION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-2-2003 by Ord. No. 03-17; amended in its entirety 12-4-2014 by Ord. No. 14-26. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Accounting system — See <cite path="|I|7">Ch. 7</cite>.</annotation>
+    <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>44-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|I|44">this chapter</cite> is to expedite the collection of monies owed to the Menominee Indian Tribe. Nothing in <cite path="|I|44">this chapter</cite> shall be interpreted to preclude the Menominee Indian Tribe from taking other actions outside <cite path="|I|44">this chapter</cite>, including but not limited to lawsuits, in order to collect monies owed.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|I|44">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CONTRACT — Includes any agreement between the Tribe and a person where the Tribe makes a payment to the person for goods or services provided.</text>
+    <text>DEBTOR — Those persons who meet the criteria of <cite path="§44-3">§ 44-3</cite> of <cite path="|I|44">this chapter</cite>.</text>
+    <text>NET PAY — Gross wages minus legally required deductions for federal, state, and social security taxes.</text>
+    <text>PER CAPITA PAYMENTS — Tribal payments made or offered to individual tribal members from gaming revenues or any other source. The per capita payment shall be withheld and paid over to the Tribe and credited against the debtor's debt regardless of whether the debtor requests the payment or complies with any procedures related to obtaining a per capita payment.</text>
+    <text>STUMPAGE PAYMENT — Payments made or offered to Tribal members pursuant to <cite path="|II|340">Chapter 340</cite>, Forest Management and Development, Article II, Stumpage Assessment, of this Code. The stumpage payment shall be withheld and paid over to the Tribe and credited against the debtor's debt regardless of whether the debtor requests the payment or complies with any procedures related to obtaining a stumpage payment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-3</num>
+    <heading>Debtor classification.</heading>
+    <text>The Tribe shall create a list of persons who are debtors. No person shall be placed upon said list unless the following criteria have been met:</text>
+    <para>
+      <num>A.</num>
+      <text>A tribal employee or agent designated by the director of a department or division of the Tribe, or Tribal Court which is owed money executes a statement listing the name of the person owing money to the Tribe, the amount of money owed to the Tribe, a narrative surrounding how the debt was incurred and for what purpose, and the date on which the debt was incurred. Said employee or agent shall attach to this statement all pertinent documentation; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Property Management and Acquisition Department of the Tribe reviews the above-referenced statement and determines that there is sufficient evidence that said person or persons owe the debt claimed; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A letter has been mailed with first-class postage to the person at his or her last known address with the statement referenced in <cite path="§44-3|A">Subsection A</cite> above attached requesting the person to either pay the debt in full, make acceptable arrangements to pay the debt to the Tribe, or dispute the debt in accordance with <cite path="§44-4">§ 44-4</cite> of this chapter; and</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The person has not disputed the debt, in writing, within 35 days of the date the letter in <cite path="§44-3|C">Subsection C</cite> above was mailed, or paid the debt in full, or made acceptable arrangements to pay the debt, or the person has disputed the debt but has been determined to owe money to the Tribe pursuant to <cite path="§44-4">§ 44-4</cite> of this chapter.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 8-4-2016 by Ord. No. 16-21; 1-18-2024 by Ord. No. 23-70</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-4</num>
+    <heading>Review of disputed amounts.</heading>
+    <text>Any person who disputes the amount of money alleged to be owed to the Tribe pursuant to <cite path="§44-3|B">§ 44-3B</cite> through D of <cite path="|I|44">this chapter</cite> may ask the Loan Fund Committee to review the disputed amount and make a determination as to the amount of money owed the Tribe, if any. The person disputing the debt may bring any relevant evidence to the attention of the Loan Fund Committee and may request a hearing before the Loan Fund Committee for the purpose of presenting his or her argument. The employee or agent of the Tribe who signed the statement in regard to the debt, or any Tribal employee familiar with the issues surrounding the outstanding debt, shall attend this hearing.</text>
+    <annotations>
+      <annotation type="History">Amended 1-18-2024 by Ord. No. 23-70</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-5</num>
+    <heading>Maintenance of debtor's list.</heading>
+    <text>The list of debtors created pursuant to <cite path="§44-3">§ 44-3</cite> of <cite path="|I|44">this chapter</cite> shall be maintained by the Property Management and Acquisition Department. Said Department shall remove any person from the list who has paid his or her debt in full or has made acceptable arrangements to pay the debt. Any person removed from the list shall be placed back on the list if he or she fails to meet his or her obligations under said arrangement. Tribal departments shall provide the Property Management and Acquisition Department updated information regarding such debts and debtors in a timely manner. The list of debtors shall be provided to all tribal employees or agents who need the information in order to comply with <cite path="|I|44">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-6</num>
+    <heading>Contracts.</heading>
+    <text>No debtor shall be eligible to enter into a contract to provide goods or services to the Tribe for any purpose unless he or she has:</text>
+    <para>
+      <num>A.</num>
+      <text>Paid the debt owed in full;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In regard to a contract where the Tribe is paying the debtor for services performed, agreed to a clause in said contract authorizing the Tribe to withhold the lesser of the total amount due the Tribe, or 25% of the cost of the contract that is related to services performed; or <strong>[Amended 8-4-2016 by Ord. No. 16-21]</strong></text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In regard to any other contract, has signed a pay back agreement or wage assignment on terms acceptable to the tribal department or division.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-7</num>
+    <heading>Future or continued employment.</heading>
+    <text>No debtor shall be hired as an employee of the Menominee Indian Tribe or continue in such employment unless he or she has:</text>
+    <para>
+      <num>A.</num>
+      <text>Paid the debt owed in full; or</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A signed wage assignment or other pay back agreement in place and is current on the payments required pursuant to that assignment or agreement.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-8</num>
+    <heading>Debtors employed by Tribe.</heading>
+    <text>The Tribe shall withhold 20% of the net pay of any debtor employed by the Tribe unless such a withholding would violate applicable federal law. Said amount shall be applied toward the debtor's debt and withheld until the debt is paid in full. Withholding may be done pursuant to a wage assignment for an amount and in a form acceptable to the Tribe in lieu of this section if the debtor agrees to such a wage assignment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-9</num>
+    <heading>Per capita payments.</heading>
+    <text>The Tribe shall withhold any per capita payment due the debtor and apply that amount toward the debtor's debt, except withholding of any per capita payment shall not apply to any tribal member that is 66 years of age or older, or unless that payment is due a third party pursuant to <cite path="|II|368">Chapter 368</cite>, Health and Family, Article III, Financial Support of Children, of this Code.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-10</num>
+    <heading>Stumpage payments.</heading>
+    <text>The Tribe shall withhold any stumpage payment due the debtor and apply that amount toward the debtor's debt, except withholding of any stumpage payment shall not apply to any tribal member that is 66 years of age or older.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-11</num>
+    <heading>Writing off bad debt; use of other means to collect debt.</heading>
+    <text>Nothing in <cite path="|I|44">this chapter</cite> shall prohibit a department or division of the Tribe from writing off bad debt for accounting purposes. Writing off such debt shall not act to remove a debtor from the debtor's list. Departments or divisions of the Tribe which perform significant debt collection activities may forgo placing an individual on the debtor's list if the costs and efforts to do so outweigh the benefit and the department is using other more effective means, such as a collection agency, to collect the debt.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-12</num>
+    <heading>Multiple debts.</heading>
+    <text>In the event that a debtor owes more than one debt to a tribal department or division, the oldest debt will be paid first regardless of when the debt was placed on the debtor's list.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§44-13">
+    <prefix>§</prefix>
+    <num>44-13</num>
+    <heading>Conflicting provisions.</heading>
+    <text>In any case where the terms of <cite path="|I|44">this chapter</cite> conflict with the terms of <cite path="|I|7">Chapter 7</cite>, Accounting System, <cite path="|I|170">Chapter 170</cite>, Personnel, Article I, Tribal Preference, or Ordinance No. 83-6, Personnel Policies and Procedures Manual,<fn path="|I|§44-13|footnotes|1">1</fn> the terms of <cite path="|I|44">this chapter</cite> shall govern.</text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>44-14</num>
+    <heading>Tax refund interception. [Added 1-18-2024 by Ord. No. 23-70]</heading>
+    <text>A department or division of the Tribe, or Tribal Court, may seek repayment of a debt from any person on the list of debtors through interception of debtor's State of Wisconsin tax refund if the Tribe has entered into an agreement with the State of Wisconsin regarding the interception of tax refunds. At least 30 days</text>
+    <text>prior to seeking repayment through interception of debtor's State of Wisconsin tax refund, the debtor must be notified of the intent to seek such interception. Such notice shall be mailed with first-class postage to debtor's(s') last known address and shall contain the information related to the debt consistent with <cite path="§44-3|A">§ 44-3A</cite> along with notice that debtor may appeal the decision to seek such intercept to the Loan Fund Committee pursuant to <cite path="§44-4">§ 44-4</cite>.</text>
+    <annotations/>
+  </section>
+</container>

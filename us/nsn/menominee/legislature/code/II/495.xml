@@ -1,0 +1,2335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|495">
+  <prefix>Chapter</prefix>
+  <num>495</num>
+  <heading>SEWERS AND SEWAGE DISPOSAL</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Department of Tribal Utilities — See <cite path="|I|210">Ch. 210</cite>. Hazardous materials — See <cite path="|II|361">Ch. 361</cite>.</annotation>
+    <annotation type="General References">Water — See <cite path="|II|562">Ch. 562</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|495|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Private Sewage Systems [Adopted 7-6-2000 by Ord. No. 00-14]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>495-1</num>
+      <heading>Principles.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. The underlying principles of <cite path="|II|495|I">this article</cite> are basic goals in environmental health and safety accomplished by proper siting, design, installation, inspection, and maintenance of private on-site waste treatment systems (POWTS).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Basic principles.</text>
+        <para>
+          <num>(1)</num>
+          <text>Prevention of public health hazard. Sewage shall not be discharged directly to the ground surface, into the structure, into surface waters of the Reservation, or into the groundwater of the Reservation such that it will cause a public health hazard.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Need. Every building intended for human habitation or occupancy shall be provided with a properly functioning system for treatment and disposal of domestic waste.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Public sewers. Every building intended for human habitation or occupancy on land abutting a street, right-of-way, or easement in which there is a public sewer, or on land deemed accessible to public sewer, shall have an individual connection to the public sewer, and the POWTS serving such building shall be properly abandoned.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Discharges prohibited. Every POWTS shall be designed, located and constructed to prevent any discharge of sewage or partially treated sewage into drain tiles, onto the ground surface, into the structure served, into the surface waters of the Reservation or into the groundwater of the Reservation, including zones of seasonal soil saturation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Maintenance. Every POWTS shall be adequately maintained.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Nuisance. Every POWTS shall be designed, located and constructed so as not to create a nuisance.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Sizing. Every POWTS shall be designed and constructed to adequately dispose of all the wastewater generated in the structure or facility it is serving.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-2</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of <cite path="|II|495|I">this article</cite>, the following definitions shall apply. The dictionary meaning shall apply for all other words.</text>
+      <text>AGGREGATE — Washed graded rock that has been washed with water under pressure over a screen during or after grading to remove fine material and with a hardness value of three or greater on Moh's Scale of Hardness. Aggregate that can scratch a copper penny without leaving any residual rock material on the coin would have a hardness of three or more on Moh's Scale of Hardness.</text>
+      <text>APPROVED — Approved or accepted by Environmental Services.</text>
+      <text>BEDROCK — The rocks that underlie soil material or are at the earth's surface. Bedrock is encountered when the weathered in-place consolidated material, larger than two millimeters in size, is greater than 50% by volume.</text>
+      <text>BUILDING — A structure having walls and a roof erected or set upon an individual foundation or slab-</text>
+      <text>constructed base designed or used for the housing, shelter, enclosure or support of persons, animals or property of any kind. A mobile home is included in this definition.</text>
+      <text>CERTIFIED SOIL TESTER — A person who meets the definition and requirements as outlined in Chapter Comm 5, Subchapter III, Wisconsin Administrative Code.</text>
+      <text>CESSPOOL — A covered excavation in the ground which receives sewage or other organic wastes from a drainage system and is so designed as to retain the organic matter and solids, permitting the liquids to seep into the soil cavities.</text>
+      <text>CLEANOUT — A plug or cover made of material approved by the Department and joined by means of a screw thread to an opening in a pipe which can be removed for the purpose of cleaning or examining the interior of the pipe.</text>
+      <text>CLEAR WATER WASTES — Cooling water and condensate drainage from refrigeration compressors and air-conditioning equipment, water used for equipment chilling purposes, liquid having no impurities or where impurities have been reduced below a minimum concentration considered harmful, and cooled condensate from steam heating systems or other equipment.</text>
+      <text>COLOR — The moist color of the soil based on Munsell Soil Color Charts. DEPARTMENT — The Menominee Indian Tribe Environmental Services Department.</text>
+      <text>DETAILED SOIL MAP — A map prepared by or for a state or federal agency participating in the National Cooperative Soil Survey showing soil series, type and phases at a scale of not more than 2,000 feet to the inch and includes related explanatory information.</text>
+      <text>DOSING SOIL ABSORPTION SYSTEM — A system that employs a pump or automatic siphon to elevate or distribute effluent to the soil through the use of a seepage trench or bed. Distribution piping in seepage trenches or beds shall be four-inch perforated pipe approved by the Department.</text>
+      <text>DWELLING UNIT — One or more rooms with provisions for living, sanitary and sleeping facilities which are used or intended to be use by one person or by two or more persons maintaining a common household.</text>
+      <text>EFFLUENT — Liquid discharged from a septic or other treatment tank.</text>
+      <text>FAILING PRIVATE ON-SITE WASTE TREATMENT SYSTEM — One which causes or results in any of the following conditions: the discharge of sewage into the surface water or groundwater; the introduction of sewage into zones of saturation which adversely affects the operation of a private on-site waste treatment system; the discharge of sewage to a drain tile or into zones of bedrock; the discharge of sewage to the surface of the ground; or the failure to accept sewage discharges and backup of sewage into the structure served by the private on-site waste treatment system.</text>
+      <text>FLOOD FRINGE — That portion of a floodplain which is outside of the floodway and which is covered by floodwaters during any regional flood. It is generally associated with standing water rather than rapidly flowing water.</text>
+      <text>FLOODPLAIN — The land which has been or may be covered by floodwater during regional floods. The floodplain includes the floodway and the flood fringe.</text>
+      <text>FLOODWAY — The channel of a river or stream and those portions of the floodplain adjoining the channel which carry and discharge floodwater or flood flows during the regional flood.</text>
+      <text>GREASE INTERCEPTOR — A watertight tank which is installed for the collection and retention of grease from cooking or food processing and which is accessible for periodic removal of the contents.</text>
+      <text>HIGH GROUNDWATER — Zones of soil saturation, which include perched water tables, shallow regional groundwater tables or aquifers, or zones that are seasonally, periodically or permanently saturated.</text>
+      <text>HIGH WATER LEVEL — The highest known floodwater elevation of any lake, stream, pond or flowage or the regional flood elevation established by a state of federal agency.</text>
+      <text>HOLDING TANK — An approved watertight receptacle for the collection and holding of sewage.</text>
+      <text>HORIZONTAL REFERENCE POINT — A stationary, easily identifiable point to which horizontal dimensions can be related.</text>
+      <text>INDUSTRIAL WASTE — Liquid wastes which result from process employed in industrial establishments.</text>
+      <text>LEGAL DESCRIPTION — An accurate metes and bounds description, a lot and block number in a recorded subdivision, a recorded assessor's plat or a public land survey description to the nearest 40 acres.</text>
+      <text>LOCAL STATION — A National Weather Service (NWS) precipitation station or other precipitation station collecting precipitation data in accordance with NWS methods.</text>
+      <text>MANHOLE — An opening of sufficient size to permit a person to gain access to a sewer or any portion of a plumbing system.</text>
+      <text>MASTER PLUMBER or MASTER PLUMBER RESTRICTED (SEWER) — Any person skilled in the planning, superintending and practical installation of plumbing and familiar with the laws, rules and regulations governing the same.</text>
+      <text>MASTER PLUMBER RESTRICTED (SEWER) — Any person skilled in the planning, superintending and practical installation of private on-site waste treatment systems and other exterior plumbing.</text>
+      <text>MOBILE HOME — A transportable structure mounted on a chassis and designed to be used with or without a permanent foundation as a dwelling unit.</text>
+      <text>MOBILE HOME PARK — Any plot or plots upon which two or more mobile homes, occupied for dwelling or sleeping purposes, are located.</text>
+      <text>NUISANCE — Any source of filth, odor or probable cause of sickness. PERMEABILITY — The ease with which liquids move through the soil. PIPE DIAMETER — The inside diameter.</text>
+      <text>PLUMBING SYSTEM — All piping, fixtures, appliances, equipment, devices and appurtenances in connection with the water supply, water distribution and drainage systems.</text>
+      <text>POTABLE WATER — Water which is satisfactory for human consumption, hygiene and culinary use.</text>
+      <text>PRESSURE DISTRIBUTION SYSTEM — A soil absorption system that employs a pump or automatic siphon and small-diameter distribution piping with small-diameter perforations to introduce effluent into the soil.</text>
+      <text>PRIVATE ON-SITE WASTE TREATMENT SYSTEM (POWTS) — A sewage treatment and disposal system serving a single structure with a septic or other treatment tank and soil absorption field located on the same parcel as the structure. This term also means an alternative sewage system approved by the Department, including a substitute for the septic tank or soil absorption field, a holding tank, a system serving more than one structure or a system located on a different parcel than the structure. A private sewage system may be owned by the property owner or by a special purpose district.</text>
+      <text>PRIVATE RESIDENCE — A one- or two-family building or dwelling unit.</text>
+      <text>PRIVY — A structure that is not connected to a plumbing system which is used by persons for the deposition of human body wastes.</text>
+      <text>PUBLIC BUILDING — Any structure used in whole or in part as a place of resort, assemblage, lodging,</text>
+      <text>trade, traffic, occupancy or use by the public or by three or more tenants.</text>
+      <text>PUBLIC GARAGE — A building or part of a building used for the storage of land, air or water vehicles by three or more persons not of the same family.</text>
+      <text>RESERVOIR — A watertight receptacle basin or vault constructed above the ground surface or underground for storage of potable water.</text>
+      <text>SEEPAGE BED — An excavated area larger than five feet in width which contains a bedding of aggregate and has more than one distribution line.</text>
+      <text>SEEPAGE PIT — An underground receptacle so constructed as to permit disposal of effluent or clear wastes by soil absorption through its floor and walls.</text>
+      <text>SEEPAGE TRENCH — An area excavated one to five feet in width which contains a bedding of aggregate and a single distribution line.</text>
+      <text>SEPTIC TANK — A tank which receives and partially treats sewage through processes of sedimentation, oxygenation, flotation and bacterial action, so as to separate solids from the liquid in the sewage, and discharges the liquid to a soil absorption system.</text>
+      <text>SEWAGE — The liquid and water-carried wastes created in and to be conducted away from residences, industrial establishments and public buildings.</text>
+      <text>SOIL — The unconsolidated material over bedrock.</text>
+      <text>SOIL BORING — An observation pit dug by hand or backhoe, a hole dug by auguring or a soil core taken intact and undisturbed with a probe.</text>
+      <text>SOIL CONSISTENCE — The cohesion among soil particles and the adhesion of soil to other substances.</text>
+      <text>SOIL HORIZON — Any layer of soil or soil material occurring approximately parallel to the land surface and differing from adjacent layers in physical, chemical, and biological properties or characteristics, including but not limited to color, texture, structure and consistency.</text>
+      <text>SOIL MOTTLES — Spots or streaks of contrasting soil colors usually caused by soil saturation for some period of a normal year.</text>
+      <text>SOIL STRUCTURE — The combination or arrangement of individual soil particles into definable aggregates or peds which are characterized and classified on the basis of size, shape and degree of distinctness.</text>
+      <text>SOIL TEXTURE — The relative proportions of the various soil separates in a soil as specified in the United States Department of Agriculture system.</text>
+      <text>TOPSOIL — The undisturbed surface horizon of a soil often characterized by a black or dark grayish-brown color due to a higher content of organic matter.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>VENT CAP — An approved appurtenance used for covering the vent terminal of an effluent disposal system to avoid closure by mischief or debris and still permit circulation of air within the system.</text>
+      <text>VERTICAL ELEVATION REFERENCE POINT — An easily identifiable stationary point or object of constant elevation for establishing the relative elevation of percolation tests, soil borings and other locations.</text>
+      <text>WATERCOURSE — A stream usually flowing in a particular direction, though it need not flow continually, it may sometimes be dry. It must flow in a definite channel, having a bed, sides or banks, and usually discharges itself into some other water body.</text>
+      <text>WATER SERVICE — A pipe extended from the water main or private pumping system or other supply source with or without lateral extensions to the building, structure or other system to be served.</text>
+      <text>WORKMANSHIP — Work of such character that will fully secure the results sought in all the sections of <cite path="|II|495|I">this article</cite> as intended for the safety, welfare and healthy protection of all individuals.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-3</num>
+      <heading>Conditions for use of private system; required connection to public sewer; failing systems.</heading>
+      <para>
+        <num>A.</num>
+        <text>Allowable uses. Septic tank and effluent absorption systems or other treatment tank and effluent disposal systems as may be approved by the Department may be constructed when no public sewerage system is available to the property to be served. Unless specifically approved by the Department, the private sewage system of each building shall be entirely separate from and independent of that of any other building. A private sewage system may be owned by the property owner or by a special purpose district. The use of a common system or a system on a different parcel than the structure will be subject to the same plan review procedures as for systems serving public buildings.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Public sewer connection. When public sewers become available to the premises served, the use of the private sewage system shall be discontinued within that period of time required by order, but not to exceed one year. The building sewer shall be disconnected from the private sewage system and be connected to the public sewer. All abandoned treatment tanks and seepage pits shall have the contents pumped and disposed of in accordance with Ch. NR 113, Wis. Adm. Code. The top or entire tank shall be removed and the remaining portion of the tank or excavation shall be immediately filled with suitable soil material.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Failing systems. When a failing or malfunctioning private sewage system is encountered, the sewage disposal system shall be corrected or its use discontinued within that period of time required by Department order, with a maximum time limit of one year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-4</num>
+      <heading>Domestic and industrial waste and clear water discharges; cesspools; systems in floodplain areas.</heading>
+      <para>
+        <num>A.</num>
+        <text>Domestic waste. All water-carried waste derived from ordinary living uses shall enter the septic or treatment tank unless otherwise specifically exempted by the Department or <cite path="|II|495|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Cesspools. Cesspools are prohibited.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Industrial waste. The Department shall be contacted in regard to the treatment and disposal of all industrial wastes, including those combined with domestic waste.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Clear water. The discharge of surface, rain and other clear water into a private sewage system is prohibited.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Water softener and iron filter backwash. Water softener or iron filter discharge may be directed to the private sewage system, or to the ground surface if a nuisance is not created.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Floodplain.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. A soil absorption system shall not be installed in a floodway or flood fringe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>New developments. New private sewage systems shall not be installed in a floodway or flood fringe.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Existing developments.</text>
+          <para>
+            <num>(a)</num>
+            <text>Floodway. The following types of replacement systems may be allowed on a case-by-case basis to abate a health hazard in floodway areas:</text>
+            <para>
+              <num>[1]</num>
+              <text>Holding tanks floodproofed in accordance with <cite path="§495-17">§ 495-17</cite>I; or</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The installation of a replacement soil absorption system outside the floodplain limit connected to the development by a force main or to an approved acceptable site outside the floodway but in the flood-fringe area. Septic tanks in the floodway shall be floodproofed. The site must meet the requirements set forth in <cite path="|II|495|I">this article</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Flood fringe. Malfunctioning soil absorption systems may generally be replaced, provided that favorable soil conditions and other site factors exist.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-5</num>
+      <heading>Soil test reports; plans and specifications.</heading>
+      <para>
+        <num>A.</num>
+        <text>Soil test reports. The Department shall establish a filing system for soil test reports. The Department shall review soil test reports for proposed private sewage disposal systems and verify the data reported if necessary. If the soil test report is considered to be adequate, the Department shall file the report.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Plan examination for one- and two-family residences.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Complete plans and specifications shall be submitted to the Department with the application for a sanitary permit. Plans shall be submitted on paper not less than 8 1/2 inches by 11 inches in size.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Plans and specifications. All plans shall include the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Plot plan. Detailed plot plan dimensioned or drawn to scale showing the lot size; the location of all septic tanks, holding tanks or other treatment tanks, building sewers, sanitary and storm, wells, water mains or water service, streams and lakes, dosing or pumping chambers, distribution boxes, effluent systems, dual disposal systems, and replacement system areas; and the location of the building served. Adjoining properties shall be checked to ensure the site location distances in <cite path="§495-10|A">§ 495-10A</cite> are complied with. All separating distances and dimensions shall be shown on the detailed plot plan.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Reference points. A vertical elevation reference point and a horizontal reference point.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Soil data. Soil borings and percolation test data related to the undisturbed and finished grade elevations, vertical elevation reference point and horizontal reference point. Surface elevations shall be given for all soil borings.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Occupancy. The maximum number of bedrooms in the residence shall be indicated.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Other specifications. Complete specifications for pumps and controls, including dose volume, elevation differences (vertical lift), pipe friction loss, pump performance curve, pump model and pump manufacturer.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Revised plans. Every installer of a private sewage system who modifies or changes the design of a system must submit to the Department a revised plan. All changes or modifications must be approved by the Department prior to installation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Acceptance. No private sewage system shall be used until the proper sanitary permit, inspection and revised plan, if required, have been accepted by the Department.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Plan filing. The Department shall establish a filing system which provides a system of retrieval of sanitary permits and plans.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-6</num>
+      <heading>Administration.</heading>
+      <para>
+        <num>A.</num>
+        <text>Sanitary permits.</text>
+        <para>
+          <num>(1)</num>
+          <text>Application. The application for a sanitary permit shall be made on forms furnished by the Department. Before a private sewage system is installed, a licensed master plumber or master restricted plumber (sewer) shall sign the application for permit and assume responsibility for installation of the system.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Permit transfer. When there is a change of ownership, building use or master plumber, a permit transfer form furnished by the Department shall be submitted to the Department for approval prior to the installation of a private sewage system. Failure to submit transfer forms shall invalidate the sanitary permit.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Posting. The sanitary permit shall be issued by the Department of Licensing and Permits after approval by the Department. The sanitary permit shall be displayed conspicuously so as to be visible from the road fronting the lot during construction.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Tribal responsibilities.</text>
+        <para>
+          <num>(1)</num>
+          <text>Review of soil test reports. The Department shall review certified soil tester reports for proposed private sewage systems and verify the report at the proposed site, if necessary. Review shall be done by a certified soil tester, either as a tribal employee or under contract.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review of applications for sanitary permits. The Department shall approve or disapprove applications for sanitary permits and assist applicants in preparing an approved application.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Written notice. The Department shall issue written notice to each applicant whose sanitary permit application is disapproved. Each notice shall state the specific reasons for disapproval and amendments to the application, if any, which would render the application approvable.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Inspections. The Department shall inspect all private sewage systems after construction but before backfilling no later than the end of the next workday, excluding Saturdays, Sundays and holidays, after receiving notice from the plumber in charge. In the case of Indian Health Service projects, the systems can be inspected by the engineer in charge of the project, provided that inspection reports are forwarded to the Department.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Reports and surveys. The Department shall file reports and conduct surveys and inspections as required by the Tribe.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Investigate violations. The Department shall investigate violations of <cite path="|II|495|I">this article</cite> and issue orders to abate the violations and submit orders to law enforcement and the Tribal Prosecutor for enforcement.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-7</num>
+      <heading>Plan review.</heading>
+      <para>
+        <num>A.</num>
+        <text>Approvals.</text>
+        <para>
+          <num>(1)</num>
+          <text>One- and two-family residences. Except as required in <cite path="§495-8|A">§ 495-8A</cite>, the review of one- and two-family residences shall be performed in accordance with <cite path="§495-5">§ 495-5</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Public buildings. Complete plans and specifications shall be submitted in accord with this section. Such plans shall be submitted to the Department prior to making application for a sanitary permit. Written approval shall be received before sanitary permits are issued for the initial installation of a private sewage system or for the addition to, modification or replacement of the system, if the system serves or will serve any public buildings.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Submission of plans and specifications for public buildings. All plans and specifications shall be submitted in duplicate and include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Plot plan. Detailed plot plan dimensioned or drawn to scale showing the lot size; the location of all septic tanks, holding tanks or other treatment tanks, building sewers, sanitary and storm, wells, water mains or water service, streams and lakes, dosing or pumping chambers, distribution boxes, effluent disposal systems, dual disposal systems, and disposal replacement areas; and the location of the public building served by such systems. Adjoining properties shall be checked to ensure that the site location distances in <cite path="§495-10|A">§ 495-10A</cite> are complied with. All distances and dimensions shall be shown on the detailed plot plan.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Legal description. Legal description of the property on which the system is to be installed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Reference points. A vertical elevation reference point and a horizontal reference point.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Soil data. Soil boring and percolation test data related to the undisturbed and finished grade elevations and vertical elevation reference point and horizontal reference point.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Contours for original grade. Ground slope with two-foot contours for the original, undisturbed grade elevations of the entire area of the soil absorption system and the area on all sides for a distance of 25 feet.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Contours for altered sites. Ground slope with two-foot contours for the grade elevation of the entire area of the soil absorption system and the area on all sides for a distance of 25 feet after alteration of the landscape.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Use and occupancy. Complete data relative to the maximum expected use and occupancy of the building to be served considering all anticipated future growth plans.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Other specifications. Complete specifications for pumps and controls, including dose volume, elevation differences (vertical lift), friction loss, pump performance curve, pump model and pump manufacturer.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Plan revisions. Revisions to approved plans and specifications shall be approved by the Department</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Plan availability. One set of approved plans shall be maintained at the project site during construction of any private sewage system serving a public building.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-8</num>
+      <heading>Examination of plans and specifications.</heading>
+      <para>
+        <num>A.</num>
+        <text>Plan examination required.</text>
+        <para>
+          <num>(1)</num>
+          <text>Plans and specifications for the following types of private sewage systems shall be submitted to the Department prior to making application for a sanitary permit:</text>
+          <para>
+            <num>(a)</num>
+            <text>Pressure distribution system.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Mound system.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Holding tank.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Experimental system.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Conventional soil absorption system to serve a public building.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When plans and specifications for a type of private sewage system specified in <cite path="§495-8|A|(1)">Subsection A(1)</cite> are submitted to the Department for review, written approval for the plans shall be obtained from the Department prior to a sanitary permit being issued for the system or installation of the system commences.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Plan submission.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Plans shall be designed and submitted by a registered architect, engineer, registered plumbing designer, or master plumber.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Submitting data. All plans, preliminary or complete, shall be submitted in duplicate. The plans that are submitted shall be prints that are clear, legible and permanent. All pertinent data shall be a part of or shall accompany all plans submitted for review.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Additions and alterations. This section shall apply to all additions, alterations and modifications as well as to all new private sewage systems and shall apply to all cases where there is a change of the type of occupancy or use of the building which requires changes to or intended use of the plumbing of private sewage system so as to comply with <cite path="|II|495|I">this article</cite> for that occupancy or use.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Revisions. After written approval is granted, plans and specifications of the plumbing systems shall not be changed without written consent of the Department and the designer of the system.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Limitations. In granting approval of plans, specifications, products, devices or materials, the Department is not liable for any defects in construction nor for any damages that may result from the specific installation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Plan availability. One set of approved plans shall be maintained at the project site during construction of any private sewage system approved under this section.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-9">
+      <prefix>§</prefix>
+      <num>495-9</num>
+      <heading>Site evaluation.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. Site evaluation shall be conducted by a soil tester certified by the Wisconsin Department of Commerce in accord with Ch. Comm 5, Wis Adm. Code. The evaluation shall include soil conditions, properties and permeability, depth to zones of soil saturation, depth to bedrock, slope, landscape position, all setback requirements and the potential for flooding. Soil test data shall relate to the undisturbed elevations, and a vertical elevation reference point or benchmark must be established. Evaluation data shall be reported on forms provided by the Wisconsin Department of Commerce and signed by the certified soil tester. Reports shall be filed for all sites investigated within 30 days of the completion of testing.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Replacement system area.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. On each parcel of land being initially developed, sufficient area of suitable soils, based on the soil tests and system location and site requirement contained in <cite path="|II|495|I">this article</cite>, for one replacement system shall be established.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Nonconforming site conditions. The Department shall be contacted for approval of replacement systems for all public buildings and all buildings where site conditions do not permit systems in accord with <cite path="|II|495|I">this article</cite>. Alternates for the disposal of effluent emanating from existing structures may be accomplished by means other than those outlined in <cite path="|II|495|I">this article</cite>, provided that detailed plans and specifications are submitted to the Department for review and consideration. Written approval shall be received from the Department prior to work commencing on these systems.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Undisturbed site. The replacement system area shall not be disturbed to the extent that it is no longer a suitable system area. The replacement system area shall not be used for the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Construction of buildings.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Parking lots or parking areas.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Below-ground swimming pools.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any other use that may adversely affect the replacement area.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Slope.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. A conventional soil absorption system shall not be located on a land slope of greater than 20%. A conventional soil absorption system shall be located at least 20 feet from the crown of a land slope that is greater than 20% except where the top of the aggregate of a system is at or below the bottom of an adjacent roadside ditch.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Specific system designs. Where a more restrictive land slope is to be observed for a soil absorption system other than a conventional system, the more restrictive land slope specified in the design sections of <cite path="|II|495|I">this article</cite> shall apply.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Soil borings and profile descriptions.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Soil borings shall be conducted on all sites regardless of the type of private sewage system planned to serve the parcel. Borings shall extend at least three feet below the bottom of the proposed system. Borings shall be of sufficient size and extent to determine the soil characteristics important to on-site liquid waste disposal. Borehole data shall be used to determine the suitability of the soils at the site with respect to zones of seasonal or permanent soil saturation and the depth to bedrock. The use of power augers for soil borings is prohibited.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Number. There shall be a minimum of three suitable borings per soil absorption site. More soil borings may be necessary for accurate evaluation of a site.</text>
+          <para>
+            <num>(a)</num>
+            <text>Depth of borings. Borings shall be constructed to a depth of at least three feet below the proposed depth of the system.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Exceptions. On new parcels, the requirement of six borings (three for initial area and three for replacement area) may be reduced to five if the initial and replacement system areas are contiguous and one boring is made on each outer corner of the contiguous area and the fifth boring is made between the system areas.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Reports. Regardless of the number of borings evaluated and conditions observed in borings, all soil information derived from borings shall be reported.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Location. Each borehole location shall be accurately located and referenced to the vertical elevation and horizontal reference point. Reports of boring locations shall be either drawn to scale or have the horizontal dimensions clearly indicated between the borings and the horizontal reference point.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Soil descriptions. Soil profile descriptions shall be written for all borings. The thickness in inches of the different soil horizons observed shall be indicated. Horizons shall be differentiated on the basis of color, texture, soil mottles or bedrock. Depths shall be measured from the ground surface.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Soil mottles. Zones of seasonal or periodic soil saturation shall be estimated at the highest level of soil mottles. The Department may require a detailed description of the soil mottling on a marginal site. The abundance, size, contrast and color of the soil mottles should be described in the following manner:</text>
+          <para>
+            <num>(a)</num>
+            <text>Abundance. Abundance shall be described as "few" if the mottled color occupies less than 2% of the exposed surface; "common" if the mottled color occupies from 2% to 20% of the exposed surface; or "many" if the mottled color occupies more than 20% of the exposed surface.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Size. Size refers to the length of the mottle measured along the longest dimension and shall be described as "fine" if the mottle is less than five millimeters; "medium" if the mottle is from five millimeters to 15 millimeters; or "coarse" if the mottle is greater than five millimeters.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Contrast. Contrast refers to the difference in color between the soil mottle and the background color of the soil and is described as "faint" if the mottle is evident but recognizable with close examination; "distinct" if the mottle is readily seen but not striking; or "prominent" if the mottle is obvious and one of the outstanding features of the horizon.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Color. The color(s) of the mottle(s) shall be given.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Observed groundwater. The depth to groundwater, if present, shall be reported. Observed groundwater shall be reported at the level groundwater reached in the soil borehole or at the highest level of sidewall seepage into the boring. Measurements shall be made from ground level. Soil above the water level in the boring shall be checked for the presence of soil mottles.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Color patterns not indicative of soil saturation.</text>
+          <para>
+            <num>(a)</num>
+            <text>One-foot exception. Soil profiles that have an abrupt textural change with finer textured soils overlying more than four feet of unmottled, loamy sand or coarser soils can have a mottled zone in the finer textured material. If the mottled zone is less than 12 inches thick and is immediately above the textural change, than a soil absorption system may be installed in the loamy sand or coarser material below the mottled layer. If any soil mottles occur within the sandy material, then the site shall be unsuitable. The Department may determine certain coarse sandy loam soils to be included as a coarse material.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Other soil color patterns. Soil mottles can occur that are not due to zones of seasonal or periodic soil saturation. Examples of such soil conditions, not limited by enumeration, are:</text>
+            <para>
+              <num>[1]</num>
+              <text>Soil mottles formed from residual sandstone deposits.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Soil mottles formed from uneven weathering of glacially deposited material, or glacially deposited material that may be naturally gray in color. This may include concretionary material in various stages of decomposition.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Deposits of lime in a profile derived from highly calcareous parent material.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Light-colored silt coats deposited on soil ped faces.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Soil mottles that are usually vertically oriented along old or decayed root channels with a dark organic stain usually present in the center of the mottled area.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Reporting exceptions. A certified soil tester shall report any mottled soil condition. If soil mottles are observed that may not be due to soil saturation, the soil tester still shall report such condition and may request a determination from the Department on the acceptability of the site.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Bedrock. The depth to bedrock, except sandstone, shall be established at the depth in a soil boring where greater than 50% of the weathered in-place material is consolidated. Sandstone bedrock shall be established at the depth where an increase in resistance to penetration of a knife blade occurs.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Soil evaluation for absorption systems. System sizing and siting for all soil absorption systems shall be based on soil morphological conditions specified in <cite path="§495-9|D">Subsection D</cite> and Table 1<fn path="|II|§495-9|footnotes|1">1</fn> or percolation tests conducted prior to July 1, 1994.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Percolation test results for sizing absorption systems. The sizing of soil absorption systems shall be based upon Table 2.<fn path="|II|§495-9|footnotes|2">2</fn></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Verification.</text>
+        <para>
+          <num>(1)</num>
+          <text>Borings. Depth to soil mottles, depth to high groundwater, soil textures, depth to bedrock and land slope may be subject to verification by the Department. The Department may require backhoe pits to be provided for verification of soil boring data.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Filling. Where the natural soil condition has been altered by filling or other methods used to improve wet areas, the Department may require observation of high groundwater levels under saturated conditions.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Winter soil testing.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Soil testing should be done only when weather and light conditions make accurate evaluation of site conditions possible. Soil testing attempted under winter conditions is difficult and precautions should be observed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Soil borings. Soil borings and profile evaluations conducted between November 15 and March 15 shall be in accord with the following procedures:</text>
+          <para>
+            <num>(a)</num>
+            <text>Borings shall be made with a backhoe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Soil profiles shall only be evaluated between the hours of 10:00 a.m. and 2:00 p.m. Soil profiles shall not be evaluated during times when the sky is completely overcast.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When soil horizons are frozen, soil material must be thawed for hand texturing.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Table 2 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-10">
+      <prefix>§</prefix>
+      <num>495-10</num>
+      <heading>Site requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>Soil absorption site location. The surface grade of all soil absorption systems shall be located at a point lower than the surface grade of any nearby water well or reservoir on the same or adjoining property; however, when this is not possible, the site shall be so located that surface water drainage from the site is not directed toward any well or reservoir and will bypass the well or reservoir by several feet. The soil absorption system shall be located not less than five feet from any lot line; 10 feet from a water service or an uninhabited slab-constructed building; 15 feet from any swimming pool or habitable slab-constructed building measured from the slab; 25 feet from the below-grade foundation of any occupied or habitable building or dwelling, public water main or cistern; 50 feet from any water well or reservoir; and 100 feet from the high-water mark of any lake, stream or other watercourse. Private sewage systems in compacted areas such as parking lots and driveways are prohibited. Surface waters shall be diverted away from any soil absorption site on the same or neighboring lots.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Groundwater, bedrock or slowly permeable soils. There shall be a minimum of three feet of soil between the bottom of the soil absorption system and high groundwater or bedrock. Soil having a infiltration rate of 0.2 gallon per square foot per day or more shall exist for the depth of the proposed soil absorption system and for at least three feet below the proposed bottom of the soil absorption system. There shall be 56 inches of suitable soil from original grade for a conventional soil absorption system.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Percolation rate or soil evaluation for trench or bed. A trench- or bed-type soil absorption system shall not be installed if the percolation rate for any one of the three tests is greater that 60 minutes per inch. The soil infiltration rate listed in Table 1<fn path="|II|§495-10|footnotes|3">3</fn> or the slowest percolation rate shall be used to determine sizing of the soil absorption area.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Percolation rate or soil evaluation for seepage pit. For a seepage pit, the infiltration rate determined from Table 1 shall be used to size the soil absorption area.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Soil maps. When a parcel of land consists entirely of soils having very severe or severe limitations for on-site liquid waste disposal as determined by use of a detailed soil map and interpretative data, that map and interpretative data may be used as a basis for denial for an on-site waste disposal system. However, the property owner shall be permitted to present evidence that a suitable site for an on-site liquid waste disposal system does exist.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Filled area.</text>
+        <para>
+          <num>(1)</num>
+          <text>Department approval. A soil absorption system shall not be installed in a filled area unless written approval is received from the Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Site and soil requirements.</text>
+          <para>
+            <num>(a)</num>
+            <text>Bedrock. Sites that have less than 56 inches but at least 30 inches of soil over bedrock, where the original soil texture is sand or loamy sand, may be filled with the same soil texture as the natural soil or coarser material up to and including medium sand in an attempt to overcome the site limitations. The fill material shall not be of a finer texture that the natural soil.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>High groundwater. Sites that have less than 56 inches of soil over high groundwater or estimated high groundwater, where the original soil texture is sand or loamy sand, may be filled following the criteria noted in <cite path="§495-10|F.|(b)">this subsection</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Natural soil. Sites with soils finer than sand or loamy sand shall not be approved for systems in fill.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Inspection of fill. Placement of the fill material shall be inspected by the Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Design requirements.</text>
+          <para>
+            <num>(a)</num>
+            <text>Size. A filled area shall be large enough to accommodate a shallow trench system and a replacement system. The size of the filled area shall be determined from the soil infiltration rate as determined from Table 1, based on natural soil and use of the building. When any portion of the trench system or its replacement is in the fill, the fill shall extend to two feet beyond all sides of both systems before the side slope of the fill begins.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Soil test. Soil borings shall be conducted before filling to determine soil textures and depth to high groundwater or bedrock.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Topsoil. Vegetation and topsoil shall be removed prior to filling.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Side slope. Slopes at the edge of the filled areas can be a maximum ratio of three to one, provided that the two-foot separating distance is maintained.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Altering slopes. In some cases, areas with slopes exceeding those specified in <cite path="§495-9">§ 495-9</cite>C(1) may be graded and reshaped to provide soil absorption sites. Care must be taken when altering any natural landscapes. Successful site alteration may be accomplished in accord with the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Site investigation. Soil test data shall show that a sufficient depth of suitable soil material is present to provide the required amount of soil over bedrock and groundwater after alteration. In addition, a complete soil evaluation as specified in <cite path="§495-9">§ 495-9</cite> shall be performed after alteration of the site.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>System location. A soil absorption system must be installed in the cut area of an altered site. A soil absorption system shall not be installed in the fill area of an altered site. The area of fill on an altered site may be used as a portion of the required twenty-foot separating distance from the crown of a critical slope. There shall be a minimum of six feet of natural soil between the edge of a system area and the downslope side of the altered area.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Site protection. All altered slope areas shall be altered such that surface water drainage will be diverted away from the system areas. In some cases this may require the use of grassed waterways or other means of diverting surface waters. All disturbed areas shall be seeded or sodded with grass, and appropriate steps must be taken to control erosion.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-11">
+      <prefix>§</prefix>
+      <num>495-11</num>
+      <heading>Sizing soil absorption systems.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. Effluent from septic tanks and other approved treatment tanks shall be disposed of by soil absorption or by such other manner approved by the Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>Daily wastewater volumes of 5,000 gallons or less. For systems having a daily effluent application of 5,000 gallons or less, sizing shall be in accord with this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Daily wastewater volumes of 5,000 gallons of more. For systems receiving effluents in excess of 5,000 gallons per day, this section shall apply, except that two systems of equal size shall be required. Each system shall have a capacity of no less than 75% of the area required for a single system. A suitable means of alternating waste application shall be provided. The dual system shall be considered as one system.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Method of discharge.</text>
+        <para>
+          <num>(1)</num>
+          <text>Daily flow 1,500 gallons or less. For facilities having a daily effluent application of 1,500 or less, flow from the septic or treatment tank to the soil absorption system may be by gravity or by dosing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Systems over 1,500 gallons. For systems over 1,500 gallons, the tank effluent must be discharged by pumping or by use of an automatic siphon.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Sizing residential systems.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sizing based upon percolation tests. The minimum amount of soil absorption area for a gravity flow system to serve a one- or two-family dwelling based upon percolation results shall be determined in accordance with Table 2<fn path="|II|§495-11|footnotes|4">4</fn> depending on:</text>
+          <para>
+            <num>(a)</num>
+            <text>The total number of bedrooms contained within the dwelling; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The method of absorption: trench, bed, or pit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sizing based upon soil evaluation. The minimum amount of soil absorption area for a gravity flow system to serve a one- or two-family dwelling based upon soil evaluation shall be determined by dividing the wastewater flow of 150 gallons per day per bedroom by the appropriate loading factor specified in Table 1.<fn path="|II|§495-11|footnotes|5">5</fn></text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Sizing public building systems.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sizing based upon soil evaluation. The minimum amount of soil absorption area for a gravity flow system to serve a building or structure other than a one- or two-family dwelling based upon soil evaluation shall be determined by dividing the appropriate wastewater flow as specified in Table 3 by the appropriate loading factor specified in Table 1.<fn path="|II|§495-11|footnotes|6">6</fn></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sizing based upon percolation tests. Percolation tests shall not be used to size soil absorption systems for a building or structure other than a one- or two-family dwelling.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Table 2 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Tables 1 and 3 are included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-12">
+      <prefix>§</prefix>
+      <num>495-12</num>
+      <heading>Installation of conventional soil absorption system.</heading>
+      <para>
+        <num>A.</num>
+        <text>Seepage trench excavations. Seepage trench excavations shall be one to five feet in width. Trench excavations shall be spaced at least six feet apart. The absorption area of a seepage trench shall be computed by using the bottom area only. The bottom area of the distribution header excavation shall not be computed as absorption area. Individual seepage trenches should not be over 100 feet long.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Seepage bed excavations. Seepage bed excavations shall be more than five feet wide and have more than one distribution pipe. The absorption area of a seepage bed shall be computed by using the bottom area only. Distribution piping in a seepage bed shall be uniformly spaced, no more than six feet and no less than three feet apart, and no more than three feet from the sidewall.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Seepage pits. A seepage pit shall have a minimum inside diameter of five feet and shall consist of a chamber walled up with material such as perforated precast concrete ring, concrete block, brick or other material approved by the Department which allows effluent to percolate into the surrounding soil. The pit bottom shall be left open to the soil. Aggregate of 1/2 to 2 1/2 inches in size shall be placed into a six-inch minimum annular space separating the outside wall of the chamber and sidewall excavation. The depth of the annular space shall be measured from the inlet pipe to the bottom of the chamber. Each seepage pit shall be provided with a twenty-four-inch manhole extending to within six inches of the ground surface and a four-inch-diameter fresh air inlet which shall meet the requirements of <cite path="§495-12|G">Subsection G</cite>. An observation pipe is not required. Seepage pits shall be located six feet or more apart. Excavation and scarifying shall be in accord with <cite path="§495-12|D">Subsection D</cite>. The effective area of a seepage pit shall be the vertical wall area of the walled-up chamber for the depth below the inlet for all strata for which the percolation rates are less than 30 minutes per inch. The six inches of annular opening outside the vertical wall area may be included for determination of effective area. Table 4 may be used for determining the effective sidewall area of circular seepage pits.<fn path="|II|§495-12|footnotes|7">7</fn></text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Excavation and construction. The bottom of a trench or bed excavation shall be level. Seepage trenches or beds shall not be excavated when the soil is so wet that soil material rolled between the hands will form a soil wire. All smeared or compacted soil surfaces in the sidewalls or bottom of the seepage trench or bed excavation shall be scarified to the depth of smearing or compaction and the loose material removed. If rain falls on an open excavation, the soil must be left until dry enough that a soil wire will not form when soil from the excavation bottom is rolled between the hands. The bottom area shall then be scarified and loose material removed.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Aggregate and backfill. A minimum of six inches of aggregate ranging in size from 1/2 to 2 1/2 inches shall be laid into the trench or bed below the distribution pipe elevation. The aggregate shall be evenly distributed a minimum of two inches over the top of the distribution pipe. The aggregate shall be covered with synthetic materials approved by the Department or with nine inches of uncompacted marsh hay or straw. Building paper shall not be used to cover the aggregate. A minimum of 18 inches of soil backfill shall be provided above the covering.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Distribution piping.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Distribution piping for gravity systems shall be a minimum of four-inch I.D. approved pipe. The distribution header shall be constructed of approved solid wall pipe. The top of the distribution piping shall be laid eight to 42 inches below the original surface in continuous straight or curved lines. The slope of the distribution pipes shall be two to four inches per 100 feet.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Distribution of effluent. Distribution of effluent to seepage trenches on sloping sites may be accomplished by utilizing a drop box design. Where dosing is required, the siphon or pump shall discharge a dose of minimum capacity equal to 75% of the combined volume of the distribution piping in the absorption system. When dosing is required, the dosing frequency shall be a maximum four times daily.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Fresh air inlets and observation pipe. Fresh air observation inlets shall be provided and connected to the perforated distribution pipe with an approved fitting or junction box and be placed so as to assure a free flow of air throughout the entire installation. The vent pipes shall be at least four inches in diameter and extend at least 12 inches above the final grade and terminate with an approved vent cap.</text>
+        <text>The observation pipe shall be perforated and extend to the bottom of the aggregate. Fresh air inlets shall be located at least 25 feet from any window, door or air intake of any building used for human habitation. A maximum of four distribution pipelines may be served by one common four-inch vent when interconnected by a common header pipe.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Winter installation.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Installation of soil absorption systems during periods of adverse weather conditions is not recommended. A soil absorption system shall not be installed if the soil at the system elevation is frozen.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Removal of snow cover. Snow cover must be removed from the soil absorption area before excavation begins. Snow must not be placed in a manner that will cause water to pond on the soil absorption system area during snowmelt.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Excavated and backfill material. Excavated soil material may be used as backfill for the system if the following conditions are met:</text>
+          <para>
+            <num>(a)</num>
+            <text>The excavated material must be protected from freezing. If the excavated material freezes solid, it shall not be used as backfill.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The first 12 inches of backfill shall be loose, unfrozen soil.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The protective covering over the bed or trench gravel shall be synthetic material approved by the Department or nine inches of uncompacted marsh hay or straw.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>System inspection. Inspection of systems installed during winter conditions shall include inspection of the trench or bed excavation prior to placement of gravel and inspection of backfill material at the time of placement.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Table 4 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-13">
+      <prefix>§</prefix>
+      <num>495-13</num>
+      <heading>Pressure distribution systems.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. A pressure distribution system may be used on any site meeting the criteria listed in <cite path="§495-10">§ 495-10</cite>. There shall be a minimum depth to the top of the distribution piping of six inches from original grade. The minimum required suitable soil depths from the original grade for a pressure distribution network are as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>One-inch distribution pipe: 49 inches of suitable soil.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Two-inch distribution pipe: 50 inches of suitable soil.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Three-inch distribution pipe: 52 inches of suitable soil.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Four-inch distribution pipe: 53 inches of suitable soil.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Soil absorption area.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sizing. The required soil absorption area shall be determined by dividing the total daily wastewater flow by the design loading rate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Estimating wastewater flow.</text>
+          <para>
+            <num>(a)</num>
+            <text>Residential. The estimated wastewater flow from a residence shall be 150 gallons per bedroom per day.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Public buildings. Daily wastewater flow rates from public buildings shall be based on the usage factors listed in <cite path="§495-14">§ 495-14</cite>C(3)(b).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Design loading rate. Loading rates based on soil evaluation conducted in accordance with <cite path="§495-9|E">§ 495-9E</cite> shall be based on using Table 1.<fn path="|II|§495-13|footnotes|8">8</fn></text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Pressure distribution system design.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. Pressure distribution systems may discharge effluent into trenches or beds. Each pipe that is connected to an outlet of a manifold shall be counted as a separate distribution pipe. The horizontal spacing of distribution pipes shall be 30 to 72 inches. All distribution piping should be installed at the same elevation, or the plans and specifications shall provide for a design that ensures equal flow through each of the perforations.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Design calculations. Pressure distribution systems requiring less than 5,000 square feet of absorption area shall be designed using Tables 5 through 11.<fn path="|II|§495-13|footnotes|9">9</fn> Systems requiring more than 5,000 square feet of absorption area shall be designed using design specifications and calculations other than those specified in Tables 5 through 11. Design specifications and calculations must be submitted and include perforation discharge rate, total headloss through the distribution piping, headloss through manifold piping, pump or siphon size and dosing volume. Formulas for these calculations may be obtained from the Wisconsin Department of Commerce.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Distribution pipe size. Distribution pipe diameters vary depending on the length of bed or trenches. Table 5 specifies maximum allowable distribution pipe lengths for various pipes and perforation size.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Manifolds.</text>
+          <para>
+            <num>(a)</num>
+            <text>Size. The size of the manifold is based on the number, length and discharge rate of the distribution pipes. Table 6 shall be used for calculating distribution pipe discharge rate. Table 7 shall be used for calculating manifold diameter.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Distribution pipe connection. Distribution pipes should be connected to the manifold with tees or ninety-degree ells. Distribution pipes shall have the ends capped.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Force main. The size of the force main between the pump and the manifold shall be based on the friction loss and velocity of effluent through the pipe. Force mains shall be constructed of approved pipe.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Bed and trench construction.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. The excavation and construction requirements for pressure distribution system trenches and beds shall meet the requirements specified in <cite path="§495-12|A">§ 495-12A</cite>, B, D, E and H.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Aggregate. Aggregate shall be placed to a minimum depth of six inches beneath the distribution pipe with two inches spread evenly above the pipe. The aggregate shall be clean, nondeteriorating stone of 1/2 to 2 1/2 inches.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Pumps and pump controls.</text>
+        <para>
+          <num>(1)</num>
+          <text>Pump selection. Pump selection shall be based on the pump performance curve of the model selected. Pumps shall be rated by the manufacturer for use for sewage or effluent. The pump shall be capable of providing a minimum of 2.5 feet of head at all of the perforations in the distribution network.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Discharge rate. Table 8 shall be used to determine pump dosing rate based on the distribution pipe discharge rate and number of distribution pipes.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Friction loss. Table 9 is the friction loss chart for Schedule 40 plastic pipe (C = 150). The diameter of the pipe shall be increased if the velocity falls in the excessive range based upon flow rates in Table 9.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Pump and alarm controls.</text>
+          <para>
+            <num>(a)</num>
+            <text>General controls. The control system for the pumping chamber shall consist of a control for operating the pump and an alarm system to detect when the pump is malfunctioning. Pump controls should be selected which give flexibility in adjusting the on/off depth. All pump and alarm controls shall be approved by the Department. Pressure diaphragm switches shall not be used. The following types of controls may be used:</text>
+            <para>
+              <num>[1]</num>
+              <text>Mercury level control. Mercury level control switches consist of a mercury switch sealed inside a bulb. Strictly an on/off switch, two are required.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Adjustable weight switch. Adjustable weight switches consist of a control located above the water level and two weights attached to a single cable which extends into the liquid.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Alarm system. The alarm system shall consist of a bell or light mounted in the structure and shall be located so it can be easily seen or heard. The high water warning device shall be installed two inches above the depth set for the on pump control. Alarm systems shall be installed on a separate circuit from the electrical service.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Electrical connections. Electrical connections shall be located outside the pumping chamber. All wiring to the pump chamber shall be installed in conduit.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Duplex pumps. When two or more pumps are employed within a dosing tank, the pumps shall be interconnected such that the pumps alternate dosing and dosing continues in the event that one pump fails. Failure of a pump shall activate an alarm which is to remain audible or visible until manually turned off.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Dosing. The dosing frequency shall be a maximum of four times daily. To establish the volume per dose, divide the daily wastewater flow by the dosing frequency. In addition, the dosing volume shall be at least 10 times the capacity of the distribution pipe volume. Table 10 provides the void volume for various pipe diameters. Table 11 shall be used to determine minimum dose volume based on distribution pipe diameter, length and number of distribution pipes.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Tables 5 through 11 are included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-14">
+      <prefix>§</prefix>
+      <num>495-14</num>
+      <heading>Septic tanks and other treatment tanks.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. Septic tanks shall be fabricated or constructed of welded steel, monolithic concrete, fiberglass or other materials approved by the Department. All tanks shall be watertight and fabricated so as to constitute an individual structure. The design of prefabricated septic tanks shall be approved by the Wisconsin Department of Commerce. Site-constructed concrete tanks shall not be installed.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Design of septic tanks.</text>
+        <para>
+          <num>(1)</num>
+          <text>Liquid depths. The liquid depth shall not be less than three feet nor more than an average of six feet. The total depth shall be at least eight inches greater than the liquid depth.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Rectangular tanks. Rectangular tanks shall have a minimum width of 36 inches and shall be constructed with the longest dimensions parallel to the direction of flow.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cylindrical tanks. Cylindrical tanks shall have an inside diameter of not less than 48 inches.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Label. Each prefabricated tank shall be clearly marked to show liquid capacity and the name and address or registered trademark of the manufacturer. The markings shall be impressed into or embossed onto the outside wall of the tank immediately above the outlet opening.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Materials. For septic tank material and construction specifications see § Comm 83.20, Wis. Adm. Code.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Inlet and outlet. The inlet and outlet on all tanks or tank compartments shall be provided with open-end coated sanitary tees or baffles made of approved materials, so constructed as to distribute flow and retain scum in the tank or compartments. The inlet and outlet openings on all tanks shall contain a "boss" stop or other provision which will prevent the insertion of the sewer piping beyond the inside wall of the tank. The tees or baffles shall extend at least six inches above and nine inches below the liquid level, but not to exceed 1/3 the liquid depth. At least two inches of clear space shall be provided over the top of the baffles or tees. The bottom of the outlet opening shall be at least two inches lower than the bottom of the inlet.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Manholes.</text>
+          <para>
+            <num>(a)</num>
+            <text>Each single-compartment tank and each unit of a multicompartment tank shall be provided with at least one manhole opening located over either the inlet or outlet opening.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Manholes and manhole risers for tanks shall provide an inside clearance of no less than 24 inches in diameter.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A manhole or top of a manhole riser for a tank shall terminate either:</text>
+            <para>
+              <num>[1]</num>
+              <text>At or below final grade, but no deeper than six inches; or</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>At least four inches above final grade.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Steel and fiberglass tanks.</text>
+            <para>
+              <num>[1]</num>
+              <text>Tanks of steel and fiberglass shall be provided with collars to accommodate manhole risers or extensions.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Collars for steel tanks and fiberglass tanks shall be of the same material as the tank.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Collars for steel tanks and fiberglass tanks shall be at least two inches in height.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Collars for steel tanks shall be permanently welded to the tank.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Collars for fiberglass tanks shall be an integral part of the tank.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Manhole covers.</text>
+          <para>
+            <num>(a)</num>
+            <text>Manhole risers for tanks shall be provided with a substantial, fitted, watertight cover.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Manhole tank covers that are not buried shall have locking devices.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Warning labels.</text>
+            <para>
+              <num>[1]</num>
+              <text>Manhole covers for tanks shall have warning labels printed in red or other contrasting color affixed to the manhole covers.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The wording used on the warning label shall clearly indicate the hazards present when entering a sewage or other treatment tank.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Covers, locking devices and warning labels shall be reviewed and approved by the Department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Inspection opening. An inspection pipe shall be provided directly over any inlet baffle or outlet baffle for a tank compartment over which a manhole opening is not provided. An inspection pipe shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be of a material as approved by the Department;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Be at least four inches in diameter;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Terminate at least six inches above the adjacent final grade; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Terminate with a removable watertight cap or plug.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Capacity and sizing.</text>
+        <para>
+          <num>(1)</num>
+          <text>Minimum capacity. The capacity of a septic tank or other treatment tank shall be based on the number of persons using the building to be served or upon the volume and type of waste. The minimum liquid capacity shall be 750 gallons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Multiple tanks. When the required capacity is to be provided by more than one tank, the minimum capacity of any tank shall be 750 gallons. When three or four tanks are installed, approval of the design of the system shall be obtained from the Department. The installation of more than four tanks in series is prohibited.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Sizing of tank.</text>
+        <para>
+          <num>(a)</num>
+          <text>Residential. The minimum liquid capacity for one- and two-family residences is shown on Table 12.<fn path="|II|§495-14|footnotes|10">10</fn></text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Public buildings. For buildings other than one- and two-family residences the liquid capacity shall be increased above the minimum of 750 gallons as established in Table 13.<fn path="|II|§495-14|footnotes|11">11</fn> For such buildings having kitchen and/or laundry waste, the tank capacity shall be increased to receive the anticipated volume for a twenty-four-hour period from the kitchen and/or laundry. The liquid capacities established in Table 13 do not include employees.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Installation.</text>
+        <para>
+          <num>(1)</num>
+          <text>Location.</text>
+          <para>
+            <num>(a)</num>
+            <text>The location of sewage treatment tanks and pump and siphon tanks shall be in conformance with the setback distances listed in Table 14.<fn path="|II|§495-14|footnotes|12">12</fn></text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Location within or under building.</text>
+          <para>
+            <num>[1]</num>
+            <text>A sewage treatment tank may not be located within a building or under a building, except as permitted in <cite path="§495-14|D|(1)(b)|[2]">Subsection D(1)(b)[2]</cite>.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>A sewage treatment tank and pump or siphon tank may be located either under a cantilevered portion of a building or under an unenclosed deck structure, if at least five feet of vertical clearance for servicing purposes is provided between the top of the manhole and the obstruction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No structural supports of buildings, portions of buildings, decks or porches may rest upon any portion of a sewage or other treatment tank.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Groundwater. If the tank is to be installed in groundwater, adequate anchoring shall be made.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Bedding. A three-inch-thick compacted bedding shall be provided for all septic and other treatment tank installations. The bedding material shall be sand, gravel, granite, limerock or other noncorrosive materials of such size that 100% will pass a one-half-inch screen.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Backfill.</text>
+          <para>
+            <num>(a)</num>
+            <text>Steel and fiberglass tanks. The backfill material for steel and fiberglass tanks shall be as specified for bedding and shall be tamped into place, care being taken to prevent damage to the coating.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Concrete tanks. The backfill for concrete tanks shall be soil material, 100% of which shall pass a four-inch screen and shall be tamped into place.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Manhole riser joints.</text>
+          <para>
+            <num>(a)</num>
+            <text>Concrete. All joints on concrete risers and manhole covers shall be tongue and groove or shiplap type and sealed watertight using neat cement, mortar or bituminous compound.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Steel. All joints on steel risers shall be welded or flanged and bolted and be watertight. All steel manhole extensions shall be bituminous coated inside and outside.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Fiberglass. All methods of attaching fiberglass risers shall be watertight and approved by the Department.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Dosing tanks.</text>
+        <para>
+          <num>(1)</num>
+          <text>Material and construction.</text>
+          <para>
+            <num>(a)</num>
+            <text>Dosing tanks. Dosing tanks shall be watertight and constructed of materials as specified in § Comm 83.20, Wis. Adm. Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Manholes.</text>
+            <para>
+              <num>[1]</num>
+              <text>A dosing tank shall be provided with a manhole opening as specified in <cite path="§495-14|B|(7)">Subsection B(7)</cite>.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The dosing tank manhole cover shall terminate no less than four inches above grade and be provided with both a locking device and warning label as specified in <cite path="§495-14|B|(8)(a)">Subsection B(8)(a)</cite> to (c)</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Label. A dosing tank shall be labeled in accordance with <cite path="§495-14|B|(4)">Subsection B(4)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Capacity and sizing of pump tanks. The minimum liquid capacity of a dosing tank or a dosing tank compartment employing one pump shall be determined from the distance between the bottom of the tank and the level of the inlet pipe to accommodate the cumulative volumes as specified in <cite path="§495-14|E|(2)(a)">Subsection E(2)(a)</cite> to (d). The minimum liquid capacity of a dosing tank or dosing tank compartment employing multiple pumps shall accommodate the cumulative volumes as specified in <cite path="§495-14|E|(2)(b)">Subsection E(2)(b)</cite> to (d).</text>
+          <para>
+            <num>(a)</num>
+            <text>A reserve capacity shall be provided above the high water alarm that is at least equal to the daily wastewater discharged from the building served. This volume shall be determined for one- and two-family residence based on 100 gallons per bedroom or by using Table 13 for other uses.<fn path="|II|§495-14|footnotes|13">13</fn></text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The dose volume shall be provided as determined by the system type as specified in §<cite path="§495-12">§ 495-12</cite>F(2) and 495-13F.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A liquid volume between the pump "on" setting and the alarm float level shall be provided.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A liquid volume shall be provided as calculated from the bottom of the tank to the pump "off" setting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Capacity and sizing of siphon tanks. The minimum liquid capacity of a dosing tank employing a siphon shall be sufficient to accommodate volumes necessary to provide dosing as specified by the system type.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Venting.</text>
+          <para>
+            <num>(a)</num>
+            <text>A dosing tank or dosing tank compartment shall be provided with a vent that:</text>
+            <para>
+              <num>[1]</num>
+              <text>Is sized at four inches for all residential one- and two-family dwellings;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Is sized at four inches minimum and approved by the Department; and</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Is of Schedule 40 PVC or cast iron.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A vent serving a dosing tank or dosing tank compartment shall:</text>
+            <para>
+              <num>[1]</num>
+              <text>Terminate at least 12 inches above the adjacent final grade;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Terminate with a vent cap or return bend; and</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Be located at least 10 feet horizontally from any door, window or fresh air intake.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Table 12 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>11</num>
+          <text>Editor's Note: Table 13 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Table 14 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Table 13 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-15</num>
+      <heading>Maintenance and sludge disposal.</heading>
+      <para>
+        <num>A.</num>
+        <text>Maintenance. Septic tanks and other treatment tanks shall be cleaned whenever the sludge and scum occupy 1/3 of the tank's liquid capacity or a minimum of once every three years.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Sludge disposal. See Ch. NR 113, Wis. Adm. Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-16</num>
+      <heading>Chemical restoration.</heading>
+      <text>No products for chemical restoration or chemical restoration procedures for private sewage systems may be used unless approved by the Department.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-17">
+      <prefix>§</prefix>
+      <num>495-17</num>
+      <heading>Holding tanks.</heading>
+      <para>
+        <num>A.</num>
+        <text>Approval. Plans shall be submitted to the Department for each application to install a holding tank. An application for a holding tank shall not be approved if:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any other type of private sewage system may be utilized as permitted under <cite path="|II|495|I">this article</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The property contains an area of soil suitable for any other type of private sewage system as permitted under <cite path="|II|495|I">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Prohibition of holding tanks for new construction. Holding tanks are prohibited for new construction.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Holding tanks on properties with existing buildings. Holding tanks shall be allowed when the use of a holding tank is the only available alternative for the disposal of sanitary liquid for an existing building.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Service contracts, agreements and statements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Service contract.</text>
+          <para>
+            <num>(a)</num>
+            <text>Prior to approving the installation of a holding tank, the owner of the holding tank shall contract with a person/company to have the holding tank serviced. The owner shall file a copy of the contract or registration with the Department prior to approval of the installation. The owner shall file a copy of any changes to the service contract or a copy of a new service contract with the Department within 10 business days from the date of change to the service contract.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The person responsible for servicing a holding tank under <cite path="§495-17|D|(1)(a)">Subsection D(1)(a)</cite> shall submit to the Department a report for the servicing on a semiannual basis. The service report shall include:</text>
+            <para>
+              <num>[1]</num>
+              <text>The name and address of the person responsible for servicing the holding tank;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The name of the owner of the holding tank;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The location of the property on which the holding tank in installed;</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The dates on which the holding tank was serviced;</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>The volume in gallons of the contents pumped from the holding tank for each servicing; and</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>The disposal sites to which the contents from the holding tank were delivered.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Agreement.</text>
+          <para>
+            <num>(a)</num>
+            <text>The owner shall enter into agreement with the Tribe guaranteeing the holding tank will be serviced in such a manner so as to prevent a nuisance, environmental hazard, or health hazard.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The pumping agreement required under <cite path="§495-17|D|(2)(a)">Subsection D(2)(a)</cite> shall be binding upon the owner, the heirs of the owner and assignees of the owner. The owner shall file the pumping agreement with the Community Development Department. Upon receipt of a holding tank agreement, the Community Development Department shall record the agreement in a manner which will permit the existence of the agreement to be determined by reference to the property where the holding tank is installed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner of a building or facility which will discharge more than 3,000 gallons of wastewater per day to one or more holding tanks shall provide a written statement to the Department describing the method of final disposal for the septage from the holding tanks. The Department may not approve these types of holding tanks until the Department determines the final disposal methods are acceptable.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Sizing.</text>
+        <para>
+          <num>(1)</num>
+          <text>One- and two-family residences. The minimum liquid capacity of a holding tank for one- and two-family residences is listed in Table 15.<fn path="|II|§495-17|footnotes|14">14</fn></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Public buildings. Public buildings shall have a minimum five-day holding capacity, but not less than 2,000 gallons. Sizing shall be in accord with <cite path="§495-14">§ 495-14</cite>C(3)(b). The minimum of 750 gallons referred to in <cite path="§495-14">§ 495-14</cite>C(3)(b) does not apply to holding tanks. No more than four holding tanks installed in series will be permitted.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Construction. Holding tanks shall be constructed of welded steel, monolithic concrete, glass-fiber reinforced polyester or other materials approved by the Department.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Installation.</text>
+        <para>
+          <num>(1)</num>
+          <text>Location.</text>
+          <para>
+            <num>(a)</num>
+            <text>Holding tanks shall be located in conformance with the setback distances listed in Table 14.<fn path="|II|§495-17|footnotes|15">15</fn></text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The service port or manhole cover of a holding tank shall be located no more than 25 feet from a service drive or road.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Warning device. A high water warning device shall be installed so that it activates one foot below the inlet pipe. This device shall be either an audible or illuminated alarm. If the latter, it shall be conspicuously mounted. Electrical junction boxes, including warning equipment junctions, shall be located outside the holding tank unless they are housed in waterproof, explosion-proof enclosures. Electrical relays or controls shall be located outside the holding tank.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Manholes. Each tank shall be provided with a manhole opening no less than 24 inches inside diameter extending to a minimum of four inches above ground. Finish grade must be sloped away from the manhole to divert surface water from the manhole. Each manhole cover shall have an effective locking device. Manhole covers may have a service port reduced in size to eight inches inside diameter four inches above finish grade level. The reduced opening must have an effective locking cover or a brass cleanout plug. Reduced locking devices or cleanouts must be approved by the Department.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Septic tank. If an approved septic tank is installed to serve as a holding tank, the inlet and outlet baffle may be removed and the outlet shall be sealed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Vent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>A holding tank shall be provided with a vent that:</text>
+      </para>
+      <para>
+        <num>[1]</num>
+        <text>Is not less than two inches in diameter; and</text>
+        <para>
+          <num>[2]</num>
+          <text>Is of Schedule 40 PVC or cast iron.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A vent serving a holding tank shall:</text>
+          <para>
+            <num>[1]</num>
+            <text>Terminate at least 12 inches above the adjacent final grade;</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Terminate with a vent cap or return bend; and</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Be located at least 10 feet horizontally from any door, window or fresh air intake.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Service suction and discharge lines.</text>
+        <para>
+          <num>(1)</num>
+          <text>A service suction line or discharge line serving a holding tank for servicing purposes shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be constructed of piping materials approved by the Department;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Terminate with a service port consisting of a quick-disconnect fitting with a removable plug;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Have the service port of the suction line terminate at least two feet above final grade;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Have the service port identified as a sewage suction line with a permanent sign with lettering at least two inches in height;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Have the service port secured to a permanent support;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Be protected against frost, unless the entire length of the line is drained after each pumping of the tank; and</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Be at least three inched in diameter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A suction line serving a holding tank may not be installed such that the tank can be drained by gravity or by siphonic action.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Where a lift station is employed for servicing the holding tank, the pump discharge line shall conform with <cite path="§495-17|H|(1)">Subsection H(1)</cite>, except that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The discharge line shall be at least two inches in diameter; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The lift station pump shall be activated by means of a keyed switch at the service port.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Tank in floodplain.</text>
+        <para>
+          <num>(1)</num>
+          <text>Vent. A vent serving a holding tank located in a floodplain shall terminate at least two feet above the established regional flood elevation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Anchoring. Anchoring of a holding tank located in a floodplain shall be provided to counter buoyant forces caused by a regional flood or periodic saturated soil conditions using the following formula: weight of the tank plus the weight of the anchor = 1.5 x (volume of water the tank displaces) x [the weight of water (62.4 pounds/cubic foot at 39° F.)].</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Manhole. For a holding tank located in a floodplain:</text>
+          <para>
+            <num>(a)</num>
+            <text>At least two feet of elevation shall be provided between the top of the service manhole of a holding tank and the recorded flood elevation; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A watertight manhole cover or service port shall be provided which is threaded or bolted to the riser.</text>
+          </para>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Table 15 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Table 14 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-18</num>
+      <heading>Inspections.</heading>
+      <para>
+        <num>A.</num>
+        <text>No part of a private sewage system may be covered by backfill until the Department has had an opportunity to inspect the system in accordance with this section. In the case of private sewage systems installed under an Indian Health Service (IHS) contract under the direct supervision of Indian Health Service personnel, the Department may waive the inspection if the IHS person in direct supervision provides an as-built drawing of the system.</text>
+        <para>
+          <num>(1)</num>
+          <text>The plumber responsible for the installation of a private sewage system shall notify the Department when the system is ready for inspection. The notification shall be in person, in writing, or by telephone or electronic communication.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The plumber shall be responsible for maintaining records of the inspection notifications. The records shall include information relative to the date and time of notification and the person contacted.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If an inspection is not made by the end of the next workday, excluding Saturdays, Sundays and holidays, after notifying the county, the plumber may proceed with the installation of the system, including backfilling.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Department shall maintain a written record of each inspection conducted for a private sewage system. The record shall include information relative to:</text>
+        <para>
+          <num>(1)</num>
+          <text>The location of the system.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date and time of the inspection.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The nature and findings of the inspection.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-19</num>
+      <heading>Minimum standards for materials.</heading>
+      <text>All materials, fixtures or devices sold, used or entering into construction of a private sewage system or parts thereof shall comply with § Comm 83.20, Wis. Adm. Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-20</num>
+      <heading>Building sewers and drains.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. Building sewers which terminate in a septic tank shall meet the same general criteria as listed in <cite path="§495-19">§ 495-19</cite>, except where specified in this section. All sanitary or special type drainage systems shall be connected by means of independent connections with a public sewer, approved private interceptor main sewer or private sewage system.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Cover. Building sewers which terminate in a septic tank shall not be less than 18 inches from the top of the pipe to finished grade.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Materials. All building sewers which terminate in a septic tank shall be constructed of cast iron, vitrified clay, concrete, asbestos cement, plastic or bituminous fiber pipe or other approved materials. The pipe from the septic tank to the soil absorption area shall be constructed of solid wall pipe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-21">
+      <prefix>§</prefix>
+      <num>495-21</num>
+      <heading>Mound systems.</heading>
+      <para>
+        <num>A.</num>
+        <text>Soil and site requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. The installation of a mound in a floodplain or filled area is prohibited. Removal of fill material may not make a site suitable. A mound shall not be installed in a compacted area. A mound shall not be installed over a failing private sewage system.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Soil borings and percolation tests. A minimum of three soil borings shall be conducted in accord with <cite path="§495-9">§ 495-9</cite> to determine depth to seasonal or permanent soil saturation or bedrock. Identification of replacement system area is not required.</text>
+          <para>
+            <num>(a)</num>
+            <text>Slowly permeable soils with or without high groundwater. Mound sizing shall be based on soil evaluation. The most limiting condition from Table 1<fn path="|II|§495-21|footnotes|16">16</fn> that occurs within the top 12 inches of natural soil shall be used to determine the soil loading factor.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shallow permeable soils over creviced bedrock. Mound sizing shall be based on soil evaluation. The most limiting condition from Table 1 that occurs within the top 12 inches of natural soil shall be used to determine the soil loading factor.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Permeable soils with high groundwater. Mound sizing shall be based on soil evaluation. The most limiting condition from Table 1 that occurs within the top 12 inches of natural soil shall be used to determine the soil loading factor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Depth to pervious rock. There shall be at least 24 inches of unsaturated natural soil over creviced or porous bedrock.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Depth to groundwater.</text>
+          <para>
+            <num>(a)</num>
+            <text>Except as provided in <cite path="§495-21|A|(4)(b)">Subsection A(4)(b)</cite>, a mound system shall be allowed where at least 24 inches of unsaturated natural soil exist above estimated high groundwater as indicated by soil morphological conditions.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A mound system replacing an existing private sewage system shall be allowed where less than 24 inches of unsaturated natural soil exists above estimated high groundwater, provided that:</text>
+            <para>
+              <num>[1]</num>
+              <text>The soils are not mottled or gleyed in the "E" or "B" horizon which is within four inches of the bottom of the "A" horizon; and</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The cumulative depth of sand fill, as specified in <cite path="§495-21|B|(4)(a)|[1]">Subsection B(4)(a)[1]</cite>, and a depth of suitable soil provides at least three feet of vertical separation to high groundwater.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Slopes.</text>
+          <para>
+            <num>(a)</num>
+            <text>A mound may not be installed on a slope which is greater than 12% except as permitted under <cite path="§495-21|A|(5)(b)">Subsection A(5)(b)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A mound replacing an existing private sewage system may not be installed on a slope which is greater than 20%.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Depth to rock strata or 50% by volume rock fragments. There shall be at least 60 inches of soil over uncreviced impermeable bedrock. If the soil contains 50% coarse fragments by volume in the upper 24 inches, a mound cannot be installed unless there is at least 24 inches of permeable, unsaturated soil that has less than 50% coarse fragments beneath this layer.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Mound design and dimensions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Design criteria.</text>
+          <para>
+            <num>(a)</num>
+            <text>A mound system to be installed on a site where there is at least 24 inches of unsaturated natural soil above estimated high groundwater, bedrock or slowly permeable soils shall be designed using the specifications in <cite path="§495-21|B|(2)">Subsection B(2)</cite> to (8). The dimensions and corresponding letter designations referenced in this section are shown in Figures 1 through 5.<fn path="|II|§495-21|footnotes|17">17</fn></text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A mound system to replace an existing private sewage system and to be installed on a site where there is less than 24 inches of unsaturated natural soil above estimated high groundwater, bedrock or slowly permeable soils shall be designed using the specifications of <cite path="§495-21|B|(2)">Subsection B(2)</cite> to (8) with depth of sand fill (D) increased according to the formula in <cite path="§495-21|B|(5)">Subsection B(5)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Design of the absorption area. The minimum size of the absorption area for a mound system shall be determined by dividing the total daily wastewater flow by the infiltrative capacity of the sand fill.</text>
+          <para>
+            <num>(a)</num>
+            <text>The infiltration rate for the sand fill may not exceed 1.2 gallons per day per square foot.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The daily wastewater flow shall be determined in accordance with <cite path="§495-11">§ 495-11</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>System configuration.</text>
+          <para>
+            <num>(a)</num>
+            <text>Trenches.</text>
+            <para>
+              <num>[1]</num>
+              <text>For slowly permeable soils with or without high groundwater, the effluent shall be distributed in the mound through a trench system. Trench length should be selected by determining the longest dimension that is perpendicular to any slope on the site. Trench width and trench spacing are dependant on specific site conditions.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Trenches shall be two to four feet in width.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The linear feet of trench required shall be calculated by dividing the required absorption area by the trench width (A). Trench length (B) shall not be more that 100 feet. Where more that one trench is required, the trenches should be of equal length. A mound should not have more than three trenches.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Trench spacing (C) shall be determined by comparing the estimated wastewater flow, the infiltrative capacity of the natural soil and the trench length (B). The calculated trench spacing (C) shall be measured from center to center of the trenches. Trench spacing (C) shall be calculated as:</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>=	<u>Estimated wastewater flow</u></text>
+          <text>Number of trenches</text>
+        </para>
+        <aftertext>÷ (0.24 gal/ft2/day) ÷ trench length (B)</aftertext>
+        <para>
+          <num>(b)</num>
+          <text>Beds. A long narrow bed design should be used for permeable soils with high water tables. The bed can be square or rectangular for shallow permeable soils over bedrock. The bed length (B) should be set after determining the longest dimension that is available and that is perpendicular to any slope on the site. The bed width (A) shall be determined by dividing the absorption area required by (B).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mound dimensions.</text>
+          <para>
+            <num>(a)</num>
+            <text>Mound height. On sites the mound height shall be calculated using the following equation where D equals sand fill depth, E equals the downslope fill depth, F equals the bed or trench depth, and H equals the cap and topsoil depth:</text>
+            <text>Mound height =	<u>(D + E)</u> 2</text>
+          </para>
+          <aftertext>+ F + H</aftertext>
+          <para>
+            <num>[1]</num>
+            <text>For sites having at least 24 inches above estimated high groundwater, bedrock, or slowly permeable soils the minimum sand depth (D) shall be 12 inches, unless otherwise specified in Table 16.<fn path="|II|§495-21|footnotes|18">18</fn> For mounds replacing existing private sewage systems on sites having less that 24 inches above estimated high groundwater, bedrock, or slowly permeable soils, the sand fill depth (D) shall be based on the following calculation: where D = 12 inches + (24 inches - depth in inches to soil or site factor).</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>On a sloping site, the sand fill depth (E) placed at the downslope edge of the bed or trench shall be increased so that the bottom of the bed or trench is level. The downslope sand fill depth (E) shall be increased according to one of the following calculations:</text>
+            <para>
+              <num>[a]</num>
+              <text>For beds: E = D + [(slope percentage)(A)].</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>For trenches: E = D + [(slope percentage)(C + A)].</text>
+            </para>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>The bed or trench depth (F) shall be at least nine inches. At least six inches of aggregate shall be placed under the distribution pipes and at least two inches of aggregate shall be placed over the top of the distribution pipes.</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>The cap and topsoil depth (H) at the center of the mound shall be at least 18 inches which includes one foot of subsoil and six inches of topsoil. At the outer edges of the mound the minimum cap and topsoil depth (G) shall be one foot which includes six inches of subsoil and six inches of topsoil. The soil used for the cap can be topsoil or finer textured subsoil.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Mound length. The total mound length (L) is equal to the bed or trench length plus the end slopes (K).</text>
+          </para>
+        </para>
+        <aftertext>The end slope (K) = Mound depth at center x 3:1 slope =</aftertext>
+        <aftertext><u>[(D + E)</u> 2</aftertext>
+        <aftertext>+ F + H]3</aftertext>
+        <aftertext>The total mound length (L) = (bed or trench length B) + 2 (end slope K)</aftertext>
+        <para>
+          <num>(c)</num>
+          <text>Mound width. The total width (W) of a mound with a bed design shall be equal to the upslope width (J), the bed width (A) and the downslope width (I). When a trench design is used, the total width (W) shall be equal to the upslope width (J), the trench width or widths (A), the trench spacing (C) and the downslope width (I). On sloping sites the downslope width (I) shall be greater than the upslope width (J). On level sites the upslope width and the downslope width shall be the same.</text>
+          <para>
+            <num>[1]</num>
+            <text>Upslope width (J) = mound depth at upslope edge x 3:1 slope x slope correction factor from Table 17 = (D + F + G) x 3 x correction factor.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Downslope width (I) = mound depth at downslope edge x 3:1 slope x slope correction factor from Table 17 = (E + F = G) x 3 x correction factor.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>The mound width (W) for a bed system = upslope width (J) + bed width (A) + downslope width (I).</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>The mound width (W) for a trench system =</text>
+          </para>
+        </para>
+        <aftertext>upslope width (J) + trench width (A) + [(number or trenches – 1) x</aftertext>
+        <aftertext>(trench spacing (C)] +	<u>trench width (A)</u> 2</aftertext>
+        <aftertext>+ downslope width (I)</aftertext>
+        <para>
+          <num>(1)</num>
+          <text>Basal area.</text>
+          <para>
+            <num>(a)</num>
+            <text>The minimum basal area shall be calculated using the infiltrative capacity of the natural soil and the total daily wastewater flow. When using soil evaluation, the minimum basal area shall be determined by dividing the total daily wastewater flow by the loading rate of the soil as specified in Table 1.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Basal area available; bed. On sloping sites the basal area shall be that area under the bed and downslope of the bed. On level sites the basal area shall be the entire area under the mound excluding the end slope areas. The appropriate equation from one of the following shall be used to determine the available basal area:</text>
+            <para>
+              <num>[1]</num>
+              <text>Bed length (B) x bed width (A) + downslope width (I) = basal area available for sloping sites.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Bed length (B) x total mound width (W) = basal area available for level sites.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Basal area available trench. On sloping sites the basal area shall be that area under and downslope of the trenches. On level sites the basal area shall be the total area under the mound excluding the end slope areas. The appropriate equation from one of the following shall be used to determine the available basal area:</text>
+            <text>Trench length (B) x [mound width (W) – upslope width (J) +</text>
+          </para>
+          <aftertext><u>trench width (A)]</u> 2</aftertext>
+          <aftertext>= basal area available for sloping sites</aftertext>
+          <aftertext>Trench length (B) x total mound width (W) = basal area available for level sites</aftertext>
+          <para>
+            <num>(d)</num>
+            <text>Adequacy of basal area. If the basal area available is not equal to or greater than the basal area required, the downslope width (I) on a sloping site shall be increased or the up and downslope widths (J) and (I) on a level site shall be increased until sufficient area is available.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Distribution system. The distribution system for mounds for daily flows less than 600 gallons per day may be sized in accord with the applicable criteria in <cite path="§495-21|C">Subsection C</cite> or with <cite path="§495-13|C">§ 495-13C</cite>. For all other buildings, the distribution system shall be designed in accord with <cite path="§495-13|C">§ 495-13C</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Pump selection. Pump selection shall be based upon the criteria specified in <cite path="§495-13|E">§ 495-13E</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Dose volume. The dose volume shall be calculated either:</text>
+          <para>
+            <num>(a)</num>
+            <text>According to <cite path="§495-13|F">§ 495-13F</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Using the design flow from Table 13.<fn path="|II|§495-21|footnotes|19">19</fn></text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Using 150 gallons per bedroom for one- and two-family residences.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Construction techniques. Construction shall not commence if the soil is too wet. The soil is too wet for construction if at any level to a depth of eight inches a soil wire can be formed by rolling the soil between the hands. Installation of mound systems when the soil on the site is frozen is prohibited for new construction.</text>
+        <para>
+          <num>(1)</num>
+          <text>Site preparation.</text>
+          <para>
+            <num>(a)</num>
+            <text>Excess vegetation. Excess vegetation shall be cut and removed from the area of the mound. Small trees shall be cut to grade surface leaving the stumps in place.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Force main. The force main from the pumping chamber shall be installed before the mound site is plowed. The force main should be sloped uniformly towards the pumping chamber so that it drains after each dose.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Plowing.</text>
+            <para>
+              <num>[1]</num>
+              <text>The site shall be plowed with a mold board plow or chisel plow. The site shall be plowed to a depth of seven or eight inches with the plowing perpendicular to the slope. Rototillers shall not be used. The sand fill shall be placed immediately after plowing. After plowing, all food and vehicular traffic shall be kept off the plowed area.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Sand fill material.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Sand fill quality. The sand fill to be used in the construction of a mound-type private sewage system shall conform to fine aggregate specifications delineated in ASTM C33.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Placement of sand fill. The sand fill shall be moved into place from the upslope and side edges of the plowed area. Vehicular traffic is prohibited in the area extending to 25 feet beyond the downslope edge of the mound. The sand fill shall be moved into place with a track-type tractor. A minimum of six inches of sand shall be kept beneath the tracks at all times.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Installation of the absorption area. Form the bed or trenches within the sand fill. The bottom of the trenches or bed shall be level. The elevation of the bottom of the trenches or bed shall be checked at the upslope and downslope edges to make certain that the fill has been placed to the proper depth.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Placement of the aggregate. A minimum of six inches of coarse aggregate ranging in size from 1/2 inch to 2 1/2 inches shall be placed in the bed or trench excavation. The top of the aggregate shall be level.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Distribution system. Place the distribution system on the aggregate with the holes on the bottom of the distribution lines.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Cover. The top of the bed or trenches shall be covered with a minimum of two inches of aggregate ranging in size from 1/2 inch to 2 1/2 inches. A minimum of four to five inches of uncompacted straw or marsh hay, or synthetic fabric approved by the Department, shall be placed over the aggregate. The cap and topsoil cover shall be placed. The mound shall be seeded immediately and protected from erosion.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Maintenance. Maintenance shall be performed in accord with <cite path="§495-15|A">§ 495-15A</cite>. When the septic tank is pumped, the pump chamber shall be inspected and shall be pumped to remove any solids if present. Excess traffic in the mound area shall be avoided.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>16</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>17</num>
+          <text>Editor's Note: Figures 1 to 5 are included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>18</num>
+          <text>Editor's Note: Table 16 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>19</num>
+          <text>Editor's Note: Table 13 is included at the end of <cite path="|II|495">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-22</num>
+      <heading>Enforcement; violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Enforcement. The Environmental Services Department of the Menominee Indian Tribe shall exercise all such powers as are reasonably necessary to carry out the provisions of <cite path="|II|495|I">this article</cite>. It may, among other things:</text>
+        <para>
+          <num>(1)</num>
+          <text>Enter and inspect at reasonable hours system installations, corrections, system failures, etc., on private or public property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue special orders directing and requiring compliance with <cite path="|II|495|I">this article</cite> and any rules promulgated under <cite path="|II|495|I">this article</cite> whenever, in the judgment of the Department, <cite path="|II|495|I">this article</cite> or rules pursuant to article are threatened with violation, are being violated or have been violated. The Menominee Tribal Court has jurisdiction to enforce and shall enforce any order brought before it by injunctive and other appropriate relief. The Tribal Prosecutor shall bring action for its enforcement.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person who violates any provision of <cite path="|II|495|I">this article</cite> or terms of any special order issued by the Department shall forfeit not less than $50 nor more than $1,000 for each violation. Each violation of an order under <cite path="§495-22|A|(2)">Subsection A(2)</cite> above constitutes a separate offense, and each day of continued violation is a separate offense.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|495|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Sewer Rates, Rules and Regulations [Adopted 11-12-2002 by Ord. No. 02-44]</heading>
+    <section cache:ref-path="II|§495-23">
+      <prefix>§</prefix>
+      <num>495-23</num>
+      <heading>Definitions.</heading>
+      <text>The following definitions are applicable to <cite path="|II|495|II">this article</cite>:</text>
+      <text>BIOCHEMICAL OXYGEN DEMAND (BOD) — The quantity of oxygen utilized in the biochemical oxidation of organic matter in five days at 20° C., expressed as milligrams per liter. Quantitative determination of BOD shall be made in accordance with procedures set forth in Standard Methods.</text>
+      <text>BUILDING DRAIN — That part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste, and other drainage pipes inside the walls of the building and conveys it to the building sewer.</text>
+      <text>BUILDING SEWER — The extension from the building drain to the public sewer or other place of disposal beginning outside the inner face of the building wall.</text>
+      <text>DISCHARGE PERMIT — The permit issued which establishes effluent limitation and monitoring requirements for the wastewater treatment facility.</text>
+      <text>GARBAGE — The residue from the preparation, cooking, and dispensing of food and from the handling, storage, and sale of food products and produce.</text>
+      <text>INDUSTRIAL WASTE — The wastewater from industrial process, trade, or business, as distinct from sanitary sewage, including cooling water and the discharge from sewage pretreatment facilities.</text>
+      <text>PERSON — Any and all persons, including any individual, firm, company, municipal or private corporation, association, society, institution, enterprise, governmental agency, or other entity.</text>
+      <text>pH — The logarithm of the reciprocal of the hydrogen-ion concentration. The concentration is the weight of the hydrogen-ions in grams per liter of solution. Neutral water, for example, has a pH value of seven and hydrogen-ion concentration of 10-7.</text>
+      <text>SANITARY SEWER — A sewer that carries liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions, together with minor quantities of groundwater, stormwater and surface water that are not admitted intentionally.</text>
+      <text>SHOCK — Any discharge of water or wastewater which in concentration of any given constituent or in quantity of flow exceeds for any period of duration longer than 15 minutes more than five times the average twenty-four-hour concentration of flows during normal operation and shall adversely affect the system and/ or performance of the wastewater treatment works.</text>
+      <text>STANDARD METHODS — The examination and analytical procedures set forth in the most recent edition of Standard Methods for the Examination of Water and Wastewater published jointly by the American Public Health Association, the American Water Works Association, and the Water Environment Federation.<fn path="|II|§495-23|footnotes|20">20</fn></text>
+      <text>STORM DRAIN (sometimes termed "storm sewer") — A drain or sewer for conveying water, groundwater, subsurface water or unpolluted water from any source.</text>
+      <text>SUSPENDED SOLIDS — Solids that either float on the surface of or are in suspension in water, wastewater, or other liquids and that are removable by laboratory filtering as prescribed in Standard Methods for the Examination of Water and Wastewater and referred to as "nonfilterable residue."</text>
+      <text>WASTEWATER — The spent water of a community. From the standpoint of source, it may be a combination of the liquid and water-carried wastes from residences, commercial buildings, industrial plants, and institutions; together with any groundwater, surface water, and stormwater that may be present but not intentionally admitted.</text>
+      <text>WASTEWATER TREATMENT WORKS — An arrangement of devices and structures for treating wastewater, industrial wastes, and sludge. Sometimes used as synonymous with "waste treatment."</text>
+      <text>WATERCOURSE — A natural or artificial channel for the passage of water, either continuously or intermittently.</text>
+      <footnotes>
+        <footnote>
+          <num>20</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-24</num>
+      <heading>Management of sewer system.</heading>
+      <text>The management, operation, and control of the sewer system for the Menominee Indian Tribe are vested in the Menominee Tribal Legislature acting through the Menominee Department of Tribal Utilities. All records, minutes and all written proceedings thereof shall be kept by the Chairperson of the Menominee Tribal Legislature and the Director of the Department of Tribal Utilities. The financial records of the Department of Tribal Utilities shall be kept by the Director of the Department of Tribal Utilities and the Director of the Department of Finance.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-25">
+      <prefix>§</prefix>
+      <num>495-25</num>
+      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn proof="needed" path="|II|§495-25|footnotes|21">21</fn></heading>
+      <text>The Department of Tribal Utilities of the Menominee Indian Tribe shall have the power to construct sewer lines for public use and shall have the power to lay sewer pipes in and through the alleys, streets, and public grounds of the Menominee Indian Tribe and, generally, to do all such work as may be found necessary or convenient in the management of the sewer system. The Menominee Department of Tribal Utilities shall have the power by itself, its agents, servants and employees to enter upon any land for the purpose of making examination or supervise in the performance of their duties under <cite path="|II|495|II">this article</cite> without liability therefor, and the Menominee Tribal Legislature shall have the power to purchase and acquire for the Department of Tribal Utilities all real and personal property which may be necessary for construction of the sewer system or for any repair, remodeling, or additions thereto.</text>
+      <footnotes>
+        <footnote>
+          <num>21</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-26</num>
+      <heading>Condemnation of real estate.</heading>
+      <text>Whenever any real estate or any easement therein, or use thereof, shall in the judgment of the Menominee Tribal Legislature be necessary to the sewer system and whenever, for any cause, an agreement for the purchase thereof cannot be made with the owner thereof, the Menominee Tribal Legislature shall proceed with all necessary steps to take such real estate easement or use by condemnation in accordance with the laws of the Menominee Tribe and, if federal funds are used, in accordance with the Uniform Relocation and Real Property Acquisition Policy Act of 1970.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-27</num>
+      <heading>Title to real estate and personalty.</heading>
+      <text>All property, real, personal, and mixed, acquired for the construction of the sewer system and all plans, specifications, diagrams, papers, books and records connected with said sewer system and all buildings, machinery, and fixtures pertaining thereto shall be the property of the Menominee Indian Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-28</num>
+      <heading>User rules and regulations.</heading>
+      <text>The rules, regulations, and sewer rates of the Menominee Department of Tribal Utilities of the Menominee Indian Tribe hereinafter set forth shall be considered a part of the contract with every person, company or corporation who or which is connected with the sewer system of the Menominee Tribe, and every such person, company, or corporation by connecting with the sewer system shall be considered as expressing his or its assent to be bound thereby. Whenever any of said rules and regulations, or such others as said Department of Tribal Utilities of the Menominee Tribe may hereafter adopt, are violated, the service shall be shut off from the building or place of such violation (even though two or more parties are receiving service through the same connection) and shall not be reestablished except by order of the Director of Tribal Utilities and on payment of all arrears and the expenses and established charges of shutting off and putting on and such other terms as the Director of Tribal Utilities shall determine, and a satisfactory understanding with the party that no further cause for complaint shall arise. In case of such violation, said Director of Tribal Utilities, furthermore, may declare any payment made for the service by the party or parties committing such violation to be forfeited, and the same shall thereupon be forfeited. The right is reserved to the Menominee Department of Tribal Utilities with approval from the Menominee Tribal Legislature by motion to change said rules, regulations, and sewer rates from time to time as it may deem advisable and to make special rates and contracts in all proper cases.</text>
+      <para>
+        <num>A.</num>
+        <text>Plumbers. No plumber, pipe fitter, or other person will be permitted to do any plumbing or pipe fitting work in connection with the sewer system without first receiving written permission from the Menominee Department of Tribal Utilities.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Users.</text>
+        <para>
+          <num>(1)</num>
+          <text>Application for service.</text>
+          <para>
+            <num>(a)</num>
+            <text>Every person connecting with the sewer system shall file an application in writing with the Department of Tribal Utilities on such form as is prescribed for that purpose. Blanks for such applications will be furnished at the Office of Tribal Utilities. The application must state fully and truly all the uses which will be allowed except upon further application and permission regularly obtained from said Department. If the applicant is not the owner of the premises, the written consent of the owner must accompany the application. The application may be for service to more than one building, or more than one unit of service through one service connection, and in such case charges shall be made accordingly.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If it appears that the service applied for will not provide adequate service for the contemplated use, the Department of Tribal Utilities may reject the application. If the Department of Tribal Utilities shall approve the application, it shall issue a permit for the services as shown on the application.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Payment for connection application. Prior to the issuance of the application for service all users shall pay the connection fee listed in the Schedule of Rates and Fees of the Menominee Department of Tribal Utilities.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tap permits. After sewer connections have been introduced into any building or upon any premises, no plumber shall make any alterations, extensions, or attachments unless the party ordering such tapping or other work shall exhibit the proper permit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>User to keep in repair. All users shall keep their own service pipes in good repair and protected from frost, at their own risk and expense, and shall prevent any unnecessary overburdening of the sewer system.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>User use only. No user shall allow others or other services to connect to the sewer system through his or its lateral.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>User to permit inspection. Every user shall permit the Department of Tribal Utilities and its employees or authorized agents, at all reasonable hours of the day, to enter his or its premises or building to examine the pipes and fixtures and the manner in which the drains and sewer connections operate, and the user must at all times, frankly and without concealment, answer all questions put to him or it relative to its use.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Responsibility. It is expressly stipulated that no claim shall be made against the Menominee Tribe or the Menominee Department of Tribal Utilities, or any officers, employees or agents thereof, by reason of the breaking, clogging, stoppage or freezing of any service pipes, nor from any damage arising from repairing mains, making connections or extensions or any other work that may be deemed necessary. The right is hereby reserved to cut off the service at any time for the purpose of repairs or any other necessary purpose, any permit granted or regulation to the contrary notwithstanding. Whenever it shall become necessary to shut off the sewer service, the Department of Tribal Utilities shall, if practicable, give notice to each and every user affected of the time when such service will be so shut off.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-29</num>
+      <heading>Excavations.</heading>
+      <text>In making excavations in streets or highways for laying service pipe or making repairs, the paving and earth removed must be deposited in a manner that will occasion the least inconvenience to the public. No person shall leave any such excavation made in any street or highway open at any time without barricades, and during the night warning lights must be maintained at such excavations. In refilling the opening after the service pipes are laid, the earth must be laid in layers of not more than nine inches in depth and each layer thoroughly compacted to prevent settling. No opening of the streets for tapping the pipes will be permitted when the ground is frozen.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-30</num>
+      <heading>Tapping mains or collection pipes.</heading>
+      <text>No person, except those having special permission from the Department of Tribal Utilities, will be permitted under any circumstances to tap the mains or collection pipes. The kind and size of the connection with the pipe shall be that specified in the permit or order.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-31</num>
+      <heading>Installation of house laterals.</heading>
+      <text>All service pipes (laterals) on private property will be installed in accordance with State of Wisconsin Administrative Code Chapter Comm 82, Design, Construction, Installation, Supervision and Inspection of Plumbing. All building sewers under construction will be inspected by a designated representative of the Department of Tribal Utilities. The building sewers and/or private interceptor main sewers shall be inspected upon completion of placement of the pipe and before backfilling and tested before or after backfilling. Any sewer that is backfilled prior to inspection shall be reexcavated to allow said inspection at the owner's expense.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§495-32">
+      <prefix>§</prefix>
+      <num>495-32</num>
+      <heading>Septic tank and holding tank disposal.<fn proof="needed" path="|II|§495-32|footnotes|22">22</fn></heading>
+      <text>No person in the business of gathering and disposing of septic tank sludge or holding tank sewage shall transfer such material into any disposal area or sewer manhole on the Menominee Reservation without permission of the Menominee Department of Tribal Utilities.</text>
+      <footnotes>
+        <footnote>
+          <num>22</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-33</num>
+      <heading>Sewer user charge system.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be the policy of the Menominee Department of Tribal Utilities to obtain sufficient revenues to pay the cost of the annual debt retirement payment on any bonded indebtedness, any required cash reserve account payment, and operation and maintenance of the sewage works, including a replacement fund, through a system of user charges defined in this section. The system shall assure that each user of the sewage works pays a proportionate share of the cost of such works.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All sewer users shall be classified by the Department of Tribal Utilities as residential, commercial, or industrial customers.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>User charges shall consist of a minimum quarterly billing, on the basis of user charge factors, and a unit price per volume of water utilized, or flat rate.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Users shall be charged in accordance with the Schedule of Rates and Fees of the Menominee Department of Tribal Utilities which is approved by the Menominee Tribal Legislature by motion. Said Schedule of Rates and Fees shall be reviewed not less than biannually. Such review shall be performed by the Menominee Department of Tribal Utilities. User charges shall be adjusted, as required, to reflect actual number and size of users and actual costs, and any changes shall become effective when approved by the Menominee Tribal Legislature by motion.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>All revenues collected will be applied to operation, maintenance, and replacement costs for the next year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-34</num>
+      <heading>Mandatory hookup.</heading>
+      <text>The owner of each parcel of land adjacent to a sewer main on which there exists a building usable for human habitation or in a block through which such system is extended shall connect to such system within 30 days of notice in writing from the Department of Tribal Utilities. Upon failure to do so, the Department of Tribal Utilities may cause such connection to be made and bill the property owner for such costs. If such costs are not paid within 30 days, a penalty for the period that the violation continues in the amount of $100 per month for each residential unit equivalent shall be payable quarterly for the period in which the failure to connect continues. <cite path="|II|495|II">This article</cite> ordains that the failure to connect to the sewer system is contrary to the minimum health standards of the Menominee Indian Tribe and fails to assure preservation of public health, comfort, and safety of the community and constitutes a public nuisance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-35</num>
+      <heading>Maintenance of services.</heading>
+      <text>The Department of Tribal Utilities shall maintain the sewer service from the street main to the property line and including all controls between the same without expense to the property owner, except when it is damaged as a result of negligence or carelessness on the part of the property owner, a tenant, or an agent of the owner, in which case it will be repaired at the expense of the property owner. All sewer service from the point of maintenance by the system to and throughout the premises must be maintained free of defective conditions by and at the expense of the owner or occupant of the property. When any sewer service is to be relaid and there are two or more buildings on such service, each building shall be disconnected from such service and a new sewer service shall be installed for each building.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-36</num>
+      <heading>Penalty for improper use.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be unlawful for any person to wilfully injure the sewer system, or any building, machinery, or fixture pertaining thereto, or to wilfully and without authority of the Department of Tribal Utilities bore or otherwise cause to leak any tunnel, aqueduct, reservoir, pipe or other thing used in the system for holding, conveying, or collecting sewage.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>It shall be unlawful for any person to introduce sewage into the system which shows an excess of BOD or suspended solids concentration over normal domestic sewage. A surcharge shall be based on the excess of BOD or suspended solids at the per-pound rate listed in the Schedule of Rates and Fees of the Menominee Department of Tribal Utilities. The Department of Tribal Utilities reserves the right to test the sewage at any point within the connection system of the user or consumer. A user may not use dilution as a means to achieve a lower concentration of BOD or suspended solids. Users discharging toxic pollutants shall pay for any increased operating and maintenance or replacement costs caused by the toxic pollutants.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No user shall discharge or cause to be discharged any of the following described liquids or solid wastes to any sanitary sewer:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any stormwater, surface water, groundwater, roof runoff or surface drainage.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any gasoline, benzene, naphtha, fuel oil, or other flammable or explosive liquid, solid or gas.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any ashes, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood, paunch manure, or any other solid or sticky substance capable of causing obstruction of the flow in sewers or other interference with the proper operation of the sewage works.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any water or wastes containing a toxic or poisonous substance in sufficient quantity to injure or interfere with any sewage treatment process, constituting a hazard to humans and animals, or create any hazard in the receiving treatment facility.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any water or wastes containing suspended solids of such character and quantity that unusual attention or expense is required to handle such material at the sewage treatment plant.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any noxious or malodorous gas or substance capable of creating a public nuisance.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any garbage that has not been properly shredded.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any liquid or vapor having a temperature higher than 150° F.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any water or wastes which may contain more than 100 parts per million by weight of fat, oil, or grease.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any water or wastes having pH lower than 5.5 or higher than 9.0 or having any corrosive property capable of causing damage or hazard to structures, equipment, and personnel of the sewage works.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-37</num>
+      <heading>Damage recovery.</heading>
+      <text>In addition to any other penalty provided by <cite path="|II|495|II">this article</cite> or other law, the Department of Tribal Utilities shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties imposed on the Tribe due to a violation of <cite path="|II|495|II">this article</cite> or other law, correction of conditions impairing the proper operation of the sewer system and the repair or replacement of any sewer pipe or other property of the sewer system damaged in any manner by any negligent or intended act or omission by such persons or by others under their control.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-38</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who shall violate any of the provisions of <cite path="|II|495|II">this article</cite> or rules or regulations of the Department of Tribal Utilities or who shall connect a service pipe without first having obtained a permit therefor shall, upon conviction thereof, forfeit not less than $50 nor more than $500 and the costs of prosecution. This, however, shall not bar the Department of Tribal Utilities from enforcing the connection duties set out in</text>
+      <text><cite path="§495-34">§ 495-34</cite> for mandatory hookup.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-39</num>
+      <heading>Septic tanks prohibited.</heading>
+      <text>The maintenance and use of septic tanks and other private sewage disposal systems within the area of the Menominee Reservation serviced by its sewer system are hereby declared to be a public nuisance and a health hazard. From and after May 1, 2003, the use of septic tanks or any private sewage disposal system within the area of the Menominee Reservation serviced by the sewage disposal system is prohibited.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-40</num>
+      <heading>Vacating premises and discontinuation of service.</heading>
+      <text>Whenever premises served by the system are to be vacated, or whenever any person desires to discontinue service from the system, the Department of Tribal Utilities must be notified in writing. The owner of the premises shall be liable for any damages to the property or such damage which may be discovered as having occurred to the property of the system other than through the fault of the system or its employees, representatives, or agents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>495-41</num>
+      <heading>Unit of service defined.</heading>
+      <text>A unit of service shall consist of any residential, commercial, industrial, or charitable aggregation of space or area occupied for a distinct purpose, such as a residence, apartment, flat, store, office, industrial plant, church, or school. Each unit of service shall be regarded as one consumer. Suites in houses, or apartments with complete housekeeping functions (such as cooking), shall be classed as apartment houses; thus houses and apartments having suites of one, two, or more rooms with toilet facilities but without kitchens for cooking are classed as rooming houses. When a consumer's premises has several buildings for which services are eligible and such buildings are used in the same business and connected by the user, the Department of Tribal Utilities shall set a separate rate for such complex.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

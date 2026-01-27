@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|285">
+  <prefix>Chapter</prefix>
+  <num>285</num>
+  <heading>CIVIL DISORDERLY CONDUCT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-3-2015 by Ord. No. 14-30. Amendments noted where applicable</annotation>
+    <annotation type="General References">Dogs — See <cite path="|II|255|I">Ch. 255, Art. I</cite>. Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+    <annotation type="General References">Noise — See <cite path="|II|429">Ch. 429</cite>.</annotation>
+    <annotation type="General References">Vehicles and traffic — See <cite path="|II|550">Ch. 550</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>285-1</num>
+    <heading>Purpose.</heading>
+    <text><cite path="|II|285">This chapter</cite> defines and prohibits civil disorderly conduct within the exterior bounds of the Menominee Indian Reservation and prescribes penalties for civil disorderly conduct within the reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-2</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|285">This chapter</cite> shall be known and may be cited as "Civil Disorderly Conduct Code."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-3</num>
+    <heading>Prohibited acts.</heading>
+    <text>No person shall act in a civil disorderly manner on the Menominee Reservation. For the purpose of <cite path="|II|285">this chapter</cite>, a person acts in a civil disorderly manner when the person does any act or engages in any practice hereinafter listed, or aids and abets any person who does any such act or engages in any such practice hereinafter listed. For purpose of <cite path="|II|285">this chapter</cite>, "person" includes any individual, firm, partnership, association, corporation, company or organization of any kind.</text>
+    <para>
+      <num>A.</num>
+      <text>No person shall, in a public or private place, engage in any one or more of the following types of behavior: violent, abusive, indecent, profane, boisterous, unreasonable, loud, or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No person shall make, aid, give countenance to or assist in making any improper noise or disturbance which is unreasonably loud, raucous, or a nuisance to persons within the area of audibility.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No person shall keep, harbor, or have charge of any dog which, by loud barking, howling or yelping, has become a nuisance in the vicinity where kept or harbored. A complaint regarding <cite path="§285-3|C.">this subsection</cite> must be made by at least two persons in separate households in the vicinity where the dog is kept or harbored.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No person shall at any time or place within the Reservation permit or engage in the playing or use of any electronic sound-producing device in such a manner or with such a volume which is unreasonably loud, raucous or a nuisance to persons within the area of audibility. For the purpose of <cite path="§285-3|D.">this subsection</cite>, the term "electronic sound-producing device" shall include any radio, phonograph, stereo, television set, amplified musical instrument, loud speaker, tape or cassette recorder, compact disc player, MP3 player, or any other similar device.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>No person shall, with a motor vehicle, including, but not limited to, an automobile, truck, motorcycle, minibike, all-terrain vehicle, utility-terrain vehicle, or snowmobile, engage in violent, abusive, unreasonably loud, or otherwise disorderly conduct, including, but not limited to, unnecessary, deliberate, or intentional: spinning of wheels, squealing of tires, revving of engine, blowing the horn, causing the engine to backfire, or causing the vehicle, while commencing to move or in motion, to raise one or more wheels off the ground.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>No person shall loiter, sit, walk or stand upon any street, sidewalk, or other public place, when such conduct impedes or tends to impede the passage of pedestrians or vehicles, and when the person has been ordered to move on by a law enforcement officer.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>No person shall fail to disperse or refuse to withdraw from an unlawful assembly which the person knows has been ordered dispersed. For the purposes of <cite path="|II|285">this chapter</cite>, an unlawful assembly is an assembly which consists of three or more persons and which causes such a disturbance of public order that it is reasonable to believe that the assembly will cause injury to persons or damage to property unless it is immediately dispersed, and has been ordered by law enforcement officer to disperse. It includes: an assembly of persons who assemble and block or obstruct the lawful use by any other person or persons of any private or public thoroughfare, property or of any positions of access or exit to and from any private or public building or dwelling place, or any portion thereof, and which assembly does in fact so block or obstruct the lawful use by any other person or persons of any such private or public thoroughfare, property or any position or exit to or from any private or public building, dwelling or any portion thereof.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-4</num>
+    <heading>Violations and penalties.</heading>
+    <text>In addition to other charges, fines or penalties for which a person may be liable under the Code of the Menominee Indian Tribe of Wisconsin, any violation of <cite path="|II|285">this chapter</cite>/section shall constitute a civil infraction. A person who commits a civil infraction shall be subject to enforcement procedures as set forth in <cite path="|I|132">Chapter 132</cite>, Law Enforcement, Article V, Civil Remedial Forfeitures, §<cite path="§132-25">§ 132-25</cite> to 132-27, and subject to a penalty as described below. Each day during which any violation of <cite path="|II|285">this chapter</cite> continues shall be deemed a separate and distinct offense. Increased civil fines may be imposed for repeat violations of <cite path="|II|285">this chapter</cite>; a repeat violation means a second or subsequent civil infraction violation committed by a person within any twelve-month period and for which a person admits responsibility or is determined to be responsible. The civil penalty for violations of <cite path="|II|285">this chapter</cite> shall be as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>The fine for any first offense described in <cite path="§285-3">§ 285-3</cite> shall be $100 plus court costs; other sanctions may apply as determined by the judge, and, at the discretion of the court, the fine may be substituted for court-approved community service;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The fine for any offense which is a repeat offense or any subsequent repeat offense described in <cite path="§285-3">§ 285-3</cite> shall be not less than $150 nor more than $500, plus court costs; other sanctions may apply as determined by the judge, such as mitigation; the court may substitute court-approved community service for no more than 1/2 the amount of the fine.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-5</num>
+    <heading>Enforcement.</heading>
+    <text>All Menominee tribal police officers and Conservation Officers are hereby designated as authorized officials to issue civil infraction citations.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-6</num>
+    <heading>Captions.</heading>
+    <text>The captions used in the chapter are used for convenience only and in no way are intended to expand, modify, or limit the meaning of the sections to which they refer.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-7</num>
+    <heading>Severability.</heading>
+    <text><cite path="|II|285">This chapter</cite> and the various parts, sections, subsections, sentences, phrases, clauses hereof are hereby declared to be severable. If any part, section, subsection, sentence, phrase, clause is adjudged unconstitutional or invalid, it is hereby declared that the remainder of <cite path="|II|285">this chapter</cite> shall not be affected.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-8</num>
+    <heading>Repealer.</heading>
+    <text>Upon enactment of <cite path="|II|285">this chapter</cite>, these sections of the Code of the Menominee Indian Tribe of Wisconsin are hereby repealed: §<cite path="§250-4">§ 250-4</cite>, 290-13, 429-3, and 429-4.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>285-9</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|285">This chapter</cite> shall take effect upon final approval by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

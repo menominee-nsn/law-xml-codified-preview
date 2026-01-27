@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|450">
+  <prefix>Chapter</prefix>
+  <num>450</num>
+  <heading>PROBATE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 1-2-2020 by Ord. No. 19-28. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>450-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|450">this Chapter 450</cite>, Probate, is to create a tribal law providing summary procedures for transfer of property upon death.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-2</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>LEASE — Any written agreement granting a person a right to use trust land, including, but not limited to, residential leases between the Tribe and an individual, and ninety-nine-year permits entered into prior to land becoming trust land.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>ESTATE — The property, both real and personal, of a decedent that is subject to transfer through <cite path="|II|450">this Chapter 450</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>INTERESTED PERSON —</text>
+      <para>
+        <num>(1)</num>
+        <text>An heir of the decedent.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A beneficiary named in any document offered for probate as the will of the decedent and includes a person named or acting as a trustee of any trust, named as a beneficiary.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person named as personal representative in any document offered for probate as the will of the decedent.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Tribe if a lease is part of the estate.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Additional persons as the court by order includes as "interested persons."</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>COURT — Menominee Tribal Court.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>REAL ESTATE OFFICE — The Community Development Department of the Tribe, or any other department of the Tribe designated by the Tribal Legislature to manage leases.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>CLAIMS — Claims against the estate and includes those claims listed in <cite path="§450-3|G">§ 450-3G</cite> and claims made by creditors.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>ISSUE — Children, grandchildren, great-grandchildren, and lineal descendants of more remote degrees, including those who occupy that relation by reason of adoption under and nonmarital children and their lineal descendants.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>PER STIRPES — In equal shares to each member of a specified class with the share of a deceased member divided proportionately among his or her beneficiaries.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>TRUST LAND — Land owned by the United States of America in trust for the Tribe.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>HEIR — Any person, including the surviving spouse, who is entitled under intestate succession to an interest in property of a decedent.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>WILL — A written statement made by the decedent when of sound mind and over 18 years of age, signed by the decedent in the presence of two witnesses who also sign the statement which is intended to dispose of the decedent's property upon death, and which has not been revoked by the decedent in writing.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-3</num>
+    <heading>Summary settlement of estates.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability. The court shall summarily assign the estate of a deceased person without the appointment of a personal representative if the estate, less the amount of the debts for which any property in the estate is security, does not exceed $200,000. Leases eligible for transfer pursuant to <cite path="|II|451">Chapter 451</cite> are not part of the estate of the deceased person and not subject to transfer under this section. Leases not eligible for transfer pursuant to <cite path="|II|451">Chapter 451</cite> are part of the estate and may be transferred under this section.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Procedure.</text>
+      <para>
+        <num>(1)</num>
+        <text>Who may petition.</text>
+        <para>
+          <num>(a)</num>
+          <text>Any interested person.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If no interested person has petitioned within 30 days after the death of the decedent, petition for summary assignment of the estate may be made by any person who was guardian of the decedent at the time of the decedent's death, any creditor of the decedent, or anyone who has an interest in property which is or may be a part of the estate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Petition contents. The petition shall contain the following information, except that the petitioner may omit from the petition the information in <cite path="§450-3|B|(2)(c)">Subsection B(2)(c)</cite> and (d) and include it in an affidavit filed with the court prior to the signing of the order assigning the estate:</text>
+        <para>
+          <num>(a)</num>
+          <text>A statement that the estate does not exceed $200,000 in value.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A statement as to whether, after the exercise of reasonable diligence, the petitioner has been able to locate the will of the decedent.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A detailed statement of all property subject to summary assignment, including any encumbrance, lien, or other charge upon each item. If a lease is included as part of the property subject to summary assignment, the petitioner must include written notice from the Tribe that the lease is not eligible for transfer pursuant to <cite path="§451-5">§ 451-5</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The names and post-office addresses of all creditors of the decedent or the decedent's estate of whom the petitioner has knowledge and the amount claimed by each.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The names and post-office addresses of all interested persons and their relationship to the decedent, so far as known to the petitioner or ascertainable by the petitioner with reasonable diligence. The petition shall indicate those who are minors or otherwise under disability and the names and post-office addresses of their guardians.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Will. The will of the decedent, if any, shall be filed with the petition.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Bond. Before making any order, the court may require a bond of the petitioner in an amount the court deems sufficient, conditioned to indemnify any person who may be aggrieved by the order. Before assigning property, the court may require assignees to give bond for the satisfaction of their liability to creditors or persons interested in the estate.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Notice. As soon as practicable after filing the petition with the court, the petitioner shall give notice by certified mail to the persons listed in Subsection B2(d) and (e) and shall publish notice pursuant to <cite path="§450-3|I">Subsection I</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Order. If the court is satisfied that the estate may be settled by this section, after filing of the petition and after 30 days have elapsed since notice under <cite path="§450-3|B|(5)">Subsection B(5)</cite>, it shall decide all claims in accordance with <cite path="§450-3|G">Subsection G</cite>, and assign the property to the creditors and persons who are entitled to it pursuant to a will, if any, or, in the absence of a will, pursuant to the rules of intestate succession pursuant to <cite path="§450-3|H">Subsection H</cite>. The assignment shall be subject to the unknown rights of creditors of the estate and interested persons as limited in <cite path="§450-3|F">Subsection F</cite>. The court shall order any person indebted to or holding money or other property of the decedent to pay the indebtedness or deliver the property to the persons found to be entitled to receive it. It shall order the transfer of interests in real estate, stocks or bonds registered in the name of the decedent, the title of a licensed motor vehicle or any other form of property. If the decedent immediately prior to death had an estate for life or an interest as a joint tenant in any property in regard to which a certificate of termination has not been issued, the order shall set forth the termination of the life estate or the right of survivorship of any joint tenant. Every tract of real property in which an interest is assigned or terminated or which is security for a debt in which an interest is assigned or terminated shall be specifically described.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Recording required. Whenever the order relates to an interest in real property or to a debt which is secured by an interest in real property, a certified copy or duplicate original of the order shall be recorded by the petitioner in the office of the register of deeds in each county in which the real property is located, and, in regard to any lease, with the real estate office of the Tribe.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notice of order. The petitioner shall mail or deliver a copy of the order to all interested persons whose post-office address is known to the petitioner or can with reasonable diligence be ascertained. The petitioner shall publish a notice pursuant to <cite path="§450-3|J">Subsection J</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Release of liability of transferor. Upon the payment, delivery, transfer or issuance in accordance with the order of the court, the persons making the payment, delivery, transfer or issuance are released from liability for such transfer.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Rights of creditors and interested persons; statutes of limitation. Creditors and interested persons who were not assigned the property to which they were entitled from the estate may recover against those assignees, or their respective bondsmen whose assigned shares have been increased by reason of the fact that the creditor or person interested was not assigned the share of the estate to which the creditor or person interested was entitled. No assignee or assignee's bondsman shall be liable for an amount greater than the value of the property which was assigned to the assignee from the estate, the value to be determined as of the time of the assignment. No action for the recovery of any property assigned in the proceeding or for the value of such property shall be brought by any creditor more than three months after the publication pursuant to <cite path="§450-3|J">Subsection J</cite>. No action for the recovery of any property assigned in the proceeding or for the value of such property may be brought by any person interested more than three months after a copy of the order assigning the estate was mailed or delivered to the person, or, if the person's name or post-office address could not have been ascertained by the exercise of reasonable diligence on the part of the petitioner, then more than three months after publication of notice pursuant to <cite path="§450-3|J">Subsection J</cite>.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Priority of payments. If the applicable assets of the estate are insufficient to pay all claims, payment shall be made in the following order:</text>
+      <para>
+        <num>(1)</num>
+        <text>Costs and expenses of administration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reasonable funeral and burial expenses.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provisions for the family of the decedent.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reasonable and necessary expenses of the last sickness of the decedent, including compensation of the person attending the decedent.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All debts, charges or taxes owing the Menominee Indian Tribe of Wisconsin or the United States.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Wages, including pension, welfare and vacation benefits, due to employees of the decedent which have been earned within three months before the date of the death of the decedent, not to exceed $300 in value to each employee.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Property assigned to the surviving spouse.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>All other claims allowed.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Basic rules for intestate succession. Any part of the net estate of a decedent that is not disposed of by will passes to the decedent's surviving heirs as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>To the spouse.</text>
+        <para>
+          <num>(a)</num>
+          <text>If there are no surviving issue of the decedent, or if the surviving issue are all issue of the surviving spouse and the decedent, the entire estate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If there are surviving issue one or more of whom are not issue of the surviving spouse, 1/2 of decedent's property other than the following property:</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>[1]</num>
+      <text>The decedent's interest in marital property.</text>
+      <para>
+        <num>[2]</num>
+        <text>The decedent's interest in property held equally and exclusively with the surviving spouse as tenants in common.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To the issue, per stirpes, the share of the estate not passing to the spouse under <cite path="§450-3|H|(1)">Subsection H(1)</cite>, or the entire estate if there is no surviving spouse.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If there is no surviving spouse, or issue, to the parents.</text>
+      <para>
+        <num>(4)</num>
+        <text>If there is no surviving spouse, issue, or parent, to the brothers and sisters and the issue of any deceased brother or sister per stirpes.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If there is no surviving spouse, issue, parent, or issue of a parent, to the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Publication of notice of petition. The petitioner shall publish in the Menominee Nation News a notice that states:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the decedent and the date of the decedent's death;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the petitioner and the date on which the petitioner filed a petition for summary settlement of the decedent's estate;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>That any creditor or other person that may be interested in the estate of the decedent should notify the court of any amount owed or interest in the estate within 30 days of the date of publication.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Publication of notice of assignment. The petitioner shall publish in the Menominee Nation News a notice that states:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of all persons receiving an assignment of the decedent's property pursuant to an assignment order issued under <cite path="|II|450">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No action for the recovery of any property assigned in the proceeding or for the value of such property shall be brought by any creditor more than three months after the date of publication. No action for the recovery of any property assigned in the proceeding or for the value of such property may be brought by any person interested more than three months after a copy of the order assigning the estate was mailed or delivered to the person, or, if the person's name or post-office address could not have been ascertained by the exercise of reasonable diligence on the part of the petitioner, then more than three months after a copy of the order assigning the estate was mailed or delivered to any person interested.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-4</num>
+    <heading>Transfer by affidavit.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability. When a decedent's estate, less the amount of the debts for which any property in the estate is security, does not exceed $50,000 in value, any interested person may collect any money due the decedent, receive the property of the decedent, and have any evidence of interest, obligation to, or right of the decedent transferred to the affiant if the interested person provides to the person owing the money, or having custody of the property, an affidavit showing all of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A description of and the value of the property to be transferred.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The total value of the decedent's property in the estate at the date of the decedent's death.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Exceptions.</text>
+      <para>
+        <num>(1)</num>
+        <text>No lease shall be subject to transfer by affidavit under this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No money due the decedent, the property of the decedent, or any evidence of interest, obligation to, or right of the decedent may be transferred by affidavit under this section if a person receives multiple affidavits for the same decedent.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Real property; notice. If the affidavit describes an interest in or lien on real property, other than property referenced in <cite path="§450-4|B|(1)">subsection B(1)</cite> at least 30 days before submitting the affidavit to an office of register of deeds, the heir, trustee, or person who was a guardian of the decedent at the time of the decedent's death shall provide to the decedent's heirs a copy of the affidavit and notice that the heir, trustee, or person who was a guardian intends to record the affidavit in the office of the register of deeds in each county in this state in which the real property is located. The heir, trustee, or person who was a guardian of the decedent at the time of the decedent's death shall give the notice required under <cite path="§450-4|C.">this subsection</cite> by certified mail or by personal service.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Release of liability of transferor. Upon the transfer to the affiant at least 30 days after receipt of the affidavit, the transferor is released from liability.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Obligation of affiant. By accepting the decedent's property under this section, the affiant assumes a duty to apply the property transferred for the payment of obligations according to priorities established under <cite path="§450-3|G">§ 450-3G</cite> and to distribute any balance to those persons designated in the appropriate will or, if there is no will, according to the rules of intestate succession under <cite path="§450-3|H">§ 450-3H</cite>. An affiant may publish a notice to creditors in the same manner and with the same effect as under <cite path="§450-3|J">§ 450-3J</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Recording of affidavit. If an affidavit under this section describes an interest in or lien on real property, the affiant shall submit for recording in the office of the register of deeds in each county in this state in which the real property is located a certified copy or duplicate original of the affidavit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-5</num>
+    <heading>Payment of decedent's wages by an employer directly to the decedent's dependents.</heading>
+    <text>In case of the death of an employee to whom wages are due, the full amount of the wages due shall upon demand be paid by the employer to the spouse if living, or, if the spouse is not living, to a child of the employee, or, in the case of a minor child, to said minor's parent or guardian. The making of payment in the manner described in <cite path="§450-5">this subsection</cite> shall discharge and release the employer to the amount of the payment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-6</num>
+    <heading>Termination of joint tenancy and life estate.</heading>
+    <text>If a person dies who immediately prior to death had an estate for life or an interest as a joint tenant in any property, other than a lease, the court shall issue a certificate, under the seal of the court. The certificate shall set forth the fact of the death of the life or joint tenant, the termination of the life estate or joint tenancy interest, the right of survivorship of any joint tenant and any other facts essential to a determination of the rights of persons interested. The certificate is prima facie evidence of the facts recited, and if the certificate relates to an interest in real property or to a debt that is secured by an interest in real property, a certified copy or duplicate original of the certificate shall be recorded by the petitioner in the office of the register of deeds in each county in this state in which the real property is located.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-7</num>
+    <heading>Limitation on creditors.</heading>
+    <text>The rights of creditors contained in <cite path="|II|450">this chapter</cite> apply only to, and authorize action only in, Menominee Tribal Court.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>450-8</num>
+    <heading>Alternative procedures.</heading>
+    <text>If a decedent's property is not eligible for transfer under <cite path="|II|450">this chapter</cite>, or if, upon request by petition of an interested person, the Tribal Court determines that the interest of justice requires it, the decedent's property may be transferred pursuant to Tribal Court order made in accordance with the probate laws of the State of Wisconsin pursuant to <cite path="§120-50">§ 120-50 of the Menominee Tribal Code</cite>. In no event, however, shall leases eligible for transfer pursuant to <cite path="|II|451">Chapter 451</cite> be subject to transfer under this section.</text>
+    <annotations/>
+  </section>
+</container>

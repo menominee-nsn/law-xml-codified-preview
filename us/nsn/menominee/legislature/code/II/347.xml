@@ -1,0 +1,1538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|347">
+  <prefix>Chapter</prefix>
+  <num>347</num>
+  <heading>GAMING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Menominee Indian Gaming Authority — See <cite path="|I|90|I">Ch. 90, Art. I</cite> and <cite path="|IV|660|II">Ch. 660, Art. II</cite>.</annotation>
+    <annotation type="General References">Menominee Kenosha Gaming Authority — See <cite path="|I|90|II">Ch. 90, Art. II</cite> and <cite path="|IV|660|I">Ch. 660, Art. I</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|347|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>(Reserved)<fn proof="needed" path="|II|347|I|footnotes|1">1</fn></heading>
+    <section>
+      <prefix>§§</prefix>
+      <num>347-1 through 347-11</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Former Art. I, Bingo, adopted 8-19-1982 by Ord. No. 82-12, as amended, was repealed 11-4-2010.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="II|347|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Building Codes for Gaming Facilities [Adopted 12-10-1993 by Ord. No. 93-25]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>347-12</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|347|II">This article</cite> shall be titled "Interim Class III Gaming Building Codes."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-13</num>
+      <heading>Purpose.</heading>
+      <text>Pursuant to the Gaming Compact of 1992 entered into between the Menominee Indian Tribe and the State of Wisconsin, the Menominee Indian Tribe provisionally adopts the following public health and safety regulations/statutes of the State of Wisconsin until such a time as the Menominee Indian Tribe adopts its own public health and safety codes, rules, and regulations.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-14</num>
+      <heading>Adoption of Wisconsin regulations.</heading>
+      <text>The Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law and makes applicable to Class III gaming facilities within the exterior boundaries of the Menominee Indian Reservation <cite>Ch. 101</cite>, Wis. Stats., and the administrative rules adopted thereunder, including but not limited to Chs. Comm 14 (Fire Prevention), 16 (Electrical), 28 (Smoke Detectors), 60 to 66 (Commercial Building Code), and 81 to 87 (Plumbing), Wis. Adm. Code, as amended from time to time, substituting where necessary the Tribe and its agents or agencies for the state and its agents, agencies, or subdivisions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-15</num>
+      <heading>Inspections.</heading>
+      <text>Inspections of Class III gaming facilities shall be conducted annually.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-16</num>
+      <heading>Enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text><cite path="|II|347|II">This article</cite> shall be enforced by the Menominee Tribal Environmental Services Department, which shall have the duty to make inspections, establish compliance procedures, cooperate with state-licensed inspectors hired by the Tribe and to refer violations to the Menominee Tribal Prosecutor, where appropriate, for purposes of compliance.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Menominee Tribal Prosecutor shall be responsible for prosecuting violations of <cite path="|II|347|II">this article</cite> in the Menominee Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-17</num>
+      <heading>Violations and penalties.</heading>
+      <text>Penalties incorporated in <cite>Ch. 101</cite>, Wis. Stats., and the administrative rules shall be assessed by the Menominee Tribal Court for violations; however, the Menominee Tribal Court may not impose any forfeiture or penalty greater than allowed by 25 U.S.C. § 1302 or other applicable tribal or federal law.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|347|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Gaming Code</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-20-1994 by Ord. No. 93-30; amended in its entirety 1-22-2008</annotation>
+    </annotations>
+    <section cache:ref-path="II|§347-18">
+      <prefix>§</prefix>
+      <num>347-18</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Unless a different meaning is clearly indicated, the terms used in <cite path="|II|347|III">this article</cite> shall have the same meaning as defined in the Indian Gaming Regulatory Act.<fn path="|II|§347-18|footnotes|2">2</fn></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As used in <cite path="|II|347|III">this article</cite>, the following terms shall have the meanings indicated:</text>
+        <text>CITIZENSHIP — The status of United States citizen under the laws of the United States of America.</text>
+        <text>CLASS I GAMING — Social games played solely for prizes of minimal value or traditional forms of Indian gaming engaged in by individuals as a part of, or in connection with, tribal ceremonies or celebration.</text>
+        <text>CLASS II GAMING —</text>
+        <para>
+          <num>(1)</num>
+          <text>The game of chance commonly known as "bingo" (whether or not electronic, computer, or other technologic aids are used in connection therewith):</text>
+          <para>
+            <num>(a)</num>
+            <text>Which is played for prizes, including monetary prizes, with cards bearing numbers or other designations;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In which the holder of the card covers such numbers or designations when objects, similarly numbered or designated, are shown or electronically determined; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In which the game is won only by the first person covering a previously designated arrangement of numbers or designations on such cards, including (if played in the same location) pull tabs, lotto, punch boards, lip jars, instant bingo, and other games similar to bingo; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Card games that:</text>
+          <para>
+            <num>(a)</num>
+            <text>Are explicitly authorized by the laws of the State of Wisconsin; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Are not explicitly prohibited by the laws of the State of Wisconsin and are played at any location in the State of Wisconsin, but only if such card games are played in conformity with those laws and regulations (if any) of the State of Wisconsin regarding hours or periods of operation of such card games or limitations on wagers or pot prizes in such card games.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The term "Class II gaming" does not include:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any banking card games, including baccarat, chemin de fer, or blackjack (21); or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Electronic or electromechanical facsimiles of any game of chance or slot machines of any kind.</text>
+          </para>
+          <aftertext>CLASS III GAMING — All forms of gaming that are not Class I gaming or Class II gaming.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        </para>
+        <aftertext>COMMISSION — The Menominee Tribal Gaming Commission established pursuant to this article to perform regulatory oversight and to monitor compliance with tribal, federal and applicable state regulations and the Compact and also known as the "Gaming Commission" or "Menominee Tribal Gaming Agency." Any reference to "Commission" in this article shall include the staff of the Menominee Tribal Gaming Commission.</aftertext>
+        <aftertext>COMMISSION BYLAWS — The rules governing the conduct of the Menominee Tribal Gaming Commission meetings and actions.</aftertext>
+        <aftertext>COMMISSIONER — One of the members of the Menominee Tribal Gaming Commission; also known as "Gaming Commissioner."</aftertext>
+        <aftertext>COMPLIMENTARY ITEMS — Goods or services, including but not limited to food, beverages, lodging, gift certificates, match play coupons, and merchandise, that are provided to customers of the Menominee Nation Casino, Bingo and Hotel or other gaming operations at no cost or reduced cost.</aftertext>
+        <aftertext>DE MINIMUS — Distinct complimentary items that are less than $10 in value and that in the aggregate do not exceed $100 in value annually.</aftertext>
+        <aftertext>GAMING ACTIVITY — Any of the following acts by an employee of the gaming operation:<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        <para>
+          <num>(1)</num>
+          <text>Operating, maintaining or servicing any Class I, Class II, or Class III gaming.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Providing security or surveillance over any Class I, Class II, or Class III gaming.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Handling money, chips, tokens, etc., related to Class I, Class II, or Class III gaming.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Bookkeeping and accounting related to revenues and expenses from Class I, Class II, or Class III gaming.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Drafting of policies related to the conduct of Class I, Class II, or Class III gaming.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Supervising or involved in the hiring or firing any employee engaged in a gaming activity listed Subsections (1) to (5) above.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any activity required to be regulated pursuant to the provisions of the Indian Gaming Regulatory Act.<fn path="|II|§347-18|footnotes|3">3</fn></text>
+          <text>GAMING EMPLOYEE — Any employee of the gaming operation whose duties include gaming activity and any person who meets the definition of "key employee" or "primary management official" pursuant to <cite path="|II|347">Chapter 347</cite> or the Indian Gaming Regulatory Act or regulations promulgated pursuant to the Indian Gaming Regulatory Act.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
+          <text>GAMING OPERATION — Each economic entity that is licensed by the Tribe, operates games, receives revenues, issues prizes, and pays expenses. A gaming operation may be operated by the Tribe directly or by a management contractor or by an enterprise established and owned by the Tribe for the conduct of gaming or its enterprise's management contractor.</text>
+          <text>IMMEDIATE FAMILY MEMBER — Biological or legally adopted father, mother, sister, brother, child, grandchild, grandparent; legal father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law; legal stepfather, stepmother, stepbrother, stepsister, and stepchildren; legally married spouse.</text>
+        </para>
+        <aftertext>INDIAN LAND — Any lands title to which is either held in trust by the United States for the benefit of the Menominee Indian Tribe of Wisconsin or held by the Menominee Indian Tribe of Wisconsin subject to restriction by the United States against alienation and over which the Menominee Indian Tribe of Wisconsin exercises governmental power.</aftertext>
+        <aftertext>KEY EMPLOYEE — Has the same meaning as used in Article V, Authorization of Gaming, of this chapter.</aftertext>
+        <aftertext>LEGISLATURE — The Menominee Tribal Legislature, also known as "Tribal Legislature."</aftertext>
+        <aftertext>LICENSEE — Any person who has been issued a valid and current license pursuant to the provisions of this article.</aftertext>
+        <aftertext>MANAGEMENT CONTRACT — Any contract, agreement, subcontract or collateral agreement between an Indian Tribe and a contractor or between a contractor and a subcontractor if such contract or agreement provides for the management of all or part of a gaming operation.</aftertext>
+        <aftertext>MANAGEMENT FEE — The amount paid pursuant to a management contract as determined within such contracts.</aftertext>
+        <aftertext>NET REVENUES — Gross gaming revenues of an Indian gaming operation less:</aftertext>
+        <para>
+          <num>(1)</num>
+          <text>Amounts paid out as, or paid for, prizes; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Total gaming-related operating expenses, excluding management fees.</text>
+          <text>NONGAMING ACTIVITY — All activities of the gaming operation, and its employees, that do not constitute gaming activity.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
+          <text>NONGAMING EMPLOYEE — Any employee of the gaming operation who is not a gaming employee.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
+          <text>PRIMARY MANAGEMENT OFFICIAL — Has the same meaning as used in Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite>.</text>
+          <text>REGULATION — Regulations promulgated by the Commission pursuant to <cite path="|II|347|III">this article</cite>.</text>
+          <text>TRIBAL COURT — The Tribal Court of the Menominee Indian Tribe of Wisconsin created pursuant to the Menominee Indian Tribe of Wisconsin Constitution and Bylaws and the Judiciary and Law and Order Code<fn path="|II|§347-18|footnotes|4">4</fn> and physically located on the Menominee Indian Reservation or, for the purposes of regulating any gaming conducted outside the boundaries of the Menominee Indian Reservation, a tribunal created by the Menominee Tribal Legislature for the purpose of performing the role of the Tribal Court under <cite path="|II|347|III">this article</cite>.</text>
+          <text>TRIBAL-STATE COMPACT or COMPACT or GAMING COMPACT — A written document, either negotiated and agreed to by the Tribe and an official or agent of the State of Wisconsin or prescribed by the Secretary pursuant to 25 U.S.C. § 2710(d)(7)(B)(vii), governing the conduct of Class III gaming activities on Indian lands.</text>
+          <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe; also may be referred to as "Menominee Nation."</text>
+          <text>WORKING DAYS — Monday through Friday with the exception of Menominee tribal holidays and administrative leave.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
+      </annotations>
+    </section>
+    <section cache:ref-path="II|§347-19">
+      <prefix>§</prefix>
+      <num>347-19</num>
+      <heading>Administration and enforcement; Gaming Commission.</heading>
+      <para>
+        <num>A.</num>
+        <text>Unauthorized gaming. Any Indian who commits any act of unauthorized gaming on this Reservation or any Indian land shall be guilty of a crime and shall be prosecuted in Tribal Court. Prosecution for such a crime in Tribal Court is not meant to be exclusive; a finding of guilt or innocence shall not deprive the federal government from criminal jurisdiction. However, it is hereby declared that Class I, Class II and Class III gaming conducted on this Reservation or on any Indian land that fully complies with the provisions of this code shall not be subject to any criminal penalties.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Ownership; revenues to benefit Tribe. Except for those licenses issued pursuant to <cite path="§347-20|I">§ 347-20I</cite>, the Tribe shall have the sole proprietary interest in, and the sole responsibility for, the conduct of the gaming activity. Such provision does not, however, limit the Tribe's ability to enter into a management contract wherein net profits are divided between the Tribe and other parties to the contract. A gaming establishment shall be operated so as to produce the maximum amount of net profit to the Tribe.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe's share of net revenues will go entirely to the Tribe and will be used solely for the following purposes:</text>
+          <para>
+            <num>(a)</num>
+            <text>To fund tribal government operations or programs;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To provide for the general welfare of the Tribe and its members;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To promote tribal economic development;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To donate to charitable organizations; or</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>To help fund operations of local government agencies.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Net revenues from the gaming establishment may be used to make per capita payments to members of the Tribe upon the preparation of a plan to allocate revenues to the above uses and approval of this plan by the Secretary of the Interior.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Establishment of Gaming Commission. The Menominee Tribal Gaming Commission shall consist of five members appointed by the Menominee Tribal Legislature. The Tribal Legislature shall make appropriate appointments to the Commission for three-year terms (staggered). A Commissioner shall carry over in office until such time as his or her successor is seated on the Commission.</text>
+        <para>
+          <num>(1)</num>
+          <text>Eligibility requirements for Commissioners. In order to be eligible to serve as a Gaming Commissioner, a person shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be an enrolled Menominee member;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Submit to a background investigation of the type required of a primary management official pursuant to <cite path="|II|347|III">this article</cite> and Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Not have been convicted of a felony;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Not have been convicted of any gambling-related offense or any offense involving fraud or misrepresentation;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Not currently be engaged in or have any prior activities concerning reputation, habits or associations that pose a threat to the public interest and effective regulation of gaming, as determined by the Tribal Legislature;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Submit to random and reasonable suspicion drug tests;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Not be a member of the Tribal Legislature or Tribal Gaming Management Board or employed by any gaming operation;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Not be engaged in any business that is subject to the provisions of <cite path="|II|347|III">this article</cite>;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Be at least 21 years of age; and</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Not be the immediate family member of any member of the Tribal Gaming Management Board.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Commissioner background checks. Background investigations of Gaming Commissioners shall be conducted by the Director of the Gaming Commission with any potentially disqualifying information forwarded to the Tribal Legislature. Copies of background information shall be sealed in a confidential file and kept at the Commission office.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Removal. The Tribal Legislature may remove a Gaming Commissioner by majority vote subject to failing to meet or maintain eligibility requirements as a Gaming Commissioner or for violating <cite path="§347-19|D">Subsection D</cite>, Restrictions on Commissioners, or <cite path="§347-19|D|(3)">Subsection D(3)</cite>, Commission ethics.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Vacancies. Vacancies on the Commission shall be filled by majority vote of the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Organizational meeting. In addition to any other meetings authorized by <cite path="|II|347|III">this article</cite>, the Tribal Gaming Commission shall meet following the annual appointment of Commission members by the Tribal Legislature for the purpose of electing a Chairperson and a Vice Chairperson from its membership.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Restrictions on Commissioners; ethics.</text>
+        <para>
+          <num>(1)</num>
+          <text>Members of the Gaming Commission are prohibited from gambling in a gaming operation owned or operated by the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Members of the Gaming Commission are prohibited from accepting complimentary items from gaming operations owned or operated by the Tribe, except for de minimus food, beverage or logo items.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Commission ethics. The Tribe recognizes that the duties of the Tribal Gaming Commission include making important decisions on highly sensitive issues. As such, the Tribe has determined that the Gaming Commission shall be held to extremely high ethical standards. Gaming Commissioners shall be bound by the following principles:</text>
+          <para>
+            <num>(a)</num>
+            <text>Commissioners shall not:</text>
+            <para>
+              <num>[1]</num>
+              <text>Hold financial interests that conflict with the conscientious performance of their duties as regulators.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Engage in financial transactions using nonpublic information or allow the improper use of such information by others on their behalf to further any private interest.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Solicit or accept any gift or other item of monetary value, including complimentary items, from any person or entity seeking official action or inaction from, doing business with, or conducting activities regulated by the Gaming Commission or whose interests may be substantially affected by the performance or nonperformance of the Commissioners' duties.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Use their positions for private gain.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Engage in outside employment or activities, including seeking or negotiating for future employment, which conflict with their official duties and responsibilities.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Commissioners shall:</text>
+            <para>
+              <num>[1]</num>
+              <text>Make no unauthorized commitments or promises of any kind purporting to bind the Tribe.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Act impartially, in accordance with all relevant tribal, federal, and state laws (where applicable), and shall not give preferential treatment to any private organization or individual, including to any persons related to Commissioners.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Ensure that tribal property and gaming assets shall be properly segregated and safeguarded and that such property and assets shall not be used for unauthorized activities.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Disclose waste, fraud, abuse and corruption to appropriate authorities.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Endeavor to avoid any actions creating the appearance that they are violating the law or the ethical standards listed herein.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Compensation for Commissioners. Commissioners shall be compensated at a rate to be established annually by the Commission and approved by the Tribal Legislature. Commissioners shall be reimbursed for actual expenses incurred on Commissioner business, including necessary travel expenses. In no event shall any individual Commissioner be compensated based on a percentage of net profits from gaming operations of the Tribe.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Meetings open to public. General meetings of the Commission may be open to the general membership of the Tribe. All meetings shall be governed by Robert's Rules of Order. Upon a majority vote as defined in <cite path="§347-19|G">Subsection G</cite>, matters dealing with personnel, security or the fiscal integrity of the gaming operations shall be conducted in executive session and not be open to the public.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Quorum; majority vote. A quorum shall consist of three members of the Commission. All decisions shall be made by a majority vote of the Commissioners present, unless indicated otherwise in this code.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Monthly report. The Commission shall make or cause to be made monthly reports to the Legislature. The report shall include a full and complete statement of gaming revenues paid to the Tribe, expenses and all other financial transactions of the Commission and a summary of all licensing and enforcement actions.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Powers and duties. The purpose of the Tribal Gaming Commission is regulatory, not managerial. The Tribal Gaming Commission shall have the following powers and duties:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission will conduct oversight to ensure compliance with tribal, federal and, if applicable, state laws and regulations and the Compact.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission will serve as the licensing authority for individuals employed in the gaming operation and will administer background investigations as part of the licensing process.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Commission will monitor compliance with the internal control standards for the gaming operation in tracking revenues.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In order to carry out its regulatory duties, the Commission shall have unrestricted access to all areas of the gaming operation and to all records.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Commission shall have authority to take enforcement actions, including suspension or revocation of an individual gaming license when appropriate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Commission shall promulgate:</text>
+          <para>
+            <num>(a)</num>
+            <text>Regulations regarding the use of complimentary items. Said regulations shall:</text>
+            <para>
+              <num>[1]</num>
+              <text>Be in conformance with the National Indian Gaming Commission's Minimum Internal Control Standards, found at 25 CFR 542.17.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Prohibit key employees, primary management officials, Tribal Legislators, and members of the Gaming Management Board or Gaming Commission from receiving complimentary items other than de minimus complimentary items. <strong>[Amended 7-21-2016 by Ord. No. 16-17]</strong></text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>For the purposes of <cite path="§347-19|I|(6)(a)|[2]">Subsection I(6)(a)[2]</cite> above, the following goods and services shall not be deemed complimentary items under the following circumstances: <strong>[Added 7-21-2016 by Ord. No. 16-17]</strong></text>
+              <para>
+                <num>[a]</num>
+                <text>Goods or services that are a prize in a drawing for gaming operation employees as part of a bona fide employee morale program;</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Goods or services that are provided pursuant to a bona fide gaming operation employee incentive program;</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Reasonable food and beverages provided at a meeting of the Tribal Legislature, Gaming Management Board, or Gaming Commission;</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>Payment of or reimbursement for the cost of attendance at any event pursuant to a legitimate business purpose, so long as such payment or reimbursement is consistent with all other applicable gaming regulations and gaming operation policies;</text>
+              </para>
+              <para>
+                <num>[e]</num>
+                <text>Nothing in <cite path="§347-19|E.|(6)|(a)|[3]|[e]">this subsection</cite> shall be deemed to restrict or prohibit any gaming regulation related to recordkeeping requirements related to the provision of such goods and services.</text>
+              </para>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Prohibit employees of the gaming operation from providing complimentary items to their immediate family members or any person with whom they share a residence. <strong>[Added 7-21-2016 by Ord. No. 16-17]</strong></text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Rules and regulations to prevent cheating.</text>
+          </para>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The Commission shall promulgate and issue:</text>
+          <para>
+            <num>(a)</num>
+            <text>Regulations necessary to comply with the Tribe's Minimum Internal Control Standards (MICS). The Tribe acknowledges its obligation to adopt and implement Minimum Internal Control Standards (MICS) for the operation of its tribal gaming operation no less stringent than those found in the regulations of the National Indian Gaming Commission (NIGC) at 25 CFR 542. The Tribe's MICS shall be sent out in separate regulations to be reviewed and approved by the Tribal Gaming Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Regulations on the levying of fees associated with gaming license applications.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Regulations on the levying of fines and/or suspension or revocation of gaming licenses for violations of <cite path="|II|347|III">this article</cite>, the Compact or any other tribal, federal or state, if applicable, gaming regulations.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Licensing regulations.</text>
+            <para>
+              <num>[1]</num>
+              <text>The Tribal Gaming Commission is responsible for conducting background investigations, making suitability determinations and issuing licenses to employees and vendors. The Tribal Gaming Commission shall adopt regulations for background investigations which at a minimum meet the requirements and procedures of 25 CFR 556 and the Compact.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The Tribal Gaming Commission shall adopt regulations for eligibility determination which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The Tribal Gaming Commission shall adopt regulations for forwarding the Notice of Results to NIGC which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The Tribal Gaming Commission shall adopt regulations for license applications and for the granting, suspension and revocation of gaming licenses which at a minimum meet the requirements and procedures of 25 CFR 558 and the Compact and which provide due process for the resolution of any dispute concerning the granting, suspension and revocation of gaming licenses to any management contractor.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Carry out all duties of the Tribe pursuant to Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite> unless any of those duties are assigned to another entity by ordinance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Conduct or cause background investigations to be conducted on, at a minimum, primary management officials, key employees and service suppliers.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Review and approve all investigative work conducted with respect to such background investigations.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Report results of background investigations to NIGC as required by the Indian Gaming Regulatory Act (IGRA)<fn path="|II|§347-19|footnotes|5">5</fn> or the Compact.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Obtain and process fingerprints or designate a law enforcement agency to obtain and process fingerprints.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Make suitability determinations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Issue gaming licenses to management officials and employees of the operation and service suppliers consistent with the suitability determinations.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Inspect, examine and monitor all gaming activities and have immediate access to review, inspect, examine, photocopy and audit all records of the gaming establishment.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Ensure compliance with the Compact and all tribal, state and federal laws, rules and regulations regarding Indian gaming.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Investigate any suspicious wrongdoing associated with any gaming activities (reserving to the Board and/or any management contractor its right also to investigate as appropriate).</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Hold hearings on patron and/or employee complaints in compliance with procedures established in the Compact, the management agreement, <cite path="|II|347|III">this article</cite> and other tribal gaming regulations.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Comply with any and all reporting requirements under IGRA, the Compact to which the Tribe is a party and any other applicable law.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Employ such persons as are necessary to carry out the duties of the Gaming Commission, including but not limited to gaming inspectors.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Seize and impound any patron's winnings which the Commission may have reason to believe may have been won or obtained in violation of <cite path="|II|347|III">this article</cite> pending a civil forfeiture hearing on such seizure.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Establish its own budget for operations in accordance with its bylaws, including a budget for the Director, and acquire such furnishings, equipment, supplies, stationery, books, motor vehicles and other things as it may deem necessary or desirable in carrying out its functions and incur such other expenses within the limit of funds available to it as it may deem necessary.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Perform such other duties the Commission deems appropriate for the proper regulation of the Tribal gaming operation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission shall have the authority to develop memoranda of understanding with law enforcement agencies to perform services reasonably necessary to assure compliance with <cite path="|II|347|III">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Although not required by the Indian Gaming Regulatory Act,<fn path="|II|§347-19|footnotes|6">6</fn> the Commission shall direct the Executive Director of the Tribal Gaming Commission to require all Commission staff to be licensed by the Commission pursuant to procedures in effect for such licensing in order to set an example for all licensees.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Independence. The Tribe recognizes the importance of an independent Tribal Gaming Commission in maintaining a well-regulated gaming operation. The Commission shall act independently and autonomously from the Tribal Legislature in all matters within its purview. No prior or subsequent review by the Tribal Legislature of any actions of the Commission shall be required or permitted except as otherwise explicitly provided in <cite path="|II|347|III">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Prior notice of actions. In adopting, amending, and repealing regulations, the Commission shall give prior notice of the proposed action to all licensees and other persons whom the Commission or Director has reason to believe have a legitimate and bona fide interest in such proposed action. Said notice shall inform such persons as to the general nature of the proposed action and advise them as to the manner in which comments on said proposed action shall be received by the Commission. In emergencies, the Commission may summarily adopt, amend or repeal any regulation if at the time the Commission determines such action is necessary for the immediate preservation of the public peace, health, safety, morals, and good order or general welfare, together with a statement of facts constituting the emergency; provided that the Commission shall schedule such emergency action for a regular hearing within 60 days after any such emergency meeting. The Commission shall set forth or cause to be set forth procedures for purposes stated herein.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Request for Commission action. Any person who is determined by the Commission or Director to be a bona fide interested party may file a petition in a manner and form approved by the Commission requesting the adoption, amendment or repeal of a regulation. Upon receipt of the petition, the Commission shall, within 30 working days, deny the request in writing or schedule the matter for action pursuant to this section.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Voting on licensing. Any Commission vote resulting in approving, disapproving, revoking, suspending, limiting or conditioning a license under <cite path="|II|347|III">this article</cite> shall be by ballot only.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Reconsideration. If an individual, within 10 working days of receiving written notice of a Commission determination, files written objections to that determination, the Commission shall hold a hearing to review its decision at the next scheduled meeting. At the hearing, the burden shall be on the applicant to show cause why the Commission's determination was incorrect. Following such hearing, the Commission shall, within 10 working days, reach a determination concerning:</text>
+        <para>
+          <num>(1)</num>
+          <text>The accuracy of the preliminary certification of facts;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Whether the license in question should be granted, continued, suspended, revoked, conditioned or limited; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whether or not any other action recommended to the Commission, including but not limited to forfeitures, should be taken.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Right to appeal. Unless otherwise contractually agreed to, the subject shall have the right to appeal the determination of the Commission to the Tribal Court, in written form, on or before the 10th day following receipt of the written determination of the Commission. A determination of such appeal by the Court shall be made by the Court without a jury. The Court shall make its determination on the record provided, unless it deems further testimony or evidence necessary. In its review the Court shall not substitute its judgment for that of the Commission as to weight of the evidence on any disputed finding of fact. Due weight shall be accorded the experience and specialized knowledge of the Commission as well as discretionary authority conferred on the Commission by <cite path="|II|347|III">this article</cite>.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Employment of Director. The Tribe shall employ a Director who shall be supervised by the Gaming Commission. The Gaming Commission shall hire the Director pursuant to the Tribe's Personnel Policies and Procedures (Ordinance No. 83-6).<fn path="|II|§347-19|footnotes|7">7</fn></text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Termination of Director. Termination will be the decision of the Gaming Commission pursuant to the Tribe's Personnel Policies and Procedures (Ordinance 83-6).</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Duties of Director. The Director shall, subject to the approval of the Commission, perform all duties, exercise all powers, assume and discharge all responsibilities, and carry out and effect all purposes of <cite path="|II|347|III">this article</cite> relating to the regulation of all gaming activity. In all decisions, the Director shall act to promote and ensure integrity, security, honesty and fairness of the operation and administration of all gaming activity. It will be the responsibility of the Tribal Gaming Commission to develop and maintain job description(s) for the Director(s) positions in accordance with <cite path="|II|347|III">this article</cite> and subject to Ordinance No. 83-6, Personnel Policies and Procedures.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Right of inspection; enforcement.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission, the Director and their agents, inspectors, and employees have the authority to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Inspect and examine all premises wherein gaming is conducted or gambling devices or equipment is manufactured, sold or distributed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Inspect all equipment and supplies in, upon or about a gaming establishment or inspect any equipment or supplies, wherever located, which may or have been used in the gaming establishment.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Summarily seize and remove from a gaming establishment (or whatever located) and impound such equipment or supplies for the purpose of examination, inspection, evidence or forfeiture.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Demand access to and inspect, examine and audit all papers, books, and records of applicants and licensees respecting any income produced by any gaming business and require verification of income and all other matters affecting the enforcement of the policy of or any of the provisions of this code.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Seize and impound any patron's winnings which the Commission may have reason to believe may have been won or obtained in violation of this code pending a civil forfeiture hearing on such seizure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For the purpose of administration and enforcement of this code, the Commission, the Director and their investigative personnel may, if deemed necessary by the Tribal Legislature, have the powers of the peace officer of the Menominee Indian Nation for purposes of this code only.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Commissioners and the Director shall each have full power and authority to issue subpoenas and compel the attendance of witnesses for hearing at any place within the Reservation, to administer oaths and to require testimony under oath. Any process or notice may be served in the manner provided for service of process and notices in civil actions. The Commission and the Director may pay such transportation and other expenses of witnesses as it may deem reasonable and proper.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Confidentiality. The Gaming Commission shall ensure that all records and information obtained as a result of an employee background investigation shall remain confidential and shall not be disclosed to persons who are not directly involved in the licensing process. Under no circumstances shall information obtained during the course of an employee background investigation be disclosed to members of management, human resources personnel or others employed by the Tribal gaming operation. <cite path="§347-19|K.">This subsection</cite> does not apply to requests from or the furnishing of such information or records to any tribal, federal or state law enforcement, regulatory or judicial agency or to the use of such information or records by the Commission and staff in performance of their official duties.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Violations of code; punishment. Any violation of this code shall be punished by a fine of no more than $5,000 for each separate count or violation or one year in jail, or both. Each day of violation shall constitute a separate count or violation under this code. A violator may also be required to pay court costs, storage fees, and auction or sales fees. All property used or which may be used in activities in each and every separate violation of this code may become the property of the Tribe; persons may be prohibited from trespassing on premises licensed under this code, licenses may be suspended, revoked, or limited and/or establishments may be forcibly closed. All such action shall be taken at the discretion of the Commission, subject to the right of appeal to the Tribal Court. Winnings found to have been received in violation of this code are forfeited and become the property of the Tribe.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Due process regarding enforcement actions. The Commission shall promulgate regulations protecting due process rights of all individuals subject to <cite path="|II|347|III">this article</cite>.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-20</num>
+      <heading>Licensing of games and personnel.</heading>
+      <para>
+        <num>A.</num>
+        <text>Mandatory license. Any person seeking to conduct, operate or manage any gaming activity on Indian lands, or any person seeking employment therefrom, shall apply for and receive all the required licenses and/or approvals from the Commission prior to engaging in such gaming activities in accordance with this section and <cite path="§347-36">§ 347-36</cite> of this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For all other gaming employees who are not primary management officials or key employees, the Commission shall adopt application forms appropriate to each job category.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Criminal and background restrictions. No person may be employed as a gaming employee in the operation or conduct of gaming, and no gaming-related contractor shall employ any person in the course of performance under the contract, if that person has been convicted of, or entered a plea of guilty or no contest to, any of the following, unless the person has been pardoned:</text>
+        <para>
+          <num>(1)</num>
+          <text>A felony, other than a felony conviction for an offense under <cite path="§347-20|C|(2)">Subsection C(2)</cite>, (3) or (4) of this section during the immediately preceding 10 years;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any gambling-related offense;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fraud or misrepresentation in any connection; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A violation of any provisions of <cite path="|II|562">Ch. 562</cite> or 565, Wis. Stats., a rule promulgated by the Lottery Board, Wisconsin Racing Board, Department of Administration or successor agency or a tribal ordinance regulating or prohibiting gaming.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Licensing and regulation of Class II and Class III gaming activity; net revenue allocation; audits; contracts.</text>
+        <para>
+          <num>(1)</num>
+          <text>A separate license issued by the Commission shall be required for each place, facility, or location on Indian lands within the Tribe's jurisdiction at which any Class II or Class III gaming activity is conducted.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission may license and regulate a tribal-owned Class III gaming activity if:</text>
+          <para>
+            <num>(a)</num>
+            <text>Such gaming activity is located on Indian lands within the Tribe's jurisdiction and the Menominee Indian Tribe of Wisconsin and State of Wisconsin Gaming Compact permits such gaming (and such gaming is not otherwise specifically prohibited on Indian lands by federal laws); <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Except as provided in <cite path="§347-21">§ 347-21</cite>, the Tribe will have the sole proprietary interest and responsibility for the conduct of such gaming activity;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Net revenues from such gaming activity are used in accordance with <cite path="§347-19|B">§ 347-19B</cite> of this code;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Such gaming activity is subject to annual outside audits, which may be encompassed within existing independent, tribal audit systems and provided to the Legislature;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>All contracts for supplies, services, or concessions for any aggregate amount in excess of</text>
+            <text>$25,000 annually relating to such gaming are also subject to independent audits;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The construction and maintenance of the gaming facility and the operation of that gaming are conducted in a manner which adequately protects the environment and the public's health and safety; and</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>All primary management officials and key employees of the Class III gaming operation have successfully passed a background investigation and have obtained licenses from the Commission.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>License fees. The Tribe may charge a license fee, to be set by the Tribal Gaming Commission, to cover the expenses in investigating and licensing key employees and primary management officials of the gaming operation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Temporary employment licenses. The Commission may issue a temporary employment license to any person or entity applying for a license to work in a licensed gaming establishment which shall be valid pending the background investigation of the applicant, but in no event longer than 90 days. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Parameters of licenses.</text>
+        <para>
+          <num>(1)</num>
+          <text>Acceptance of a gaming license or renewal on the part of the licensee shall constitute the licensee's agreement to be bound by all of the regulations and conditions of the Director or Commission and by the provisions of this code, as the same are now or may hereafter be amended or promulgated, and to cooperate fully with the Director and Commission. It is the responsibility of the licensee to keep informed of the contents of such regulations, amendments, provisions and conditions, and ignorance thereof will not excuse violations.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The licensee shall advise the Director within five business days of being notified that he or she has been charged with any criminal offense (misdemeanor or felony), other than minor traffic violations. The licensee shall keep the Director advised of the status of the matter, including any disposition of any other related written documents the Director may request.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Persons subject to this <cite path="§347-20|J">Subsection J</cite> shall be periodically reviewed (at least every two years) to determine whether they continue to meet the requirements and limitations of this <cite path="§347-20|J">Subsection J</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In view of the less stringent background investigations contemplated for employees who are neither primary management officials nor key employees, licenses for such employees may be limited to the job category for which employed or to non-primary management or key employee positions. Should such employee subsequently obtain employment as a primary management official or key employee, he or she shall apply for a license which is not so limited.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Licensing of distributors. The Commission may authorize, require and issue such annual licenses as the Commission by regulation may provide to any person or entity to engage in the selling, distributing, or otherwise supplying of gambling equipment or paraphernalia for use in connection with licensed gaming activity.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08</annotation>
+      </annotations>
+    </section>
+    <section cache:ref-path="II|§347-21">
+      <prefix>§</prefix>
+      <num>347-21</num>
+      <heading>Management contracts.</heading>
+      <para>
+        <num>A.</num>
+        <text>Commission approval required.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any management contract entered into by the Tribe for the operation and management of a gaming activity must be submitted to the Commission for approval, but before approving such contract the Commission shall require and obtain the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>The name, address and other additional pertinent background information on each person or entity (including persons comprising such entity) having direct or indirect financial interest in, or management responsibility for, such agreement.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A description of any previous experience that each person listed pursuant to <cite path="§347-21|A|(1)(a)">Subsection A(1)(a)</cite> has had with other gaming contracts with Indian Tribes or with the gaming industry generally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to gaming.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any further or additional information as may be required under the Tribal/State Compact entered into between the Tribe and the state.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any further additional information as may be required pursuant to IGRA, including all information required to be submitted to the National Indian Gaming Commission pursuant to 25 CFR 533.3(d).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person listed pursuant to <cite path="§347-21|A|(1)(a)">Subsection A(1)(a)</cite> shall be required to respond to such written or oral questions that the Commission may propound in accordance with its responsibilities under this <cite path="§347-21|A">Subsection A</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For purposes of <cite path="|II|347|III">this article</cite>, any reference to the management contract described in <cite path="§347-21|A|(1)">Subsection A(1)</cite> shall be considered to include all collateral agreements to such contract that relate to the gaming activity.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>After the Commission has given its approval of a management contract, the Commission shall submit such contract to the National Indian Gaming Commission for its approval. The Commission may, in its discretion, allow a management contract to be submitted to the National Indian Gaming Commission pending approval by the Commission. Any management contract shall be void until the Commission and the National Indian Gaming Commission have approved it.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Approval of management contracts. Commission action on management contracts and the rights of management contractors regarding such action are governed by <cite path="§347-19">§ 347-19</cite> of <cite path="|II|347|III">this article</cite>. The Commission may approve any management contract entered into by the Tribe pursuant to this section only if it determines that such contract provides at least for:</text>
+        <para>
+          <num>(1)</num>
+          <text>Adequate accounting procedures that are maintained and verifiable financial reports that are prepared by or for the Legislature on a monthly basis;</text>
+          <para>
+            <num>(2)</num>
+            <text class="center">Access to the daily operations of the gaming by appropriate tribal officials, who shall also have a right to verify the daily gross revenues and income made from any such tribal gaming activity;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A minimum guaranteed payment to the Tribe that has preference over the retirement of development and construction costs;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An agreed ceiling for repayment of development construction costs;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A contract term not to exceed five years, except that, upon the request of the Tribe, the Commission may authorize a contract term that exceeds five years but does not exceed seven years if the Commission is satisfied that the capital investment required, and the income projections, for the particular gaming activity require additional time;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Grounds and mechanisms for terminating such contract, but actual contract termination shall not require the approval of the National Indian Gaming Commission; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Preference to tribal members and nonmember Indians in hiring of employees for the gaming establishment.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Percentage of net revenue fees.</text>
+        <para>
+          <num>(1)</num>
+          <text>A management contract providing for a fee based upon a percentage of the net revenues of a tribal gaming activity may be approved by the Commission if such percentage fee is reasonable in light of surrounding circumstances. Except as provided in <cite path="§347-21|C|(2)">Subsection C(2)</cite>, such fee shall not exceed 30% of the net revenues.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon request of the Legislature, the Commission may approve a management contract providing for a fee upon a percentage of the net revenues of a tribal gaming activity that exceeds 30% but not 40% of the net revenues if the Commission and Legislature are satisfied that the capital investment required and income projections for such tribal gaming activity require the additional fee.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Contract disapproval. The Commission shall not approve any contract if it determines that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person listed pursuant to <cite path="§347-21|A|(1)(a)">Subsection A(1)(a)</cite>:</text>
+          <para>
+            <num>(a)</num>
+            <text>Is an elected member of the Legislature;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Has been or subsequently is convicted of any felony or gaming offense;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Has knowingly and willfully provided materially important false statements of information to the Commission or the tribal officials who negotiate such contracts or has refused to respond to questions propounded pursuant to Subsection B; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Has been determined to be a person whose prior activities, criminal record, if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The management contractor has or has attempted unduly to interfere or to influence for its gain or advantage any decision or process of tribal government relating to gaming activity; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The management contractor has deliberately or substantially failed to comply with the terms of this management contract or the provisions of this code or any regulations adopted pursuant to this code or the Indian Gaming Regulatory Act.<fn path="|II|§347-21|footnotes|8">8</fn></text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Modifying or voiding contract. The Commission, after notice and hearing, shall have the authority to require appropriate contract modifications or may void any contract if it subsequently determines that any of the provisions of this section have been violated. If the Tribe elects to contractually agree to resolve disputes in a manner other than the revocation of a license, such contractual agreement shall supersede any conflicting provisions of this section, so long as the agreement provides a reasonable avenue for the Tribe to ensure a licensee's compliance with all other aspects of this Gaming Code.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Changes in ownership interest. Any transfer of an ownership interest in a management contract subsequent to approval of such contract by the Commission requires Commission approval under this section and is void until and unless so approved. The management contractor shall provide the information required under <cite path="§347-21|A|(1)">Subsection A(1)</cite> and (2) as to such transfer.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Conveying interest in land. No management contract for the operation of a gaming activity regulated by <cite path="|II|347|III">this article</cite> shall transfer or in any other manner convey any interest in land or other real property, unless specific applicable statutory authority exists and unless clearly specified in writing in said contract.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Fee for investigation cost. The Commission shall require a potential contractor to pay a fee to cover the actual cost of the investigation necessary to reach a determination required by this section.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-22</num>
+      <heading>Auditing and internal control.</heading>
+      <para>
+        <num>A.</num>
+        <text>Minimum procedures for control of internal fiscal affairs; Minimum Internal Control Standards. The Tribe acknowledges its obligation to adopt and implement Minimum Internal Control Standards (MICS) for the operation of its tribal gaming operation no less stringent than those found in the regulations of the NIGC at 25 CFR 542 and the Tribal/State Gaming Compact. The Tribe's MICS shall be set out in separate regulations to be reviewed and approved by the Tribal Gaming Commission.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Commission oversight of internal fiscal affairs. The Commission shall, by regulation, require audits to be conducted no less frequently than annually of the financial statements of all gaming operations. Such audits must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be made by independent certified public accountants holding a permit issued by the State of Wisconsin to practice public accounting;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Include an opinion that the financial statement fairly and accurately presents the financial condition of the gaming operation in accordance with generally accepted accounting principals (GAAP) and in accordance with the standards of the accounting profession established by rules and regulations of the Accounting Examining Board of the State of Wisconsin and the American Institute of Certified Public Accountants; <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disclose whether the accounts, records, and control procedures maintained by the gaming operation are as required by the regulations promulgated by the Commission; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide for a preliminary review of the internal control structure, upon adoption of the policies and procedures by the entity, to disclose any deviation from prescribed rules and regulations and report such findings to the Commission and management.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Commission's right to conduct audit. The Commission shall be able to retain its own appointed accountants or direct an accountant employed by the Tribe to conduct its own audit of any gaming operation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-23</num>
+      <heading>Exclusion or ejection of individuals.</heading>
+      <para>
+        <num>A.</num>
+        <text>List of undesirables. The Commission may, by regulation, provide for the establishment of a list of persons who are to be excluded or ejected from any duly licensed gaming operation. The list may include any person whose presence in the gaming establishment is determined by the Commission to pose a threat to the interests of the Tribe, the State of Wisconsin, or to licensed gaming. Race, color, creed, national origin or ancestry or sex must not be grounds for placing the name of a person on the list.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notice and opportunity to be heard. The Commission shall promulgate regulations providing fair notice and opportunity to be heard to any individual whose name is on the list referred to in <cite path="§347-23|A">Subsection A</cite>. Such regulations must provide the person an opportunity to show cause why his or her name should be removed from the list. The individual may appeal any decision of the Commission to Tribal Court, pursuant to <cite path="§347-19|O">§ 347-19O</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Prohibition against listed individuals. It shall be a violation of <cite path="|II|347|III">this article</cite> for any licensee to knowingly fail to exclude or eject from the gaming establishment any persons placed on the list referred to in <cite path="§347-23|A">Subsection A</cite>. It shall be a violation of <cite path="|II|347|III">this article</cite> for any person whose name appears on the list referred to in <cite path="§347-23|A">Subsection A</cite> to enter into or engage in any game at a duly licensed gaming establishment.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Prohibition against certain individuals. It shall be a violation of <cite path="|II|347|III">this article</cite> for any licensee to knowingly fail to exclude or eject from the gaming establishment any individual who:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is visibly under the influence of liquor or any narcotic or such other substance; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is under the age requirement for lawful gaming per the Tribal/State Compact.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-24</num>
+      <heading>Amendments.</heading>
+      <text>All provisions of <cite path="|II|347|III">this article</cite> are subject to amendment by the Menominee Tribal Legislature. All regulations promulgated by the Commission are subject to proper revision, repeal or amendment by the Commission.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-24.5</num>
+      <heading>Applicability to nongaming activity. [Added 5-2-2013 by Ord. No. 13-08]</heading>
+      <text>Notwithstanding any other provision of <cite path="|II|347|III">this article</cite>, the Menominee Tribal Gaming Commission shall have no power or authority to regulate nongaming activity or nongaming employees, nor any responsibility for nongaming activity or nongaming employees. Any regulation, internal control, or other rule of the Menominee Tribal Gaming Commission promulgated and in place at the time of this amendment related to nongaming activity or nongaming employees shall be null and void and of no effect as of the implementation date of this amendment.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|347|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Pull-Tab Sales by Individuals [Adopted 9-21-2000 by Ord. No. 00-24]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>347-25</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|347|IV">this article</cite> is to legalize the sale of pull-tabs by all individuals who wish to engage in the sale of pull-tabs within the exterior boundaries of the Menominee Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-26</num>
+      <heading>Requirements for sellers of pull-tabs.</heading>
+      <text>To be eligible as a seller of pull-tabs, the following requirements must be met:</text>
+      <para>
+        <num>A.</num>
+        <text>The seller shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be an enrolled tribal member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be certified by the State of Wisconsin as an approved gaming vendor;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Be responsible for the installation of surveillance equipment, including cameras, as required by the Tribal Gaming Commission;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Maintain records of all purchases of pull-tab tickets, sales of pull-tabs, profits from sales of pull-tabs, and other information required by the Tribal/State Compact;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Make payment of 60% of all profits from sales of pull-tabs to the Menominee Tribe;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Provide for audits by a certified public accountant of all financial activities concerning the sale of pull-tabs as requested by the Tribe and in no event on less than an annual basis; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Make provisions for inspection and monitoring of pull-tab sales at any time by the Tribal Gaming Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>There shall be licensing by the Tribal Gaming Commission of all persons engaged in the sale of pull-tabs and compliance with Section 542.6 of the Minimum Internal Control Standards.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Sale to anyone under the age of 21 years is prohibited.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All costs for the foregoing requirements shall be borne by the individual who elects to engage in the sale of pull-tabs.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-27</num>
+      <heading>Sale of boxes of pull-tab tickets.</heading>
+      <text>The sale of boxes of pull-tab tickets to an eligible tribal member for resale shall be conducted by the Menominee Nation Gaming Operations, on the gaming site, and by licensed personnel.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-28</num>
+      <heading>Violations and penalties.</heading>
+      <text>Upon conviction of violating any provision of <cite path="|II|347|IV">this article</cite> the penalty shall be a fine of $1,000 per violation and confinement of the person up to one year in prison. In the case of a non-Indian, violations of <cite path="|II|347|IV">this article</cite> shall be turned over to the appropriate state authorities for prosecution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-29</num>
+      <heading>Enforcement.</heading>
+      <text>Immediately upon final approval of <cite path="|II|347|IV">this article</cite>, tribal police are directed to inspect all places where sales of pull-tabs have been conducted and to seize and confiscate any remaining unsold boxes of pull-tab tickets.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|347|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Authorization of Gaming [Adopted 1-22-2008 by Ord. No. 07-39]</heading>
+    <section cache:ref-path="II|§347-30">
+      <prefix>§</prefix>
+      <num>347-30</num>
+      <heading>Purpose.</heading>
+      <text>The Menominee Tribal Legislature, empowered by the Tribe's Constitution to enact ordinances, hereby enacts <cite path="|II|347|V">this article</cite> in order to set the terms for Class II and Class III gaming operations on tribal lands pursuant to the requirement of the Indian Gaming Regulatory Act.<fn path="|II|§347-30|footnotes|9">9</fn></text>
+      <footnotes>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-31</num>
+      <heading>Gaming authorized.</heading>
+      <text>Class II and Class III gaming are hereby authorized.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-32</num>
+      <heading>Ownership of gaming.</heading>
+      <text>The Tribe shall have the sole propriety interest in any gaming operation authorized by <cite path="|II|347|V">this article</cite>, and all gaming operations shall be conducted by the Tribe acting through its designated agents, by an enterprise established and owned by the Tribe for the conduct of gaming, or by the Tribe or its enterprises' management contractor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-33</num>
+      <heading>Use of gaming revenue.</heading>
+      <para>
+        <num>A.</num>
+        <text>Net revenues from Class II and Class III gaming shall be used only for the following purposes:</text>
+        <para>
+          <num>(1)</num>
+          <text>To fund tribal government operations and programs;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To provide the general welfare of the Tribe and its members;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To promote tribal economic development;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To donate to charitable organizations; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>To help fund operations of local government agencies.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the Tribe elects to make per capita payments to tribal members, it shall authorize such payments only upon approval of a plan submitted to the Secretary of Interior under 25 U.S.C. § 2710(b)(3).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-34</num>
+      <heading>Audit.</heading>
+      <text>The Tribe shall cause to be conducted annually an independent audit of gaming operations and shall submit the resulting audit reports to the National Indian Gaming Commission. All gaming-related contracts that result in the purchase of supplies, services, or concessions in excess of $25,000 annually, except contracts for professional legal and accounting services, shall be specifically within the scope of the audit.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-35</num>
+      <heading>Protection of the environment and public health and safety.</heading>
+      <text>Class II and Class III gaming facilities shall be constructed, maintained and operated in a manner that adequately protects the environment and the public health and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-36</num>
+      <heading>Licenses for key employees and primary management officials.</heading>
+      <text>The Tribe shall ensure that the policies and procedures set out in this section are implemented with respect to key employees and primary management officials employed at any Class II and Class III gaming enterprise operated on Indian lands.</text>
+      <para>
+        <num>A.</num>
+        <text>Definitions. For the purpose of this section, the following definitions apply:</text>
+        <text>KEY EMPLOYEE —</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who performs one or more of the following functions:</text>
+          <para>
+            <num>(a)</num>
+            <text>Bingo caller;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Counting room supervisor</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Chief of security;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Custodian of gaming supplies or cash;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Floor manager/casino shift manager;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Pit boss;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Dealer;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Croupier;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Approver of credit; or</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Custodian of gambling devices, including persons with access to cash and account records within such devices;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If not otherwise included, the four most highly compensated persons in the gaming operation.</text>
+          <text>PRIMARY MANAGEMENT OFFICIAL —</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The person having management responsibility for a management contract;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who has authority to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Hire and fire employees; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Set up working policy for the gaming operations; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The chief financial office or other person who has financial management responsibility.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Application forms.</text>
+        <para>
+          <num>(1)</num>
+          <text>The following notice shall be placed on the application form for a key employee or a primary management official before that form is filled out by an applicant:</text>
+          <text>"In compliance with the Privacy Act of 1974, the following information is provided: Solicitation of the information on this form is authorized by 25 U.S.C. § 2701 et seq. The purpose of the requested information is to determine the eligibility of individuals to be granted a gaming license. The information will be used by the tribal gaming regulatory authorities and by the National Indian Gaming Commission (NIGC) members and staff who have need for the information in the performance of their official duties. The information may be disclosed by the Tribe or the NIGC to appropriate federal, tribal, state, local, or foreign law enforcement and regulatory agencies when relevant to civil, criminal or regulatory investigations or prosecutions or when pursuant to a requirement by a tribe or the NIGC in connection with the issuance, denial, or revocation of a gaming license, or investigations of activities while associated with a tribe or a gaming operation. Failure to consent to the disclosures indicated in this notice will result in a tribe's being unable to license you for a primary management official or key employee position. The disclosure of your social security number (SSN) is voluntary. However, failure to supply a SSN may result in errors in processing your application."</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Existing key employees and primary management officials shall be notified in writing that they shall either:</text>
+          <para>
+            <num>(a)</num>
+            <text>Complete a new application form that contains a Privacy Act notice; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Sign a statement that contains the Privacy Act notice and consent to the routine uses described in that notice.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The following notice shall be placed on the application form for a key employee or a primary management official before the form is filled out by an applicant: "A false statement on any part of your license application may be grounds for denying a license or the suspension or revocation of a license. Also, you may be punished by fine or imprisonment (18 U.S.C. § 1001)."</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribe shall notify in writing existing key employees and primary management officials that they shall either:</text>
+          <para>
+            <num>(a)</num>
+            <text>Complete a new application form that contains a notice regarding false statements; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Sign a statement that contains the notice regarding false statements.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Background investigations.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe shall request from each primary management official and from each key employee all of the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>Full name, other names used (oral or written), social security number(s), birth date, place of birth, citizenship, gender, and all languages (spoken or written);</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Currently and for the previous five years: business and employment positions held, ownership interests in those businesses, business and residence addresses, and driver's license numbers;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The names and current addresses of at least three personal references, including one personal reference who was acquainted with the applicant during each period of residence listed under <cite path="§347-36|C|(1)(b)">Subsection C(1)(b) of this section</cite>;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Current business and residence telephone numbers;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A description of any existing and previous business relationships with Indian tribes, including ownership interests in those businesses;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>For each felony for which there is an ongoing prosecution or a conviction, the charge, the name and address of the court involved, and the date and disposition, if any;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>For each misdemeanor conviction or ongoing misdemeanor prosecution (excluding minor traffic violations) within 10 years of the date of the application, the name and address of the court involved and the date and disposition;</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>For each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within 10 years of the date of the application and is not otherwise listed pursuant to <cite path="§347-36|C|(1)(h)">Subsection C(1)(h)</cite> or (i) of this section, the criminal charge, the name and address of the court involved and the date and disposition;</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>The name and address of any licensing or regulatory agency with which the person has filed an application for an occupational license or permit, whether or not such license or permit was granted;</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>A current photograph;</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>Any other information the Tribe deems relevant; and</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>Fingerprints consistent with procedures adopted by the Tribe according to 25 CFR 522.2(h).</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>If, in the course of a background investigation, the Tribe discovers that the applicant has a notice of results on file with the NIGC from a prior investigation and the Tribe has access to the earlier investigative materials (either through the NIGC or the previous tribal investigative body), the Tribe may rely on those materials and update the investigation and investigative report under <cite path="§347-36">§ 347-36</cite>F(1).</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>In conducting a background investigation, the Tribe or its agents shall keep confidential the identity of each person interviewed in the course of the investigation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe shall conduct an investigation sufficient to make a determination under <cite path="§347-36|D">Subsection D</cite> below. In conducting a background investigation, the Tribe or its agent shall promise to keep confidential the identity of each person interviewed in the courts of the investigation.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Eligibility determination. The Tribe shall review a person's prior activities, criminal record, if any, and reputation, habits and associates to make a finding concerning the eligibility of a key employee or primary management official for employment in a gaming operation. If the authorized tribal official, in applying the standards adopted in <cite path="|II|347">this chapter</cite>, determines that the licensing of the person poses a threat to the public interest or to the effective regulation of gaming or creates or enhances dangers of unsuitable, unfair, or illegal practices and methods and activities in the conduct of gaming, an authorizing tribal official shall not license that person in a key employee or primary management official position.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Report to the National Indian Gaming Commission. All reports required to be made to the National Indian Gaming Commission shall be made through the appropriate regional office. Should the Tribe wish to submit notices electronically, it shall contact the appropriate regional office for guidance on acceptable document formats and means of transmission.</text>
+        <para>
+          <num>(1)</num>
+          <text>When the Tribe employs a primary management official or a key employee, the tribe shall maintain a complete application file containing the information listed under <cite path="§347-36">§ 347-36</cite>C(1)(a) through (n).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Before issuing a license to a primary management official or to a key employee, the Tribe shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Create and maintain an investigative report on each background investigation. An investigative report shall include all of the following:</text>
+            <para>
+              <num>[1]</num>
+              <text>Steps taken in conducting a background investigation;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Results obtained;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Conclusions reached; and</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The basis for those conclusions.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Submit a notice of results of the applicant's background investigation to the National Indian Gaming Commission no later than 60 days after the applicant begins work. The notice of results shall contain:</text>
+            <para>
+              <num>[1]</num>
+              <text>Applicant's name, date of birth, and social security number;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Date on which applicant began or will begin work as key employee or primary management official;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A summary of the information presented in the investigative report, which shall, at a minimum, include a listing of:</text>
+              <para>
+                <num>[a]</num>
+                <text>Licenses that have previously been denied.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Gaming licenses that have been revoked, even if subsequently reinstated.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Every known criminal charge brought against the applicant within the last 10 years of the date of application.</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>Every felony of which the applicant has been convicted or any ongoing prosecution.</text>
+              </para>
+              <para>
+                <num>[e]</num>
+                <text>A copy of the eligibility determination made under <cite path="§347-36|D">§ 347-36D</cite>.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Granting a gaming license.</text>
+        <para>
+          <num>(1)</num>
+          <text>If, within a thirty-day period after the National Indian Gaming Commission receives a report, the National Indian Gaming Commission notifies the Tribe that it has no objection to the issuance of a license pursuant to a license application filed by a key employee or a primary management official for whom the Tribe has provided an application and investigative report to the National Indian Gaming Commission, the Tribe may issue a license to such applicant.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe shall respond to a request for additional information from the Chairperson of the National Indian Gaming Commission concerning a key employee or a primary management official who is subject of a report. Such a request shall suspend the thirty-day period under <cite path="§347-36|G|(1)">Subsection G(1) of this section</cite> until the Chairperson of the National Indian Gaming Commission receives the additional information.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If, within the thirty-day period described above, the National Indian Gaming Commission provides the Tribe with a statement itemizing objections to the issuance of a license to a key employee or to a primary management official for whom the Tribe has provided an application and investigative report to the National Indian Gaming Commission, the Tribe shall reconsider the application, taking into account the objections itemized by the National Indian Gaming Commission. The Tribe shall make the final decision whether to issue a license to such applicant.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Within 30 days after the issuance of the license, a tribe shall notify the National Indian Gaming Commission of its issuance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The gaming operation shall not employ a key employee or primary management official who does not have a license after 90 days.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If the Tribe does not license an applicant:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe shall notify the National Indian Gaming Commission; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall forward copies of its eligibility determination and notice of results, under <cite path="§347-36|E">§ 347-36E</cite> of <cite path="|II|347">this chapter</cite>, to the National Indian Gaming Commission for inclusion in the Indian gaming individuals record system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A tribe shall retain the following for inspection by the Chair or his or her designee for no less than three years from the date of termination of employment:</text>
+          <para>
+            <num>(a)</num>
+            <text>Applications for licensing;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Investigative reports; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Eligibility determinations.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>License suspension.</text>
+        <para>
+          <num>(1)</num>
+          <text>If, after the issuance of a gaming license, the Tribe receives from the National Indian Gaming Commission reliable information indicating that a key employee or a primary management official is not eligible for employment under <cite path="§347-36|D">Subsection D</cite> above, the Tribe shall suspend such license and shall notify in writing the licensee of the suspension and the proposed revocation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>After a revocation hearing, a tribe shall decide to revoke or to reinstate a gaming license. A tribe shall notify the National Indian Gaming Commission of its decision within 45 days of receiving notification from the National Indian Gaming Commission pursuant to <cite path="§347-36|G|(1)">Subsection G(1)</cite> of <cite path="§347-36|B.|(3)">this subsection</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08; 1-18-2024 by Ord. No. 23-71</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>347-37</num>
+      <heading>Separate license for each gaming facility.</heading>
+      <text>The Tribe shall issue a separate license to each place, facility, or location on Indian lands where Class II and Class III gaming is conducted under <cite path="|II|347|V">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

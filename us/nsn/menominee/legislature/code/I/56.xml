@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|56">
+  <prefix>Chapter</prefix>
+  <num>56</num>
+  <heading>EDUCATION, BOARD OF</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-18-2004 by Ord. No. 04-03. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>56-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|I|56">this chapter</cite> is to create the Menominee Tribal School Board of Education to oversee the administration of the Menominee Tribal School and to list the powers and duties of the School Board.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>56-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|I|56">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>MENOMINEE TRIBAL SCHOOL — The school for kindergarten through eighth grade which is located in Neopit, Wisconsin, owned and operated by the Menominee Indian Tribe.</text>
+    <text>QUORUM — A minimum of three members of the five-member Board.</text>
+    <text>SCHOOL ADMINISTRATOR — The person employed by the Menominee Indian Tribe to run the day-to-day operations of the Menominee Tribal School.</text>
+    <text>SCHOOL BOARD — The Menominee Tribal School Board of Education created by <cite path="|I|56">this chapter</cite>. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§56-3">
+    <prefix>§</prefix>
+    <num>56-3</num>
+    <heading>Membership; appointment; terms of office; compensation; meetings.</heading>
+    <para>
+      <num>A.</num>
+      <text>The School Board shall consist of five members appointed by majority vote of the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The term for all School Board members shall be three years, except for two of the initial appointees whose initial term shall be for two years, and one will be for one year. Lengths of terms for each initial Board member shall be chosen by lot conducted by the School Board after all five have been appointed by the Legislature.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Those persons who wish to be considered for appointment must submit to the Menominee Tribal Legislature a resume which, pursuant to <cite path="§56-4">§ 56-4</cite>, lists their qualifications for appointment to the School Board.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A member of the School Board may be removed by a majority vote of the Tribal Legislature when, in the Legislature's judgment, the best interests of the Menominee Tribal School will be served thereby or when it is determined that a School Board member does not meet the qualifying criteria for membership.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>School Board members shall be paid an amount per meeting as set by the Menominee Tribal Legislature.<fn path="|I|§56-3|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any vacancy on the School Board shall be filled by appointment by the Menominee Tribal Legislature to complete the unexpired term.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The School Board shall meet at least once per month when the Menominee Tribal School is in session. All other meetings shall be governed by the bylaws of the School Board.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>56-4</num>
+    <heading>Qualifications for appointment.</heading>
+    <para>
+      <num>A.</num>
+      <text>To be appointed to the Tribal School Board a potential member shall: <strong>[Amended 1-16-2020 by Ord. No. 19-37]</strong></text>
+      <para>
+        <num>(1)</num>
+        <text>Be of good, moral, honest, reputable character and shall not have been convicted for any crimes that would, pursuant to tribal, federal, or applicable state law, prohibit that person from working with children.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consent to a criminal background investigation and drug screening test which tests for illegal drugs. "Illegal drugs" means a controlled substance as defined in <cite path="|II|306">Chapter 306</cite>, Article I, Controlled Substances, of this Code or listed in Schedule I or II, as defined by Section 802( 6) of Title 21 of the United States Code, the possession of which is unlawful under <cite>Chapter 14</cite> of that title. The term "illegal drugs" does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be at least 24 years old and be an enrolled member of the Menominee Tribe.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reside within 25 miles of the Menominee Indian Reservation boundaries.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All members shall have a high school diploma or its equivalent. At least two members shall have a minimum of a bachelor's degree.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At least one member will be a parent/guardian of a student attending the Menominee Tribal School.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An employee of the Menominee Tribal School shall not be considered for appointment.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§56-5">
+    <prefix>§</prefix>
+    <num>56-5</num>
+    <heading>Duties.</heading>
+    <text>It shall be the duty of the School Board to:</text>
+    <para>
+      <num>A.</num>
+      <text>Maximize the educational opportunities available for students of the Menominee Tribal School.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Consult and advise the School Administrator on issues related to the operation of the Menominee Tribal School.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Assure adherence to Menominee Tribal School Policies and Procedures.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Interpret Ordinance No. 83-6, Menominee Nation Personnel Policies and Procedures.<fn path="|I|§56-5|footnotes|2">2</fn></text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Develop amendments to Ordinance No. 83-6, Menominee Nation Personnel Policies and Procedures, as they relate to the operation of the Menominee Tribal School with the intent of maximizing functions of an educational setting. The Menominee Tribal Legislature must approve all such amendments.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Supervise and evaluate the School Administrator. The School Board shall have all the powers of a supervisor pursuant to Ordinance No. 83-6. Hiring of a School Administrator shall be done in accordance with Ordinance No. 83-6. The School Board shall appoint two of its members and one Menominee Tribal School employee to interview any prospective candidates for the School Administrator along with one human resources representative and one administrative service officer or administrative manager.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Submit an annual budget to the Menominee Tribal Legislature for approval.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Ensure the School Administrator meets monthly with the Labor, Education, and Training Committee, or any future legislative committee which deals with education, for the purpose of creating a collaborative effort that promotes a cohesive educational system on the Reservation.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Conduct expulsion hearings upon recommendations from the School Administrator and hear appeals from students and parents in accordance with the policies of the Menominee Tribal School and all applicable tribal, federal and state rules and regulations.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Draft bylaws governing the conduct of School Board meetings. Those bylaws must be approved by the Menominee Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Approve the curriculum to be used in the Menominee Tribal School.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Enact or revise any Menominee Tribal School policy(ies) except for personnel policies which are governed by Ordinance No. 83-6.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Negotiate terms of standard teacher contracts or other Menominee Tribal School employee contracts.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Consult with the administrative service officer assigned to the Menominee Tribal School for technical assistance in regard to contract funding to ensure funding compliance.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Ensure Menominee Tribal School compliance with <cite path="|I|7">Chapter 7</cite>, Accounting System, of this Code.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>56-6</num>
+    <heading>Powers.</heading>
+    <para>
+      <num>A.</num>
+      <text>The School Board shall have all powers necessary to carry out the duties listed in <cite path="§56-5">§ 56-5</cite> of <cite path="|I|56">this chapter</cite>. Decisions made by the School Board in applying the policies of the Tribal School are final and are not subject to review, except in Menominee Tribal Court pursuant to Article XVIII of the Menominee Tribal Constitution. Any powers not given to the School Board pursuant to <cite path="|I|56">this chapter</cite> regarding the administration of the Menominee Tribal School are retained by the Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In the exercise of its powers, the School Board shall conduct its duties in accordance with tribal and applicable federal and state laws and regulations.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>56-7</num>
+    <heading>Prohibited actions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Notwithstanding the powers and duties given to the School Board pursuant to <cite path="§56-5">§ 56-5</cite> of <cite path="|I|56">this chapter</cite>, the School Board is prohibited from taking any action regarding the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Employment issues, including but not limited to grievances, complaints and disciplinary action involving any employee of the Menominee Tribal School except in relation to disciplinary action taken by the School Board against the School Administrator pursuant to Ordinance No. 83-6.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Entering into contracts, memorandum of agreements, or any other type of binding agreement without the written consent of the Menominee Tribal Chairperson.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A School Board member is prohibited from unilaterally issuing orders or directing actions where those actions and directions are not a result of a decision made by the School Board at a meeting convened and conducted by the School Board in accordance with the bylaws.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notwithstanding the powers and duties given to the School Board pursuant to <cite path="§56-5">§ 56-5</cite> of <cite path="|I|56">this chapter</cite>, the School Board is prohibited from taking any action which would be contrary to applicable tribal, federal and state laws and regulations or which would violate contracts entered into between the Tribe and a funding source.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>56-8</num>
+    <heading>Status of Board members.</heading>
+    <para>
+      <num>A.</num>
+      <text>Members of the School Board are agents of the Tribe and while acting within the scope of their duties shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the protections of sovereign immunity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Defended by the Tribe against any complaint, grievance, lawsuit, etc., brought against them by any person.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Indemnified by the Tribe for any loss they may suffer as a result of said complaint, grievance, lawsuit, etc.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Actions of the School Board or individual members of the Board which are outside the scope of their duties shall not be subject to the protections listed in <cite path="§56-8|A|(1)">Subsection A(1)</cite> to (3) of this section.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In any action otherwise authorized against the School Board or individual members of the School Board arising from the performance of their official duties, the following shall apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>Neither the School Board nor individual members of the School Board shall be liable for the payment of the costs or expenses of the opposing party.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Neither the School Board nor individual members of the School Board shall be required to post security by bond or otherwise for any purpose.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No civil action brought against the School Board or individual members of the School Board shall be tried before a jury. All such actions shall be tried before a Tribal Court Judge.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any action against the School Board or any individual member of the School Board must be commenced within one year of the date the cause of action accrued.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

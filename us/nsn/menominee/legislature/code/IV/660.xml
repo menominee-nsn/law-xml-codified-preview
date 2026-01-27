@@ -1,0 +1,673 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>660</num>
+  <heading>GAMING AUTHORITIES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Establishment of gaming authorities — See <cite path="|I|90">Ch. 90</cite>.</annotation>
+    <annotation type="General References">Gaming — See <cite path="|II|347">Ch. 347</cite>.</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Menominee Kenosha Gaming Authority</heading>
+    <annotations>
+      <annotation type="History">Adopted 6-17-1999 by Ord. No. 99-11; amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+    </annotations>
+    <section cache:ref-path="IV|§660-1">
+      <prefix>§</prefix>
+      <num>660-1</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this Charter, the following terms shall have the following meanings:</text>
+      <text>AUTHORITY — The tribally chartered business established by this Charter titled the "Menominee Kenosha Gaming Authority."</text>
+      <text>BOARD OF DIRECTORS — The body named in this Charter to provide for the management of the gaming operation defined below.</text>
+      <text>COMPACT — The Gaming Compact of 1992 between the Tribe and the State of Wisconsin dated June 3, 1992, and any amendments thereto and/or successor compacts.</text>
+      <text>GAMING CONTROL CODE — <cite path="|II|347">Chapter 347</cite>, Article III, Gaming Code, as it may be amended from time to time, or any superseding ordinance, including any ordinance enacted by the Authority under <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-3">§ 660-3 of this Charter</cite> and approved under IGRA.</text>
+      <text>GAMING OPERATION — The tribal gaming facility in Kenosha, Wisconsin, established by the Menominee Tribal Legislature pursuant to the Indian Gaming Regulatory Act of 1988<fn path="|IV|§660-1|footnotes|1">1</fn> and the Compact with the State of Wisconsin.</text>
+      <text>GOVERNMENTAL POWERS — Those powers of the tribal government which it engages in as a federally recognized Indian tribe.</text>
+      <text>IGRA — The Indian Gaming Regulatory Act of 1988,<fn path="|IV|§660-1|footnotes|2">2</fn> together with any amendments thereto and any regulations adopted thereunder.</text>
+      <text>KENOSHA PROPERTY — Tribal real property in Kenosha, Wisconsin.</text>
+      <text>TRIBAL LEGISLATURE AND MTL — The tribal governing body elected pursuant to the Menominee Constitution and Bylaws, Section 3, Article IV, and their successors.</text>
+      <text>TRIBAL MEMBER — Any person included on the official roll of the Menominee Tribe. TRIBAL REAL PROPERTY — Land held in trust for the tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-2</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of the tribally chartered business, the Authority, is to develop, construct, conduct, and manage a gaming business in Kenosha, Wisconsin, as authorized by tribal law, the IGRA, and the Compact.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-3</num>
+      <heading>Board of Directors.</heading>
+      <text>Pursuant to Article XIII, Menominee Constitution, this tribally chartered business shall have as its form of management a Board of Directors.</text>
+      <para>
+        <num>A.</num>
+        <text>Members. [Amended 2-4-2021 by Ord. No. 20-43]</text>
+        <para>
+          <num>(1)</num>
+          <text>The Board shall consist of five members. Three members shall be members of the Menominee Tribal Legislature, with no more than one Legislator appointed from each class, unless there are no Legislators in a class willing or eligible to act as a Director, in which case the Legislature may appoint a Legislator from any class. If determined necessary by the Menominee Tribal Gaming Commission, these Legislative members shall maintain a valid gaming license. Membership of Tribal Legislator members on the Board is coterminous with the current legislative term of the appointed Board member. The two other members of the Board must meet the following criteria:</text>
+          <para>
+            <num>(a)</num>
+            <text>Adult enrolled member of the Menominee Tribe;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Must be able to pass a background check, and, if determined necessary by the Menominee Tribal Gaming Commission, maintain a valid gaming license;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Demonstrated knowledge of and participation in Menominee Tribe's efforts to develop a gaming business in Kenosha, Wisconsin.</text>
+            <text class="center">The term of members who are not current Menominee Legislators shall be three years.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All members shall be appointed by the Menominee Tribal Legislature by motion. If the Legislature determines that there are not persons available who meet the requirements of <cite path="§660-3|A|(1)(a)">Subsection A(1)(a)</cite> through (c) the Legislature may choose to leave one or both of these non-Legislator Board member seats vacant.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Conflict of interest prohibited. Pursuant to Article XVII, Menominee Constitution, Board members shall not make or participate in making any decision which involves a substantial personal financial interest, other than those interests held in common by all tribal members.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Powers of Board. The Board shall possess powers listed in Article XIII, Menominee Constitution, and shall be governed by limitations listed therein. The Board is hereby delegated all proprietary powers of the Tribe necessary to permit the Authority to discharge its obligations and to enforce its rights under this Charter and the power to enact and from time to time amend a gaming ordinance and implementing regulations to regulate the conduct of gaming on Kenosha property, provided that such ordinance shall not conflict with any agreement referred to in <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-10">§ 660-10 of this Charter</cite>, and provided further that such ordinance shall provide for a regulatory body separate from the Board. Until the Board enacts any such ordinance and it becomes effective, the Gaming Control Code shall apply to the gaming operation. The Board is also authorized to adopt such bylaws as the Board deems reasonable and to conduct all other activities reasonably necessary to implement the powers enumerated above or to further the business needs of the Authority.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Meetings. The Board shall meet a minimum of four times a year. Additional meetings may be held at the written request of two members of the Board. Places of meetings shall be set by the Board or by the members calling the meeting; provided, however, that such meeting places shall be reasonably accessible for attendance by tribal members. Notwithstanding the foregoing, the Board may hold meetings by telephone conference when, as determined by the Chairperson or by the members calling the meeting, it would be impractical to convene a meeting at which all Directors or a quorum will be physically present. In addition, the Board may take action without a meeting if a consent, in writing, setting out the action so taken, is signed by the number of the Directors required by this Charter to take such action.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Quorum. The quorum for any meeting of the Board shall be the majority of the Directors then in office. <strong>[Amended 2-4-2021 by Ord. No. 20-43]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Notice of meetings. Seventy-two hours' notice of meetings shall be given to Board members, verbal or written, unless circumstances, as determined by the Chairperson of the Board, shall indicate a shorter time.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Officers. The Tribal Legislature shall name the Chairperson of the Board of Directors. The Board may name other officers from its members, including a Vice Chairperson, a Secretary, and a Treasurer, and may define their duties.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Compensation. The Board may receive a reasonable compensation for service on the Board; provided, however, that such compensation shall not exceed the compensation provided for the Tribal Legislature. Compensation under this provision may be revised on an annual basis.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Annual business meeting. The Board shall hold an annual business meeting on the second Saturday of April for the purpose of informing tribal members of the operation of the Authority for the past year. This meeting shall be held in Keshena, Wisconsin, at a time and place reasonably accessible to tribal members. In the event of failure, through oversight or other compelling reasons, to hold the annual business meeting as provided for herein, a subsequent meeting shall be held within 30 days of written request from a tribal member. The Board shall cause the management of the gaming operation to be present at the annual business meeting.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-4</num>
+      <heading>Indemnification of Board of Directors.</heading>
+      <text>Each present, former, and future member of the Board of Directors shall be entitled to be reimbursed and indemnified from assets of the Authority for all legal and other expenses reasonably incurred by him in connection with any claim, action, suit or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as a member of the Board of Directors or by reason of any action alleged to have been taken or omitted by him as a member of the Board (including settlement amounts approved by a majority of the Board then in office other than those involved), provided that the Authority need reimburse such Board member's legal fees and expenses only if they are incurred after the Board has refused to provide legal representation to the member at the Authority's expense. No such reimbursement or indemnification shall be made in connection with any matter arising out of the negligence or misconduct of such Board members. Neither this section nor any action or inaction by the Board under this section shall create any liability against the Board or the Authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-5</num>
+      <heading>Assets.</heading>
+      <text>All income to the Authority from whatever source, including all income from the Kenosha gaming operation, and any funds that are advanced, granted, given, or loaned to the Authority, and any leasehold interest held by the Authority, shall constitute assets of the Authority. No tribal real property, whether owned by the Tribe in fee or owned by the United States in trust, or personal property, other than that listed above, shall be an asset of the Authority for any purpose.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-6</num>
+      <heading>Fiscal practices.</heading>
+      <para>
+        <num>A.</num>
+        <text>General method of operations. The Authority shall be operated in an efficient, businesslike manner in accordance with this Charter. In addition, the Board of Directors shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Establish an accounting system that is in accordance with generally accepted accounting principles and is approved by an independent certified public accounting firm chosen by the MTL.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Cause an inventory of property to be taken as of the last day of business of each fiscal year.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cause an annual audit of the Authority by an independent public accounting firm chosen by the MTL.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Prepare or have prepared an annual financial statement of the operations of the Authority.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Prepare or have prepared monthly and annual financial statements.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Prepare a proposed budget, which shall constitute a plan of operation for the Authority, prior to the beginning of each fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Distribution of net profits. The profits of the Authority realized from the gaming operation shall be disbursed by the Authority to the Tribe each month, except that the Authority shall pay or retain such sums as it is required to pay or retain under contracts entered into with third parties, and the Authority may retain such sums as are reasonable and necessary for incidental operating expenses for the establishment and maintenance of reserve accounts in such amounts for such purposes as the Board deems reasonably necessary and prudent.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-7</num>
+      <heading>Sovereign immunity; pledge of assets of Authority.</heading>
+      <text>The Board may, by specific written agreement with any party, consent to suit against the Authority in its capacity as a tribal business upon any contract, claim, or obligation arising out of its activities authorized by this Charter and may waive the requirement of exhaustion of tribal remedies in such suits, provided that any such waiver of sovereign immunity shall limit the recovery of money damages to the undistributed or future net revenues or other assets of the Authority. Subject to the provisions of this Charter, the Authority is authorized to pledge, mortgage, or otherwise encumber its assets as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein. In no event shall any assets of the Tribe, including tribal forest land and other tribal land, be subject to any obligations of the Authority. The Tribe does not consent to be used in its own name by means of this Charter.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-8</num>
+      <heading>Amendment of Charter.</heading>
+      <text>Subject to the requirements and limitations of <cite path="§660-10">§ 660-10</cite>, pursuant to the vested power of the Tribal Legislature set forth in the Menominee Constitution and Bylaws, the Tribal Legislature shall have the power to amend this Charter by ordinance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-9</num>
+      <heading>Termination of Charter.</heading>
+      <text>Subject to the requirements and limitations of <cite path="§660-10">§ 660-10</cite>, pursuant to the vested power of the Tribal Legislature as set forth in the Menominee Constitution and Bylaws, the Tribal Legislature may terminate this Charter; provided, however, that notice of any such action of termination, and the reasons for such action, shall be posted in accordance with applicable tribal law for a period of 30 days, in addition to notice given to the Board of Directors. In the event that this Charter is terminated as provided for above, the Board of Directors shall promptly relinquish all books and records of the Authority to the Tribal Legislature or its designee.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-10</num>
+      <heading>Special provisions protecting rights of third parties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Amendments. During any period in which an indenture, compact or other contract entered into or binding on the Authority is outstanding or in effect which recites that it is entered into in reliance on this section, the Tribal Legislature shall give notice to all parties to any such contract of intent to amend or repeal the Charter at least 30 days prior to the amendment or repeal. In addition, as part of the Tribe's guarantee of any indenture, compact or other contract entered into by the Authority, amendment or repeal of this Charter shall require the written consent of all parties to such agreements. For the purpose of this provision, an indenture, compact or contract is outstanding or in effect only if it has received all of the regulatory approvals required by law.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Nonimpairment of contracts. Notwithstanding any other provision of tribal law, the Tribe agrees through the issuance of this Charter that it shall enact no law impairing the obligations of contracts entered into by the Authority in furtherance of the development, construction, operation, or promotion of gaming on the Kenosha property. Neither the Legislature nor any committee, agency, or other official body, and no office or official, of the Tribe shall, by exercise of the police power or otherwise, act to modify, amend, or in any manner impair the obligations of contracts entered into by the Board without the written consent of the nontribal parties to such contracts. Any such action or attempted action shall be voided ab initio.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Contract with the tribe. This Charter constitutes a contract between the Tribe and the Authority, and it cannot be amended or repealed except according to its terms. Parties to contracts with the Authority which state that they are entered into in reliance on this section are deemed to be third-party beneficiaries of this Charter, and the provisions of this section are deemed to be part of the Tribe's guarantee of such contract.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-11</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Principal place of business. Initially, the principal office of the Authority shall be located in the Tribal Office Building, Menominee Reservation, in Keshena, Wisconsin. As soon as it is practical after the Kenosha property is acquired by the Tribe, the principal office of the Authority shall be located on the Kenosha property, and the Board of Directors shall maintain offices there. The Authority may have such other offices as the Board of Directors may designate and as the business of the Authority may require from time to time.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Agent for service of process. The Board of Directors shall designate an agent of the Authority for the purpose of accepting service of process. The business address of such agent shall be the principal office of the Authority. Until the Board of Directors designates such agent, the Tribal Secretary shall serve as such agent.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Seal. The Board of Directors may provide a seal of the Authority.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Duration. This Charter shall remain in effect in perpetuity unless revoked according to its terms.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="IV|660|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Menominee Indian Gaming Authority</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-3-2008<fn path="|IV|660|II|footnotes|3">3</fn>; amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: This Charter was adopted as part of an amendment to Ord. No. 97-06. See <cite path="|I|90|I">Ch. 90, Art. I</cite>, Menominee Indian Gaming Authority.</text>
+      </footnote>
+    </footnotes>
+    <section>
+      <prefix>§</prefix>
+      <num>660-12</num>
+      <heading>Name of tribal business.</heading>
+      <text>This Charter is issued to a tribal business to be known as "Menominee Indian Gaming Authority," hereinafter referred to as "MIGA."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-13</num>
+      <heading>Purpose of chartered business.</heading>
+      <text>The purpose of MIGA is to operate the Tribe's gaming operation conducted within the Menominee Indian Reservation as defined by the 1854 Treaty and the Menominee Restoration Act ("Reservation") in order to generate revenue to fund the governmental operations and programs of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-14</num>
+      <heading>Continuity of operation.</heading>
+      <para>
+        <num>A.</num>
+        <text>This amendment reorganizes the existing Menominee Indian Gaming Authority. MIGA, as reorganized by this Charter, shall continue to hold, control, manage and operate all properties, operations, obligations, contract rights, licenses and other rights and inurements of the Menominee Indian Gaming Authority as established pursuant to Tribal Ordinance No. 97-06, adopted by the Tribal Legislature on March 4, 2004, and shall automatically, upon the effective date of this Charter, succeed, without need of any further act or instrument, whether of conveyance or otherwise, to all interests whatsoever of its predecessor in interest in, and to hold, control, manage and operate, all such properties, whether tangible or intangible, operations, contract rights, licenses and other rights and inurements of said predecessor in interest.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In furtherance of the provisions of this section, all valid and binding contractual and other obligations of said predecessor in interest existing on the effective date of this Charter are hereby assumed by MIGA, which shall accordingly be obligated to perform in full each and every such contractual or other obligation heretofore entered into or assumed by said predecessor in interest. Moreover, each and every party to any such contract, instrument, document or agreement (other than said predecessor in interest) shall be a third-party beneficiary of this section and all other pertinent provisions of this Charter, and MIGA shall, upon the effective date of this Charter, automatically succeed to all such preexisting contractual and other obligations without need for any further act or instrument, whether of assumption or otherwise, in favor of any such third-party beneficiary.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-15</num>
+      <heading>Separate existence; proprietary interest for gaming.</heading>
+      <text>MIGA is and shall remain a subordinate instrumentality of the Tribe, which maintains sole proprietary interest and responsibility for the gaming operation conducted pursuant to this Charter. As an instrumentality of the Tribe, MIGA enjoys an autonomous existence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-16</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
+      <text>COMPACT — The Compact between the Menominee Indian Tribe of Wisconsin and the State of</text>
+      <text>Wisconsin dated as of June 3, 1992, as amended from time to time.</text>
+      <text>GAAP — Generally accepted accounting principles in the United States as promulgated by the Government Accounting Standards Board, or such other principles as may be approved by a significant segment of the accounting profession in the United States, that are applicable to the circumstances as of the date of determination, consistently applied.</text>
+      <text>GAMING — Any and all activities defined as Class II or Class III gaming under IGRA or any other gaming activity authorized under the Compact.</text>
+      <text>GAMING ASSETS —</text>
+      <para>
+        <num>A.</num>
+        <text>All cash, cash equivalents, receivables and other assets generated by the gaming operation and all personal property and assets acquired by MIGA and used in the gaming operation after the date of this Charter;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To the extent not included in <cite path="§660-16|A">Subsection A</cite>, all assets and personal property, and any interest therein, held, controlled and managed by MIGA at the date of this Charter; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All proceeds, income and profits from any of the assets referred to in <cite>Subsections A and B</cite> of this definition; provided, however, that gaming assets shall not include:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any real property held in trust in the name of the United States for the benefit of the Tribe or held by the Tribe in fee or restricted fee status wherever located;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any personal property constituting assets of the Tribal Gaming Commission for the proper discharge of the Tribal Gaming Commission's regulatory responsibilities under the Tribal Gaming Ordinance; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any personal property benefiting MIGA primarily because of its use in connection with the Tribe's provision of essential governmental services, such as those related to health, safety and welfare.</text>
+        </para>
+        <aftertext>GAMING OPERATION —</aftertext>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>All gaming operations of the Tribe conducted within the Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any and all other gaming-related development and operations, including but not limited to related retails sales and associated hotel, resort or entertainment facilities, conducted within the Reservation.</text>
+        <text>MIGA — The Menominee Indian Gaming Authority.</text>
+        <text>NET REVENUES — Gross revenues of the gaming operation less amounts paid out as, or paid for, prizes and total operating expenses as determined in accordance with GAAP.</text>
+        <text>RESERVATION — The Menominee Indian Reservation as defined by the 1854 Treaty and the Menominee Restoration Act.</text>
+        <text>RESIDE ON OR NEAR — Having a permanent home on the Reservation or within 20 miles of the exterior boundaries of the Menominee Indian Reservation.</text>
+        <text>TRIBAL GAMING ORDINANCE — Tribal Ordinance No. 93-30, adopted as of March 4, 1999, as amended from time to time and as approved by the National Indian Gaming Commission.</text>
+        <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-17</num>
+      <heading>Powers.</heading>
+      <text>MIGA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to hold, control, manage and operate the gaming operation for the purpose listed in <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-13">§ 660-13 of this Charter</cite>. MIGA is specifically authorized and empowered to:</text>
+      <para>
+        <num>A.</num>
+        <text>Acquire property in its own name and to pledge, mortgage, lease, or otherwise encumber interests in such property as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Hold, control and manage all gaming assets and pledge, mortgage, lease, or otherwise encumber gaming assets, provided that MIGA is not authorized to pledge, mortgage, lease, or otherwise encumber tribal lands or interests therein;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Consent by specific written agreement with any party to sue and be sued in its capacity as an instrumentality of the Tribe upon any contract or obligation arising out of its authorized activities in any court of competent jurisdiction and to consent to arbitration or mediation of disputes;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Consent by specific written agreement with any party to waive any requirement of exhaustion of remedies in Tribal Courts;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Receive, collect and own all revenues and pay all expenses and expenditures arising from or relating to the gaming operation;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Purchase, take, receive, subscribe for, or otherwise acquire, own, hold, vote, use, employ, sell, mortgage, loan, pledge, or otherwise dispose of and otherwise use and deal in and with shares or other interests in, or obligations of, corporations, associations, partnerships or other entities, or individuals, or direct or indirect obligations of the United States or of any other government, tribe, state, territory, governmental district or municipality, or of any instrumentality thereof;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Make and enter into contracts in furtherance of MIGA's purposes and to incur liabilities, indebtedness and other obligations, including the issuance of guarantees and the borrowing of money at such rates of interest as MIGA may determine, and to issue its notes, bonds, debt securities and other obligations and secure any of such obligations by mortgage or pledge of all or any of its property, franchises, revenues and income;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Employ contractors, consultants, agents, managers, advisers, attorneys and accountants;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Lend money, invest and reinvest its funds, and take and hold real and personal property as security for the payment of funds so lent or invested;</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Conduct its affairs, carry on its operations, hold property, and have offices and exercise the powers granted by this Charter;</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Develop, design, construct, equip and finance the gaming operation and associated development and refinance, improve or expand facilities for the use of or as may be useful to MIGA;</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Hire, supervise and terminate employees, consultants and agents of MIGA and define their duties and fix their compensation;</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Make and alter bylaws, not inconsistent with this Charter or with the laws, ordinances, and regulations of the Tribe and the United States, for the administration of the affairs of MIGA; and</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Open and maintain such deposit and securities accounts with banks, securities intermediaries and other financial institutions, whether located within or without the State of Wisconsin, and to deposit therein any or all revenues of the gaming operation, which accounts shall be separate from other accounts of the Tribe, and no assets in the accounts of MIGA shall be commingled with the other assets of the Tribe.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Notwithstanding any other provisions of this Charter, MIGA is specifically not authorized to create debt or other obligations outside the normal course of business that would have the potential to significantly reduce the net revenues transferred to the Tribe, unless the assumption of such debt or other obligation is authorized by the Tribal Legislature.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-18</num>
+      <heading>Form of management.</heading>
+      <text>The form of management of MIGA shall be a Board of Directors.</text>
+      <para>
+        <num>A.</num>
+        <text>Board of Directors.</text>
+        <para>
+          <num>(1)</num>
+          <text>Number of Directors. The Board of Directors shall consist of five Directors.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Initial Board of Directors. The initial Board of Directors shall be composed of the following persons who shall serve in that capacity until the date listed after his/her name, unless he/she resigns or is removed prior to that date:</text>
+          <text>Petronell Martin	August 18, 2008</text>
+          <text>Eugene Caldwell	February 8, 2008</text>
+          <text>Betty Jo Wozniak	May 31, 2009</text>
+          <text>Karen Washinawatok	February 8, 2008</text>
+          <text>Richard R. Dodge	May 17, 2010</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Power and duties. The Board of Directors shall exercise all the powers and be responsible for all the duties of MIGA as set forth in this Charter and the ordinance adopting this Charter. The Board of Directors will determine the manner in which it will exercise its authority and responsibility for the management of the tribal business and the manner and extent to which such powers will be delegated to agents and employees of MIGA.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Appointment. The Board of Directors shall be appointed by the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Qualifications.</text>
+          <para>
+            <num>(a)</num>
+            <text>At least two Directors, not from the same class, shall be members of the Tribal Legislature.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All Directors shall be enrolled members of the Tribe.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All Directors shall reside on or near the Menominee Reservation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All Directors must be able to pass a background check, conducted by the Menominee Tribal Gaming Commission, and maintain a valid gaming license.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Term. The initial Board of Directors shall serve for a term in accordance with <cite path="§660-18|A|(2)">Subsection A(2)</cite> above. Subsequent Directors who are Tribal Legislators shall serve a term that coincides with their three-year term of office on the Tribal Legislature in effect at the time of their appointment. All other Directors shall serve three-year terms.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Quorum. The presence of not fewer than three Directors, at least one of whom is also a member of the Tribal Legislature, shall be necessary to constitute a quorum of the Board of Directors for the transaction of business of MIGA. The act of a majority of Directors present and voting at a meeting of the Board of Directors at which a quorum is present shall be the act of MIGA.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Officers of the Board.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Board of Directors shall have the following officers with the following duties:</text>
+            <para>
+              <num>[1]</num>
+              <text>Chairperson. The Chairperson of the Board of Directors shall be a Director who is a member of the Tribal Legislature and who is designated Chairperson by the Tribal Legislature. The Chairperson shall preside at all meetings of the Board of Directors and shall perform all duties incident to the office of the Chairperson of the Board of Directors and such other duties as, from time to time, may be assigned by the Board of Directors.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Vice chairperson. The Vice Chairperson shall be a Director who acts in the capacity of the Chairperson in the absence of the latter and shall discharge any other duties designated by the Chairperson and such other duties as may, from time to time, be assigned to the Vice Chairperson by the Board of Directors.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Secretary/treasurer. The Secretary/Treasurer shall be custodian of the seal and records and shall perform all duties incident to the office of the Secretary/Treasurer and such duties as may, from time to time, be assigned to the Secretary/Treasurer of the Board of Directors. The Secretary/Treasurer shall, at the expense of MIGA, give a bond for the faithful performance and discharge of the Treasurer's duties in such amount, so conditioned, and with such surety or sureties as the Board of Directors may require.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Other officers. The Board of Directors may appoint an Assistant Secretary to perform the duties of the Chairperson and Secretary/Treasurer, respectively, in the absence of those officers.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Officers generally. All officers of the Board of Directors shall be Directors. No Director shall hold more than one office at any one time.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Appointment, removal, and vacancy. The Chairperson of the Board of Directors shall be designated in conformance with <cite path="§660-18|A|(8)(a)|[1]">Subsection A(8)(a)[1]</cite> above. All other officers shall be elected by the Board of Directors. Any officer, other than the Chairperson, may be removed as an officer by the Board of Directors whenever it believes it is in the best interest of MIGA to do so. Vacancies in any office, other than Chairperson, shall be filled by the Board of Directors. The Chairperson may only be removed from his or her office by the Tribal Legislature, and any vacancy in the office of Chairperson shall be filled by the Tribal Legislature.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Removal. The Tribal Legislature may remove any Director for any reason it deems to be in the best interest of MIGA or the Tribe.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Replacement of Director. Upon resignation, death, or removal of a Director, the Tribal Legislature shall appoint a new Director to fill the remainder of that Director's term of office.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Compensation. Directors may receive a reasonable compensation for service on the Board; provided, however, that such compensation shall not exceed the compensation provided to</text>
+          <text>Tribal Legislators for their service on the Tribal Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Effect of appointment to Board of Directors. Appointment to the Board of Directors shall create no right of any kind to such office.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Reporting requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Board of Directors, and any agent or employee of MIGA designated by the Board, shall submit monthly reports to the Tribal Legislature by the last Thursday of each month for the previous month and may be subject to more frequent periodic reporting requirements if the Tribal Legislature determines that such reports are necessary. The report shall include, at a minimum, a current detailed balance sheet; an income statement that includes a comparison with the same month for the previous fiscal year; a comparative income statement for the current-to-date and previous fiscal year; and a narrative report on the activities of MIGA.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Board of Directors shall submit the proposed annual budget referenced in <cite path="§660-20">§ 660-20</cite>A(6) to the Tribal Legislature for its review and comment at least 60 days prior to the beginning of the new fiscal year. The annual budget will also include the projected amount of revenue transfer to the Tribe, whether it be a percentage of profit or a fixed sum. The budget shall include a listing of any new indebtedness and investments anticipated for the upcoming fiscal year.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any budgets, reports, documents and other information provided to the Tribal Legislature pursuant to the requirements of this <cite path="§660-18|C">§ 660-18C</cite> shall be deemed proprietary confidential business records and not tribal records for the purposes of Menominee Indian Tribe of Wisconsin Constitution and Bylaws, Bylaws II, Section 3.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Conflict of interest. Pursuant to Article XVII, Menominee Constitution and Bylaws, Directors shall not make or participate in making any decision which involves an entity, property, business, transaction, supplier in which the Director, his/her spouse, parent, brother, sister, child, in-law or relative of a first degree owns, controls, manages or directs any interest, other than interests held in common by all tribal members. Nothing in this <cite path="§660-18|D">Subsection D</cite> shall prohibit a Director who is a member of the Menominee Tribal Legislature from making or participating in any decision of the Board which involves the Menominee Indian tribe.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Indemnification. Each present, former, and future member of the Board of Directors shall be entitled to be reimbursed and indemnified from assets of MIGA for all legal and other expenses reasonably incurred by him in connection with any claim, action, suit or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as a member of the Board of Directors or by reason of any action alleged to have been taken or omitted by him as a member of the Board of Directors (including settlement amounts approved by a majority of Directors then in office other than those involved), provided that MIGA need reimburse such Director's legal fees and expenses only if they are incurred after the Board of Directors has refused to provide legal representation to the Director at MIGA's expense. No such reimbursement or indemnification shall be made in connection with any matter arising out of the negligence or misconduct of such Director. Neither <cite path="§660-18|D.">this subsection</cite> nor any action or inaction by the Board of Directors under <cite path="§660-18|D.">this subsection</cite> shall create any liability against the Board of Directors or MIGA.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-19</num>
+      <heading>General manager.</heading>
+      <para>
+        <num>A.</num>
+        <text>Appointment of general manager. The Board of Directors shall appoint a general manager of the gaming operations. The existing contract with the general manager of MIGA is hereby ratified and confirmed. Subject to the existing contractual arrangements with the general manager, the general manager shall serve at the pleasure of the Board. The appointment of the general manager shall be subject to the issuance of a tribal gaming license pursuant to the requirements of the Indian Gaming Regulatory Act, Public Law 100-497, codified as 25 U.S.C. §§ 2701 and 2702, as amended from time to time (IGRA), the Compact, and tribal law.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Qualifications of general manager. The general manager shall show an understanding of gaming operation principles and applicable law, shall have a verifiable record of successful executive and administrative experience, and shall have such other related skills as are deemed necessary or desirable by the Board of Directors; shall have a verifiable record of success in leading profitable business(es), have a demonstrated ability to develop and sustain a work environment focused on driving profit by positively motivating employees to deliver first class service to customers.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Duties of general manager. The general manager shall exercise all authority granted under this code and provided within policies of MIGA approved by the Board. The general manager shall be responsible for increasing revenue earned by MIGA, increasing transfers to the Tribe, leading employees by example, and improving the customer experience in all areas of the gaming operations to set MIGA apart from competitors. The general manager shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Manage and control the gaming operations subject to all applicable federal, state, and tribal laws;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Submit all contracts obligating MIGA by an amount in excess of $100,000 to the Board of Directors for approval, unless the Board, through resolution, authorizes the general manager to execute contracts in excess of this amount;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Develop personnel policies and procedures which reflect the specific requirements of tribal gaming on an as-needed basis, subject to the ratification or approval of the Board of Directors;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Conduct all accounting and fiscal matters pursuant to systems approved by the Board of Directors;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Make reports to the Board of Directors on at least a monthly basis and more often if so requested;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Prepare and propose a budget for each fiscal year which shall be submitted to the Board of Directors for approval; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Perform such other duties as the Board of Directors shall direct.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Reimbursement and indemnification. The general manager shall be entitled to be reimbursed and indemnified by the MIGA for all legal and other expenses reasonably incurred in connection with any claim, action, suit, or proceeding of whatever nature in which he may be involved by reason of having served as general manager. Reimbursement and indemnification under <cite path="§660-19|D.">this subsection</cite> include amounts paid or incurred in connection with reasonable settlements designed to curtail litigation costs. No such reimbursement or indemnification shall relate to any expense incurred or settlement made in connection with any matter arising out of the negligence or misconduct of the general manager, as determined by the Tribal Courts.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-20</num>
+      <heading>Fiscal practices.</heading>
+      <para>
+        <num>A.</num>
+        <text>General method of operations. MIGA shall be operated in an efficient, businesslike manner in accordance with this Charter. In addition, the Board of Directors shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Establish and operate under an accounting system that is in accordance with GAAP and is approved by an independent certified public accounting firm chosen by the Tribal Legislature;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Cause an inventory of property to be taken as of the last day of business of each fiscal year;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cause an annual audit of MIGA by an independent public accounting firm chosen by the Tribal Legislature;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Prepare or have prepared an annual financial statement of the operations of MIGA;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Prepare or have prepared monthly and annual financial statements;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Prepare a proposed budget, in line with industry standards, which shall constitute a plan of operation for MIGA, prior to the beginning of each fiscal year; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Establish and maintain a fiscal year consistent with the Tribe's fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Distribution of net revenues. Subject to applicable restrictions reflecting the terms of any contractual agreement entered into by MIGA, all net revenues, after satisfaction of all liabilities, indebtedness and other obligations then due, other costs and expenses of MIGA, and after reserving such funds as may in the judgment of MIGA be required for compliance with any terms and conditions of any contractual agreement entered into by MIGA and the continuing operation of MIGA in the ordinary course of its business, including required capital expenditures to maintain the plant, property and equipment of the gaming operation, shall be remitted to the general fund of the Tribe for disposition by the Tribal Legislature on at least a monthly basis, provided that, with the approval of the Tribal Legislature, MIGA may reserve such additional funds as may be required for approved capital expansion projects related to the gaming operation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Records; inspection; audits. The books, records and property of MIGA shall be available for inspection at all reasonable times by authorized representatives of the Tribe. The accounts and records of MIGA shall be audited at the close of each fiscal year in accordance with the provisions of the IGRA and the regulations of the National Indian Gaming Commission. Copies of the audit reports shall be furnished to the parties receiving copies of the financial and operating statements and to the Tribal Legislature.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-21</num>
+      <heading>Assets.</heading>
+      <text>MIGA's assets shall consist of all gaming operation revenues, earnings and proceeds of the same and whatever other assets it develops, generates or acquires by other means and, to the extent not included in the foregoing, all gaming assets acquired and owned by MIGA. Notwithstanding the foregoing, for purposes of clarification and the avoidance of doubt, upon transfer of funds or property from the accounts of MIGA to the general funds or other accounts of the Tribe in compliance with all contractual restrictions applicable to MIGA, such funds shall cease to be assets of MIGA without the requirement of further act or deed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-22</num>
+      <heading>Compliance with applicable laws; exercise of powers.</heading>
+      <para>
+        <num>A.</num>
+        <text>Compliance with laws. MIGA shall exercise the duties and powers delegated to it under this Charter in conformity with all applicable laws, including, without limitation, the Tribal Gaming Ordinance, all other laws or regulations of the Tribe, the IGRA, and any applicable federal, state, and local statutes, laws, regulations, ordinances, codes and rules and in conformity with the Compact.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Best interests of Tribe. MIGA shall at all times exercise the duties and powers delegated to it under this Charter in the best interest of the Tribe.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Policies and procedures. MIGA shall adopt such policies and procedures as it may determine necessary for the orderly conduct of its business.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>660-23</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Principal place of business. The principal office of MIGA shall initially be located at the existing Menominee Casino, Bingo and Hotel in Keshena, Wisconsin, on the Menominee Indian Reservation. MIGA may have such other offices as the Board of Directors may designate and as the business of MIGA may require from time to time.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Agent for service of process. The Board of Directors shall designate an agent of MIGA for the purpose of accepting service of process. The business address of such agent shall be the principal office of MIGA.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Seal. The Board of Directors may provide a seal of MIGA.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Duration. This Charter shall remain in effect in perpetuity unless revoked according to its terms.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|335">
+  <prefix>Chapter</prefix>
+  <num>335</num>
+  <heading>FOOD CODE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-20-2023 by Ord. No. 23-26<fn proof="needed" path="|II|335|footnotes|1">1</fn> Amendments noted where applicable.</annotation>
+  </annotations>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Editor's Note: This ordinance also repealed former <cite path="|II|335">Ch. 335</cite>, Food Handling, adopted 9-4-1986 by Ord. No. 86-11, as amended 1-21-1999 and 1-5-2012 by Ord. No. 11-32.This ordinance provided an effective date of 10-1-2023 and also provided: "This</text>
+    </footnote>
+  </footnotes>
+  <section>
+    <prefix>§</prefix>
+    <num>335-1</num>
+    <heading>Title; purpose; scope; right of entry.</heading>
+    <para>
+      <num>A.</num>
+      <text>Food Code. These provisions shall be known as the "Menominee Food Code," hereinafter referred to as the "code."</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Food safety, illness prevention, and honest presentation. The purpose of this code is to safeguard public health and provide to consumers food that is safe, unadulterated, and honestly presented.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Scope. This code establishes definitions; sets standards for management and personnel, food operations, and equipment and facilities; and provides for food establishment plan review, permit issuance, inspection, employee restriction, and permit suspension. This code applies to all food dispensaries, restaurants, retail food establishments, retail food outlets, temporary food establishments, and seasonal food establishments.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Right of entry. The issuance of a license under this code carries with it the implied consent that the Regulatory Authority shall have at all times the right of proper entry upon any and all parts of the premises of any place in which such entry is necessary to carry out the provisions of this code. It shall be unlawful for any person to resist proper entry by the Regulatory Authority representative upon any premises.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>335-2</num>
+    <heading>Adoption of federal food code.</heading>
+    <para>
+      <num>A.</num>
+      <text>Unless otherwise provided herein, the Tribe hereby adopts the entire 2022 Federal FDA Food Code through incorporation by reference into this law.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Should a provision of <cite path="|II|335">Chapter 335</cite> conflict with a provision of the Federal FDA Food Code, the provision of <cite path="|II|335">Chapter 335</cite> will govern.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Copies of the 2022 FDA Food Code adopted pursuant to <cite path="|II|335">this chapter</cite> are available for inspection at the Office of the Tribal Chairperson.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Permit and licensing fees shall be established by the Regulatory Authority and approved by a motion of the Menominee Tribal Legislature. Permit and licensing fees shall be submitted to the Member Services Department at the time of application, renewal, or change of ownership. Permits and licenses are approved by the Regulatory Authority and issued by the Member Services Department.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The term "Regulatory Authority," as used in the adopted Food Code, shall mean the Menominee Indian Tribe of Wisconsin Department of Agriculture and Food Systems.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The following provisions of the FDA 2022 Food Code are modified as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In <cite path="§8-401">Section 8-401</cite>.10(A) and (B), the term "six months" is replaced with "12 months."</text>
+      </para>
+      <aftertext>
+        <strong>amendment shall not impact any prosecution, action, suit or other proceeding pending prior to the effective date of this ordinance brought pursuant to Chapter 335."</strong>
+      </aftertext>
+      <para>
+        <num>(2)</num>
+        <text><cite path="§8-403">Section 8-403</cite>.50 is deleted in its entirety.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notwithstanding any other provision of <cite path="|II|335">this Chapter 335</cite>, the Regulatory Authority is authorized to exempt certain food sales from the requirements of <cite path="|II|335">Chapter 335</cite> or any portion of <cite path="|II|335">Chapter 335</cite> if such food sale is for charitable purposes as defined in a rule issued by the Regulatory Authority that is approved by a motion of the Menominee Tribal Legislature.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>335-3</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Failure to comply with any or all parts of <cite path="|II|335">this Chapter 335</cite> shall result in a fine of not less than $50 and not more than $500 per day for each day of noncompliance.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><cite path="|II|335">This chapter</cite> shall be enforced by the Menominee Tribal Police Department through the issuance of citations upon referral from the Regulatory Authority.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Court shall have jurisdiction, upon petition of the Regulatory Authority through the Tribal Prosecutor, to enjoin any actions in violation of <cite path="|II|335">Chapter 335</cite> where there is a substantial probability that death or serious physical harm could result to any person immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by <cite path="|II|335">this Chapter 335</cite>. Any order issued under this section may require such steps to be taken as may be necessary to avoid, correct, or remove such danger.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

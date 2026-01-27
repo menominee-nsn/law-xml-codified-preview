@@ -1,0 +1,1419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>120</num>
+  <heading>JUDICIARY</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in part histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Administrative procedures — See <cite path="|I|12">Ch. 12</cite>. Arbitration — See <cite path="|I|15">Ch. 15</cite>.</annotation>
+    <annotation type="General References">Executive pardons — See <cite path="|I|81">Ch. 81</cite>.</annotation>
+    <annotation type="General References">Juvenile Justice Code — See <cite path="|I|124">Ch. 124</cite>. Law enforcement — See <cite path="|I|132">Ch. 132</cite>.</annotation>
+    <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|120|1">
+    <prefix>Part</prefix>
+    <num>1</num>
+    <heading>Judiciary And Law And Order Code</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-2-1979 By Ord. No. 79-14,<fn path="|I|120|1|footnotes|1">1</fn> As Amended Through 11-2-1989</annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Ordaining Clause Of This Ordinance Provided As Follows: "Pursuant To Articles III And V Of The Constitution Of The Menominee Indian Tribe There Is Hereby Established, In Accordance With The Following Provisions Of This Ordinance, The Menominee Tribal Judiciary, Vested With All Judicial Powers Of The Menominee Indian Tribe, And The Law And Order Code Of The Menominee Indian Tribe. The Law And Order Code Enacted Herein Is Adopted On An Interim Basis Until Such Time As A More Complete Law And Order Code Is Fully Drafted And Ready To Be Implemented. With Respect To All Matters Covered In This Law And Order Code, The Tribal Judiciary Shall Have Broad Discretion To Construe Its Provisions In A Reasonable Manner To Promote The Interests Of Justice Consistent With Applicable Federal Law And The Tribal Constitution. The Menominee Tribal Judiciary, However, Shall Have No Power To Waive The Requirements Of The Menominee Indian Bill Of Rights Included In This Law And Order Code."</text>
+      </footnote>
+    </footnotes>
+    <container>
+      <prefix>Article</prefix>
+      <num>I</num>
+      <heading>General Provisions</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-1</num>
+        <heading>Constitutional authority.</heading>
+        <text>This Law and Order Code is adopted pursuant to the authority vested in the Menominee Tribal Legislature under Article III, Section 1, of the Constitution of the Menominee Tribe of the Menominee Indian Reservation.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-2</num>
+        <heading>Title.</heading>
+        <text>This Law and Order Code shall be known as the "Law and Order Code of the Menominee Indian Tribe of the Menominee Indian Reservation" and may be referred to as the "Menominee Law and Order Code of the Menominee Nation" or "Law and Order Code" and may be abbreviated as the MLOC. Subcodes and rules included herein may be cited by the name given in the subcode or rule heading.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-3</num>
+        <heading>Amendments.</heading>
+        <text>This Law and Order Code may be amended, additions made hereto, or deletions made herefrom in the manner provided for the adoption of tribal ordinances.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>II</num>
+      <heading>Courts, Judges and Other Court Personnel</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-4</num>
+        <heading>Supreme Court and Tribal Court.</heading>
+        <para>
+          <num>A.</num>
+          <text>There is hereby established the Supreme Court of the Menominee Indian Tribe (which may be referred to as the "Supreme Court") which is vested with jurisdiction over all appeals from all lower Tribal Courts as may be established by the Tribal Legislature. On all matters, the Supreme Court shall constitute the Court of last resort. Judges of the Supreme Court shall be referred to as "Justices." The Supreme Court shall consist of one Chief Justice and two Associate Justices.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>There is hereby established the Menominee Indian Tribal Court (which may be referred to as the "Tribal Court") which is vested with original jurisdiction of all matters within the judicial powers of the Menominee Tribal Judiciary with the exception of subject areas which the Tribal Legislature may by ordinance place within the exclusive jurisdiction of another judicial forum. One Judge shall preside over each Tribal Court.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-5</num>
+        <heading>Judges.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Tribal Legislature shall appoint, by 2/3 of the entire Legislature:</text>
+          <para>
+            <num>(1)</num>
+            <text>One Chief Justice and two Associate Justices for the Supreme Court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Such Judges as the Tribal Legislature may determine for the Tribal Courts.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Such Judges as the Tribal Legislature may determine for Courts with original jurisdiction over specialized subject matters (e.g., a Tribal Juvenile Court) as the Tribal Legislature in the future may see fit to establish.</text>
+          </para>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any Supreme Court Justice may serve as a Judge in the Tribal Court when necessary to provide an available judicial forum in the Tribal Court, provided that the Justice so serving shall be disqualified from participating in a review of any decision entered by him or her while sitting as a Tribal Court Judge. In appropriate circumstances, the Chief Justice shall designate the Justice to serve as the Tribal Court Judge on a case-by-case basis.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-6</num>
+        <heading>Quorum for Supreme Court.</heading>
+        <para>
+          <num>A.</num>
+          <text>A quorum of two Judges (including at least one Justice appointed to the Supreme Court by the Tribal Legislature) shall be required to review and decide each case on appeal. If two Judges review a case and divide 1-1 as to affirmance, the lower court's decision shall be deemed affirmed.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Chief Justice may designate a Tribal Court Judge, or other lower court Judge, to serve as Acting Justice on a case-by-case basis when necessary to provide an available appellate forum consisting of two Acting Supreme Court Justices or, in the discretion of the Chief Justice, to provide an appellate forum consisting of three Acting Supreme Court Justices, provided that no more than one Tribal or other lower court Judge shall so serve on any one case, provided further that no Judge shall so serve who has rendered judgment in the case as a Tribal Court Judge.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Chief Justice may appoint a Tribal Court Judge from another Indian Reservation to serve as a lower court Judge on a case-by-case basis whenever the Chief Justice believes such an appointment is necessary in the interests of justice.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section cache:ref-path="I|§120-7">
+        <prefix>§</prefix>
+        <num>120-7</num>
+        <heading>Terms of office.</heading>
+        <para>
+          <num>A.</num>
+          <text>Supreme Court. The Tribal Legislature shall appoint one Chief Justice and two Associate Justices to the Supreme Court to terms of office as shall be determined in the discretion of the Legislature, provided that each such appointment shall state the term to be served by such appointee. Vacancies which result from any cause prior to the expiration of a term may be filled as provided for above.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Tribal Courts. The Tribal Legislature shall appoint Tribal Court Judges in such numbers and to such terms as in the discretion of the Legislature are deemed necessary to fulfill the needs of Tribal Court. Vacancies which result from any cause prior to the expiration of a term may be filled as provided for above.<fn path="|I|§120-7|footnotes|2">2</fn></text>
+        </para>
+        <footnotes>
+          <footnote>
+            <num>2</num>
+            <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+          </footnote>
+        </footnotes>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-8</num>
+        <heading>Compensation.</heading>
+        <text>Judges shall receive for their services a reasonable compensation as determined by the Tribal Legislature. The Tribal Legislature shall not diminish the compensation of a Judge during his or her term in office.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-9</num>
+        <heading>Removal from office.</heading>
+        <text>The provisions of Article V, Section 5, of the Tribal Constitution shall govern the removal of Judges from office.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-10</num>
+        <heading>Powers and duties of Judges.</heading>
+        <para>
+          <num>A.</num>
+          <text>Judges shall administer justice and discharge all duties imposed upon them by law and shall hear and decide matters of a judicial nature and enter judgments and orders disposing of such matters. In the absence of the Court Clerk, a Judge may perform the Clerk's duties in addition to his own and may receive cash bail or bonds whenever a Clerk or other authorized person is not available.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Chief Justice shall be responsible for the administration of all Courts, unless otherwise provided by ordinance, and shall supervise all probation and parole officers. In addition, the Chief Justice shall be responsible for the assignment of cases and the management of the Court's calendar and business. The Chief Justice shall designate an Associate Justice to act as Chief Justice in his absence.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>All Judges of the Courts of the Menominee Indian Tribe shall conform their conduct to the Code of Judicial Conduct as adopted by the American Bar Association.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Every judicial officer has power to:</text>
+          <para>
+            <num>(1)</num>
+            <text>Preserve and enforce order in his immediate presence, and in proceedings before him, when he is engaged in the performance of his official duty.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Compel obedience to his lawful orders.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Compel the attendance of persons to testify in a proceeding before him as provided by law.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Administer oaths to persons in proceedings before him and in any other case where such shall be necessary in the exercise of his powers and duties.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Punish for contempt to assure the effectual exercise of these powers.</text>
+          </para>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-11</num>
+        <heading>Preparation of rules of procedure and ethics.</heading>
+        <text>Pursuant to Article V, Section 6, of the Tribal Constitution, the Supreme Court shall by order establish written rules of procedure and ethics for all Tribal Courts.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-12</num>
+        <heading>Tribal Election Commission.</heading>
+        <para>
+          <num>A.</num>
+          <text>Pursuant to Article VI, Section 5, of the Tribal Constitution, the Tribal Judiciary shall appoint and supervise the Tribal Election Commission which shall consist of three eligible voters of the Menominee Indian Tribe. Appointment and supervision of the Tribal Election Commission shall be the responsibility of the Supreme Court pursuant to Article VI, Section 8(b), of the Tribal Constitution.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Tribal Election Commission shall perform all the functions delegated to it under the Tribal Constitution.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Tribal Courts shall perform all functions delegated to them under the Tribal Constitution with respect to the Tribal Election Commission.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-13</num>
+        <heading>Disqualification of Judges.</heading>
+        <para>
+          <num>A.</num>
+          <text>A Judge shall disqualify himself from hearing any matter in which he has a direct interest or in which any party to the matter is a relative by blood, to the fourth degree (first cousins), or where he feels that he will not be able to render a just decision.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any party to a legal proceeding may request a change of assignment of Judges to hear the proceeding by filing a written affidavit of prejudice giving sufficient reasonable grounds why the Judge assigned should not hear the case. Such affidavit shall be presented to the Judge assigned to hear the case who shall rule on the sufficiency himself or turn the affidavit over to the Chief Justice or some other Judge for a decision as to whether a different Judge should be assigned.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-14</num>
+        <heading>Oath of office of Judge.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every  Judge  prior  to  taking  office  shall  take  the  following  oath  of  affirmation:  "I 	, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Said oath may be administered by a member of the Menominee Legislature or by a Judge of the Court.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-15</num>
+        <heading>Court Clerk.</heading>
+        <para>
+          <num>A.</num>
+          <text>Upon duly adopted ordinance by the Menominee Tribal Legislature appropriating funds for the employment of a Court Clerk, the Supreme Court shall appoint a Court Clerk pursuant to Article V, Section 7, of the Tribal Constitution. The Tribal Legislature may similarly provide appropriations for the appointment of Assistant Clerks if such Clerks are deemed necessary.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>It shall be the duty of the Court Clerk to supervise and keep all records, files, dockets or other records required to be kept by the Tribal Judicial Code, by rule of the Court, tribal resolution or as otherwise established and further to keep a written record of all proceedings of the Court, to administer oaths, to collect and account for all fines, bail or bond money, fees or other charges which cause money to come to the Court, to deposit and account for all such monies in the manner prescribed by the Menominee Legislature, and to disburse such money as authorized by law. The Clerk shall further assist the Court in any way required to facilitate the performance of its duties, aid the police or private citizens in their dealings with the Court, and may render advice and assistance to individual members of the Tribe or their counsel in the drafting of documents incidental to proceedings in the Courts.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-16</num>
+        <heading>Oath of Clerks.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every Clerk shall take the following oath upon assuming office: "I, 	, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Such oath shall be administered by the Chief Justice of the Supreme Court or any Tribal Court Judge.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section cache:ref-path="I|§120-17">
+        <prefix>§</prefix>
+        <num>120-17</num>
+        <reason>Reserved<fn path="|I|§120-17|footnotes|3">3</fn></reason>
+        <footnotes>
+          <footnote>
+            <num>3</num>
+            <text>Editor's Note: Former <cite path="§120-17">§ 120-17</cite>, Tribal Prosecutor, was repealed 9-16-2021 by Ord. No. 21-78. See now <cite path="|I|98">Ch. 98</cite>, Government Plan.</text>
+          </footnote>
+        </footnotes>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-18</num>
+        <heading>Probation and parole officers.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Administrative Manager may appoint one or more persons to be probation and parole officers and shall determine the qualifications, terms of employment, and compensation of such officers.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Probation and parole officers, subject to the supervision of the Chief Justice, shall have the responsibility of assuring the faithful performance of probation or parole agreements by persons subject thereto, counseling such persons and their families, preparing pre-sentence or other reports as requested by a Tribal Judge, and doing such other things as may be directed by a Tribal Judge or otherwise required by law.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>A probation and parole officer shall have the authority of a police officer to make arrests for violation of probation or parole agreements.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-19</num>
+        <heading>Secretarial and other personnel.</heading>
+        <text>Upon duly adopted ordinance by the Menominee Tribal Legislature appropriating funds for the employment of secretarial and other personnel, such personnel shall be appointed by the Supreme Court.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>III</num>
+      <heading>Contempts</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-20</num>
+        <heading>Acts or failures to act which constitute contempt of Court.</heading>
+        <text>The following acts or failures to act may serve as the basis for finding an individual or other entity in contempt of Court:</text>
+        <para>
+          <num>A.</num>
+          <text>Disorderly, contemptuous, or insulting behavior toward a Judge while holding Court which tends to interrupt the course of the proceedings or undermine the dignity of the Court.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A breach of the peace or loud or boisterous conduct which tends to interrupt the course of a judicial proceeding.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Misbehavior in office or other willful neglect or violation of duty as a counselor, attorney, or other spokesperson appointed, elected, or hired to perform a representative, judicial, or ministerial service in connection with the operation of the Court.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Deceit or abuse of process or proceedings of the Court by a party or counselor to a judicial proceeding.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Disobedience to a lawful judgment, order or process of the Court.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Assuming to be an officer, spokesman or other official of the Court and acting as such without authority.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Rescuing or taking any person or property from the Court or an officer acting under Court order, contrary to the order of the Court.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Unlawfully detaining or otherwise interfering with a witness or party to an action while such person is going to or from a Court proceeding or attending Court.</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Disobedience of a subpoena duly served or refusing to be sworn or answer as a witness.</text>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>Any other interference with the process, proceedings, or dignity of the Court or a Judge of the Court while in the performance of his official duties.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-21</num>
+        <heading>Civil contempt.</heading>
+        <para>
+          <num>A.</num>
+          <text>A civil contempt is prosecuted to preserve, protect, enforce or restore the duly adjudicated rights of a party to a civil action against one under legal obligation to do or refrain from doing something as a result of a judicial decree or order.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Relief in a civil contempt proceeding may be coercive or compensatory in nature as to the complaining party and may include a fine payable to the Court or to the complaining party.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-22</num>
+        <heading>Criminal contempt.</heading>
+        <text>Conduct which is directed at, or is detrimental to, the dignity and authority of the Court is a criminal contempt.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-23</num>
+        <heading>Contempt procedure.</heading>
+        <para>
+          <num>A.</num>
+          <text>A direct contempt is one committed in the presence of the Court or so near thereto as to be disruptive of the Court proceedings, and such may be adjudged and punished summarily.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>All other contempt shall be determined at a hearing at which the person accused of contempt is given notice and an opportunity to be heard.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>IV</num>
+      <heading>Counselors and Professional Attorneys</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-24</num>
+        <heading>Lay counsel.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any person appearing as a party in any judicial proceeding before a Court of the Menominee Indian Tribe shall have the right to be represented by a lay counselor (defined as an advisor who is not a professional attorney) and to have such person assist in the preparation and presentation of his case.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person appearing as a lay counselor shall be subject to the same ethical obligations of honesty and confidentiality toward his client as would be a professional attorney, and the attorney-client testimonial privilege shall apply in the circumstances in which it would be applicable to a professional attorney.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Lay counselors shall be deemed officers of the Court for purposes of their representation of a party and shall be subject to the disciplinary authority of the Court in all matters related to their representative capacity.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-25</num>
+        <heading>Right to be represented by professional counsel.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any party to a civil or criminal action shall have the right to be represented by a professional attorney of his own choice and at his own expense under Rules for Admission to the Menominee Tribal Bar as the Supreme Court shall prescribe, provided that the Menominee Indian Tribe shall have no obligation to provide or to pay for such an attorney. The Supreme Court may establish an appropriate fee and appropriate qualifications for admission to the Menominee Tribal Bar.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Notwithstanding the above, any defendant in a criminal action shall have the right to be represented by a professional attorney and at his own expense, provided that the attorney is a member of the Bar of the State of Wisconsin or of the Bar of any other state or of the District of Columbia. Attorneys so representing criminal defendants shall be deemed admitted to the Menominee Tribal Bar pro hoc vice (solely for the purpose of that case). The Menominee Indian Tribe shall have no obligation to provide or to pay for such an attorney.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The Supreme Court may further provide in its discretion for the admission of attorneys to the Menominee Tribal Bar pro hoc vice in civil cases and may establish an appropriate fee for such admission.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-26</num>
+        <heading>Standards of conduct and obligations for attorneys and lay counsel.</heading>
+        <para>
+          <num>A.</num>
+          <text>Every attorney admitted to practice before the Courts of the Menominee Indian Tribe, and every lay counsel employed or appointed to represent another before such Courts when acting in such capacity or in matters in any way related thereto, shall conform his conduct in every respect to the requirements and suggested behavior of the Code of Professional Responsibility as adopted by the American Bar Association.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Both professional attorneys and lay counselors who hold themselves out as being available to act as such have a moral responsibility to accept as clients and represent without compensation or without full compensation such persons as a Judge of a Tribal Court may feel have a particularly urgent need for such representation but are personally unable to afford or pay for such legal help.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>V</num>
+      <heading>Jurors</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-27</num>
+        <heading>Eligibility for jury duty.</heading>
+        <text>Any enrolled member of the Menominee Indian Tribe, between the ages of 18 and 70, who has not been convicted of a felony or a Class A offense under this code, and who resides on the Menominee Reservation, shall be eligible to be a juror. Judges and other officers or employees of the Court shall not be eligible to be jurors while thus employed. The Chief Justice may by rule adopt procedures whereby non-Indians may be summoned for jury duty in cases in which one or more non-Indian parties are involved.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-28</num>
+        <heading>Jury list.</heading>
+        <text>Each year, the Chief Justice shall prepare a list of eligible jurors, which list shall contain not fewer than 40 names and which shall contain the names of persons from each community, prorated as nearly as possible according to the relative populations of the communities.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-29</num>
+        <heading>Trial juries.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Clerk shall subpoena not fewer than 12 persons from the list of eligible jurors to appear and be available to serve as jurors whenever a jury trial is scheduled in a criminal matter.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The selection from the list of eligible jurors shall be by lot or some other means of random, impartial selection. Any party to the case may challenge not more than three members of the selection.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The trial jury shall consist of six persons and one alternative.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>VI</num>
+      <heading>Subpoenas and Service</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-30</num>
+        <heading>Issuance of subpoenas.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Clerk or any Judge may issue subpoenas to compel the attendance of witnesses, jurors or such other persons as a Judge may direct for a trial, hearing or other proceeding before a Court of the Menominee Indian Tribe.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>In a criminal case, the complaining witness and all witnesses for the Menominee Indian Tribe may be subpoenaed to appear at the date and time set for trial or a reasonable time before such time, plus the defendant shall have the right to have witnesses subpoenaed to appear in his behalf by notifying the Clerk of Court of the names and addresses of such witnesses not less than 10 days prior to the scheduled trial date.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-31</num>
+        <heading>Service of subpoenas; return on service.</heading>
+        <para>
+          <num>A.</num>
+          <text>Subpoenas in criminal cases shall be served by a tribal policeman or other person designated by the Chief Justice or Chief of Police.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Subpoenas in noncriminal cases may be served by any person, over 18 years of age, not a party to the action.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Except by order of the Court based upon good cause shown therefor, no subpoena shall be served between the hours of 9:00 p.m. and 7:00 a.m. or on Sundays or legal holidays.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The person serving a subpoena shall endorse upon the copy served his name, title, and the place, date, and time of service.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The person serving a subpoena shall make a return to the Clerk stating the name of the case, the name of the person served, and the place, date, and time of service and shall subscribe his name thereto under penalty of perjury for the intentional making of a false return.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>VII</num>
+      <heading>Jurisdiction</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-32</num>
+        <heading>Territorial jurisdiction.</heading>
+        <text>The jurisdiction of the Courts of the Menominee Indian Tribe shall extend to the territory within the exterior boundaries of the Menominee Indian Reservation and to such other lands without such boundaries as have been or may hereafter be added to the Reservation or held in trust for the Tribe.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-33</num>
+        <heading>Personal jurisdiction.</heading>
+        <para>
+          <num>A.</num>
+          <text>As used in these jurisdictional provisions, the word "person" shall include any individual, firm, company, association, or corporation.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Subject to any contrary provisions, exceptions or limitations contained in either federal law, the Tribal Constitution, or as expressly stated elsewhere in this Law and Order Code, the Courts of the Menominee Indian Tribe shall have civil and criminal jurisdiction over the following persons:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any person residing, located or present within the Reservation for:</text>
+            <para>
+              <num>(a)</num>
+              <text>Any civil cause of action; or</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Any charge of criminal offense prohibited by this code or other ordinance of the Tribe when the offense is alleged to have occurred within the Reservation.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any person who transacts, conducts, or performs any business or activity within the Reservation, either in person or by an agent or representative, for any civil cause of action or charge of criminal offense for any act expressly prohibited by this Law and Order Code or other ordinances adopted by the Tribal Legislature.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any person who owns, uses or possesses any property within the exterior boundaries of the Reservation, for any civil cause of action or charge of criminal offense prohibited by this code of other ordinances of the Tribe arising from such ownership, use or possession.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any person who commits a tortious act or engages in tortious conduct within the exterior boundaries of the Reservation, either in person or by an agent or representative, for any civil cause of action arising from such act or conduct.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any person who commits a criminal offense prohibited by this code or other ordinance of the Tribe, by his own conduct or the conduct of another for which he is legally accountable, if:</text>
+            <para>
+              <num>(a)</num>
+              <text>The conduct occurs either wholly or partly within the Reservation;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The conduct which occurs outside the Reservation constitutes an attempt, solicitation, or conspiracy to commit an offense within the Reservation, and an act in furtherance of the attempt or conspiracy occurs within the Reservation; or</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The conduct which occurs within the Reservation constitutes an attempt, solicitation, or conspiracy to commit in another jurisdiction an offense prohibited by this code or ordinances of the Tribe and such other jurisdiction.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>None of the foregoing bases of jurisdiction is exclusive, and jurisdiction over a person may be established upon any one or more of them as applicable.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-34</num>
+        <heading>Jurisdiction over property.</heading>
+        <text>Subject to any contrary provisions, exceptions, or limitations contained in either federal laws and regulations, the Tribal Constitution, or as expressly stated elsewhere in this Law and Order Code, the Courts of the Menominee Indian Tribe shall have jurisdiction over any real or personal property located on the Reservation to determine the ownership thereof or rights therein or to determine the application of such property to the satisfaction of a claim for which the owner of the property may be liable.</text>
+        <annotations/>
+      </section>
+      <section cache:ref-path="I|§120-35">
+        <prefix>§</prefix>
+        <num>120-35</num>
+        <heading>General subject matter jurisdiction; limitations.<fn proof="needed" path="|I|§120-35|footnotes|4">4</fn></heading>
+        <text>Subject to any contrary provisions, exceptions, or limitations contained in either federal law or the Tribal Constitution, the Courts of the Menominee Indian Tribe shall have jurisdiction over all civil causes of action and over all offenses prohibited by this code, except the Courts of the Menominee Indian Tribe shall not assume jurisdiction over any civil or criminal matter which does not involve either the Tribe, its officers, agents, employees, property or enterprises, or a member of the Tribe, or a member of a federally recognized tribe, if some other forum exists for the handling of the matter and if the matter is not one in which the rights of the Tribe or its members may be directly or indirectly affected.</text>
+        <footnotes>
+          <footnote>
+            <num>4</num>
+            <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+          </footnote>
+        </footnotes>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-36</num>
+        <heading>Concurrent jurisdiction.</heading>
+        <text>The jurisdiction invoked by this code over any person, cause of action, or subject shall be concurrent with any valid jurisdiction over the same of the Courts of the United States, any state, or any political subdivision thereof; provided, however, that this code does not recognize, grant, or cede jurisdiction to any other political or governmental entity in which jurisdiction does not otherwise exist in law.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-37</num>
+        <heading>Exclusive original jurisdiction.</heading>
+        <para>
+          <num>A.</num>
+          <text>The Courts of the Menominee Indian Tribe shall have exclusive original jurisdiction in all matters in which the Menominee Indian Tribe or its officers or employees are parties in their official capacities.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Nothing contained in <cite path="§120-37|A">Subsection A</cite> or elsewhere in this Law and Order Code shall be construed as a waiver of the sovereign immunity of the Tribe or its officers or enterprises unless specifically denominated as such.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-38</num>
+        <heading>Sovereign immunity.</heading>
+        <text>Except as required by federal law, or by Articles XII and XVII of the Constitution and Bylaws of the Menominee Indian Tribe, the Menominee Indian Tribe shall be immune from suit in any civil action. The Menominee Indian Tribe and its officers and employees shall be immune from suit for an monetary liability arising from the performance of their official duties.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-39</num>
+        <heading>Actions by or against Tribal officers or employees.</heading>
+        <text>In any action otherwise authorized by or against the Tribe or its officers or employees arising from the performance of their official duties, the following modifications to the rules or procedures set forth in this Law and Order Code shall apply:</text>
+        <para>
+          <num>A.</num>
+          <text>Neither the Tribe nor its officers or employees when involved in a civil action arising from the performance of their official duties shall be liable for the payment of the costs or expenses of the opposing party.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Neither the Tribe nor its officers or employees when involved in a civil action arising from the performance of their official duties shall be required to post security by bond or otherwise for any purpose.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No civil action brought against the Tribe or its officers and employees arising from the performance of their official duties shall be tried before a jury. All such actions shall be tried before a Tribal Court Judge.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>In an action against the Menominee Indian Tribe, service of process may be accomplished by delivering the complaint and the summons to the offices of the Chairperson and Vice Chairperson of the Menominee Tribal Legislature at the Menominee Tribal Office during normal business hours.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-40</num>
+        <heading>Limitations in civil actions.</heading>
+        <text>Unless otherwise specifically provided for in the Law and Order Code, the following limitations on the bringing of civil actions will apply:</text>
+        <para>
+          <num>A.</num>
+          <text>Any action against the Tribe or its officers or employees arising from the performance of their official duties must be commenced within one year of the date the cause of action accrued.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any other action must be commenced within three years of the date the cause of action accrued; provided, however, that any cause of action based on fraud or mistake shall not be deemed to have accrued until the aggrieved party has discovered or reasonably should have discovered the facts constituting the fraud or mistake.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-41</num>
+        <heading>Transfer of cases from Court of Indian Offenses.</heading>
+        <text>All cases currently pending before the BIA Court of Indian Offenses are hereby transferred to the Menominee Tribal Judiciary. In deciding these transferred cases, the Menominee Tribal Judiciary shall apply the provisions of 25 CFR Part 11.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>VIII</num>
+      <heading>Bill of Rights</heading>
+      <section cache:ref-path="I|§120-42">
+        <prefix>§</prefix>
+        <num>120-42</num>
+        <heading>Bill of Rights.</heading>
+        <text>The Menominee Indian Tribe shall not:</text>
+        <para>
+          <num>A.</num>
+          <text>Make or enforce any law prohibiting the free exercise of religion, or abridging the freedom or speech, or of the press, or the right of the people peaceably to assemble and to petition for a redress of grievances;</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable search and seizures, nor issue warrants, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the person or thing to be seized;</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Subject any person for the same offense to be twice put in jeopardy;</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Compel any person in any criminal case to be a witness against himself;</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Take any private property for a public use without just compensation;</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Deny to any person in a criminal proceeding the right to a speedy and public trial, to be informed of the nature and cause of the accusation, to be confronted with the witnesses against him, to have compulsory process for obtaining witnesses in his favor, and at his own expense to have the assistance of counsel for his defense;</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year or a fine of $5,000, or both;<fn path="|I|§120-42|footnotes|5">5</fn></text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>Deny to any person within its jurisdiction the equal protection of its laws or deprive any person of liberty or property without due process of law;</text>
+        </para>
+        <para>
+          <num>I.</num>
+          <text>Pass any bill of attainder or ex post facto law; or</text>
+        </para>
+        <para>
+          <num>J.</num>
+          <text>Deny to any person accused of any offense punishable by imprisonment the right, upon request, to a trial by jury of not fewer than six persons.</text>
+        </para>
+        <footnotes>
+          <footnote>
+            <num>5</num>
+            <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+          </footnote>
+        </footnotes>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-43</num>
+        <heading>No power to waive requirements.</heading>
+        <text>The Tribal Judiciary shall have no power to waive the requirements of the Menominee Indian Bill of Rights.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>IX</num>
+      <heading>Miscellaneous Provisions</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-44</num>
+        <heading>Copies of laws.</heading>
+        <text>There shall be kept available for public inspection during regular business hours at the office of the Clerk of the Tribal Court copies of this Law and Order Code and any amendments thereto, plus copies of all laws or rules which are incorporated by reference from other jurisdictions into this Law and Order Code, plus a copy of the Code of Professional Responsibility of the American Bar Association.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-45</num>
+        <heading>Records open to public inspection; exceptions.</heading>
+        <text>The files and records of the Courts of the Menominee Indian Tribe shall be open for public inspection, except that the files and records of adoptions, incompetency proceedings, and proceedings involving juveniles shall not be open to public inspection and may be inspected only pursuant to the provisions regarding sharing of information regarding delinquencies in conformance with <cite path="|I|124">Chapter 124 of the Menominee Tribal Code</cite>, or with prior specific judicial authorization.</text>
+        <annotations>
+          <annotation type="History">Amended 8-17-2017 by Ord. No. 17-17</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-46</num>
+        <heading>Principles of construction.</heading>
+        <text>The following principles of construction will apply to all of the Law and Order Code unless a different construction is obviously intended:</text>
+        <para>
+          <num>A.</num>
+          <text>Masculine words shall include the feminine, and singular words shall include the plural, and vice versa.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Words shall be given their plain meaning and technical words shall be given their usually understood meaning where no other meaning is specified.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Whenever a term is defined for a specific part of this Law and Order Code, that definition shall apply to all parts of this code unless a contrary meaning is clearly intended.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>This Law and Order Code shall be construed as a whole to give effect to all of its parts in a logical, consistent manner.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>If any provision of this Law and Order Code or the application of any provision to any person or circumstance is held invalid, the remainder of this code shall not be affected thereby and to this end the provisions of this Law and Order Code are declared to be severable.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Any typographical errors or omissions shall be ignored whenever the intended meaning of the provision containing the error or omission is otherwise reasonably certain to the Court.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Any other issues of construction shall be handled in accordance with generally accepted principles of construction giving due regard for the underlying principles and purposes of this Law and Order Code.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-47</num>
+        <heading>Definitions.</heading>
+        <text>The following definitions will apply to this Law and Order Code:</text>
+        <text>AGE OF MAJORITY — Eighteen years of age unless otherwise provided for in this Law and Order Code or the Tribal Constitution.</text>
+        <text>INDIAN or INDIAN PERSON — Includes all persons of Indian descent who are members of any</text>
+        <text>recognized tribe under federal jurisdiction or a person who is recognized by the Menominee Indian Community as an Indian.</text>
+        <text>LEGISLATURE or TRIBAL LEGISLATURE — The Menominee Tribal Legislature as specified in Article III, Section 1, of the Constitution of the Menominee Indian Tribe of the Menominee Reservation.</text>
+        <text>MEMBER — Includes a person whose name appears on the membership roll of the Menominee Indian Tribe of the Menominee Reservation.</text>
+        <text>RESERVATION — Include all lands within the exterior boundaries of the Menominee Reservation as defined in Article I of the Constitution of the Menominee Indian Tribe of the Menominee Reservation.</text>
+        <text>TRIBE — The Menominee Indian Tribe of the Menominee Reservation unless another or nonspecific Indian Tribe is clearly intended.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-48</num>
+        <heading>Failure to report upon issuance of civil bench warrant.</heading>
+        <text>The Court shall be prohibited from ordering the arrest or detention of anyone who fails to report when a civil bench warrant shall have been issued for his/her appearance; instead, the Court shall arrange for a hearing upon the matter at its earliest convenience.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>X</num>
+      <heading>Rules of Civil Procedure</heading>
+      <annotations>
+        <annotation type="History">Added 1-5-2012 by Ord. No. 11-32; 5-3-2012 by Ord. No. 12-04</annotation>
+      </annotations>
+      <section>
+        <prefix>§</prefix>
+        <num>120-49</num>
+        <heading>Rules.</heading>
+        <text>The rules of Civil Procedure of the Tribal Courts are those rules established by the Supreme Court pursuant to Article V, Section 6 of the Menominee Tribal Constitution and Bylaws. The Rules of Civil Procedure may be amended from time to time as deemed necessary or appropriate by the Supreme Court. The current Rules of Civil Procedure established by the Supreme Court shall be on file at the Tribal Court and made available to the public.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>XI</num>
+      <heading>Adoption of Federal Regulations</heading>
+      <section cache:ref-path="I|§120-50">
+        <prefix>§</prefix>
+        <num>120-50</num>
+        <heading>Provisional adoption of certain regulations.</heading>
+        <para>
+          <num>A.</num>
+          <text>The provisions of 25 CFR Part 11, 1979 edition, listed below are hereby provisionally adopted for the matters contained therein as part of the Law and Order Code of the Menominee Indian Tribe, provided that in the event of inconsistency between 25 CFR Part 11 and a duly adopted code or portion thereof of the Menominee Indian Tribe, the duly adopted code or portion thereof shall be valid and shall be followed. Any requirement of 25 CFR Part 11 which is not included in a corresponding portion of this Law and Order Code if such corresponding portion exists shall be deemed an inconsistency. Any requirement in derogation of the Menominee Indian Tribe's powers of self-government under the Tribal Constitution shall also be deemed an inconsistency, provided further that the provisions of 25 CFR Part 11 adopted herein shall not be deemed to exhaust the judicial powers of the Menominee Tribal Judiciary as set forth in the Tribal Constitution and in this Law and Order Code.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The Tribal Legislature wishes to make clear that it is adopting the provisions of 25 CFR Part 11, 1979 edition, only until such time as the Tribal Law and Order Code is ready to be implemented by appropriate ordinance or ordinances. The preparation of the remaining provisions of the Law and Order Code is in process. Upon implementation of the Tribal Law and Order Code, the corresponding provisions of 25 CFR Part 11 shall be repealed.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Subject to the above, the following provisions of 25 CFR Part 11, 1979 edition, are hereby adopted:<fn path="|I|§120-50|footnotes|6">6</fn></text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>11.2</td>
+                  <td>11.27</td>
+                  <td>11.44</td>
+                  <td>11.64</td>
+                </tr>
+                <tr>
+                  <td>11.8</td>
+                  <td>11.28</td>
+                  <td>11.45</td>
+                  <td>11.65</td>
+                </tr>
+                <tr>
+                  <td>11.11</td>
+                  <td>11.29</td>
+                  <td>11.46</td>
+                  <td>11.66</td>
+                </tr>
+                <tr>
+                  <td>11.12</td>
+                  <td>11.30</td>
+                  <td>11.47</td>
+                  <td>11.67</td>
+                </tr>
+                <tr>
+                  <td>11.14</td>
+                  <td>11.31</td>
+                  <td>11.48</td>
+                  <td>11.68</td>
+                </tr>
+                <tr>
+                  <td>11.15</td>
+                  <td>11.32</td>
+                  <td>11.49</td>
+                  <td>11.69</td>
+                </tr>
+                <tr>
+                  <td>11.16</td>
+                  <td>11.33</td>
+                  <td>11.51</td>
+                  <td>11.71</td>
+                </tr>
+                <tr>
+                  <td>11.17</td>
+                  <td>11.34</td>
+                  <td>11.52</td>
+                  <td>11.72</td>
+                </tr>
+                <tr>
+                  <td>11.18</td>
+                  <td>11.35</td>
+                  <td>11.53</td>
+                  <td>11.73</td>
+                </tr>
+                <tr>
+                  <td>11.19</td>
+                  <td>11.36</td>
+                  <td>11.54</td>
+                  <td>11.74</td>
+                </tr>
+                <tr>
+                  <td>11.20</td>
+                  <td>11.37</td>
+                  <td>11.55</td>
+                  <td>11.301</td>
+                </tr>
+                <tr>
+                  <td>11.21</td>
+                  <td>11.38</td>
+                  <td>11.56</td>
+                  <td>11.302</td>
+                </tr>
+                <tr>
+                  <td>11.22</td>
+                  <td>11.39</td>
+                  <td>11.57</td>
+                  <td>11.303</td>
+                </tr>
+                <tr>
+                  <td>11.23</td>
+                  <td>11.40</td>
+                  <td>11.58</td>
+                  <td>11.304</td>
+                </tr>
+                <tr>
+                  <td>11.24</td>
+                  <td>11.41</td>
+                  <td>11.59</td>
+                  <td>11.306</td>
+                </tr>
+                <tr>
+                  <td>11.25</td>
+                  <td>11.42</td>
+                  <td>11.62</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>11.26</td>
+                  <td>11.43</td>
+                  <td>11.63</td>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>All provisions made applicable to the Menominee Reservation Court of Indian Offenses by 43 Fed. Reg. 40804 (September 13, 1978) are hereby adopted, namely:<fn path="|I|§120-50|footnotes|7">7</fn></text>
+          <text>11.50ME</text>
+          <text>11.55ME</text>
+          <text>11.90ME</text>
+          <text>11.91ME</text>
+          <text>11.92ME</text>
+          <text>11.93ME</text>
+          <text>11.94ME</text>
+          <text>11.95ME</text>
+          <text>11.96ME</text>
+          <text>11.97ME, including §§ 48.31, 48.32, 48.41, 48.83 and <cite doc="Wis. Stat." path="§48.89">48.89, Wis. Stats.</cite></text>
+          <text>11.98ME</text>
+        </para>
+        <footnotes>
+          <footnote>
+            <num>6</num>
+            <text>Editor's Note: The entry for 25 CFR 11.95ME, Extradition, which originally appeared in <cite path="§120-50">this subsection</cite> was repealed 9-18-1981 by Ord. No. 81-22. See now <cite path="|I|132">Ch. 132</cite>, Law Enforcement, Art. II, Extradition. The entry for 25 CFR 11.305, Minimum standards for detention programs, which originally appeared in <cite path="§120-50">this subsection</cite> was repealed 12-7-1989 by Ord. No. 89-21. See now Ch. A900, Detention Facility Policies and Procedures. Sections 11.34 and 11.35 were repealed 10-15-2020 by Ord. No. 20-30; see <cite path="|I|132">Ch. 132</cite>, Law Enforcement, Art. VI, Probation and Parole.</text>
+          </footnote>
+          <footnote>
+            <num>7</num>
+            <text>Editor's Note: The following entries which originally appeared in <cite path="§120-50">this subsection</cite> were deleted as superseded by subsequent tribal ordinance: 25 CFR 11.70ME, superseded by Ord. No. 93-20 (see <cite path="|II|290|XII">Ch. 290, Art. XII</cite>, Resisting or Obstructing Officer); 25 CFR 11.89ME, superseded by Ord. No. 93-11 (see Ch. 321, Firearms); and 25 CFR 11.96ME, superseded by Ord. No. 83-22 (see <cite path="|II|290|II">Ch. 290, Art. II</cite>, Breaking and Entering).</text>
+          </footnote>
+        </footnotes>
+        <annotations>
+          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Part</prefix>
+    <num>2</num>
+    <heading>Court Procedures</heading>
+    <annotations>
+      <annotation type="History">Adopted As Indicated In Article Histories</annotation>
+    </annotations>
+    <container cache:ref-path="I|120|2|XII">
+      <prefix>Article</prefix>
+      <num>XII</num>
+      <heading>Wisconsin Documents [Adopted 3-17-1983 by Ord. No. 83-2]</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-51</num>
+        <heading>Valid judgments to have full faith and credit.</heading>
+        <text>Valid judgments of the State of Wisconsin rendered under acts of the Wisconsin Legislature shall have the same full faith and credit in the Courts of this Tribe as do these acts, records, judicial proceedings and judgments in any other state.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-52</num>
+        <heading>Qualifications for admission as evidence.</heading>
+        <text>To qualify for admission as evidence in the Courts of this Tribe:</text>
+        <para>
+          <num>A.</num>
+          <text>Copies of acts of the Wisconsin Legislature shall be authenticated by the certificate of the Governor and Secretary of State.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Copies of records, judicial proceedings and judgments of a state court of record shall be authenticated by the attestation of the clerk of the court. The seal, if any, of the court shall be affixed to the attestation, together with a certification by a judge of the court that the clerk's attestation is in proper form.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-53</num>
+        <heading>Determination of court of record.</heading>
+        <text>In determining whether a state court is a court of record, the Tribal Court shall consider the following factors:</text>
+        <para>
+          <num>A.</num>
+          <text>Whether the court keeps a permanent record of its proceedings.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Whether a transcript of the proceedings is available.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Whether final judgments of the court are reviewable by a superior court.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Whether the court has the authority to enforce its own orders through contempt proceedings.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-54</num>
+        <heading>Determination of valid judgment.</heading>
+        <text>In determining whether a state court judgment is a valid judgment, the Tribal Court shall examine the state court record to assure that:</text>
+        <para>
+          <num>A.</num>
+          <text>The state court had jurisdiction of the subject matter and over the person named in the judgment.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>The judgment is final under the laws of the rendering court.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>The judgment is on the merits.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The judgment was procured without fraud, duress or coercion.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The judgment was procured in compliance with procedures required by the rendering court.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-55</num>
+        <heading>Lien or attachment against real or personal property.</heading>
+        <text>No lien or attachment based on a state court judgment may be filed, docketed or recorded in this Tribe against the real or personal property of any person unless the judgment has been given full faith and credit by a Tribal Court under <cite path="|I|120|2|XII">this article</cite>.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-56</num>
+        <heading>Effect on prior judgments.</heading>
+        <text>The Menominee Tribe shall not extend full faith and credit to any state court judgments which bear a date prior to the effective date of <cite path="|I|120|2|XII">this article</cite>.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container cache:ref-path="I|120|2|XIII">
+      <prefix>Article</prefix>
+      <num>XIII</num>
+      <heading>Expungement of Records [Adopted 7-29-1993 by Ord. No. 93-13]</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-57</num>
+        <heading>Title.</heading>
+        <text><cite path="|I|120|2|XIII">This article</cite> shall be titled "Expungement of Records."</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-58</num>
+        <heading>Definitions.</heading>
+        <text>As used in <cite path="|I|120|2|XIII">this article</cite>, the following terms shall have the meanings indicated:</text>
+        <text>VIOLENT OFFENSE — Any offense which results or could reasonably result in physical harm to a person or $1,000 or more in property damage.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-59</num>
+        <heading>Successful completion of sentence.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any person convicted of an offense by the Menominee Tribal Court, upon showing successful completion of sentence, shall have his or her record expunged by the Court. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>A person has successfully completed the sentence if the person has not been convicted of a subsequent offense and, if on probation, the probation has not been revoked and the probationer has satisfied the conditions of probation.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-60</num>
+        <heading>Restrictions.</heading>
+        <para>
+          <num>A.</num>
+          <text>No person convicted of a violent offense is eligible for expungement.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>No person may have more than one offense expunged from his or her record.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>No person convicted of more than one offense by the Menominee Tribal Court is eligible for expungement under <cite path="|I|120|2|XIII">this article</cite>.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container cache:ref-path="I|120|2|XIV">
+      <prefix>Article</prefix>
+      <num>XIV</num>
+      <heading>Tribal Judge Selection</heading>
+      <annotations>
+        <annotation type="History">Adopted 7-7-1994 by Ord. No. 94-08; amended in its entirety 6-19-1997</annotation>
+      </annotations>
+      <section>
+        <prefix>§</prefix>
+        <num>120-61</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of <cite path="|I|120|2|XIV">this article</cite> is to establish a procedure for selection of a Tribal Judge pursuant to Article V of the Menominee Constitution and Bylaws.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-62</num>
+        <heading>Definitions.</heading>
+        <text>As used in <cite path="|I|120|2|XIV">this article</cite>, the following terms shall have the meanings indicated:</text>
+        <text>CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.</text>
+        <text>TRIBAL JUDGE — The person appointed to the office of Tribal Judge by a majority of no fewer than six votes of the Tribal Legislature for a term of years set forth in Article V, Section 2(c) and (d) of the Menominee Constitution and Bylaws.</text>
+        <text>TRIBAL LEGISLATURE — The governing body of the Menominee Tribe elected/appointed pursuant to the Menominee Constitution and Bylaws.</text>
+        <annotations>
+          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-63</num>
+        <heading>Eligibility requirements.</heading>
+        <text>To hold the office of Tribal Judge, a person shall meet the eligibility requirements of Article V, Section 4(a) of the Menominee Constitution and Bylaws.</text>
+        <annotations>
+          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-64</num>
+        <heading>Selection procedure.</heading>
+        <para>
+          <num>A.</num>
+          <text>Sixty days prior to the end of any Tribal Judge's term, the Chairperson shall cause to have posted for a thirty-day period notification that the position of Tribal Judge is open for application by tribal members.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>In the event of a vacancy on the Tribal Court prior to the end of any Judge's term, the posting period shall be at the discretion of the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Applications for the position shall be in writing and shall be accompanied by proof of education requirements.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The Chairperson's office shall schedule applicants for appropriate written examinations as required by the Constitution.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The Tribal Legislature shall schedule the date and time for interviews of all applicants.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>The Tribal Legislature shall place the highest priority on appointment of a Tribal Judge, and in no event shall selection take more than one regular or special meeting.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>The Tribal Chairperson shall swear in the Tribal Judge appointed under <cite path="|I|120|2|XIV">this article</cite> as soon as practicable.</text>
+        </para>
+        <para>
+          <num>H.</num>
+          <text>The Tribal Legislature shall, by motion, name the appointed Tribal Judge and shall expressly state the term of office for such appointment.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>XV</num>
+      <heading>Speedy Trial</heading>
+      <annotations>
+        <annotation type="History">Adopted 12-20-1996 by Ord. No. 96-29</annotation>
+      </annotations>
+      <section>
+        <prefix>§</prefix>
+        <num>120-65</num>
+        <heading>Time frames for filing of complaint and trial.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any criminal complaint charging an individual with the commission of an offense shall be filed within 60 days from the date on which such individual was arrested or served with a citation or summons in connection with such charges.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>In any case in which a plea of not guilty is entered, the trial of the defendant charged in any criminal complaint with the commission of an offense shall commence 70 days from the filing date of the criminal complaint or issuance of the citation or summons or from the date the defendant has appeared before a Judge of the Menominee Tribal Court, whichever date last occurs.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>In any case where a traffic citation has been issued, the trial of the defendant charged with the commission of the traffic offense shall commence within 60 days of issuance of citation.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>The following periods of delay shall be excluded in computing the time within which the criminal complaint must be filed or in computing the time within which the trial of any such offense must commence:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any period of delay resulting from other proceedings concerning the defendant, including but not limited to</text>
+            <para>
+              <num>(a)</num>
+              <text>Delay resulting from any proceeding, including any examinations, to determine the mental competency or physical capacity of the defendant.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Delay resulting from trial with respect to other charges against the defendant.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Delay resulting from interlocutory appeal.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Delay resulting from any pretrial motion, from the filing of the motion through the conclusion of the hearing on or other prompt disposition of such motion.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Delay resulting from consideration by the Court of a proposed plea agreement to be entered into by the defendant and the attorney for the Tribe.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any period of delay resulting from the absence or unavailability of the defendant.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any period of delay resulting from a continuance granted by any Judge on his own motion or at the request of the defendant or his counsel or at the request of the attorney for the government, if the Judge granted such continuance on the basis of his findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>Violation of <cite path="§120-65|A">Subsection A</cite>, B or C of this section shall result in the dismissal of such charge against that individual contained in such criminal complaint or citation upon motion of the defendant. The defendant shall have the burden of proof of supporting such motion, but the Tribe shall have the burden of going forward with the evidence in connection with any exclusion of time under <cite path="§120-65|D">Subsection D of this section</cite>. In determining whether to dismiss the case with or without prejudice, the Court shall consider, among others, each of the following factors: the seriousness of the offense and the facts and circumstances of the case which led to the dismissal.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-66</num>
+        <heading>Statute of limitations.</heading>
+        <para>
+          <num>A.</num>
+          <text>Except as provided in <cite path="§120-66|B">Subsection B of this section</cite>, prosecution for a traffic offense shall be commenced within nine months after the commission thereof, and prosecution for all other offenses shall be commenced within three years after the commission thereof. Within the meaning of this section a prosecution is commenced when a citation, warrant or summons is issued, or the person is arrested, or a criminal complaint is filed. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Notwithstanding that the time limitation under <cite path="§120-66|A">Subsection A of this section</cite> has expired:</text>
+          <para>
+            <num>(1)</num>
+            <text>A prosecution for theft against one who obtained possession of property lawfully and subsequently deemed misappropriated may be commenced within one year after the discovery of the loss by the aggrieved party, but in no case shall this provision extend the time limitation in <cite path="§120-66|A">Subsection A</cite> by more than five years.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A prosecution for a crime where the victim is a minor may be commenced at any time prior to the victim of the crime reaching the age of 25 years.</text>
+          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>In computing the time limited by this section, the time during which the person was not publicly a resident of the Menominee Reservation or during which a prosecution against the person for the same act was pending shall not be included. A prosecution is pending when a warrant, summons, or citation has been issued, an indictment has been found, or an information or criminal complaint has been filed.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container cache:ref-path="I|120|2|XVI">
+      <prefix>Article</prefix>
+      <num>XVI</num>
+      <heading>Jury, Witness and Victim Tampering [Adopted 2-5-2009 by Ord. No. 08-30]</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>120-67</num>
+        <heading>Purpose.</heading>
+        <text>The Menominee Indian Tribe of Wisconsin enacts <cite path="|I|120|2|XVI">this article</cite> for the purpose of ensuring the protection of jurors, witnesses and victims who participate and cooperate in the administration of justice on the Menominee Indian Reservation.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-68</num>
+        <heading>Title.</heading>
+        <text><cite path="|I|120|2|XVI">This article</cite> shall be titled "Jury, Witness and Victim Tampering."</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-69</num>
+        <heading>Definitions.</heading>
+        <text>As used in <cite path="|I|120|2|XVI">this article</cite>, the following terms shall have the meanings indicated:</text>
+        <text>LAW ENFORCEMENT OFFICER — Any member of the Menominee Tribal Police Department, Menominee Tribal Conservation Warden, or other bona fide peace officer acting within his or her official capacity.</text>
+        <text>PROSECUTOR — Any prosecutor of the Menominee Tribal Prosecutor's office or other prosecutor acting within his or her official capacity.</text>
+        <text>VICTIM — Any natural person against whom any crime as defined under the laws of the Menominee Indian Tribe of Wisconsin or under the laws of the United States is being or has been perpetrated or attempted within the jurisdiction of the Menominee Indian Tribe of Wisconsin.</text>
+        <text>WITNESS — Any natural person who has been or is expected to be summoned to testify; who by reason of having relevant information is subject to call or likely to be called as a witness, whether or not any action or proceeding has as yet been commenced, whose declaration under oath is received as evidence for any purpose; who has provided information concerning any crime to any law enforcement officer or prosecutor; who has provided information concerning a crime to any employee or agent of a law enforcement agency using a crime reporting hot line or other telephone number provided by the law enforcement agency; or who has been served with a subpoena issued by the Menominee Tribal Court or any court of the United States.</text>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-70</num>
+        <heading>Jury tampering.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any person who uses physical force or the threat of physical force against any person summoned as a juror, serving as a juror, or who previously served as a juror or a family member of a juror, in relation to any matter, with the intent to influence the juror's actions or decision in a court trial or hearing or prevent his or her participation in a court proceeding or in retaliation for a decision rendered, or attempts to do so, shall be punished by incarceration for not more than one year and be fined up to $5,000 per offense. The court may also order restitution to the victim.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person who knowingly communicates with any person summoned or serving as a juror, directly or through another person, other than in the regular course of court proceedings, or attempts to do so, in relation to any matter, with the intent to influence his or her actions or decision in a court trial or hearing shall be punished by incarceration for not more than six months and be fined up to $2,500 per offense.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Whoever conspires to commit any offense under this section shall be subject to the same penalties as someone who commits the offense or conspires to commit the offense.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-71</num>
+        <heading>Witness and victim tampering.</heading>
+        <para>
+          <num>A.</num>
+          <text>Any person who uses physical force or the threat of physical force against another person, or attempts to do so, with the intent to (1) influence, delay or prevent the attendance or testimony of any person in an official or court proceeding; or (2) prevent the production of a record, document, or other object in an official or court proceeding; or (3) prevent the communication by any person to a law enforcement officer or Judge of the Menominee Indian Tribe of Wisconsin or other Judge of the United States of information relating to the commission or possible commission of a crime or a violation of conditions of probation, parole, supervised release, or release pending judicial proceedings, shall be punished, per offense, by incarceration for not more than one year and be fined up to $5,000. The court may also order restitution to the victim.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Any person who knowingly uses intimidation, threatens or corruptly persuades another person, engages in misleading conduct toward another person, or attempts to do so, with intent to (1) influence, delay, or prevent the testimony of any person in an official or court proceeding; or (2) cause or induce any person to (a) withhold testimony, or withhold a record, document or other object, from an official proceeding; or (b) alter, destroy, mutilate, or conceal an object with intent to impair the object's integrity or availability for use in an official or court proceeding; or (c) evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in an official or court proceeding; or (d) be absent from an official or court proceeding to which such person has been summoned by legal process; or (3) hinder, delay, or prevent the communication to a law enforcement officer or Judge of the United States of information relating to the commission or possible commission of a crime or a violation of conditions of probation, parole, supervised release, or release pending judicial proceedings, shall be punished, per offense, by incarceration for not more than six months and be fined up to $2,500. The court may also order restitution to the victim.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Any person who corruptly (1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object's integrity or availability for use in an official or court proceeding; or (2) otherwise obstructs, influences, or impedes any official or court proceeding; or attempts to do so, shall be punished, per offense, by incarceration for not more than six months and/or be fined up to $2,500.</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Any person who intentionally harasses another person and thereby hinders, delays or prevents, or dissuades any person from (1) attending or testifying in an official or court proceeding; or (2) reporting to a law enforcement officer or Judge of the Menominee Tribal Court or other court of the United States the commission or possible commission of a crime or a violation of conditions of probation, parole, supervised release, or release pending judicial proceedings; or (3) arresting or seeking the arrest of another person in connection with a crime; or (4) causing a criminal prosecution, or a parole or probation revocation proceeding, to be sought or instituted, or assisting in such prosecution or proceeding; or attempts to do so, shall be punished, per offense, by incarceration for not more than three months and/or be fined up to $1,000.</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>In a prosecution for an offense under this section it is a defense that the conduct consisted solely of lawful conduct and that the defendant's sole intention was to encourage, induce, or cause the other person to testify truthfully.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>An official or court proceeding need not be pending or about to be instituted at the time of the offense, and the testimony or the record, document, or other object need not be admissible in evidence or free of a claim of privilege.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>Whoever conspires to commit any offense under this section shall be subject to the same penalties as someone who commits the offense or attempts to commit the offense.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>120-72</num>
+        <heading>Repeat offenses.</heading>
+        <text>For any defendant who is convicted three or more times for any offense under <cite path="|I|120|2|XVI">this article</cite>, the maximum penalty may be increased, per offense, to incarceration for not more than one year and/or a fine up to</text>
+        <text>$5,000.</text>
+        <annotations/>
+      </section>
+    </container>
+  </container>
+</container>

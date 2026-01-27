@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|329">
+  <prefix>Chapter</prefix>
+  <num>329</num>
+  <heading>FIREWORKS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-2-1983 by Ord. No. 83-8; amended in its entirety 11-15-2012 by Ord. No. 12-17. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>329-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|329">This chapter</cite> shall be titled "Fireworks Control and Regulation."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-2</num>
+    <heading>Jurisdiction.</heading>
+    <text><cite path="|II|329">This chapter</cite> shall apply to all persons within the exterior boundaries of the Menominee Indian Reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-3</num>
+    <heading>Conditions for sale of fireworks.</heading>
+    <text>The sale of fireworks shall be subject to the following conditions:</text>
+    <para>
+      <num>A.</num>
+      <text>Adult tribal members only shall engage in the sale of fireworks.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Sales to minors shall be limited to toy paper caps; gold-star-producing sparklers which contain no magnesium, chlorate or perchlorate; toy snakes which contain no mercury; and smoke/party novelties which contain less than 1/4 grain of explosive matter.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-4</num>
+    <heading>Licensing.</heading>
+    <para>
+      <num>A.</num>
+      <text>A tribal license shall be required for the sale of fireworks and shall be issued under the following conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Annual license. Upon payment of annual license fee, sales shall be permitted for one calendar year, as of June 1.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Special license. Upon payment of special license, sales shall be permitted from June 1 through July 15.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Licenses shall be in effect for the entire period of sales and shall not be prorated for fractions of periods.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>License fees shall be established by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. License fees shall be posted for five business days before they shall become effective.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In order to obtain a license under <cite path="|II|329">this chapter</cite>, a person must provide proof of appropriate liability insurance. The insurance must indemnify the Tribe in the event that tribal property is damaged by the fireworks while those fireworks remain on the premises of the licensee. This includes, but is not limited to, explosions or fires caused by said fireworks.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 11-21-2013 by Ord. No. 13-43</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-5</num>
+    <heading>Tribal tax.</heading>
+    <para>
+      <num>A.</num>
+      <text>A tribal tax is hereby levied in the amount of $2 for each licensed day of fireworks sales from June 1 through July 15. The tribal tax for the entire forty-five-day period shall be due and payable, in advance, at the Tribal Offices under the following schedule:</text>
+      <para>
+        <num>(1)</num>
+        <text>June 1: $30.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>June 15: $30.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>July 1: $30.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Failure of any licensee to pay the tribal tax as outlined above shall result in immediate cancellation of license.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-6</num>
+    <heading>Sales from roadside stands.</heading>
+    <text>Sales of fireworks from roadside stands will be allowed.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-7</num>
+    <heading>Fire prevention measures.</heading>
+    <text>At least one 2A water (or better rating) fire extinguisher shall be required when fireworks are sold, and the Fire Chief shall be notified, as soon as practicable upon bringing fireworks for resale onto the Reservation, of the places where such fireworks are stored. No smoking shall be permitted within 50 feet of any place where fireworks are sold or stored. Furthermore, no person shall use fireworks of any kind during a declared burn ban.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-8</num>
+    <heading>Display hours.</heading>
+    <text>With the exception of tribally approved displays, the explosion of fireworks shall be limited to the following period: between the hours of 8:00 a.m. and 10:00 p.m., except for the period from July 1 to July 7, when the evening hours shall be extended to midnight. Violation of this section shall, upon conviction, result in a fine of $25.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-9</num>
+    <heading>Public displays.</heading>
+    <para>
+      <num>A.</num>
+      <text>No entity shall advertise or undertake to engage in a display of fireworks open to members of the public without obtaining prior thereto, and at a minimum of five working days, a fireworks display permit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The application for permit will, at a minimum, contain the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name, address, and telephone number of individual making application.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the tribal organization requesting the permit.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The name and address of employees, agents, representatives, or vendors who shall engage in the sale activities under the applicant's permit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The location of the display.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The type and class of fireworks to be displayed.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The permit processing fee of $25.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The amount, if any, of an admission charge to the display.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Proof of appropriate liability insurance.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The permit holder must provide notice to the Menominee Tribal Police Department as well as the Menominee Tribal Conservation Department, including the date, time and approximate attendance of the display.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-10</num>
+    <heading>Storage and handling.</heading>
+    <text>The following section applies only to those persons required to obtain a permit under <cite path="|II|329">this chapter</cite>.</text>
+    <para>
+      <num>A.</num>
+      <text>A person who stores or handles fireworks shall notify the fire official of the municipality in which the fireworks are stored or handled of the location of the fireworks.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No person may smoke where fireworks are stored or handled.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No person may store or handle fireworks in premises unless the premises are equipped with fire extinguishers approved by the fire official of the municipality where the premises are located.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No person may store fireworks within 50 feet of a public assemblage or place where gasoline or volatile liquid is dispensed in quantities exceeding one gallon.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-11</num>
+    <heading>Violations and penalties.</heading>
+    <text>Any person found guilty of violating <cite path="|II|329">this chapter</cite> shall forfeit a minimum amount of not less than $25 nor in excess of $500 for the first violation, not less than $75 nor in excess of $500 for the second violation, not less than $225 nor in excess of $500 for the third violation, and $500 for each additional violation beyond three violations. In addition to the aforementioned penalties, in the event that a fire is caused, suppression costs will be charged and determined by the Menominee Indian Tribe of Wisconsin. Anyone convicted of a violation of <cite path="|II|329">this chapter</cite> shall be denied a fireworks license for a period of one year.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-12</num>
+    <reason>Reserved</reason>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-13</num>
+    <heading>Indemnification.</heading>
+    <text>Any person licensed under <cite path="|II|329">this chapter</cite> to sell fireworks on the Menominee Reservation shall indemnify and hold harmless the Tribe against all loss, cost, or damage on account of any injury to persons or property occurring as a result of the sale of fireworks.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>329-14</num>
+    <heading>Enforcement.</heading>
+    <text>The provisions of <cite path="|II|329">this chapter</cite> shall be enforced by the Menominee Tribal Police as well as the Menominee Conservation Department.</text>
+    <annotations/>
+  </section>
+</container>

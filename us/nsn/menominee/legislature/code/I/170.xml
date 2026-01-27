@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>170</num>
+  <heading>PERSONNEL</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Government Plan — See <cite path="|I|98">Ch. 98</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|170|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Employment Preference</heading>
+    <annotations>
+      <annotation type="History">Adopted 10-21-1982 by Ord. No. 82-10; amended in its entirety 11-5-2015 by Ord. No. 15-27</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>170-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|170|I">This article</cite> shall be titled "Employment Preference."</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§170-2">
+      <prefix>§</prefix>
+      <num>170-2</num>
+      <heading>Purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text><cite path="|I|170|I">This article</cite> is enacted to provide, to the fullest extent possible, for the social and economic benefits of tribal members by giving them the highest priority in employment with the Menominee tribal government, tribally chartered entities and tribally owned businesses. Further, by this enactment, the Tribal Legislature recognizes its responsibility toward the well-being of tribal members as requested by resolution presented at the General Council, December 5, 1982, and in conformity with Article XV of the Menominee Tribal Constitution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|I|170|I">This article</cite> is enacted pursuant to the mandates of the Menominee Tribal Constitution, Article XV, Tribal Government Career and Merit System of Employment, Sections 1 and 2, which require in part that "all employment and promotion of employees of the tribal government shall be made solely on the basis or merit and fitness demonstrated by examination or other evidence relevant to show competence for the particular employment in question."</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The tribal government shall, to the maximum extent practicable, give preference in hiring to Menominee tribal members within the constitutional limitation of Article XV and while complying with the Menominee Indian Tribe of Wisconsin's responsibilities as an affirmative action/equal opportunity employer as adopted by <cite path="|I|170">Chapter 170</cite> Personnel Article II Policies and Procedures.<fn path="|I|§170-2|footnotes|1">1</fn></text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Nothing in <cite path="|I|170|I">this article</cite> shall be construed to create an employer/employee relationship between the Menominee Indian tribal government and an employee of a tribally chartered business.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: <cite path="|I|170">Chapter 170</cite>, Personnel, Article II, adopted the Personnel Policies and Procedures Manual which is on file at the office of the Tribal Administrator.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-3</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>Application. <cite path="|I|170|I">This article</cite> shall apply to all employment with the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Menominee tribal government, including appointed tribal government positions;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Menominee tribal enterprises;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Menominee Casino Resort/Thunderbird Complex;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Menominee Kenosha Gaming Authority;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>College of the Menominee Nation;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any tribal business chartered pursuant to Article XIII of the Constitution; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Any tribal business chartered pursuant to Article XII of the Constitution.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Restrictions. <cite path="|I|170|I">This article</cite> shall not apply to any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Where it would violate provisions of the Menominee Tribal Constitution, applicable federal law, applicable federal administrative statute or other applicable law or regulation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where it would violate provisions or terms of applicable federal, state or local agreed upon grants, loans, memoranda of understanding, contracts or other agreements.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-4</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|170|I">this article</cite>, the following terms shall have the meanings indicated: ADEQUATE PROOF OF ELIGIBILITY — In addition to required identification:</text>
+      <para>
+        <num>A.</num>
+        <text>For an enrolled member of the Menominee Indian Tribe, a tax exempt identification card issued to the applicant by the Menominee Indian Tribe of Wisconsin containing an enrollment number, or a certificate of enrollment issued to applicant by the Menominee Indian Tribe of Wisconsin's Enrollment Department. If a card is unavailable, Menominee tribal enrollment of the applicant will be verified by the Human Resources Department.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For a first or second generation descendant of the Menominee Indian Tribe, a certificate issued by the Menominee Indian Tribe of Wisconsin's Enrollment Department certifying status as a first or second generation descendant.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For a legally married spouse of an enrolled member, a certified copy of a marriage license and adequate proof of eligibility as an enrolled member of the Menominee Indian Tribe of the spouse listed on said marriage license.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>For a legally adopted child of an enrolled member, adequate proof of enrollment of at least one of the parents listed on the birth certificate. Enrollment will be verified by the Human Resources Department.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>For an Indian enrolled in another tribe, a tax exempt identification card issued to applicant by a federally recognized Indian Tribe containing an enrollment number or a certificate of enrollment issued to the applicant by a federally recognized Indian tribe's enrollment department.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>For a veteran, a copy of the discharge records.</text>
+        <text>BUSINESS DAY — Any day other than Saturdays and Sundays for all employers and for each particular employer, any day recognized by that employer as a holiday.</text>
+        <text>EMPLOYEE — Any person who performs work for an employer for monetary compensation who is not an independent contractor.</text>
+        <text>EMPLOYER — Those entities listed in <cite path="§170-3|A">§ 170-3A</cite>.</text>
+        <text>EMPLOYMENT — Work performed by an employee for an employer subject to the following exceptions:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Elected tribal officials;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Tribal judges;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any work with an employer where such position is restricted to enrolled members of the Menominee Indian Tribe;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Seasonal/limited term/student employee as defined within an employer's personnel policies; or</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Highly specialized professional positions as classified by Human Resources Department.</text>
+        <text>HUMAN RESOURCES DEPARTMENT AND/OR HR DEPARTMENT — For the Menominee Indian</text>
+        <text>Tribe of Wisconsin as an employer, its Human Resources Department. Said terms mean for all other employers covered by <cite path="|I|170|I">this article</cite>, the human resources department of said employer or any other person or department of such other employer as designated by the governing board of such employer.</text>
+        <text>MOST QUALIFIED — The applicant who received/receives the highest combined average score in the selection process and is the person who shall be selected for the position. This is conditional on the applicant passing a background check and in current compliance with any other conditions listed in the job description.</text>
+        <text>QUALIFIED — The applicant meets the requirements for a position as they are written and posted in the job description.</text>
+        <text>SEASONAL/LIMITED TERM/STUDENT EMPLOYEE — A tribal government employee whose employment is not to exceed 20 weeks, and is hired to temporarily supplement the work force or to assist in the completion of a specific project. Seasonal/limited term/student employees are in no way guaranteed permanent employment. Seasonal/limited term/student employees are not eligible for transfer or promotion. Chartered entities and tribally owned businesses shall by policy determine the definition of seasonal, limited term, or student employee, provided the employment of these positions do not exceed 48 weeks.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-5</num>
+      <heading>Posting of positions and screening of applicants.</heading>
+      <text>The following requirements apply to all employers:</text>
+      <para>
+        <num>A.</num>
+        <text>All employment positions, with the exception of vacancies filled by promotion prior to posting, transfer, or layoff recalls pursuant to the applicable employer's personnel policies and procedures, shall be posted a minimum of five business days for the first posting. During the first posting, any enrolled member of the Menominee Indian Tribe who is eligible to apply pursuant to all other applicable requirements and is listed on the tribal roll can apply for the position. The position may go to a second posting or a reposting if the applicants do not meet the minimum requirements for the position. The second posting and reposting process is open to the general public and current employees of the employer. Employers listed in <cite path="§170-3">§ 170-3</cite>A(2) through (7) may modify the provisions for length of posting and reposting of this section so long as the minimum amount of time for posting and reposting is three business days.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All employment postings shall be posted in accordance with <cite path="|I|177">Chapter 177</cite>, Posting Procedures, of this Code, on the employer's website, if the site exists and has provision for posting a position, and by any other means such as newspapers, other websites, etc., as determined necessary by the employer. Each individual employer shall be responsible for posting pursuant to <cite path="|I|170|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The posted positions shall clearly state the minimum requirements and what other desirable qualifications, if any, there are for the position. All postings shall state, if applicable, what equivalent amount and type of experience, education, and knowledge may qualify an applicant if he or she does not yet meet the specific education requirements.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All positions of employment shall have one of the following as a minimum requirement: high school diploma; general education diploma; high school equivalency diploma; or current enrollment in high school, unless such requirement is waived pursuant to <cite path="§170-5|E">Subsection E</cite> below.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The employer may waive the minimum requirements of <cite path="§170-5|D">Subsection D</cite> above if the only education requirement is a high school diploma; general education diploma; high school equivalency diploma and the employer, in writing, believes that waiving the requirement is in the best interest of the employer.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>It shall be prohibited to use job qualifications or personnel requirements that are not necessary to adequately perform the position or would not directly enhance the position and act as barriers to tribal preference.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Individuals with a criminal history of crimes of violence, sexual assault, molestation, exploitation, contact or prostitution, crimes related to controlled substances, or crimes against persons or property may be disqualified for employment if such criminal history is prohibited by or directly related to the position.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>When screening and selecting applicants for interview, the Human Resources Department must interview all enrolled Menominee applicants who are eligible to apply pursuant to all other applicable requirements, who are listed on the tribal roll, and are initially determined to be minimally qualified. However, nothing in this section limits the ability of the interview team to determine after the interview that a Menominee applicant is not qualified based upon the job posting requirements.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>To assist in the screening process, all applicants are required to fully complete, provide all requested additional documentation on the application, and sign the application. The applicant is also required to provide, at the time of submitting an application, all other documentation as required by the job posting. Failure to provide all required information and documentation will result in the applicant not being selected for interview.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The HR Department shall develop a standardized process which each member of the screening team shall fill out to indicate the reasons an applicant was not selected for interview. Individuals screened out by this process shall be given access to the screening results.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-6</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>The following requirements apply to all employers.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Standardized interview score sheet. Each entity subject to <cite path="|I|170|I">this article</cite> shall develop its own standardized hiring form to assign points to each applicant during an interview. The form shall be based on a point system whereby each applicant may obtain a maximum possible score of 100 points. Each employer subject to the provisions of <cite path="|I|170|I">this article</cite> shall give preference in hiring to Indians as prescribed in <cite path="§170-6|B|(1)">Subsection B(1)</cite> below and to veterans as prescribed in <cite path="§170-6|B|(2)">Subsection B(2)</cite> below. The following points shall be assessed:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maximum of 25 for Indian preference:</text>
+          <para>
+            <num>(a)</num>
+            <text>Twenty-five points for an enrolled member of the Menominee Indian Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Ten points for an applicant that is first or second generation descendant of an enrolled member of the Menominee Indian Tribe. The applicant will not receive these points if the applicant has relinquished enrollment with the Menominee Indian Tribe of Wisconsin.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Five points for an applicant that is a legally married spouse or a legally adopted child of an enrolled member of the Menominee Indian Tribe.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Five points for an applicant that is an Indian enrolled in another tribe.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Five points for an applicant that is a first or second generation descendant of an Indian enrolled in another tribe.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Zero points for none of the above.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Veterans preference. An applicant who has been honorably discharged from any branch of the military, including the National Guard, shall be assessed the following: enrolled Menominee veteran, 10 points, or five points for all other veterans.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provided that preference is a first category on the scoring sheet and that the maximum points available for preference are 35 points as prescribed above, employers shall develop other main categories and subcategories that meet the needs of their operations and assign a maximum possible score that can be awarded in the category/subcategory based upon which factors the interview team determines should be given more or less weight in the selection process. The total possible points in these categories shall not exceed 65. These other categories may include, but shall not be limited to, education, experience, Menominee language certifications, special skills and others.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An applicant with higher qualifications may be granted more points in any category than another applicant if those higher qualifications are desirable for the position as provided within the job posting.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>An applicant shall not be eligible for and shall not be granted points pursuant to <cite path="§170-6|B|(1)(a)">Subsection B(1)(a)</cite> through (e) of this section unless the applicant provides adequate proof of eligibility prior to or at the time of his or her interview.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><cite path="|I|170|I">This article</cite> shall not be construed to mean that tribal members are guaranteed employment based on tribal membership only or guaranteed continued employment if they fail to perform at a satisfactory level. This provision is in conformity with the requirements of Article XV of the Menominee Tribal Constitution.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>An HR Director/Manager who was not a part of the interview or selection process has the authority to ensure that the selection and interview process conforms to the requirements of <cite path="|I|170|I">this article</cite> and may either terminate the selection process or refuse to approve of any hiring that fails to conform to the requirements herein.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The employer shall complete a written report on an annual basis providing the employment composition of each department of the employer based upon the preference categories outlined within <cite path="§170-6|B">§ 170-6B</cite>. The employment composition report shall be completed and provided to the Menominee Tribal Chairperson's office by October 31 of each year. The reports shall be included in the Annual Report of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any time an employer subject to <cite path="|I|170|I">this article</cite> hires a nonenrolled Menominee tribal member for a position which an enrolled Menominee has applied and interviewed for, the interview team shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Prepare a written statement listing the reasons why the nonenrolled Menominee tribal member was hired for the job over an enrolled member of the Menominee Indian Tribe which shall be stored in the HR Department interview files for a period of one year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The above-referenced statement shall not be available for public review but shall be released to the <cite path="|I|170">Chapter 170</cite> Review Board, the Tribal Chairman's Office or any appellant upon request. Copies of the statement shall be released to any other party upon lawful subpoena issued under the authority of the Menominee Tribal Court.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-7</num>
+      <heading>Administrative review/enforcement.</heading>
+      <text>Any enrolled Menominee applicant who has been denied employment in violation of <cite path="|I|170|I">this article</cite> shall have such denial administratively reviewed pursuant to the guidelines below. The applicant is only entitled to have the denial administratively reviewed if the enrolled Menominee applicant received an interview for the position and the individual hired was not an enrolled Menominee.</text>
+      <para>
+        <num>A.</num>
+        <text>The appeal must be filed, in writing, and delivered to the HR Department within five working days of notification that the job applicant was not selected for the desired employment position, or notification that the person hired for the desired employment position was not an enrolled Menominee, whichever occurs first.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The HR Director/Manager shall review the appeal and may order a reinterview of all applicants if he or she finds that material errors were committed in the interview process and those errors materially affected the employment opportunity of the appellant. Material error means that the applicant was not assessed proper points for enrollment status.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the HR Director/Manager finds that no material errors were committed and does not order a reinterview of the applicants, the Department shall refer the written appeal along with all relevant documents relied upon in the selection process to the <cite path="|I|170">Chapter 170</cite> Review Board. Within five working days, the HR Department shall provide:</text>
+        <para>
+          <num>(1)</num>
+          <text>A written response prepared by the HR Department to the allegations of the applicant as to why there were will be no reinterview;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Job posting;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Application, resume and cover letter;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Screening sheets;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Score sheets;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>All correspondence with the applicants;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Statements of interviewers regarding the hiring decision; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any other relevant documents.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The <cite path="|I|170">Chapter 170</cite> Review Board for the Menominee Indian Tribe of Wisconsin shall consist of five members pursuant to the following guidelines:</text>
+        <para>
+          <num>(1)</num>
+          <text>One of the selected members must be a member of the Tribal Legislature who will serve as the Chairperson of the Board. The remaining four members must be current employees of the Menominee tribal government when appointed, enrolled members of the Menominee Indian Tribe of Wisconsin and listed in the Constructive Dispute Resolution pool.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The term of the Tribal Legislator will only extend as long as his/her current term with the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Board members may be removed and replaced by other eligible persons when the Chairperson determines such action is in the best interests of the MITW, including but not limited to failure to perform duties under <cite path="|I|170|I">this article</cite>, dishonesty, fraud, and termination of employment with MITW.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Board members shall receive monetary payment in accordance with policy.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Board shall establish procedures consistent with the duties and responsibilities under <cite path="|I|170|I">this article</cite> for the orderly conduct of hearings.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The <cite path="|I|170">Chapter 170</cite> Review Board for all employers subject to <cite path="|I|170|I">this article</cite>, other than the Menominee tribal government, shall be appointed by that employer's governing board. Each employer shall create procedures governing the appointment, term and removal of the members of such <cite path="|I|170">Chapter 170</cite> Review Board, and shall establish procedures consistent with the duties and responsibilities under <cite path="|I|170|I">this article</cite> for the orderly conduct of the hearings.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The <cite path="|I|170">Chapter 170</cite> Review Board shall review, within 20 days, the appeal and written materials provided by the HR Department and determine whether the selection process was followed as described herein:</text>
+        <para>
+          <num>(1)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board review shall be limited to reviewing the written appeal submitted by the appellant and documents submitted by the HR Department, e.g., the documents relied upon in making the selection decision.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board shall conduct a paper review of the selection process; no testimony or oral arguments will be taken. However, the appellant shall be afforded the opportunity to make a five-minute statement before the <cite path="|I|170">Chapter 170</cite> Review Board summarizing his or her complaint and the relief he or she seeks, if requested by the appellant. Any interview team member, successful candidate, and the HR Department may also make a five-minute statement before the <cite path="|I|170">Chapter 170</cite> Review Board regarding their position, if they so request.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board review shall be limited to the following issues:</text>
+          <para>
+            <num>(a)</num>
+            <text>Were the applicants assessed the appropriate points for their membership status?</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Was the position properly posted, were applicants prescreened and interviewed as required by <cite path="|I|170|I">this article</cite>?</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Did the hired individual meet the minimum posted standards?</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Did the individual with the highest combined average score receive the position?</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Was the awarding of points and/or the hiring decision arbitrary and capricious?</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Was there anything in the background check or reference check that affected the selection process?</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All hearings and discussion of the <cite path="|I|170">Chapter 170</cite> Review Board shall be conducted in closed session.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board may, if necessary, request written clarifications of either the appellant or the HR Department to any of the issues relevant to the above section.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Upon conclusion of the review, the <cite path="|I|170">Chapter 170</cite> Review Board shall make a clear and objective written decision, including a detailed findings of fact and conclusions of law in support of its decision using a standardized document. The decision of the <cite path="|I|170">Chapter 170</cite> Review Board shall be to either uphold the selection decision or remand the matter back to the HR Department and order that a reinterview by a new interview team take place consistent with its findings. The HR Department or other agents of the Menominee Indian Tribe of Wisconsin shall not be liable for back pay, attorney fees or other costs to an applicant who successfully appealed his or her nonhire.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board shall not have the power to discipline, hire or fire any party.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The sole authority of the <cite path="|I|170">Chapter 170</cite> Review Board is to ensure that the selection process is conducted in accordance with <cite path="|I|170|I">this article</cite>. Serious, habitual and intentional violations of <cite path="|I|170|I">this article</cite> by Menominee tribal government employees may be referred to the Tribal Chairperson for resolution or for employees of other employers to that employer's governing board.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The <cite path="|I|170">Chapter 170</cite> Review Board shall not discuss the complaint amongst one another or with anyone else outside of the Board hearing, except as needed to request information from a party or the HR Department or to seek the assistance of the Legal Services Department.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-8</num>
+      <heading>Appeals to Tribal Court.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any enrolled Menominee applicant denied employment by the Menominee Indian Tribe of Wisconsin or other employer under <cite path="§170-3|A">§ 170-3A</cite> pursuant to <cite path="|I|170|I">this article</cite> may appeal such a denial to the Menominee Tribal Court only after he or she has exhausted his or her administrative appeal herein. An appeal is not allowed if the individual hired for the position was an enrolled Menominee. Such an appeal shall be at the applicant's own cost and without the benefit of an attorney appointed by the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Court shall not assess damages or court costs or other costs against the Menominee Indian Tribe of Wisconsin or other employer named under <cite path="§170-3|A">§ 170-3A</cite>, its agents or employees acting within the good faith scope of their duties. The Court may only grant equitable relief to litigants. Any and all trials shall be conducted before a Tribal Judge with no cases tried before a jury.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Menominee Tribal Court shall be the sole jurisdiction to hear cases appealed under <cite path="|I|170|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All appeals must be filed within 20 days of a final administrative decision.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-9</num>
+      <heading>Conditional hiring.</heading>
+      <para>
+        <num>A.</num>
+        <text>All employment is conditioned upon no reversal of the selection process pursuant to the remedies available under <cite path="|I|170|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Employers shall have the right to discharge any employee selected without penalty or liability if such discharge is lawfully required pursuant to the remedies available under <cite path="|I|170|I">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-10</num>
+      <heading>Indemnification; immunity.</heading>
+      <text>Employers shall indemnify and hold harmless their respective employees of the HR Department, attorneys, the members of the <cite path="|I|170">Chapter 170</cite> Review Board, and other agents or employees of the employer who perform their good faith duties pursuant to <cite path="|I|170|I">this article</cite>. Additionally, the abovementioned individuals shall be immune from suit in their individual capacities while performing their good faith duties pursuant to <cite path="|I|170|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|170|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Policies and Procedures [Adopted 8-21-2014 by Ord. No. 14-15]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>170-11</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|170|II">This article</cite> shall be titled "Personnel Policies and Procedures."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-12</num>
+      <heading>Findings.</heading>
+      <text>Under <cite path="|I|1">Chapter 1</cite>, General Provisions, of the Code of the Menominee Indian Tribe of Wisconsin, <cite path="§1-15">§ 1-15</cite>, Ordinances saved from repeal, Ordinance No. 83-6 and any amendments thereto were saved from repeal upon the effective codification date of February 9, 2012.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-13</num>
+      <heading>Purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of <cite path="|I|170|II">this article</cite> is to set forth the parameters of the MITW Personnel Policies and Procedures Manual, and to ensure that all employment and promotions of employees of the tribal government shall be made solely on the basis of merit and fitness as demonstrated by examinations or other evidence relevant to show competence for the particular employment in question pursuant to Article XV of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All termination of employment with the tribal government shall be made solely on the basis of incompetence, or any other reason which results in failure to perform employment duties satisfactorily.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Tribal employees shall adhere to the personnel policies and procedures.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-14</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Governmental Affairs Committee shall be responsible for the establishment of the Personnel Policies and Procedures Manual of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Personnel Policies and Procedures Manual and any amendments, additions and/or deletions shall be done in accordance with and furtherance of the purpose of <cite path="|I|170|II">this article</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Personnel Policies and Procedures Manual shall contain the following provisions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Employment procedures;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Compensation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Standards of conduct;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Disciplinary procedures;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Workplace safety;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Employee services/benefits; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Other necessary personnel and policy provisions.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Government Affairs Committee shall make changes, additions and/or deletions to the Personnel Policy and Procedures Manual by committee motion and shall forward to the Menominee Tribal Legislature for concurrence. Changes, additions and/or deletions shall become effective upon a motion of concurrence from the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Notice of changes, additions and/or deletions to the Personnel Policies and Procedures Manual shall be provided to employees no later than 15 business days after concurrence by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A copy of the Personnel Policies and Procedures Manual shall be kept on file at the Chairperson's Office, Department of Administration and Human Resources Department.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-15</num>
+      <heading>Applicability.</heading>
+      <text><cite path="|I|170|II">This article</cite> shall be applicable to all employees of the tribal government of the Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-16</num>
+      <heading>When effective.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon enactment, <cite path="|I|170|II">this article</cite> shall replace and repeal the provisions of Ordinance No. 83-6, titled "Personnel Policies and Procedures Manual," its amendments and motions thereto pertaining and amend in its entirety <cite path="|I|170">Chapter 170</cite> Article II. Any reference in any law, regulation, or other document of the Tribe to Ordinance No. 83-6 and <cite path="|I|170">Chapter 170</cite>, Article II is hereby deemed to be a reference to <cite path="|I|170|II">this article</cite>. <cite path="|I|170|II">This article</cite> shall take effect immediately upon final approval by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The current Menominee Indian Tribe Personnel Policies and Procedures Manual that was approved by the Menominee Tribal Legislature on February 1, 2007, shall stay effective and operational until such time as changes, additions and/or deletions are made pursuant to <cite path="|I|170|II">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

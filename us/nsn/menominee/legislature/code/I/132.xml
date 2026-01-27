@@ -1,0 +1,2030 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|132">
+  <prefix>Chapter</prefix>
+  <num>132</num>
+  <heading>LAW ENFORCEMENT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Judiciary and Law and Order Code — See <cite path="|I|120">Ch. 120</cite>, Part 1. Juvenile Justice Code — See <cite path="|I|124">Ch. 124</cite>.</annotation>
+    <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>. Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Police Department</heading>
+    <annotations>
+      <annotation type="History">Adopted 11-20-1980 by Ord. No. 80-28</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>132-1</num>
+      <heading>Duties of police officers.</heading>
+      <text>Tribal police officers are to maintain and keep the peace within the exterior boundaries of the Menominee Indian Reservation and to enforce all law and order ordinances adopted by the Tribal Legislature in accordance with the Constitution and Bylaws of the Menominee Nation exercising its rights and authority as a sovereign nation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-2</num>
+      <heading>Department responsible to Legislature.</heading>
+      <text>The Menominee Tribal Police Department shall be directly responsible to the Tribal Legislature, the governing body of the Menominee Nation pursuant to Article III, Section 1 of the Constitution and Bylaws.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-3</num>
+      <heading>Authority of police officers.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Tribal Legislature hereby clothes the tribal police officers with tribal authority to enforce all tribal laws, in accordance with any applicable provision within the Constitution and Bylaws of the Menominee Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Tribal police officers have authority under this section if they have complied with all applicable requirements of the current Bureau of Indian Affairs - OJS Law Enforcement Handbook and any additional requirements from the Tribe.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Tribal police officer" shall also mean "law enforcement officer," "community service officer," or "police officer" throughout this code.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Arrest and detention authority. The arrest and detention authority of the Menominee Tribal police officers includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>A police officer arresting in compliance with an arrest warrant issued by a Menominee Tribal Court Judge or a valid apprehension and detention order issued by the Tribal Probation Department under Article IV, Probation and Parole, of <cite path="|I|132">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A police officer may arrest, without warrant, an offender for any criminal offense committed in his/her presence or within his/her view.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A police officer may arrest, without warrant, where the police officer has probable cause to believe that the person to be arrested has committed a criminal offense, although not in the presence of the officer.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A police officer may arrest, without warrant, any probationer where the police officer has reason to believe a violation of probation has occurred.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A police officer may arrest without warrant for the violation of a traffic regulation if that officer has probable cause to believe that the person is violating or has violated a traffic regulation.</text>
+          <para>
+            <num>(a)</num>
+            <text>The arresting officer shall issue a citation pursuant to <cite path="|II|550">Chapter 550</cite> of this Code and release the person, except as described below.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Officer may make a custodial arrest when:</text>
+            <para>
+              <num>[1]</num>
+              <text>The person refuses to sign a written promise to appear; or</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The person does not have or will not provide valid identification, or the provided identification cannot be verified.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The officer shall make a custodial arrest when:</text>
+            <para>
+              <num>[1]</num>
+              <text>The penalty for the traffic violation includes jail time; or</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The person has outstanding warrants.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A police officer may detain a person if the officer has cause to believe that the person meets the civil commitment standards for emergency detention.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A police officer may conduct a traffic stop when, under the totality of the circumstances, he or she has grounds to reasonably suspect, or has probable cause, that a crime or traffic violation is being or has been committed.</text>
+          <para>
+            <num>(a)</num>
+            <text>The period of detention for the stop may last no longer than is necessary in order to identify the person believed to have committed the violation, to conduct a reasonable investigation into the circumstance, and to issue a citation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When conducting a traffic stop, an officer is only permitted to investigate the violation that formed the basis for the stop unless the officer develops independent reasonable grounds to continue to detain the person.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Officers conducting the traffic stop may use the degree of force reasonably necessary to make the stop and to ensure the safety of the officer, the person stopped or other persons who are present.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Officers are not permitted to search without warrant the driver or vehicle for evidence of a traffic violation except for:</text>
+            <para>
+              <num>[1]</num>
+              <text>An officer may seize a plainly visible open container from inside the vehicle during the stop;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>An officer may frisk for weapons during a traffic stop if he or she develops reasonable suspicion that the subject(s) in the vehicle pose an immediate threat of serious physical harm; or</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>As authorized by <cite path="|I|121">Chapter 121</cite> of this Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The stop may be extended, if, during the course of the stop, the officer develops independent reasonable grounds to detain the person, including plain view and plain smell by the officer.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Reasonableness should be determined on the totality of the circumstances that exist at the time and place the officer acts. Reasonable grounds are defined as a quantum of information that is greater than that which would justify a stop, but less than that required for probable cause.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>After having identified himself or herself as a police officer, a police officer may stop a person in a public place for a reasonable period of time when the officer reasonably suspects that such person is committing, is about to commit, or has committed a crime, and may demand the name, address, and status as an Indian of the person and an explanation of the person's conduct. Such detention and temporary questions shall be conducted in the vicinity where the person was stopped.</text>
+          <para>
+            <num>(a)</num>
+            <text>When a law enforcement officer has stopped a person for temporary questions pursuant to <cite path="§132-3|D.|(8)|(a)">this subsection</cite> and reasonably suspects that he or she or another is in danger of physical injury, the police officer may search such person for weapons or any instrument or article or substance readily capable of causing a physical injury and of a sort not ordinary carried in public places by law abiding persons. If the police officer finds such a weapon or instrument, or any other property that may constitute a threat to his or her safety, the police officer may take it and keep it until the completion of questioning, at which time the law enforcement officer shall either return it, if lawfully possessed, or arrest the person so questioned.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An officer who stops a person on reasonable suspicion may not frisk the person for evidence. When an officer conducts a proper weapons frisk and has probable cause to believe that an object is evidence of a crime, the officer may remove the object; however, the officer may not manipulate or explore the object further if the officer does not immediately recognize that the object is evidence of a crime.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>A police officer stopping in compliance with an approved impaired-driving checkpoint conducted under a checkpoint plan and guidelines regulating officer discretion. Notice of checkpoint plan and guidelines must be submitted to the Tribal Chairman's office by law enforcement for review. Approval shall be granted by the Tribal Chairman.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>A police officer arresting in compliance with Article II, Extradition, of <cite path="|I|132">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>A police officer may detain occupants during search warrant service if the occupants are in the immediate vicinity of the area described in a valid search warrant.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Within the territorial jurisdiction of the Menominee Indian Tribe, a tribal police officer may detain nonindians for delivery to state or federal authorities for prosecution. Such detention shall be no longer than is reasonable for the other jurisdiction to arrive.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>As authorized by other tribal laws or lawful court orders.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>A tribal police officer's arrest authority and law enforcement authority may expand beyond territorial jurisdiction of the Menominee Indian Tribe by cooperative agreements with federal, state, county, or city governments if approved by the Menominee Tribal Legislature, or as specifically authorized by federal law.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>This section repeals the provisional adoption of 25 CFR Part 11, 1979 edition, Section 11.15, Arrests.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 1-18-2018 by Ord. No. 17-32</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Extradition</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-18-1981 by Ord. No. 81-22; amended in its entirety 5-17-2007</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>132-4</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|132|II">this article</cite> is to provide a mechanism whereby the State of Wisconsin or any other state and the Tribe can have returned to the jurisdiction of each sovereign persons who have been charged with violation of its criminal laws and who have fled. Further, <cite path="|I|132|II">this article</cite> shall provide a mechanism for tribal law enforcement officers to temporarily detain a person subject to a felony warrant from another jurisdiction prior to formal commencement of extradition proceedings.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-5">
+      <prefix>§</prefix>
+      <num>132-5</num>
+      <heading>Repealer.</heading>
+      <text>Upon enactment of <cite path="|I|132|II">this article</cite>, Section 11.95 ME of Menominee Nation Ordinance 79-14 is repealed.<fn path="|I|§132-5|footnotes|1">1</fn></text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code, <cite path="§120-50">§ 120-50</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-6</num>
+      <heading>Form of demand and warrant for arrest.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whenever any person authorized by state law to request extradition presents a written complaint based upon affidavit to any Judge of this Tribe alleging that a person on this Reservation was present in the demanding state at the time of commission of the alleged crime and that thereafter the accused fled to the Reservation as a haven from prosecution, or with having been convicted of a crime in that state and having escaped from confinement, or having broken the terms of his or her bail, probation, extended supervision or parole, attaching to said complaints a certified copy of an indictment or information and an arrest warrant, the Tribal Court Judge shall issue a warrant directed to any peace officer commanding the officer to apprehend the person named therein, wherever the person may be found on this Reservation, and to bring the person before the same or any other Tribal Court Judge who may be available in or convenient of access to the place where the arrest may be made to answer the complaint, and a certified copy of the sworn complaint and affidavit upon which the warrant is issued shall be attached to the warrant.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any tribal law enforcement officer who, in the course of his or her duties, comes into contact with a person who is subject to a valid outstanding felony arrest warrant issued by any state court is authorized to detain said person. Immediately upon detaining said person, the tribal law enforcement officer shall notify the jurisdiction that issued the felony arrest warrant of such detention and determine whether said jurisdiction intends to pursue extradition of such person pursuant to <cite path="§132-6|A">Subsection A</cite>. If the requesting jurisdiction states its intent to pursue extradition, the issuing jurisdiction's warrant will be given full faith and credit and be treated in the same manner as a tribal arrest warrant for a period of 48 hours, excluding holidays and weekends. If, after 48 hours, excluding holidays and weekends, the issuing jurisdiction has not obtained a tribal arrest warrant pursuant to <cite path="§132-6|A">Subsection A of this section</cite>, the issuing jurisdiction's warrant will no longer be given full faith and credit and the person shall be released. If the issuing jurisdiction states that it does not intend to pursue extradition, the person shall be released, unless subject to detention pursuant to tribal law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-7</num>
+      <heading>Hearing.</heading>
+      <text>If from the examination before the Judge it appears that the person held is the person charged with having committed the crime alleged and that person held has fled from justice and is using the Menominee</text>
+      <text>Reservation as a haven from prosecution, the Judge shall inform the person of the demand made for his or her surrender and that the person has the right to obtain legal counsel at his or her expense, and if the person desires to test the legality of his or her arrest, the Judge of the Tribal Court shall fix a reasonable time to be allowed the person within which to commence an action for habeas corpus. When such action is commenced, notice thereof, and of the time and place of hearing thereon, shall be given to the prosecuting officer of the Tribe and to the agent of the demanding state.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-8</num>
+      <heading>Confinement in jail.</heading>
+      <text>Pending the hearing for habeas corpus stated above, or pending the arrival of the authorized agent of the demanding state, the Judge shall confine the person to tribal jail. The cost of keeping said prisoner shall be borne by the demanding state.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-9</num>
+      <heading>Delivery of criminals.</heading>
+      <text>If after the time allowed or commencement of habeas corpus petition pursuant to <cite path="§132-7">§ 132-7</cite> has run and the person has not commenced such an action, or if after the hearing on the habeas corpus petition, the Judge finds that the arrest was lawful, or after the person waives their right to a hearing pursuant to <cite path="§132-10">§ 132-10</cite> of <cite path="|I|132|II">this article</cite>, the keeper of the tribal jail shall turn over said prisoner to the authorized officer of the demanding state.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-10</num>
+      <heading>Written waiver of extradition proceedings.</heading>
+      <text>Any person arrested on the Reservation pursuant to <cite path="|I|132|II">this article</cite> may waive all rights to hearings under <cite path="|I|132|II">this article</cite> and voluntarily consent to return the demanding state by executing or subscribing in the presence of a Judge of the Tribal Court a writing which states that the person consents to return to the demanding state. Before such waiver shall be executed, the Judge shall inform the person of the grounds for his or her arrest and his or her right to a hearing pursuant to <cite path="§132-7">§ 132-7</cite> of <cite path="|I|132|II">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-11</num>
+      <heading>Prosecution instituted by Tribe.</heading>
+      <text>If a criminal prosecution has been instituted against such person under the laws of the Tribe and is still pending, the Tribal Judge in his or her discretion may surrender the person on the demand of the executive authority of another state or may hold the person until the person has been tried and discharged or convicted and punished by the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-12</num>
+      <heading>Fugitives from Reservation.</heading>
+      <text>The Menominee Tribal Prosecutor is authorized to seek the return to this Reservation of any person charged with a crime on the Reservation or a person convicted of a crime on this Reservation who has escaped confinement or broken terms of his or her bail, probation, extended supervision or parole and who has fled the Reservation to avoid prosecution. The Menominee Tribal Chief of Police or his or her authorized agent shall have the authority to receive from any state any person whose extradition to the Menominee Tribe has been authorized by said state.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-13</num>
+      <heading>Burden of proof of Indian status.</heading>
+      <text>Any person subject to extradition under <cite path="|I|132|II">this article</cite>, as amended, who claims to be Indian shall have the burden of proof for the validity of such claim by presenting evidence in written form when such claim is made that he or she is "Indian" as that term is defined for criminal jurisdiction purposes pursuant to federal law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-14</num>
+      <heading>Search warrants.</heading>
+      <text>Any search warrant issued by a Circuit Court in the State of Wisconsin authorizing a search within the Menominee Indian Reservation presented to a Judge of the Menominee Tribal Court shall be treated as an order of the Menominee Tribal Court if the Judge finds the following:</text>
+      <para>
+        <num>A.</num>
+        <text>The underlying criminal action to which the warrant relates took place outside the boundaries of the Menominee Indian Reservation; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The owner or occupant of the premises or property to be searched is suspected of being involved in the commission of the underlying crime related to the search warrant.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Police Chief</heading>
+    <annotations>
+      <annotation type="History">Adopted by 3-7-1985 by Ord. No. 85-1; amended in its entirety 7-2-2020 by Ord. No. 20-11</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>132-15</num>
+      <heading>Title; purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text>Title. <cite path="|I|132|III">This article</cite> shall be titled "Election of Tribal Police Chief."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Purpose. By direction of the Tribal Legislature, under authority of the Menominee Constitution, Article VI, Section 3, an election was held on the question of election of the Tribal Police Chief. A majority of tribal voters voting in that election consented to election of the Tribal Police Chief. <cite path="|I|132|III">This article</cite> is enacted to comply with that result.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-16</num>
+      <heading>Eligibility; petition; qualifications; candidate certification.</heading>
+      <para>
+        <num>A.</num>
+        <text>Eligibility review by Election Commission prior to nomination. The candidate must meet the following criteria to be eligible for nomination:</text>
+        <para>
+          <num>(1)</num>
+          <text>The candidate shall be an enrolled member of the Menominee Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The candidate shall be 30 years of age or older.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The candidate shall reside on the Menominee Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Petition. In accordance with the schedule found herein, a candidate for the office of Tribal Police Chief shall file with the Election Commission a petition of not fewer than 100 signatures of adult enrolled tribal members which has been certified by the circulator.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Police Chief qualifications. Police Chief qualifications will be verified through the submittal of the following documents: an updated resume and proof of education, certification, a copy of his or her driver's license, and a certified background investigation form with his or her nomination petition.</text>
+        <para>
+          <num>(1)</num>
+          <text>The candidate shall have not been convicted of any felony in any state or the United States or been convicted of any criminal act under any tribal law where the potential penalty upon conviction is one year of imprisonment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The candidate shall not have been convicted of any crime under tribal, state, or federal law which would prohibit the candidate from working with Indian children under applicable tribal, state and federal statutes.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The candidate shall be eligible to drive a tribal vehicle under the Tribe's motor vehicle use policies.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The candidate shall meet all requirements for the position as listed in the Tribe's BIA 638 Law Enforcement Contract and BIAM.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The candidate shall be determined suitable to carry out the duties of Chief of Police pursuant to objective psychological and skills testing performed by the Human Resources Department.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The candidate shall have previously successfully completed a police recruit academy. If the candidate has not been employed as a certified and commissioned law enforcement officer for more than three years, the candidate must obtain certification by waiver or complete an Indian Police Academy certified basic police officer training program to meet recertification.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The candidate shall have a bachelor's degree in criminal justice, management, public administration, or business administration and seven years of experience in a management or supervisory role. In the absence of a bachelor's degree in one of the areas above, the candidate shall have 10 years of experience in a management or supervisory role within a police department.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The candidate must not have been terminated for cause or resigned from a police department within the past year.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The candidate must not have been removed as a Police Chief on a prior occasion.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Candidate certification. The Election Commission, in conjunction with the Tribal Human Resource Department, will verify the above-listed Police Chief qualifications for each candidate who has completed the petition and submitted the required documents for verification. Only eligible candidates who have completed the petition and meet the Police Chief qualifications within timelines set forth in <cite path="|I|63">Chapter 63</cite>, Elections, will be certified by the Election Commission and placed on the ballot.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-17">
+      <prefix>§</prefix>
+      <num>132-17</num>
+      <heading>Election; duties; supervision.</heading>
+      <para>
+        <num>A.</num>
+        <text>Primary. If two eligible candidates only file for the office of Tribal Police Chief, there shall be no primary, and election of the Chief of Police will proceed in accordance with <cite path="§132-18|B">§ 132-18B</cite> of <cite path="|I|132|III">this article</cite>. The candidate with the highest number of votes shall be declared the winner. If three or more eligible candidates file for the office of Tribal Police Chief, there shall be a primary. The two candidates with the highest number of votes shall have a runoff in accordance with <cite path="§132-18|B">§ 132-18B</cite> of <cite path="|I|132|III">this article</cite>. In the event of ties, the Tribal Legislature shall decide the winner in accordance with all applicable laws.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Elections which result in ties. In any election of the Tribal Police Chief which results in a tie between two or more candidates, the tie shall be broken by choosing lots.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Voter defined. Any member of the Menominee Tribe who is 18 years of age or older on the date of the election shall be eligible to vote for Tribal Police Chief.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Term of office. The term of office shall be four years. It shall commence on February 9 and conclude on February 8 four years later.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Duties. The Tribal Police Chief shall perform the following duties:</text>
+        <para>
+          <num>(1)</num>
+          <text>Comply with procedures, authority, and guidelines contained in the Menominee Tribal Law and Order Code,<fn path="|I|§132-17|footnotes|2">2</fn> the Menominee Tribal Constitution and Bylaws, Title 18 U.S.C., 25 CFR, 68 BIAM, recent court decisions and other applicable rules, regulations, Code chapters, ordinances and statutes that pertain to performance of police duties.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Maintain law and order on the Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Enforce all tribal law and be responsible for security of all tribal property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Direct and supervise all tribal police personnel.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Cooperate with the FBI and BIA for investigations on the Reservation and cooperate with state and county police as required.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Perform such other functions as are necessary for security and protection of people and property on the Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prepare and deliver monthly reports to the Police Commission in a format approved by the Commission.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Administer the law enforcement services 638 contract and assure full compliance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Comply with all policies, ordinances and regulations of the Menominee Indian Tribe in regard to administering the Police Department.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Successfully complete a physical efficiency battery test within one year of taking office and annually thereafter.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Successfully complete firearms qualifications within 30 days of taking office and biannually thereafter.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Maintain all eligibility requirements and qualifications as outlined in <cite path="§132-16">§ 132-16</cite> of <cite path="|I|132|III">this article</cite> for the duration of the term of office.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Direction and supervision. <strong>[Amended 2-4-2021 by Ord. No. 20-44]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>The Police Commission shall direct and supervise the Tribal Police Chief. Failure by the Tribal Police Chief to carry out the directions of the Police Commission shall be deemed to be an act of insubordination and cause for removal as provided for herein; provided, however, that lawfully made decisions/actions by the Tribal Police Chief in regard to criminal investigations and arrest or citation shall be at the sole discretion of the Tribal Police Chief pursuant to applicable law. Time cards for the Chief of Police shall be signed by the Chairperson of the Police Commission.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the initial Police Commission has not yet been fully seated, the Tribal Police Chief shall be supervised by the Chairperson of the Menominee Tribal Legislature until such time the initial Police Commission becomes fully seated. Time cards will also be signed by the Chairperson of the Menominee Tribal Legislature until such time the Police Commission becomes fully seated.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-18</num>
+      <heading>Voting.</heading>
+      <para>
+        <num>A.</num>
+        <text>Polls.</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Place</th>
+                <th>Day</th>
+                <th>Time</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Neopit</td>
+                <td>Wednesday</td>
+                <td>9:30 a.m. to 7:30 p.m.</td>
+              </tr>
+              <tr>
+                <td>Keshena</td>
+                <td>Thursday</td>
+                <td>9:30 a.m. to 7:30 p.m.</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Absentee balloting. Absentee balloting shall be permitted as provided for in <cite path="|I|63">Chapter 63</cite>, Elections, of this Code.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Tallying of votes. The procedure for counting ballots outlined in <cite path="|I|63">Chapter 63</cite>, Elections, shall be followed.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-19</num>
+      <heading>Challenges; taking office; compensation.</heading>
+      <para>
+        <num>A.</num>
+        <text>Election challenge. Any eligible voter or group of eligible voters have 10 days from the Election Commission's certification date to file a written complaint with the Tribal Court pursuant to Article VI, Section 7, Menominee Constitution challenging the election.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Installed in office. Election of the Tribal Police Chief shall coincide with the final election of Tribal Legislature; and the elected Tribal Police Chief shall take office at the same time as Tribal Legislators.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Compensation. <strong>[Amended 2-4-2021 by Ord. No. 20-44]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>The initial salary of the newly elected Tribal Police Chief shall be determined by the Police Commission, based on experience according to the GS Scale, law enforcement services 638 contract. The Tribal Police Chief will receive an annual cost-of-living adjustment (COLA) in accordance with the law enforcement services 638 contract. If the initial Police Commission has not yet been fully seated, the salary of the newly elected Tribal Police Chief shall be determined by the Chairperson of the Tribal Legislature in consultation with the rest of the Legislature.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Annual evaluations shall be made by the Police Commission, which may result in salary increases.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-19.1">
+      <prefix>§</prefix>
+      <num>132-19.1</num>
+      <heading>Removal from office.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Police Commission may remove the Police Chief from office, by a majority vote, for any of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure to properly administer the law enforcement services 638 contract.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Misuse of funds or property within the control of the Tribal Police Chief.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Insubordination.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Failure to maintain eligibility or qualifications as outlined in <cite path="|I|132|III">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Violation of Law Enforcement Code of Conduct.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Violation of any rules contained in the Personnel Policies and Procedures of the Menominee Indian Tribe which may result in termination of the employment of a tribal employee.<fn path="|I|§132-19.1|footnotes|3">3</fn></text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Failure to perform the duties listed in <cite path="§132-17">§ 132-17</cite> of <cite path="|I|132|III">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In any action of removal, the Police Commission shall conform to the requirements of the law enforcement services contract which states:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Chief of Police must be notified in writing of the action and give a full specification of the reasons for such action.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide the Chief of Police with a written statement of any such specific violation of rules, regulations, or statutes the Police Chief has committed and the names and sworn statements of all persons upon whose testimony these allegations are based.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide the Chief of Police with notice that he may formally request the Police Commission to hold a reconsideration hearing on the removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Chief of Police shall carry the burden of proof by preponderance of the evidence that the removal action was in error or without just cause during any reconsideration hearing or appeal to the Menominee Tribal Legislature or Tribal Courts.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If the Chief of Police formally requests a reconsideration hearing from the Police Commission, the Chief of Police must submit the request in writing to the Chair of the Police Commission. The request for a reconsideration hearing must be submitted to the Chair of the Police Commission within five working days of receiving the written notification of removal. Failure to submit the formal request within five working days will result in the removal as being final, and the Police Chief will be ineligible to appeal to the Menominee Tribal Legislature or Tribal Courts.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Upon receipt of the formal request for a reconsideration hearing, the Chair of the Police Commission shall set a reconsideration hearing date not less than 15 working days from receipt of the formal request. The Chief of Police shall be notified in writing of the date and time of the reconsideration hearing and will be provided guidelines for the reconsideration hearing.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Information to be provided.</text>
+        <para>
+          <num>(1)</num>
+          <text>Ten working days prior to the hearing, the Chief of Police and the Police Commission shall provide to the opposing party the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>List of witnesses and brief description of the testimony expected from the witness.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Name of legal counsel, if any.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Copies of any documents or evidence that will be presented to the hearing panel.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Failure to provide this information by the deadline will require the facilitator to prevent the testimony of witnesses or the presentation of this evidence to the Police Commission. In response to the prehearing disclosures, each party may amend their list of witnesses, legal counsel and evidence to be considered during the hearing, provided such amended list is provided to the other party at least three working days before the hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Reconsideration hearing. The HR Manager or a senior member of the Human Resources Department shall act as a facilitator of the reconsideration and shall conduct the hearing in a manner consistent with the reconsideration hearing guidelines established by the Police Commission. At the hearing, the facilitator shall ensure the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Chief of Police and the Chief of Police's counsel are provided with the opportunity to confront and cross-examine each adverse witness at the hearing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Chief of Police and the Chief of Police's counsel are provided with the opportunity to delineate issues, to present factual contentions in an orderly manner and to generally protect the Chief of Police's interest.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That each party is provided up to three hours to present their case, provided that all the matters presented shall only concern the items listed to the prehearing disclosures evidence and witnesses. The facilitator may extend this time limit of he/she deems it necessary.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>That each party is reminded that both parties accord the other proper respect and dignity that each other deserves, and shall suppress personal attacks, snide remarks, conversational domineering and other unhelpful behaviors at the reconsideration hearing.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>That the Police Commission reviews evidence, information and hearing witness testimony germane only to the matter at hand.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>That the reconsideration hearing is recorded.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Deliberations and determinations.</text>
+        <para>
+          <num>(1)</num>
+          <text>Deliberations of the Police Commission shall be limited to the Police Commission and the facilitator, who will only provide guidance to the Police Commission. A simple majority vote of the Police Commission shall decide the outcome of the reconsideration hearing. The Police Commission shall be limited to reconsidering the decision for removal based solely on evidence given at the reconsideration hearing.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 10 working days of the reconsideration hearing, the Police Commission shall submit to the Police Chief written findings of facts that includes:</text>
+          <para>
+            <num>(a)</num>
+            <text>A summary of the information and arguments presented by the Police Chief.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A summary of the information and arguments presented by the Police Commission.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Police Commission's decision to either uphold or overturn the removal action and the basis for and evidence relied upon in reaching that decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The written findings of facts shall be mailed (via certified mail) or hand delivered to the Chief of Police. A copy of the determination shall also be forwarded to HR its records.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Appeal of Commission decision to Menominee Tribal Legislature.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the Police Commission upholds the decision for removal, the Police Chief may appeal the decision of the Police Commission to the Menominee Tribal Legislature, provided that the Police Chief sends a written request for appeal to the Chairperson of the Tribal Legislature within five working days of receipt of the Police Commission's written findings of facts.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Menominee Tribal Legislature shall schedule an appeal hearing within 30 days of receipt of the request for appeal. The appeal hearing and deliberations shall be held in Executive Session of the meeting.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Menominee Tribal Legislature shall be limited to a review of the written statement of the removal provided to the Chief of Police, the written request for a reconsideration hearing, the prehearing disclosures provided by each party, the decision of the Police Commission and the audio recording of the reconsideration hearing.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A two-thirds vote of the Menominee Tribal Legislature is required to overturn the decision for removal of the Police Commission.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Menominee Tribal Legislature shall issue a written finding of facts within 10 working days of the appeal hearing held by the Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The Legislature's appeal decision to uphold removal of the Tribal Police Chief may be appealed to the Menominee Tribal Courts, provided that the removed Police Chief appeals the decision within 15 working days from receipt of the Legislature's written finding of facts. The appeal shall be subject to prompt review by the Tribal Judiciary at the request of the removed Tribal Police Chief.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Upon removal of the Police Chief, the Legislature may appoint an interim Police Chief upon the recommendation of the Police Commission.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Automatic vacancy. The office of an elected Tribal Police Chief who is removed, dies, resigns or who is convicted of a major crime, as defined in Bylaw V of the Bylaws of the Menominee Constitution, shall be deemed to be automatically vacant. Resignation of office shall be written and shall be deemed to be effective as of the date tendered.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>An automatic vacancy in office for Tribal Police Chief shall be filled through the next regularly scheduled election for Tribal Legislature, unless the Menominee Tribal Legislature requests the Election Commission to hold an earlier special election.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Entry by State and County Officials [Adopted 9-3-1987 by Ord. No. 87-15]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>132-20</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|132|IV">this article</cite> is to preclude entry of state and county law enforcement officials into Menominee tribal businesses within the exterior boundaries of the Menominee Nation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-21</num>
+      <heading>State and county law enforcement officials on tribal lands.</heading>
+      <text>No law enforcement official of Menominee County or Shawano County, Wisconsin, or any other state or governmental official shall enter any tribal business premises on Menominee tribal lands within the exterior boundaries of the Menominee Indian Nation for the purposes of enforcing the law of the State of Wisconsin unless such official's presence has been requested by an appropriate tribal official. State or local law enforcement officials discovered within the premises of a tribal business on Menominee tribal lands acting in an official capacity without tribal consent shall be escorted to the boundaries of the Menominee Reservation and expelled from the Reservation forthwith by the Menominee tribal police.</text>
+      <annotations>
+        <annotation type="History">Amended 10-16-1989</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Civil Remedial Forfeitures [Adopted 7-8-1993 by Ord. No. 93-8]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>132-22</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|132|V">This article</cite> shall be titled the "Menominee Civil Remedial Forfeiture Code."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-23</num>
+      <heading>Purpose and authority.</heading>
+      <text>The Tribal Legislature enacts this code under the authority of the Menominee Constitution, Article III, Section 1, in order to provide for the civil remedial forfeitures of money penalties and property for violation of tribal civil regulatory or criminal ordinances. The remedial measures of this code are designed and intended to encourage compliance with tribal ordinances and to compensate the Tribe for damage to the peace, security, welfare, or resources of the Reservation.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-24">
+      <prefix>§</prefix>
+      <num>132-24</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|132|V">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>CRIME (or CRIMINAL) — An act or omission forbidden by tribal ordinance which is punishable upon conviction by imprisonment, fine not designated as a civil fine or civil remedial forfeiture, or other penal discipline.</text>
+      <text>ENFORCING OFFICER — Federal enforcement agents, tribal police, tribal conservation wardens, and other persons specifically authorized by ordinance to enforce tribal law.</text>
+      <text>INDIAN — Any person of Native American ancestry who is subject to federal criminal jurisdiction under the Major Crimes Act, 18 U.S.C. § 1153.</text>
+      <text>NON-INDIAN — Any person who is not an Indian as defined in this section.</text>
+      <text>RESERVATION — The entire area within the boundaries established by the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, plus the Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</text>
+      <text>TRIBAL COURT — The Menominee Tribal Court, as established by Article V of the Menominee Constitution and implementing tribal ordinances.<fn path="|I|§132-24|footnotes|4">4</fn></text>
+      <text>TRIBE (or TRIBAL) — The Menominee Tribe of Wisconsin.</text>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-25</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>Tribal ordinances affected.</text>
+        <para>
+          <num>(1)</num>
+          <text>Whenever any ordinance of the Tribe shall provide for a civil fine or civil remedial money penalty for the breach of such ordinance, or the civil remedial forfeiture of any property for the breach of such ordinance, the Tribe shall proceed against such person or property as provided in this code, unless such ordinance specifies a different procedure to be followed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The provisions of other ordinance, or of any rules of court promulgated in accordance with Article V, Section 6 of the Menominee Constitution, shall apply to proceedings instituted pursuant to this code, to the extent such provisions are not inconsistent with the provisions of this code.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Application to non-Indians. Any act or omission which constitutes a crime if committed by an Indian shall constitute a civil infraction subject to a civil remedial money penalty under this code if committed by a non-Indian or any other person over whom the Tribe is not permitted by federal law to exercise criminal jurisdiction.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Property used in commission of crime. Any property used in the commission of any act which constitutes a crime if committed by an Indian shall be subject to civil remedial forfeiture pursuant to <cite path="§132-28">§ 132-28</cite> of this code regardless of whether such property belongs to or was used by a non-Indian.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Parties to a violation. Any person who is concerned in the commission of a violation remediable under this code is a principal and may be adjudged to have committed the violation although such person did not directly commit it and although the person who did directly do so has not been subjected to a criminal prosecution or the remedial provisions of this code. A person is concerned in the commission of a violation if such person:</text>
+        <para>
+          <num>(1)</num>
+          <text>Directly commits the violation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Aids and abets the commission of a violation; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Is party to as conspiracy with one or more others to commit the violation or advises, hires, counsels, or otherwise procures another to commit the violation.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-26</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Jurisdiction. The Tribal Court shall have jurisdiction over proceedings instituted pursuant to this code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Party plaintiff. Any proceeding instituted under this code shall be brought in the name of the Tribe, as plaintiff.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Implied consent. Entry upon the Reservation without the permission of the Tribe is prohibited. Such permission when given is expressly conditioned upon the consent of the person entering the Reservation to the jurisdiction of the Tribe for purposes of enforcing this code and any other tribal ordinance enforced by means of this code. Entry upon the Reservation made not in conformity with the provisions of this code or any tribal ordinance enforced by means of this code is made without consent. Any person who enters upon the Reservation shall be deemed to have given consent to the jurisdiction of the Tribe for purposes of enforcing this code.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Additional remedies. The civil remedial forfeiture remedies governed by this code are not mutually exclusive remedies of the Tribe for violation of its ordinances. Nothing in this code shall restrict or curtail the right of the Tribe to prosecute or seek the criminal prosecution of any defendant or owner or to institute a civil action for damages in any court against a defendant or owner. In addition to the civil remedies provided in this code, the Tribal Court may order a defendant or owner to perform or refrain from performing such acts as may be necessary fully to protect the Tribe, its members, its property, or its natural resources. The Tribal Court may order abatement of a nuisance, restoration of a natural resource, or other appropriate action designed to eliminate or minimize damage caused by a defendant or owner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-27</num>
+      <heading>Civil remedial money penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Institution of proceedings; citation. Proceedings for the recovery of a civil remedial money penalty shall be instituted by the issuance of a citation by an enforcing officer. Whenever such officer has reason to believe that a person subject to tribal authority has committed a breach of a tribal ordinance subject to a civil remedial money penalty, such officer shall issue a citation to such person and file a copy with the Tribal Court. A citation may be served by ordinary mail.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notice to alleged violator; jurisdiction. The issuance of a citation by an enforcing officer is sufficient notice to the alleged violator that he is charged with a civil infraction subject to a civil remedial money penalty and is adequate process to give the Tribal Court jurisdiction over the person allegedly committing the violation upon the filing of such citation with the Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Citation contents. It must appear on the face of the citation that there is a reasonable basis to believe that a breach of an ordinance has been committed and that the defendant charged has committed the breach. The citation form shall contain the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the person to whom the citation was issued, together with the person's age and address, if available;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The tribal permit or license number of the defendant, if applicable;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name and tribal department of the issuing officer;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The breach alleged, the time and place of occurrence, a statement that the defendant committed the breach, the ordinance provision charged, and a description of the breach in language which can be easily understood;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The maximum civil remedial money penalty for which the defendant might be found liable;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A date, time and place for a Tribal Court appearance and a notice to appear;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Provision for a deposit and stipulation of default in lieu of court appearance;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Notice that if the defendant fails to appear at the time fixed in the citation, he will be defaulted and judgment entered against him in an amount up to the maximum penalty;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Notice that if the defendant makes a deposit and stipulation of default, judgment will be entered against him in the amount of the deposit; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any other pertinent information.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Stipulation of default; deposit.</text>
+        <para>
+          <num>(1)</num>
+          <text>A defendant to whom a citation is issued may make a deposit and stipulation of default in lieu of a court appearance at any time prior to the date set for his appearance before the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount of the deposit shall be determined by an enforcing officer at the time of issuance of the citation but shall not exceed the maximum penalty established in the ordinance charged or by this code or set forth in a deposit schedule adopted by the Tribal Court pursuant to its rule-making authority.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>By signing the stipulation of default, the defendant consents to the entry of judgment against him for a penalty not to exceed the amount of the deposit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Clerk of Tribal Court or the enforcing officer issuing the citation shall accept the deposit and stipulation of default and shall prepare a receipt showing the purpose for which the deposit was made, which shall be transmitted to the defendant. In the event that acceptance of the deposit and stipulation is made by an enforcing officer, the officer shall file the stipulation of default and a copy of the receipt with the Clerk of Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Burden of proof. In all actions under <cite path="|I|132|V">this article</cite>, the Tribe shall have the burden of showing by a preponderance of the evidence that the defendant breached the ordinance charged in the citation. The Tribe shall not, however, be required to show that the defendant intended to breach the ordinance charged.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Default. Upon failure of the defendant to appear on the date indicated on the citation, an entry of default shall be made by the Clerk of Tribal Court, and the Tribal Court may proceed with the hearing and enter judgment pursuant to <cite path="|I|132|V">this article</cite>, provided that if the citation was served by ordinary mail, proof of receipt by the defendant shall be required before default may be entered.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Judgment. If, upon default or after the presentation of all the evidence, the defendant is found by the Trial Judge to have breached the ordinance charged by a preponderance of the evidence, the Tribal Court shall enter judgment against the defendant and in favor of the Tribe for a monetary amount not to exceed the maximum civil remedial money penalty provided for the offense or, if a deposit has been made by the defendant, for an amount not to exceed the amount of the deposit.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Amount of penalty. The maximum civil remedial money penalty which may be imposed for a violation of an ordinance under <cite path="|I|132|V">this article</cite> shall be:</text>
+        <para>
+          <num>(1)</num>
+          <text>The lesser of $5,000 or the maximum amount provided in the tribal ordinance violated, if an amount is specified.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In the case of a civil infraction by a non-Indian subject to <cite path="§132-25|B">§ 132-25B</cite> of this code, the maximum criminal fine imposed by the tribal ordinance violated, if such an amount is specified.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Enforcement of judgment. All civil remedies are available to enforce the judgment of the Tribal Court, including the power of civil contempt. A judgment shall be a lien upon any available property of the defendant which is located within the Reservation or within the jurisdiction of the Tribal Court. When necessary, the Tribe may bring suit in any court on the judgment against the defendant or his property located beyond the jurisdiction of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Monies tendered to the Tribal Court. Deposits and money paid on judgments rendered pursuant to <cite path="|I|132|V">this article</cite> shall be tendered to the Clerk of Tribal Court. The Clerk shall tender such sums to the Tribal Treasurer for deposit in the general fund of the Tribe or for such other disposition as may be directed by ordinance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-28</num>
+      <heading>Civil remedial forfeiture of property.</heading>
+      <para>
+        <num>A.</num>
+        <text>Institution of proceedings; complaint. Proceedings for the civil remedial forfeiture of property shall be instituted by the filing of a complaint in rem against the property in Tribal Court by an enforcing officer. A complaint shall be filed whenever such officer has a reasonable basis to believe that a tribal ordinance has been breached and that the property is forfeitable under tribal ordinance.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Contents of complaint. It must appear on the face of the complaint that there is a reasonable basis to believe that a tribal ordinance has been breached and that the property is forfeitable under that tribal ordinance or under the provisions of this code. The complaint shall contain the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A description of the property against which proceedings are instituted;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The ordinance provision allegedly breached;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A description of the breach in language which can be easily understood;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The name, address, and other pertinent information about the owner of the property, if known, or a statement that the owner of the property is unknown;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A request for an order from the Tribal Court to seize the property; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The name and signature of the complaining enforcing officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Service of complaint.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the owner of the property is identified in the complaint, the complaint and a notice to appear at a hearing on an order to seize shall be served on the owner as provided for service of civil complaints.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the owner of the property is not identified in the complaint or his present whereabouts is unknown and so recited in the complaint, service shall be made by posting the complaint and notice to appear in the Tribal Courthouse, the central tribal office, and by publication once in a newspaper of general circulation on the Reservation. An affidavit of publication and posting shall be filed with the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Seizure of property without order.</text>
+        <para>
+          <num>(1)</num>
+          <text>Property may be seized by an enforcing officer prior to the filing of a complaint and issuance of an order to seize if one or more of the following circumstances exist:</text>
+          <para>
+            <num>(a)</num>
+            <text>A tribal ordinance authorizes the immediate seizure of the property;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The property seized presents a danger to persons, property, or a natural resource of the Reservation;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The enforcing officer has a reasonable basis to believe that without immediate seizure the property will be removed from the jurisdiction of the Tribal Court; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The enforcing officer has a reasonable basis to believe that the property was used in the commission of a crime on the Reservation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A receipt describing the property seized shall be issued to the person in possession of the property at the time of the seizure, if such person is present.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Seizure of property with order. Any property alleged to be subject to civil remedial forfeiture may be seized pursuant to an order to seize issued by the Tribal Court. Any and all property seized pursuant to an order to seize or without order as provided in <cite path="§132-28|D">Subsection D</cite> shall be held by the Tribal Court pending disposition of the complaint or until a bond has been posted with the Tribal Court pursuant to <cite path="§132-28|F">Subsection F</cite>.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Bond for property seized. The Tribal Court may release property seized to the owner upon the posting of bond with the Tribal Court in an amount and under the conditions which the Trial Judge determines are necessary to protect the interests of the Tribe. In no event shall the amount of the bond exceed the fair market value of the property seized. Upon the posting of a proper bond, the bond shall be available to be levied against if the owner does not return the property to the custody of the Tribal Court in proper condition upon a determination of the Tribal Court that the property is forfeited.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Hearing; time. When property has been seized prior to the issuance of an order to seize, a hearing on the order to seize shall be held within five working days after the seizure. If the hearing is not held within that time, the property seized shall be immediately returned to the owner, if known. The hearing on the order to seize requested in the complaint filed with the Tribal Court shall be held within 30 days of the filing of the complaint.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Hearing procedure.</text>
+        <para>
+          <num>(1)</num>
+          <text>At the hearing on the order to seize, the Tribe shall have the burden of showing that there is a reasonable basis to believe that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The property is subject to civil remedial forfeiture; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The property is within the jurisdiction of the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The parties may present evidence through the testimony of witnesses. Affidavits will be accepted in lieu of testimony if, in the Trial Judge's discretion, it is determined that the interest of justice would be best served thereby.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Order to seize.</text>
+        <para>
+          <num>(1)</num>
+          <text>If, after the hearing, the Trial Judge finds that there is a reasonable basis to believe that the property is subject to civil remedial forfeiture under the tribal ordinance alleged in the complaint and that the property is within the jurisdiction of the Tribal Court, the Trial Judge shall issue an order to seize, directing an enforcing officer to seize the property and hold it pending disposition of the complaint.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If, after hearing, the Trial Judge finds that there is not a reasonable basis to believe that the property is subject to civil remedial forfeiture under the tribal ordinance alleged or that the property is within the jurisdiction of the Tribal Court, the Trial Judge shall dismiss the complaint and, if the property was seized prior to the hearing, order the property immediately released.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Contents of an order to seize.</text>
+        <para>
+          <num>(1)</num>
+          <text>An order to seize shall contain the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>A description of the property subject to the order;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The date of filing of a proper complaint for forfeiture and the name and department of the complaining officer;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A finding that the property is within the jurisdiction of the Tribal Court;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A finding that there is a reasonable basis to believe that the property is subject to a civil remedial forfeiture, a brief factual narration of the grounds for the finding, and citation to the ordinance allegedly breached;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Notice of the date, time and place of trial; and</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Notice that the property may be released by the posting of a proper bond.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The order to seize shall be served as provided in <cite path="§132-28|C">Subsection C of this section</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Existence of security interest in seized property. The enforcing officer shall make a reasonable effort prior to the hearing on the order to seize to ascertain whether a perfected security interest exists in the property and, if one does exist, shall give notice to the secured party of any hearing in the case and shall also give the secured party a minimum of 15 days' notice of the time and place of any sale conducted pursuant to <cite path="§132-28|M">Subsection M of this section</cite>.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Trial. At trial, the Tribe shall have the burden of showing by a preponderance of the evidence that the property is forfeitable under the ordinance charged or a provision of this code. If the Tribe fails to meet this burden, the Tribal Court shall dissolve the order to seize, enter judgment awarding title to the property to the owner, and order immediate release of the property or discharge of the bond, whichever is appropriate. If the Tribe meets its burden, the Tribal Court shall dissolve the order to seize, enter judgment awarding title to the property to the Tribe, and place the property in the hands of the Tribe for disposition or, if bond was posted, order the bond forfeited to the Tribe.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Sale of forfeited property.</text>
+        <para>
+          <num>(1)</num>
+          <text>Within 30 days after entry of a judgment forfeiting property to the Tribe, but in no event less than 15 days after entry, the Tribe shall sell the property at the highest obtainable price. The net proceeds of such sale, after deducting sale expenses, shall be remitted to the Treasurer of the Tribe, who shall place such sums in the Tribe's general account or make such other disposition as the ordinance breached shall require.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If there exists a perfected security interest in the forfeited property and the breach which occasioned the forfeiture was not committed with the knowledge, consent or connivance of the secured party, there shall also be deducted from the proceeds of sale the amount due under the security agreement, and such amount shall be paid to the secured party. In the event that a sufficient amount does not remain for such purpose after deducting other sale expenses, any amount remaining shall be paid over.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In lieu of sale of forfeited property, the Tribal Legislature may by motion provide for the retention and use of the property by the Tribe, as may be directed in the motion. If there exists a perfected security interest in the property and the breach was not committed with the knowledge, consent or connivance of the secured party, the Tribe shall pay to the secured party the amount due under the security agreement before its retention and use of the property.</text>
+        </para>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Sale of perishable property. Any perishable property seized pursuant to <cite path="|I|132|V">this article</cite> may be sold by an enforcing officer at the highest available price, and the proceeds of such sale shall be tendered to the Tribal Court to await such disposition of the proceeds as the Tribal Court shall direct.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Effect on seizure of evidence. Nothing in <cite path="|I|132|V">this article</cite> shall affect or limit the power of enforcing officers to execute search warrants or seize and hold property which constitutes evidence in any criminal case. Such property shall not be forfeited, however, except in compliance with <cite path="|I|132|V">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|VI">
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Probation and Parole</heading>
+    <annotations>
+      <annotation type="History">Adopted 5-6-1994 by Ord. No. 94-01; amended in its entirety 10-15-2020 by Ord. No. 20-30</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>132-29</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|132|VI">This article</cite> shall be titled "Probation and Parole Regulations."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-30</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|132|VI">this article</cite> is to develop procedures consistent with applicable tribal laws regulating the practice of probation and parole which is commonly afforded persons who have, through merit or rehabilitation, shown that they can make meaningful contributions to society provided certain conditions are maintained.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-31</num>
+      <heading>Jurisdiction.</heading>
+      <text>The jurisdiction of <cite path="|I|132|VI">this article</cite> shall apply to all persons subject to the laws of the Menominee Indian Reservation, including any lands which may hereafter be added to the Reservation under any law of the United States. <cite path="|I|132|VI">This article</cite> shall, consistent with applicable federal law, also extend outside the exterior boundaries of the Reservation to any persons subject to the laws of the Menominee Indian Tribe which are, or may hereafter be, included within the jurisdiction of the Tribe under any law of the United States or of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-32</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of <cite path="|I|132|VI">this article</cite>, the following definitions apply:</text>
+      <text>COURT or COURTS — The Menominee Tribal Court of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>DEPARTMENT — The Department of Probation and Parole, and any of its officers or agents employed thereunder, of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>PAROLE — A conditional release of a prisoner, generally under the supervision of the Department, who has served part of the original term for which he or she was sentenced and contingent upon good behavior.</text>
+      <text>PRELIMINARY DETERMINATION — A determination made by the Department based on evidence which as a whole shows that the fact sought to be proved is sufficient or insufficient grounds to request the apprehension and detention of said probationee/parolee and proceed with a revocation hearing. Such evidence shall include, but not be limited to, the following: police records, court records and said person's reporting requirements.</text>
+      <text>PROBATION — A system of permitting a person convicted of a crime to go free with a suspended sentence, subject to the supervision of the Department and contingent upon good behavior.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian tribe.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-33">
+      <prefix>§</prefix>
+      <num>132-33</num>
+      <heading>Authority.</heading>
+      <text>Imposition of probation or parole shall have the effect of placing the person so named in the custody of the Department and shall subject the person so named to the control of the Department under conditions set by the Court, provided that the period of probation or parole shall not exceed the maximum term of sentence for such offense, subject to the following provisions:</text>
+      <para>
+        <num>A.</num>
+        <text>Probation.</text>
+        <para>
+          <num>(1)</num>
+          <text>Where a sentence of imprisonment has been imposed upon a convicted offender by the Court, the Court may, in its discretion, suspend the serving of such sentence and release the person on probation. The Courts shall have the sole discretion to allow probation for multiple convictions of any offenses to run concurrently or consecutively.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who violates the terms, conditions, agreements, or pledges of his or her probation may be required by the Court to serve not more than 1.5 times the sentence originally imposed minus time already served. However, such revocation of probation shall not be ordered without a hearing before the Court, at which time the offender shall have the opportunity to explain his or her actions, with or without counsel, at his or her own expense. Signing the Probation and Parole Rules shall not be a pre-requisite for revocation, as the individual is under the control of the Department and under conditions set by the Court at the time of sentencing, and a person may be revoked even if they have not signed such rules and have violated the same. The Court may revoke all consecutive or concurrent terms of probation so that the jail sentences are aggregated into one continuous period. The Court may not aggregate consecutive or concurrent sentences for offenses in a single criminal proceeding in which the term of imprisonment imposed on the defendant is more than 12 months unless the enhanced sentencing rights required by the Indian Civil Rights Act<fn path="|I|§132-33|footnotes|5">5</fn> are provided by the Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Parole. Any person who violates the terms, conditions, agreements, or pledges of his or her parole may be required by the Court to serve not more than the sentence originally imposed minus time already served. However, such revocation of parole shall not be ordered without a hearing before the Court, at which time the offender shall have the opportunity to explain his or her actions, with or without counsel at his or her own expense.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: See 25 U.S.C. § 1301 et seq.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-34">
+      <prefix>§</prefix>
+      <num>132-34</num>
+      <heading>Probation and parole officers.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Legislature shall have cause to hire one or more persons to be probation and/or parole officers of which the Menominee Indian Tribe, pursuant to administrative policy, shall determine the qualifications, terms of employment, and compensation in accordance with Ordinance No. 83-6, Personnel Policies and Procedures.<fn path="|I|§132-34|footnotes|6">6</fn></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Department, subject to the supervision of the Chief Justice, pursuant to the administrative structure adopted under <cite path="|I|98">Chapter 98</cite>, Government Plan, of this Code, shall have the responsibility of assuring the faithful performance of probation or parole terms, conditions, agreements, or pledges by persons subject thereto, referral or counseling such persons and their families, and preparing pre-sentence or such other reports as requested or ordered by the Courts or otherwise required by law. <strong>[Amended 6-16-2022 by Ord. No. 22-26]</strong></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-35</num>
+      <heading>Revocation proceedings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Preliminary determination and request for apprehension and detention.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon a complaint received by the Police Department or from a private citizen and based upon a preliminary determination that a person has violated his or her parole or probation, the Department shall put in writing the alleged violation and state the grounds for revocation of parole or probation.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The Department shall have the authority to issue an apprehension and detention request to the tribal police directing any police officer of the Menominee Indian Tribe to take into custody the person(s) so named after a preliminary determination that a person has violated his or her probation or parole.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Department shall provide a copy of any apprehension and detention request to the Tribal Prosecutor's office and the Courts at the same time it is issued to the tribal police.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Upon taking the person so named in the apprehension and detention request into custody, the tribal police shall immediately notify the Department, the Tribal Prosecutor's office and the Court of said action.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Revocation hearings.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Department shall compile a statement of facts and forward them to the Prosecutor's office for prosecution within seven working days, excluding weekends and federal/tribal holidays, of the apprehension and detainment of the person(s) so named in the apprehension and detention request.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person held under this section shall be released unless the Tribal Prosecutor proceeds with the revocation by petitioning the Court within seven working days after receiving the statement of facts, excluding weekends and federal/tribal holidays.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The statement of facts shall be filed and served by the designee of the Tribal Prosecutor along with a notice of hearing and petition. The hearing shall be set by the Court not less than three nor more than seven calendar days from the service of notice and petition and shall be made a matter of record. The person so detained under the detention order may call witnesses on his or her behalf at the hearing and have counsel at his or her own expense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A person detained under <cite path="§132-35|B|(3)">Subsection B(3)</cite> above shall not be eligible for release from custody until the conclusion of the probation/parole revocation hearing.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribal Prosecutor or the Assistant Prosecutor shall be present at all probation or parole revocation hearings to offer testimony or evidence as the Court may require.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Order of probation or parole.</text>
+        <para>
+          <num>(1)</num>
+          <text>Orders revoking probation or parole shall be executed by the Court at the conclusion of the revocation hearing. The judgment of the Court shall be sufficient to authorize the tribal police to receive, confine, or to release the offender named in such order in accord with the provisions of such order.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such decision and order may be made orally by either party and entered into the hearing record at the conclusion of the hearing. Record of the hearing may, by request of counsel, be transcribed and mailed to all parties within 30 days thereafter.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prior to the expiration of any probation period, the Court, for cause and by order, may extend probation for a stated period or modify the terms and conditions thereof.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Court shall hold a review hearing prior to the expiration date, unless the hearing is voluntarily waived by the probationer with the understanding that waiver may result in an extension or revocation of the probationary period.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any of the following may constitute cause for the extension of probation:</text>
+          <para>
+            <num>(a)</num>
+            <text>The probationer has not made a good faith effort to discharge Court-ordered payment obligations.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The probationer has not satisfied Court-ordered counseling.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The probationer stipulates to extension of supervision.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The probationer has not made a good faith effort to complete Court-ordered community service hours.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Court finds that extension would serve the purposes for which probation was imposed; however, extension shall not exceed the maximum period of probation time the Court could have imposed for the particular crime, and the probation may be extended only one time.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-36</num>
+      <heading>Time served in outside jurisdiction not credited.</heading>
+      <text>Upon notification to the Department, a convicted offender who is sentenced in tribal or another jurisdiction while serving on probation or parole under the provisions of <cite path="|I|132|VI">this article</cite> shall not be credited with service of his or her sentence under <cite path="|I|132|VI">this article</cite> for the duration of custody or commitment.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-37</num>
+      <heading>Calculation of time served.</heading>
+      <text>In calculating the time served pursuant to a probation or parole sentence, the time shall start from the time period that the subject of the probation or parole physically presents himself or herself to the Department and signs required departmental forms.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-38</num>
+      <heading>Alternatives to probation or parole revocation.</heading>
+      <para>
+        <num>A.</num>
+        <text>Violation of a condition is both necessary and sufficient grounds for revocation of probation/parole. Revocation followed by imprisonment should not be the disposition, however, unless the Court finds on the basis of the original offense and the intervening conduct of the offender that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Confinement is necessary to protect the public from further criminal activity by the offender;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The offender is in need of correctional treatment which can most effectively be provided if he or she is confined; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It would unduly depreciate the seriousness of the violation if probation were not revoked.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The following intermediate steps should be considered in every case as possible alternatives to revocation:</text>
+        <para>
+          <num>(1)</num>
+          <text>A review of the conditions, followed by changes where necessary or desirable.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A formal or informal conference with the probationer to reemphasize the necessity of compliance with the conditions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A formal or informal warning that further violations could result in revocation.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Administrative extension. The Department may, upon the consent of the individual on probation, administratively extend a probation period if the probationer has failed to complete all the probationary requirement imposed by the Court or the Department. The extension shall not exceed the maximum period of probation time the Court could have imposed for the particular crime, and the probation may be extended only one time.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-39</num>
+      <heading>Petition to review revocation orders.</heading>
+      <text>Any offender having been revoked of his or her probation or parole shall have the right to petition for review of such order after having served half the time ordered by the Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-40</num>
+      <heading>Standard of review of probation and parole revocation.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whether the Department acted within its jurisdiction;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whether the Department's action was arbitrary, oppressive, or unreasonable and represented its will and not its judgment; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whether the evidence was such that the Department might reasonably make the preliminary determination in question.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-41</num>
+      <heading>Offender released on habeas corpus.</heading>
+      <text>If an order or judgment releasing a prisoner from the tribal jail on habeas corpus is reversed, the time spent during which he or she was at liberty thereunder shall not be counted as part of his or her term.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-42</num>
+      <heading>Abrogation and greater restrictions.</heading>
+      <text>Where <cite path="|I|132|VI">this article</cite> imposes greater restrictions than those contained in other ordinances, the provisions of <cite path="|I|132|VI">this article</cite> shall govern.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-43</num>
+      <heading>Interpretation; sovereign immunity.</heading>
+      <text>In the interpretation and application of <cite path="|I|132|VI">this article</cite>, the provisions of <cite path="|I|132|VI">this article</cite> shall be held to be minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other tribal power or authority. The Tribe's sovereign immunity is not waived or affected hereby.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-43.1</num>
+      <heading>Repealer.</heading>
+      <text>Upon enactment of <cite path="|I|132|VI">this article</cite>, Section 11.34 and 11.35 of Menominee Nation Ordinance 79-14 is repealed.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Empowerment of Conservation Wardens to Enforce Tribal Laws [Adopted 9-1-2011 by Ord. No. 11-24]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>132-44</num>
+      <heading>General authority granted.</heading>
+      <text>The Menominee Conservation Department and its wardens may execute and serve warrants and processes issued under Menominee tribal law in the same manner as any Menominee Tribal Law Enforcement Officer may serve and execute the process; and may arrest, with or without a warrant, any person detected in the actual violation, or whom the officer has probable cause to believe is guilty of a violation of any of the laws cited by tribal law where conservation is listed as the enforcing agents, whether the violation is punishable by criminal penalties or by forfeiture, and may take the person before Menominee Tribal Court, where the offense was committed and make a proper complaint. For the purpose of enforcing any of the laws cited by tribal law where Conservation is listed as the enforcing agent, any conservation officer may stop and board any boat and stop any vehicle if the officer reasonably suspects there is a violation of those laws, codes or ordinances.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-45</num>
+      <heading>Enforcement of field archeology and cultural resource laws.</heading>
+      <text>The Menominee Conservation Department and any of its wardens may execute and serve warrants and processes issued for violations of archeological and/or cultural resource laws occurring on the bed of any stream or lake, or land within the exterior boundaries of the Menominee Indian Reservation in the same manner as any law enforcement officer may serve and execute the process; and may arrest a person, with or without a warrant, who is detected committing such a violation, or whom the warden has probable cause to believe is guilty of a violation of any archeological and/or cultural resource law, and may take the person before the Menominee Tribal Court and make proper complaint. For the purpose of enforcing any archeological and/or cultural resource law, any warden may stop and board any boat and stop any vehicle if the warden reasonably suspects that there is a violation.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-46">
+      <prefix>§</prefix>
+      <num>132-46</num>
+      <heading>Enforcement of Conservation Code.</heading>
+      <text>The Menominee Tribal Conservation Department and its wardens may execute and serve warrants and processes issued for violations of Menominee Tribal Ordinance No. 99-01 (Conservation Code)<fn path="|I|§132-46|footnotes|7">7</fn> that occur within the exterior boundaries of the Menominee Indian Reservation; and may arrest a person, with or without a warrant, who is detected committing such a violation, or whom the warden has probable cause to believe is guilty of such a violation, and may take the person before the Menominee Tribal Court and make proper complaint. For the purpose of enforcing the Tribe's Conservation Code, any warden may stop and board any boat and may stop any vehicle if the warden reasonably suspects there is a violation of the Conservation Code.</text>
+      <footnotes>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-47</num>
+      <heading>Additional arrest powers.</heading>
+      <text>In addition to the arrest powers, a warden who has completed a program of law enforcement training and has been certified as qualified to be a law enforcement officer and has complied with any applicable requirements while on duty and in uniform or on duty and upon display of proper credentials may assist another law enforcement agency, including making an arrest at the request of the agency, may arrest a person pursuant to an arrest warrant concerning the commission of a felony or may arrest a person who has committed a crime in the presence of the warden. If the warden makes an arrest without the presence</text>
+      <text>of another law enforcement agency, the warden shall cause the person arrested to be delivered to the chief of police or sheriff in the jurisdiction where the arrest is made, along with the documents and reports pertaining to the arrest. The warden shall be available as a witness for any tribal, state, or federal court system.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-48</num>
+      <heading>Procedure for executing search warrants and subpoenas.</heading>
+      <text>In executing search warrants and subpoenas where the penalty for the violation is forfeiture, the Department shall use procedures which comply with Menominee Tribal laws, codes, and ordinances.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§132-49">
+      <prefix>§</prefix>
+      <num>132-49</num>
+      <heading>Killing of dogs injuring wildlife.</heading>
+      <text>A warden may kill a dog found chasing wildlife, causing injury to wildlife, or killing any wildlife referenced in Menominee Tribal Ordinance No. 99-01 (Conservation Code).<fn path="|I|§132-49|footnotes|8">8</fn> A warden may also kill a dog found running if immediate action is necessary to protect wildlife habitat or wildlife from injury or death.</text>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|132|VIII">
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Police Commission</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-2-2020 by Ord. No. 19-31; amended in its entirety 7-2-2020 by Ord. No. 20-12</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>132-50</num>
+      <heading>Purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of the Police Commission is to provide for independent supervision of the Chief of Police of the Menominee Indian Tribe of Wisconsin, and provide oversight for the Menominee Tribal Police Department while supporting the Tribe's duty to maintain the health, safety and welfare of the community.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The goals of the Police Commission are:</text>
+        <para>
+          <num>(1)</num>
+          <text>Provide the community with a professional and effective law enforcement agency that is responsive and respectful while serving the community.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Strengthen the relationship between the community and the police by providing an accessible and credible complaint review process and increasing the community's confidence in the Department.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide an open and independent forum for the community to express concerns about police conduct.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-51</num>
+      <heading>Definitions.</heading>
+      <text>The following definitions shall apply to <cite path="|I|132|VIII">this article</cite>:</text>
+      <text>ADMINISTRATIVE COMMITTEE — The Tribal Administrator, Finance Manager, Human Resources Manager, and Director of the Legal Services Department of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>CHIEF OF POLICE — The highest-ranking law enforcement officer of the Menominee Tribal Police Department.</text>
+      <text>COMMISSION — A board comprised of five tribal members of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>COMMISSIONERS — Tribal members appointed by the Tribal Legislature to serve as Police Commissioners of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>CONFLICT OF INTEREST — A conflict of interest occurs when a Police Commissioner has a family relationship to or financial interest in any complaint or investigation.</text>
+      <text>DEPARTMENT — The Menominee Tribal Police Department.</text>
+      <text>MENOMINEE INDIAN RESERVATION — All lands located within the exterior boundaries of the Reservation as defined by the Treaty of 1856 and any subsequent lands over which the Menominee Indian Tribe exercises jurisdiction.</text>
+      <text>PERSONNEL — All civilian personnel of the Menominee Tribal Police Department.</text>
+      <text>POLICE OFFICERS — All qualified and sworn members of the Menominee Tribal Police Department.</text>
+      <text>RELATIVE — As defined as "immediate family" and/or "extended family" pursuant to the Menominee Indian Tribe of Wisconsin Personnel Policies and Procedures Manual.</text>
+      <text>TRIBAL LEGISLATURE — The legislative body of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBAL POLICE — The Menominee Tribal Police Department. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-52</num>
+      <heading>Scope of authority.</heading>
+      <text>The Menominee Tribal Police Commission shall supervise the Chief of Police and oversee all complaints and disciplinary actions against the Chief of Police while also ensuring that the Chief of Police appropriately handles investigations of alleged employee misconduct and disciplinary actions against police officers or Police Department personnel. In addition, the Commission may also review and approve Police Department policies and procedures or amendments thereto.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-53</num>
+      <heading>Composition of the Police Commission.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commission shall consist of five members, whose term of office shall be five years staggered. The Tribal Legislature, through a random process, shall stagger the terms of the initial Commission. Members may be reappointed for consecutive terms.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Appointment process.</text>
+        <para>
+          <num>(1)</num>
+          <text>Within 60 days prior to the end of a current Commissioner's term, or upon a vacancy, the Tribal Legislature shall post the opening of a position, and the requirements sought. The posting shall request that the individuals interested in serving on the Commission submit a letter of interest and qualifications to the Tribal Chair's office.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Human Resources Department shall screen the applicants to ensure that the composition makeup of the Commission meets all the membership requirements listed below, and recommend applicants who meet the qualifications to the Tribal Legislature within 15 days of receipt of all applications.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Legislature shall appoint a candidate from the candidate recommendations.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Upon appointment by the Tribal Legislature, the Commission member shall be sworn into office by a Tribal Court Judge.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Police Commission membership requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>All Commission members and candidates shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be a member of the Menominee Indian Tribe of Wisconsin;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Pass a drug test and criminal background check prior to being considered by the Legislature for appointment;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Possess supervisory capability and submit proof of supervisory training; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Possess relevant and significant qualifications and experience in at least one of the following categories of human resources, law, complaint investigations/adjudications, policing/public safety/law enforcement, and/or contract administration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All Commission members and candidates shall not:</text>
+          <para>
+            <num>(a)</num>
+            <text>Have a felony conviction.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Have been convicted of any misdemeanor offense within one year of application and during tenure.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Have been convicted of any drug or alcohol misdemeanor offense within the last five years and during tenure.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Have been convicted of any misdemeanor domestic violence or sexual assault convictions.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Be currently employed by the Menominee Tribal Police Department.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Have been terminated for cause by any police department.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Have resigned within the past year from any police department.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Be an immediate family member, as defined in the Menominee Indian Tribe of Wisconsin Personnel Policies and Procedures Manual, to the Chief of Police.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>At least one Commissioner shall have experience in each of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Human resources.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Law.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Complaint investigations/adjudications.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Policing/public safety/law enforcement.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Contract administration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Commission shall be composed of at least one resident of the following communities:</text>
+          <para>
+            <num>(a)</num>
+            <text>Keshena.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Neopit.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Middle Village, South Branch, or Zoar.</text>
+            <text>If after the initial posting of 30 days, a representative from one of the above communities cannot be found, the Commission vacancy shall be filled with an at-large candidate, which may include an off-Reservation candidate, so long as the other Commission composition requirements are still maintained.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Election of officers.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission members shall nominate a Commission Chairperson by motion and majority vote. The Commission Chairperson shall be the presiding officer at all meetings and shall perform duties pertaining to the office. The Commission Chairperson's term shall be for one year or until a successor is nominated. Failure of the Commission Chairperson to perform his/ her duties shall result in the Commission removing the Commission Chairperson from his/her role and responsibility. The Commission Chairperson is a voting member of the Commission, but he/she shall abstain from voting when there is a conflict of interest.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission members shall nominate a Vice Chairperson by motion and majority vote. The Vice Chairperson shall be the presiding officer at all meetings and shall perform duties pertaining to the office during the absence of the Commission Chairperson. The Vice Chairperson's term shall be for one year or until a successor is nominated. Failure of the Vice Chairperson to perform his/her duties shall result in the Commission removing the Vice Chairperson from his/her role and responsibility.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Chairperson of the Law Enforcement and Resource Protection Committee shall serve as an ex-officio member of the Commission for purposes of obtaining a quorum, and shall have voting rights during those meetings.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-54</num>
+      <heading>Removal of Commissioners.</heading>
+      <para>
+        <num>A.</num>
+        <text>In the event a Commissioner fails to maintain all of the Commissioner membership requirements for the tenure of his/her term, he or she shall be removed by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Commissioner shall also be removed by the Tribal Legislature for a failure to perform his/her duties as a Commissioner.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A Commissioner shall also be removed by the Tribal Legislature in the event the Commission Chairperson notifies the Tribal Legislature that he/she missed more than three consecutive meetings in any twelve-month time period without good cause.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A Commissioner shall be removed by Tribal Legislature for failure to remove him-/herself from cases due to a conflict of interest.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Commission can recommend removal of a member to the Tribal Legislature for any of the above-specified reasons. However, the Tribal Legislature maintains its authority to remove any member of the Commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-55</num>
+      <heading>Conflict of interest.</heading>
+      <text>In the event a Commissioner possesses a conflict of interest on a particular issue, he or she shall disqualify himself/herself from the decision-making process. If the Commissioner fails to disqualify himself/herself, and the conflict of interest is apparent to the remaining Commissioners, they shall remove him/her by a majority vote. Repeated failures to recuse oneself for a conflict of interest shall result in removal from the Commission by the Tribal Legislature.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-56</num>
+      <heading>Confidentiality.</heading>
+      <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal of the Commissioner(s) who divulged the confidential information.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-57</num>
+      <heading>Duties of the Commission.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commission shall, in accordance with the Tribe's Personnel Policies and Procedures, supervise, discipline and, if determined to be necessary, remove the Chief of Police from office.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commission shall review and approve all policies and procedures of the Menominee Tribal Police Department. If the policy/procedure has already been reviewed and approved by the Administrative Committee, when the Commission approves the policy/procedure, the policy/ procedure shall become effective upon approval by the Commission. Within one year of the effective date of this Code, the Commission shall conduct, or cause to be conducted, recommendations to amend such Policies and Procedures for consistency with <cite path="|I|132|VIII">this article</cite>. All such policies and procedures shall be consistent with Menominee Tribal laws, regulations, ordinances and contractual obligations.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission may recommend changes and additions to policies and procedures based upon issues identified by the community or the Commission.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Legislature or Administrative Committee may recommend changes and additions to policies and procedures to the Commission for consideration.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A member of the Commission may participate in the hiring and promotion decisions of the Police Department, but the Chief of Police retains the authority to select a candidate to hire or promote. The Chief of Police's actions must be consistent with tribal law, departmental policies, and the Tribe's personnel policies and procedures.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission, with the input from the Chief of Police and Administrative Committee, may provide a recommendation for hiring, promotion, suspension and removal of personnel and officers of the Police Department to the applicable supervisor of the personnel and officers.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Commission shall oversee all complaints against the Chief of Police.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Commission shall ensure that complaints against Department personnel and officers are investigated, and responded to appropriately by the Chief of Police or appropriate individual(s). The Commission shall also ensure that allegations of officer misconduct are reported to BIA Internal Affairs, investigated, and appropriate disciplinary action is taken by the supervisor of the officer.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Commission shall make complaint forms accessible to the public and ensure all tribal agencies know the complaint process and where to submit a complaint form.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Commission shall review all reports and audits conducted by the Bureau of Indian Affairs, or any other entity's reports or audits that are submitted to the Chief of Police.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The Commission shall review closed complaints and disciplinary cases involving conduct related to the Police Manual every six months to determine whether improvements to Department policies and procedures are needed. The Commission shall not reopen closed cases, but shall only review the cases to determine needed improvements in policies and procedures.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The Commission shall review all use-of-force reports, including shooting incidents, to keep track of when officers use force, which officers use force, and in what type of circumstances force is being used. The Commission shall identify patterns and trends and adjust policies and procedures and training when appropriate based on this review. The Commission shall work toward increasing public awareness of the Commission and the Police Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Commission shall provide public notice of its monthly meetings, provided that all items involving disciplinary and personnel matters shall be held in executive session.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Commission shall ensure that the Chief of Police develops programs aimed at interaction with and education of the community.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>The Commission, for any reason, may request that the Tribal Legislature appoint an independent police auditor/investigator to monitor a particular complaint of investigation.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>The Commission shall provide an annual report to the Tribal Legislature on the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Statistics on the number of complaints and disciplinary complaints on the Chief of Police, and Police Department personnel and officers, along with the status of each complaint;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The results of the yearly evaluation of the Department;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The number of policies and procedures recommended for changes;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The goals for the following year; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any other issues the Commission deems important and appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>In conjunction with the Administrative Committee, the Commission shall conduct a yearly evaluation of the Department. The evaluation should include, but is not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Interviews with Department personnel and officers.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An anonymous survey of all Department personnel and officers regarding working conditions and overall satisfaction with the Department.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A review of policies and procedures.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A review of Department statistics.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A BIA program self-evaluation in accordance with the BIA 638 contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>The Commission shall not respond to police scenes or calls for assistance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-58</num>
+      <heading>Police Commission use of tribal personnel.</heading>
+      <text>The Commission shall have the ability to utilize the services of the Administrative Committee members, and their respective departments, to assist with carrying out the duties of the Police Commission. Should a conflict of interest arise, the Commission may recommend that the Tribal Legislature hire independent assistance for the Commission based on the situation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-59</num>
+      <heading>Supervision and discipline of the Chief of Police.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Police Commission supervises, disciplines the Chief of Police, and may act to remove the Chief of Police pursuant to Article III of <cite path="|I|132">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Police Commission shall conduct a yearly evaluation of the Chief of Police. The evaluation shall include, but is not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Interviews with Department personnel and officers.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conduct an anonymous survey of all police officers and personnel to determine overall satisfaction with the Chief of Police with a focus on whether he or she is adhering to the job description or duties listed in the Police Policies and Procedures.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Conduct a review of complaints and/or disciplinary actions against the Chief of Police.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A review of any updated policies and procedures that the Chief of Police initiated or that were recommended to the Chief of Police.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Disciplinary action may be taken against the Chief of Police based upon the results of a BIA Internal Affairs Investigation, independent investigation or as a result of the Commission's oversight of the Chief of Police. The Commission shall utilize the assistance of tribal administration, legal services department, and human resources when taking disciplinary action against the Chief of Police to ensure that all laws, regulations, policies and contractual obligations are complied with. Any disciplinary action must be taken in accordance with tribal law, policies and procedures. Disciplinary action may include but is not limited to counseling, training, probation, suspension, or removal from office.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission may suspend the Chief of Police during an investigation involving his/her conduct in accordance with the Personnel Policies and Procedures Manual. Any suspensions during an investigation shall be without pay.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any misconduct that is criminal in nature shall be referred to the appropriate law enforcement agency.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-60</num>
+      <heading>Complaints against the Chief of Police.</heading>
+      <para>
+        <num>A.</num>
+        <text>Police officer or personnel complaints against the Chief of Police shall be filed with the Commission. The Commission's Chairperson or his/her designee shall oversee the investigation. If the complaint involves an allegation of misconduct, the matter shall also be referred to BIA Internal Affairs. The Commission Chairperson shall ensure that all complaints are investigated and reported to the Commission. The Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained, not sustained or unfounded.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Police officers and personnel may also make any complaint about working conditions to the Tribe's Human Resources Department. No disciplinary action may be taken against a police officer or personnel for making such a complaint. The Tribe's Human Resources Department shall conduct the investigation. Any report shall be submitted to the Chief of Police who may share with the Police Commission, but the Commission shall not be involved in any action falling under <cite path="§132-60|B.">this subsection</cite>, unless the complaint about the working conditions are a direct result of the Chief of Police's actions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-61</num>
+      <heading>Complaints from the public; other complaints.</heading>
+      <para>
+        <num>A.</num>
+        <text>All public complaints involving officers and personnel shall be filed in writing with the Police Commission. Once a complaint is received it will be classified as either internal affairs or other matter. If it is an allegation of misconduct, the complaint must be forwarded to BIA Internal Affairs. The Commission shall ensure that all other matters are investigated and responded to appropriately within 45 days of receipt of the complaint.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Members of the public may also make complaints directly to BIA Internal Affairs. The Commission shall ensure that the community has the information necessary to make a complaint directly to BIA Internal Affairs.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Commission shall be notified by the Chief of Police of any BIA Internal Affairs matter. The notification shall contain the name of the officer and/or employee. The Chief shall provide a monthly report to the Commission with the number of complaints filed, the number of complaints in each category and the status of the complaints.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Chief of Police shall also provide a monthly report to the Commission regarding complaints of use of force and the outcome of any investigations of use of force.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any investigation involving criminal activities shall immediately be referred to the appropriate law enforcement agency.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Chief of Police shall not discuss any ongoing investigation with the Commission.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-62</num>
+      <heading>Commission meetings.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commission shall meet monthly. Meetings shall be open to the public, unless the matter is a confidential executive session matter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The public portion of the meeting may include, but is not limited to, the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A report by the Chief of Police, including statistics of the number of incidents responded to in the last month, types of calls, convictions, any public service by the Police Department and number of complaints filed and investigated. A courtesy copy of this monthly report shall be forwarded from the Commission Chairperson to the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review of any policies and procedures.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Public comment period.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Meeting dates, times and agendas shall be posted in accordance with the Tribe's posting procedures.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission Chairperson may also call special meetings to attend to urgent matters that cannot wait for the next monthly meeting.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-63</num>
+      <heading>Funding.</heading>
+      <text>The Commissioners shall receive a monthly stipend, set by motion of the Tribal Legislature.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-64</num>
+      <heading>Severability.</heading>
+      <text>If any word, clause, phrase, sentence, subsection, section or other provision of <cite path="|I|132|VIII">this article</cite> is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-65</num>
+      <heading>Effective date.</heading>
+      <text><cite path="|I|132|VIII">This article</cite> shall become effective immediately upon final approval.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

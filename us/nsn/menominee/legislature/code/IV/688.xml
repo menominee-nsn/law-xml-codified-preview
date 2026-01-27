@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>688</num>
+  <heading>MENOMINEE BUSINESS VENTURE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-2-1998 by Ord. No. 98-06. Amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="IV|§688-1">
+    <prefix>§</prefix>
+    <num>688-1</num>
+    <heading>Name of tribal business.<fn path="|IV|§688-1|footnotes|1">1</fn></heading>
+    <text>This Charter is issued to a tribal business to be known as "Menominee Business Venture."</text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of the chartered business shall be to manage the operation of joint ventures between this tribal business venture and other businesses on behalf of the Menominee Indian Tribe. Chartered businesses shall be operated solely as profit-making enterprises, dedicated to maximizing the financial resources available for the Menominee Tribal Legislature on behalf of the Menominee people.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-3</num>
+    <heading>Definitions.</heading>
+    <text>Terms used in this Charter shall have the following meaning; single includes plural, and masculine includes feminine:</text>
+    <text>CONSTITUTION — The Menominee Constitution and Bylaws.</text>
+    <text>JOINT VENTURE — Any agreement by contract, partnership, joint venture, membership in a limited liability company, limited liability partnership, or limited partnership between the Venture and another person or business, the purpose of which is to generate a profit.</text>
+    <text>LEGISLATURE — The Menominee Tribal Legislature.</text>
+    <text>NET PROFITS — That amount of revenue after cost of sales, operating expenses, debt service, if any, and any other required expenditures are subtracted from total generated revenues of the joint venture.</text>
+    <text>TRIBAL MEMBER — Any person included on the official roll of the Menominee Tribe.</text>
+    <text>TRIBAL REAL PROPERTY — Land held in trust by the United States for use by the Menominee Tribe. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>VENTURE — The Menominee Business Venture established by this Tribal Ordinance No. 98-06.</text>
+    <text>VENTURE PERSONAL PROPERTY or VENTURE ASSETS — The personal property, including cash, the control of which is transferred to the Venture by the Legislature or any other entity.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-4</num>
+    <heading>Form of management.</heading>
+    <para>
+      <num>A.</num>
+      <text>Board of Directors. The form of management of the Venture shall be a Board of Directors (hereinafter "Board").</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Legislature by majority vote shall appoint three members to the Board.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Board terms shall be for two years.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Candidates for the Board shall be enrolled tribal members, exhibit an understanding of business principles, and have experience, life or academic, in directing a business for profit.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>No member of the Board shall be an employee of the Board or an employee of any joint venture entered into by the Board.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-5</num>
+    <heading>Powers of Board.</heading>
+    <text>The Board shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Have the ability to enter into joint ventures, as that term is defined under this Charter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Not enter into any joint venture whereby the Venture, as a Menominee tribal entity, has less than 51% ownership of such joint venture.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Be responsible for establishing overall policies and objectives for the management of the affairs and assets of the Venture.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Establish a fiscal year and submit quarterly reports to the Legislature; however, the Legislature may require more frequent periodic reporting as the Legislature shall determine is necessary.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Be subject to all sovereign and governmental authority of the Tribal Legislature, pursuant to Article XIII, Menominee Constitution and Bylaws.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Be compensated for meetings as determined by the Legislature; provided, however, that no more than two meetings in any one month are permissible unless the Tribal Chairperson approves additional meetings based on a written request from the Board spelling out the specific reasons for such additional meetings.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Have no interest, contractual or any other kind, by virtue of being appointed to the Board.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Require the presence of two members as a quorum.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Elect a Chairperson and Secretary from its membership; provided, however, that the Secretary may act as Chairperson in his absence, and the remaining member may act as Secretary in such case.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Not make or participate in making decisions which involve balancing a personal interest, financial or otherwise, against the interests held in common by all tribal members; neither shall a member participate in decisions involving a member of the Board member's immediate family.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-6</num>
+    <heading>Indemnification.</heading>
+    <text>Each Director, employee, and agent of the Venture shall be entitled, without prejudice to any other rights he may have, to be reimbursed and indemnified from assets of the Venture for any of the following: all legal and other expenses reasonably incurred by him in connection with any claim, action, suit, or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as Director, agent, or employee of the Venture or any subsidiary of the Venture, whether or not wholly owned, or by reason of any action alleged to have been taken or omitted by him as any other such Director, agent, or employee. Reimbursement and indemnification under this section include amounts paid or incurred in connection with reasonable settlements made with a view to curtailment of costs of litigation and with the approval of the Board then in office. No such reimbursement or indemnification shall relate to any expense incurred or settlement made in connection with any matter arising out of the negligence or misconduct of such Director, agent, or employee as determined either by a court of competent jurisdiction or, in the absence of such a determination, by the Board acting on the advice of counsel. The Venture and</text>
+    <text>its Directors, agents, and employees shall not be liable to anyone for making any determination as to the existence or absence of liability, or for making or refusing to make any payment hereunder on the basis of such determination, or for taking or omitting to take any other action hereunder, in reliance upon the advice of counsel.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-7</num>
+    <heading>Recall of Directors.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Director may be recalled from office on grounds of dishonesty, incompetence, dereliction of duty, absence from any three scheduled meetings, or other conduct seriously detrimental to the interests of the Venture and the Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Recall procedure. The Legislature shall inform the Director in writing of the intended action, specifically stating the reasons for recall. Between 10 and 20 days after verified receipt of the notice of recall, the Legislature shall meet with the Director and allow him to rebut any of the charges in the notice of recall. Within five days of said meeting, the Legislature shall inform the involved Director of its decision.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Legislature shall, with all due haste, fill any vacancy created by recall, resignation or other reason of a Director in the same manner as an initial appointment to the Board for the remainder of such removed Director's term.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-8</num>
+    <heading>Annual business meeting.</heading>
+    <text>The Venture Board shall have an annual business meeting at the same time as the annual General Tribal Council for the purpose of informing tribal members on the operation of the Venture for the past year.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§688-9">
+    <prefix>§</prefix>
+    <num>688-9</num>
+    <heading>Assets.</heading>
+    <para>
+      <num>A.</num>
+      <text>Initial assets. The initial assets of the Venture shall consist of an appropriation from the Legislature and any other personal property which the Legislature shall transfer to the Venture.<fn path="|IV|§688-9|footnotes|2">2</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Additional assets. All income from whatever source shall constitute additional assets.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal real property. The Venture shall have no interest in any tribal real property for any purpose. The Venture may have a leasehold of tribal land pursuant to tribal law and approved by the Legislature.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§688-10">
+    <prefix>§</prefix>
+    <num>688-10</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General method of operation. The Venture shall be operated in an efficient, businesslike manner in accordance with this Charter. The Board shall, in addition to following other businesslike practices consistent with the above guidelines, cause the following to be achieved:</text>
+      <para>
+        <num>(1)</num>
+        <text>An accounting system, approved by an independent certified public accounting firm, shall be established;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An inventory control system, including an inventory of property taken as of the last day of business of each fiscal year of the Venture, shall be established;<fn path="|IV|§688-10|footnotes|3">3</fn></text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An audit of the Venture shall be conducted by an independent certified public accounting firm as of the last day of business of each fiscal year;</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>An annual financial statement of the operations of the Venture shall be prepared and presented at the annual General Council meeting;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monthly financial statements of the Venture shall be prepared and included in the monthly report to the Legislature;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Prepare and submit an annual budget to the Legislature for approval prior to the beginning of each fiscal year, which budget may be amended during the year subject to the approval of the Legislature;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Adopt general policies which include at a minimum a statement of purpose, a statement of policy, a statement of administrative policy and a statement of personnel policies which incorporates <cite path="|I|170">Chapter 170</cite>, Article I, Tribal Preference, of this Code; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Carry Wisconsin state workers' compensation insurance and comply with all applicable federal tax laws.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of net profits. The net profits of the Venture shall be allocated in the following manner: monthly, an amount equal to 100% of the net profits of the Venture shall be disbursed to the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Creation of debt and encumbrance of assets. In the exercise of its powers to borrow money, issue temporary long-term evidence of indebtedness, and pledge or otherwise encumber Venture assets, the Board shall provide written notice to the Legislature of the Board's intent to exercise such powers at least 10 days prior to the exercise when:</text>
+      <para>
+        <num>(1)</num>
+        <text>The transaction will involve the borrowing or encumbering of money or assets in excess of $250,000; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The transaction, regardless of its amount, will occur at a time when the Venture has outstanding unpaid debt in excess of $2,000,000.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-11</num>
+    <heading>Tribal sovereignty and immunity.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribe hereby gives its consent to allowing the Venture, by specific written agreement with any party, to sue and be sued in its capacity as a tribal business upon any contract, claim, or obligation arising out of its activities authorized by this Charter and hereby authorizes the Venture to agree, by specific written agreement, to waive any immunity from suit which it might otherwise have. Subject to the provisions of this Charter, the Venture is authorized to pledge, mortgage, or otherwise encumber the assets of the Venture as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein. In no event shall any assets of the Tribe, including tribal forest land and other tribal land, be subject to any obligations of the Venture.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Charter shall not operate as a partial or total waiver of the sovereign immunity of the Tribe. The Tribe in no way waives or limits its sovereign and governmental powers in regard to the Venture or operations of the Venture.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Venture shall be entitled to and the Tribe in no way waives or limits immunities from taxation to which American Indian tribes, their members, and their businesses are entitled by law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-12</num>
+    <heading>Termination of Charter.</heading>
+    <text>If this Charter is terminated by the Legislature, the Board shall promptly relinquish control over all assets and liabilities of the Venture to the Legislature, acting on behalf of the Tribe, or to such other entity as the Legislature shall designate. The Board shall also promptly deliver all books and records of the Venture to the Legislature or to such other entity as the Legislature shall designate.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>688-13</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Principal place of business. The principal office of the Venture shall be located within the exterior boundaries of the Menominee Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Agent for service of process. The Board shall designate an agent of the Venture for the purpose of accepting service of process. The business address of such agent shall be the principal office of the Venture.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Seal. The Board may provide a seal of the Venture.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Duration. This Charter shall remain in effect in perpetuity. If this Charter is terminated by the Legislature, this Charter shall be null and void.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Cooperation between the Board and Legislature. In the implementation of this Charter, the Board and the Legislature shall work together and cooperate in order to promote the best interests of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

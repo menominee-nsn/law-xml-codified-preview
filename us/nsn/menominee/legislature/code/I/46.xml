@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|46">
+  <prefix>Chapter</prefix>
+  <num>46</num>
+  <heading>DESCENDANT REGISTER</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-15-2009 by Ord. No. 09-18. Amendments noted where applicable</annotation>
+    <annotation type="General References">Enrollment — See <cite path="|I|69">Ch. 69</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>46-1</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|I|46">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>DESCENDANT REGISTER (formerly known as the "Ancillary Roll") — A register containing a compiled listing of individuals who possess at least 1/16 or greater of Menominee blood.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-2</num>
+    <heading>Application for inclusion.</heading>
+    <text>An individual who lacks sufficient blood quantum to qualify for inclusion on the official tribal roll, and who is a first- or second-degree descendant of an enrolled Menominee tribal member, may apply for inclusion on the Menominee Tribal Descendant Register. Any application for inclusion may be submitted by the individual applicant. With respect to minors, mental incompetents or other persons in need of assistance, applications may be submitted by the individual applicant's parent, next of kin, recognized guardian or other person responsible for the care of the individual. In the case of a minor child, all Menominee parents shall be notified of the application, except in the case of adopted children where those adoption records are held confidential.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-3</num>
+    <heading>Enrollment Committee to provide forms.</heading>
+    <text>The Committee shall provide a standard form to be completed by applicants for inclusion in the descendant register. All applicants shall use the prescribed form to apply for inclusion in the descendant register.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-4</num>
+    <heading>Application fee.</heading>
+    <text>All applicants for inclusion in the descendant register shall pay a fee of $25 as an administrative processing fee. This fee may be increased from time to time upon motion by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-5</num>
+    <heading>Advisement of disposition of application.</heading>
+    <text>The Committee shall advise each applicant, in writing, of the disposition of his or her application for inclusion in the descendant register. The Committee shall not deny an application for inclusion without providing the applicant with a written explanation of why inclusion was denied.</text>
+    <para>
+      <num>A.</num>
+      <text>The Committee shall advise the successful applicant, in writing, as to its decision to recommend the addition of his/her name to the descendant register.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A copy of all documents entered into the record along with a finding of facts and decision shall become part of a permanent file with the enrollment office. If the successful applicant entered original records and wishes to have them returned, the enrollment office shall make copies and return the original records, noting in the file that the original records were returned.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-6</num>
+    <heading>Limited rights and privileges of individuals included in register.</heading>
+    <text>Individuals included in the descendant register do not possess or receive the same rights as enrolled tribal members. Rights reserved for enrolled tribal members are defined by the Menominee Tribal Constitution. An individual placed on the descendant register may be eligible for certain privileges as set forth by the Menominee Tribal Legislature. In order to be eligible for any descendant privileges, an individual must be placed on the descendant register through the procedure set forth in <cite path="|I|46">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-7</num>
+    <heading>Relinquishment of membership.</heading>
+    <text>No person who has relinquished his or her membership in the Menominee Indian Tribe shall be eligible for inclusion in the Descendant Register of the Menominee Indian Tribe for any purpose.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-8</num>
+    <heading>Enrollment.</heading>
+    <text>A person may be eligible for inclusion in the descendant register, so long as that person has not relinquished enrollment in the Menominee Indian Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-9</num>
+    <heading>Authority of Enrollment Committee to investigate errors.</heading>
+    <text>The Committee shall have the authority to investigate suspected errors in the descendant register, and where it deems appropriate in view of the evidence, shall recommend changes in the register to the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-10</num>
+    <heading>Enrollment Committee to conduct hearings.</heading>
+    <text>The Committee shall conduct hearings pursuant to <cite path="§46-11">§ 46-11</cite> of <cite path="|I|46">this chapter</cite>. The burden of proof shall be on the applicant to show by clear and convincing evidence that he or she possesses the requisite amount of Menominee tribal blood to be placed on the Menominee Indian Tribe of Wisconsin Descendant Register.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-11</num>
+    <heading>Enrollment Committee investigation and hearing procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>Powers of the Committee to conduct an investigation. The Committee shall have the following powers in conducting their investigations:</text>
+      <para>
+        <num>(1)</num>
+        <text>The authority and power to subpoena witnesses;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The authority and power to subpoena documents;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The authority and power to compel testimony of witnesses;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The authority and power to administer oaths;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The power and authority to enforce its powers through a finding of contempt; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Other powers that are reasonable, necessary and typical of such an investigative committee carrying out their constitutional mandates.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice of investigation and/or hearing. The Committee shall give notice of an investigation and/or hearing to persons whom the Committee believes have a bona fide interest in such investigation and/or hearing. The notice shall inform persons as to the general nature of the investigation and/or hearing and advise them as to the manner and time in which comments or evidence may be presented to the Committee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Investigative hearing; procedures. The Chairperson of the Committee shall preside over and conduct the formal investigative hearing, which shall be quasi-judicial in nature. The hearing may be held in executive session when the need to maintain confidentiality of the proceedings outweighs the interest of the public in attending such a hearing. The Chairperson shall have the power and authority to call witnesses, compel testimony, administer oaths and make determinations on the receipt of documents and other evidence. The Chairperson shall conduct the order of the meeting and shall give reasonable opportunity of the Committee members to question witnesses and for interested parties to be reasonably heard. The Committee may seek the assistance of the Legal Services Department in the presentation of the evidence. If the Legal Services Department is requested to present evidence, it shall not be allowed to take <cite>part i</cite>n Committee deliberations or in drafting documents regarding findings or decisions of the Committee.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Administration of oath. All witnesses shall be sworn to tell the truth under penalty of perjury prior to testifying. The Committee Chairperson shall have the authority to administer oaths to witnesses and shall administer said oaths by having all witnesses raise their right hands and shall state the following question to them: "Do you swear or affirm to tell the truth, the whole truth and nothing but the truth?" The Committee Chair may elect to have the witness swear to tell the truth under penalty of perjury by signing a form that affirms the same, in substitution of or in addition to an orally administered oath.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Rules of evidence. The Committee shall not have to follow formal rules of evidence as adopted by the Menominee Tribal Courts, but may accept any credible and reliable evidence offered by any witness or party to the hearing. The Committee shall not render any decision based upon uncorroborated hearsay, unauthenticated documents or other suspect and/or unreliable evidence.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Admission of documents into evidence. The Committee shall not accept into evidence and shall not render a decision based on any document(s) unless that document(s) is/are originals or is/are certified copies. Copies, if they are to be admitted into evidence or relied upon, must be certified to be authentic by the individual who is in charge of the original document. In the case where there is justifiable doubt as to the authenticity of a certified copy, the Committee may recess the hearing for a period not to exceed 15 days and request to view the original version of the document held by the custodian of the document.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Hearing procedure; findings of fact. The Committee shall conduct a hearing before the Committee that conforms with the hearing rules/procedures prescribed within <cite path="|I|46">this chapter</cite>. At the conclusion of the hearing, the Committee Chairperson will render a written decision within 20 days as to the Committee's determination. The written decision shall include a detailed finding and conclusions. A copy of the written decision shall be delivered to the applicant, any members whose blood quantum or enrollment was affected and to the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Investigation to become part of file. A copy of all documents entered into the record, along with a finding of facts and decision, shall become part of the permanent file with the enrollment office.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>46-12</num>
+    <heading>References to other documents.</heading>
+    <text>Where references are made in any other tribal ordinances or documents to the Ancillary Roll, "Ancillary Roll" shall now be deemed to read "Descendant Register."</text>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>A900</num>
+  <heading>DETENTION FACILITY POLICIES AND PROCEDURES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-7-1989 by Ord. No. 89-21. Amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="appendix|§A900-1">
+    <prefix>§</prefix>
+    <num>A900-1</num>
+    <heading>Authority; adoption of manual.</heading>
+    <text>Pursuant to the Menominee Constitution, Article III and Bylaw II, Section 2(i), the Menominee Indian Tribe Detention Facility Policies and Procedures Manual, attached hereto and incorporated herein, is enacted into Menominee law.<fn path="|appendix|§A900-1|footnotes|1">1</fn></text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Detention Facility Policies and Procedures Manual is on file at the office of the Tribal Chairperson.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="appendix|§A900-2">
+    <prefix>§</prefix>
+    <num>A900-2</num>
+    <heading>Repealer.</heading>
+    <text>This ordinance shall replace and repeal the provisions of Ordinance No. 79-14 adopting 25 CFR 11.305, Minimum standards for detention programs.<fn path="|appendix|§A900-2|footnotes|2">2</fn></text>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Part 1, Judiciary and Law and Order Code.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="appendix|§A900-3">
+    <prefix>§</prefix>
+    <num>A900-3</num>
+    <heading>Juveniles.</heading>
+    <text>The provisions of <cite>Ch. 48</cite>, Wis. Stats., regarding the arrest and detention of juveniles as provisionally adopted by Tribal Ordinance No. 79-14 under 25 CFR 11.97ME will remain in full force and effect.<fn path="|appendix|§A900-3|footnotes|3">3</fn></text>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: See also <cite path="|II|278">Ch. 278</cite>, Children's Code.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+</container>

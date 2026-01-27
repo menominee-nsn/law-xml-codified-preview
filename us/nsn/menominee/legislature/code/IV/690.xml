@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="IV|690">
+  <prefix>Chapter</prefix>
+  <num>690</num>
+  <heading>MENOMINEE PAYMENT PROCESSING COMPANY</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-16-2017 by Ord. No. 17-26. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>690-1</num>
+    <heading>Name of tribal business.</heading>
+    <text class="center">This Charter is issued to a tribal business to be known as the "Menominee Payment Processing Company."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of the Company is to provide acceptance and processing of credit, debit and online payment processing services for departments and programs of the Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings: COMPANY — The Menominee Payment Processing Company.</text>
+    <text>CONSTITUTION — The Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin. FINANCE DEPARTMENT — The Finance Department of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>MERCHANT SERVICES COMPANY — A Company who processes electronic payments, provides necessary hardware and electronically transfers funds to be received through electronic payments.</text>
+    <text>MTL — The Menominee Tribal Legislature, the tribal governing body elected pursuant to Section 3, Article IV of the Constitution, and their successors.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-4</num>
+    <heading>Powers.</heading>
+    <text>The Company shall have the powers to:</text>
+    <para>
+      <num>A.</num>
+      <text>Enter into agreements with the Menominee Indian Tribe of Wisconsin, banks, merchant service companies or other companies for the purpose of receiving payments by credit card, automated clearinghouse, online, purchasing card, gift card, debit card transactions or any other forms of electronic payment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If required, establish bank accounts for the receipt of payments, provided that the account shall be limited to receiving electronic payments, paying the fees associated with merchant agreements and transferring funds to the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Make and alter bylaws, consistent with this Charter and with the laws, ordinances, and regulations of the Tribe and the United States, for the administration of the affairs of the Company.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Contract with the Tribe for the provision of these services, provided that all revenues of the Company are transferred to the tribe and that all expenses of the Company are charged to the tribe or specific tribal departments on whose behalf the expenses were incurred. These expenses include the merchant services processing fees and the cost of leasing, purchasing, replacing, maintaining or upgrading hardware or software.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Contract with the Tribe for the purposes of establishing funds transfer to the Tribe and custodial services of funds retained in the Company's bank account prior to transfer to the Tribe and all other powers necessary to accomplish the purpose of the Company.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-5</num>
+    <heading>Form of management.</heading>
+    <text>The form of management of the Company shall be a Board of Directors.</text>
+    <para>
+      <num>A.</num>
+      <text>Board of Directors.</text>
+      <para>
+        <num>(1)</num>
+        <text>There shall be three members of the Board of Directors.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Powers and duties. The Board of Directors shall exercise all the powers and be responsible for all the duties of the Company as set forth in this Charter and the ordinance adopting this Charter.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Appointment. The Board of Directors shall be deemed appointed upon the passage of this Charter by the Menominee Tribal Legislature or by their being hired by the Tribe into one of the positions or its successor positions designated by this Charter.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Members. The Board of Directors shall consist of the following members:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribal Administrator or the successor position to the Tribal Administrator, or an employee of Tribal Administration appointed to serve by the MTL.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Finance Manager or the successor position to the Finance Manager, or an employee of the Finance Department appointed to serve by the MTL.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Finance Department's Accounts Receivable Coordinator or the successor position to the Accounts Receivable Coordinator, or an employee from the Accounts Receivable area appointed to serve by the MTL.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Term. The terms of the Board shall run concurrently with their employment with the Menominee Indian Tribe in the positions designated by this Charter.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Quorum. The presence of not less than two Directors shall be necessary to constitute a quorum of the Board of Directors for the transaction of business of the Company, and the act of a majority of those members present and voting at a meeting at which a quorum is present shall be the act of the Company.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Officers.</text>
+        <para>
+          <num>(a)</num>
+          <text>Chairperson. The Tribal Administrator shall be the Chairperson of the Board of Directors. The Chairperson shall preside at all meetings of the Board of Directors and shall perform all duties incident to the office of the Chairperson of the Board of Directors, including signing agreements and other documents approved by the Board of Directors, and such other duties as, from time to time, may be assigned by the Board of Directors.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Vice Chairperson. The Finance Manager shall be the Vice Chairperson and shall act in the capacity of the Chairperson in the absence of the latter and shall discharge any other duties designated by the Chairperson.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Secretary. The Accounts Receivable Coordinator shall be the Secretary. The Secretary shall keep, or cause to be kept, the minutes of the meetings of the Board of Directors. The Secretary shall see that all notices are duly given in accordance with the provisions of <cite path="|IV|690">this chapter</cite>. The Secretary shall be custodian of the seal and records, and shall perform all duties incident to the office of the Secretary, and such other duties as may, from time to time, be assigned to the Secretary by the Board of Directors.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Removal. Members of the Board shall be considered removed from the Board upon vacating their position of employment through which their appointment to the Board was required. Members may also be removed by the MTL at any time for any reason.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Compensation. Members of the Board of Directors shall not receive any direct or in-kind compensation for their service on the Board, except that which is provided through their employment with the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Reporting and meeting requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Finance Department of the Tribe, as the fiscal agent for the Company per <cite doc="Charter of the Menominee Indian Tribe" path="|690|§690-8">§ 690-8 of this Charter</cite>, shall prepare a monthly report on the same schedule as the regular finance report, to the Board of Directors and the Menominee Tribal Legislature. The report shall contain the total amount of payments processed for each department of the Tribe, the fees charged by each merchant service Company, and the net payments collected electronically for the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board of Directors shall meet, at a minimum, annually to review or approve contracts with merchant service companies or conduct any other business required of the Company.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>(Reserved)</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Conflict of interest. Pursuant to Article XVII of the Menominee Constitution and Bylaws, individual members of the Board of Directors shall not make or participate in making any decision which involves an entity, property, business, transaction, supplier in which the Board member, his/her spouse, parent, brother, sister, child, in-law or relative of the first degree owns, controls, manages or directs any interest, other than those interests held in common by all tribal members.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Standard of conduct.</text>
+      <para>
+        <num>(1)</num>
+        <text>Members of the Board of Directors shall avoid conflicts of interest and the appearance of conflicts of interest.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Members of the Board of Directors shall not use confidential information gained in the course of their appointment for private gain and only disclose confidential information with specific approval.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board of Directors shall have no authority to act outside meetings, except for those reporting duties contained in this Charter.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Members of the Board of Directors shall focus their efforts through cooperation and positive interaction with each other through open communication and trust with each other.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Members of the Board of Directors shall treat each other with respect and be supportive of ongoing interest of the Company.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Members of the Board of Directors shall recuse themselves from any matter in which they have a conflict of interest. If the Board of Directors believes that a member of the Board has a conflict of interest and that Board member does not recuse himself or herself, the Board, by motion, may require that Board member to recuse himself or herself.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Members of the Board of Directors shall maintain strict confidentiality regarding matters discussed in closed session.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Any alleged violations of these standards of conduct, or alleged violations of the Company bylaws, shall be brought to the MTL for resolution. Notwithstanding any other provision in this Charter, or any provision in the Company Bylaws, the Board shall have no authority to impose a penalty on a member of the Board of Directors for such violations.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Indemnification. Each present, former, and future member of the Board of Directors shall be indemnified by the Menominee Indian Tribe of Wisconsin when acting within the scope of their authority.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§§</prefix>
+    <num>690-6 through 690-7</num>
+    <reason>Reserved</reason>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-8</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>Fiscal operations. The fiscal operations of the Company shall be managed by the Tribe's Finance Department at no cost to the Company. The Finance Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish and operate under an accounting system that is in accordance with GAAP and is approved by an independent certified public accounting firm chosen by Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As part of the Tribe's annual audit, cause an annual audit of the Company by the Tribe's independent auditing firm.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Prepare an annual financial statement of the operations of the Company.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>(Reserved)</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Prepare monthly financial reports of the Company.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Establish and maintain a fiscal year consistent with the Tribe's fiscal year.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Reconcile all payments received from the merchant services Company, provide reports that credit payments to the correct tribal department on a monthly basis, and transfer all payments to the Tribe within a time frame established by the Tribe's Finance Department.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Ensure that the Company does not retain any funds beyond the minimum requirements of the bank and merchant processing Company.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Records, inspections, audits. The books, records and property of the Company shall be maintained by the Finance Department and be available for inspection at all reasonable times by the Board of Directors and authorized representatives of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-9</num>
+    <heading>Assets.</heading>
+    <text>The Company shall not be authorized to hold any assets except those physical assets necessary to process credit card transactions.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-10</num>
+    <heading>Compliance with applicable laws; exercise of powers.</heading>
+    <para>
+      <num>A.</num>
+      <text>Compliance with laws. The Company shall exercise the duties and powers delegated to it under this Charter in conformity with all applicable laws.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Best interests of Tribe. The Company shall at all times exercise the duties and powers delegated to it under this Charter in the best interest of the Tribe.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Policies and procedures. The Company shall adopt such policies and procedures as it may determine necessary for the orderly conduct of its business.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-11</num>
+    <heading>Tribal sovereignty and immunity.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribe hereby gives its consent to allowing the Company, by specific written agreement with any party, to sue and be sued in its capacity as a tribal business upon any contract, claim, or obligation arising out of its activities authorized by this Charter and hereby authorizes the Company to agree, by specific written agreement, to waive any immunity from suit which it might otherwise have. Subject to the provisions of this Charter, and as provided for in a contract or agreement entered into by the Company pursuant to <cite path="§690-4">§ 690-4</cite>, the Company is not authorized to pledge, mortgage, or otherwise encumber the assets of the Company as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein. In no event shall any assets of the Tribe, including tribal forest land and other tribal land, be subject to any obligations of the Company unless specifically authorized by the Constitution.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Charter shall not operate as a partial or total waiver of the sovereign immunity of the Tribe. The Tribe in no way waives or limits its sovereign and governmental powers in regard to the Company or operations of the Company.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Company shall be entitled to, and the Tribe in no way waives, the exemptions and immunities from taxation to which American Indian tribes, their members, and their businesses are entitled by law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-12</num>
+    <heading>Termination of Charter.</heading>
+    <text>If this Charter is terminated by the MTL, the Board of Directors shall promptly relinquish control over all assets and liabilities of the Company to the MTL, acting on behalf of the Tribe, or to such other entity as the MTL shall designate. The Board of Directors shall also promptly deliver all books and records of the Company to the MTL, acting on behalf of the Tribe, or to such other entity as the MTL shall designate.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>690-13</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Principal place of business. The principal office of the Company shall be located on the Menominee Indian Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Agent for service of process. The Board of Directors shall designate an agent of the Company for the purpose of accepting service of process. The business address of such agent shall be the principal office of the Company.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Duration. This Charter shall remain in effect until revoked by ordinance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>(Reserved)</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Cooperation between the Board of Directors and the MTL. In the implementation of this Charter, the Board of Directors and the MTL shall work together and cooperate in order to promote the best interests of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

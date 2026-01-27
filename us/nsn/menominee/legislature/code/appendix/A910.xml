@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>A910</num>
+  <heading>MENOMINEE ENTERPRISES PLAN</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-19-1979 by Ord. No. 79-12. Amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="appendix|§A910-1">
+    <prefix>§</prefix>
+    <num>A910-1</num>
+    <heading>Plan reaffirmed.</heading>
+    <text>Pursuant to Article XII, Section 1, of the Constitution of the Menominee Indian Tribe and pursuant to Paragraph 14d of the Management Plan of Menominee Enterprises, a Tribal Enterprise of the Menominee Indian Tribe of Wisconsin (hereinafter referred to as "Menominee Enterprises Plan"), the Menominee Enterprises Plan is hereby reaffirmed.<fn path="|appendix|§A910-1|footnotes|1">1</fn></text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Menominee Enterprises Plan, as amended 9-7-1979 by Ord. No. 79-17 and 4-24-1993 by Ord. No. 93-5, and as it may be subsequently amended, is on file at the office of the Tribal Chairperson.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+</container>

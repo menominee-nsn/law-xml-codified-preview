@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|275">
+  <prefix>Chapter</prefix>
+  <num>275</num>
+  <heading>CAMPING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-23-2020 by Ord. No. 20-08. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>275-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|275">this chapter</cite> is to provide expectations and limitations for individuals seeking recreational activities, specifically, the act of camping within the exterior boundaries of the Menominee Reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-2</num>
+    <heading>Jurisdiction.</heading>
+    <text><cite path="|II|275">This chapter</cite> shall apply to all lands within the exterior boundaries of the Menominee Indian Reservation, Naneweyah Ominihekan area (Middle Village area), and any lands acquired by the Tribe for the use and benefit of the Tribe. The Court shall have jurisdiction over proceedings instituted pursuant to <cite path="|II|275">this chapter</cite>. <cite path="|II|275">This chapter</cite> shall be binding upon all individuals who reside on, travel through, or come upon the Menominee Indian Reservation and any lands held in trust for the Tribe or later acquired and placed in trust for its benefit. Any person who enters the Menominee Indian Reservation shall be deemed to have given consent to the jurisdiction of the Tribe for the purposes of enforcing <cite path="|II|275">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-3</num>
+    <heading>Definitions.</heading>
+    <text>In <cite path="|II|275">this chapter</cite>, the following terms shall have the following meanings as indicated:</text>
+    <text>CAMP SITE — Segregated camping sites within a campground designated for permitted camping by tribal members or camping areas set up for unpermitted camping within the Reservation that would include the area of containment where settlement and personal belongings are located.</text>
+    <text>CAMPER(S) — Individual(s) partaking in the act of camping as defined within <cite path="|II|275">this chapter</cite>.</text>
+    <text>CAMPGROUND — Areas on the Reservation that have been designated as a campground by Community Development that may contain amenities and camping lots.</text>
+    <text>CAMPING — The act of an individual(s) staying overnight outdoors and utilizing an area or nonpermanent movable shelter as a temporary home:</text>
+    <para>
+      <num>A.</num>
+      <text>Dispersed/primitive camping requiring no permit; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Permitted camping in designated areas.</text>
+      <text>CAMPING PERMIT — A physical certificate that permits camper(s) to temporarily reside on a defined camping location for a time period as specified by the permit.</text>
+      <text>CAMPING RULES — Rules created that address conduct of campers, general camping rules, and specific rules for specific places and campgrounds. These rules shall be developed by the Community Development Department and approved by the Community Development Committee.</text>
+      <text>FAMILY UNITS —</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>A family unit is defined as:</text>
+      <para>
+        <num>(1)</num>
+        <text>Persons legally married;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Persons living together in common law marriage (meaning cohabitation evidenced by sworn statement on the application form); or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A single adult person; and</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Includes any biological child(ren), legally adopted child(ren), foster children, stepchildren, or children in temporary custody under the age of 18 years who reside in the same household as <cite path="§275-3|A">Subsection A</cite>, B or C.</text>
+      <text>INDIVIDUAL(S) — Either a human person or group of human persons.</text>
+      <text>NATURAL ENVIRONMENT — The physical world that is not man-made and may include both animal and plant life.</text>
+      <text>OTHER AREAS — All lands within the exterior boundaries of the Menominee Indian Reservation that are subject to the jurisdiction of <cite path="|II|275">this chapter</cite>.</text>
+      <text>PARK — Area within the Menominee Indian Tribe of Wisconsin that has been designated for recreational use in the best interest of the community.</text>
+      <text>PHYSICAL PROPERTY — Inanimate items used by individuals that are man-made and include tangible resources provided at park areas.</text>
+      <text>PROHIBITED ACTIVITIES — Any acts by an individual(s) deemed to be unlawful or harmful to an individual(s), physical property, or natural environment, including all Menominee tribal ordinance violations.</text>
+      <text>RECREATIONAL ACTIVITIES — Those activities that result in relaxation and enjoyment of individual(s) which do not violate any current laws of the Menominee Indian Tribe of Wisconsin, which may include, but is not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</text>
+      <text>RESTRICTED AREAS — Any boat launches or areas restricted for cultural learning, emergency closures, or other public safety closures.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-4</num>
+    <heading>Access to camping.</heading>
+    <para>
+      <num>A.</num>
+      <text>Only tribal members, descendants, spouses of tribal members, or those who have been granted access to tribal lands pursuant to <cite path="|II|525">Chapter 525</cite>, Tribal Lands, for camping, may participate in camping.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Only tribal members may apply for a permit to camp.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-5</num>
+    <heading>Unpermitted camping.</heading>
+    <para>
+      <num>A.</num>
+      <text>Location. Although permitted camping is always encouraged, camping that does not require a permit is allowed anywhere within the exterior bounds of the Menominee Reservation except for the following locations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Restricted areas;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Private land without permission;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Leased or assigned land without permission;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Public parks;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Pow-wow grounds (except as otherwise authorized under <cite path="|II|275">this chapter</cite>);</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Camping lots and campgrounds requiring permits; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Areas posted by the Tribe prohibiting camping.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Any area within 30 feet of a roadway, trail, or waterbody.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Duration of camping.</text>
+      <para>
+        <num>(1)</num>
+        <text>To ensure a fair allocation of tribal recreational resources, all unpermitted camping shall be limited to a period of 10 days per camping location.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Extensions shall not be granted.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Campers must follow all camping rules developed by the Community Development Department and approved by the Community Development Committee. Rules shall be publicly available at the Community Development Department and Conservation Department.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Camping may be suspended under an order issued pursuant to <cite path="|I|196">Chapter 196</cite>, State of Emergency, for the health, safety, and welfare of the community.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-6</num>
+    <heading>Permitted camping.</heading>
+    <para>
+      <num>A.</num>
+      <text>Permit process.</text>
+      <para>
+        <num>(1)</num>
+        <text>Individuals(s) shall contact the Community Development Office for a list of camping locations available for permitted camping and shall complete an application and submit all applicable payments as developed by the Community Development Department and approved by the Community Development Committee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Applications may be submitted for camping locations available for permitted camping up to three months prior to the date of camping and will be reviewed on a first-come, first-serve basis.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The application shall be either approved or disapproved by the Community Development Department.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Upon approval, a camping permit shall be provided and must be kept on the premises of the permitted camping lot at all times.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Camping permits may be denied, disapproved or revoked at any time for violation of any camping rules, tribal ordinances, application misrepresentation, or for any other reason determined to be in the best interest of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Areas requiring permit for camping.</text>
+      <para>
+        <num>(1)</num>
+        <text>Designated camping sites;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pow-wow grounds;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Designated campgrounds; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Designated areas that are specified for camping during tribally sanctioned events.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Duration of camping.</text>
+      <para>
+        <num>(1)</num>
+        <text>To ensure a fair allocation of tribal recreational resources, all permitted camping activities, by any camper(s), shall be limited to a period of 10 days per camping location.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Extensions shall not be granted.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Members of family units shall be prohibited from applying for immediately subsequent permits in the same camping location.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Campers must follow all camping rules developed by the Community Development Department and approved by the Community Development Committee. Rules shall be publicly available at the Community Development Department, Conservation Department, and at the designated campground.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Camping may be suspended under an order issued pursuant to <cite path="|I|196">Chapter 196</cite>, State of Emergency, for the health, safety, and welfare of the community.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-7</num>
+    <heading>Pow-wow grounds.</heading>
+    <para>
+      <num>A.</num>
+      <text>Restrictions.</text>
+      <para>
+        <num>(1)</num>
+        <text>Camping is prohibited on the pow-wow grounds except:</text>
+        <para>
+          <num>(a)</num>
+          <text>Camping is allowed seven days before the first day of the contest pow-wow and seven days after the last day of the contest pow-wow. Permits for camping at the contest pow-wow shall be obtained from the Pow-Wow Committee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Camping is allowed during non-contest pow-wows for three days before and three days after. Permits for camping at the pow-wow grounds for non-contest pow-wows shall be issued by the Community Development Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Community Development shall provide the applications, permits, camping rules and a map of camping sites to the Pow-Wow Committee to use for camping during the contest pow-wow.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Pow-Wow Committee shall be responsible for collecting applicable fees, approving applications and issuing permits to campers camping during the contest pow-wow.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Camping on the ball parks is expressly prohibited.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>RV-electric sites shall be limited to two vehicles per site.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tent sites shall be limited to two vehicles per site.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Campers must camp in their designated RV-electric or tent site.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Campers must follow all camping rules developed by the Community Development Department and approved by the Community Development Committee. Rules shall be publicly available at the Community Development Department and at the pow-wow grounds.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-8</num>
+    <heading>Prohibited activities.</heading>
+    <text>In addition to any specific prohibition or restriction stated elsewhere in <cite path="|II|275">this chapter</cite>, the following are prohibited:</text>
+    <para>
+      <num>A.</num>
+      <text>Campers camping in any location within the Reservation shall not violate any other tribal ordinances, including, but not limited to, <cite path="|I|196">Chapter 196</cite>, State of Emergency, <cite path="|II|325">Chapter 325</cite>, Fire Prevention, <cite path="|II|429">Chapter 429</cite>, Noise, <cite path="|II|504">Chapter 504</cite>, Article I, Scavenging and Dumping, and <cite path="|II|250">Chapter 250</cite>, Alcoholic Beverages.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The duration of camping shall not exceed the time period designated in the sections above or designated in the camping rules. The Tribe has the right to remove any person and property that remain after this expiration.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Campers are prohibited from leaving the camping location in disorder. When the individual(s) concludes the specified camping period, the location must be left free of any debris or refuse or property and in an undisturbed condition.</text>
+      <para>
+        <num>(1)</num>
+        <text>Property remaining after the duration of the allowable camping period shall be considered abandoned property. All abandoned property will become property of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Campers may not camp within at least 30 feet from any roadway, hiking or vehicle trail, water body, stationary or mobile park improvement, pier or dock or swimming area.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Campers shall not violate camping rules.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-9</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any individual(s) engaging in prohibited activities within <cite path="|II|275">this chapter</cite> or violating camping rules developed under <cite path="|II|275">this chapter</cite> shall be subject to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The revocation of permit or right to unpermitted camping;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Denial of future camping privileges; and/or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A civil forfeiture not less than $50 nor more than $500.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Repeat violations within a twelve-month period shall be a civil forfeiture not less than $250 nor more than $750 and will have a revocation of their camping privileges for 24 months from the date of Court disposition.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Law enforcement officers shall remove all campers from the camping area when the permit or right to unpermitted camping is suspended or revoked.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Law enforcement officers may require individual campers be removed from the camping area that are causing unnecessary disturbances to other persons in the campground or are damaging or destroying physical property or natural environment in the campground.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Nothing in this section prohibits the issuance of citations for violations of other chapters in the Code of the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-10</num>
+    <heading>Enforcement.</heading>
+    <text>All Menominee tribal police officers and conservation officers are hereby designated as authorized officials to issue civil citations under <cite path="|II|275">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-11</num>
+    <heading>Severability.</heading>
+    <text><cite path="|II|275">This chapter</cite> and the various parts, sections, subsections, sentences, phrases, clauses hereof are hereby declared to be severable. If any part, section, subsection, sentence, phrase, clause is adjudged unconstitutional or invalid, it is hereby declared that the remainder of <cite path="|II|275">this chapter</cite> shall not be affected.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>275-12</num>
+    <heading>Effective date.</heading>
+    <text><cite path="|II|275">This chapter</cite> shall take effect upon final approval by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

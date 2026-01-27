@@ -1,0 +1,2150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>562</num>
+  <heading>WATER</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Department of Tribal Utilities — See <cite path="|I|210">Ch. 210</cite>. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="General References">Sewers and sewage disposal — See <cite path="|II|495">Ch. 495</cite>.</annotation>
+    <annotation type="General References">Surface water — See <cite path="|II|512">Ch. 512</cite>.</annotation>
+    <annotation type="General References">Land Use and Natural Resource Plan — See <cite path="|II|562">Ch. 562</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|562|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Groundwater Quality [Adopted 2-4-1988 by Ord. No. 87-28]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>562-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|562|I">this article</cite> is to establish groundwater quality standards for substances detected in or having a reasonable probability of entering the groundwater resources of the Menominee Reservation; to specify scientifically valid procedures for determining if a numerical standard has been attained or exceeded; to specify procedures for establishing points of standards application and for evaluating groundwater monitoring data; to establish ranges of responses the Tribe may require if a groundwater standard is attained or exceeded; and to provide for exemptions for facilities, practices and activities regulated by the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-2</num>
+      <heading>Applicability.</heading>
+      <text><cite path="|II|562|I">This article</cite> applies to all facilities, practices and activities which may affect groundwater quality. Health-related enforcement standards adopted in <cite path="§562-6|A">§ 562-6A</cite> also apply to bottled drinking water manufactured, bottled, sold or distributed on the Reservation and to determining eligibility for the well compensation program under <cite doc="Wis. Stat." path="§281.75">§ 281.75, Wis. Stats.</cite> The Tribe may promulgate new rules or amend rules governing facilities, practices or activities if the Tribe determines that the amendment or promulgation of rules is necessary to protect public health, safety or welfare. The requirements of <cite path="|II|562|I">this article</cite> are in addition to the requirements of any other chapters and rules.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-3</num>
+      <heading>Authority.</heading>
+      <text>These rules under <cite path="|II|562|I">this article</cite> shall be governed by Article I (Jurisdiction) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, whereby the governmental powers of the Menominee Indian Tribe of Wisconsin, a federally recognized sovereign Indian tribe, shall be consistent with applicable federal law and shall extend to all persons and subjects, to all lands and other property, including natural resources, and to all waters and air space within the exterior boundaries of the Menominee Reservation, including any land which may hereafter be added to the Reservation under any law of the United States. The governmental powers of the Menominee Indian Tribe shall, consistent with applicable federal law, also extend outside the exterior boundaries of the Reservation to any persons, subjects, or real property which is, or may hereafter be, included within the jurisdiction of the Tribe under any law of the United States. Any person who violates any regulation or law set forth under <cite path="|II|562|I">this article</cite> shall be prosecuted under tribal law whereby, under Article III, Section 2 of the Tribal Constitution and Bylaws (Powers of the Tribal Judiciary), the Tribal Judiciary shall be vested with all judicial powers of the Tribe, including the power to decide cases in which a person is accused by the Tribe of committing an offense against the laws of the Tribe. The powers granted to the judiciary by this section shall include judicial powers restored or granted by the Tribe by any law of the United States or other competent authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-4</num>
+      <heading>Interaction with other governments.</heading>
+      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of groundwater quality rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has full responsibility for all matters of tribal policy under <cite path="|II|562|I">this article</cite>. The Wisconsin Department of Natural Resources, as a neighboring government agency whose interests are served by the</text>
+      <text>development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination with each other, as they all share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-5</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|562|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>ACCURACY — The closeness of a measured value to its generally accepted value or its value based upon an accepted reference standard.</text>
+      <text>ATTAIN or EXCEED — The concentration of a substance is determined to be equal to or greater than the preventive action limit or enforcement standard for that substance.</text>
+      <text>BACKGROUND WATER QUALITY or BACKGROUND CONCENTRATION — Groundwater quality at or near a facility, practice or activity which has not been affected by that facility, practice or activity.</text>
+      <text>CERTIFIED LABORATORY — A laboratory which performs tests for hire and which receives certification under <cite doc="Wis. Stat." path="§299.11|(7)">§ 299.11(7), Wis. Stats.</cite>, or receives reciprocal recognition under <cite doc="Wis. Stat." path="§299.11|(5)">§ 299.11(5), Wis. Stats.</cite></text>
+      <text>DESIGN MANAGEMENT ZONE — A three-dimensional boundary surrounding each regulated facility, practice or activity established under <cite path="§562-7">§ 562-7</cite>B(5).</text>
+      <text>ENFORCEMENT STANDARD — A numerical value expressing the concentration of a substance in groundwater which is adopted under <cite path="§562-6|A">§ 562-6A</cite> or B.</text>
+      <text>FACILITY, PRACTICE or ACTIVITY — Any source or potential source of a substance which is detected in or has a reasonable probability of entering the groundwater resources of the Reservation.</text>
+      <text>GROUNDWATER — Any of the waters of the Reservation occurring in a saturated subsurface geological formation of rock or soil.</text>
+      <text>INDICATOR PARAMETER — A substance for which a preventive action limit has been established under <cite path="§562-7|A">§ 562-7A</cite> which is used to indicate the potential for a preventive action limit established under <cite path="§562-6|A">§ 562-6A</cite> or B to be attained or exceeded and for which an enforcement standard has not been established under <cite path="§562-6|A">§ 562-6A</cite> or B.</text>
+      <text>LIMIT OF DETECTION — The lowest concentration for an analytical test method and sample matrix at which the presence of a substance can be identified in an analytical sample, with a stated degree of confidence, regardless of whether the concentration of the substance in the sample can be quantified.</text>
+      <text>LIMIT OF QUANTITATION — The lowest concentration for an analytical test method and sample matrix at which the quantity of a particular substance can be measured with a stated degree of confidence.</text>
+      <text>MONITORING — All procedures used to collect data on groundwater, surface water or soils.</text>
+      <text>POINT OF STANDARDS APPLICATION — The specific location, depth or distance from a facility, activity or practice at which the concentration of a substance in groundwater is measured for purposes of determining whether a preventive action limit or an enforcement standard has been attained or exceeded.</text>
+      <text>PRECISION — The closeness of repeated measurements of the same parameter within a sample.</text>
+      <text>PREVENTIVE ACTION LIMIT — A numerical value expressing the concentration of a substance in groundwater which is adopted under <cite path="§562-6|A">§ 562-6A</cite> or B or 562-7A.</text>
+      <text>PROPERTY BOUNDARY — The boundary of the total contiguous parcel of land owned by a common owner, regardless of whether public or private roads run through the parcel.</text>
+      <text>REGISTERED LABORATORY — A laboratory which is registered under <cite doc="Wis. Stat." path="§299.11|(8)">§ 299.11(8), Wis. Stats.</cite>, or receives reciprocal recognition under <cite doc="Wis. Stat." path="§299.11|(5)">§ 299.11(5), Wis. Stats.</cite></text>
+      <text>SUBSTANCE — Any solid, liquid, semisolid, dissolved solid or gaseous material, naturally occurring or man-made chemical, parameter for measurement of water quality or biological organism which, in its original form, or as a metabolite or a degradation or waste product, may decrease the quality of groundwater.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-6</num>
+      <heading>Groundwater quality standards.</heading>
+      <para>
+        <num>A.</num>
+        <text>Public-health-related groundwater standards. The groundwater quality standards for substances of public health concern are listed in Table 1. Note: For all substances that have carcinogenic, mutagenic or teratogenic properties or interactive effects, the preventive action limit is 10% of the enforcement standard. The preventive action limit is 20% of the enforcement standard for all other substances that are of public health concern. Enforcement standards and preventive action limits for additional substances will be added to Table 1 as recommendations are developed pursuant to §§ 160.07, 160.13 and <cite doc="Wis. Stat." path="§160.15">160.15, Wis. Stats.</cite> <strong>[Amended 4-4-2013 by Ord. No. 13-07]</strong></text>
+        <text class="center">Table 1</text>
+        <text class="center">
+          <strong>Public Health Groundwater Quality Standards</strong>
+        </text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Substance<sup>1</sup></th>
+                <th>Enforcement Standard (micrograms per liter except as noted)</th>
+                <th>Preventive Action Limit (micrograms per liter except as noted)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Acetochlor</td>
+                <td>7</td>
+                <td>0.7</td>
+              </tr>
+              <tr>
+                <td>
+                  <p>Acetochlor ethane sulfonic acid</p>
+                  <p>+ oxanilic acid (Acetochlor — ESA + OXA)</p>
+                </td>
+                <td>230</td>
+                <td>46</td>
+              </tr>
+              <tr>
+                <td>Acetone</td>
+                <td>9 mg/l</td>
+                <td>1.8 mg/l</td>
+              </tr>
+              <tr>
+                <td>Alachlor</td>
+                <td>2</td>
+                <td>0.2</td>
+              </tr>
+              <tr>
+                <td>Alachlor ethane sulfonic acid</td>
+                <td>20</td>
+                <td>4</td>
+              </tr>
+              <tr>
+                <td>(Alachlor — ESA)</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Aldicarb</td>
+                <td>10</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Aluminum</td>
+                <td>200</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Ammonia (as N)</td>
+                <td>9.7 mg/l</td>
+                <td>0.97 mg/l</td>
+              </tr>
+              <tr>
+                <td>Antimony</td>
+                <td>6</td>
+                <td>1.2</td>
+              </tr>
+              <tr>
+                <td>Anthracene</td>
+                <td>3,000</td>
+                <td>600</td>
+              </tr>
+              <tr>
+                <td>Arsenic</td>
+                <td>10</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Asbestos</td>
+                <td>7 million fibers per liter (MFL)</td>
+                <td>0.7 MFL</td>
+              </tr>
+              <tr>
+                <td>Atrazine, total chlorinated residues</td>
+                <td>3<sup>2</sup></td>
+                <td>0.3<sup>2</sup></td>
+              </tr>
+              <tr>
+                <td>Bacteria, total coliform</td>
+                <td>0<sup>3</sup></td>
+                <td>0<sup>3</sup></td>
+              </tr>
+              <tr>
+                <td>Barium</td>
+                <td>2 mg/l</td>
+                <td>0.4 mg/l</td>
+              </tr>
+              <tr>
+                <td>Bentazon</td>
+                <td>300</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Benzene</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Benzo(b)fluoranthene</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Benzo(a)pyrene</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Beryllium</td>
+                <td>4</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>Beta photon emitters</td>
+                <td/>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>Boron</td>
+                <td>1,000</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Bromodichloromethane</td>
+                <td>0.6</td>
+                <td>0.06</td>
+              </tr>
+              <tr>
+                <td>Bromoform</td>
+                <td>4.4</td>
+                <td>0.44</td>
+              </tr>
+              <tr>
+                <td>Bromomethane</td>
+                <td>10</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Butylate</td>
+                <td>400</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Cadmium</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Carbaryl</td>
+                <td>40</td>
+                <td>4</td>
+              </tr>
+              <tr>
+                <td>Carbofuran</td>
+                <td>40</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Carbon disulfide</td>
+                <td>1,000</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>Carbon tetrachloride</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Chloramben</td>
+                <td>150</td>
+                <td>30</td>
+              </tr>
+              <tr>
+                <td>Chlordane</td>
+                <td>2</td>
+                <td>0.2</td>
+              </tr>
+              <tr>
+                <td>Chlorobenzene</td>
+                <td>100</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Chlorodifluoromethane</td>
+                <td>7 mg/l</td>
+                <td>0.7 mg/l</td>
+              </tr>
+              <tr>
+                <td>Chloroethane</td>
+                <td>400</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Chloroform</td>
+                <td>6</td>
+                <td>0.6</td>
+              </tr>
+              <tr>
+                <td>Chlorpyrifos</td>
+                <td>2</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>Chloromethane</td>
+                <td>30</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Chromium (total)</td>
+                <td>100</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Chrysene</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Cobalt</td>
+                <td>40</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Copper</td>
+                <td>1,300</td>
+                <td>130</td>
+              </tr>
+              <tr>
+                <td>Cyanazine</td>
+                <td>1</td>
+                <td>0.1</td>
+              </tr>
+              <tr>
+                <td>Cyanide, free<sup>4</sup></td>
+                <td>200</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Dacthal</td>
+                <td>70</td>
+                <td>14</td>
+              </tr>
+              <tr>
+                <td>Dalapon</td>
+                <td>200</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>1,2-Dibromoethane (EDB)</td>
+                <td>0.05</td>
+                <td>0.005</td>
+              </tr>
+              <tr>
+                <td>Dibromochloromethane</td>
+                <td>60</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>1,2-Dibromo-3-chloropropane (DBCP)</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Dibutyl phthalate</td>
+                <td>1,000</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Dicamba</td>
+                <td>300</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>1,2-Dichlorobenzene</td>
+                <td>600</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>1,3-Dichlorobenzene</td>
+                <td>600</td>
+                <td>120</td>
+              </tr>
+              <tr>
+                <td>1,4-Dichlorobenzene</td>
+                <td>75</td>
+                <td>15</td>
+              </tr>
+              <tr>
+                <td>Dichlorodifluoromethane</td>
+                <td>1,000</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>1,1-Dichloroethane</td>
+                <td>850</td>
+                <td>85</td>
+              </tr>
+              <tr>
+                <td>1,2-Dichloroethane</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>1,1-Dichloroethylene</td>
+                <td>7</td>
+                <td>0.7</td>
+              </tr>
+              <tr>
+                <td>1,2-Dichloroethylene (cis)</td>
+                <td>70</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>1,2-Dichloroethylene (trans)</td>
+                <td>100</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Dichlormethane</td>
+                <td>5</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>2,4-Dichlorophenoxyacetic acid (2,4-D)</td>
+                <td>70</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>1,2-Dichloropropane</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>1,3-Dichloropropene (cis/trans)</td>
+                <td>0.4</td>
+                <td>0.04</td>
+              </tr>
+              <tr>
+                <td>Di (2-ethylhexyl) adipate</td>
+                <td>100</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Di (2-ethylhexyl) phthalate</td>
+                <td>6</td>
+                <td>0.6</td>
+              </tr>
+              <tr>
+                <td>Dimethenamid/Dimethenamid-P</td>
+                <td>50</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Dimethoate</td>
+                <td>2</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>2,4-Dinitrotoluene</td>
+                <td>0.05</td>
+                <td>0.005</td>
+              </tr>
+              <tr>
+                <td>2,6-Dinitrotoluene</td>
+                <td>0.05</td>
+                <td>0.005</td>
+              </tr>
+              <tr>
+                <td>Dinitrotoluene, total residues<sup>5</sup></td>
+                <td>0.05</td>
+                <td>0.005</td>
+              </tr>
+              <tr>
+                <td>Dinoseb</td>
+                <td>7</td>
+                <td>1.4</td>
+              </tr>
+              <tr>
+                <td>1,4-Dioxane</td>
+                <td>3</td>
+                <td>0.3</td>
+              </tr>
+              <tr>
+                <td>Dioxin (2, 3, 7, 8-TCDD)</td>
+                <td>0.00003</td>
+                <td>0.000003</td>
+              </tr>
+              <tr>
+                <td>Diquat</td>
+                <td>20</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Endrin</td>
+                <td>2</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>Endothall</td>
+                <td>100</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>EPTC</td>
+                <td>250</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Ethylene dibromide</td>
+                <td>0.05</td>
+                <td>0.05</td>
+              </tr>
+              <tr>
+                <td>Ethylbenzene</td>
+                <td>700</td>
+                <td>140</td>
+              </tr>
+              <tr>
+                <td>Ethyl ether</td>
+                <td>1,000</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Ethylene glycol</td>
+                <td>14 mg/l</td>
+                <td>2.8 mg/l</td>
+              </tr>
+              <tr>
+                <td>Fluoranthene</td>
+                <td>400</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Fluorene</td>
+                <td>400</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Fluoride</td>
+                <td>4 mg/l</td>
+                <td>0.8 mg/l</td>
+              </tr>
+              <tr>
+                <td>Fluorotrichloromethane</td>
+                <td>3,490</td>
+                <td>698</td>
+              </tr>
+              <tr>
+                <td>Formaldehyde</td>
+                <td>1,000</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Glyphosate</td>
+                <td>700</td>
+                <td>700</td>
+              </tr>
+              <tr>
+                <td>Heptachlor</td>
+                <td>0.4</td>
+                <td>0.04</td>
+              </tr>
+              <tr>
+                <td>Heptachlor epoxide</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Hexachlorobenzene</td>
+                <td>1</td>
+                <td>0.1</td>
+              </tr>
+              <tr>
+                <td>Hexachlorocyclopentadiene</td>
+                <td>50</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>n-Hexane</td>
+                <td>600</td>
+                <td>120</td>
+              </tr>
+              <tr>
+                <td>Hydrogen sulfide</td>
+                <td>30</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Lead</td>
+                <td>15</td>
+                <td>1.5</td>
+              </tr>
+              <tr>
+                <td>Lindane</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Manganese</td>
+                <td>300</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Mercury</td>
+                <td>2</td>
+                <td>0.2</td>
+              </tr>
+              <tr>
+                <td>Methanol</td>
+                <td>5,000</td>
+                <td>1,000</td>
+              </tr>
+              <tr>
+                <td>Methoxychlor</td>
+                <td>40</td>
+                <td>4</td>
+              </tr>
+              <tr>
+                <td>Methylene chloride</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Methyl ethyl ketone (MEK)</td>
+                <td>4 mg/l</td>
+                <td>0.8 mg/l</td>
+              </tr>
+              <tr>
+                <td>Methyl isobutyl ketone (MIBK)</td>
+                <td>500</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Methyl tert-butyl ether (MTBE)</td>
+                <td>60</td>
+                <td>12</td>
+              </tr>
+              <tr>
+                <td>Metolachlor/s-Metolachlor</td>
+                <td>100</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>
+                  <p>Metolachlor ethane sulfonic acid</p>
+                  <p>+</p>
+                </td>
+                <td>1.3 mg/l</td>
+                <td>0.26 mg/l</td>
+              </tr>
+              <tr>
+                <td>Oxamyl (Vydate)</td>
+                <td>200</td>
+                <td>200</td>
+              </tr>
+              <tr>
+                <td>Metribuzin</td>
+                <td>70</td>
+                <td>14</td>
+              </tr>
+              <tr>
+                <td>Molybdenum</td>
+                <td>40</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Monochlorobenzene</td>
+                <td>100</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Naphthalene</td>
+                <td>100</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Nickel</td>
+                <td>100</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Nitrate (as N)</td>
+                <td>10 mg/l</td>
+                <td>2 mg/l</td>
+              </tr>
+              <tr>
+                <td>Nitrate + Nitrite (as N)</td>
+                <td>10 mg/l</td>
+                <td>2 mg/l</td>
+              </tr>
+              <tr>
+                <td>Nitrite (as N)</td>
+                <td>1 mg/l</td>
+                <td>0.2 mg/l</td>
+              </tr>
+              <tr>
+                <td>N-Nitrosodiphenylamine</td>
+                <td>7</td>
+                <td>0.7</td>
+              </tr>
+              <tr>
+                <td>Pentachlorophenol (PCP)</td>
+                <td>1</td>
+                <td>0.1</td>
+              </tr>
+              <tr>
+                <td>Perchlorate</td>
+                <td>1</td>
+                <td>0.1</td>
+              </tr>
+              <tr>
+                <td>Phenol</td>
+                <td>2 mg/l</td>
+                <td>0.4 mg/l</td>
+              </tr>
+              <tr>
+                <td>Picloram</td>
+                <td>500</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Polychlorinated biphenyls (PCBs)</td>
+                <td>0.03</td>
+                <td>0.003</td>
+              </tr>
+              <tr>
+                <td>Prometon</td>
+                <td>100</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Propazine</td>
+                <td>10</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Pyrene</td>
+                <td>250</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Pyridine</td>
+                <td>10</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Selenium</td>
+                <td>50</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Silver</td>
+                <td>50</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Simazine</td>
+                <td>4</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>Styrene</td>
+                <td>100</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Tertiary butyl alcohol (TBA)</td>
+                <td>12</td>
+                <td>1.2</td>
+              </tr>
+              <tr>
+                <td>1,1,1,2-Tetrachloroethane</td>
+                <td>70</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>1,1,2,2-Tetrachloroethane</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Tetrachloroethylene</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Tetrahydrofuran</td>
+                <td>50</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Thallium</td>
+                <td>2</td>
+                <td>0.4</td>
+              </tr>
+              <tr>
+                <td>Toluene</td>
+                <td>800</td>
+                <td>160</td>
+              </tr>
+              <tr>
+                <td>Toxaphene</td>
+                <td>3</td>
+                <td>0.3</td>
+              </tr>
+              <tr>
+                <td>1,2,4-Trichlorobenzene</td>
+                <td>70</td>
+                <td>14</td>
+              </tr>
+              <tr>
+                <td>1,1,1-Trichloroethane</td>
+                <td>200</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>1,1,2-Trichloroethane</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Trichloroethylene (TCE)</td>
+                <td>5</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>2,4,5-Trichlorophenoxy-propionic acid (2,4,5-TP)</td>
+                <td>50</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>1,2,3-Trichloropropane</td>
+                <td>60</td>
+                <td>12</td>
+              </tr>
+              <tr>
+                <td>Trifluralin</td>
+                <td>7.5</td>
+                <td>0.75</td>
+              </tr>
+              <tr>
+                <td>
+                  <p>Trimethylbenzenes (1,2,4- and</p>
+                  <p>1,3,5- combined)</p>
+                </td>
+                <td>480</td>
+                <td>96</td>
+              </tr>
+              <tr>
+                <td>Vanadium</td>
+                <td>30</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Vinyl chloride</td>
+                <td>0.2</td>
+                <td>0.02</td>
+              </tr>
+              <tr>
+                <td>Xylene<sup>6</sup></td>
+                <td>2 mg/l</td>
+                <td>0.4 mg/l</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>NOTES:</text>
+        <text>1	Appendix 1 contains Chemical Abstract Service (CAS) registry numbers and trade names for most substances listed in Table 1.</text>
+        <text>2	Total chlorinated atrazine residues includes parent compound and the following metabolites of health concern: 2-chloro-4-amino-6-isopropylamino-s-triazine (formerly deethylatrazine), 2-chloro-4-amino-6-ethylamino-5-s-triazine (formerly deisopropylatrazine) and 2-chloro-4, 6-diamino-s-triazine (formerly diaminoatrazine).</text>
+        <text>3	Total coliform bacteria may not be present in any 100 ml sample using either the membrane filter (MF) technique, the presence-absence (P-A) coliform test, the minimal medium ONPG-MUG (MMO-MUG) test or not present in any</text>
+        <text>10 ml portion of the 10 tube multiple tube fermentation (MTF) technique.</text>
+        <text>4	"Cyanide, free" refers to the simple cyanides (HCN, CN-) and/or readily dissociable metal-cyanide complexes. Free cyanide is regulatorily equivalent to cyanide quantified by approved analytical methods for "amenable cyanide" or "available cyanide."</text>
+        <text>5	Dinitrotoluene,  total  residues  includes  the dinitrotoluene (DNT) isomers: 2,3-DNT, 2,4-DNT, 2,6-DNT, 3,4-DNT, and 3,5-DNT.</text>
+        <text>6	Xylene includes mets-, ortho-, and para-xylene combined.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Public-welfare-related groundwater standards. The groundwater quality standards for substances of public welfare concern are listed in Table 2. Note: For each substance of public welfare concern, the preventive action limit is 50% of the established enforcement standard.</text>
+        <text class="center">
+          <strong>Table 2</strong>
+        </text>
+        <text class="center">
+          <strong>Public Welfare Groundwater Quality Standards</strong>
+        </text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Substance</th>
+                <th>Enforcement Standard (milligrams per liter except as noted)</th>
+                <th>
+                  <p>Preventive Action Limit</p>
+                  <p>(milligrams per liter except as noted)</p>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Chloride</td>
+                <td>250</td>
+                <td>125</td>
+              </tr>
+              <tr>
+                <td>Color</td>
+                <td>15 color units</td>
+                <td>7.5 color units</td>
+              </tr>
+              <tr>
+                <td>Copper</td>
+                <td>1.0</td>
+                <td>0.5</td>
+              </tr>
+              <tr>
+                <td>Foaming agents MBAS (Methylene-Blue Active Substances)</td>
+                <td>0.5</td>
+                <td>0.25</td>
+              </tr>
+              <tr>
+                <td>Iron</td>
+                <td>0.3</td>
+                <td>0.15</td>
+              </tr>
+              <tr>
+                <td>Manganese</td>
+                <td>0.05</td>
+                <td>0.025</td>
+              </tr>
+              <tr>
+                <td>Odor</td>
+                <td>3 (Threshold Odor No.)</td>
+                <td>1.5 (Threshold Odor No.)</td>
+              </tr>
+              <tr>
+                <td>Sulfate</td>
+                <td>250</td>
+                <td>125</td>
+              </tr>
+              <tr>
+                <td>Total dissolved solids (TDS)</td>
+                <td>500</td>
+                <td>250</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text class="center">
+          <strong>Table 2</strong>
+        </text>
+        <text class="center">
+          <strong>Public Welfare Groundwater Quality Standards</strong>
+        </text>
+        <text>
+          <strong>Substance</strong>
+        </text>
+        <text class="center">
+          <strong>Enforcement Standard (milligrams per liter except as noted)</strong>
+        </text>
+        <text class="center">
+          <strong>Preventive Action Limit</strong>
+        </text>
+        <text class="center">
+          <strong>(milligrams per liter except as noted)</strong>
+        </text>
+        <text>Zinc	5	2.5</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Statistical procedures.</text>
+        <para>
+          <num>(1)</num>
+          <text>If a preventive action limit or an enforcement standard for a substance listed in Table 1 or 2 or a preventive action limit for an indicator parameter established according to <cite path="§562-7">§ 562-7</cite>A(2) is attained or exceeded at a point of standards application:</text>
+          <para>
+            <num>(a)</num>
+            <text>The owner or operator of the facility, practice or activity at which a standard is attained or exceeded shall notify the Tribe that a standard has been attained or exceeded; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe shall require a remedial response in accordance with <cite path="§562-7">§ 562-7</cite>. No remedial response shall be required if it is demonstrated to the satisfaction of the Tribe that a scientifically valid determination cannot be made that the preventive action limit or enforcement standard has been attained or exceeded based on consideration of sampling procedures or laboratory precision and accuracy, using the statistical procedures specified in <cite path="§562-6|C|(2)">Subsection C(2)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In determining if a preventive action limit or enforcement standard is attained or exceeded or if a change in the concentration of a substance has occurred, the Tribe shall utilize the most scientifically valid of the following statistical procedures which will provide a ninety-five-percent level of confidence:</text>
+          <para>
+            <num>(a)</num>
+            <text>Student t-test;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Temporal or spatial trend analysis; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Other scientifically valid statistical analyses which are appropriate for the data being considered.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In addition to <cite path="§562-6|C|(2)">Subsection C(2)</cite>, the following apply when a preventive action limit or enforcement standard is below the limit of quantitation:</text>
+          <para>
+            <num>(a)</num>
+            <text>If a substance is not detected in a sample and the limit of detection is higher than the preventive action limit or enforcement standard for that substance, the preventive action limit or enforcement standard shall be considered not to have been attained or exceeded.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a substance is reported to be present in a sample above the limit of detection but below the limit of quantitation, and if the preventive action limit or enforcement standard for that substance is below the limit of detection, the preventive action limit or enforcement standard shall be considered to have been attained or exceeded only if the presence of that substance has been confirmed by a sufficient number of analyses of multiple samples and use of an appropriate statistical test under <cite path="§562-6|C|(2)">Subsection C(2)</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The owner or operator of the facility, practice or activity shall report the limit of detection and limit of quantitation with the sample results when requested by the Tribe.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Monitoring and laboratory data requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>All water quality samples collected to determine compliance with <cite path="|II|562|I">this article</cite>, except field analyses for pH, specific conductance, and temperature, shall be analyzed by a laboratory certified or registered under <cite doc="Wis. Stat." path="§299.11">§ 299.11, Wis. Stats.</cite>, and rules adopted under that section. The results of the analysis shall be submitted to the Tribe. <cite path="§562-6|D.|(1)">This subsection</cite> does not require the submission of groundwater monitoring data which is collected voluntarily and which is not being collected to determine compliance with this article. The samples shall be collected in accordance with procedures specified by the Tribe or, where no procedures are specified, in accordance with published sampling procedures. Note: Published sampling procedures include those contained in the following sources. Other published sampling procedures are also acceptable.</text>
+          <para>
+            <num>(a)</num>
+            <text>Procedures Manual for Ground Water Monitoring at Solid Waste Disposal Sites, EPA SW-611, Office of Water and Waste Management, United States Environmental Protection Agency, December 1980, Washington, D.C.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Techniques of Water Resources Investigations of the United States Geological Survey, Guidelines for Collection and Field Analysis of Ground Water Samples for Selected Unstable Constituents, Book I, Chapter D2, United States Geological Survey, Washington, D.C.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Procedures for the Collection of Representative Water Quality Data from Monitoring Wells, Cooperative Groundwater Report 7, Illinois State Water Survey, 1981, Champaign, Illinois.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Manual of Ground Water Sampling Procedures, NWWA/EPA Series, Robert S. Kerr Environmental Research Laboratory, 1981, Ada, Oklahoma.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The laboratory shall utilize the analytical methodology specified in rules or approved by the Tribe. Where no analytical methodology is specified, the laboratory shall use an analytical methodology with a limit of detection and limit of quantitation below the preventive action limit. Where the limit of detection or limit of quantitation is above the preventive action limit for that substance, the laboratory shall use the best available analytical methodology to produce the lowest limit of detection and limit of quantitation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the owner or operator of a facility, practice or activity believes that a sample result does not represent groundwater quality in the vicinity of the facility, practice or activity, the owner or operator shall resample the appropriate well or wells to obtain a representative sample at the earliest possible time. All sample results shall be submitted to the Tribe with an explanation of why the owner or operator believes that all or some of the results are invalid.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-7</num>
+      <heading>Evaluation and response procedures.</heading>
+      <para>
+        <num>A.</num>
+        <text>Indicator parameter groundwater standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>Establishing background water quality. Background water quality at a facility, practice or activity at which monitoring is required shall be established by sampling one or more monitoring points at locations and depths sufficient to yield groundwater samples that are representative of background water quality at or near the facility, practice or activity. Background water quality shall be determined for indicator parameters specified by the Tribe. Background water quality for indicator parameters shall be established by averaging a minimum of eight sample results from each well. The Tribe may exclude any sample result which is nonrepresentative of background water quality. In making the calculations required in this section, the Tribe may use as many representative sample points as are available.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Establishing preventive action limits for indicator parameters. For each indicator parameter for which groundwater monitoring is required by the Tribe, the preventive action limit shall be established based upon a change of water quality with respect to background water quality according to the methodology specified in <cite path="§562-7|A|(2)(a)">Subsection A(2)(a)</cite> to (c) and in Table 3.</text>
+          <para>
+            <num>(a)</num>
+            <text>For field pH, the preventive action limit shall be one pH unit above or below the pH of the background water quality.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For field temperature, the preventive action limit shall be three standard deviations or 10°F. (5.6° C.), whichever is greater, above or below the temperature of the background water quality.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>For all other indicator parameters, the preventive action limit shall be the background water quality for that parameter plus three standard deviations or the background water quality plus the increase of that parameter listed in Table 3, whichever is greater. Note: The standard deviation for a group of samples is equal to the square root of the value of the sum of the squares of the difference between each sample in the sample group and the mean for that sample group divided by the number of samples in the sample group where the sample group has 30 or more samples and by one less than the number of samples in the sample group where the sample group has fewer than 30 samples.</text>
+            <text class="center">
+              <strong>Table 3</strong>
+            </text>
+            <text class="center">
+              <strong>Methodology for Establishing Preventive Action Limit for Indicator Parameters</strong>
+            </text>
+          </para>
+        </para>
+        <aftertext>
+          <strong>Minimum Increase</strong>
+        </aftertext>
+        <aftertext>
+          <table>
+            <thead>
+              <tr>
+                <th>Parameter</th>
+                <th>(mg/l)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Alkalinity</td>
+                <td>100</td>
+              </tr>
+              <tr>
+                <td>Biochemical oxygen demand (BOD)</td>
+                <td>25</td>
+              </tr>
+              <tr>
+                <td>Boron</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Calcium</td>
+                <td>25</td>
+              </tr>
+              <tr>
+                <td>Chemical oxygen demand (COD)</td>
+                <td>25</td>
+              </tr>
+              <tr>
+                <td>Magnesium</td>
+                <td>25</td>
+              </tr>
+              <tr>
+                <td>Nitrogen series</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-5">Ammonia nitrogen</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td class="text-indent-5">Organic nitrogen</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td class="text-indent-5">Total nitrogen</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Potassium</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Sodium</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Field specific conductance</td>
+                <td>200 micromhos/cm</td>
+              </tr>
+              <tr>
+                <td>Total hardness</td>
+                <td>100</td>
+              </tr>
+            </tbody>
+          </table>
+        </aftertext>
+        <aftertext class="center">
+          <strong>Table 3</strong>
+        </aftertext>
+        <aftertext class="center">
+          <strong>Methodology for Establishing Preventive Action Limit for Indicator Parameters</strong>
+        </aftertext>
+        <aftertext>
+          <strong>Parameter</strong>
+        </aftertext>
+        <aftertext>
+          <strong>Minimum Increase (mg/l)</strong>
+        </aftertext>
+        <aftertext>Total organic carbon (TOC)	1</aftertext>
+        <aftertext>Total organic halogen (TOX)	0.25</aftertext>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Point of standards application.</text>
+        <para>
+          <num>(1)</num>
+          <text>Facilities, practices or activities regulated by the Tribe shall be designed to minimize the level of substances in groundwater and to comply with the preventive action limits to the extent technically and economically feasible at the following locations:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any point of present groundwater use;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any point beyond the boundary of the property on which the facility, practice or activity is located; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any point within the property boundaries beyond the three-dimensional design management zone if one is established by the Tribe at each facility, practice or activity under <cite path="§562-7|B|(5)">Subsection B(5)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The point of standards application to determine if a preventive action limit has been attained or exceeded is any point at which groundwater is monitored.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The point of standards application to determine whether an enforcement standard has been attained or exceeded shall be the following locations:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any point of present groundwater use.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any point beyond the boundary of the property on which the facility, practice or activity is located.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any point within the property boundaries beyond the three-dimensional design management zone if one is established by the Tribe at each facility, practice or activity under <cite path="§562-7|B|(5)">Subsection B(5)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For spills and discharges regulated under <cite path="|II|361">Chapter 361</cite>, Article I, Hazardous Waste, the point of standards application shall be every point at which groundwater is monitored to determine if a preventive action limit or enforcement standard has been attained or exceeded.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Design management zone.</text>
+          <para>
+            <num>(a)</num>
+            <text>The design management zone for facilities, practices or activities subject to regulation by the Tribe shall be an area enclosed by vertical boundaries which extend from the land surface downward through all saturated geological formations. The design management zone shall extend horizontally beyond the waste boundary to the distance indicated in Table 4 for the specific type of facility, practice or activity. The waste boundary shall be the outermost limit at which waste from a facility, practice or activity has been stored, applied or disposed of or permitted or approved for storage, application or disposal.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In issuing or reissuing a permit, the Tribe may consider an expansion or reduction of the design management zone at a regulated or proposed facility, practice or activity by a horizontal distance not to exceed 50% of the distance listed in Table 4.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe shall consider the following factors in determining whether to expand or reduce the design management zone:</text>
+            <para>
+              <num>[1]</num>
+              <text>Nature, thickness and permeability of unconsolidated materials, including topography;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Nature and permeability of bedrock;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Groundwater depth, flow direction and velocity;</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Waste volume, waste type and characteristics, including waste loading;</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Contaminant mobility;</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>Distances to property boundary and surface waters;</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>Engineering design of the facility, practice or activity;</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <text>Life span of the facility, practice or activity;</text>
+            </para>
+            <para>
+              <num>[9]</num>
+              <text>Present and anticipated uses of land and groundwater; and</text>
+            </para>
+            <para>
+              <num>[10]</num>
+              <text>Potential abatement options if an enforcement standard is exceeded.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The design management zone may not be expanded or reduced unless it has been demonstrated to the satisfaction of the Tribe that the preventive action limits and enforcement standards will be met at the adjusted design management zone. The design management zone may not be expanded unless it has been demonstrated to the satisfaction of the Tribe that the preventive action limits and enforcement standards cannot be met at the design management zone specified in Table 4.</text>
+            <text>
+              <strong>Table 4</strong>
+            </text>
+            <text>
+              <strong>Horizontal Distances for the Design Management</strong>
+            </text>
+            <text>
+              <strong>Type of Facility, Practice or Activity</strong>
+            </text>
+            <text>Solid waste disposal facilities constructed after adoption of <cite path="|II|504">Chapter 504</cite>, Article II, Solid Waste Management</text>
+            <text>Solid waste disposal facilities constructed before adoption of <cite path="|II|504">Chapter 504</cite>, Article II, Solid Waste Management</text>
+            <text>Zone (feet)</text>
+            <text>150</text>
+            <text>300</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Responses when a preventive action limit is attained or exceeded.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the concentration of a substance, including indicator parameters in groundwater, attains or exceeds a preventive action limit at a point of standards application:</text>
+          <para>
+            <num>(a)</num>
+            <text>The owner or operator of the facility, practice or activity shall notify the Tribe in writing when monitoring data is submitted that a preventive action limit has been attained or exceeded as soon as practical after the results are received. The notification shall provide a preliminary analysis of the cause and significance of the concentration.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Upon receipt of the notice under <cite path="§562-7|C|(1)(a)">Subsection C(1)(a)</cite>, the Tribe shall evaluate the information and, if further information is required to make the assessment under <cite path="§562-7|C|(1)(c)">Subsection C(1)(c)</cite>, may direct the owner or operator to prepare and submit a report by a specified deadline. The report shall assess the cause and significance of the increased concentration based on a consideration of the factors identified in <cite path="§562-7|C|(1)(c)">Subsection C(1)(c)</cite> and shall propose a response to meet the objectives of <cite path="§562-7|C|(2)">Subsection C(2)</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe shall assess the cause and significance of the concentration of the substance, determining the appropriate response measures to meet the objectives of <cite path="§562-7|C|(2)">Subsection C(2)</cite>. If a preventive action limit is attained or exceeded at a monitoring point within the design management zone, the Tribe shall evaluate the location of the monitoring point, specific characteristics of the site, the nature of the substance involved and the likelihood of substance migration in assessing the need for response activities under <cite path="§562-7|C|(2)">Subsection C(2)</cite>. In addition to all other relevant information, the Tribe shall consider the information submitted under this <cite path="§562-7|C|(1)">Subsection C(1)</cite> and the following factors where applicable:</text>
+            <para>
+              <num>[1]</num>
+              <text>Background water quality.</text>
+              <para>
+                <num>[a]</num>
+                <text>The Tribe shall compare background water quality data and monitoring data from wells downgradient of the facility, practice or activity to determine if downgradient water quality is adversely affected. If the background water quality at a facility, practice or activity is not known or is inadequately defined, the Tribe may require additional sampling of existing wells or installation and sampling of additional wells, or both.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Except for substances which are carcinogenic, teratogenic or mutagenic in humans, before requiring a response at a site where the background concentration of a substance is determined to be equal to or greater than the preventive action limit, the Tribe shall determine that the proposed remedial action will protect or substantially improve groundwater quality notwithstanding the background concentrations of naturally occurring substances.</text>
+              </para>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Reliability of sampling data. As part of its review of the quality of the sampling data, the Tribe shall evaluate the sampling procedures, precision and accuracy of the analytical test, size of the data set, and the quality control and quality assurance procedures used. If there is insufficient information to evaluate the reliability of the sampling data, the Tribe may require additional samples or other changes in the monitoring program at the facility, practice or activity.</text>
+              <para>
+                <num>[3]</num>
+                <text class="center">Public health, welfare and environmental effects of the substance. The Tribe shall consider the public health, welfare and environmental effects of the substance, including but not limited to its mobility in the subsurface, environmental fate, the risks considered when the standard was adopted and whether it is carcinogenic, mutagenic, teratogenic or has interactive effects with other substances.</text>
+              </para>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Probability that a preventive action limit or an enforcement standard may be attained or exceeded outside the design management zone. In evaluating the probability that a preventive action limit or an enforcement standard may be attained or exceeded outside the design management zone, the Tribe shall consider, at a minimum, geologic conditions, groundwater flow rate and direction, contaminant mobility in the subsurface and environmental fate.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Performance of the facility, practice or activity. The Tribe shall consider whether the facility, practice or activity is performing as designed. The Tribe shall consider the type, age and size of the facility, practice or activity; the type of design, if applicable; the operational history; and other factors related to performance of the facility, practice or activity as appropriate.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>Location of the monitoring point. The Tribe shall consider the location of the monitoring point in relation to the facility, practice or activity and the design management zone in assessing the appropriate response.</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>Other known or suspected sources of the substance in the area. If other known or suspected sources are present in the vicinity of a facility, practice or activity of concern, the Tribe shall evaluate the probability of contributions from other sources of the substance. The Tribe shall consider, at a minimum, the number, size, type and age of nearby sources; the groundwater flow patterns; and the substances involved.</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <text>Hydrogeologic conditions. The Tribe shall consider the geologic and groundwater conditions, including but not limited to the nature, thickness and permeability of the unconsolidated materials; the nature and permeability of bedrock; the depth to the water table; groundwater flow gradients, both vertical and horizontal; the position of the facility, practice or activity within the groundwater flow system; and the present and potential groundwater use in the vicinity of the facility, practice or activity at which an exceedance occurs. If there is insufficient hydrogeologic information, the Tribe may require additional information.</text>
+            </para>
+            <para>
+              <num>[9]</num>
+              <text>Extent of groundwater contamination. The Tribe shall consider the current and anticipated future extent of groundwater contamination in three dimensions. If water supplies are affected or threatened the Tribe shall evaluate the existing effects and potential risks of the substance on the potable water supplies. If the extent of contamination is not known, the Tribe may require further documentation of the extent of contamination.</text>
+            </para>
+            <para>
+              <num>[10]</num>
+              <text>Alternate responses. The Tribe shall evaluate alternate responses, including consideration of the technical and economic feasibility of alternate methods of disposal, the practicality of stopping the further release of the substance and the risks and benefits of continued operation of the facility, practice or activity.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Based on the evaluation of the report required under <cite path="§562-7|C|(1)">Subsection C(1)</cite> and the factors in <cite path="§562-7|C|(1)(c)">Subsection C(1)(c)</cite>, the Tribe shall specify the responses to be implemented by the owner or operator of the facility, practice or activity designed to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Minimize the concentration of the substance in groundwater at the point of standards application where technically and economically feasible;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Regain and maintain compliance with the preventive action limit. If the Tribe determines that compliance with the preventive action limit is either not technically or not economically feasible, the owner or operator shall achieve compliance with the lowest possible concentration which is technically and economically feasible; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Ensure that the enforcement standard is not attained or exceeded at the point of standards application.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise provided in <cite path="§562-7|A.|(2)">this subsection</cite>, the range of responses which the Tribe may take or may require if a preventive action limit for an indicator parameter identified in Table 3 has been attained or exceeded is one or more of the actions in Items 1 to 4 in Table 5. The range of responses is one or more of the actions in Items 1 to 6 of Table 5 in the event that the Tribe determines that:</text>
+          <para>
+            <num>(a)</num>
+            <text>There is a threat to public health or welfare as a result of a preventive action limit for an indicator parameter being attained or exceeded; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The results demonstrate a significant design flaw or failure of the facility to contain substances, such that the facility can be expected to emit one or more of the substances on Table 1 or 2 in excess of a preventive action limit at a point of standards application.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The range of responses which the Tribe may take or may require if a preventive action limit for a substance of health or welfare concern has been attained or exceeded is listed in Table 5. More than one response may be required by the Tribe.</text>
+          <text class="center">Table 5</text>
+          <text class="center">
+            <strong>Range of Responses for Exceedence of a Preventive Action Limit for Indicator Parameters and Substances of Health or Welfare Concern</strong>
+          </text>
+          <para>
+            <num>1.</num>
+            <text>No action pursuant to</text>
+            <text><cite path="§562-7">§ 562-7</cite>C(5).</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Sample wells or require sampling of wells.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Require a change in the monitoring	program,</text>
+            <text>including	increased monitoring.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Require an investigation of the extent of groundwater contamination.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Require a revision of the operational procedures at the facility, practice or activity.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Require a change in the design or construction of the facility, practice or activity.</text>
+            <text class="center">Table 5</text>
+            <text class="center">
+              <strong>Range of Responses for Exceedence of a Preventive Action Limit for Indicator Parameters and Substances of Health or Welfare Concern</strong>
+            </text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>Require an alternate method of waste treatment or disposal.</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>Require prohibition or closure and abandonment of a facility, practice or activity in accordance with <cite path="§562-7|F">Subsection F</cite>.</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>Require remedial action to renovate or restore groundwater quality.</text>
+          </para>
+          <para>
+            <num>10.</num>
+            <text>Revise rules or criteria on facility design, location or management practices.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribe may determine that no remedial action to restore groundwater quality is necessary when:</text>
+          <para>
+            <num>(a)</num>
+            <text>The concentration of a substance within a design management zone is detected above the preventive action limit, the enforcement standard has not been attained or exceeded within the design management zone, and the Tribe determines that there is no indication that the preventive action limit will be attained or exceeded at any point outside the design management zone; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The background concentration of a substance is greater than the preventive action limit, the anticipated or detected incremental increase in the concentration of a substance which results from a specific facility, practice or activity is not greater than the preventive action limit, and the anticipated or detected concentration is not greater than the enforcement standard either within or outside of the design management zone.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribe may not impose a prohibition on the facility, practice or activity which produces the substance unless the Tribe:</text>
+          <para>
+            <num>(a)</num>
+            <text>Bases its decision upon reliable test data;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Determines, to a reasonable certainty, by the greater weight of the credible evidence, that no other remedial action would prevent the violation of the enforcement standard at the point of standards application;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Establishes the basis for the boundary and duration of the prohibition; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Ensures that any prohibition imposed shall be reasonably related in time and scope to maintaining compliance with the enforcement standard at the point of standards application.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Tribe may take any actions within the context of regulatory programs established in rules outside of <cite path="|II|562|I">this article</cite>, if those actions are necessary to protect public health and welfare or prevent a significant damaging effect on groundwater or surface water quality for present or future consumptive or nonconsumptive uses, whether or not an enforcement standard and preventive action limit for a substance have been adopted under <cite path="|II|562|I">this article</cite>. Nothing in <cite path="|II|562|I">this article</cite> authorizes an impact on groundwater quality which would cause surface water quality standards contained in <cite path="|II|512">Chapter 512</cite>, Surface Water, of this Code to be attained or exceeded.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Responses when an enforcement standard is attained or exceeded.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the concentration of a substance in groundwater attains or exceeds an enforcement standard at a point of standards application:</text>
+          <para>
+            <num>(a)</num>
+            <text>The owner or operator of the facility, practice or activity shall notify the Tribe in writing when monitoring data is submitted that an enforcement standard has been attained or exceeded as soon as practical after the results are received. The notification shall provide a preliminary analysis of the cause and significance of the concentration.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Upon receipt of the notice under <cite path="§562-7|D|(1)(a)">Subsection D(1)(a)</cite>, the Tribe shall evaluate the information and, if further information is required to make the assessment under <cite path="§562-7|D|(1)(c)">Subsection D(1)(c)</cite>, may direct the owner or operator to prepare and submit a report by a specified deadline. The report shall assess the cause and significance of the increased concentration based on a consideration of the factors identified in <cite path="§562-7">§ 562-7</cite>C(1)(c) and shall propose a response to achieve compliance with the enforcement standard at the point of standards application and to comply with <cite path="§562-7|D|(5)">Subsection D(5)</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe shall assess the cause and significance of the concentration of the substance in determining the appropriate response measures to achieve compliance with the enforcement standard at the point of standards application and to comply with <cite path="§562-7|D|(5)">Subsection D(5)</cite>. In addition to all other relevant information, the Tribe shall consider the information submitted under <cite path="§562-7|D|(1)">Subsection D(1)</cite> and the factors listed in <cite path="§562-7">§ 562-7</cite>C(1)(c), where applicable.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Based on the evaluation of the increased concentration as outlined in <cite path="§562-7|D|(1)">Subsection D(1)</cite>, the Tribe shall require responses as necessary to achieve compliance with the enforcement standard at the point of standards application and to comply with <cite path="§562-7|D|(5)">Subsection D(5)</cite>. The range of responses which the Tribe may take or require if an enforcement standard for a substance of public health or welfare concern has been attained or exceeded at a point of standards application is listed in Table 6. More than one response may be required by the Tribe. In addition, the Tribe may require one or more responses from Table 5, except Number 1.</text>
+          <text class="center">Table 6</text>
+          <text class="center">
+            <strong>Range of Responses for Exceedence of Enforcement Standards for Substances of Health or Welfare Concern</strong>
+          </text>
+          <para>
+            <num>1.</num>
+            <text>Require a revision of the operational procedures at a facility, practice or activity.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Require a change in the design or construction of the facility, practice or activity.</text>
+            <text class="center">Table 6</text>
+            <text class="center">
+              <strong>Range of Responses for Exceedence of Enforcement Standards for Substances of Health or Welfare Concern</strong>
+            </text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Require an alternate method of waste treatment or disposal.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Require prohibition or closure and abandonment of a facility, practice or activity.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Require remedial action to renovate or restore groundwater quality.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Revise rules or criteria on facility design, location or management practices.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If an activity or practice is not subject to regulation under <cite path="|II|361">Chapter 361</cite>, Article I, Hazardous Waste, or <cite path="|II|504">Chapter 504</cite>, Article II, Solid Waste Management, and if the concentration of a substance in groundwater attains or exceeds an enforcement standard at a point of standards application, the Tribe shall take the following responses unless it can be shown to the Tribe that, to a reasonable certainty, by the greater weight of the credible evidence, an alternative response will achieve compliance with the enforcement standard at the point of standards application:</text>
+          <para>
+            <num>(a)</num>
+            <text>Prohibit the activity or practice which uses or produces the substance; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Require remedial actions with respect to the specific site in accordance with <cite path="|II|562|I">this article</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If nitrates or any substance of welfare concern only attains or exceeds an enforcement standard, the Tribe is not required to impose a prohibition or close a facility if it determines that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The enforcement standard was attained or exceeded, in whole or in part, because of high background concentrations of the substance; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The additional concentration does not represent a public welfare concern.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>When compliance with the enforcement standard is achieved at the point of standards application, <cite path="§562-7|C">§ 562-7C</cite> applies.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Tribe may take any actions within the context of regulatory programs established in rules outside of <cite path="|II|562|I">this article</cite> if those actions are necessary to protect public health and welfare or prevent a significant damaging effect on groundwater or surface water quality for present or future consumptive or nonconsumptive uses, whether or not an enforcement standard and preventive action limit for a substance have been adopted under <cite path="|II|562|I">this article</cite>. Nothing in <cite path="|II|562|I">this article</cite> authorizes an impact on groundwater quality which would cause surface water quality standards contained in <cite path="|II|562|I">this article</cite> to be attained or exceeded.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exemptions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Exemptions required.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe may not approve a proposed facility, practice or activity at a location where a</text>
+            <text>preventive action limit or enforcement standard has been attained or exceeded unless an exemption has been granted under this section.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Remedial action is required under <cite path="§562-7|C">§ 562-7C</cite> or D when a preventive action limit or an enforcement standard has been attained or exceeded unless an exemption has been granted under this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Criteria for granting exemptions where the background concentration is below the preventive action limit. The Tribe may grant an exemption under this section when a preventive action limit is attained or exceeded if it determines that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The measured or anticipated increase in the concentration of the substance will be minimized to the extent technically and economically feasible;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Compliance with the preventive action limit is either not technically or not economically feasible;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The enforcement standard for that substance will not be attained or exceeded at the point of standards application; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any existing or projected increase in the concentration of the substance above the background concentration does not present a threat to public health or welfare.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Criteria for granting exemptions where the background concentration is above a preventive action limit.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe may grant an exemption under this section to allow a facility, practice or activity which is regulated by the Tribe to be constructed or operated in an area where the background concentration of nitrate or a substance of public welfare concern attains or exceeds the preventive action limit if the facility, practice or activity is designed to achieve the lowest possible concentration for that substance which is technically and economically feasible and the present and anticipated increase in the concentration of the substance does not present a threat to public health or welfare.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe may grant an exemption under this section to allow a facility, practice or activity which is regulated by the Tribe to be constructed or operated in an area where the background concentration of a substance of public health concern, other than nitrate, attains or exceeds a preventive action limit for that substance:</text>
+            <para>
+              <num>[1]</num>
+              <text>If the facility, practice or activity has not caused and will not cause the further release of that substance into the environment; or</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>If the background concentration of the substance does not exceed the enforcement standard for that substance, the facility, practice or activity has not caused and will not cause the concentration of the substance to exceed the enforcement standard for that substance and the facility, practice or activity is designed to achieve the lowest possible concentration of that substance which is technically and economically feasible.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Criteria for granting exemptions where the background concentration is above an enforcement standard.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe may grant an exemption under this section to allow a facility, practice or activity which is regulated by the Tribe to be constructed or operated in an area where the background concentration of nitrate or a substance of public welfare concern attains or exceeds an enforcement standard if the facility, practice or activity is designed to achieve the lowest possible concentration for that substance which is technically and economically feasible and the present and anticipated increase in the concentration of the substance does not present a threat to public health or welfare.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Conditions.</text>
+            <para>
+              <num>[1]</num>
+              <text>The Tribe may grant an exemption under this section to allow a facility, practice or activity which is regulated by the Tribe to be constructed or operated in an area where the background concentration of a substance of public health concern, other than nitrate, attains or exceeds the enforcement standard for that substance if:</text>
+              <para>
+                <num>[a]</num>
+                <text>The facility has not caused and will not cause the further release of that substance into the environment; or</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>The facility is designed to achieve the lowest possible concentration of that substance which is technically and economically feasible and:</text>
+                <para>
+                  <num>[i]</num>
+                  <text>The existing or anticipated increase in the concentration of the substance has not caused or will not cause an increased threat to public health or welfare; and</text>
+                </para>
+                <para>
+                  <num>[ii]</num>
+                  <text>The existing or anticipated incremental increase in the concentration of the substance, by itself, has not exceeded or will not exceed the preventive action limit.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The Tribe shall take action under <cite path="§562-7|D">§ 562-7D</cite> if it determines that the increase in the concentration of the substance causes an increased threat to public health or welfare or it determines that the incremental increase in the concentration of the substance, by itself, exceeds the preventive action limit.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Exemption procedures. If the Tribe grants an exemption for a substance it shall specify:</text>
+          <para>
+            <num>(a)</num>
+            <text>The substance to which the exemption applies;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The terms and conditions of the exemption, which may include an alternative concentration limit, under which the Tribe may seek remedial action relating to the substance; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any other conditions relating to the exemption.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person, facility, practice or activity that violates <cite path="|II|562|I">this article</cite> or any rule promulgated under <cite path="|II|562|I">this article</cite> shall be subject to an initial forfeiture of $2,500 for each day of violation. For a second or subsequent violation, the person, facility, practice or activity shall be fined not more than $5,000. The time elapsed prior to the expiration of a compliance order shall not constitute a violation. Each day of violation constitutes a separate offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For persons, facilities, practices or activities off the Reservation which cause a violation of the regulations or standards of <cite path="|II|562|I">this article</cite>, the Tribe shall seek to ameliorate the violation through negotiation or federal court action.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-8</num>
+      <heading>Groundwater use and protection principles.</heading>
+      <para>
+        <num>A.</num>
+        <text>Groundwater use limitations.</text>
+        <para>
+          <num>(1)</num>
+          <text>Quantity limitations.</text>
+          <para>
+            <num>(a)</num>
+            <text>Facilities, practices and activities which utilize groundwater shall be limited to 100,000 gallons or less of groundwater per day.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Extraction of groundwater by a facility, practice or activity shall not adversely affect the quantity of groundwater available to any other facility, practice or activity, including private wells. An impact on groundwater quantity by a facility, practice or activity on any other facility, practice or activity which results in the latter not being able to obtain sufficient groundwater shall constitute an adverse effect.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Persons who propose to utilize groundwater shall submit a feasibility report to the Tribe which documents the quantity of groundwater intended to be extracted per day. No facility, practice or activity which utilizes groundwater shall be undertaken until approval of a feasibility report is obtained from the Tribe.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Monitoring program. A groundwater monitoring program shall be undertaken in cooperation with the United States Geological Survey to establish background substance levels and to provide time-series groundwater data. An annual work plan shall be developed to establish the monitoring efforts to be undertaken.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Comprehensive water resources management and protection plan. A comprehensive water resources plan shall be developed which addresses management and protection concerns of the groundwater resources of the Menominee Reservation. The plan shall include an inventory of groundwater physical resources, including United States Geological Survey monitoring data, maps showing type of and depth to bedrock, depth to water table, surficial deposits, and groundwater flow patterns; an inventory of existing and potential groundwater contamination sources; a combination of above information to identify sensitive areas where groundwater management should be focused; evaluation of alternative groundwater management strategies; and recommendations for further groundwater management efforts.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|562|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Water Rates, Rules and Regulations [Adopted 4-21-2005 by Ord. No. 05-01]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>562-9</num>
+      <heading>Management of water system.</heading>
+      <text>The management, operation, and control of the water system for the Menominee Indian Tribe are vested in the Menominee Tribal Legislature acting through the Menominee Department of Tribal Utilities. All records and minutes and all written proceedings thereof shall be kept by the Chairperson of the Menominee Tribal Legislature and the Director of the Department of Tribal Utilities. The financial records of the Department of Tribal Utilities shall be kept by the Director of the Department of Tribal Utilities and the Director of the Department of Finance.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§562-10">
+      <prefix>§</prefix>
+      <num>562-10</num>
+      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn path="|II|§562-10|footnotes|1">1</fn></heading>
+      <text>The Department of Tribal Utilities of the Menominee Indian Tribe shall have the power to construct waterlines for public use and shall have the power to lay water pipes in and through the alleys, streets, and public grounds of the Menominee Indian Tribe and, generally, to do all such work as may be found necessary or convenient in the management of the water system. The Menominee Department of Tribal Utilities shall have the power by itself, its agents, servants and employees to enter upon any land for the purpose of making examination or supervise in the performance of their duties under <cite path="|II|562|II">this article</cite> without liability therefor, and the Menominee Tribal Legislature shall have the power to purchase and acquire for the Department of Tribal Utilities all real and personal property which may be necessary for construction of the water system or for any repair, remodeling, or additions thereto.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-11</num>
+      <heading>Title to real estate and personalty.</heading>
+      <text>All property, real, personal, and mixed, acquired for the construction of the water system and all plans, specifications, diagrams, papers, books and records connected with said water system and all buildings, machinery, and fixtures pertaining thereto shall be the property of the Menominee Indian Tribe.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§562-12">
+      <prefix>§</prefix>
+      <num>562-12</num>
+      <heading>User rules and regulations.<fn path="|II|§562-12|footnotes|2">2</fn></heading>
+      <text>The rules, regulations, and water rates of the Menominee Department of Tribal Utilities of the Menominee Indian Tribe hereinafter set forth shall be considered a part of the contract with every person, company or corporation who or which is connected with the water system of the Menominee Tribe, and every such person, company, or corporation by connecting with the water system shall be considered as expressing his or its assent to be bound thereby. Whenever any of said rules and regulations, or such others as said Department of Tribal Utilities of the Menominee Tribe may hereafter adopt, are violated, the service shall be shut off from the building or place of such violation (even though two or more parties are receiving service through the same connection) and shall not be reestablished except by order of the Director of Tribal Utilities and on payment of all arrears and the expenses and established charges of shutting off and putting on and such other terms as the Director of Tribal Utilities shall determine, and a satisfactory understanding with the party that no further cause for complaint shall arise. In case of such violation, said Director of Tribal Utilities, furthermore, may declare any payment made for the service by the party or parties committing such violation to be forfeited, and the same shall thereupon be forfeited. The right is reserved to the Menominee Department of Tribal Utilities with approval from the Menominee Tribal Legislature by motion to change said rules, regulations, and water rates from time to time as it may deem advisable and to make special rates and contracts in all proper cases.</text>
+      <para>
+        <num>A.</num>
+        <text>Plumbers. No plumber, pipe fitter, or other person will be permitted to do any plumbing or pipe fitting work in connection with the water system without first receiving written permission from the Menominee Department of Tribal Utilities.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Users.</text>
+        <para>
+          <num>(1)</num>
+          <text>Application for service. Every person connecting with the water system shall file an application in writing with the Department of Tribal Utilities in such form as is prescribed for that purpose. Blanks for such applications will be furnished at the Office of Tribal Utilities. The application must state fully and truly all the uses which will be allowed except upon further application and permission regularly obtained from said Department. If the applicant is not the owner of the premises, the written consent of the owner must accompany the application. The application may be for service to more than one building, or more than one unit of service through one service connection, and in such case charges shall be made accordingly. If it appears that the service applied for will not provide adequate service for the contemplated use, the Department of Tribal Utilities may reject the application. If the Department of Tribal Utilities shall approve the application, it shall issue a permit for the services as shown on the application.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Payment for connection application. Prior to the issuance of the application for service all users shall pay the connection fee listed in the Schedule of Rates and Fees of the Menominee Department of Tribal Utilities.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tap permits. After water connections have been introduced into any building or upon any premises, no plumber shall make any alterations, extensions, or attachments unless the party ordering such tapping or other work shall exhibit the proper permit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>User to keep in repair. All users shall keep their own service pipes in good repair and protected from frost, at their own risk and expense, and shall prevent any unnecessary overburdening of the water system.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>User use only. No user shall allow others or other services to connect to the water system through his or its lateral.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>User to permit inspection. Every user shall permit the Department of Tribal Utilities and its employees or authorized agents, at all reasonable hours of the day, to enter his or its premises or building to examine the pipes and fixtures, and the manner in which the drains and water connections operate, and the user must at all times, frankly and without concealment, answer all questions put to him or it relative to its use.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Responsibility. It is expressly stipulated that no claim shall be made against the Menominee Tribe or the Menominee Department of Tribal Utilities or any officers, employees or agents thereof by reason of the breaking, clogging, stoppage or freezing of any service pipes nor from any damage arising from repairing mains, making connections or extensions or any other work that may be deemed necessary. The right is hereby reserved to cut off the service at any time for the purpose of repairs or any other necessary purpose, any permit granted or regulation to the contrary notwithstanding. Whenever it shall become necessary to shut off the water service, the Department of Tribal Utilities shall, if practicable, give notice to each and every user affected of the time when such service will be so shut off.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-13</num>
+      <heading>Excavations.</heading>
+      <text>In making excavations in streets or highways for laying service pipe or making repairs, the paving and earth removed must be deposited in a manner that will occasion the least inconvenience to the public. No person shall leave any such excavation made in any street or highway open at any time without barricades, and during the night warning lights must be maintained at such excavations. In refilling the opening after the service pipes are laid, the earth must be laid in layers of not more than nine inches in depth and each layer thoroughly compacted to prevent settling. No opening of the streets for tapping the pipes will be permitted when the ground is frozen.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-14</num>
+      <heading>Tapping mains or collection pipes.</heading>
+      <text>No person, except those having special permission from the Department of Tribal Utilities, will be permitted under any circumstances to tap the mains or collection pipes. The kind and size of the connection with the pipe shall be that specified in the permit or order.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§562-15">
+      <prefix>§</prefix>
+      <num>562-15</num>
+      <heading>Installation of house laterals.<fn path="|II|§562-15|footnotes|3">3</fn></heading>
+      <text>All service pipes (laterals) on private property will be installed in accordance with State of Wisconsin Administrative Code Chapter Comm 82, Design, Construction, Installation, Supervision and Inspection of Plumbing. All buildings under construction will be inspected by a designated representative of the Department of Tribal Utilities. The building shall be inspected upon completion of placement of the pipe and before backfilling and tested before or after backfilling. Any service pipe that is backfilled prior to inspection shall be reexcavated to allow said inspection at the owner's expense.</text>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§562-16">
+      <prefix>§</prefix>
+      <num>562-16</num>
+      <heading>Water user charge system.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be the policy of the Menominee Department of Tribal Utilities to obtain sufficient revenues to pay the cost of the annual debt retirement payment on any bonded indebtedness, any required cash reserve account payment, and operation and maintenance of the water works, including a replacement fund, through a system of user charges defined in this section. The system shall assure that each user of the water works pays a proportionate share of the cost of such works.<fn path="|II|§562-16|footnotes|4">4</fn></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All water users shall be classified by the Department of Tribal Utilities as residential, commercial, or industrial customers.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>User charges shall consist of a minimum quarterly billing, on the basis of user charge factors, and a unit price per volume of water utilized, or flat rate.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Users shall be charged in accordance with the Schedule of Rates and Fees of the Menominee Department of Tribal Utilities which is approved by the Menominee Tribal Legislature by motion. Said Schedule of Rates and Fees shall be reviewed not less than biannually. Such review shall be performed by the Menominee Department of Tribal Utilities. User charges shall be adjusted, as required, to reflect actual number and size of users and actual costs, and any changes shall become effective when approved by the Menominee Tribal Legislature by motion.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>All revenues collected will be applied to operation, maintenance, and replacement costs for the next year.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-17</num>
+      <heading>Mandatory hookup.</heading>
+      <text>The owner of each parcel of land adjacent to a water main on which there exists a building usable for human habitation or in a block through which such system is extended shall connect to such system within 30 days of notice in writing from the Department of Tribal Utilities. Upon failure to do so the Department of Tribal Utilities may cause such connection to be made and bill the property owner for such costs. If such costs are not paid within 30 days, a penalty for the period that the violation continues in the amount of $100 per month for each residential unit equivalent shall be payable quarterly for the period in which the failure to connect continues. <cite path="|II|562|II">This article</cite> ordains that the failure to connect to the water system is contrary to the minimum health standards of the Menominee Indian Tribe and fails to assure preservation of the public health, comfort, and safety of the community and constitutes a public nuisance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-18</num>
+      <heading>Maintenance of services.</heading>
+      <text>The Department of Tribal Utilities shall maintain the water service from the street main to the property line and including all controls between the same, without expense to the property owner, except when it is damaged as a result of negligence or carelessness on the part of the property owner, a tenant, or an agent of the owner, in which case it will be repaired at the expense of the property owner. All water service from the point of maintenance by the system to and throughout the premises must be maintained free of defective conditions by and at the expense of the owner or occupant of the property. When any water service is to be relaid and there are two or more buildings on such service, each building shall be disconnected from such service and a new water service shall be installed for each building.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-19</num>
+      <heading>Penalty for improper use.</heading>
+      <text>It shall be unlawful for any person to wilfully injure the water system, or any building, machinery, or fixture pertaining thereto, or to wilfully and without authority of the Department of Tribal Utilities bore or otherwise cause to leak any tunnel, aqueduct, reservoir, pipe or other thing used in the system for holding, conveying, or collecting water.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-20</num>
+      <heading>Damage recovery.</heading>
+      <text>In addition to any other penalty provided by <cite path="|II|562|II">this article</cite> or other law, the Department of Tribal Utilities shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties imposed on the Tribe due to a violation of <cite path="|II|562|II">this article</cite> or other law, correction of conditions impairing the proper operation to the water system and the repair or replacement of any water pipe or other property of the water system damaged in any manner by any negligent or intended act or omission by such person or by others under his control.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-21</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who shall violate any of the provisions of <cite path="|II|562|II">this article</cite> or rules or regulations of the Department of Tribal Utilities or who shall connect a service pipe without first having obtained a permit therefor shall, upon conviction thereof, forfeit not less than $50 nor more than $500 and the costs of prosecution. This, however, shall not bar the Department of Tribal Utilities from enforcing the connection duties set out in <cite path="§562-17">§ 562-17</cite> for mandatory hookup.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-22</num>
+      <heading>Vacating premises and discontinuation of service.</heading>
+      <text>Whenever premises served by the system are to be vacated, or whenever any person desires to discontinue service from the system, the Department of Tribal Utilities must be notified in writing. The owner of the premises shall be liable for any damages to the property or such damage which may be discovered as having occurred to the property of the system other than through the fault of the system or its employees, representatives, or agents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-23</num>
+      <heading>Unit of service defined.</heading>
+      <text>A unit of service shall consist of any residential, commercial, industrial, or charitable aggregation of space or area occupied for a distinct purpose, such as a residence, apartment, flat, store, office, industrial plant, church, or school. Each unit of service shall be regarded as one consumer. Suites in houses, or apartments with complete housekeeping functions (such as cooking), shall be classed as apartment houses; thus houses and apartments having suites of one, two, or more rooms with toilet facilities but without kitchens for cooking are classed as rooming houses. When a consumer's premises has several buildings for which services are eligible and such buildings are used in the same business and connected by the user, the Department of Tribal Utilities shall set a separate rate for such complex.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|562|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Cross-Connection Control Program [Adopted 3-17-2011 by Ord. No. 11-05]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>562-24</num>
+      <heading>Purpose; title.</heading>
+      <text><cite path="|II|562|III">This article</cite> sets forth the requirements for the Menominee Indian Tribe's potable water within water supply systems when and where there is the possibility of contamination due to cross-connections or backflow conditions. This shall be called a "cross-connection program."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-25</num>
+      <heading>Definitions.</heading>
+      <text>The following definitions are applicable to <cite path="|II|562|III">this article</cite>:</text>
+      <text>AIR GAP — A physical separation sufficient to prevent backflow between the free-flowing discharge end of the potable water system and any other system. Physically defined as a distance equal to twice the diameter of the supply side pipe diameter but never less than one inch.</text>
+      <text>ATMOSPHERIC VACUUM BREAKER — A device that prevents backsiphonage by creating an atmospheric vent when there is either a negative pressure or subatmospheric pressure in a water system.</text>
+      <text>BACKFLOW — The flow of water or other liquids, mixtures or substances, under positive or reduced pressure in the distribution pipes of a potable water supply from any source other than its intended source.</text>
+      <text>BACKFLOW PREVENTER or BACKFLOW PREVENTION DEVICE — A device or means designed to prevent backflow or backsiphonage. Most commonly categorized as air gap, reduced pressure principle device, double-check valve assembly, pressure vacuum breaker, atmospheric vacuum breaker, hose bib vacuum breaker, residential dual check, double check with intermediate atmospheric vent, and barometric loop.</text>
+      <text>BACKPRESSURE — A condition in which a facility's system pressure is greater than the supplier's system pressure.</text>
+      <text>BACKSIPHONAGE — The flow of water or other liquids, mixtures or substances into the distribution pipes of a potable water supply system from any source other than its intended source caused by the sudden reduction of pressure in the potable water supply system.</text>
+      <text>BAROMETRIC LOOP — A fabricated piping arrangement rising at least 35 feet at its topmost point above the highest fixture it supplies to prevent backsiphonage.</text>
+      <text>COMMERCIAL — A business entity that manufactures, sells or conveys an idea, service or product.</text>
+      <text>CONTAMINANT — A substance that will impair the potable water supply by the introduction of any foreign substance that degrades the quality and creates a serious health hazard.</text>
+      <text>CROSS-CONNECTION — Connection or potential connection between any part of a water supply system and another environment containing substances in a manner that, under any circumstances, would allow the substances to enter the water supply system by means of backsiphonage or back pressure.</text>
+      <text>DEGREE OF HAZARD — The potential risk to public health posed by cross-connections. Normally, the risk to the water system is divided into one of two categories: high health hazard and low health hazard.</text>
+      <text>DEPARTMENT — The Menominee Department of Tribal Utilities located at N700 Go Around Road, Keshena, WI 54135.</text>
+      <text>DIRECTOR OF A TRIBAL FACILITY — That person who is designated by the Tribe to perform, deliver, or fulfill the services, goods, or contractual requirements described in that business' annual tribal budget proposal.</text>
+      <text>DOUBLE-CHECK VALVE ASSEMBLY — An assembly of two independently operating spring-loaded check valves with tightly closing shutoff valves on each side of the check valves, plus properly located test cocks for the testing of each check valve.</text>
+      <text>DOUBLE CHECK WITH INTERMEDIATE ATMOSPHERIC VENT — A device having two spring-loaded check valves separated by an atmospheric vent changer.</text>
+      <text>HIGH HAZARD SITUATION — A current or potential risk of a cross-connection or backflow situation that could cause serious sickness or death to users of the water from the system. A high hazard cross-connection situation shall be considered to exist at:</text>
+      <para>
+        <num>A.</num>
+        <text>A water supply hose bib, faucet, wall hydrant, sill cock or other outlet which terminates with hose threads allowing a hose to be attached.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A water supply faucet, wall hydrant, or other outlet which terminates with a serrated nipple allowing a hose to be attached.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A water supply faucet, hydrant, or outlet serving a sink used for building maintenance in a public building.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A chemical pot-feeder or automatic chemical feeder installed to serve a boiler, cooling tower or chilled water system.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>In the water supply piping connecting to the outlet of a fire hydrant for any purpose other than fire suppression.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Irrigation systems.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Sprinkler systems.</text>
+        <text>HOSE BIB VACUUM BREAKER — A device that is permanently attached to a hose bib and which acts as an atmospheric vacuum breaker.</text>
+        <text>LOW HAZARD SITUATION — A current or potential risk of a cross-connection or backflow situation that would not cause serious sickness or death to users of the water from the system. This risk is usually associated with the aesthetic quality of the water.</text>
+        <text>METER or WATER METER — A device used to measure the amount of water used by a customer of the community water system.</text>
+        <text>OWNER — Any person who has legal title to, or license to operate, a business upon which a cross-connection inspection is to be made or upon which a cross-connection is present.</text>
+        <text>PRESSURE VACUUM BREAKER — A device containing one or two independently operated spring-loaded check valves and an independently operated spring-loaded air inlet valve located on the discharge side of the check or checks. The device includes tightly closing shutoff valves on each side of the check valves and properly located test cocks for the testing of the check valve(s).</text>
+        <text>REDUCED PRESSURE PRINCIPLE DEVICE — An assembly consisting of two independently operating check valves with an automatically operating differential relief valve located between the two check valves, tightly closing shutoff valves on each side of the check valves plus properly located test cocks for the testing of the check valves and the relief valve.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-26</num>
+      <heading>Control and regulation.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Department of Tribal Utilities shall operate a cross-connection control program, to include the keeping of necessary records, which fulfills the requirements of the Menominee Tribe's cross-connection regulations.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Owners of private businesses and directors of tribally owned businesses which are connected to the water system shall allow the property to be inspected for possible cross-connections and backflow conditions and shall follow the provisions of the Department of Tribal Utilities program, and install the required cross-connection protection.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Backflow prevention devices have the following controls:</text>
+        <para>
+          <num>(1)</num>
+          <text>All commercial, industrial and public facilities with backflow devices larger than a one-inch double-check valve at the entrance to the building and within the building shall be owned by the facility where they are installed. The check valves shall be maintained, inspected, and tested annually at the facility's expense. All replacement devices will be at the facility's expense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All backflow prevention devices shall remain accessible to utility personnel, and no person shall obstruct or tamper with any device.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any obstruction or tampering shall be a violation of <cite path="|II|562|III">this article</cite> and subject the violator to actual damages and civil penalties under <cite path="|II|562|III">this article</cite>. The assignee of the property on which the device is located shall be responsible for all damage to the device.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the Department of Tribal Utilities determines at any time that a serious threat to the public health exists, the water service will be terminated immediately.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Department of Tribal Utilities is authorized and directed to discontinue water service after reasonable notice to any property wherein any connection in violation of <cite path="|II|562|III">this article</cite> exists, and to take such precautionary measures deemed necessary to eliminate any danger of contamination of the community water system supply. Water service to such property shall not be restored until the cross-connection(s) has been eliminated in compliance with the provisions of <cite path="|II|562|III">this article</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§562-27">
+      <prefix>§</prefix>
+      <num>562-27</num>
+      <heading>General requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>All commercial, industrial, and public facilities and structures that are connected to the community water system are required to install a backflow prevention device. All backflow prevention devices shall be installed in accordance with the requirements of the Department of Tribal Utilities in such locations as determined by the Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>All devices, assemblies and mechanisms intended to protect potable water supplies relative to cross-connection or backflow shall be of a type that complies with the referenced standard in Table 84.11 of § Comm 84.11, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|5">5</fn></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hose bibbs are considered high hazard cross-connections and must be protected by a device, assembly or mechanism of a type that complies with Table 82.41-1 of § Comm 82.41, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|6">6</fn></text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Backflow prevention devices shall be installed downstream of the meter and at any other location that could potentially be a cross-connection concern.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The Department of Tribal Utilities shall not allow any cross-connection to remain unless it is protected by a backflow prevention device that complies with the reference standard in Table 84.11 of § Comm 84.11, Wis. Adm. Code, and which will be regularly tested to insure satisfactory operation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Owners of private businesses, and directors of tribal facilities shall be responsible for the elimination or protection of all cross-connections on their premises.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Owners of private businesses and directors of tribal facilities shall inform the Department of Tribal Utilities of any proposed or modified cross-connections and also any existing cross-connections of which the owner or the director are aware, but has not been found by the Department of Tribal Utilities.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Owners of private businesses and directors of tribal facilities shall correct any malfunction of the backflow prevention device that is revealed by periodic testing.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Water supply systems and the connection of each plumbing fixture, piece of equipment, appliance or nonpotable water piping system shall be designed, installed and maintained in such a manner to prevent the contamination of water supplies by means of cross-connections.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any existing backflow prevention device shall be allowed by the Department of Tribal Utilities to continue in service unless the degree of hazard is such as to exceed the effectiveness of the present device or result in an unreasonable risk to the public health.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any change of use or remodeling of a facility will require the backflow prevention devices in the facility to be upgraded to meet the requirements of the new facility.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>All existing facilities will be inspected within six months of the approval of <cite path="|II|562|III">this article</cite>, and any changes required to meet the backflow prevention code must be completed within 30 days of the notification.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A survey is to be conducted for every commercial, industrial, and public authority facility a minimum of once every two years.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The owner or manager of a proposed building shall provide the Department of Tribal Utilities notification of the intent to connect to the community water system and provide plans and documentation that the correct backflow prevention device is being installed properly to address the degree of hazard.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The owner or manager of a newly constructed facility and/or the contractor responsible for the construction of the facility shall notify the Department of the construction schedule so that the Department can verify and record the type and installation of the backflow prevention devices installed.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Contractors shall not connect to the public water supply system hydrants without permission of the Department of Tribal Utilities. Contractors are required to connect to the hydrants using an approved backflow prevention device as provided by the Department of Tribal Utilities.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: See now Table 384.11 of § SPS 384.11, Wis. Adm. Code.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: See now Table 382.41-1 of § SPS 382.41, Wis. Adm. Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>562-28</num>
+      <heading>Testing required.</heading>
+      <para>
+        <num>A.</num>
+        <text>All commercial, industrial and public facility backflow prevention devices shall be tested annually. Testing will be done at the expense of the owner of the private business or director of the facility. All test results shall be forwarded to the Department of Tribal Utilities within 30 days.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any backflow prevention device on a commercial, industrial, or public facility that fails during a periodic test will be repaired or replaced at the expense of the owner of the private business, or director of the tribal facility. Upon completion of the repair, the device will be retested at the expense of the owner or tribal facility to insure correct operation.</text>
+        <para>
+          <num>(1)</num>
+          <text>High hazard situations will not be allowed to continue unprotected if the backflow prevention device fails the test and cannot be repaired immediately. Parallel installation of two devices is a recommended means of ensuring that uninterrupted water service is maintained.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In low hazard situations, the compliance must be attained within 30 days after the test date.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Repeated failures in the same location will require that the testing be done more frequently if the Department of Tribal Utilities determines that there is an increased risk for contamination. The Department of Tribal Utilities will determine the new test requirements. This increased testing will be done at the expense of the owner of the private business or director of the tribal facility.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Only individuals and companies approved by the Department and/or the Wisconsin Department of Commerce shall be qualified to perform such testing. This certification shall accompany the results of the testing.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Records and reports. The Department of Tribal Utilities shall keep the following records and reports on file:</text>
+        <para>
+          <num>(1)</num>
+          <text>Inventory of backflow prevention assemblies.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Field test results.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Initial risk assessment reports and reassessments.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Biennial survey of proper installation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Testing dates, pass/fail.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Repair history of devices and retesting dates.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Testing contractor and certification numbers.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Correspondence.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

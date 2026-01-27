@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>637</num>
+  <heading>COLLEGE OF THE MENOMINEE NATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-3-1996 by Ord. No. 96-16. Amendments noted where applicable</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>College Created; General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-1</num>
+      <heading>Creation.</heading>
+      <text>The College of the Menominee Nation is hereby chartered by the people of the Menominee Indian Tribe of Wisconsin and shall continue to be a college under the name and style of the "College of the Menominee Nation," at the will of the people of the Menominee Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-2</num>
+      <heading>Purpose of College.</heading>
+      <text>The College of the Menominee Nation is founded upon the highest educational ideals of the Menominee people. The College shall be obligated to provide quality higher education to the Menominee people such that each student enrolled at the College may pursue his or her individual goals and may advance the interests of the Menominee Nation on its Reservation and in the surrounding community. In fulfilling this obligation, the College shall always act to preserve and protect the history, traditions, values and aspirations of the Menominee people.</text>
+      <para>
+        <num>A.</num>
+        <text>In pursuit of this purpose, the College shall be dedicated to maintaining high academic standards in order to provide the Menominee people with the best higher education possible.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The College shall be dedicated to research and development activities that will lead to the development of educational strategies that enhance each student's learning capacity. In this effort, the College shall strive to preserve the Menominee way of learning, which is learning by doing. The College shall be further dedicated to developing educational concepts which will be embodied in tasks that have the potential to provide significant benefit to the student, the student's family, the Menominee Nation, American Indian people or the world at large. These strategies should enhance students' success and provide the resources which will allow students to reach their full academic potential.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>In fulfilling the College's purpose, the College shall negotiate, execute and implement appropriate agreements with other colleges and universities chartered by the State of Wisconsin, if such agreement will benefit the College and the needs of the Menominee students enrolled at the College. In addition, the College may negotiate, execute and implement agreements with any public or private entity in aid of the purposes for which the College is chartered.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The College shall also make recommendations for legislation and other actions by the Menominee Tribal Legislature, which actions would assist in such physical and economic development of the College and academic well-being of the students, and shall from time to time give the Legislature such information and recommend such measure(s) as may be deemed advantageous to the College and its students.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-3</num>
+      <heading>Obligation of Tribal Legislature.</heading>
+      <text>The Menominee Tribal Legislature shall assist the College in fulfilling its obligations to the Menominee people by promptly deliberating and considering requests for assistance received from the College as a priority item on its agenda.</text>
+      <para>
+        <num>A.</num>
+        <text>The Legislature shall create policy for the Nation that encourages the Nation's employees to continue their education by enrolling in appropriate classes at the College. In order to encourage employees to further their education, the Legislature shall consider adopting a policy that links merit pay increases to educational level.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Legislature shall negotiate with the College a plan to develop and implement appropriate training and technical assistance programs for officials and employees of the Menominee Nation commencing in January 1997 and continuing each year thereafter.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-4</num>
+      <heading>Powers of College.</heading>
+      <text>The College of the Menominee Nation shall have power, including but not limited to:</text>
+      <para>
+        <num>A.</num>
+        <text>Subject to the provisions in Article V, the College may sue and be sued, plead and be impleaded, in the Court of the Menominee Nation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Make and use a common seal and alter it at pleasure.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Take and hold lease and convey all real, personal and mixed property as the purposes of the College may require.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Contract and be contracted with.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Designate an agent of the College to accept service of process.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Exercise all the general powers possessed by any corporation as set out in the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin at Article XIII, Section 1.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-5</num>
+      <heading>Assets of College.</heading>
+      <text>The initial assets, and all subsequent assets acquired by the College from whatever source, shall be the assets of the College.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-6</num>
+      <heading>Principal office of College.</heading>
+      <text>The principal office of the College shall be located on the Menominee Indian Reservation in Keshena, Wisconsin. The College may have such other offices as the Board of Directors may designate.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="IV|§637-7">
+      <prefix>§</prefix>
+      <num>637-7</num>
+      <heading>Participation by enrolled members of Menominee Indian Tribe.<fn proof="needed" path="|IV|§637-7|footnotes|1">1</fn></heading>
+      <text>The Board of Directors shall call an annual business meeting for the enrolled members for the purposes of receiving reports on the operation of the College for the past year, for the appointment of a Director by the Menominee Tribal Legislature and of transacting such other business as may come before the meeting. In the event of failure, through oversight or otherwise, to hold the annual business meeting on the required date, a subsequent meeting, upon due notice, shall be held in lieu of the regularly-scheduled meeting. Any action taken at such subsequent meeting shall be as valid as if it had been taken at the regularly scheduled annual business meeting.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Officers</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-8</num>
+      <heading>Board of Directors and President.</heading>
+      <text>The officers of the College shall be the members of the College Board of Directors (who shall be known as "Board members") and the President of the College. The Board of Directors shall consist of seven Directors to be appointed by the Menominee Tribal Legislature.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-9</num>
+      <heading>Effect of Charter on existing Board members.</heading>
+      <text>The terms of office of the existing Board Chairperson and Directors shall not be changed as a result of the enactment of this Charter.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-10</num>
+      <heading>Qualification for appointment as Board member.</heading>
+      <para>
+        <num>A.</num>
+        <text>The qualifications for appointment as a Board member are as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>A demonstrated long-term interest in education and/or job training.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enrollment in the Menominee Indian Tribe of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>General knowledge about postsecondary education.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Special expertise which will help the Board of Directors, the President and the President's staff fulfill the mission of the College.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Twenty-five years of age, except in the instance where the Legislature chooses to appoint the President of the Student Council of the College to the Board of Directors.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each candidate for a position on the Board of Directors shall submit to the Legislature a written statement which demonstrates individual qualifications for the position.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-11</num>
+      <heading>Confirmation hearing.</heading>
+      <text>The Legislature shall require each candidate to appear at a legislative confirmation hearing so that the candidate may present an oral statement in support of his or her candidacy and respond to appropriate questions from any Legislator. At the conclusion of the legislative confirmation hearing, the Legislature shall give due and proper consideration to the candidate's qualifications and shall choose to appoint or decline to appoint the individual to the College Board of Directors based solely on his or her individual qualifications to hold such office. The motion to appoint a suitable individual shall contain an appropriate statement as to that individual's qualifications for office.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-12</num>
+      <heading>Vacancy in office of Board Chairperson or member.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whenever any vacancy shall occur in the office of the Board Chairperson or in the office of any Board member, it shall be filled for the unexplored term by a special appointment by the majority vote of the Board of Directors.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For the purpose of selecting the candidates from whom the vacancy will be filled, the Board shall publish notice of vacancy for 30 days after such vacancy shall occur. If a vacancy shall occur in the office of Board Chairperson, the Board shall select a new Chairperson from among the existing Board members. The Board of Directors shall select an appropriate person to fill the vacancy based solely on his or her qualifications for the office, and the person's qualifications shall be entered with the official record of the Board's proceedings.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-13</num>
+      <heading>Resignation of Board member.</heading>
+      <text>Any Director having entered upon the duties of the office may resign the same in writing to the Board of Directors.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-14</num>
+      <heading>Oath of office; bonds.</heading>
+      <text>Every person appointed to any office under this Charter shall, before entering upon the duties of office, take and subscribe an oath of office as provided for in the Bylaws at Article IV and file the same with the Clerk of the Secretary of the Menominee Tribal Legislature. Any Board member or administrative officer of the College shall severally, before he or she enters upon the duties of his or her respective office, execute to the College of the Menominee Nation bonds in such form and amounts and upon such conditions as deemed necessary by the Board for the protection of the College.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-15</num>
+      <heading>Violations by officers; penalty; forfeiture.</heading>
+      <text>Any officer of the College, or any person employed in the services of the College, who shall willfully violate or evade any of the provisions of law, or commit any fraud upon the College, or convert any of the public property to his or her own use or knowingly permit any other person to convert it, or by gross or culpable neglect of duty allow the same to be lost to the College, shall be deemed guilty of a misdemeanor and, in addition to the penalties imposed by Menominee law or other applicable federal law and upon conviction, shall forfeit the office and be excluded forever from receiving or holding any office under the Charter of the College of the Menominee Nation and shall be liable to refund to the College, at the suit of any member of the Menominee Nation or officer of the College, any amount lost to said College by reason of such violation of law.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Powers and Duties of Officers</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-16</num>
+      <heading>Board Chairperson.</heading>
+      <text>The Board Chairperson shall take care that the purposes of the College are duly observed and implemented. The Chairperson shall take care that all other officers and administrative officers of the College discharge their respective duties and, to that end, may maintain an action of mandamus or other appropriate action against any delinquent officer. The Chairperson shall address the Menominee Tribal Legislature annually in September of each calendar year on the state of the College, proposing therein plans and programs for the physical and economic development of the College and academic well-being of the students. As part of the message, the Chairperson shall set forth the goals of the College that the College should accomplish in the fiscal year that beings on July 1 of the next calendar year. The Legislature shall review the proposed goals and give proper consideration to the appropriation request of the College for sufficient funding to implement the goals.</text>
+      <para>
+        <num>A.</num>
+        <text>The Chairperson shall sign all contracts for the College by authority of the Board of Directors.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Chairperson shall be a member of any board, commission or department of the College. The Chairperson may appoint or designate a representative to serve in the place of the Chairperson on such board, commission or department for the term of office not to exceed the Chairperson's own term. Such representatives shall be members of the Menominee Indian Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-17</num>
+      <heading>Board of Directors.</heading>
+      <text>At the first meeting of the Board of Directors in June of each year, the Board shall proceed to elect by secret ballot from their membership a Chairperson and Vice Chairperson. The Chairperson shall preside over the meetings of the College Board of Directors and, while the Chairperson is absent or unable for any reason to discharge his or her required duties, the Vice Chairperson shall discharge the duties of the Chairperson and act in the Chairperson's place. While performing the duties of the Chairperson, any acts performed by such person shall have the same force and validity as if performed by the Chairperson.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-18</num>
+      <heading>Executive Committee.</heading>
+      <text>There is hereby established a four-person Executive Committee consisting of the Chairperson, the Vice Chairperson, one other additional member of the Board of Directors to be chosen by the Board, and the President of the College. The Executive Committee shall establish its own rules and procedures. It shall be chaired by the Board Chairperson.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-19</num>
+      <heading>Administrative officers.</heading>
+      <text>The Board of Directors shall appoint administrative officers, including but not limited to a President of the College and such other administrative officers as necessary for the proper management of the College's affairs. The appointment of administrative officers shall require the affirmative vote of the majority of all the members of the Board of Directors. All administrative officers shall hold their respective offices for a term of as established by the Board of Directors from and after the first business day in January of even-numbered years, and all administrative officers so appointed shall, unless otherwise provided for by the Board of Directors, continue in office until their successors are appointed and have qualified. Nothing in this Charter shall be construed as legislating out of office any appointed official of the College or any administrative officer appointed by the Board of Directors.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-20</num>
+      <heading>Finance Officer.</heading>
+      <text>The Finance Officer shall be nominated by the President of the College and confirmed by the Board of Directors. The Finance Officer shall have the duty to keep regular books of account for the College in which the Finance Officer shall enter all indebtedness of the College and shall at all times show the precise financial condition of the College and of the several boards, the amount of orders, certificates or other evidences of indebtedness outstanding.</text>
+      <para>
+        <num>A.</num>
+        <text>The Finance Officer shall keep accounts of orders drawn on the treasury in separate books, and shall note thereon the cancellation thereof whenever the same shall be canceled, and shall keep such other books and records as shall be convenient for the preservation of the accounts of all transactions and business of the College and all books, lists and records heretofore kept, or which shall be kept, in the Finance Officer's office. Copies certified by the Finance Officer shall be competent evidence of all matters shown by the books.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Finance Officer shall, as soon as may be after the close of each fiscal year, report to the Board of Directors on the financial condition of the College. The Board of Directors shall approve such report and forward a copy to the Menominee Tribal Legislature. In addition, the fiscal year report shall be published in a local newspaper selected by the Board for the publication of official notices.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Finance Officer shall countersign all contracts made in behalf of the College, and no such contract shall be valid until so countersigned. The Finance Officer shall keep a book and shall enter therein all contracts, which shall be open to inspection of all interested parties. The Finance Officer shall not, directly or indirectly, be interested in any contract or job to which the College is a party.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All claims and demands against the College shall be presented to the Finance Officer for audit and adjustment as appropriate.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Finance Officer shall give separate bonds for the safekeeping of the funds of the College in such sums as may be required by the Board of Directors.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Finance Officer shall, as soon as may be after the close of each fiscal year but not later than the following June 30, exhibit to the Board of Directors a full and detailed account of all receipts and expenditures for the last fiscal year and a state of the treasury report, which account and report shall be filed with the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Finance Officer shall ensure that an annual audit of the College is conducted by an independent certified public accounting firm as of the last day of business of each fiscal year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-21</num>
+      <heading>College property delivered to successors.</heading>
+      <text>If any person having been an officer in the College shall fail, within 10 days after notification and request, to deliver to his or her successor in office all property, books, papers and effects of every description in the possession of the officer belonging to the College or pertaining to the office held, such person shall forfeit and pay for the use of the College a fine as determined by the Board of Directors, in addition to all damages caused by such neglect or refusal to deliver, and such successor may recover the possession of such books, papers, and effects in the manner described by Menominee law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-22</num>
+      <heading>Conflicts of interest.</heading>
+      <text>No Board member or other officer or employee shall be a party to or interested in any job or contract with the College, and any contract in which any Board member, or other officer or employee, shall be so</text>
+      <text>interested shall be null and void. In the event that any money shall have been paid on any such contract, the amount so paid may be recovered by a joint or several action from the parties to such contract and the Board member or other officer or employee interested in the same.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-23</num>
+      <heading>Additional duties for officers; additional officers.</heading>
+      <text>The Board of Directors shall have power to assign additional duties to any officer, not inconsistent with this Charter, and to appoint such other officers as may be necessary to carry into effect the provisions of this Charter and prescribe their duties, unless otherwise provided for in this Charter.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>College Board of Directors</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-24</num>
+      <heading>Stated and special meetings.</heading>
+      <text>The Board of Directors shall hold stated meetings, and the Chairperson may call special meetings, by notice to each of the members. At such special meeting, no business shall be transacted other than that designated in the call. In case a quorum is not present at any stated meeting, the members present may adjourn to a designated time, and all business transacted at such adjourned meeting shall have the same validity as if done at a stated meeting.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-25</num>
+      <heading>Power to remove officers.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Board of Directors shall have power to remove from office any officer of the College, but no officer shall be removed except for cause, nor unless first furnished with a copy of the charges, nor until such person shall have had reasonable opportunity to be heard in person or by counsel in his or her own defense. Continued absence from the meetings of the Board of Directors and neglect of duty in the case of other officers, unless for good reason, shall be deemed a good cause of removal.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Board of Directors shall fix a time and place for the removal hearing of such officer and shall provide not less than 10 days' notice. The Board shall have power to petition the Menominee Court to issue subpoenas to compel the attendance of witnesses and the production of papers at any hearing. The Board shall hear the evidence and determine whether or not to remove the officer. In the event of removal, the Board of Directors may declare the office vacant.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-26</num>
+      <heading>Power to award degrees.</heading>
+      <text>The Board of Directors shall have power to award degrees upon satisfactory completion of the requirements for the degree awarded.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-27</num>
+      <heading>Policies of Board of Directors.</heading>
+      <text>The Board of Directors shall have full power and authority to make, enforce, alter, amend or repeal any policy for the good order of the College.</text>
+      <para>
+        <num>A.</num>
+        <text>The style of all policies shall be "The Board of Directors of the College of the Menominee Nation does hereby adopt the following as policy." The subject of every policy statement shall be expressed in its title, and no policy shall embrace more than one subject.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All policies of the Board of Directors shall be passed by an affirmative vote of a majority of all members of the Board, by ayes and nays, which shall be entered in the record of the Board.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-28</num>
+      <heading>Majority vote for appropriations.</heading>
+      <text>No appropriation shall be made without a vote of a majority of all the members of the Board of Directors.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-29</num>
+      <heading>Board of Directors to audit accounts and examine books.</heading>
+      <text>The Board of Directors shall examine, audit and adjust the accounts of the Finance Officer and all other officers and agents of the College at such times as it deems proper and also at the end of each year and before the term for which the officers of the College were appointed shall have expired; and the Board shall require all officers and agents to exhibit their books, accounts and vouchers for such examination and</text>
+      <text>settlement.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-30</num>
+      <heading>Board of Directors to have control of college finances and property.</heading>
+      <text>The Board of Directors shall have the management and control of the finances and all property of the College and may provide for the sale of any such property in such manner as it shall consider for the interest of the College; provided, however, that no real estate belonging to the College shall be sold unless ordered sold by a vote of 3/4 of all the members of the Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-31</num>
+      <heading>Creation of bylaws.</heading>
+      <text>The Board of Directors shall create bylaws to govern the conduct of the business before the Board of Directors.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-32</num>
+      <heading>Indemnification.</heading>
+      <text>The College shall indemnify any officer or administrative officer of the College made or threatened to be made a party to a proceeding by reason of the former or present official capacity of the person against judgments, penalties or fines assessed against the person with respect to settlements and reasonable expenses, including attorney fees and disbursements, incurred by the person in connection with the proceeding if, with respect to the act or omissions of the person complained of in the proceeding, the person:</text>
+      <para>
+        <num>A.</num>
+        <text>Has not been indemnified by another organization for the same judgments, penalties, fines, and reasonable expenses, including attorney fees and disbursements, incurred by the person in connection with the proceeding with respect to the same acts or omissions;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Acted in good faith;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Received no improper personal benefit through conflict of interest or otherwise; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>In the case of acts or omissions occurring in his/her official capacity, the person reasonably believed that the conduct was in the best interests of the College.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-33</num>
+      <heading>Insurance.</heading>
+      <text>The Board of Directors may purchase and maintain insurance on behalf of a person, in that person's official capacity, against any liability asserted against and incurred by the person in or arising from that capacity.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Sovereign Immunity</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-34</num>
+      <heading>Immunity of Menominee Indian Tribe of Wisconsin.</heading>
+      <text>The Menominee people, in authorizing the establishment by charter of the College of the Menominee Nation, do not waive or authorize the College Board of Directors to waive or limit the right of the Menominee Indian Tribe of Wisconsin to sovereign immunity from suit, nor do they waive or limit, or authorize the College Board of Directors to waive or limit, any exceptions and immunities from taxation to which the Nation is or may in the future be entitled and to which the Menominee Indian Tribe of Wisconsin, its members, and its businesses are entitled by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>637-35</num>
+      <heading>Immunity of College.</heading>
+      <para>
+        <num>A.</num>
+        <text>For the purpose of enabling the College to enter into business agreements, either to secure debts or to provide services or products, the College Board of Directors shall be authorized to agree by specific written agreements with any party to sue and be sued in the Menominee Tribal Courts in its capacity as a tribal college upon any contract, claim, or obligation arising out of its authorized activities. For the same purpose, the College Board of Directors shall be authorized to agree by specific written agreement with any party to waive any immunity from suit on breach of contract claim that it might otherwise have.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In seeking redress of grievances against the College, persons subject to tribal jurisdiction shall exhaust all remedies available to them under Menominee law before seeking redress of grievance against the College in the Menominee Courts.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Amendments</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>637-36</num>
+      <heading>Authority to amend Charter.</heading>
+      <text>This Charter is adopted pursuant to the inherent sovereign power of the people of the Menominee Indian Tribe of Wisconsin and may be amended only by the people in accordance with the provisions of Article VIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

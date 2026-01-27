@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>200</num>
+  <heading>TAXATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Tax on cigarettes and tobacco products — See <cite path="|II|281">Ch. 281</cite>. Tax on fireworks sales — See <cite path="|II|329">Ch. 329</cite>.</annotation>
+    <annotation type="General References">Tax on bingo operations — See <cite path="|II|347|I">Ch. 347, Art. I</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|200|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Use Tax on Construction Materials</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-20-1983 by Ord. No. 82-19; amended in its entirety 8-15-2013 by Ord. No. 13-27</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>200-1</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|200|I">this article</cite>, unless the context requires otherwise, the following terms shall have the meanings indicated:</text>
+      <text>CONSTRUCTION CONTRACTOR — Includes any person who, on the Menominee Reservation, acts as any general contractor, subcontractor, operative builder or special trade contractor as enumerated in the Standard Industrial Classification Manual (1972 edition, as supplemented) prepared by the Office of Management and Budget, Executive Office of the President of the United States, but does not include the Menominee Tribe of Indians or any political subdivision or organization of such Tribe created by or under the jurisdiction of the governing body of such Tribe or any enterprise of such Tribe.</text>
+      <text>DOING BUSINESS ON THE RESERVATION — Engaging in activity as a construction contractor within the exterior boundaries of the Reservation.</text>
+      <text>MATERIALS USED IN ANY CONSTRUCTION PROJECT — Materials incorporated into any permanent or temporary structure or consumed at any construction project by any construction contractor while doing business on the Reservation.</text>
+      <text>PERSON — Any natural person, firm, partnership, corporation, company, or association.</text>
+      <text>PLACE OF BUSINESS ON THE RESERVATION — Each location on the Reservation where a person engages in activity as a construction contractor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-2</num>
+      <heading>Imposition of tax; exceptions.</heading>
+      <text>There is hereby imposed upon the privilege of doing business as a construction contractor on the Menominee Reservation (hereinafter called "Reservation") a use tax upon the price paid for all materials used by a construction contractor in any construction project within the exterior boundaries of the Reservation, except that such tax shall not apply:</text>
+      <para>
+        <num>A.</num>
+        <text>To materials used in the construction, rehabilitation, remodeling, alteration, or repair of:</text>
+        <para>
+          <num>(1)</num>
+          <text>A private residence owned and occupied (or intended for occupancy) by an individual; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An outbuilding owned by an individual where such construction, rehabilitation, remodeling, alteration or repair is undertaken at the expense of such individual and not undertaken at the expense of the Menominee Department of Housing.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When the Menominee Indian Tribe or its employees perform construction projects within the exterior boundaries on the Menominee Indian Reservation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-3</num>
+      <heading>Rate of tax.</heading>
+      <para>
+        <num>A.</num>
+        <text>The tax imposed in <cite path="§200-2">§ 200-2</cite> shall be assessed in accordance with the following schedule:</text>
+        <text>Price Paid for Materials	Tax</text>
+        <text>$0.01 to $0.11	$0.00</text>
+        <text>$0.12 to $0.30	$0.01</text>
+        <text>Price Paid for Materials	Tax</text>
+        <text>$0.31 to $0.50	$0.02</text>
+        <text>$0.51 to $0.70	$0.03</text>
+        <text>$0.71 to $0.90	$0.04</text>
+        <text>$0.91 to $1.11	$0.05</text>
+        <text>$1.12 to $1.30	$0.06</text>
+        <text>$1.31 to $1.50	$0.07</text>
+        <text>$1.51 to $1.70	$0.08</text>
+        <text>$1.71 to $1.90	$0.09</text>
+        <text>$1.91 to $2.11	$0.10</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each additional dollar or fraction thereof is assessed an increment of tax in accord with this schedule.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-4</num>
+      <heading>Persons subject to tax.</heading>
+      <text>Each construction contractor doing business on the Reservation is subject to the tax imposed in <cite path="§200-2">§ 200-2</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-5</num>
+      <heading>Permit for place of business.</heading>
+      <para>
+        <num>A.</num>
+        <text>No construction contractor may maintain a place of business on the Reservation unless the Menominee Indian Tribe (hereinafter called the "Tribe") has issued a permit to such contractor.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each construction contractor doing business on the Reservation shall make application to the Tribe for a permit for each location where the applicant maintains or intends to maintain a place of business on the Reservation. Such application shall be made in the form prescribed by the Tribe and shall set forth the name under which the applicant transacts or intends to transact business on the Reservation and the applicant's principal place of business (if different from the location on the Reservation for which the permit application is made). The application shall be signed by the owner or the applicant, if a natural person, or, in the case of an association or partnership, by a member or partner thereof, or, in the case of a corporation, by an executive officer thereof, or by some other person specifically authorized by the corporation to sign the application, to which shall be attached written evidence of the signator's authority. Each permit application shall be accompanied by a filing fee of $5.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Each applicant for a permit shall post a bond or other adequate security as security for future use tax obligations to the Tribe as a condition for issuance of a permit. Failure of a permit holder to maintain such bond or other adequate security while doing business on the Reservation shall result in revocation of a permit.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribe shall issue a permit to an applicant who files a completed application and pays the prescribed fee, provided that the Tribe may refuse to issue a permit to any applicant who is delinquent in payment of any obligation to the Tribe until such obligation is satisfied.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A permit may not be assigned or transferred and is valid only for use by the person in whose name it is issued and at the location for which issued. A permit shall be conspicuously displayed at all times at the location for which issued. Once issued, a permit shall continue in validity and effectiveness, without payment of additional fees, when used in accordance with the requirements set forth herein, until cancelled or revoked.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-6</num>
+      <heading>Reporting and remittance of tax; penalty.</heading>
+      <para>
+        <num>A.</num>
+        <text>No later than the 15th day after the last day of each calendar quarter-year, each construction contractor holding a permit shall provide, in a report form prescribed by the Tribe, a list of and the prices paid for all materials used during the immediately preceding quarter-year in each construction project for which such construction contractor has been issued a permit and shall remit to the Tribe payment of the tax due on such materials calculated in accordance with the schedule set out in <cite path="§200-3">§ 200-3</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Alternate procedure.</text>
+        <para>
+          <num>(1)</num>
+          <text>In lieu of the reporting and remitting procedures provided in <cite path="§200-6|A">Subsection A</cite>, a construction contractor may petition the Tribe for permission to use the following alternate reporting and remitting procedure:</text>
+          <para>
+            <num>(a)</num>
+            <text>List all materials and the prices paid for the same that are intended for use in a construction project on the Reservation during the immediately following one, two, three, or four calendar quarters.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Calculate the tax applicable to such materials in accordance with the schedule set out in <cite path="§200-3">§ 200-3</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Divide the amount of tax by the number of applicable quarters and remit each quarter's pro rata share of the tax no later than the 15th day after the end of such quarter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The price of any and all additional materials subsequently purchased during a quarter-year in which this alternate procedure is employed shall be included in the report for the quarter in which used, and the tax applicable to such materials shall be remitted to the Tribe with such report no later than the 15th day after the end of such quarter.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any construction contractor subject to tax under <cite path="|I|200|I">this article</cite> who fails to pay the tax when due shall be assessed a penalty of 1% per month (or fraction thereof) on the amount of tax due, such penalty to continue to accrue until the full amount due is remitted to the Tribe.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If it is determined subsequent to the receipt of tax proceeds by the Tribe that an amount of tax penalty or interest has been paid which was not due under provisions of <cite path="|I|200|I">this article</cite>, whether as a mistake of fact or law, such amount shall be credited against any tax due, or to become due, under <cite path="|I|200|I">this article</cite> from the person who made the overpayment, or such amount shall be refunded to such person by the Tribe, provided that a claim for refund shall be filed within three years of the collection of the overpayment or such claim shall be forever barred.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>An extension of time, not to exceed 15 days, within which to make a report and remittance required by this section may be granted by the Tribe upon proper application therefor.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Tribe shall issue a receipt for each use tax remittance made.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-7</num>
+      <heading>Enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text>Failure of any construction contractor to comply with the reporting and remittance provisions of <cite path="§200-6">§ 200-6</cite> shall result in revocation by the Tribe of all permits held by such contractor and in the denial of the privilege of doing business on the Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No construction contractor whose permit has been revoked pursuant to <cite path="§200-7|A">Subsection A of this section</cite> shall be eligible to apply for a new permit until such contractor has fully satisfied all delinquent obligations to the Tribe, has filed a new application in conformance with the provisions of <cite path="§200-5|B">§ 200-5B</cite>, has posted a bond or other security as provided in <cite path="§200-5|C">§ 200-5C</cite>, and has paid a permit reinstatement fee of $25.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Tribe is empowered and authorized to deny to any person not a member of the Tribe the privilege of coming within the exterior boundaries of the Reservation, if such person is delinquent in paying any obligation owed to the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-8</num>
+      <heading>Authority of Tax Commissioner.</heading>
+      <text>The Tax Commissioner of the Tribe shall have authority to implement and enforce <cite path="|I|200|I">this article</cite>, to collect taxes and penalties due, to issue forms and regulations, and to institute such procedures and proceedings as are necessary to carry out the purposes and provisions of <cite path="|I|200|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-9</num>
+      <heading>Consent to jurisdiction.</heading>
+      <para>
+        <num>A.</num>
+        <text>All contracts and other agreements which permit or authorize the lawful presence of persons who are not tribal members upon tribal land or individually owned Indian trust land within the exterior boundaries of the Reservation shall henceforth contain the following provision: "The undersigned hereby irrevocably stipulates, consents and agrees to the jurisdiction of the Menominee Tribal Court in any action for the purpose of collecting or enforcing any Menominee tribal tax. The failure to pay any overdue tax upon demand shall be just cause for the termination of this agreement."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No such agreement entered into after the effective date of <cite path="|I|200|I">this article</cite> which does not contain the provision set forth above shall be valid and binding upon the Tribe or enforceable against any person in the Menominee Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-10</num>
+      <heading>When effective.</heading>
+      <text><cite path="|I|200|I">This article</cite> shall become effective upon enactment and shall be applicable to any construction contractor who does business on the Reservation after June 1, 1983, but shall not apply to any construction project where construction commenced prior to June 1, 1983.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-11</num>
+      <heading>Waiver. [Added 2-20-2014 by Ord. No. 13-56]</heading>
+      <text>The Menominee Tribal Legislature may waive the remittance of any tax obligation under <cite path="|I|200|I">this article</cite> by motion if the Legislature determines that the following conditions exist:</text>
+      <para>
+        <num>A.</num>
+        <text>The entity requesting the waiver is a chartered entity, business, department or program of the Menominee Indian Tribe of Wisconsin;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The chartered entity, business, department or program requesting the waiver provides a significant source of revenue to the Menominee Indian Tribe of Wisconsin; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The waiver is in the best interests of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|200|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Hotel Room Tax</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-16-1994 by Ord. No. 94-15; amended in its entirety 8-15-2013 by Ord. No. 13-27</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>200-12</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|200|II">This article</cite> shall be titled "Hotel Room Tax."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-13</num>
+      <heading>Authority.</heading>
+      <text>Pursuant to Section 2(b) of Bylaw II of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin which authorizes the Tribe to levy taxes by ordinance, the Menominee Tribal Legislature imposes said tax to be deposited in the Tribe's general fund.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-14</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|200|II">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Casino Resort Hotel.</text>
+      <annotations>
+        <annotation type="History">Amended 10-19-2023 by Ord. No. 23-48</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-15</num>
+      <heading>Levy of tax.</heading>
+      <text>There is hereby levied a 8% hotel room tax on all hotel rooms and suites at the Menominee Casino Resort Hotel.</text>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Casino Resort Hotel shall forward to the Menominee Indian Tribe of Wisconsin 8% of the gross receipts received from the furnishing of rooms.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The tax imposed by <cite path="|I|200|II">this article</cite> may be collected from the consumer or user by the hotel.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The amount collected by the hotel from the consumer or user in reimbursement of the tax may be displayed separately from the price advertised, the marked price, or other price on the sales check or proof of sale.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 10-19-2023 by Ord. No. 23-48</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-16</num>
+      <heading>Enforcement.</heading>
+      <text><cite path="|I|200|II">This article</cite> shall be enforced by the Tribal Tax Commissioner who shall have all authority to access and inspect the financial records of the hotel to ensure that said tax is collected and deposited into the Tribe's general fund per <cite path="§200-17">§ 200-17</cite> below.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>200-17</num>
+      <heading>Tax collection schedule.</heading>
+      <text>The Tax Commissioner is hereby authorized to develop a tax collection schedule, subject to the approval of the Menominee Tribal Legislature, which shall indicate the day of the month for each month of the year that said tax will be collected from the hotel and deposited into the Tribe's general fund.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

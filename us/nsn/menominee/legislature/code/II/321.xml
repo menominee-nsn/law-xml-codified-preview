@@ -1,0 +1,1039 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|321">
+  <prefix>Chapter</prefix>
+  <num>321</num>
+  <heading>FIREARMS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-8-1993 by Ord. No. 93-11; amended in its entirety 3-3-2016 by Ord. No. 15-39. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Taking of wild game or fish — See <cite path="|II|255|II">Ch. 255, Art. II</cite>. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>321-1</num>
+    <heading>Purpose.</heading>
+    <text>The Menominee Tribal Legislature, in an effort to sustain the safety and general welfare of the Tribe, seeks to regulate the possession and use of firearms and other dangerous weapons.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-2</num>
+    <heading>Authority.</heading>
+    <text>The Menominee Tribal Legislature is the legally constituted governing body of the Menominee Indian Tribe with all governmental powers vested in it in accordance with Articles I and III of the Menominee Constitution and Article II, Section 2(g) of the Bylaws of the Constitution of the Menominee Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of <cite path="|II|321">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>AMMUNITION — Any ammunition or cartridge cases, primers, bullets, or propellant powder designed for use in any firearm.</text>
+    <text>ANTIQUE FIREARM — Any firearm manufactured in or before 1899 or replica of any such firearm, or any muzzle-loading rifle, muzzle-loading shotgun, or muzzle-loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition.</text>
+    <text>BODILY HARM — Physical pain or injury, illness, or any impairment of physical condition.</text>
+    <text>CONCEALED WEAPON — A firearm or dangerous weapon is concealed if it is carried in such a manner as to not be recognized by the ordinary observation of a passerby. There is no requirement that there be absolute invisibility of the firearm or dangerous weapon.</text>
+    <text>DANGEROUS WEAPON — Any weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily used for, or designed as a weapon or through its use is capable of threatening or producing death or bodily injury, including but not limited to knives, clubs, metal knuckles, nunchaku, throwing stars, explosives, Taser® guns.</text>
+    <text>DESTRUCTIVE DEVICE — Any explosive, incendiary, or poison gas; any type of weapon which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than 1/2 inch in diameter; the term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon.</text>
+    <text>FIREARM — Any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver or any such weapon, including antique firearms; any firearm muffler or firearm silencer; or any destructive device.</text>
+    <text>FIREARM SILENCER or FIREARM MUFFLER — Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or muffler, and any <cite>part i</cite>ntended only for use in such assembly or fabrication.</text>
+    <text>HANDGUN — Any weapon designed or redesigned, or made or remade, and intended to have a short stock and be fired while held in one hand and to use the energy of an explosive to expel a projectile though a smooth or rifled bore.</text>
+    <text>HUNT — The definition of "hunting" from <cite path="|II|287">Chapter 287</cite>, Conservation Code.</text>
+    <text>LAW ENFORCEMENT PERSONNEL — Any Menominee tribal police officer, Menominee tribal conservation warden or other bona fide peace officers acting in their official capacity.</text>
+    <text>LEGISLATURE — The Menominee Tribal Legislature, the governing body of the Menominee Nation. RECKLESS USE OF FIREARMS — Any of the following:</text>
+    <para>
+      <num>A.</num>
+      <text>Endangering the safety of his or her own person or property and/or the safety or property of another by a high degree of negligence in the use of a firearm;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Causing injury to another person by a high degree of negligence in the use of a firearm; or</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Conduct which demonstrates ordinary negligence to a high degree, consisting of an act which the person should realize creates risk and high probability of serious property damage, death or great bodily harm to himself or another person.</text>
+      <text>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a metallic cartridge to fire through a rifled barrel a single projectile for each pull of the trigger.</text>
+      <text>SCHOOL — A public, parochial, tribal or private school on the Menominee Indian Reservation which provides an educational program for one or more grades between grades kindergarten and 12 and which is commonly referred to as an "elementary school," "middle school," "junior high school," "senior high school," "high school," "primary school" or "tribal school." For purposes of <cite path="|II|321">this chapter</cite>, "school" also means any Head Start or day-care facility or any college located on the Menominee Indian Reservation.</text>
+      <text>SHORT-BARRELED RIFLE — A rifle having one or more barrels less than 16 inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than 26 inches.</text>
+      <text>SHORT-BARRELED SHOTGUN — A shotgun having one or more barrels less than 18 inches in length and any weapon made from a shotgun (whether by alteration, modification, or otherwise) if such a weapon, as modified, has an overall length of less than 26 inches.</text>
+      <text>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
+      <text>TRIBAL COURT FACILITY — The Tribal Law Enforcement Center (LEC) and the Wilmer J. Peters Judicial Center, and any other tribal courtroom, judges' chambers, witness rooms, jury deliberation rooms, prisoner holding cells, offices of the court clerks, the Tribal Prosecutor, tribal probation officers, and adjoining corridors of any court of the Menominee Indian Tribe.</text>
+      <text>TRIBAL FACILITY — A building or part thereof owned or leased by the Menominee Indian Tribe, where tribal employees are regularly present for the purpose of performing their official duties.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-4</num>
+    <heading>Unlawful discharge.</heading>
+    <para>
+      <num>A.</num>
+      <text>It shall be unlawful for any person to discharge any firearm within 300 feet of any home, business, tribal facility, or occupied structure, subject to the following exceptions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Law enforcement personnel acting within their official capacity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Private or public shooting ranges, indoor or out, approved for use by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ceremonial discharges of weapons by military or veteran groups using blank cartridges.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Occupied structure" shall not include hunting blinds or stands.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person found in violation of <cite path="§321-4|A">Subsection A</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>On a first offense, be fined no less than $250, and the firearm may be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On a second or subsequent offense occurring within five years, be fined no less than $500, and the firearm shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-5</num>
+    <heading>Discharge or possession by minors.</heading>
+    <para>
+      <num>A.</num>
+      <text>At no time shall a person under 18 years of age discharge or possess a firearm or dangerous weapon, except for a person under the age of 18 years may possess or discharge a rifle or shotgun, including muzzle-loaded rifles or shotguns, if:</text>
+      <para>
+        <num>(1)</num>
+        <text>Possession or discharge occurs under the direct supervision and physical presence of a parent, guardian or any adult person who has been given such authority to do so by a parent or guardian;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Possession or discharge occurs under the direct supervision and physical presence of a responsible third party who is at least 18 years of age or older and they are in that act of hunting; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A minor person 10 years of age or older, who is in the act of hunting and has successfully completed a hunter safety course approved by the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notwithstanding <cite path="§321-5|A">Subsection A</cite>, no person under the age of 21 years of age shall possess or discharge a handgun unless possession or discharge occurs under the direct supervision and physical presence of a parent, guardian, or any adult person 21 years or older, who has been given such authority to do so by a parent or guardian.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Penalties for violation of <cite path="§321-5|A">Subsection A</cite>.</text>
+      <para>
+        <num>(1)</num>
+        <text>A first violation shall result in a civil forfeiture of $250, and the firearm involved may be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A second and subsequent offense shall result in a civil forfeiture of $500, and the firearm shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Penalties for violation of <cite path="§321-5|B">Subsection B</cite>. A violation of <cite path="§321-5|B">Subsection B</cite> shall result in a fine of not less than $500, and the weapon shall be forfeited and disposed of by order of the Tribal Court.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-6</num>
+    <heading>Hunting; carrying and discharge of firearms.</heading>
+    <para>
+      <num>A.</num>
+      <text>It shall be unlawful to hunt or discharge a firearm within 50 feet of any paved public roadway within the Menominee Indian Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>It shall be unlawful for a person to carry a loaded firearm in an automobile, truck, motorcycle or other vehicle on the paved, public roadways of the Menominee Indian Reservation, except a person with a valid tribal concealed carry permit may carry a loaded handgun.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Convictions under this section shall result in the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A civil forfeiture of $250 shall be ordered upon conviction for a first offense.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A civil forfeiture of $500 shall be ordered upon conviction for a second offense occurring within five years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A third or subsequent offense shall constitute a criminal violation and shall result in a fine of $500 and a jail term not to exceed six months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-7</num>
+    <heading>Reckless use of firearms or dangerous weapons.</heading>
+    <para>
+      <num>A.</num>
+      <text>Whomever does any of the following shall be found guilty of reckless use of a firearm or dangerous weapon:</text>
+      <para>
+        <num>(1)</num>
+        <text>Endangers the safety or well-being of another person by reckless conduct in the operation or handling of any firearm or dangerous weapon;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Operates or is armed with a firearm or dangerous weapon while he or she is under the influence of an intoxicant, drug, or inhalant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Intentionally points a loaded or unloaded firearm or dangerous weapon at or towards another person, home, business, or occupied vehicle;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>While on or near the lands of another person, discharges a rifle within a five-hundred-foot radius of any building devoted to human occupancy without the express consent of the owner or occupant of the building.</text>
+        <para>
+          <num>(a)</num>
+          <text>Notwithstanding <cite path="§321-7|A|(4)">Subsection A(4)</cite>, target shooting on a target range with an adequate backstop is permitted. An adequate backstop shall at least be a man-made earth embankment or a natural hill of appropriate size and shape, or fabricated backstops using steel or wooden cribs, capable of stopping the caliber, bullet weight, and resulting velocity of ammunition used.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Conviction under <cite path="§321-7|A">Subsection A</cite> shall result in the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A first offense shall result in a fine of $500 and a jail term not to exceed six months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A second offense shall result in a fine of $1,000 and a jail term not to exceed nine months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A third or subsequent offense shall result in a fine of $2,500 and a jail term not to exceed 12 months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Whomever intentionally discharges a firearm at a vehicle or building under circumstances in which he or she should realize there might be a human being present therein shall be penalized as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A first offense shall result in a fine not less than $1,000 and a jail term not to exceed six months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A second or subsequent offense shall result in a fine of $2,500 and a jail term not to exceed 12 months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-8</num>
+    <heading>Concealed handguns.</heading>
+    <text>Notwithstanding any provisions of <cite path="|II|321">this chapter</cite>, any person who holds a valid concealed carry permit issued by the State of Wisconsin, or from any state listed as eligible reciprocal states for obtaining a State of Wisconsin permit, shall be able to apply for a five-year tribal permit to carry a concealed handgun. The applicant must complete the concealed carry permit application, pass the tribal background check, and comply at all times with the requirements of this section.</text>
+    <para>
+      <num>A.</num>
+      <text>General information.</text>
+      <para>
+        <num>(1)</num>
+        <text>General process. The person who seeks to obtain a tribal concealed carry permit shall obtain an application from the Menominee Licensing and Permit Department. A tribal background check will be completed by the Menominee Tribal Clerk of Court and submitted to the Tribal Police Department to complete the background certification. The background certification shall be completed within 20 days and will determine if the applicant is eligible to be issued a tribal carry concealed permit under <cite path="|II|321">Chapter 321</cite>. Once submitted, the application shall follow the process requirements of <cite path="§321-8|C">§ 321-8C</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Tribal background check. The tribal background check is only checking criminal and civil cases in the Menominee Tribal Court. It shall be completed by the Menominee Tribal Court within 20 days and contain all information necessary to make permit eligibility determinations under <cite path="§321-8|D">§ 321-8D</cite>, E and F.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Application requirements.</text>
+        <para>
+          <num>(a)</num>
+          <text>At a minimum, the conceal carry permit application or renewal application shall include:</text>
+          <para>
+            <num>[1]</num>
+            <text>General applicant identification information.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Eligibility questionnaire.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Places carrying of weapon is prohibited statement.</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>Permit action and duties statement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Show proof of current and valid driver's license or tribal identification.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Photocopy of eligible state concealed weapon license or permit.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Fees.</text>
+          <para>
+            <num>[1]</num>
+            <text>Application  fee.  A  nonrefundable  application  fee,  except  as  described  in</text>
+            <text><cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Renewal fee. A nonrefundable application renewal fee, except as described in</text>
+            <text><cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Replacement fee. The replacement fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The application and tribal law compliance statements shall require original signatures. Photocopies are not permitted.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The application and renewal application shall be created by the Licensing and Permit Department within 30 days of the effective date of <cite path="|II|321">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Denial of application.</text>
+        <para>
+          <num>(a)</num>
+          <text>An applicant can be denied for any of the following reasons:</text>
+          <para>
+            <num>[1]</num>
+            <text>The applicant has been disqualified to carry a concealed weapon per <cite path="§321-8|D">§ 321-8D</cite>, E or F;</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>The applicant made a material misstatement on the applicant form; or</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>The applicant submitted an incomplete application per <cite path="§321-8">§ 321-8</cite>C(1).</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an applicant is denied under any section in <cite path="|II|321">Chapter 321</cite>, the Licensing and Permit Department shall inform the applicant, in writing, of the denial. The notice of denial shall state the reasons and factual basis for the denial decision. The notice of denial shall be sent to the applicant by a method of shipment that provides confirmation of delivery, including the date of delivery.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Tribal concealed carry permit requirements. The tribal concealed carry permit shall be a physical card that, at a minimum, includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name and date of birth;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Physical address;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Following physical descriptions: gender, height, and eye color;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Issue date; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Expiration date.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Processing tribal permit application.</text>
+      <para>
+        <num>(1)</num>
+        <text>When the Licensing and Permit Department receives an application, the Department shall do the following in the sequence listed:</text>
+        <para>
+          <num>(a)</num>
+          <text>Review application for completeness. An application is complete when the Department has received all of the items listed below:</text>
+          <para>
+            <num>[1]</num>
+            <text>A completed version of the application form prescribed by <cite path="§321-8">§ 321-8</cite>A(3);</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>A statement that the information submitted in the application and any supporting documents are true and complete to the best of the applicant's knowledge;</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Receipt of application or renewal fee; and</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>Photocopy of eligible state concealed weapon license or permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an application is complete, the Licensing and Permit Department shall forward the background check request to the Menominee Tribal Courts, and the application shall proceed under as described below. If an application is incomplete, the Licensing and Permit Department shall reject it and shall send a written notice of the rejection to the applicant at the residence address provided by the applicant in the application form. The notice of rejection shall explain why the application was found to be incomplete and what must be submitted to complete the application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When Tribal Court receives an application background check request, the Court shall, within 20 days, do the following in the sequence listed:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct Tribal Court background check of the applicant. The background check shall include all Tribal Court criminal convictions, any Tribal Court orders restricting the possession of firearms, notification of charges of criminal cases that are active but not adjudicated, notification of active cases regarding mental health or competency of the applicant pursuant to <cite path="§321-8|E">§ 321-8E</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Court shall forward the background check request to the Menominee Tribal Police Department. The Tribal Police Department shall proceed under <cite path="§321-8">§ 321-8</cite>C(3).</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>When the Tribal Police Department receives the completed Tribal Court background check, the Tribal Police Department shall have 20 business days after the day receiving the tribal background check from the Tribal Court to return the tribal background certification to the Licensing and Permit Department. The Tribal Police Department shall do the following in the sequence listed:</text>
+        <para>
+          <num>(a)</num>
+          <text>Forward the Tribal Court background check to the Tribal Prosecutor's Office and Tribal Probation Office requesting those departments review the background check and return any discretionary disqualifier decisions per <cite path="§321-8|F">§ 321-8F</cite> by a date no later than the 15th day after the Police Department received the Tribal Court background check;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Confirm that the state concealed permit or license submitted by the applicant has been issued to that applicant and is current and effective;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Review the Tribal Court background check for the purpose of determining whether issuance of a permit is prohibited under <cite path="§321-8|D">§ 321-8D</cite>, E or F;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a permit is not prohibited under <cite path="§321-8|D">§ 321-8D</cite>, E or F, the Police Department shall complete the background certification stating the applicant is not prohibited from possessing a permit and shall promptly send the certification to the Licensing and Permit Department.</text>
+          <text>The certification shall be sent no later than the 20th business day after receipt of the background check. If the background certification is sent after the 20th business day, then the Department shall pay the application fee and the fee paid by the applicant shall be refunded. However, at no time shall a tribal permit be issued if the background certification has not been completed;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If a permit is prohibited under <cite path="§321-8|D">§ 321-8D</cite>, E, or F, the Police Department shall complete the background certification form and shall deny the application. The certification and denial shall be promptly sent to the Licensing and Permit Department. The certification and denial shall be sent no later than the 20th business day after receipt of the background check. If the background certification and denial is sent after the 20th business day, then the Department shall pay the application fee and the fee paid by the applicant shall be refunded. However, at no time shall a tribal permit be issued if the background certification has not been completed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>When the Licensing and Permit Department receives the background certification, the Department shall do the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>If the background certification approves and states the applicant is eligible for a tribal permit, the Licensing and Permit Department shall issue the permit, assign a permit number, and promptly send notice requiring the applicant to come in to have the permit ID created pursuant to <cite path="§321-8|B">§ 321-8B</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the background certification states the issuance of permit is prohibited under <cite path="§321-8|D">§ 321-8D</cite>, E of F, the department shall deny the application and proceed under <cite path="§321-8">§ 321-8</cite>A(4)(b).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Automatic disqualifiers. If the applicant for a tribal concealed carry permit is a fugitive from justice, prohibited from owning or possessing a firearm under <cite path="|II|321">Chapter 321</cite> or by Tribal Court order, or has pending filed charges awaiting disposition or has been found guilty in Tribal Court of any of the following violations, he/she shall have his/her application denied.</text>
+      <para>
+        <num>(1)</num>
+        <text>Abduction, <cite path="|I|120">Chapter 120</cite>, Attachment 1.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Abuse of individuals at risk, <cite path="§290-1|A">§ 290-1A</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Breaking and entering, <cite path="§290-3|B">§ 290-3B</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Carrying a concealed weapon, <cite path="|I|120">Chapter 120</cite>, Attachment 1.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Possession of a controlled substance with the intent to manufacture, distribute or deliver,</text>
+        <text><cite path="§306-5|C">§ 306-5C</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Trafficking, manufacturing, cultivating or harvesting a controlled substance, <cite path="§306-5|A">§ 306-5A</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Cruelty to animals, <cite path="|I|120">Chapter 120</cite>, Attachment 1.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Domestic violence enhancer, <cite path="§368-26">§ 368-26</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Domestic violence enhancer - battery 3+, <cite path="§368-34|B">§ 368-34B</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Domestic violence enhancer - battery, child present, <cite path="§368-34">§ 368-34</cite>A(2).</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Domestic violence enhancer - battery, pregnancy, <cite path="§368-34">§ 368-34</cite>A(1).</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Felon in possession of a firearm, <cite path="§321-8|A">§ 321-8A</cite>.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Gang-related crimes, <cite path="§290-46">§ 290-46</cite>.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Physical abuse of a child first degree - intentional, <cite path="§368-46|A">§ 368-46A</cite>.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Physical abuse of a child second degree - intentional, <cite path="§368-46|B">§ 368-46B</cite>.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Physical abuse of a child third degree - intentional, <cite path="§368-46|C">§ 368-46C</cite>.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Reckless use of a firearm, <cite path="§321-7|A">§ 321-7A</cite>.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Reckless use of a firearm near building where person could be, <cite path="§321-7">§ 321-7</cite>A(3).</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Reckless use of a firearm at vehicle or building, <cite path="§321-7|C">§ 321-7C</cite>.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>First degree sexual assault, <cite path="§290-52|A">§ 290-52A</cite>.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Second degree sexual assault, <cite path="§290-52|B">§ 290-52B</cite>.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>First degree sexual assault of a child, <cite path="§368-54|A">§ 368-54A</cite>.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Second degree sexual assault of a child, <cite path="§368-54|B">§ 368-54B</cite>.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Third degree sexual assault of a child, <cite path="§368-54|C">§ 368-54C</cite>.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>Fourth degree sexual assault of a child, <cite path="§368-54|D">§ 368-54D</cite>.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>Stalking, <cite path="§510-1">§ 510-1</cite>.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>Unlawful sale, possession, use or transport of firearm, <cite path="§321-9|A">§ 321-9A</cite>.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>Victim tampering - intimidation, <cite path="§120-71|B">§ 120-71B</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Mental health automatic disqualifiers. Applications for a tribal concealed carry permit shall be denied if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The applicant has been found not guilty by reason of insanity or mental disease, defect, or illness;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The person is committed to treatment under § 51.20(13)(a), Wis. Stats.;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The person is committed to a treatment facility because the individual is mentally ill, drug dependent, or developmentally disabled and the court has ordered such a person not to possess a firearm;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The person is currently ordered by Tribal Court not to possess a firearm under any order under the following Wisconsin Statutes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Section 51.20(13)(cv)1, Wis. Stats.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Section 51.45(13)(i)1, Wis. Stats.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Section 54.16(3)(f)1, Wis. Stats.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Section 55.12(10)(a), Wis. Stats.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>
+            <cite doc="Wis. Stat." path="§55.12|(1)|(a)">Section 55.12(1)(a), Wis. Stats.</cite>
+          </text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The person is currently adjudicated to be legally incompetent; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The person has been involuntarily committed to a mental institution.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Discretionary disqualifiers. The application for a tribal concealed carry permit may be denied if the applicant has been convicted in Tribal Court for any other violation, which the Chief of Police, Prosecutor and/or Director of Probation feel shows a propensity for violence, thus putting the tribal members at risk if this individual were to be allowed to carry a concealed handgun. If the discretionary disqualifier portion of the background certification is not completed within the requirement pursuant to <cite path="§321-8">§ 321-8</cite>C(3)(a), then the discretionary disqualification is waived.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Permit expiration and renewal.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Menominee tribal concealed carry permit shall be valid for five years from the date of issuance, unless suspended or revoked before the five-year expiration date.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as provided in <cite path="§321-8">§ 321-8</cite>G(2)(a), a permittee who wishes to renew a concealed carry permit under this section shall do so not earlier than 90 days before the expiration date of the permit or at any time after the expiration date of the permit by filing a renewal application with the Licensing and Permit Department. Subsequent to the issuance of the renewal permit, that applicant has stated that he/she has reread <cite path="|II|321">Chapter 321</cite> and paid a nonrefundable permit renewal fee per <cite path="§321-8">§ 321-8</cite>A(3)(d).</text>
+        <para>
+          <num>(a)</num>
+          <text>A person on active duty in the Armed Forces of the United States is exempt from the permit requirements of this section for the period of the person's active duty or service and for six months if the permittee was issued a concealed carry permit before the permittee's active duty commenced.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Licensing and Permit Department Police shall accept the completed renewal application, the permit fee renewal, and the permit shall be renewed for another five years if he or she is eligible per <cite path="§321-8|D">§ 321-8D</cite>, E, and F and is approved per the process described in <cite path="§321-8|C">§ 321-8C</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Lost, stolen or destroyed permit. Permit holders may request a replacement permit, in writing, by submitting a completed and signed replacement permit form. The replacement fee shall be shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Permit revocation and suspension.</text>
+      <para>
+        <num>(1)</num>
+        <text>Permit suspension.</text>
+        <para>
+          <num>(a)</num>
+          <text>Violations of sections listed in <cite path="§321-8|D">§ 321-8D</cite> and E shall result in a temporary suspension until fully adjudicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any temporary suspension of a person's state carry concealed permit shall result in a temporary suspension of the tribal concealed carry permit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A permit may be suspended by order of the Court as conditions of release for cash bond/ signature bonds, ordered as a condition of probation, or for any violations of <cite path="|II|321">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Permit revocation.</text>
+        <para>
+          <num>(a)</num>
+          <text>Convictions of violations listed in <cite path="§321-8|D">§ 321-8D</cite> and E shall result in an immediate revocation of a concealed carry permit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A revocation of the person's state carry concealed permit shall result in a revocation of the tribal concealed carry permit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tribal concealed carry permits may be revoked for a limited term or permanent term, and a person may become ineligible to receive a tribal concealed carry permit in the future, as designated by order of the Court and/or in the penalties described in <cite path="|II|321">this chapter</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Tribal data system.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Licensing and Permit Department shall create a database that is available to tribal law enforcement officers containing concealed carry permit information, to include, at a minimum, all the information required in <cite path="§321-8">§ 321-8</cite>B(1).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Licensing and Permit Department shall ensure the concealed carry suspended permit and revoked permit information is available in this database.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Duties of concealed carry permit holders.</text>
+      <para>
+        <num>(1)</num>
+        <text>Permit holders must carry their permit in their immediate possession at all times when carrying a concealed firearm or knife over four inches.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Permit holders must produce a concealed carry permit and driver's license or tribal identification upon request by law enforcement officers.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Penalties. Any person convicted of violating <cite path="§321-8|J|(1)">Subsection J(1)</cite> or (2) shall be penalized as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>A first offense shall result in a civil forfeiture of $100.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A second offense shall result in a civil forfeiture not less than $250.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A third or subsequent offense shall result in a civil forfeiture of $500.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Prohibited activities.</text>
+      <para>
+        <num>(1)</num>
+        <text>Places where weapons are always prohibited. A concealed carry permittee may carry anywhere within the reservation except in any of the following places:</text>
+        <para>
+          <num>(a)</num>
+          <text>Law enforcement offices and buildings;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Tribal jail;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Mental health treatment facilities;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Courthouses;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In or on the grounds of schools; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any duly posted facility prohibitions compliant with the posting/notice requirements of <cite path="§321-11|D">§ 321-11D</cite>, except as provided in <cite path="§321-8">§ 321-8</cite>K(3)(b), and shall be subject to the prohibitions and penalties in <cite path="§321-11">§ 321-11</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A concealed carry permittee shall be prohibited from carrying a concealed weapon while under the influence of any drug or under the influence of intoxicating beverage.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any person who violates <cite path="§321-8">§ 321-8</cite>K(2) shall be punished by a fine not less than $250 nor more than $5,000 or a jail term not less than three months nor more than 12 months, or both; the firearms involved shall be forfeited and disposed of by order of the Tribal Court, and the concealed carry permit shall be revoked for one year. A second conviction of § 321-K(2) shall result in revocation of a concealed carry permit, and the person shall become ineligible to receive a tribal concealed carry permit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exceptions.</text>
+        <para>
+          <num>(a)</num>
+          <text>Certified law enforcement officers, except at no time shall law enforcement officers be exempt from <cite path="§321-8">§ 321-8</cite>L(2).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prohibitions regarding places where weapons are always prohibited do not apply to a weapon in a vehicle driven or parked in a parking facility associated with the listed places in <cite path="§321-8">§ 321-8</cite>K(1).</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§321-9">
+    <prefix>§</prefix>
+    <num>321-9</num>
+    <heading>Restricted weapons.</heading>
+    <para>
+      <num>A.</num>
+      <text>No person may sell, possess, use or transport the following firearms or dangerous weapons:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rifles, shotguns or handguns without serial numbers, unless such firearms are antique firearms or were lawfully manufactured prior to October 22, 1968, and not subject to the serial number requirements of the 1934 National Firearms Act.<fn path="|II|§321-9|footnotes|1">1</fn></text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Rifles, shotguns or handguns with serial numbers that have been altered.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Rifles, shotguns or handguns with serial numbers that have been obliterated.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any firearm manufactured or altered to discharge more than two shots or bullets by a single function of the firing device.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any rifle having one or more barrels having a length of less than 16 inches measured from closed breach or bolt face to muzzle or a rifle having an overall length of less than 26 inches.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any shotgun having one or more barrels less than 18 inches measured from closed breach or bolt face to muzzle or a shotgun having an overall length of less than 26 inches.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any dangerous weapon or any firearm in or on the grounds of a school.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person convicted of violating <cite path="§321-9|A">Subsection A</cite> shall be penalized as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A first offense shall result in a civil forfeiture not less than $500, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A second or subsequent offense shall result in a fine not less than $1,000 and a jail term not to exceed six months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See 26 U.S.C. § 5801 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-10</num>
+    <heading>Possession of firearms by certain persons.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following persons may not possess, transport, sell or discharge a firearm or ammunition:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any person convicted of a felony in any state, federal or tribal court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any person found not guilty or not responsible for a crime in any state, federal court, or tribal court by reason of insanity or mental disease, defect or illness.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any person ordered by a lawful and valid court order restriction of possessing firearms and/or ammunition.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person found guilty of violating <cite path="§321-10|A">Subsection A</cite> shall be penalized as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A first offense shall result in a fine not less than $1,000 and a jail term not to exceed six months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A second and subsequent offense shall result in a fine not less than $2,500 and a jail term not to exceed 12 months, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-11</num>
+    <heading>Possession of firearms and dangerous weapons in facilities.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as provided for in <cite path="§321-13">§ 321-13</cite>, whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a tribal facility (other than a Tribal Court facility), or attempts to do so, shall be penalized as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A civil forfeiture of $250 shall be ordered upon conviction for a first offense.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A civil forfeiture of $500 shall be ordered upon conviction for a second offense.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A fine not less than $1,000 nor more than $5,000 and jail term not to exceed six months shall be ordered upon conviction for a third or subsequent offense, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as provided for in <cite path="§321-13">§ 321-13</cite>, whoever knowingly possesses or causes to be present a firearm in a private building with a publicly posted firearm restriction shall be penalized as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A civil forfeiture of $250 shall be ordered upon conviction for a first offense.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A civil forfeiture of $500 shall be ordered upon conviction for a second offense.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A fine not less than $1,000 nor more than $5,000 and jail term not to exceed six months shall be ordered upon conviction for a third or subsequent offense, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided for in <cite path="§321-13">§ 321-13</cite>, whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a Tribal Court facility, or attempts to do so, shall be fined not less than $1,000 nor more than $5,000, a jail term not less than three months nor more than 12 months, or both, and the firearms involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notice of the provisions of <cite path="§321-11|A">§ 321-11A</cite>, B, and C shall be posted conspicuously at each public entrance to each tribal facility, Tribal Court facility, or private building, and no person shall be convicted of an offense in <cite path="§321-11">§ 321-11</cite> if such notice is not so posted at such facility, unless such person had actual notice of <cite path="§321-11|A">Subsection A</cite>, B, or C, as the case may be.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Any person with a valid tribal concealed carry permit and who violates <cite path="§321-8">§ 321-8</cite>K(1) and thus is convicted under <cite path="§321-11|A">§ 321-11A</cite>, B, or C shall for a first offense have his or her concealed carry permit revoked for one year. A second or subsequent conviction shall result in the revocation of the permit, and such person shall be ineligible for a tribal concealed carry permit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-12</num>
+    <heading>Unlawful carry of concealed weapons.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person, under the jurisdiction of the Tribe, who is not permitted by the Menominee Indian Tribe to carry a concealed handgun and who carries a concealed weapon on or about his or her person shall be punished by a fine not less than $250 nor more than $5,000 or a jail term not less than three months nor more than 12 months, or both, and the weapons involved shall be forfeited and disposed of by order of the Tribal Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><cite path="§321-12|A">Section 321-12A</cite> shall not apply to a person who carries a concealed weapon in that person's domicile or fixed place of business.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Exceptions.</text>
+      <para>
+        <num>(1)</num>
+        <text>A firearm or dangerous weapon is considered concealed if it is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Worn under clothing or carried in a bundle that is held or carried by the individual; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Transported in a vehicle under the individual's control or direction and available to the individual, including beneath the seat or in a glove compartment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A firearm or dangerous weapon is not considered concealed if it is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Carried in a belt holster which is wholly or substantially visible, or carried in a case designed for carrying a firearm or dangerous weapon and which is wholly or substantially visible;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Locked in a closed trunk or luggage compartment of a motor vehicle; or if no such compartment exists, is not readily or directly accessible from the passenger compartment and in a locked container other than the glove compartment or console;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Carried in the field while lawfully engaged in hunting, trapping, gathering, or fishing, whether visible or not;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Carried by any person permitted to possess a handgun, unloaded and in a secure wrapper from a place of purchase to that person's home or place of business, or to a place of repair, or back from those locations; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A bow and arrow, an unloaded rifle or shotgun, or an unloaded weapon that will expel or is readily capable of expelling a projectile by the action of a spring, compressed air, or compressed gas, including any such weapon commonly referred to as a "BB gun," "air rifle," or "CO2 gun," while carried in a motor vehicle.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-13</num>
+    <heading>Exceptions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Restrictions in <cite path="|II|321">this chapter</cite>, except for violations of <cite path="§321-7">§ 321-7</cite>A(1) or (2), shall not apply to law enforcement personnel while conducting their official, legal, and authorized duties.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Nothing in <cite path="|II|321">this chapter</cite> permits the possession of firearms illegal to possess under federal law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-14</num>
+    <heading>Providing false information prohibited.</heading>
+    <text>A person who knowingly makes a false statement regarding citizenship or identity or other information on an application for a concealed carry permit shall be guilty of providing false information. Any person found guilty shall be subject to a fine of $500, shall have their concealed carry permit revoked, and the person shall be permanently ineligible for a tribal concealed carry permit.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-15</num>
+    <heading>Forfeiture and disposition of firearms.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to any requirements for the forfeiture and disposition of weapons in any penalty sections of <cite path="|II|321">this chapter</cite>, the Menominee Tribal Court may order forfeiture and disposition of weapons and firearms which are proved to be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Found concealed on a person not authorized by tribal law to carry a concealed weapon, provided that it is an absolute defense to forfeiture if the person possessed a valid Menominee concealed carry permit within the preceding two years and has not become ineligible for a concealed carry permit in the interim. Before the firearm may be returned, the person must submit a new tribal application, pay the renewal fees.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the possession of a person prohibited from possessing the firearm or weapon.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the possession of a person who is any place in which a concealed carry permit is required and who is under the influence of any drug or under the influence of intoxicating beverage.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the possession of a person free on bail or personal recognizance pending trial, appeal, or sentencing for a tribal crime in which a firearm was used or displayed.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In possession of a person found to have been mentally incompetent while in possession of a firearm when apprehended.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Used, possessed, or displayed by a person in the violation of a proper written order of the Court.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Used in the commission of a crime in which a firearm was used or displayed.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Used in the commission of any crime against any person or any attempt to commit any crime against any person.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In violations that may result in forfeiture of weapons or firearms, the Court shall consider case-specific factors, including but not limited to the seriousness of the offense and nature of the crime, the manner in which it was committed, and the impact on victims, regret or remorse expressed by the defendant, whether an education of weapons use, such as a hunters' safety course, might be an reasonable alternative to forfeiture.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Upon order of forfeiture, the Court in its discretion may order the destruction or disposition of any forfeited firearm. Nothing in this section shall prohibit the retention of firearms needed for evidence.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-16</num>
+    <heading>Severability.</heading>
+    <text>If any portion of <cite path="|II|321">this chapter</cite> is found to be unconstitutional or in violation of applicable federal law, the remainder of <cite path="|II|321">this chapter</cite> shall remain in effect.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>321-17</num>
+    <heading>When effective; replacement of existing provisions.</heading>
+    <text><cite path="|II|321">This chapter</cite> shall take effect upon final approval by the Menominee Tribal Legislature and specifically replaces <cite path="|I|120">Chapter 120</cite>, Attachment 1, Section 11.40.</text>
+    <annotations/>
+  </section>
+</container>

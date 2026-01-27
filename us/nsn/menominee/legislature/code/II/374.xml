@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>374</num>
+  <heading>HOTELS AND RESTAURANTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Hotel room tax — See <cite path="|I|200|II">Ch. 200, Art. II</cite>. Alcoholic beverages — See <cite path="|II|250">Ch. 250</cite>.</annotation>
+    <annotation type="General References">Food handling — See <cite path="|II|335">Ch. 335</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|374|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Liability of Hotelkeeper [Adopted 9-16-1994 by Ord. No. 94-16]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>374-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|374|I">This article</cite> shall be titled "Liability of a Hotelkeeper."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-2</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|374|I">this article</cite> is to limit the liability of an innkeeper at the Gaming Corporation Hotel for the loss of a guest's goods in the event of a fire or when not caused by the theft or gross negligence of such hotelkeeper or his servants.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|374|I">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Gaming Corporation Hotel.</text>
+      <text>HOTELKEEPER — The hotelkeeper at the Menominee Gaming Corporation Hotel.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-4</num>
+      <heading>General provisions.</heading>
+      <text>The following provisions have been approved by the Menominee Tribal Legislature and enacted into law:</text>
+      <para>
+        <num>A.</num>
+        <text>Liability of hotelkeeper for loss of property by fire or theft; owner's risk. A hotelkeeper is not liable for the loss of baggage or other property of a hotel guest by a fire unintentionally produced by the hotelkeeper. Every hotelkeeper is liable for loss of baggage or other property of a guest caused by theft or gross negligence of the hotelkeeper. The liability may not exceed $200 for each trunk and its contents, $75 for each suitcase or handbag and its contents and $10 for each box, bundle or package and its contents, so placed under the care of the hotelkeeper, and $50 for all other effects, including wearing apparel and personal belongings, unless the hotelkeeper has agreed in writing with the guest to assume a greater liability. When any person permits his or her baggage or property to remain in any hotel after the person's status as a guest has ceased or forwards the baggage or property to a hotel before becoming a guest and the baggage or property is received into the hotel, the hotelkeeper holds the baggage or property at the risk of the owner.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Hotelkeeper's liability for baggage; limitation. Every guest and intended guest of any hotel, upon delivering to the hotelkeeper any baggage or other property for safekeeping elsewhere than in the room assigned to the guest, shall demand and the hotelkeeper shall give a check or receipt to evidence the delivery. No hotelkeeper shall be liable for the loss of or injury to the baggage or other property of a hotel guest, unless it was delivered to the hotelkeeper for safekeeping or unless the loss or injury occurred through the negligence of the hotelkeeper.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Hotelkeeper's liability.</text>
+        <para>
+          <num>(1)</num>
+          <text>A hotelkeeper who complies with <cite path="§374-4|C|(2)">Subsection C(2)</cite> is not liable to a guest for loss of money, jewelry, precious metals or stones, personal ornaments or valuable papers which are not offered for safekeeping.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To secure exemption from liability the hotelkeeper shall do all of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Have doors on sleeping rooms equipped with locks or bolts.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Offer, by notice printed in large plain English type and kept conspicuously posted in each sleeping room, to receive valuable articles for safekeeping and explain in the notice that the hotel is not liable for loss unless articles are tendered for safekeeping.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Keep a safe or vault suitable for keeping the articles and receive them for safekeeping when tendered by a guest, except as provided in <cite path="§374-4|C|(3)">Subsection C(3)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A hotelkeeper is liable for loss of articles accepted for safekeeping up to $300. The hotelkeeper need not receive for safekeeping property over $300 in value. <cite path="§374-4|C.|(3)">This subsection</cite> may be varied by written agreement between the parties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|374|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Fraud on Hotel or Restaurant Keeper [Adopted 9-16-1994 by Ord. No. 94-17]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>374-5</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|374|II">This article</cite> shall be titled "Fraud on Hotel or Restaurant Keeper."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-6</num>
+      <heading>Purpose.</heading>
+      <text><cite path="|II|374|II">This article</cite> provides that any person having obtained any food, lodging, or any other service or accommodation at the Gaming Corporation Hotel or Restaurant who intentionally absconds without paying for it may be fined or be imprisoned, or both.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-7</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|374|II">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Gaming Corporation Hotel.</text>
+      <text>HOTELKEEPER — The hotelkeeper at the Menominee Gaming Corporation Hotel. RESTAURANT — The Menominee Gaming Corporation Restaurant.</text>
+      <text>RESTAURANT KEEPER — The restaurant keeper at the Menominee Gaming Corporation Restaurant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>374-8</num>
+      <heading>Prohibited acts.</heading>
+      <text>The following provisions have been approved by the Menominee Tribal Legislature and enacted into law:</text>
+      <para>
+        <num>A.</num>
+        <text>Whoever does any of the following may be penalized as provided in Subsection C:</text>
+        <para>
+          <num>(1)</num>
+          <text>Having obtained any beverage, food, lodging or other service or accommodation at the hotel or restaurant, intentionally abscond without paying for it.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>While a guest at the hotel and restaurant, intentionally defraud the keeper thereof in any transaction arising out of the relationship as guest.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Under this section, prima facie evidence of an intent to defraud is shown by:</text>
+        <para>
+          <num>(1)</num>
+          <text>The refusal of payment upon presentation when due and the return unpaid of any bank check or order for the payment of money given by any guest at the hotel or restaurant in payment of any obligation arising out of the relationship as guest. Those facts also constitute prima facie evidence of an intent to abscond without payment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The failure or refusal of any guest at the hotel or restaurant to pay, upon written demand, the established charge for any beverage, food, lodging or other service or accommodation actually rendered.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The giving of false information on a lodging registration form or the giving of false information or presenting of false or fictitious credentials for the purpose of obtaining any beverage or food, lodging or credit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The drawing, endorsing, issuing or delivering to the hotel or restaurant of any check, draft or order for payment of money upon any bank or other depository, in payment of established charges for any beverage, food, lodging or other service or accommodation, knowing at the time that there is not sufficient credit with the drawee bank or other depository for payment in full of the instrument drawn.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Penalties. Whoever violates this section, upon conviction in a court of competent jurisdiction, shall pay a penalty as follows in addition to restitution:</text>
+        <para>
+          <num>(1)</num>
+          <text>A fine not to exceed $2,500 and/or six months in jail when the value of any beverage, food, lodging, accommodation or other service is $1,000 or less.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A fine not to exceed $5,000 and/or one year in jail when the value of any beverage, food, lodging, accommodation or other service exceeds $1,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Fraud on hotel or restaurant keeper; civil liability. Nothing in <cite path="|II|374|II">this article</cite> shall prohibit the hotel from pursuing all civil remedies available to it.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

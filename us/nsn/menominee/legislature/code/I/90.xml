@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>90</num>
+  <heading>GAMING AUTHORITIES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Gaming — See <cite path="|II|347">Ch. 347</cite>.</annotation>
+    <annotation type="General References">Gaming Authority Charters — See <cite path="|IV|660">Ch. 660</cite>.</annotation>
+    <annotation type="General References">Gaming Council Corporation Charter — See <cite path="|IV|663">Ch. 663</cite>. Gaming Venture Corporation Charter — See <cite path="|IV|667">Ch. 667</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|90|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Menominee Indian Gaming Authority</heading>
+    <annotations>
+      <annotation type="History">Adopted 6-5-1997 by Ord. No. 97-06; amended in its entirety 1-3-2008</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>90-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this amendment is to reorganize the Menominee Indian Gaming Authority under Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin ("Tribe") and to adopt a Charter ("Charter") for the Menominee Indian Gaming Authority.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§90-2">
+      <prefix>§</prefix>
+      <num>90-2</num>
+      <heading>Continuity of operation.</heading>
+      <para>
+        <num>A.</num>
+        <text>This amendment reorganizes the existing Menominee Indian Gaming Authority (MIGA). The Menominee Indian Gaming Authority, as reorganized by <cite path="|I|90|I">this article</cite>, shall continue to hold, control, manage and operate all properties, whether tangible or intangible, operations, obligations, contract rights, licenses and other rights and inurements of the Menominee Indian Gaming Authority, as established pursuant to Tribal Ordinance No. 97-06, adopted by the Tribal Legislature on March 4, 2004,<fn path="|I|§90-2|footnotes|1">1</fn> and shall automatically, upon the effective date of <cite path="|I|90|I">this article</cite>, succeed, without need of any further act or instrument, whether of conveyance or otherwise, to all interests whatsoever of its predecessor in interest in, and to hold, control, manage and operate all such properties, whether tangible or intangible, operations, contract rights, licenses and other rights and inurements of said predecessor in interest.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In furtherance of the provisions of this section, all valid and binding contractual and other obligations of said predecessor in interest existing on the effective date of <cite path="|I|90|I">this article</cite> are hereby assumed by MIGA, which shall accordingly be obligated to perform in full each and every such contractual or other obligation heretofore entered into or assumed by said predecessor in interest. Moreover, each and every party to any such contract, instrument, document or agreement (other than said predecessor in interest) shall be a third party beneficiary of this section and all other pertinent provisions of <cite path="|I|90|I">this article</cite>, and MIGA shall, upon the effective date of <cite path="|I|90|I">this article</cite>, automatically succeed to all such preexisting contractual and other obligations, without need for any further act or instrument, whether of assumption or otherwise, in favor of any such third party beneficiary.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Ordinance No. 97-06 was originally adopted 6-5-1997 and amended in its entirety 3-4-2004.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-3</num>
+      <heading>Separate existence; proprietary interest for gaming.</heading>
+      <text>The Menominee Indian Gaming Authority is and shall remain a subordinate, wholly owned instrumentality of the Tribe, which maintains sole proprietary interest and responsibility for the gaming operation (as defined in and conducted pursuant to the Charter). As a wholly owned instrumentality of the Tribe, MIGA enjoys an autonomous existence.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-4</num>
+      <heading>Immunity.</heading>
+      <text>Except as set forth in <cite path="§90-6">§ 90-6</cite> herein, the Tribe, in authorizing the establishment of MIGA by Charter, does not waive or limit the right of the Tribe to sovereign immunity from suit and authorizes MIGA to waive or limit its sovereign immunity from suit only as specifically provided for in the Charter. The issuance of the Charter does not waive or limit any exceptions and immunities from taxation to which the Tribe and its instrumentalities are or may in the future be entitled by law.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§90-5">
+      <prefix>§</prefix>
+      <num>90-5</num>
+      <heading>Conduct of gaming.</heading>
+      <text>The Menominee Indian Gaming Authority shall conduct all gaming and gaming-related businesses of the Menominee Indian Tribe that are located on the Menominee Indian Reservation as defined by the 1854 Treaty and the Menominee Restoration Act ("Reservation") in accordance with the Charter.<fn path="|I|§90-5|footnotes|2">2</fn></text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See <cite path="|IV|660|II">Ch. 660, Art. II</cite> of the Code for the Charter.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-6</num>
+      <heading>Noninterference by Tribe.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order to further the goals of MIGA and to promote the independent and successful operation of MIGA, neither the Tribal Legislature nor any committee, agency, or other official body, and no office or official of the Tribe, shall, by exercise of the police power or otherwise:</text>
+        <para>
+          <num>(1)</num>
+          <text>Impose or increase any tax, levy or other payment obligation on MIGA or on any patrons of, or activity at, the gaming operation or on any party to a contractual agreement with MIGA, other than:</text>
+          <para>
+            <num>(a)</num>
+            <text>Payment obligations to fund the payment of fees imposed on the Tribe by the National Indian Gaming Commission under the Indian Gaming Regulatory Act (IGRA), Public Law 100-497, codified as 25 U.S.C. §§ 2701 and 2702, as amended from time to time;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Payment obligations to fund the payment of any amounts payable by the Tribe under the Compact;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Sales, use, transient occupancy or excise taxes imposed by the Tribe where such tax is billed as a separate item, provided that such tax is not imposed at a rate higher than the tax that would be applied to similar transactions in Menominee County, Wisconsin; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any taxes, levies or payment obligations not prohibited by the terms of any contractual agreement entered into by MIGA;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Amend the Constitution, the Compact, the Charter or <cite path="|I|90|I">this article</cite> as in effect at the date of enactment of <cite path="|I|90|I">this article</cite> or take any other action, enter into any agreement, or enact any ordinance, law, rule or regulation if such amendment, agreement, action or enactment would impair the contractual obligations of MIGA or would interfere in any material respect with any right or remedy of a party to a contractual agreement with MIGA, unless the Tribe is required to make such amendment or take such action in order to comply with federal or state law or such action is legitimately necessary to protect the integrity of gaming conducted by MIGA;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Conduct or permit any other entity to conduct the gaming operation within the Reservation other than through MIGA;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Dissolve, reorganize, restructure or rename MIGA, cause MIGA to cease to be a wholly owned and controlled instrumentality of the Tribe or restrict or eliminate the right or ability of MIGA to conduct all of the gaming operation;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Incur any obligation with recourse to the gaming assets, other than as permitted by the terms of any contractual agreement entered into by MIGA;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Enact any bankruptcy law or similar law for the relief of debtors that would impair, limit, restrict, delay or otherwise adversely affect any of the rights and remedies of any party to a contractual agreement with MIGA;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exercise any power of eminent domain over the assets of MIGA or over any property that is used or useful in connection with the operation of the gaming operation other than for the purpose of causing it to be real property dedicated for the use of MIGA;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Permit any lien, other than liens permitted by the terms of any contractual agreement entered into by MIGA, to encumber any portion of the site of the gaming operation or any property used by MIGA in the gaming operation; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Revoke, or attempt to revoke, any waiver of sovereign immunity granted by MIGA.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Chairperson of the Menominee Tribal Legislature is authorized to execute agreements with any person or entity party to a contractual agreement entered into by MIGA allowing enforcement of this section against the Tribe pursuant to binding arbitration, with enforcement of any arbitrator's award through the Tribal Courts, as provided in Article XVIII, Section 2 of the Constitution and Bylaws.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-7</num>
+      <heading>Access to and use of tribal lands.</heading>
+      <text>The Menominee Indian Gaming Authority is hereby granted authorization to enter, use and operate the gaming operation, as defined in Section 5(e) of the Charter, on tribal lands within the Reservation, including but not limited to lands title to which is held by the United States in trust for the benefit of the Tribe and lands title to which is held by the Tribe subject to restrictions by the United States against alienation. Such authorization for MIGA to use and operate the gaming operation on designated tribal lands shall remain in effect for so long as the gaming operation remains in operation, and in any event such authorization shall not expire earlier than 25 years from the initial date of the enactment of <cite path="|I|90|I">this article</cite>, provided that MIGA's authorization to use the tribal lands within the Reservation shall be automatically extended for another twenty-five-year term, so long as the Tribe does not provide notice to MIGA to the contrary at least 90 days prior to the expiration of the initial twenty-five-year term.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-8</num>
+      <heading>Powers specifically reserved from MIGA.</heading>
+      <text>Notwithstanding any other provision of <cite path="|I|90|I">this article</cite> or Charter, MIGA is specifically not authorized to do any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Negotiate or agree to any Class III Gaming Compact;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Bind the Tribe through contract or otherwise;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Create debt or other obligations outside the normal course of business that would have the potential to significantly reduce the net revenues transferred to the Tribe, unless the assumption of such debt or other obligation is authorized by the Tribal Legislature by resolution;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Enter into a management agreement or other agreement that would pay any person or entity a percentage of the gaming operation revenue, unless such agreement is authorized by the Tribal Legislature by resolution; or</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Exercise any regulatory or legislative power or other governmental powers, including but not limited to the power to grant, issue, revoke, suspend or deny licenses and enact legislation regulating gaming on the lands of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§90-9">
+      <prefix>§</prefix>
+      <num>90-9</num>
+      <heading>Funds transferred to Tribe.</heading>
+      <text>The funds distributed by MIGA to the general fund of the Tribe in compliance with Section 9.02 of the Charter shall constitute the "net revenues from gaming," "net gaming revenues," "gaming revenues,"</text>
+      <text>"revenues from Class III gaming," and "net revenues" as such terms are used in the Menominee Indian Tribe of Wisconsin Plan for the Use of Net Revenue from Gaming, Resolution No. 93-40, adopted by the Menominee Tribal Legislature on June 18, 1993, and approved by the United States Department of the Interior on December 9, 1994 (the "plan"), which are available for allocation and distribution under the plan.<fn path="|I|§90-9|footnotes|3">3</fn></text>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: The Menominee Indian Gaming Authority Charter, which immediately followed this section, has been included in <cite>Part IV</cite>, Charters, of the Code as <cite path="|IV|660|II">Ch. 660, Art. II</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|90|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Menominee Kenosha Gaming Authority [Adopted 2-3-2005 by Ord. No. 04-55]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>90-10</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|90|II">this article</cite> is to delegate certain governmental powers of the Menominee Indian Tribe to the Menominee Kenosha Gaming Authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-11</num>
+      <heading>Authority.</heading>
+      <text>This delegation of governmental powers is done pursuant to Article XIII, Section 4(a) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>90-12</num>
+      <heading>Delegation of power.</heading>
+      <text>The Menominee Indian Tribe delegates to the Menominee Kenosha Gaming Authority the power to enact, maintain, and enforce ordinances and regulations governing lands held in trust for the Menominee Indian Tribe located in Kenosha, Wisconsin, that are substantially similar to those adopted by the Menominee Indian Tribe of Wisconsin pursuant to <cite path="|III|594">Chapter 594</cite>, Kenosha Trust Lands, of this Code.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

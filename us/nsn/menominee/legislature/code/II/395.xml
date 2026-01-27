@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|395">
+  <prefix>Chapter</prefix>
+  <num>395</num>
+  <heading>LANGUAGE AND CULTURE CODE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-13-1996 by Ord. No. 96-22; amended in its entirety 10-12-2006. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>395-1</num>
+    <heading>Declaration of policy.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee language is a gift from Mamaw-Kohnenaw to our people and, therefore, shall be treated with respect. Our ancient language is the foundation of our cultural and spiritual heritage without which we could not exist in the manner that our Mamaw-Kohnenaw intended.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Since education is, in part, the transmission of culture and values, we declare that all education, from early childhood through postsecondary, within the exterior boundaries of the Menominee Nation shall include the systematic transmission of our Menominee language, culture, and values.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It shall be the policy of the Menominee Nation that tribal members or entities shall not be coerced by any outside individual, group, nontribal authority, or system to deny or debase the Menominee language and culture.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>We declare that these language policies shall manifest consideration of the whole person, incorporating high academic achievement with the spiritual, mental, physical, and cultural aspects of the individual within the context of the family and the Menominee Nation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In keeping with Article 27 of the International Covenant on Civil and Political Rights of the Universal Declaration of Human Rights adopted by the General Assembly of the United Nations, we, the Menominee Nation, declare that all persons within our borders belonging to nonethnic, religious, or linguistic minorities shall not be denied the right in community with other members of their group to enjoy their own culture, to profess and practice their own religion, or to use their own language(s).</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>We, therefore, have enacted <cite path="|II|395">this chapter</cite> to reaffirm our Nation's commitment to the promotion, protection, preservation, and enhancement of our Menominee language, culture, and tradition. <cite path="|II|395">This chapter</cite> shall hereafter be in effect within the exterior boundaries of the Menominee Nation and shall be applicable to all schools, institutions, programs, and administrations within these boundaries.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-2</num>
+    <heading>Reciprocity of language use.</heading>
+    <text>In our policy declaration we have stated adherence to the doctrine in Article 27 of the International Covenant on Civil and Political Rights and we have accorded the right to all peoples without our boundaries to enjoy their own culture, to profess and practice their own religion, and to use their own language(s). The United States government, along with other United Nations members, adopted this Covenant within the Universal Declaration of Human Rights. Thus, we rely on the reciprocal adherence to this doctrine by all peoples and the member states of the United Nations specifically as it pertains to the right of language use and cultural practice.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-3</num>
+    <heading>Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>The authority to establish <cite path="|II|395">this chapter</cite> that shall pertain to all members, all education programs, and institutions within the exterior boundaries of the Menominee Nation is derived from the inherent sovereign power of the Menominee Nation, international law, and the United States federal statutes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>United States constitutional law concerning Indian Nations is unique and separate from the rest of American jurisprudence. Indian law encompasses international law, specific provisions of the United States Constitution, precolonial treaties, numerous treaties of the United States with Indian tribes, a body of congressionally enacted public laws, an entire volume of the United States Code, and numerous decisions of the United States Supreme Court and lower federal courts.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Although states do not have jurisdiction within our territory, the Menominee Nation shall work cooperatively with the State of Wisconsin and any state to ensure a quality education for our citizens.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The authority of the Menominee Nation to establish language and culture law is further derived from the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Constitution and Bylaws of the Menominee Nation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Menominee Treaty, 1831;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Menominee Treaty, 1832;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Menominee Treaty, 1836;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Menominee Treaty, 1848;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Menominee Treaty, 1854;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Menominee Treaty, 1856;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Menominee Restoration Act, 25 U.S.C. § 903 et seq.;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Indian Self-Determination and Education Act, 25 U.S.C. § 450 et seq.;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>American Indian Religious Freedom Act, 42 U.S.C. § 1966</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Indian Child Welfare Act, 25 U.S.C. § 1901;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Indian Education Act, 25 U.S.C. § 2013;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Archaeological Resources Protection Act of 1979;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Native American Graves Protection and Repatriation Act of 1979; and</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>All other United States Supreme Court decisions, federal statutes, and executive orders recognizing the sovereign powers of the Menominee Nation.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>We rely on Public Law 100-297 (Section 5106) that guarantees that the Assistant Secretary of the United States Department of the Interior "shall provide comprehensive multicultural and multilingual education programs including the production and use of instructional materials, culturally appropriate methodologies and teaching and learning strategies that will reinforce, preserve and maintain Indian and Alaska Native languages, cultures, and histories."</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>We rely on Public Law 101-477 (Section 104), the Native American Language Act of 1990, that declared it is the policy of the United States to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Allow exceptions to teacher certification requirements for federal programs, and programs funded in whole or in part by the federal government, for instruction in Native American language when such teacher certification requirements hinder the employment of qualified teachers who teach in Native American languages and to encourage state and territorial governments to make similar exceptions;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Encourage and support the use of Native American languages as the medium of instruction in order to encourage and support:</text>
+        <para>
+          <num>(a)</num>
+          <text>Native American language survival;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Education opportunity;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Increased student success and performance;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Increased student awareness and knowledge of their culture and history; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Increased student and community pride;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Encourage state and local education programs to work with Native American parents, educators, Indian tribes, and other Native American governing bodies in the implementation of programs to put this policy into effect;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Recognize the right of Indian tribes and other Native American governing bodies to use the Native American languages as a medium of instruction in all schools funded by the Secretary of the Interior;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Fully recognize the inherent rights of Indian tribes and other Native American governing bodies, states, territories, and possessions of the United States to take action on and give official status to their Native American languages for the purpose of conducting their own business;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Support the granting of comparable proficiency achieved through course work in a Native American language the same academic credit as comparable proficiency achieved through course work in a foreign language, with recognition of such Native American language proficiency by institutions of higher education as fulfilling foreign language entrance or degree requirements; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Encourage all institutions of elementary, secondary, and higher education, where appropriate, to include Native American languages in the curriculum in the same manner as foreign languages and to grant proficiency in foreign languages and proficiency in Native American languages with the same full credit.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>We rely on the Native American Languages Act of 1992 (Section 803B) that provides grants "to assure the survival and continuing vitality of Native American languages" through the Administration for Native Americans to tribal governments to enable them to conduct activities in support of language development and preservation.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>We also rely on the protection of the United States Congress, which body has "the limits of a state (US v. Sandaval, cite omitted) and the legal guarantees for advocacy in Public Law 100-297 on behalf of the federally recognized tribes which guarantees that the Assistant Secretary of the United States Department of the Interior shall serve as an advocate for Indian tribes and Alaska Native entities in education matters before the federal, state, and local governments; shall assume an assertive role in coordinating comprehensive support for Indian and Alaska Native students internally and from other agencies in education...and other related federal, state, and local programs and services; shall serve as an advocate and carry out responsibilities for Indian and Alaska Native students in public and other non-Bureau-operated schools consistent with the wishes of the appropriate Indian tribes and Alaska Native entities."</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-4</num>
+    <heading>General application.</heading>
+    <para>
+      <num>A.</num>
+      <text>In light of these doctrines, Supreme Court decisions and laws, the reciprocities inherent in the Indian Nations and United States government-to-government relationship and the good will and integrity of the State of Wisconsin and other states, we declare that this Language and Culture Code of the Menominee Nation shall apply to all enrolled Menominee members and first- and second-degree Menominee descendants.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>We further declare that the Menominee Nation shall exercise "self-determination and control in all aspects of the education process, pertaining to planning, priority setting, development, management, operation, staffing, and evaluation" as guaranteed in Public Law 100-297 (Section. 5106).</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 5-16-2024 by Ord. No. 24-19</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-5</num>
+    <heading>Status of Menominee language.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee language is the indigenous language of the Menominee Nation. Since time immemorial, the Menominee language has been, and will continue to be, our mother or native tongue which is our natural instrument of thought and communication.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee language is the official language of the Menominee Nation and may be used in the business of government, legislative, executive, and judicial, although in deference to and out of respect to speakers of English, that language may be utilized in official matters of government. The Constitution and Bylaws of the Menominee Nation and certain other official documents may be translated into the Menominee language. All traffic signs, business signs, office signs, and other public signs within the Reservation boundaries may be printed in the official Menominee language and the English language.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>We declare that the Menominee language is a living and vital language that has the ability to match and even surpass any other in the world for expressiveness and beauty. Our language is capable of lexical expansion into modern conceptual fields, such as the fields of politics, economics, mathematics, sciences, and arts.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Be it known that the Menominee language shall be recognized as our first language and the English language shall be recognized as our second language.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>We assert that our students are fully capable of fluency in the Menominee language and the English language, and we further assert that the high level of Menominee language fluency results in higher levels of English and other language skills.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-6</num>
+    <heading>Parent involvement.</heading>
+    <text>It shall be the policy of the Menominee Nation to encourage parents to help their children to become fluent in the Menominee and English languages. It shall further be the policy of the Menominee Nation to involve parents, grandparents, and the extended family to the greatest extent possible in the promotion, protection, maintenance, and instruction of the Menominee language and culture. Menominee families are encouraged to fully participate in all Menominee language activities.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-7</num>
+    <heading>Eminent Persons or Kaeqc-Kehkenamok.</heading>
+    <text>It is acknowledged that among the Menominee People there are certain persons who possess knowledge above and beyond that which is attained by academics with degrees. These people of cultural and linguistic knowledge are hereby recognized as Eminent Persons, or Kaeqc-Kehkenamok. It is the policy of the Menominee Nation to utilize these Eminent Persons or Kaeqc-Kehkenamok to the greatest extent possible in providing language and cultural instruction to our children, youth, and our students at our postsecondary institution. This policy shall include ethics, world view, oral histories, the Menominee political history, the arts, crafts, dance, music, etc. Eminent Persons or Kaeqc-Kehkenamok are hereby recognized to have the same status as full professors at any university. Such Eminent Persons or Kaeqc-Kehkenamok shall receive compensation with their status in compliance with Public Law 101-447 (Section 104).</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-8</num>
+    <heading>Menominee language to be an integral part of all school curricula.</heading>
+    <para>
+      <num>A.</num>
+      <text>Pertinent to the laws cited in <cite path="§395-3">§ 395-3</cite> of <cite path="|II|395">this chapter</cite>, it shall be the policy of the Menominee Nation to vigorously advocate for the utilization of the Menominee language as a medium of instruction for Menominee tribal members who are students at off-Reservation boarding schools. It is a policy of the Menominee Nation that best efforts shall be made to advocate for such instruction within our jurisdiction at all levels beginning in preschool through college. At all levels, beginning with preschool, a minimum of one hour or one class period per day of basic conversational use of the Menominee language should be provided. Video, radio programs, etc., should be utilized to implement this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Menominee stories, music, dance, culture, and history should be integrated into all curricula as defined in <cite path="§395-9">§ 395-9</cite> of <cite path="|II|395">this chapter</cite>. Such a policy would include the design and implementation of the Menominee language and culture curricula by enrolled Menominee or first- and second-degree Menominee descendant educators for all subjects in all schools and institutions within the exterior boundaries of the Menominee Nation. In the Fiscal Year 97-98 school year, the short-term curricula would be developed to include a preschool to fifth grade emphasis. Our long-range plan includes the following elements:</text>
+      <para>
+        <num>(1)</num>
+        <text>In Fiscal Year 98-99, the Menominee language and culture curricula would be implemented for grades six through eight.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In Fiscal Year 99-2000, Menominee language and culture curricula would be implemented for grades nine through 10.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In Fiscal Year 2000-2001, the Menominee language and culture curricula would be implemented for grades 11 through 12.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In Fiscal Year 97-98, the two postsecondary institutions, Native American Education Services (NAES) and the College of the Menominee Nation would offer instruction in beginning Menominee.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In Fiscal Year 99-2000, the two postsecondary institutions would offer classes in instructional strategies and methodologies for teachers of the Menominee language and culture.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In Fiscal Year 97-98, Menominee Language Program planning would begin and in the fall of 1998 a full Menominee Language Program would begin in the day-care and head start program for the entire school year.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Staff in-service training in the Menominee language shall be an ongoing process.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-16-2024 by Ord. No. 24-19</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-9</num>
+    <heading>Teacher, faculty, administrator, guidance counselor and support staff competencies for language instruction.</heading>
+    <para>
+      <num>A.</num>
+      <text>Preservice training. In order to prepare teachers who will share with parents their aspirations for the maintenance of the Menominee language and culture, the Menominee Nation encourages all schools of education at nearby colleges and universities to provide preservice training in Menominee language theory and methodology for teachers preparing to teach Menominee children. Schools of education are encouraged to provide appropriate preservice training toward the understanding and appreciation of the Menominee language and culture so that teachers can knowledgeably teach appropriate curricula. The Menominee Language and Culture Code Commission and/or Curriculum Director will provide consultation to cooperating institutions regarding Menominee learning styles and appropriate teaching strategies which will prepare the potential teacher of Menominee children with competencies in teaching.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Professional development training with the Menominee Language and Culture Commission. Menominee language teachers shall continue to develop their language skills after receiving their certification pursuant to <cite path="|II|395">this chapter</cite>. All teachers are required to perform the following duties in furtherance of this goal:</text>
+      <para>
+        <num>(1)</num>
+        <text>Weekly meetings with Menominee Language and Culture Commission. All certified language teachers are required to meet with fluent speakers of the Menominee language as scheduled by the Menominee Language and Culture Commission. The goal of these sessions is to enhance the teachers' speaking abilities so that they become fluent speakers of the Menominee language. These sessions are mandatory for all teachers and shall be held as scheduled at the offices of the Menominee Language and Culture Commission. Teachers are required to attend the entire session and bring their lexicon and English to Menominee booklet. Teachers will be notified by telephone and letter of each mandatory session. Each teacher's employer will be sent a copy of these meeting notices, and a record of attendance for each teacher shall be kept in his or her file. Teachers are required to submit lesson plans to the Director of the Menominee Language and Culture Commission at said weekly meetings. All lesson plans must comply with any adopted or proposed curriculum approved by the Menominee Language and Culture Commission. Teachers must bring a tape recorder and tapes and record correct pronunciation of all words contained in their lesson plans by Menominee Elders present at the weekly meetings. The Menominee Language and Culture Commission has the right to deny any lesson plan it deems inappropriate for content or grade level. The Menominee Language and Culture Commission has the authority to revoke the certification of any teacher who misses three mandatory meetings in a one-month period scheduled pursuant to this section without a valid excuse, such as death in immediate family, doctor's excuse, or similar excuses as determined by the Language and Culture Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Grammar testing. All teachers must be able to read, write, and speak the Menominee language with correct pronunciation. Teachers must also be aware of the grammatical concepts of the Menominee language. Teachers shall attend mandatory classes for grammar. These grammar classes shall be set by the Director of the Menominee Language and Culture Commission. Each teacher shall be given a grammar test annually from the date of their certification and must receive a score of 65 or better to pass said test. The grammar test shall include, but not be limited to, the following: knowledge of nouns, verbs, pronouns, possessives, tenses, and loc suffix as well as first, second and third person form. Failure to pass the annual grammar test shall be cause for revocation of the teacher's certification issued pursuant to <cite path="§395-10">§ 395-10</cite> of <cite path="|II|395">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Periodic testing and testing on demand. The Menominee Language and Culture Commission shall conduct periodic testing on teachers' grammar and verbal competencies. Teachers must receive a score of 65 or better to pass the grammar test and receive a score of 90% or better to pass the verbal test. The verbal test shall be administered by fluent speakers of the Menominee language, two secondary speakers who have been certified pursuant to <cite path="|II|395">this chapter</cite>, the Director of the Menominee Language and Culture Commission, and the Chairperson of the Menominee Language and Culture Commission. Failure to pass either test shall be cause for revocation of the teacher's certification issued pursuant to <cite path="§395-10">§ 395-10</cite> of <cite path="|II|395">this chapter</cite>. The Menominee Language and Culture Commission also has the authority to demand that any teacher certified pursuant to <cite path="|II|395">this chapter</cite> take a grammar or verbal test upon notice. Teachers will be notified by certified letter of said grammar or verbal test. Teachers must receive a score of 65 or better to pass the grammar test and must receive a score of 90% or better to pass the verbal test. Failure to pass either test shall be cause for revocation of the teacher's certification issued pursuant to <cite path="§395-10">§ 395-10</cite> of <cite path="|II|395">this chapter</cite>. Teachers must also possess knowledge of the State of Wisconsin standards for language acquisition.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Random inspections. The Menominee Language and Culture Commission shall conduct random inspections in classrooms where Menominee language is taught. Administrators of institutions where the Menominee language is taught are encouraged to conduct classroom observations as well. The Menominee Language and Culture Commission has the authority to demand that any teacher certified under <cite path="|II|395">this chapter</cite> take a grammar or verbal test based on its observations in said inspections. Teachers must receive a score of 65 or better to pass the grammar test and must receive a score of 89% or better to pass the verbal test. Failure to pass either test shall be cause for revocation of the teacher's certification issued pursuant to <cite path="§395-10">§ 395-10</cite> of <cite path="|II|395">this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In-service training.</text>
+      <para>
+        <num>(1)</num>
+        <text>All teachers, faculty, administrators, guidance counselors, and support staff working within the exterior boundaries of the Menominee Reservation shall make every effort to comply with the Menominee Nation's language and culture laws. In-service training shall include but not be limited to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Attainment of a minimal progression to acquiring Menominee language fluency at the rate of six sentences per week in the following categories determined to be integral to communication and to the teaching and learning process: words of courtesy, protocol and greeting; kinship terminology; environmental and ecological terminology; classroom objects and behavior; clothing; days of the week; seasons; colors; numbers; directions; animals, birds, insects and other fauna and flora; food and drink; oral histories; origin stories; songs; and other terminology that may be determined by the Menominee Language and Culture Commission and/or the Curriculum Director. Best efforts shall be made to achieve the following minimal competencies of each teacher, faculty, support staff member, guidance counselor, and administrator by the end of the school year: basic vocabulary of 400 words, a basic knowledge of tenses, an ability to ask questions in five basic ways (who, what, where, why, and when), and an ability to answer 10 simple questions. Each must know the Menominee names of the American Indian Nations located within the State of Wisconsin. Each must know the Menominee names of 15 towns or villages, five rivers, 10 lakes, and five geographical sites, such as valleys, mountains, and other significant locations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Attainment of a working knowledge of Menominee learning style and teaching strategies appropriate to such styles. Teachers need to understand that the English to Menominee to English thought processes are complex; therefore, in the classroom, parent-teacher conferences, and during home visits, teachers should appreciate and be responsive to this communication mode.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Attainment of a working knowledge of the Menominee historic location, history of treaties and laws pertaining to the governmental structure of the Menominee Nation, including its sovereign status, its government-to-government relationship with the federal government, and documents listed in <cite path="§395-3">§ 395-3</cite> of <cite path="|II|395">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Attainment of protocols and social skills to effectively involve parents, grandparents, and the extended family in a variety of activities supportive of Menominee language fluency.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Attainment of an understanding that Menominee ethics and cultural values, including generosity, peacefulness, honesty, humility, honoring women, respect for all creation, bravery or fortitude, wisdom and traditional Menominee family values, shall be taught through the curricula. Values such as individualism, mercantilism, and acquisitiveness shall be taught as survival skills.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The required Menominee language and cultural in-service training shall be conducted in a manner and at times to be determined by the Menominee Language and Culture Commission and/or Curriculum Director in cooperation with school administrators. Employment agreements/contracts shall stipulate that the above competencies are to be acquired by each employee. Upon signing, the employee agrees to comply with this section and all sections of the Menominee Nation's Language and Culture Code. Periodic evaluations by school administrators and the Menominee Language and Culture Commission and/or Curriculum Director shall be conducted to assess each employee's level of attainment of these competencies.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All certified teachers of the Menominee language are encouraged to attend language conferences to enhance their skills of teaching the Menominee language.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-10</num>
+    <heading>Certification for language instruction teachers and teacher aides.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Language and Culture Commission and/or Director, through the auspices of the Menominee Nation, shall grant certification for Menominee language and cultural education instruction to enrolled Menominee individuals or first- or second-degree Menominee descendants who present satisfactory evidence that they:</text>
+      <para>
+        <num>(1)</num>
+        <text>Possess competence in the Menominee language by passing the verbal test referred to in <cite path="§395-9|B">§ 395-9B</cite> above;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Possess a broad understanding of Menominee history, values, and culture by passing a test on said topics administered by the Menominee Language and Culture Commission. The Menominee Language and Culture Commission shall provide each prospective teacher with study materials regarding what knowledge of Menominee history, values, and culture teachers should possess;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Attend each classroom on the Menominee Indian Reservation where the Menominee language is taught by a teacher certified under <cite path="|II|395">this chapter</cite> at least one time per month for a period of one year;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Attend meetings with Menominee Elders fluent in the Menominee language as scheduled by the Menominee Language and Culture Commission; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Attended a class on classroom management.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Certification issued under <cite path="|II|395">this chapter</cite> shall be valid for a period of one year. Certifications may be renewed in one-year increments, provided that teachers pass the grammar and verbal tests referred to in <cite path="§395-9|B">§ 395-9B</cite> at the expiration of their certification period, and teachers will be notified of the need to pass the grammar, history and culture, and verbal tests described in <cite path="§395-9|B">§ 395-9B</cite> to renew their certification. Teachers must receive a score of 65 or better to pass the grammar test and must receive a score of 90% or better to pass the verbal test.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any time the Menominee Language and Culture Commission contemplates revoking a certification issued under <cite path="|II|395">this chapter</cite>, it shall provide notice to the teacher whose certification is to be revoked. Said notice shall list the reasons for revocation and inform the affected teacher of his or her opportunity to respond and be heard by the Menominee Language and Culture Commission. Upon receipt of said notice, the affected teacher shall have 10 business days to deliver a response to the Menominee Language and Culture Commission. The affected teacher may also request a hearing with the Menominee Language and Culture Commission in his or her response. If the hearing is requested, it must be scheduled within 30 days of receipt by the Menominee Language and Culture Commission. The hearing may occur at a regularly scheduled meeting of the Menominee Language and Culture Commission. The Menominee Language and Culture Commission must act to either revoke or not revoke the affected teacher's certification within 10 business days of said hearing and must notify the affected teacher via certified mail. The decision reached by the Menominee Language and Culture Commission regarding revocation of a certification issued under <cite path="|II|395">this chapter</cite> shall be final and may not be appealed to any other body, including but not limited to the Menominee Tribal Legislature or the Menominee Tribal Court. This evidence shall be submitted with a letter of application for certification to the Menominee Language and Culture Commission. The Menominee Language and Culture Commission will test and review competencies which shall include at minimum those described in <cite>Subsections A and B</cite>.</text>
+      <para>
+        <num>(1)</num>
+        <text>Compensation. A Menominee language teacher holding a certificate under this section shall be compensated according to a salary schedule which is equivalent to a teacher holding a Wisconsin Department of Public Instruction (DPI) license and working within the exterior boundaries of the Menominee Reservation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Hiring. In hiring Menominee language and culture instructors, the Menominee Language and Culture Commission may assist school administrators in designing procedures for the recruitment, certification, screening, and selection of applicants. Indian preference and Menominee tribal preference, <cite path="|I|170">Chapter 170</cite>, Article I of this Code, shall prevail.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Provisional certificate. A provisional certificate may be given a person who is fluent in the Menominee language but does not possess sufficient knowledge of grammar or other qualities of the language, culture, or history for full certification. This provisional certificate shall allow the person to act as a substitute teacher for a certified Menominee language teacher, provided that the provisionally certified teacher can pass the required background check for teachers. Such provisional certificate shall be good for a period of one year from the date of issuance, during which period the person so certified works to become fully certified. A provisional certificate shall be issued only once to any applicant and is not renewable.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 5-16-2024 by Ord. No. 24-19</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-11</num>
+    <heading>Student certification.</heading>
+    <para>
+      <num>A.</num>
+      <text>Student certification may be awarded to day-care, head start, and kindergarten through 12th grade students who attain excellence in the areas of traditional Menominee dance, songs, wild ricing, maple sugar gathering, herbal knowledge, games, forestry/ecological knowledge, history, language, regalia construction, arts, crafts, and storytelling/orations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The certification may be awarded by the Menominee language teacher, Chairperson of the Menominee Language and Culture Commission, or the Chairperson of the Tribal Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§395-12">
+    <prefix>§</prefix>
+    <num>395-12</num>
+    <heading>Establishment of Language and Culture Commission and Director; hiring of Curriculum Director.<fn proof="needed" path="|II|§395-12|footnotes|1">1</fn></heading>
+    <para>
+      <num>A.</num>
+      <text>In order to implement these laws there shall be established the Language and Culture Commission under the auspices of the Menominee Language and Culture Code. The Commission shall meet monthly (and as deemed necessary), and the Director shall submit a written report as necessary to the Tribal Legislature. All meetings of the Commission, except executive sessions, shall be open to the public, and any member of the Menominee Tribe may express opinions about findings and language and culture issues during the meetings. Minutes of each meeting shall be kept and shall be disseminated to tribal members upon request. The Commission members shall be compensated at the rate set by the Tribal Legislature if they engage in work related to Commission activities. The Commission shall establish bylaws subject to approval by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission shall establish requirements for the position of Director of the Commission with the assistance of the Tribal Human Resources Department. The Director shall serve at the pleasure of the Commission subject to tribal employment law.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission and Director shall arrange with the Tribal Human Resources Department for the hiring of a Curriculum Director. The Curriculum Director shall be supervised, evaluated, disciplined, or terminated by the Director with the advice and consent of the Commission in accordance with tribal employment law and shall be consistent with the Memorandum of Understanding between the Tribe and the Menominee Indian School District (copy attached hereto).<fn path="|II|§395-12|footnotes|2">2</fn></text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: The Memorandum of Understanding is on file with the office of the Tribal Chairperson.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-13</num>
+    <heading>Composition of Commission.</heading>
+    <text>The Commission shall be composed of nine enrolled Menominee persons, five of whom are Eminent Persons, Kaeqc-Kehkenamok, acknowledged to be fluent in the Menominee language and deeply knowledgeable of and practitioners of Menominee culture, traditions, values, and ceremonies. The Commission shall exemplify the characteristics of sobriety, respect, kindness, generosity, fortitude, and wisdom. The Commissioners shall be knowledgeable of certification procedures and be skilled in consensual decisionmaking. The remaining four Commissioners shall be knowledgeable of education theory, curriculum development, and evaluation. The Chairperson of the Tribal Legislature shall appoint the Commissioners with the advice and consent of the Tribal Legislature. In the event of a vacancy in the Commission through death or for other reasons, the vacancy shall be filled through the same process as used for the original selection.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§395-14">
+    <prefix>§</prefix>
+    <num>395-14</num>
+    <heading>Role and function of Commission.</heading>
+    <text>The role and function of the Commission shall include but not be limited to the following:</text>
+    <para>
+      <num>A.</num>
+      <text>To determine the criteria for the Menominee language fluency and culture competencies and to develop and plan screening procedures regarding certification. Such criteria and procedures shall pertain to prospective Menominee language teachers, classroom teachers, and teacher aides and to those Menominee-speaking individuals desiring to obtain college credit from colleges and universities for speaking Menominee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To assist the Director in planning for all issues relating to Menominee language, history, culture, and tradition, including instruction, preservice and in-service training for teachers, counselors, and administrators and related activities that are locally, privately, federally, and state funded.<fn path="|II|§395-14|footnotes|3">3</fn></text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To support and work cooperatively with appropriate committees, divisions, and departments to ensure that all cultural and traditional matters, including the preservation of ancient and contemporary burial sites, sacred objects, sacred sites, ancestral remains, and traditional and ceremonial customs, are protected.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>To recommend approval of all culturally related curricula, including textbooks, workbooks, modern communications media productions and other instructional materials in the Menominee and English languages.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>To support the Director of Historic Preservation in his work to identify traditional cultural properties, ensuring culturally appropriate treatment of human remains and funerary objects and proper disposition of tribal objects recovered during mitigation efforts.<fn path="|II|§395-14|footnotes|4">4</fn></text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To support the development of the Menominee Nation museum, archives, and collections management program.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>To create a curriculum on cultural sensitivity regarding the Menominee culture and teach said curriculum to all new employees of the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-15</num>
+    <heading>Approval of Legislature required for external research and studies.</heading>
+    <text>With regard to any proposed external research, scientific investigation or study requests by an external non-Menominee individual, group, organization, college, or university about or pertaining to the Menominee Nation, it is required that official written sanction and approval by the Menominee Tribal Legislature be granted prior to the conduct of all proposed research, modern communication media production, or studies. The cultural and intellectual property rights of the Menominee will be vigorously protected. <cite path="|II|395">This chapter</cite> pertains to all external researchers, including private entities, the State of Wisconsin, and the United States government and its agencies.</text>
+    <para>
+      <num>A.</num>
+      <text>Request format and procedure. All requests to conduct research or data gathering within the Menominee Nation's territory as referred to above must be in writing and submitted to the Menominee Language and Culture Commission, Director, and the Menominee Tribal Legislature. The research or study proposal request shall include but not limited to the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Statement of intent (goals and objectives and description of category; see <cite path="§395-15|B">Subsection B</cite> below).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Procedures and activities (research schedule/plan).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Techniques and methodology.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Funding source.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Publishing and copyright intent.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A proposed royalty agreement plan.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A plan to provide copies of completed publications, documents, or products.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Human subjects protection clause.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Professional fees for Eminent Persons.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Public hearing. If an external research or study proposal is of a controversial nature or would have a profound effect upon the lives of the Nation's citizens, the Menominee Language and Culture Commission and/or Director may elect to conduct a public hearing to obtain public comment. Such a hearing will be conducted within 30 days of the date when it was determined that such a hearing was deemed necessary.</text>
+      <para>
+        <num>(1)</num>
+        <text>The following categories are pertinent to this section and shall be described in the research proposal: publications, books, photographs, photo collections, oral history collections, computer data, sacred sites, orthographies, language and grammar guides, other teacher guides, curricula, testing instruments, texts, and master's and doctoral theses about the Menominee Nation, film video, audio, music, dance, and photography productions, artifacts, Menominee or other Indian material objects, tools, apparel, ornaments, arts-crafts works, etc., dating from ancient and aboriginal times, sacred objects and ancestral remains.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon the receipt of a certified Menominee Nation resolution and a memorandum of agreement, the applicant may initiate such activities as authorized.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Regarding external publication, all publication rights shall reside with the Menominee Nation as copyright owner unless negotiated otherwise. All such rights are reserved under international and pan-American copyright conventions. Regarding external publication royalties, the Menominee Nation's Tribal Attorney, upon request by the Tribal Legislature, shall negotiate on a case-by-case basis prior to the submission of recommendations to the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Regarding internally financed publications and productions, be it known that the Menominee Nation requires that a statement shall be included as follows: "This project/publication has been financed in whole or in part by the Menominee Nation."</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Enrolled Menominee members as individuals shall enjoy full freedom of speech and publication rights, including the right to negotiate and retain royalties, except that the individual shall consult with the Menominee Language and Culture Commission and Director regarding publications and media productions of all Menominee ceremonies and spiritual knowledge.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Violations of this section. Any person who violates any provision of this section shall be subject to forfeiture in Menominee Tribal Court in an amount not to exceed $5,000. Violations of this section shall be prosecuted by the Prosecutor's office of the Menominee Indian Tribe. Additionally, any researcher who violates any provision of this section or any provision of a memorandum of understanding or memorandum of agreement entered into with the Menominee Indian Tribe shall be barred for life from conducting any further research on the Menominee Indian Reservation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>395-16</num>
+    <heading>Funding for language policy implementation.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Nation recognizes that the Department of the Interior has the responsibility to provide funds for such priority tribal education programs as the Menominee language and culture programs referred to herein under the authority of the Synder Act, Public Law 93-638, and Public Law 100-297 and that the Interior Department and other federal departments are required to request sufficient appropriations annually from the Congress for such programs. The Menominee Nation is mindful that the Assistant Secretary of the Interior Department is required by statute (Public Law 100-297) to "provide for the production and use of instructional materials, culturally appropriate methodologies and teaching and learning strategies that will reinforce, preserve, and maintain Indian languages, cultures, and histories."</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>We are mindful that federal law, Public Law 100-297, affirms that education is a right of the federally recognized Indian Nations and is part of the federal government's trust responsibility to these Indian Nations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Menominee Nation will help the Interior Department and other departments to carry out their statutory requirements by periodically providing them with detailed budgetary requirements for personnel, instructional materials and other teaching and learning aids required to reinforce and maintain the Menominee language and culture of the Menominee Nation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Menominee Tribal Legislature will provide funds to implement all provisions of this code, including language instruction, in-service training for teachers, curriculum development, and the Menominee Language and Culture Commission and Director language immersion programs, if and when such provisions cannot be implemented by federal and other funding.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

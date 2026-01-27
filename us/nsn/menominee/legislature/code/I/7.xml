@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|7">
+  <prefix>Chapter</prefix>
+  <num>7</num>
+  <heading>ACCOUNTING SYSTEM</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-17-1980 by Ord. No. 80-7. Amendments noted where applicable</annotation>
+    <annotation type="General References">Administrative procedures — See <cite path="|I|12">Ch. 12</cite>. Debt collection — See <cite path="|I|44">Ch. 44</cite>.</annotation>
+    <annotation type="General References">Investment Plan — See <cite path="|I|111">Ch. 111</cite>.</annotation>
+    <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>. Taxation — See <cite path="|I|200">Ch. 200</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>7-1</num>
+    <heading>Basis of accounting.</heading>
+    <text>The basis of accounting shall be fund accounting using the modified accrual basis, encumbrances and budgetary control (as defined in the glossary of terms in <cite path="§7-7">§ 7-7</cite> of <cite path="|I|7">this chapter</cite>), in conformity with generally accepted accounting principles applied on a consistent basis and in compliance with requirements for the management of state or federal grants and contracts.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-2</num>
+    <heading>Funds.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following funds shall be established (as defined in the description of funds in <cite path="§7-9">§ 7-9</cite> of <cite path="|I|7">this chapter</cite>):</text>
+      <para>
+        <num>(1)</num>
+        <text>Agency Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>General Fund.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Land, Buildings and Equipment Fund.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Special Revenue Fund.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Trust Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The General Fund shall have the following permanent subfunds:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reserve Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Operations of Headquarters Building.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Operations of Tribal Government.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Operations of Supporting Services.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Legislature shall make additions to <cite path="I|§7-2">Subsections A and B of this section</cite> by resolution.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any of the established funds may be subdivided by the Department of Finance in order that the requirements of the Tribal Legislature, management of state or federal grants/contracts and harmony of administrative operations will be accomplished.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§7-3">
+    <prefix>§</prefix>
+    <num>7-3</num>
+    <heading>Internal controls.</heading>
+    <para>
+      <num>A.</num>
+      <text>Authority to incur expenses and approve expenditures. The Tribal Legislature, through budgets and appropriations ordinance, sets the limits for authorized expenses and expenditures, and it may authorize the expense approval authority to act on its behalf (as defined in the glossary of terms in <cite path="§7-7">§ 7-7</cite> of <cite path="|I|7">this chapter</cite>) with authorization given by motion of the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Purchase orders and contracts. Purchase orders and contracts shall be issued in advance of any commitment for services or goods. The Tribal Legislature will not recognize as legal or binding any commitment for services or goods that is not covered by a purchase order or contract issued in advance, except for:<fn path="|I|§7-3|footnotes|1">1</fn></text>
+      <para>
+        <num>(1)</num>
+        <text>Payroll and fringes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Auto allowance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Utilities and telephone.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Depreciation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Small sundry items.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Legislature shall make additions or deletions to the list in <cite path="§7-3|B">Subsection B of this section</cite> by resolution.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Reports to the Tribal Legislature, its officers and budget units. The Financial Manager (as defined in the glossary of terms in <cite path="§7-7">§ 7-7</cite> of <cite path="|I|7">this chapter</cite>) shall report as needed through balance sheets and statements of fund transfers, support, revenue and expenses (as defined in the financial and management reports in <cite path="§7-8">§ 7-8</cite> of <cite path="|I|7">this chapter</cite>). <strong>[Amended 5-23-1997]</strong></text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-4</num>
+    <heading>Accounting Procedures Manual.</heading>
+    <text>The Department of Finance shall be responsible for the establishment of an Accounting Procedures Manual as a part of the Administrative Procedures Manual of the Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-5</num>
+    <heading>Audit of tribal accounts.</heading>
+    <para>
+      <num>A.</num>
+      <text>An audit of all tribal accounts shall be conducted by an independent certified public accounting firm, chosen by the Tribal Legislature, at the end of each fiscal year and presented to the Tribal Legislature no later than three months after the close of the fiscal year.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Such report shall include under separate cover a statement as to the compliance of the accounting system and overall operations with the intent of <cite path="|I|7">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-6</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>The glossary of terms, description of funds, and financial and management reports are made a part of <cite path="|I|7">this chapter</cite> in order to show the intent of the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature shall make changes, additions, or deletions to <cite path="§7-6|A">Subsection A of this section</cite> that are approved by an independent certified public accounting firm by resolution.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-7</num>
+    <heading>Glossary of terms.</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose. The purpose of this section is to provide definitions of terms (and abbreviations) as they are used when discussing the financial and management accounting system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Definitions.</text>
+      <text>ACCOUNT (ACCT) — A number included in the chart of accounts published by the Department of Finance. The account number classifies revenues, expenditures, assets and liabilities by summary group, subgroup and detail.</text>
+      <text>ACCOUNTING PERIOD (ACCTG PRD) — A period at the end of which financial statements are prepared. There are to be 13 four-week accounting periods per year. The accounting year is from October 1 through September 30.</text>
+      <text>ACCOUNTING SYSTEM (ACCTG SYS) — The total structure of records and procedures which record, classify and report information on the financial position and operations of a government unit or any of its funds and organizational components.</text>
+      <text>APPROPRIATION (APPROPN) — An authorization granted by the Tribal Legislature to make expenditures and incur obligations for specific purposes. (Note: Appropriations are specified as to the amount and the time in which they must be expended.)</text>
+      <text>BUDGET (BUDGT) — A plan of financial operation embodying proposed expenditures for a given period and the proposed means of financing them. Used without any modifier, the term indicates a financial plan for a single year.</text>
+      <text>BUDGETARY ACCOUNTING (BUDGT ACCTG) — The element of the standard governmental accounting system which is directed toward satisfying legal requirements for budgetary control and reflecting budgetary operations and conditions. Funds, budget units and budgetary accounts, such as estimated revenues and appropriations, are components of the element of the accounting system.</text>
+      <text>BUDGETARY CONTROL (BUDGT CNTRL) — The control or management of a government unit or enterprise in accordance with the approved budget for the purpose of keeping expenditures within the limitations of available appropriations and available revenues.</text>
+      <text>BUDGET UNIT (BUDGT UNIT) — The basic accounting entity within the operating funds. The level to which budget appropriations are made by the Tribal Legislature and to which, in most instances, appropriations are controlled.</text>
+      <text>CASH MANAGEMENT (CASH MNGT) — Allocating, spending, investing, conserving, safeguarding, and otherwise handling cash or its equivalent in a manner intended to result in its most efficient use.</text>
+      <text>CODING (COD) — A system of numbering or otherwise designating accounts, entries, invoices, vouchers, etc., in such a manner that the symbol used reveals quickly certain required information.</text>
+      <text>COMPUTER PROGRAM (COMP PROG) — A plan or method for collection and transcription of data to a computer, coding for operation of the computer and related equipment, printing of reports and other output, and absorption of the resulting data into the system. (A list of coded instructions for the computer is called a "routine.")</text>
+      <text>EDIT (ED) — To verify the completeness and correctness of documents which are input to the data processing and accounting systems, either manually or by machine processes.</text>
+      <text>ENCUMBRANCES (ENCUMBR) — Contingent liabilities in the form of purchase orders, contracts, or auditor's encumbrance which are chargeable to an appropriation and for which a part of the</text>
+      <text>appropriation is obligated. They cease to be encumbrances when paid or when the actual liability is recorded.</text>
+      <text>EXPENDITURE (EXPEND) — Where the accounts are kept on the cash basis, this term designates only actual cash disbursements for these purposes. Where the accounts are kept on the accrual basis or the modified accrual basis, this term designates the cost of goods delivered or services rendered, whether paid or unpaid, including expenses, provision of debt retirement and capital outlays.</text>
+      <text>EXPENSE APPROVAL AUTHORITY (EXP APP ATHY) — An individual or a position that has been authorized by the Tribal Legislature to approve purchase orders, contracts, time cards, etc., that are consistent with all underlying agreements and program objectives, to the level of appropriations approved by the Tribal Legislature.</text>
+      <text>FINANCIAL MANAGER (FI MAN) — The individual responsible for the implementation and maintenance of the accounting system, in conformity with generally accepted accounting principles applied on a consistent basis. The Financial Manager reports to the Tribal Legislature or its officers the progress of all budget units and the compliance of requirements for management of state or federal grants and contracts.</text>
+      <text>FUNCTION (FN) — A class of related services established to accomplish broad community goals or an authorized group of programs having related purposes. In the government field, the classification of expenditures by functions permits the use of expenditure data in preparation of performance budgets in which the main emphasis is on activities rather than organizational units and objects.</text>
+      <text>FUND (FD) — An independent fiscal and accounting entity with a self-balancing set of accounts recording cash and/or other resources together with all related liabilities, obligations, reserves and equities which are segregated for the purpose of carrying on specific activities or attaining certain objectives in accordance with special regulations, restrictions or limitations.</text>
+      <text>FUND TRANSFER (FD TRNS) — A contribution of fund capital to fund capital of another intra-governmental unit. This does not represent loans to or from intra-governmental units.</text>
+      <text>GENERAL LEDGER (G/L) — A computer file which contains the accounts needed to reflect, in summary subgroup and detail, the financial position and the results of financial operations of an organizational unit (function, fund, subfund, program/contract and cost center).</text>
+      <text>GRANT (GR) — A contribution by one governmental unit to another unit. The contribution is usually made to aid in the support of a specified function, general programs or specific projects.</text>
+      <text>INPUT DOCUMENT (INP DOC) — One of numerous forms used to record transactions. A coding blank on each form contains the details of a transaction in numeric or alpha symbols that can be recorded and interpreted by the data processing system.</text>
+      <text>INTERFACE (INTERF) —</text>
+      <para>
+        <num>(1)</num>
+        <text>(Verb) Design or modification of related systems, computer programs, data, etc., to achieve compatibility or integration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>(Noun) The point at which the two entities form a common unit. <strong>[Amended 5-23-1997]</strong></text>
+        <text>MODIFIED ACCRUAL BASIS (MOD ACCR BASIS) — The accrual basis, as recommended for government units, does not require that uncollected revenues, if the option to accrue is exercised, and unpaid expenditures be recorded in the books of account on a day-to-day basis; it is sufficient that they be recorded at the close of the fiscal year.</text>
+        <text>REVENUE (REV) — For those revenues which are recorded on the accrual basis, this term</text>
+        <text>designates additions to assets which do not increase any liability, do not represent the recovery of an expenditure, do represent the cancellation of certain liabilities with a corresponding increase in assets, and do not represent contributions of fund capital to fund capital of another intra-governmental unit. The same definition applies to those cases where revenues are recorded on the modified accrual or cash basis, except that additions would be partially or entirely to cash.</text>
+        <text>STRUCTURE LEVEL ACCOUNT (STR LV ACCT) — A number included in the chart of accounts published by the Department of Finance. The structure level account classifies account numbers by functions, fund, subfund, program/contract and cost centers.</text>
+        <text>SUBSYSTEM (SUBSYS) — A smaller system nested within a large system, e.g., general ledger subsystem is a member of the budgetary accounting system.</text>
+        <text>SYSTEM (SYS) — A set of elements forming an activity or processing procedure, seeking common goals, by operating on data in a time reference to yield information, e.g., payroll system.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 5-23-1997</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-8</num>
+    <heading>Financial and management reports.</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose. The purpose of this section is to provide in outline form the contents of reports produced by the financial and management accounting system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Outline form.</text>
+      <para>
+        <num>(1)</num>
+        <text>Journal of original entry.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Detailed trial balance (detailed accounts at cost center level for program/contracts).</text>
+        <para>
+          <num>(a)</num>
+          <text>Monthly.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Year to date or annual.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Balance sheets (accounts by summary group, subgroup, detailed).</text>
+        <para>
+          <num>(a)</num>
+          <text>Overall.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Function.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fund.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Subfund.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Program/contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Statement of fund transfers, support, revenue and expense (accounts by summary group, subgroup, detailed).</text>
+        <para>
+          <num>(a)</num>
+          <text>Overall.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Function.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fund.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Subfund.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Program/contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Cost center report (accounts by summary group, subgroup, detailed).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Account data master list — chart of accounts and report codes.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Structure status report — structure level account report.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Note: Reports 4 and 5 will include (accounts by summary group and subgroup):</text>
+      <para>
+        <num>(1)</num>
+        <text>Original budget.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Budget revisions.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Earnings/expenditures — year to date.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Encumbered — current.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Budget balance.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>7-9</num>
+    <heading>Description of funds.</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose. The purpose of this section is to provide a description of the operating funds (and abbreviations) as they are used in the financial and management accounting system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Descriptions.</text>
+      <para>
+        <num>(1)</num>
+        <text>Agency Fund (AGNCY FD). The Agency Fund is used to account for assets received by the Menominee Indian Tribe of Wisconsin in its capacity as agent for governmental units outside of the Reservation. The expenditures of these assets must be in accordance with the conditions of the appropriate agreement. In this fund title to the assets entrusted remains the property of the principle until the agreements are closed or transferred to the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>General Fund (GEN FD). The General Fund is used to account for revenues, unrestricted donations, and expenditures which are not accounted for in other funds.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Land, Buildings and Equipment Fund (LD, BLDG, EQP FD). The Land, Buildings and Equipment Fund includes the land, buildings and equipment that are owned or in the custody of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Special Revenue Fund (SP REV FD). The Special Revenue Fund is used to account for proceeds of specific revenue sources earmarked by federal, state or local statutory requirements to finance specified services or activities; e.g., revenue sharing funds are included here.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Trust Fund (TR FD). The Trust Fund is used to account for assets received by the Menominee Indian Tribe of Wisconsin in its capacity as trustee for individuals, private organizations or restricted donations. The expenditures of these assets must be in accordance with the conditions of the agreement. In this fund the trustee normally acquires title to the assets.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

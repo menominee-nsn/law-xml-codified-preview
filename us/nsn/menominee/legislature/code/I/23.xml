@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|23">
+  <prefix>Chapter</prefix>
+  <num>23</num>
+  <heading>CONTEST POW-WOW BOARD</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2007 by Ord. No. 07-03; amended in its entirety 7-19-2018 by Ord. No. 18-15. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>23-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|I|23">This chapter</cite> may be titled "Menominee Nation Contest Pow-Wow Board."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|I|23">this chapter</cite> is to create the Menominee Nation Contest Pow-Wow Board and to empower said Board to plan and conduct the Menominee Nation Annual Contest Pow-Wow.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of <cite path="|I|23">this chapter</cite>, the following words and terms shall have the following meanings: BOARD — The Menominee Nation Contest Pow-Wow Board.</text>
+    <text>COMMUNITY MEMBER — A member of the Board who is not a member of the Legislature. LEGISLATIVE MEMBER — A member of the Legislature who is appointed to the Board.</text>
+    <text>LEGISLATURE — The Menominee Tribal Legislature.</text>
+    <text>MEMBER — A member of the Board, regardless of whether he/she is a legislative member or a community member.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§23-4">
+    <prefix>§</prefix>
+    <num>23-4</num>
+    <heading>Board created; membership; terms of office.</heading>
+    <para>
+      <num>A.</num>
+      <text>Creation. There is hereby created a Menominee Nation Contest Pow-Wow Board.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Members. The Board shall consist of eight members, all of whom shall be appointed by the Legislature. Three of the eight members appointed shall be members of the Legislature, four shall be community members, and one shall be from the Language and Culture Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Term. The term of the three legislative members shall be for one year, and the term of the remaining community members shall be appointed in staggered terms, two community members at two years and remaining two community members at one year.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Qualifications. To be considered for appointment to the Board, all potential candidates must be:</text>
+      <para>
+        <num>(1)</num>
+        <text>An enrolled member of the Tribe; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Eighteen years of age or older.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Appointment.</text>
+      <para>
+        <num>(1)</num>
+        <text>On the second Monday in January of each year the Tribal Chairperson's office shall solicit letters of interest from those who are qualified and who would like to serve on the Board. Such solicitation notice shall be advertised at least once in the Menominee Nation News and posted in accordance with the Posting Ordinance (Ord. No. 80-6).<fn path="|I|§23-4|footnotes|1">1</fn> The solicitation shall remain open for a minimum of 30 calendar days.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>At the end of the solicitation period, the Tribal Chairperson shall verify the age, enrollment and address of the applicant to ensure that he/she meets the qualifications specified above.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Members of the Legislature who would like to serve on the Board are encouraged to submit a letter of interest; however, if the Tribal Chairperson does not receive letters of interest from members of the Legislature, he/she may nominate up to three members of the Legislature to serve on the Board.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If, at the end of the solicitation period, the number of applicants is less than the number needed to fill the vacancies on the Board, the Legislature shall reopen the solicitation in increments of 15 calendar days.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>At the second regular meeting of the Legislature in February, subject to reasonable time delays caused by any solicitation reopening, the Tribal Chairperson shall present a list of qualifying applicants and his/her three Legislative nominees. The Legislature shall, by open vote or secret ballot, appoint the requisite number of applicants to be Board and may appoint the Tribal Chairperson's nominees to the Board or select other legislative members.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>For the initial appointment to the Board, the Legislature shall appoint the initial Board members at the regular meeting following adoption of <cite path="|I|23">this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Term extensions. A Board member's expiring term shall be automatically extended if the Legislature has not filled the Board member's position. Such extended term shall immediately end once the Legislature fills the vacancy.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Removal. Any member of the Board may be removed by a majority vote of the Legislature if the member violates the code of ethical conduct or misses three or more consecutive unexcused regular meetings of the Board.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|I|177">Ch. 177</cite>, Posting Procedures.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-5</num>
+    <heading>Organization, rules of order and compensation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Organization. The Board shall be assembled as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board shall consist of the following three officers: Chairperson, Vice Chairperson and Treasurer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board Chairperson shall be a member of the Legislature who is appointed by the Legislature.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board Vice Chairperson and Treasurer shall be nominated and elected among the Board.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board shall meet once per month, or more frequently as the Board Chairperson may determine.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rules of order. The Board shall conduct itself as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board shall act in accordance with its own adopted rules and approved by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No business shall be transacted without a quorum of the Board.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A quorum of the Board shall consist of a minimum of four members of the Board.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board may develop bylaws that are consistent with <cite path="|I|23">this chapter</cite>. Such bylaws shall be subject to the review and approval of the Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compensation. The Board and its individual members shall be compensated as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>All Board members in attendance at any regular and/or special meeting shall receive $50 per meeting, plus mileage.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board may authorize any Board member to perform duties essential to the planning and conduct of an annual pow-wow at a rate of $20 per hour for time on task, provided that the Board member submits a detailed timesheet describing an hour-by-hour accounting of his/her time under such authorization for approval by the Powwow Chairperson. No Board member shall receive more than 160 hours of time on task in one year and more than 25 hours per week, with the exception of pow-wow week. The limit will increase to 40 hours for the week (Saturday-Saturday) of the pow-wow only.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All meeting payments and time on task shall be subject to payroll taxes.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§23-6">
+    <prefix>§</prefix>
+    <num>23-6</num>
+    <heading>Responsibilities and authority of Board.</heading>
+    <para>
+      <num>A.</num>
+      <text>Responsibilities. The Board shall be responsible for the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Setting a theme for each year's annual contest pow-wow (e.g., honoring members or groups, commemorating events, etc.) and supporting the effort of a Sober 49;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Designating the arena director, head drum, head male and female dancers, master of ceremonies, head judges and such other officials as may be necessary to effect a quality contest pow-wow;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Developing a pow-wow budget, including the identification of all anticipated expenditures and revenues, and reporting such to the Tribe's Budget and Finance Committee, as appropriate or when requested;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Developing an annual schedule describing all major milestones and deadlines needed to be accomplished by the Board;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Developing standard operating procedures, including cash handling procedures and other internal control standards necessary to ensure the integrity of the pow-wow;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Selecting and obtaining sanitation, electrical, plumbing, security and such other services as it may deem necessary;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Planning, directing and controlling funds entrusted to its care and custody, subject to any internal controls imposed on it by the Tribe's Finance Department;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Providing the Legislature with a closing report which will include a financial and narrative report on its activities;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Maintaining an organized, accurate and complete record of all meetings, transactions, notices and correspondence, whether issued to or by the Board;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Complying with the Tribe's accounting system and standards adopted by Menominee Tribal Ordinance No. 80-7,<fn path="|I|§23-6|footnotes|2">2</fn> including the Accounting Procedures Manual; however, the Board may solicit a particular vendor up to four times in a one-year period;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Obtaining complete, accurate and signed request for taxpayer identification number and certification forms (IRS Form W-9) from individuals, partnerships, corporations, companies and/or associations that have won prizes at the pow-wow or are doing business with the Board relating to the pow-wow;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Promptly providing the Finance Department with complete, accurate and signed IRS Form W-9s so that the Tribe's Finance Department can issue IRS Form 1099s in accordance with current IRS regulations;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Complying with all official requests for information submitted by the Tribe, its officials and employees; and</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Ensuring that each and every member complies with the following code of ethical conduct:</text>
+        <para>
+          <num>(a)</num>
+          <text>No member shall use his or her position as a Board member to obtain financial gain or anything of substantial value for the private benefit of himself or herself or his or her immediate family, or for an organization with which he or she is associated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No member shall solicit or accept from any person, directly or indirectly, anything of value if it could reasonably be expected to influence the member's official actions or judgment, or could reasonably be considered as a reward for any official action or inaction on the part of the member.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No member shall take any official action affecting a matter in which the member, a member of his or her immediate family or an organization with which the member is associated has a personal financial interest.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No member shall make any unauthorized commitments or promises of any kind purporting to bind the Tribe.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A member shall not participate for personal gain, either directly or indirectly, with any individual or entity utilizing inside knowledge he/she gained while serving as a member of the Board.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Members shall act in a manner as to uphold and enhance personal and professional honor and integrity.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Members shall demonstrate the highest standards of personal integrity, truthfulness and honesty in all activities in order to gain confidence and trust from members in all such activities.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Members have no authority to contact or communicate in any manner, whether in writing or verbally, with any person, any tribal department or agency, or any outside department, agency or jurisdiction representing themselves as speaking for the Board or with Board authority, unless such member(s) has been so authorized by the Legislature.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Members are held to be personally responsible for their actions and treatment of all persons with whom they may come in contact; hence, they are to act in a professional, civil manner as representatives of Menominee tribal government.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Members are reminded that their personal behavior should be reflective of their responsibilities as representatives of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Authority of the Board. The Board shall have all powers necessary to carry out the duties listed in <cite path="§23-6|A">Subsection A</cite> above, subject to the following limitations and restrictions:</text>
+      <para>
+        <num>(1)</num>
+        <text>All contracts entered into by the Board, and all debts and deposits, shall be in the name of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall not open any checking or saving accounts, or apply for any loans or credit cards, unless expressly approved by the Legislature.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All checks and cash received by any member of the Board, or its agents, shall be receipted and deposited with the Tribe's Finance Department within 72 hours.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Only the Board Chairperson shall be authorized to enter into contracts for an amount equal to or less than $1,500. All contracts in excess of this amount shall require the counter approval of the Tribal Chairperson.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No contract requiring an advance of 50% or more may be entered into without the counter approval of the Tribal Chairperson.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All contracts shall be in writing, and no contract that has not been reviewed by the Tribe's Legal Services Department shall be entered into by the Board.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>All requests for payment shall include backup documentation (e.g., itemized invoice).</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: See <cite path="|I|7">Ch. 7</cite>, Accounting System.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-7</num>
+    <heading>Status of Board members.</heading>
+    <para>
+      <num>A.</num>
+      <text>Covered actions. Members of the Pow-Wow Board are agents of the Tribe and while acting within the scope of their duties shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the protections of sovereign immunity to the extent allowed by Menominee tribal law and interpreted by courts of applicable jurisdiction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Defended by the Tribe against any complaint, grievance, lawsuit, etc., brought against them by any person.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Indemnified by the Tribe for any loss they may suffer as a result of said complaint, grievance, lawsuit, etc.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Actions not covered. Actions of the Board or individual members of the Board which are outside the scope of their duties shall not be subject to the protections listed in <cite path="§23-7">§ 23-7</cite>A(1) through (3) of <cite path="|I|23">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Court actions. In any action otherwise authorized against the Board or individual members of the Board arising from the performance of their official duties, the following shall apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>Neither the Board, nor individual members of the Board, shall be liable for the payment of the costs or expenses of the opposing part.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Neither the Board, nor individual members of the Board, shall be required to post security by bond or otherwise for any purpose.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No civil action brought against the Board, nor individual members of the Board, shall be tried before a jury. All such actions shall be tried before a Tribal Court Judge.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any action against the Board, or any individual member of the Board, must be commenced within one year of the date the cause of action occurred.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-8</num>
+    <heading>Technical assistance.</heading>
+    <text>Other departments and programs of the Tribe shall provide available technical assistance to the Board upon receiving reasonable notice from the Board.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>23-9</num>
+    <heading>Powers retained by Legislature.</heading>
+    <text>Any powers not given to the Board pursuant to <cite path="|I|23">this chapter</cite> regarding the planning or conduct of the Menominee Nation Contest Pow-Wow are retained by the Legislature.</text>
+    <annotations/>
+  </section>
+</container>

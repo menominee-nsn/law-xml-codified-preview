@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|12">
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>ADMINISTRATIVE PROCEDURES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-6-1987 by Ord. No. 87-25. Amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="I|§12-1">
+    <prefix>§</prefix>
+    <num>12-1</num>
+    <heading>Findings; intent.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Indian Tribe has a primary interest in assuring that the administrative procedures carried out by the Tribe and implemented through its subordinate administrative bodies pursuant to tribal law are consistent with the basic principles of common sense, justice and fairness. The Menominee Administrative Procedure Act<fn path="|I|§12-1|footnotes|1">1</fn> is intended to implement the following major principles:</text>
+      <para>
+        <num>(1)</num>
+        <text>Except in emergencies, all rule-making, both procedural and substantive, shall be accompanied by notice to interested persons and opportunities to submit views or information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Proper publicity shall accompany the enactment of all administrative rules;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provision shall be made for advanced determination of the applicability of the administrative rules to particular cases;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Administrative adjudicatory hearings shall be fundamentally fair, particularly in regard to such matters as notice, rules of evidence, taking of official notice, and preparation of the administrative record;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Responsible deciding officers in quasi-judicial cases shall be personally familiar with the evidence presented in that proceeding; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Adequate provision shall be made to provide for judicial review of administrative errors.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee Indian Tribe has jurisdiction to enforce the Menominee Administrative Procedure Act and to ensure that all persons, whether residing upon the Menominee Indian Reservation or conducting business or other activities within the exterior boundaries of the Reservation, are provided with due process of law. Tribal jurisdiction of all such persons and lands is necessary to protect the economy, health, safety and welfare of the Reservation population.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: "The Menominee Administrative Procedure Act" is the title of the ordinance codified in <cite path="|I|12">this chapter</cite>.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-2</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of <cite path="|I|12">this chapter</cite>, the following terms shall have the meanings indicated: CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.</text>
+    <text>COMMITTEE — Any tribal board, commission, or officer serving a tribal department and authorized by law to propose rules for adopting by the Tribal Legislature, except that the term "committee" shall not include either the Tribal Legislature or any Tribal Court.</text>
+    <text>CONTESTED CASE — A proceeding before the Legislature in which an opportunity for a hearing before the Legislature is required by law prior or subsequent to the determination by the Legislature of the legal rights, duties, or privileges of specific parties. Contested cases shall also include all cases of licensing where a license is revoked, suspended, or modified or in which the granting of an application is contested by a person having standing to contest such matter under the law.</text>
+    <text>DEPARTMENT — Any tribal office or program authorized to carry out tribal government functions.</text>
+    <text>LICENSE or PERMIT — The whole or part of any tribal approval, registration, or any form of permission required by law to engage in any activity.</text>
+    <text>LICENSING or PERMITTING — The tribal process respecting the grant, denial, renewal, revocation, suspension, annulment, withdrawal, or modification of a license or permit.</text>
+    <text>PERSON — Any individual; association of individuals; partnership; private, public, tribal or municipal corporation; tribal enterprise; company; business enterprise; any county, tribal, federal, state or local government; or any governmental entity.</text>
+    <text>RESERVATION — The Menominee Indian Reservation established by treaty on May 12, 1854, and, after termination, reestablished on December 23, 1973, containing 234,000 acres more or less and any lands which may hereafter be added.</text>
+    <text>RESERVATION POPULATION — All persons who reside on or otherwise conduct business or other activities on any lands, whether trust or fee, within the exterior boundaries of the Menominee Indian Reservation.</text>
+    <text>RESERVATION RESOURCES or RESERVATION ENVIRONMENT — Land, air, surface and ground water, fish, biota, plants, animals, wildlife and capital improvements on the Menominee Indian Reservation.</text>
+    <text>RULE —</text>
+    <para>
+      <num>A.</num>
+      <text>Any order, directive or regulation of general applicability enacted into law by the Tribal Legislature:</text>
+      <para>
+        <num>(1)</num>
+        <text>The violation of which subjects a person to a civil fine, civil penalty or other civil administrative sanction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Which establishes, alters or revokes any procedure, practice or requirement relating to legislative hearings.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Which establishes, alters or revokes any qualification or requirement relating to the enjoyment of benefits or privileges conferred by law.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Which establishes, alters or revokes any qualifications or standards for the issuance, suspension or revocation of licenses to pursue any commercial activity.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The term includes the amendment or repeal of a prior rule but does not include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Statements concerning only the internal management of the Legislature and not affecting private rights or procedures available to the public; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Declaratory rulings issued pursuant to <cite path="|I|12">this chapter</cite> as now or hereafter amended.</text>
+      </para>
+      <aftertext>SPONSORING COMMITTEE — The tribal committee which prepares a rule or other matter under this chapter for action by the Tribal Legislature.</aftertext>
+      <aftertext>TRIBAL LEGISLATURE or LEGISLATURE — The governing body of the Menominee Indian Tribe. TRIBE — The Menominee Indian Tribe.</aftertext>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-3</num>
+    <heading>Adoption of procedures; public inspection of legislative orders, decisions and opinions.</heading>
+    <text>In addition to other rule-making requirements imposed by law:</text>
+    <para>
+      <num>A.</num>
+      <text>The Legislature may adopt informal procedures prescribed or authorized by <cite path="|I|12">this chapter</cite>, together with forms and instructions.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To the extent not prohibited by federal law nor prohibited for reasons of confidentiality by tribal law, the Legislature shall keep on file for public inspection all final orders, decisions and opinions in contested cases and any index to those orders, decisions or opinions prepared by the Legislature for its own use. No legislative order, decision or opinion is valid or effective against any person, nor may it be invoked by the Legislature for any purpose, unless, upon reasonable request therefor, it is available for public inspection. This provision is not applicable in favor of any person who has actual or constructive notice knowledge of the legislative order, decision or opinion in question.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-4</num>
+    <heading>Notice of intention to adopt rules; opportunity to submit data.</heading>
+    <para>
+      <num>A.</num>
+      <text>Prior to proposing that the Tribal Legislature adopt, amend, or repeal any rule, the sponsoring committee proposing that the Legislature take such action shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Post notice thereof at the Neopit and Keshena post offices, County Courthouse and Tribal Office Building and mail a copy of the notice to all persons who have made timely request to the committee for information regarding the proposed rule-making proceedings. Such notice shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>Reference to the authority under which the rule is proposed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A statement of either the terms or substance of the proposed rule or a description of the subjects and issues involved; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The time when, place where, and manner in which interested persons may present their views thereon.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Afford all interested persons reasonable opportunity to submit data, views, or arguments in writing. Opportunity for a public hearing may be granted if requested in a timely manner and determined by the Legislature to be in the public interest. It is the intent of <cite path="|I|12">this chapter</cite> that reasonable and timely requests for public hearings be favorably acted upon by the Legislature. Following the close of the public comment period and prior to making its final determination, the Legislature shall fully consider all oral comments and written submissions respecting the proposed action.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No regulatory proceeding shall be held on any final rule until 20 days have passed from the posting date in which notice is given of the adoption of said rule by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No rule hereafter adopted is valid unless adopted in substantial compliance with this section or, if an emergency rule designated as such, adopted in compliance with <cite path="§12-5">§ 12-5</cite>. In any proceeding a rule cannot be contested on the ground of noncompliance with the procedural requirements of this section, as now or hereafter amended, after one year has elapsed from the effective date of the rule.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-5</num>
+    <heading>Emergency rules and amendments.</heading>
+    <text>If a committee recommends and the Tribal Legislature so finds that immediate adoption or amendment of a rule is necessary for the preservation of the public health, safety, or general welfare of the Reservation population and that observance of the requirements of notice and opportunity to present views on the proposed action would be contrary to the public interest, the Legislature may dispense with such requirements and immediately adopt the rule or amendment as an emergency rule or amendment. The</text>
+    <text>Legislature finding and a brief statement of the reasons for its finding shall be incorporated in the emergency rule or amendment. An emergency rule or amendment shall not remain in effect for longer than 60 days after adoption.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-6</num>
+    <heading>Rules filed with Chairperson; public inspection.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Legislature shall file with the Chairperson a true copy of all rules now in effect and being implemented. The Chairperson shall keep a permanent register of such rules and all rules subsequently adopted by the Legislature in accordance with <cite path="|I|12">this chapter</cite>. This permanent register shall be open to public inspection during normal business hours.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Emergency rules enacted in accordance with <cite path="§12-5">§ 12-5</cite> shall become effective upon their adoption by the Legislature. All other rules hereafter adopted pursuant to <cite path="|I|12">this chapter</cite> shall become effective upon the expiration of 20 days following their publication as provided for in <cite path="§12-4">§ 12-4</cite>, unless a later date is required by applicable law or specified in the rule. After the Legislature adopts an emergency rule pursuant to <cite path="§12-5">§ 12-5</cite> a copy of such emergency rule shall promptly be filed with the Chairperson.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-7</num>
+    <heading>Statement of purpose of rules and how implemented; contents; distribution by committee.</heading>
+    <para>
+      <num>A.</num>
+      <text>When a committee proposes that the Tribal Legislature take action to adopt a rule pursuant to <cite path="|I|12">this chapter</cite>, the sponsoring committee shall ensure that the proposed rule is accompanied by a statement prepared by the sponsoring committee which generally describes the purpose of the proposed rule and how the rule is to be implemented. Such statement shall contain, but is not limited to, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A title, a description of the rule's purpose, the name of the sponsoring committee, the legal authority for the proposed rule, and any other information which may be of assistance in identifying the proposed rule or its purpose.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A summary of the proposed rule.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The department personnel who are responsible for drafting the proposed rule and who will be responsible for implementation and enforcement of the proposed rule.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon filing the proposed rule with the Chairperson, the sponsoring committee shall have copies of all statements prepared in accordance with this section on file and available for public inspection.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-8</num>
+    <heading>Compilation of rules; judicial notice.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Chairperson may compile and index all rules adopted by the Legislature pursuant to <cite path="|I|12">this chapter</cite> and remaining in effect.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Judicial notice shall be taken by the Tribal Court of rules adopted by the Legislature pursuant to <cite path="|I|12">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-9</num>
+    <heading>Petition for adoption, amendment or repeal of rules; committee action.</heading>
+    <text>Any interested person may petition a committee and request that such committee propose that the Legislature promulgate, amend, or repeal any rule. Within 60 days after the submission of such petition, or at the next regular meeting of the committee if it does not meet within this sixty-day period, the committee shall formally consider the petition and within 30 days thereafter shall either deny the petition in writing (stating its reasons for the denial) or initiate rule-making proceedings in accordance with <cite path="|I|12">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-10</num>
+    <heading>Declaratory judgment on validity of rule.</heading>
+    <text>The validity of any rule may be determined upon petition for a declaratory judgment thereon addressed to the Menominee Tribal Court when it appears that the rule, or its threatened application, interferes with or impairs or immediately threatens to interfere with or impair the legal rights or privileges of the petitioner. The sponsoring committee shall be made a party to the proceeding.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-11</num>
+    <heading>Notice and procedural rules for contested cases.</heading>
+    <para>
+      <num>A.</num>
+      <text>In any contested case, the Legislature shall afford all parties an opportunity for a hearing upon their request. Moreover, if the Legislature determines that a hearing should be held in furtherance of the public interest it may provide for a hearing even where one is not requested by any party. In any event, no such hearing shall be held upon less than 20 days' advance notice to all parties. The notice shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A statement of the time, place and nature of the proceeding.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement of the legal authority and jurisdiction under which the hearing is to be held.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A reference to the particular sections of the tribal law involved.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A short and plain statement of the issues and matters asserted.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Opportunity shall be afforded all parties to respond and present evidence and argument on all issues involved.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Unless precluded by law, informal disposition may also be made of any contested case by stipulation, agreed settlement, consent order, or default.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The record in a contested case shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>All pleadings, motions, and intermediate rulings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Evidence received or considered.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement of matters officially noticed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Questions and offers of proof, objections, and rulings thereon.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Proposed findings and exceptions.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any decision, opinion, or report by the officers presiding at the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Oral proceedings shall be recorded or transcribed for the purposes of a legislative decision. A copy of the entire record or any part thereof shall be furnished to any party upon written request therefor and payment of the costs thereof.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Findings of fact shall be based exclusively on the evidence presented and on matters officially noticed.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Federal Rules of Civil Procedure and Evidence may, where applicable, be used as general guides for proceedings before the Legislature, except as to matters covered explicitly by tribal law. The federal rules shall be interpreted as instructive rather than controlling in any event.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-12</num>
+    <heading>Decisions and orders in contested cases; requests for reconsideration.</heading>
+    <para>
+      <num>A.</num>
+      <text>Every decision and order rendered by the Legislature in a contested case shall be in writing or stated in the record and shall be accompanied by findings of fact and conclusions of law. The findings of fact shall consist of a concise statement of each fact found upon each contested issue of fact. Parties to the proceeding shall be notified of the decision and order in person or by mail. A copy of the decision and order and accompanying findings and conclusions shall be delivered or mailed to each party or, if a party is represented by an attorney, to his attorney of record.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Should any party request a rehearing or reconsideration of the Legislature's order or decision, such request shall be made within 10 days of such order or decision, and the Legislature shall take action upon such request within 30 days of receipt thereof. Where a request for rehearing or reconsideration has been timely made, the Legislature's order or decision shall not be final for further administrative review until the Legislature acts upon such request.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-13</num>
+    <heading>Provisions applicable to licenses and emergency actions.</heading>
+    <para>
+      <num>A.</num>
+      <text>When a licensee has made timely and sufficient application for the renewal of a license or a new license with reference to any activity of a continuing nature, an existing full, temporary, or provisional license does not expire until the application has been finally determined by the Legislature and, in case the application is denied or the terms of the new license are limited, until the last day for seeking review of the legislative order.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No revocation, suspension, annulment, modification, or withdrawal of any license is lawful unless, prior to the institution of legislative proceedings, the Legislature gave notice by certified mail, return receipt requested, to the licensee of facts or conduct which warrants the intended action and the licensee was given reasonable opportunity to show compliance with all lawful requirements for the retention of the license.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Where the Legislature finds that protection of public health, safety, or welfare requires that immediate emergency action be taken and incorporates a finding to that effect in its order, summary suspension of a license may be ordered pending proceedings for revocation or other action. These proceedings shall be instituted within five working days of such emergency action and shall be promptly determined.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-14</num>
+    <heading>Conflicts with federal law.</heading>
+    <text>If any part of <cite path="|I|12">this chapter</cite> shall be found to be in conflict with federal requirements which are a condition precedent to the allocation of federal funds to the Menominee Indian Tribe, such conflicting part of <cite path="|I|12">this chapter</cite> is hereby declared to be inoperative solely to the extent of such conflict and with respect to the department directly affected, and such findings or determination shall not affect the operation of the remainder of <cite path="|I|12">this chapter</cite> in its application to the departments concerned.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>12-15</num>
+    <heading>Effect on constitutional rights and other laws; compliance; effect of subsequent legislation.</heading>
+    <text>Nothing in the Menominee Administrative Procedure Act shall be held to diminish the constitutional rights of any person or to limit or repeal additional requirements imposed by or otherwise recognized by law. Except as otherwise required by law, all requirements or privileges relating to evidence or procedure shall apply equally to the Legislature and persons. The Legislature, every committee and department are granted all authority necessary to comply with the requirements of the Administrative Procedure Act. No subsequent tribal laws shall be held to supersede or modify the provisions of the Administrative Procedure Act or its applicability to any department or committee except to the extent that such tribal law shall do so expressly.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§12-16">
+    <prefix>§</prefix>
+    <num>12-16</num>
+    <heading>Applicability.</heading>
+    <text>Unless the Menominee Tribal Legislature shall act by resolution to make <cite path="|I|12">this chapter</cite>, the Menominee Administrative Procedure Act, applicable to other administrative actions taken by the Tribe, <cite path="|I|12">this chapter</cite> shall only be applicable to Chapter MTSW Menominee Tribal Solid Waste Management, Chapter MTHW Menominee Tribal Hazardous Waste Management, Chapter MTGW Menominee Tribal Groundwater Quality, and Chapter MTSFW Menominee Tribal Surface Water Quality.<fn path="|I|§12-16|footnotes|2">2</fn></text>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: See <cite path="|II|504">Ch. 504</cite>, Solid Waste, Art. II, Management, <cite path="|II|361|II">Ch. 361, Art. II</cite>, Hazardous Waste, <cite path="|II|562|I">Ch. 562, Art. I</cite>, Groundwater Quality, and <cite path="|II|512">Ch. 512</cite>, Surface Water.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+</container>

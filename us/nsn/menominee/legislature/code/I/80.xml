@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|80">
+  <prefix>Chapter</prefix>
+  <num>80</num>
+  <heading>EXCLUSION AND REMOVAL</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 2-7-2013 by Ord. No. 12-09; amended in its entirety 12-21-2021 by Ord. No. 21-89. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>80-1</num>
+    <heading>Authority; purpose; findings.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Indian Tribe of Wisconsin recognizes that the governing body of the Tribe, the Menominee Tribal Legislature, has the duty and authority to protect itself, its land, and people from any conduct that threatens their health, safety, and welfare.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee Indian Tribe also recognizes that it has the inherent sovereign power to exclude and remove individuals from the Menominee Indian Reservation. They recognize that this inherent power comes from the traditional tribal practices and recognizes the importance of keeping such traditional practices alive as a means of the protecting the Tribe, the reservation, and all people present in their jurisdiction.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><cite path="|I|80">This Chapter</cite> is adopted by the Menominee Tribal Legislature under the authority granted by Article</text>
+      <para>
+        <num>III.</num>
+        <text>Powers of the Tribal Government of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin and pursuant to the Tribe's inherent sovereign authority.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Menominee Indian Tribe of Wisconsin recognizes the severity of this action and is desirous of establishing a reasonable procedure to determine the necessity of excluding persons from the Reservation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The purpose of <cite path="|I|80">this Chapter</cite> is to provide procedures for the partial or total exclusions from the Reservation of individuals who engage in conduct that threatens the health, welfare, safety, and security of the Tribe, tribal government and employees, tribal businesses, tribal members, or any non-member who is present on the reservation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Menominee Tribal Legislature expressly finds that the procedures set forth in <cite path="|I|80">this chapter</cite> are intended to provide reasonable and orderly means of excluding persons from the Menominee Reservation for the benefit of the Tribes and its members and residents and are not intended to grant specific rights.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-2</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>BANISHMENT — Means exclusion.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>EXCLUSION — Means an action by the Menominee Tribal Legislature or Menominee Tribal Court as designate that prohibits and/or restricts a person's access to the territory of the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>INTEREST IN REAL PROPERTY — Means a legal and lawfully recorded, if required by law, real property possessory interests in the following manners: fee simple absolute ownership interests, leasehold interest, or life estate.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>LEGISLATOR — Means a duly elected member of the Tribal Legislature. Legislators who have been expelled or recalled are no longer duly elected members of the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>MEMBER — Means an enrolled tribal member.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>NON-MEMBER — Means those persons who are not tribal members of the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>NONRESIDENT — Means those persons who do not reside on the territory of the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>PARTIAL EXCLUSION — Means an exclusion which restricts a person's access to tribal land and tribal as outlined in an exclusion order.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>RESIDE — Means to maintain a residence in the territory of the Menominee Indian Tribe of Wisconsin, and that residence shall be their primary place of residence.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>TERRITORY — Means all lands within the exterior boundaries of the Menominee Indian Tribe of Wisconsin and all lands outside the Menominee Indian Reservation owned by the Menominee Tribe, or by the United States in trust for the Menominee Tribe.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>TRIBAL LAND — Any tract of land in which the surface estate is owned by the Tribe in fee, in trust, or restricted status, and includes such lands reserved for BIA administrative purposes. The term also includes any tribal chartered entity, business enterprise, or school.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>TRIBAL MEMBER — Means persons who are on the official tribal membership roll as defined in <cite path="§69-2">§ 69-2</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-3</num>
+    <heading>Persons subject to exclusion and removal.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as provided by this section, all persons except those authorized by tribal law or federal law to be present on tribal land may be excluded or removed from the Menominee Indian Reservation or parts thereof.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person having an interest in real property on the reservation may be excluded from any portion of the reservation as long as he/she is not denied access to or the use of such property where they reside.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Exclusion by ordinance. Exclusion and removal of tribal members shall be done by ordinance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Exclusion by resolution. Exclusion and removal of nonmembers shall be done by resolution.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-4</num>
+    <heading>Requirements for exclusion and removal.</heading>
+    <para>
+      <num>A.</num>
+      <text>The grounds for exclusion shall be when the lives, safety, security, health and/or welfare of the Tribe, tribal interests, tribal members or anyone on tribal lands within the jurisdiction of the Tribe is endangered.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Requirements for exclusion.</text>
+      <para>
+        <num>(1)</num>
+        <text>Members.</text>
+        <para>
+          <num>(a)</num>
+          <text>All Legislators must be in attendance to vote on an exclusion. If a Legislator is absent, the exclusion vote shall be rescheduled for a later time.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"All Legislators" means all of the duly elected Tribal Legislators who are active, sitting legislative members who have not vacated their position or who have not been expelled or recalled. No vote may take place if by reason of vacancy, voluntary or involuntary, there are not at least seven Legislators present to vote.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All Legislators, including the Chairperson, must vote; no abstentions are allowed.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In order for an ordinance of exclusion and removal to be passed, seven Legislators must vote in favor of the ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Nonmembers.</text>
+        <para>
+          <num>(a)</num>
+          <text>All Legislators should be in attendance to vote on an exclusion unless there is good cause for their absence.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"All Legislators" means all of the duly elected Tribal Legislators who are active, sitting legislative members who have not vacated their position or who have not been expelled or recalled. No vote may take place if by reason of vacancy, voluntary or involuntary, there are not at least seven Legislators present to vote.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A vote on exclusion may not take place if the good cause for absence results in less than seven Legislators present to vote on an exclusion. If seven Legislators are not present, the exclusion vote shall be rescheduled for a later time.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All Legislators, including the Chairperson, must vote; no abstentions are allowed.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In order for a resolution of exclusion and removal to be passed, five Legislators must vote in favor of the resolution.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-5</num>
+    <heading>Requests for exclusion.</heading>
+    <para>
+      <num>A.</num>
+      <text>Requests for exclusions and removals may be initiated by tribal members, tribal departments, tribal employees, legislative committees, motion of special or general counsel, or Tribal Legislators, by providing a written request to the Menominee Tribal Chairperson's Office.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The written request must have sufficient information to identify the person and the reason for the request so that an ordinance or resolution can be drafted to meet the requirements of <cite path="|I|80">this chapter</cite>. Requests with insufficient information will be denied.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Chairperson, or designee, shall review in consultation with Legal Division as to the sufficiency of the request and whether it meets the requirements of <cite path="|I|80">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Presentation of an ordinance or resolution for exclusion and removal shall follow all constitutional and legislative rules of procedure requirements.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Submitting a request for removal is not a right and any action relating to requests for exclusions and removal is wholly with in the discretion of the Tribe as an expression of their sovereignty.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-6</num>
+    <heading>Hearing on exclusion and removal.</heading>
+    <para>
+      <num>A.</num>
+      <text>Procedural requirement for exclusion and removal by ordinance.</text>
+      <para>
+        <num>(1)</num>
+        <text>Notice.</text>
+        <para>
+          <num>(a)</num>
+          <text>Person(s) named in tribal ordinance or resolution of exclusion shall be personally served 30 days' prior to the First Consideration with a copy of the exclusion ordinance. Substitute services is allowed. Service may be made at current place of employment if employment is verified at the time of service.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the person cannot be found within the Reservation, notice may be effectively served by posting the notice in a conspicuous place at their known residence for not less than 20 business days if at least three personal service attempts have been made on two different days, with at least one attempt having been made between the hours of 5:30 p.m. and 10:00 p.m.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If the notice is posted, the notice shall also be mailed at the address on file with the Tribal Enrollment Department or other tribal department if nonmember. A public records check may also be used to find this information.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Following personal or substitute service of the initial documents, notices of continuance or procedural may be mailed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Persons subject to exclusion may obtain counsel at their own expense.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Except for additional requirements set out in this section, the process shall follow the normal legislative ordinance process or resolution process.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Primary speakers are those presenting the exclusion and the individual named to be excluded in the ordinance or resolution.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Nonprimary speakers shall follow the public comment rules set by the Legislature unless, prior to discussion, a vote of the majority of Legislators moves for a different time limit.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Written submissions of support for exclusion or opposition to exclusion can be submitted to the Legislature for consideration and will be part of the legislative record.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Notice of exclusion. Notice of the ordinance or resolution will be posted pursuant to <cite path="|I|177">Chapter 177</cite>, Posting Procedures. An official copy of the approved ordinance will be provided to all tribal entities and departments for enforcement purposes. They will include, but are not limited to, Menominee Tribal Enterprise, College of Menominee Nation, MITW Conservation, MITW Licensing and Permits, and MITW Law Enforcement.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Readmission. Readmission shall be determined by the specific terms in the tribal ordinance or resolution of exclusion.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Readmission. Readmission shall be determined by the specific terms of the tribal ordinance or exclusion of removal.</text>
+      <para>
+        <num>(1)</num>
+        <text>Requests for general readmission and lifting of the exclusion shall be presented to the Language and Culture Commission. The Language and Culture Commission will send any recommendation to Tribal Legislature for final consideration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribal Legislature shall make any final determination on readmission by amendment to the origination ordinance or resolution.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Specific, or one-time requests shall be determined by the terms in the exclusion ordinance or resolution.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The tribal legislative decisions acting in a fact finding manner shall be done by the preponderance of the evidence.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Except for any additional requirements set out in this section, the process shall follow the normal legislative ordinance or resolution process.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-7</num>
+    <heading>Appeals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any excluded individual has five business days, from the date the motion approving the exclusion ordinance or resolution occurred, to provide and serve notice of procedural error to the Tribal Chairperson.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Procedural error, if determined, may be corrected by rescheduling the approval of resolution or final approval of an ordinance.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Entry of persons on Reservation for exclusion appeal. In cases where the excluded individual cannot utilize a nonexcluded individual for service of procedural error to the Tribal Chairperson, the excluded individual shall call the Tribal Chair's Office to schedule a time for delivery of such notice.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The excluded individual may only reenter in the company of law enforcement, except an excluded individual may reenter without law enforcement 30 minutes before reschedule hearing, but shall immediately leave following the rehearing if the exclusion is reaffirmed.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Notice may be given by mail, but the letter must be postmarked no later than the fifth business day.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-8</num>
+    <heading>Enforcement of orders of exclusion and removal.</heading>
+    <para>
+      <num>A.</num>
+      <text>If any person ordered excluded from the Menominee Indian Reservation or tribal lands pursuant to <cite path="|I|80">this chapter</cite> does not promptly obey the order, law enforcement officers may immediately physically remove the person excluded from the Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The matter may also be referred to the United States Attorney or the County District Attorney, who may take such legal action as may be necessary to compel compliance with the order.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>80-9</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Criminal penalties.</text>
+      <para>
+        <num>(1)</num>
+        <text>Failure to obey exclusion order. Any Indian that knowingly violates an order of exclusion issued pursuant to <cite path="|I|80">this chapter</cite> shall be deemed guilty of an offense and may be subject to a fine not to exceed $5,000 and a jail term not to exceed one year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Harboring excluded individual. Any Indian that knowingly violates an order of exclusion issued pursuant to <cite path="|I|80">this chapter</cite> shall be deemed guilty of an offense and may be subject to a fine not to exceed $1,000 and a jail term not to exceed six months; except for harboring an individual excluded for drug-related crimes or activities or actions resulting in serious bodily harm or death, the subject shall be fine not to exceed $2,500 and a jail term not to exceed one year.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Civil penalties.</text>
+      <para>
+        <num>(1)</num>
+        <text>Frustration of exclusion order. Any person that knowingly violates an order of exclusion issued pursuant to <cite path="|I|80">this chapter</cite>, including harboring or allowing excluded individuals in their residence on the Menominee Indian Reservation, commits a civil infraction punishable by a fine not to exceed $500. Public posting of exclusion ordinances or resolutions pursuant to tribal posting requirements is sufficient proof of knowledge of exclusion.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text><cite path="|I|80">This chapter</cite> shall have no effect on other tribal code or ordinances that have their own exclusion provisions, including, but not limited to: <cite path="|II|306">Chapter 306</cite>, Drugs and Drug Paraphernalia; <cite path="|II|290">Chapter 290</cite>, Article XIV, Gang-Related Crimes; <cite path="|II|290">Chapter 290</cite>, Article XVI, Sex Offender Registration and Notification.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Exclusions and removals authorized under <cite path="|I|80">this chapter</cite> are not criminal in nature. These exclusions are an expression of the Menominee Indian Tribe of Wisconsin's inherent right to exclude.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

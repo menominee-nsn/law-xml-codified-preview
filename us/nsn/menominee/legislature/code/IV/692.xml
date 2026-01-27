@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="IV|692">
+  <prefix>Chapter</prefix>
+  <num>692</num>
+  <heading>MENOMINEE TRIBAL ENTERPRISES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-2-1999 by Ord. No. 99-21. Amendments noted where applicable</annotation>
+    <annotation type="General References">Forest management and development — See <cite path="|II|340">Ch. 340</cite>.</annotation>
+    <annotation type="General References">Menominee Enterprises Plan — See Ch. A910.</annotation>
+  </annotations>
+  <section cache:ref-path="IV|§692-1">
+    <prefix>§</prefix>
+    <num>692-1</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>For the purpose of this Charter, the following terms shall have the following meaning: BOARD OF DIRECTORS — That entity which is elected under this Charter.</text>
+      <text>ELIGIBLE VOTER — Any tribal member who is at least 18 years of age on the date of an election held under this Charter.</text>
+      <text>ENTERPRISE PERSONAL PROPERTY — That personal property, including cash on hand, described in the attached Exhibit C.<fn path="|IV|§692-1|footnotes|1">1</fn></text>
+      <text>MANAGEMENT PLAN OF MENOMINEE ENTERPRISES (hereinafter "Management Plan") — That document approved in 1975 which is terminated by establishment of this Charter.</text>
+      <text>MENOMINEE CONSTITUTION AND BYLAWS, AS AMENDED (hereinafter "Constitution") — That document approved in 1976 by tribal members and ratified by the Secretary of the Interior in 1977.</text>
+      <text>MENOMINEE ENTERPRISES, INC. — That Wisconsin corporation established in 1961 for the purpose of maintaining ownership of tribal assets which were affected by the Termination Act.</text>
+    </para>
+    <aftertext>MENOMINEE TRIBAL ENTERPRISES (hereinafter "MTE") — The tribally chartered successor business established by this Charter. See Subsection B of this section.</aftertext>
+    <aftertext>MTE SUPERVISORY EMPLOYEE — Any person who is employed in a position in MTE's operation who supervises other employees.</aftertext>
+    <aftertext>PRINCIPAL PLACE OF BUSINESS — Neopit, Wisconsin. RESERVATION — The Reservation of the Tribe.</aftertext>
+    <aftertext>SUBJECT PROPERTY — The tribal forest lands, the personal property described in Exhibits A, B, and C attached hereto,<fn path="|IV|§692-1|footnotes|2">2</fn> and such additional assets as may have been obtained by the prior management under the Management Plan.</aftertext>
+    <aftertext>TRIBAL FOREST LANDS — The following described real property together with all down and standing timber existing on or connected with said real property: all land classified as forest lands in the deed from the United States of America to Menominee Enterprises, Inc., dated April 26, 1961, and recorded September 10, 1961, with the Register of Deeds of Menominee County, Wisconsin, in Volume 1 of Records at page 15, as Document No. 10, excepting that portion conveyed by Menominee Enterprises, Inc., to bona fide purchasers of record and that portion reclassified by Menominee Enterprises, Inc., and leased, used or occupied for residential purposes.</aftertext>
+    <aftertext>TRIBAL LEGISLATURE — The tribal governing body elected pursuant to the Constitution. TRIBAL MEMBER — Any person included on the official roll of the Tribe.</aftertext>
+    <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin.</aftertext>
+    <para>
+      <num>B.</num>
+      <text>Note: The Management Plan provided for a managing entity named "Menominee Enterprises, a Tribal Enterprise of the Menominee Indian Tribe of Wisconsin." The term "MTE" is not mentioned in the Management Plan and apparently began to be used at some time in place of the formal title of the managing entity. This Charter legally establishes "Menominee Tribal Enterprises, MTE" as title of the managing entity of the subject property.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Exhibit C is included at the end of <cite path="|IV|692">this chapter</cite>.</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Exhibits A, B and C are included at the end of <cite path="|IV|692">this chapter</cite>.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this Charter is to terminate the Management Plan of 1975 and to organize a successor business as provided for under Article XII, Menominee Constitution and Bylaws. The Tribal Legislature hereby states that the Board of Directors elected under this Charter shall honor and shall give full effect to all valid contracts, obligations, and liabilities of the prior management known as "MTE" which are in effect as of the date of the transfer of management authority provided for under this Charter.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-3</num>
+    <heading>Management policy.</heading>
+    <text>The Tribal Legislature directs that the management of the subject property by MTE shall follow the policy of promoting maximum self-determination of the Tribe, and the Tribal Legislature in dealing with the United States in the management of the subject property shall seek federal protection and avoid federal domination.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-4</num>
+    <heading>Scope of authority.</heading>
+    <text>The scope of authority of MTE shall be to manage and operate the subject property on a sustained-yield basis pursuant to the provisions of the Forest Management Plan, Menominee Enterprises, Inc., 1968 to 1982 (1973 revision), as it may be amended, in order to promote the best interests of the Tribe and tribal members.</text>
+    <para>
+      <num>A.</num>
+      <text>Accordingly, the primary duties of MTE shall be to log, manage, and reforest tribal forest lands; to manufacture, market, sell and distribute timber, forest products and related products; and to operate subsidiary businesses concerning the subject property. MTE shall have all powers necessary to manage and operate the subject property in order to perform its duties properly as set forth herein.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Limitations on the scope of MTE authority.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Legislature hereby prohibits MTE from contracting with any federal or state governmental agencies without the approval of the Tribal Legislature authorizing the signature of the Tribal Chairperson.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribal Legislature hereby prohibits MTE from entering into any contract with or seeking advice from any legal counsel or law firm without the approval of the Tribal Legislature authorizing the signature of the Tribal Chairperson. The power to employ legal counsel, the choice of counsel, and the fixing of fees for legal counsel, subject to the approval of the Secretary of the Interior, is a vested power of the Tribal Legislature, per Menominee Constitution and Bylaws Article III, Section 1.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>MTE shall have no interest in the subject property, except the right to manage such property as set forth in this Charter, and the Legislature recognizes that the MTE Board of Directors retains the authority to set wages, benefits, and policies of MTE and its employees in concert with the Constitution and Bylaws of the Menominee Tribe.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>MTE shall have no power of management or control over tribal property, real or personal, or interests therein.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>MTE is not authorized to pledge, mortgage, lease, or otherwise encumber tribal land and interests therein except as may be authorized by the Tribal Legislature. Before the Tribal Legislature grants any such authority, MTE shall present a request in writing, stating compelling reasons for such authority, for consideration by the Tribal Legislature for denial or approval.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>MTE is authorized to acquire and own land or interests therein in its own name; provided, however, that such property shall be held in fee by MTE and subject to tribal, state, and federal jurisdiction as applicable to such fee land. In the event MTE acquires real property and requests the Tribal Legislature to place real property in trust for the Menominee Tribe, the provisions of this Charter shall be fully applicable to such land.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-5</num>
+    <heading>Powers retained by Legislature.</heading>
+    <text>The Tribal Legislature shall retain all authority and power to exercise all proper governmental and sovereign functions over MTE, including but not limited to the following: the power to enact and enforce tribal laws of general applicability, such as tribal preference in employment and the exemption from state and federal taxation, and to direct an annual assessment/evaluation of the state of the forest and lumbering operations pursuant to <cite path="§692-15">§ 692-15</cite> herein, on a cost-shared equitable basis between the Tribal Legislature and MTE.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-6</num>
+    <heading>Sovereign immunity.</heading>
+    <para>
+      <num>A.</num>
+      <text>For the purpose of enabling MTE to enter into business agreements either to secure debts or to provide services or products, MTE is hereby authorized to agree by specific written agreement with any party to sue and be sued in its capacity as a tribally chartered business upon any contract, claim, or obligation arising out of its authorized activities, and for the same purposes MTE is authorized to agree by specific written agreement with any party to waive immunity from suit it might otherwise have.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature does not waive or limit the right of the Tribe or MTE to sovereign immunity from suit, except as specifically provided for in <cite path="§692-6|A">Subsection A of this section</cite>, nor does the Tribal Legislature waive or limit any exceptions and immunities from taxation to which the Tribe, its members and MTE may be entitled by law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-7</num>
+    <heading>Special election of Board of Directors.</heading>
+    <para>
+      <num>A.</num>
+      <text>The subject property is being managed on an interim basis under the Management Plan of 1975 and a Board of Directors elected under the provisions of that Plan. In accordance with Article XII of the Constitution, before this Charter becomes effective, a Board of Directors as provided for herein shall be elected. Pursuant to its constitutional mandate, the Tribal Legislature sets forth below the procedure to be followed for a special election of the initial Board of Directors of the successor business, MTE.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature shall schedule a special election for the initial MTE Board of Directors pursuant to this Charter to be held on a date to be determined by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The election shall be conducted by a special election commission, appointed by the Tribal Legislature, composed of three adult tribal members. The Commission shall provide for absentee and write-in voting.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The special election shall be held on one day with voting at the Tribal Office Building, polls open from 8:00 a.m. to 8:00 p.m. and counting to begin immediately after the polls close.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>For the special election, 12 eligible tribal members shall be elected to the Board of Directors by this special election and shall serve the following terms: the candidates receiving the top four highest votes shall serve three-year terms; the candidates receiving the next four highest votes shall serve two-year terms; and the candidates receiving the next highest votes shall serve one-year terms. Four members of the Board of Directors may be from off Reservation and be elected to the Board as off-Reservation members. Eight members of the Board shall be residents of the Reservation. In the event that more than four members are elected from off Reservation, only the top four candidates shall be considered winners of seats on the Board. Off-Reservation candidates who may receive votes among the top 12 candidates in excess of the four top off-Reservation candidates shall be declared ineligible for office by the election commission. Ties shall be decided by some means of chance. Any dispute or request for a recount shall be filed with the election commission within five calendar days of the election. On the sixth calendar day following the special election, the newly elected Board of Directors shall have its organizational meeting as provided for herein.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To be eligible as a candidate for the special election, a person is required to be a tribal member of 1/4 degree, age 25 years or more on the day of the election, and not in conflict as described herein and to submit a nominating petition signed by 75 eligible voters to the special election commission, and to have no felony record as noted in <cite path="§692-8">§ 692-8</cite> herein.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Organization meeting of initial MTE Board of Directors. The Board of Directors shall meet at a time and place scheduled by the Tribal Legislature for the purpose of being sworn in as Board members and electing a Chairperson, Vice Chairperson, and Secretary from its membership by secret ballot. The Tribal Legislature shall attend this organization meeting and, by majority vote of both the Board and the Legislature, determine the process for assuming control of the management responsibilities and all books and records of the predecessor business as provided for in the Menominee Constitution, Article XII, Section 2.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The Board of Directors is hereby authorized to appoint an eligible tribal member to fill a vacancy on the Board until the next annual election when an eligible tribal member shall be elected to complete the term of office vacated.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Directors shall be subject to recall on grounds of dishonesty, incompetence, nonparticipation in Board matters, individual actions by a Board member outside the scope of the Board's authority on MTE business matters, or other conduct detrimental to the interests of the Tribe or MTE, pursuant to a procedure by the Board that provides that due process is afforded to the involved Board member(s).</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-8</num>
+    <heading>Eligibility requirements for election to Board of Directors.</heading>
+    <para>
+      <num>A.</num>
+      <text>In accordance with Article XVII, Conflict of Interest, Menominee Constitution and Bylaws, no person who is employed in a supervisory position in the management of MTE operations as defined herein, no consultant, legal representative, or contractor of MTE, no officer of the MTE business, and no person who has been convicted of any type felony within the past 10 years, unless such person shall have been pardoned by federal authorities or state authorities or has received a certificate of rehabilitation from the Menominee Tribal Court, shall be eligible to be a candidate for the election of the Board of Directors.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Candidates for election to the Board of Directors shall be tribal members with a blood quantum of 1/ 4, age 25 years or more on the day of the election, and complete the requirements listed herein.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any eligible tribal member who wishes to be on the ballot for the election of the Board of Directors shall be named in a nominating petition signed by 75 eligible tribal voters and filed with the appropriate election official at least 30 days prior to the election.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-9</num>
+    <heading>Regular election of Board of Directors.</heading>
+    <text>As an exercise of the sovereign and governmental power of the Tribal Legislature, for the purpose of providing a process for the orderly transition from the Management Plan to management under Article XII of the Constitution, the Tribal Legislature hereby mandates that the terms of the members of the Board of Directors elected in the special election as provided in <cite doc="Charter of the Menominee Indian Tribe" path="|692|§692-7">§ 692-7 of this Charter</cite> be extended for approximately four months from the date of the special election to February 9, 2000, at which time the regular terms of the members of the Board of Directors elected in the special election shall begin. Following the initial special election of the MTE Board of Directors, the following provisions shall apply to annual elections of the MTE Board of Directors:</text>
+    <para>
+      <num>A.</num>
+      <text>Elections of the MTE Board of Directors shall be conducted by the Tribal Election Commission in order to maintain the integrity of the election and to avoid any impropriety.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Eligible candidates shall meet the requirements set forth above in the provisions for the special election, <cite path="§692-7">§ 692-7</cite>. A nominating petition signed by 75 eligible tribal voters shall be submitted to the Secretary of MTE 30 days prior to the scheduled election, and the Secretary shall immediately forward such petition to the Tribal Election Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The annual election of the Board of Directors shall take place on the second Wednesday of January beginning in the year 2001, which day is hereby declared to be the first day of the annual business meeting of the Board of Directors.</text>
+      <para>
+        <num>(1)</num>
+        <text>The regular election of the Board of Directors in the year 2001 shall be for the purpose of electing four persons to the Board whose terms were for one year in the special election as provided for herein. The four persons elected in the year 2001 shall be elected for a three-year term.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The regular election of the Board of Directors in the year 2002 shall be for the purpose of electing four persons whose terms were for two years in the special election as provided for herein. The four persons elected in the year 2002 shall be elected for a three-year term.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Regular elections of the Board of Directors after the year 2002 shall be for the four positions of persons whose terms expire after a three-year term. At no time shall the number of persons elected to the Board of Directors be more than four persons from off Reservation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board of Directors is hereby authorized to appoint an eligible tribal member to fill a vacancy on the Board until the next annual election, when an eligible tribal member shall be elected to complete the term of office, if necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The election shall be held on one day at the Tribal Office Building, with polls open from 8:00 a.m. to 8:00 p.m. and counting to begin immediately after the polls close.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The newly elected Board of Directors shall be sworn in on February 9, which day is designated as the second day of the annual business meeting.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Directors shall be subject to recall on grounds of dishonesty, incompetence, nonparticipation in Board matters, individual actions by a Board member outside the scope of the Board's authority on MTE business matters, or other conduct detrimental to the interests of the Tribe or MTE, pursuant to a procedure by the Board that provides that due process is afforded to the involved Board member(s).</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-10</num>
+    <heading>Meetings of Board of Directors.</heading>
+    <para>
+      <num>A.</num>
+      <text>Annual business meeting. The annual business meeting shall be held for two days. The first day of the annual business meeting shall be the second Wednesday of January; the second day of the annual business meeting shall be February 9.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Purposes. The purpose of the annual business meeting shall be to provide for the election of the required number of members of the Board of Directors for a full complement of 12 members in the manner set forth above on day one of the annual meeting, and the second day of the annual meeting shall be to swear in new Board members, elect new officers of the Board, and to report on the state of the subject property managed by the MTE Board of Directors. There shall be at least 125 eligible tribal voters present on day two before business can be conducted at such meeting.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Regular meetings. The Board of Directors shall meet on a quarterly basis as provided for in Article XII, Menominee Constitution and Bylaws. Other meetings may be held at the call of the Chairperson of the Board of Directors or two Board members upon 72 hours' notice, with a posted agenda which includes "Other Business," and such meetings shall be open to tribal members only, except for executive sessions as set forth in the Constitution, Bylaw II, Section 4.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Special meetings. The Board of Directors may hold special meetings on less than 72 hours' notice provided that reasonable efforts are made to notify all Board members. The Board Chairperson or any two Board members may request a special meeting.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Quorum. No action shall be taken at any meeting which does not have a quorum present consisting of a majority of Directors then in office; provided that less than a quorum can adjourn a meeting.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Committees. The Board may name committees, composed of three Board members, for specified purposes, with a Chairperson named by the entire Board. The Chairperson of the Board may be a member of a committee; however, the Chairperson shall be an ex officio member of any such committee. Committees shall have no decisionmaking ability but shall be limited to provide research, investigation, and advisory assistance to the Board and shall report at the first regular meeting following a committee meeting. Except for special circumstances as determined by the three officers of the Board of Directors, committees shall meet quarterly.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-11</num>
+    <heading>Compensation of Board of Directors.</heading>
+    <text>The Board of Directors may vote itself a reasonable compensation for meetings and time on task for Board purposes; provided, however, that such compensation shall not exceed meeting and time on task payments paid to the Tribal Legislature. The initially elected Board of Directors shall set a reasonable compensation for the entire Board. Time on task shall only be allowed by a majority vote of the entire Board of Directors and shall include any work done as part of a committee.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-12</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General method of operation. MTE shall be operated in an efficient, businesslike manner in accordance with this Charter and the Trust and Management Agreement. The Board shall cause the following to be achieved:</text>
+      <para>
+        <num>(1)</num>
+        <text>A written accounting system, approved by an independent certified public accounting firm;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A separate listing of each cost area in the forest and lumbering business;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An inventory of property taken on the last day of business of each fiscal year;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An annual audit conducted by an independent certified public accounting firm;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An annual financial statement;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Monthly financial statements;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A proposed budget prepared at the beginning of each fiscal year;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>General policies with a statement of purpose, policy, and administrative and personnel policies; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Compliance with federal workers' compensation and social security laws.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of profits of MTE. The profits of MTE shall be allocated in the manner set forth in <cite path="§692-12|B.">this subsection</cite>.</text>
+      <para>
+        <num>(1)</num>
+        <text>MTE shall, as soon as practicable, make a determination of the net profits of MTE for each fiscal year. That profit shall be determined from revenues, cost of sales, operating expenses, general income and expenses, taxes, if any, and interest payments on the outstanding bonds administered in accordance with the bond indenture dated April 30, 1961, First Wisconsin Trust Company as trustee, and on any outstanding supplemental bond indentures.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Excess profits shall then be determined by subtracting from net profits such amounts as are deemed appropriate by the Board of Directors for expansion, for asset replacement, and for sinking fund or a reserve to retire the principal obligation on the bond indentures named in <cite path="§692-12|B|(1)">Subsection B(1) of this section</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Excess profits shall then be divided by the Board of Directors on an equitable basis between an amount to be retained by MTE (hereafter "retained share") and an amount to be paid over by MTE to the Tribal Legislature, representing the Tribe (hereafter "tribal share"). In making the division between the retained share and the tribal share, the Board of Directors shall consult extensively with the Tribal Legislature and shall be guided by industry standards.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Tribal Legislature shall then determine whether the tribal share shall be utilized for tribal operations, distributed to tribal members, or divided and used for both purposes. In making its determination as to the distribution of the tribal share, the Tribal Legislature shall use its best judgment and shall carefully consider both the need for effective tribal operations and the individual financial needs of tribal members.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-13</num>
+    <heading>Officers.</heading>
+    <para>
+      <num>A.</num>
+      <text>There shall be three officers of the tribally chartered business, MTE: Chief Executive Officer (CEO), Secretary, and Treasurer. These officers shall be appointed by the Board of Directors, paid a salary commensurate with their duties, and appointed to serve at the pleasure of the Board; provided, however, that all such appointments shall have an initial period of 90 days during which the Board may terminate such appointment without cause. Appointment to such offices shall create no rights of any kind, including contract rights. Members of the Board of Directors shall not be eligible for any of these three offices.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Methods of appointment. The Board of Directors shall appoint MTE officers by a two-thirds majority of the entire Board of Directors (nine votes) at a meeting called for such purpose. Notice of these appointments shall be posted by the Board Secretary, applications shall be requested and a deadline date set for acceptance of applications. The Board shall give due deliberation to the applications and schedule interviews with applicants. Within a reasonable time, not to exceed five days, the Board shall notify the applicants of its selection.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Eligibility requirements for officers. As a profit-making business, job qualifications for MTE officers shall follow industry standards for officers in a forestry and lumbering management business. The Board is mandated to appoint officers best suited to do the job and is further instructed to make the best use of the ninety-day period provided herein to evaluate its appointments.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Duties of officers. Officers shall be mandated to manage MTE to the best of their ability in order to make a profit for the business and the Tribe, taking into consideration that subject property belong to the entire Tribe, and every effort shall be made to preserve and protect this tribal asset.</text>
+      <para>
+        <num>(1)</num>
+        <text>Accordingly, the Board of Directors shall direct the CEO to assume such managerial duties as shall serve that purpose. The CEO shall make regular reports to the Board of Directors at the Board's meetings and at other times as requested by the Board. The CEO is not authorized to enter into any contracts in excess of $25,000 except as approved by a majority vote of the Board of Directors.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The MTE Secretary shall assist the CEO in management of the business and shall perform such duties as the CEO delegates.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Treasurer shall be required to work in close cooperation with the CEO. Regular reports shall be made to the CEO as to the financial affairs of MTE, which reports shall be made available to the Board of Directors on a timely basis.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Retained rights of the Board of Directors. Pursuant to Article XII, Section 2, <cite path="§692-13|(e)|(6)">Subsection (e)(6)</cite>, Menominee Constitution and Bylaws, the Board retains the right to amend these provisions establishing officers of MTE; provided, however, that no officer of MTE business shall be a member of the Board of Directors.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-14</num>
+    <heading>Rights of tribal members.</heading>
+    <para>
+      <num>A.</num>
+      <text>Eligible tribal voters of the Tribe shall have the right to vote for members of the Board of Directors, as provided herein, as well as on other matters submitted to the tribal voters for a vote at regular and special business meetings of the MTE Board. Write-in voting and absentee voting shall be permitted, but voting by proxy and cumulative voting shall not be permitted.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Eligible tribal voters shall have the right to recall members of the Board of Directors in accordance with the following procedure: upon receipt of a petition signed by 200 eligible voters setting forth the alleged misconduct with specificity, the appropriate officer of MTE shall call and give notice of a special meeting of the tribal members. Such meeting shall be held not less than 10 nor more than 30 days after receipt of such petition. At such meeting, eligible tribal voters shall vote on the question of whether the Director in question shall be removed from office on the basis of one or more of the grounds set forth in the petition. No Director shall be removed from office unless at least 30% of all eligible voters participate in the recall election and at least 2/3 of the eligible voters participating in the recall election vote in favor of removal.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Eligible tribal voters shall have the right to petition for special business meetings of the tribal members in accordance with the following procedure:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary of MTE shall call such a meeting upon receipt of a written petition which is signed by not fewer than 200 eligible voters and which sets forth with specificity the business to be transacted at the special meeting. The Secretary shall notify eligible voters of the meeting by posting notice in accordance with Bylaw II, Section 4, Menominee Constitution and Bylaws. Such notice shall state the place, day, hour, and the purpose(s) for which the meeting is called.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Such notice shall be posted not less than 10 nor more than 50 days before the date of the meeting. If the place of meeting is not designated in the notice, the place of meeting shall be the office of MTE, but any such meeting may be adjourned to reconvene at any place designated by a vote of a majority of eligible voters who are present at the meeting. No business shall be transacted at any special meeting except as designated in the notice of meeting.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-15</num>
+    <heading>Annual assessment and evaluation of forest and lumbering operations.</heading>
+    <text>The Tribal Legislature as an exercise of its governmental and sovereign powers hereby mandates that an annual assessment and evaluation of the state of the forest and lumbering operations shall be undertaken by an impartial, qualified authority to be selected by the Tribal Legislature in consultation with and upon the advice of the United States Forestry Department and the Department of the Interior pursuant to their trust responsibility relationship with the Tribe. This evaluation shall take place at a time to be set by the Legislature. The results of this evaluation shall be shared with the Board of Directors. In the event that recommendations are made, the Tribal Legislature shall direct the Board of Directors to make the required changes so as to conform to the recommendations of the assessment and evaluation process.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-16</num>
+    <heading>Indemnification.</heading>
+    <text>The Board of Directors and the three appointed officers of MTE shall be indemnified from any court-awarded damages that might result from the performance of the duties of office.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>692-17</num>
+    <heading>Amendment of Charter.</heading>
+    <text>This Charter may be amended by the Tribal Legislature pursuant to the Menominee Constitution and Bylaws.</text>
+    <annotations/>
+  </section>
+</container>

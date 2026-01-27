@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|15">
+  <prefix>Chapter</prefix>
+  <num>15</num>
+  <heading>ARBITRATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-1-2008 by Ord. No. 08-06. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>15-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|I|15">this chapter</cite> is to allow for the efficient arbitration of any dispute between the Menominee Indian Tribe of Wisconsin ("Tribe") or the Menominee Indian Gaming Authority (MIGA) and any third party where the Tribe or Authority has consented to such arbitration in a manner which preserves the sovereign immunity of the Tribe in accordance with Article XVIII of the Constitution and Bylaws of the Menominee Indian Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-2</num>
+    <heading>Applicability.</heading>
+    <text>The provisions of <cite path="|I|15">this chapter</cite> shall apply to:</text>
+    <para>
+      <num>A.</num>
+      <text>Any contract entered into by the Tribe with any third party pursuant to <cite path="|I|90">§ 90-6 of Chapter 90</cite>, Gaming Authorities, Article I, Menominee Indian Gaming Authority, of this Code and any contract entered into by the Authority with any third party (hereinafter "applicable contract"); and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any contract, including but not limited to any Abandonment Reimbursement Agreement, authorized by the Menominee Tribal Legislature, and entered into between the Menominee Indian Tribe of Wisconsin and Seminole Hard Rock Entertainment, Inc., Osceola Group, or any affiliate thereof (hereinafter "applicable contract").</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any contract entered into between the Menominee Indian Tribe of Wisconsin and Midwest Contract Operations, Inc., related to consultation and management of tribal wastewater systems (hereinafter "applicable contract"); and <strong>[Added 10-20-2016 by Ord. No. 16-29]</strong></text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any lease of land from the Tribe to Standing Pines, LLC, or Wolf River Development Company; any written agreement entered into between Standing Pines, LLC and Bay Bank, or Wolf River Development Company and Bay Bank; and any Branch and Banking Services Agreement entered into between the Tribe and Bay Bank (hereinafter "applicable contract"). <strong>[Added 2-6-2020 by Ord. No. 19-33; amended 7-16-2020 by Ord. No. 20-17]</strong></text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Any written agreement entered into between Bug Tussel Wireless, LLC and the Menominee Indian Tribe of Wisconsin - Utilities Department executed after April 1, 2021 (hereinafter "applicable contract"). <strong>[Added 4-15-2021 by Ord. No. 21-36]</strong></text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 1-16-2014 by Ord. No. 13-51</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-3</num>
+    <heading>Validity and enforcement of agreements to arbitrate.</heading>
+    <text>A written provision in any applicable contract to settle by arbitration a controversy thereafter arising out of such contract or the refusal to perform the whole or any part thereof shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-4</num>
+    <heading>Stay of proceedings.</heading>
+    <text>If any suit or proceeding is brought in any of the Courts of the Menominee Indian Tribe upon any issue referable to arbitration under an applicable contract in writing for such arbitration, the Court in which</text>
+    <text>such suit is pending, upon being satisfied that the issue involved in such suit or proceeding is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement, provided that the applicant for the stay is not in default in proceeding with such arbitration.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-5</num>
+    <heading>Failure to arbitrate under agreement.</heading>
+    <text>A party alleging failure, neglect, or refusal of another to arbitrate pursuant to the terms of any applicable contract may petition the Menominee Tribal Court for an order directing that such arbitration proceed in the manner provided for in such agreement. Five days' notice in writing of such petition shall be served upon the party in default. Service thereof shall be made in the manner provided by the Menominee Tribal Court Rules of Civil Procedure. The Court shall hear the parties, and upon being satisfied that the making of the agreement for arbitration or the failure to comply therewith is not in issue, the Court shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement. If the making of the arbitration agreement or the failure, neglect, or refusal to perform the same is in issue, the Court shall proceed summarily to the trial thereof. The Court shall hear and determine such issue. Any petition to the Court pursuant to this section shall be made and heard in the manner provided by law for the making and hearing of motions.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-6</num>
+    <heading>Appointment of arbitrator.</heading>
+    <text>If in the applicable contract a method of naming or appointing an arbitrator or arbitrators is provided, such method shall be followed. If no such method is provided therein, or if for any reason there shall be a lapse in the naming of an arbitrator or arbitrators or in filling a vacancy, then upon the petition of either party to the controversy the Menominee Tribal Court shall designate and appoint an arbitrator or arbitrators, as the case may require, who shall act under said agreement with the same force and effect as if he or they had been specifically named therein, and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator. Any petition to the Court pursuant to this section shall be made and heard in the manner provided by law for the making and hearing of motions.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-7</num>
+    <heading>Witnesses before arbitrators.</heading>
+    <text>The arbitrators selected either as prescribed in the applicable agreement or in <cite path="§15-6">§ 15-6</cite> of <cite path="|I|15">this chapter</cite>, or a majority of them, may summon in writing any person to attend before them or any of them as a witness and in a proper case to bring with him or them any book, record, document, or paper which may be deemed material as evidence in the case. The fees for such attendance shall be the same as the fees of witnesses in United States courts. Said summons shall issue in the name of the arbitrator or arbitrators, or a majority of them, and shall be directed to said person and shall be served in the same manner as subpoenas to appear and testify before the Menominee Tribal Court. If any person or persons so summoned to testify shall refuse or neglect to obey said summons, upon petition the Menominee Tribal Court may compel the attendance of such person or persons before said arbitrator or arbitrators or punish said person or persons for contempt in the same manner provided by law for securing the attendance of witnesses or their punishment for neglect or refusal to attend in Menominee Tribal Court.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-8</num>
+    <heading>Confirmation of award of arbitration.</heading>
+    <text>If the parties in their agreement have agreed that a judgment of the Menominee Tribal Court shall be entered upon the award made pursuant to the arbitration, then at any time within one year after the award is made any party to the arbitration may apply to the Menominee Tribal Court for an order confirming the award, and thereupon the Court must grant such an order unless the award is vacated, modified, or corrected as prescribed in <cite path="§15-9">§ 15-9</cite> of <cite path="|I|15">this chapter</cite>. Notice of the application shall be served upon the adverse party, and thereupon the Court shall have jurisdiction of such party as though it had appeared generally in the proceeding. Service shall be made upon the adverse party or his attorney as prescribed by law for service of notice of motion in an action in Menominee Tribal Court.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-9</num>
+    <heading>Vacation, modification or correction of award.</heading>
+    <para>
+      <num>A.</num>
+      <text>In any of the following cases the Menominee Tribal Court may make an order vacating the award upon the petition of any party to the arbitration:</text>
+      <para>
+        <num>(1)</num>
+        <text>Where the award was procured by corruption, fraud, or undue means;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Where there was evident partiality or corruption in the arbitrators, or either of them;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Where the arbitrators were guilty of misconduct in refusing to postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and material to the controversy, or of any other misbehavior by which the rights of any party have been prejudiced; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Where the arbitrators exceeded their powers or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If an award is vacated and the time within which the agreement required the award to be made has not expired, the Court may, in its discretion, direct a rehearing by the arbitrators.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In either of the following cases the Menominee Tribal Court may make an order modifying or correcting the award upon the petition of any party to the arbitration:</text>
+      <para>
+        <num>(1)</num>
+        <text>Where there was an evident material miscalculation of figures or an evident material mistake in the description of any person, thing, or property referred to in the award.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Where the arbitrators have awarded upon a matter not submitted to them, unless it is a matter not affecting the merits of the decision upon the matter submitted.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Where the award is imperfect in matter of form not affecting the merits of the controversy.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The order may modify and correct the award so as to affect the intent thereof and promote justice between the parties.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Notice of a motion to vacate, modify, or correct an award must be served upon the adverse party or his attorney within three months after the award is filed or delivered. Such service shall be made upon the adverse party in the same manner a complaint must be served under the Menominee Tribal Court Rules of Civil Procedure. A Menominee Tribal Court Judge may make an order, to be served with the notice of motion, staying the proceedings of the adverse party to enforce the award.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-10</num>
+    <heading>Filing requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>The party moving for an order confirming, modifying, or correcting an award shall, at the time such order is filed with the Clerk for the entry of judgment thereon, also file the following papers with the Clerk:</text>
+      <para>
+        <num>(1)</num>
+        <text>The agreement; the selection or appointment, if any, of an additional arbitrator; and each written extension of the time, if any, within which to make the award.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The award.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each notice, affidavit, or other paper used upon an application to confirm, modify, or correct the award and a copy of each order of the Court upon such an application.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The judgment shall be docketed as if it was rendered in an action, and the judgment so entered shall have the same force and effect, in all respects, as and be subject to all the provisions of law relating to a judgment in an action, and it may be enforced as if it had been rendered in an action in Menominee Tribal Court.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-11</num>
+    <heading>Existing contracts not affected.</heading>
+    <text><cite path="|I|15">This chapter</cite> shall not affect or be applicable to any contract entered into prior to April 3, 2008.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>15-12</num>
+    <heading>Appeals.</heading>
+    <text>An appeal may not be taken from an interlocutory order:</text>
+    <para>
+      <num>A.</num>
+      <text>Granting a stay of any action under <cite path="§15-4">§ 15-4</cite> of <cite path="|I|15">this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Directing arbitration to proceed under <cite path="§15-5">§ 15-5</cite> of <cite path="|I|15">this chapter</cite>; or</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Refusing to enjoin an arbitration that is subject to <cite path="|I|15">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

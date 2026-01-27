@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|293">
+  <prefix>Chapter</prefix>
+  <num>293</num>
+  <heading>CULTURAL RESOURCE MANAGEMENT PLAN</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-15-1999 by Ord. No. 99-12. Amendments noted where applicable</annotation>
+    <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="General References">Language and Culture Code — See <cite path="|II|395">Ch. 395</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>293-1</num>
+    <heading>Introduction.</heading>
+    <para>
+      <num>A.</num>
+      <text>This plan was written for several reasons. First and foremost, it was written to protect all reserved rights of Menominee ancestors, enrolled members, and descendants.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>As such, this plan does not waive any federal agency of the trust responsibility owed to the Menominee Tribe in perpetuity.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Human activity has proven historically to take a heavy toll on cultural resources. Many significant archaeological resources or historic structures have been irreparably damaged by a variety of ground disturbing activities.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Menominee Tribe has the distinction of causing little impact upon the resources of the past. It is the intention of the plan to continue minimizing impact to cultural resources by limiting or regulating ground disturbing activity. Menominee elders set forth the framework of the plan by demonstrating how these resources should be treated through the traditional protection of these resources.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>This plan was completed thanks to a grant from the National Park Service and the support of the Menominee Tribal Legislature. The plan was developed in order to standardize the method the Tribe uses to address these resources.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Menominee Tribe decided to create a comprehensive resource management plan in order to provide the Tribe with a greater voice in the protection of all historic and cultural resources on Menominee land, as these resources are the cultural patrimony of the Menominee people, belonging to no specific individual. The plan was also established for the interpretation of Menominee history from a traditional Menominee perspective.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The plan allows the Tribe to identify, evaluate, interpret, and conserve historic and cultural resources. These steps empower the Tribe to use this information to interpret history from a Menominee perspective.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§293-2">
+    <prefix>§</prefix>
+    <num>293-2</num>
+    <heading>Establishment of Tribal Historic Preservation Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribal Legislature designates the Director of Historic Preservation to carry out the responsibilities for administering the Tribal Historic Preservation Program as the Tribal Historic Preservation Officer pursuant to 16 U.S.C. § 470a(d)(2)(B).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee Language and Culture Commission, including individuals appointed by the Commission, shall serve as the Tribal Historic Preservation Review Board [16 U.S.C. § 470a(b)(1)(B)].</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Historic Preservation Officer shall perform the following duties. The Tribal Historic Preservation Officer shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Coordinate a comprehensive survey and inventory of all lands within the exterior boundaries of the Reservation, documenting culturally and historically significant properties [16 U.S.C. § 470a(b)(3)(A)].</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Seek federal funding to employ professionally qualified individuals to fulfill the tribal program. This shall include short-term contract work by consultants and full-time employment of other experts, such as an archaeologist to complete the comprehensive survey [16 U.S.C. § 470a(b)(1)(A)].</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Nominate, along with the Review Board, all appropriate properties to the National Register and/ or the Tribal Register. Some properties will only be nominated to the Tribal Register to maintain site confidentially. These nominations shall be done in conformance with the provisions of 36 CFR 60.6 [16 U.S.C. § 470a(b)(3)(B)].</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Create a Tribal Register of Historic Places. This register will house a listing of historic or cultural Menominee resources (including prehistoric archaeological sites) occurring on or off the Reservation. These sites will be reviewed based upon their significance to the Menominee Indian Tribe. This register shall have two parts. One part shall be made open to the public upon request. The second part shall remain closed to the public in order to ensure the highest degree of protection of those sites.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Consult with federal agencies for the review of federal undertakings affecting cultural or historic resources within the exterior boundaries of the Reservation, pursuant to 16 U.S.C. § 470f (Section 106 of the Historic Preservation Act) and 36 CFR 800 et seq. The Tribal Historic Preservation Officer and Review Board shall also review the content and sufficiency of any plans to avoid damage to those resources, to ensure the preservation of Menominee resources [16 U.S.C. § 470a(b)(3)(I)].</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Approve all Archaeological Resources Protection Act<fn path="|II|§293-2|footnotes|1">1</fn> permits, with the concurrence of the Menominee Language and Culture Commission.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Advise and assist, when appropriate, federal, state, and local governments in carrying out their historic preservation responsibilities [16 U.S.C. § 470a(b)(3)(E)].</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Cooperate with the Secretary, the Advisory Council on Historic Preservation, and other federal agencies, state agencies, local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development [16 U.S.C. § 470a(b)(3)(F)].</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Evaluate proposals for rehabilitation. The Tribal Historic Preservation Officer will consult on an as-needed basis with individuals who meet the Secretary's professional qualifications standards for the discipline or disciplines that correspond to the resource under consideration. The Tribal Historic Preservation Officer will also consult with the State Historic Preservation Officer prior to submitting the Tribe's recommendations to the National Park Service [16 U.S.C. § 470a(b)(3)(J)].</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Every three years, review and update the plan. Public comment upon the plan shall be sought in local newspapers [16 U.S.C. § 470a(b)(1)(C)].</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Menominee Tribal Historic Preservation Officer shall have jurisdiction over all tribal lands as that term is defined in this plan.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In the event that fee simple lands owned by a nontribal individual require inventory, or receive nomination, the landowner may request that the State Historic Preservation Officer work with the Tribal Historic Preservation Officer.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See 16 U.S.C. § 470aa et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>293-3</num>
+    <heading>Identification of cultural and historic resources.</heading>
+    <para>
+      <num>A.</num>
+      <text>A standard four-stage process was adopted in order to provide continuity addressing the methods used to identify cultural and historic resources.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The four-phase process defines cultural or historic resources occurring or thought to occur on Menominee lands. Each phase requires the consultation of the Menominee Language and Culture Commission (or other Menominee elders appointed by the Commission), to serve as the Review Board, to determine the significance of any cultural or historic resource. The Board and a technical expert will determine the significance. The information from this entire process will be used by the Menominee to interpret Menominee history and culture. Preservation decisions are made according to the significance. These properties will be judged upon their significance to Menominee lifeways, history, and traditions, along with the significance to America's heritage.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This process provides an explanation of cultural resources from both the tribal and scientific community.</text>
+      <para>
+        <num>(1)</num>
+        <text>Identification.</text>
+        <para>
+          <num>(a)</num>
+          <text>Identification can occur several ways:</text>
+          <para>
+            <num>[1]</num>
+            <text>Documented or known sites.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Sites reported by local individuals, tribal departments (e.g., Conservation), tribal businesses or successor businesses (e.g., Menominee Tribal Enterprises), or any other agency working on behalf of the Tribe.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Sites uncovered during a future comprehensive archaeological survey of the Reservation.</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>Unknown sites uncovered in future.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A technical expert shall delineate all cultural or historic resources. Identification will only verify the existence of a site. This component includes one or more of the following: investigations shall include oral history interviews with individuals knowledgeable in that particular topic or location and archaeological and archival literature searchers.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Commission shall also develop a scope of work regarding all archaeological work that may be conducted during the continued investigation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Evaluation. This phase has a two-party process to evaluate cultural and historic resources.</text>
+        <para>
+          <num>(a)</num>
+          <text>First, a technical expert conducts a preliminary reconnaissance survey. During this phase, the geographic boundaries and temporal limits are determined. What is it, where does it begin, and where does it end are the questions that must be answered here. Should the resource have more than one component, this phase locates it.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The second step of the evaluation process is the consultation of eminent tribal elders as specified by the Menominee Language and Culture Commission. These elders will define the resources using traditional knowledge, based upon oral traditions, in order to determine the significance of the resource.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Interpretation.</text>
+        <para>
+          <num>(a)</num>
+          <text>The significance of the resource is determined between the technical expert and the appropriate Menominee elders.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The interpretation phase defines two aspects:</text>
+          <para>
+            <num>[1]</num>
+            <text>What the resource is; and</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>What is the significance of the resource?</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Properties shall be evaluated and documented following National Park Service guidelines and all appropriate bulletin guidelines (16a and 38). Such guidelines outline the methodology and criteria for conducting investigations and determining eligibility for the National Register.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A technical expert, utilizing the data collected, will answer the two aspects and draw his conclusions of the resource.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Then, the Review Board will draw its conclusions of the resource. This conclusion will answer both aspects. These answers from the Review Board are based on traditional Menominee teachings and oral histories. Insights are provided in this manner that have not previously been pursued.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Preservation.</text>
+        <para>
+          <num>(a)</num>
+          <text>In situ preservation is the traditional approach to locations culturally or historically important to the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>As such, preservation will determine exactly what types of activities may occur within a given area. Preservation as it relates to the ongoing protection of sites may differ from site to site.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Commission directs the Historic Preservation Department to begin formulating a preservation plan of the site and possible nomination of the property to the National Register.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Limited public access, allowing specific activities only, or allowing activities at a specific season (such as winter logging when frost will minimize ground disturbance), may be all that is required to successfully preserve a site.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The method of preservation is determined exclusively by the Menominee elders on the Language and Culture Commission or other appropriate Menominee elders appointed by the Commission.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If preservation cannot occur, the Review Board will work with Historic Preservation staff</text>
+          <text>and a technical expert to establish a scope of work for any form of data recovery. The scope of work must identify exactly how information will improve the understanding of Menominee history and be justified to meet the spiritual, cultural, social, and economic needs of the Tribe.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§293-4">
+    <prefix>§</prefix>
+    <num>293-4</num>
+    <heading>Nominations.</heading>
+    <para>
+      <num>A.</num>
+      <text>When properties are located which are eligible for inclusion on the Tribal or National Register, they may be nominated by any individual.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The nomination process for either register shall be consistent with the National Register process set out in 36 CFR 60.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Qualified individuals shall review all nominations. Those individuals shall post their findings in the tribal newspaper, and a thirty-day period will be open for public comment beginning upon the date of publication.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the event that a nominated site is privately owned, fee simple land within the exterior boundary of the Reservation, the owner may formally object to listing the property on the National Register. If so, the keeper of the National Register will determine if the property is eligible, without listing it. The Tribal Historic Preservation Officer will forward all comments and objections regarding nomination to the keeper.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In accordance with the National Historic Preservation Act, 16 U.S.C. § 470a(d)(2)(D)(iii), properties owned by non-Indian individuals in fee simple status may request that the State Historic Preservation Office exercise its historic preservation responsibilities along with the Tribal Historic Preservation Officer.<fn path="|II|§293-4|footnotes|2">2</fn></text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§293-5">
+    <prefix>§</prefix>
+    <num>293-5</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|293">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>ARTIFACTS — Human-made objects utilized in daily or ceremonial life at any point in the past.</text>
+    <text>BURIAL SITES — Geographic locations which contain human skeletal remains. Burial sites may have precise spatial boundaries in the case of cemeteries. Other burial sites may have vague spatial boundaries in the case of old, undocumented burial areas.</text>
+    <text>CONSTRUCTION — Construction projects occurring upon privately owned land will only include ground disturbing activity such as building basements, septic systems and large-scale road construction. Common yard work and improvements are excluded from the permit process.</text>
+    <text>CULTURAL RESOURCE — Any resource that had or maintains a cultural character, such as, but not limited to, social institutions, historic places, artifacts, and documents.<fn path="|II|§293-5|footnotes|3">3</fn></text>
+    <text>GROUND DISTURBING ACTIVITIES — Any activities which could result in damage to, or destruction of, cultural or historic resources must first receive a permit from the Historic Preservation Department. Activities such as (but not limited to) logging, construction, mining (including mineral resource exploitation), silviculture, aquaculture, archaeological research, or agriculture would require a permit to conduct such activities. Individuals or programs planning on conducting such activities shall apply for a permit prior to engaging in those activities.</text>
+    <text>HISTORIC PLACES — Geographic locations or specific man-made structures, buildings, objects, sites, and districts which are eligible for inclusion the National Register under the guidelines of the National Historic Preservation Act. Historic places will receive protection similar to the protections set forth under the National Historic Preservation Act.</text>
+    <text>MEMORANDUM OF AGREEMENT/UNDERSTANDING — Legally binding agreements between permit applicants conducting large-scale projects and the Tribe. Such agreements shall be negotiated by the Historic Preservation staff to resolve or mitigate any adverse affects of the applicant, agreed to by the Menominee Language and Culture Commission, and signed by the Tribal Chairperson.</text>
+    <text>MENOMINEE ELDER — A middle-aged or older individual knowledgeable in Menominee traditions and language or community history and community traditions.</text>
+    <text>MENOMINEE LANGUAGE AND CULTURE COMMISSION — The Commission established by the Tribal Legislature to guide the Historic Preservation Department in all cultural and spiritual matters. All members are knowledgeable in the traditions and oral histories of the Menominee Tribe.</text>
+    <text>MENOMINEE TRIBAL LEGISLATURE — The nine-member board authorized by the federal government in governing all matters concerning the Tribe as provided in Article III, Section 1 of the Menominee Constitution.<fn path="|II|§293-5|footnotes|4">4</fn></text>
+    <text>MENOMINEE TRIBAL REGISTER OF HISTORIC PLACES — An ongoing listing of historic or cultural properties throughout the Menominee Indian Reservation and any lands owned in whole or part by the Tribe outside the exterior boundaries of the Reservation. Many sites will not be disclosed to the public for the protection of the resource. Nomination will occur by anyone, but the Review Board shall conduct evaluation and placement on the register. Part of the register shall be made open to the public. Part of the register shall be made closed to the public for the protection of the site location.</text>
+    <text>NATIONAL REGISTER OF HISTORIC PLACES — An ongoing listing of historic properties throughout the United States. Maintained by the keeper of the register.</text>
+    <text>ON-SITE MONITOR — An individual trained to observe and identify cultural resources during the typical construction process.</text>
+    <text>PREHISTORIC ARCHAEOLOGICAL SITE — Geographic locations containing any material remains of past human activity.</text>
+    <text>REVIEW BOARD — The Board made up of the Menominee Language and Culture Commission and any other tribal elder or local tribal expert who possesses knowledge specific to cultural resources and is appointed by the Menominee Language and Culture Commission for a short-term seat on the Review Board.</text>
+    <text>SACRED SITES — Geographic locations which are highly significant due to the nature of activities occurring on the site. Activities may occur now or in the past. Most sacred sites will be locations of religious activity, specifically traditional Menominee religious activities. Most will also be eligible for inclusion in the National Register or Menominee Tribal Register. These sites are paramount to the continuation of traditional lifeways of Menominee culture. Most sacred sites will not be formally nominated to the National Register for the protection of the resource. Instead, they will be placed upon the Menominee Tribal Register, which is not open to the public. Sacred sites will receive the highest protection according to the direction of the Menominee Language and Culture Commission. Human activities will be strictly limited on site or disallowed completely.</text>
+    <text>TECHNICAL EXPERT — Qualification for archaeologists, historians, architects, and those who provide</text>
+    <text>designations under this plan which meets the criteria set forth in the Department of the Interior guidelines and appropriate National Register bulletins.</text>
+    <text>TRADITIONAL CULTURAL PROPERTIES — Geographic locations which are significant due to either the human activity occurring on the site or the history of the location. Traditional cultural properties are the core of Menominee history or the cultural identity of the Menominee Tribe. Traditional cultural properties will receive protection according to the direction of the Menominee Language and Culture Commission. Human activities may be limited on site or disallowed completely.</text>
+    <text>TRIBAL LANDS —</text>
+    <para>
+      <num>A.</num>
+      <text>All lands within the exterior boundaries of the Menominee Indian Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any land owned in whole or in part by the Menominee Tribe occurring outside the exterior boundaries of the Menominee Indian Reservation.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>293-6</num>
+    <heading>Permit application process.</heading>
+    <para>
+      <num>A.</num>
+      <text>All tribal members, tribal departments and agencies, tribal businesses, and successor businesses of the Tribe conducting any ground disturbing activities on trust or fee land within the exterior boundary of the Menominee Reservation, or lands owned in whole or part by the Menominee Tribe, shall first apply for a permit. It is the responsibility of the permittee to obtain the permit prior to conducting any ground disturbing activity.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In the event of a proposed activity occurring upon property already having undergone a satisfactory survey for historic or cultural resources, an exemption may be received from the Tribal Historic Preservation Officer.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The permit process is intended to address the preservation of known sites prior to any disturbance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Ground disturbing activities include, but are not limited to, logging, construction, mining, silviculture, aquaculture, agriculture, or archaeological research. Permit applicants apply for the permit with the Historic Preservation Office.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Permit application includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Enrollment number or tribal affiliation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Address.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Telephone number.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Location of property activity is to occur on:</text>
+        <para>
+          <num>(a)</num>
+          <text>Town.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Range.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Section number.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A complete description of activities to occur in conjunction with the permit.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>This information will be used by the Historic Preservation Department to determine the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Historic Preservation Department will compare this to a map of known properties containing significant properties. Then, the Menominee Language and Culture Commission will discuss the project area during its monthly meeting. An archaeological survey or reconnaissance may be required.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Historic Preservation Department will conduct archival research for any known properties included in the National Register within the project area.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon achieving Tribal Historic Preservation Office status, funds will be sought to hire a tribal archaeologist. Applicants can then have all surveys conducted by the tribal archaeologist.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a significant resource is known to be on the property, the Menominee Language and Culture Commission will determine what activities may occur on the site. The Menominee Language and Culture Commission has the authority to deny any permit on the basis of resource protection.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Depending upon the significance of the resource, specific limitations may be enforced. This may include limiting or closing all public access.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Stipulations can include, but are not limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Limited access.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Closed to the public.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No ground disturbing activity.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No building.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Construction may require an on-site monitor at all times.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In the case of large-scale projects, specific areas in a project can be modified without denying the permit.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The permit application should not exceed 60 days, unless there is potential for an adverse effect, where a memorandum of agreement (MOA) or other satisfactory agreement is in the process of negotiation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>293-7</num>
+    <heading>Archaeology.</heading>
+    <para>
+      <num>A.</num>
+      <text>Introduction.</text>
+      <para>
+        <num>(1)</num>
+        <text>Historically, archaeology has held a very negative connotation for tribal members. Several sites significant to the Tribe have been irreparably damaged by irresponsible archaeologists. The thought of allowing archaeological work to go on would have been previously unheard of by many tribal members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>However, the need for archaeological investigations in order to locate and protect the cultural resources vital to the Menominee Tribe exists. There is also a mutually beneficial relationship to be had between the tribal community and the scientific community. Therefore, the plan will dictate exactly how archaeological work will take place, and why.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Archaeological work conducted in accordance with this plan shall first receive an Archaeological Resource Protection Act (ARPA) permit. The Director of Historic Preservation, under the guidance of the Language and Culture Commission, will approve all ARPA permits. The Menominee Language and Culture Commission has the opportunity to approve the scope of work for the archaeological work to be conducted. Accordingly, all work will meet federal guideline standards and applicable laws.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Historic Preservation Department will house all information and artifacts produced during any stage of activity covered under this plan. The Historic Preservation Department will serve as the repository for all papers, studies, or maps. Artifacts will be held until the Menominee Language and Culture Commission determines the proper location. The disposition of any artifacts by the Commission will be final. Artifacts may be returned and reburied at the site location they were removed from.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Archaeologists.</text>
+      <para>
+        <num>(1)</num>
+        <text>Only technically qualified individuals will be allowed to conduct archaeological work within the exterior boundary of the Reservation. Accordingly, all archaeological reports shall be written and submitted by an archaeologist possessing a graduate degree in archaeology or anthropology (or related field) and a minimum of one year of field experience. This meets the Secretary of the Interior's standards until the Tribe achieves Tribal Historic Preservation Office status. At that time, the Tribal Historic Preservation Officer will establish standards suited to the needs of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No intrusive excavation will occur unless specifically authorized by the Director of Historic Preservation with the concurrence of the Menominee Language and Culture Commission. Only in extreme conditions will archaeological work exceed Phase II investigations. Phase II investigations usually incorporate controlled test excavations of a small sample (less than 10%) of a given site area. It is a means of understanding the structure, form, and stratigraphic and cultural contexts employed in assessing significance. Data recovery or excavation takes place in a Phase III investigation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All archaeological work shall conform to tribal and federal regulations.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Archaeological Resources Protection Act permits shall be approved by the Director of Historic Preservation under the guidance of the Menominee Language and Culture Commission.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Copies of all reports generated from archaeological work shall be sent to and stored at the Historic Preservation Department.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Cultural resources inadvertently discovered should be delivered to the Director of Historic Preservation for further analysis of the site and possible codification.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Historic Preservation Department will formalize a plan for training all pertinent tribal employees or contractors. This training will be used to teach those individuals to identify potential resources.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Data recovery.</text>
+      <para>
+        <num>(1)</num>
+        <text>The goal of the plan is to preserve sites significant to the Menominee Tribe. Therefore, data recovery will only be authorized in the most extreme cases. Phase III data recovery will not be allowed unless specifically authorized by the Director of Historic Preservation and the Menominee Language and Culture Commission. If it is decided to occur, Menominee elders will be consulted to provide guidance to the Director.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reburial of artifacts found during any archaeological work may occur, unless otherwise directed by the Menominee Language and Culture Commission. If artifacts are removed for study during the course of an archaeological investigation (Phase I and II), they shall be returned to the Director of Historic Preservation. The Director will curate the artifacts for public display or rebury the artifacts, whichever the Commission directs.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Investigations.</text>
+      <para>
+        <num>(1)</num>
+        <text>Only the Director of Historic Preservation under the guidance of the Language and Culture Commission shall approve all archeological investigations occurring on tribal land.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon achieving the status of Tribal Historic Preservation Office, the Historic Preservation Department shall seek funding to conduct a Reservation-wide archaeological investigation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The information gathered by this investigation shall be housed in the Historic Preservation Department's files. Data considered sensitive by the Director would not be disclosed to the public.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Upon completion of the investigation, the Historic Preservation Department may nominate all eligible properties to the National Register. Properties which are potentially eligible for nomination shall be treated as historic properties until they are nominated. Sacred sites may not be nominated to avoid disclosure of the site location.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All significant properties shall be preserved in a manner consistent with the significance of the site.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Due to the spiritual sensitivity of disturbing burials, ground-penetrating radar will be the only acceptable method which may locate burials.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>293-8</num>
+    <heading>Identification of cultural properties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon inadvertent discovery, investigation of past discovery, or investigation of a suspected site, the Director of Historic Preservation will contact the Tribe's archaeologist and establish a reasonable meeting schedule.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The four-phase investigation process should begin. If anything is located or suspected, all activity threatening the site shall cease.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Language and Culture Commission will be notified of any findings. If the archaeologist cannot meet directly with the Commission, then the Director of Historic Preservation will provide the information to the Commission.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Once notified of the findings, the Commission decides if the property holds cultural resources meeting the requirements set forth in this plan.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Commission will work with Historic Preservation Department staff to establish a scope of work to expand or extend investigations into the site.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If the Commission finds that no cultural resources occur on the site, activity may then resume.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>In the event of a dispute, any tribal member may request the Review Board reconsider its findings.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>293-9</num>
+    <heading>Inadvertent discovery of human remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any inadvertent discovery of human remains should be reported immediately to the Director of Historic Preservation (until Tribal Historic Preservation Office status is achieved).</text>
+      <para>
+        <num>(1)</num>
+        <text>Director will notify the appropriate law enforcement officials.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Director will contact an appropriate forensic anthropologist to determine if this is a possible crime scene.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At no time other than a criminal investigation will complete excavation and intrusive scientific analysis be allowed.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In situ (on-site) preservation shall be the rule. Minimal disturbances may occur in determining the nature of the burial.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Proper reburial by the repatriation designee will be conducted according to the wishes of the Menominee Language and Culture Commission. Ceremonies shall be identical to the ceremonies developed by the Menominee Language and Culture Commission for repatriation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Menominee Language and Culture Commission also directs the Director of Historic Preservation and staff to oppose any undo disturbance or intrusive scientific analysis in off-Reservation issues pertaining to potential Menominee burials.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

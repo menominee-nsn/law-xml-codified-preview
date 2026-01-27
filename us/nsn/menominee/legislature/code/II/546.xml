@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|546">
+  <prefix>Chapter</prefix>
+  <num>546</num>
+  <heading>VEHICLES AND MOBILE HOMES, JUNKED</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-18-1987 by Ord. No. 87-19; amended in its entirety 1-16-2020 by Ord. No. 19-35. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Salvage yards — See <cite path="|II|504">Ch. 504, § 504-23</cite>.</annotation>
+    <annotation type="General References">Vehicles and traffic — See <cite path="|II|550">Ch. 550</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>546-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|546">this chapter</cite> is to promote the health, safety, aesthetics, and general welfare of the people and communities and environment within the Menominee Indian Reservation. The general intent of <cite path="|II|546">this chapter</cite> is to regulate the timely disposal and cleanup of junked and nuisance vehicles and mobile homes. It is further intended to provide for the administration and enforcement of <cite path="|II|546">this chapter</cite> and to provide penalties for its violation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>546-2</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|546">This chapter</cite> shall be effective upon final approval by the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>546-3</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|546">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>INOPERABLE — A motor vehicle, truck body or trailer which is incapable of legal operation or use upon a roadway on the Menominee Indian Reservation.</text>
+    <text>JUNK MOBILE HOME — Any mobile home that is:</text>
+    <para>
+      <num>A.</num>
+      <text>Uninhabitable or is unkempt or uninhabitable by humans for more than 180 consecutive days;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Not hooked up to a legal and functioning sewage system for more than 14 days unless used as an accessory structure in accordance with <cite path="|III|625">§ 625-242B of Chapter 625</cite>, Zoning;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Burned out or otherwise an eyesore and a burden on surrounding property; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Not in conformance with <cite path="|III|625">Chapter 625</cite>, Zoning, for more than 14 days.</text>
+      <text>JUNK VEHICLE — Any unlicensed and inoperable or disassembled or junked or wrecked motor vehicle, motor vehicle body, motor vehicle engine, or motor vehicle drive train parts.</text>
+      <text>MOBILE HOME — A portable structure with a permanent chassis and axles designed to be towed as a single unit, or in sections, upon a highway and which is equipped, used or intended to be used primarily as a single-family dwelling with walls of rigid, uncollapsible construction and which has an overall length in excess of 45 feet.</text>
+      <text>MOTOR VEHICLE — Any automobile, truck, tractor, motorcycle, recreational vehicle, van, motor scooter, lawn mower, snowmobile, all-terrain vehicle, airplane, or any other motorized object used for transportation.</text>
+      <text>PUBLIC NUISANCE — An act of omission that obstructs, damages, or inconveniences the health, safety, comfort, convenience, or welfare of a community.</text>
+      <text>SURFACE WATER — All waters open to the atmosphere, including rivers, streams, creeks, lakes, reservoirs, impoundments, and wetlands, but excluding sewage lagoons and other facilities constructed for the treatment of wastewater, settling ponds, and cooling lakes.</text>
+      <text>TRAILER — A vehicle designed to serve wherever parked as a temporary or permanent human dwelling or business and/or a nonautomotive vehicle designed for hauling.</text>
+      <text>USED MOTOR VEHICLE TIRE — A tire, with or without a rim, that has been used on a motor vehicle and is not attached to a motor vehicle and is not being reasonably used for landscaping or other utilitarian or recreational purpose.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>546-4</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>A.</num>
+      <text>It shall be the duty of the Menominee Tribal Police and the Menominee Tribal Conservation Departments to enforce the provisions of <cite path="|II|546">this chapter</cite> through periodic inspections and inspections upon complaints. No action shall be taken unless an officer shall have inspected or caused to be inspected the premises where the violations of <cite path="|II|546">this chapter</cite> are alleged to exist and is satisfied that the violations do in fact exist.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon verification of the existence of a violation of <cite path="|II|546">this chapter</cite>, an enforcement officer may issue a citation to the possessor of the property upon which the violation is found or the person permitting or maintaining the violation. The citation will specify a court date of no less than 14 days and no more than 30 days from the date of the citation.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>For purposes of enforcement of <cite path="|II|546">this chapter</cite>, Menominee Tribal Police and Menominee Tribal Conservation are hereby authorized to cause the towing away and/or removal of public nuisance vehicles in violation of <cite>this article</cite>. The owner of said vehicle shall be liable for all costs of towing, removal and/or storage associated with removal under <cite>this article</cite>. This liability begins once the tow truck has been dispatched, whether or not the vehicle is actually towed or removed.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>546-5</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Outside storage prohibited.</text>
+      <para>
+        <num>(1)</num>
+        <text>It is a violation for any person, group, or business to accumulate, store, or allow any junk vehicle, junk mobile home, trailer, or used motor vehicle tire outside of an enclosed structure upon any public, tribal, or private property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(a)</num>
+          <text>Whosoever violates this <cite path="§546-5">§ 546-5</cite>A(1) shall be subject to a fine not to exceed $200 per occurrence and shall be required to remove any item listed in this section at the violator's expense within 45 days; provided, however, that if said violator provides sufficient proof to the Tribal Court that the car has been repaired and is capable of being operated upon a highway, then in such case the violator is not required to remove the junk car but is still required to pay any fine received pursuant to <cite path="|II|546">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a person receives a citation pursuant to this section and fails to remove any item listed in <cite path="§546-5">§ 546-5</cite>A(1) of <cite path="|II|546">this chapter</cite> within 45 days, he/she shall be subject to the penalties of <cite path="§546-5|A|(2)(c)">Subsection A(2)(c) of this section</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a person receives a citation pursuant to this section and fails to pay the total amount of the citation or fails to appear to contest the citation, that person shall be subject to the penalties of <cite path="§546-5|A|(2)(d)">Subsection A(2)(d) of this section</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any Indian who violates <cite path="|II|546">this chapter</cite> in the manner described in <cite path="§546-5|A|(2)(b)">Subsection A(2)(b)</cite> or (c) above shall be found in contempt pursuant to <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code, and shall be punished accordingly. Any non-Indian who violates <cite path="|II|546">this chapter</cite> and who fails to comply with court orders, including fines, repairs or removals as provided for in <cite path="|II|546">this chapter</cite>, shall be referred to the Shawano County District Attorney's Office.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exception.</text>
+        <para>
+          <num>(a)</num>
+          <text><cite path="§546-5">Section 546-5</cite>A(1) above shall not apply to any person or business in possession of a current permit authorizing the storage of the junk in question properly issued under <cite path="|III|625">Chapter 625</cite>, Zoning, Article XXIII, Conditional Use Permits.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person holding a permit under Article XXIII of <cite path="|III|625">Chapter 625</cite>, Zoning, shall produce the permit for inspection upon inquiry by any law enforcement officer or employee of the Community Development Department and Environmental Services Depart of the Menominee Tribe.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Failure to report a submerged vehicle.</text>
+      <para>
+        <num>(1)</num>
+        <text>It is a violation to the owner for failure to report a vehicle that is immovable without assistance and submerged above the engine block in any surface waters within four hours to Menominee law enforcement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Penalties. Whoever violates this section shall forfeit not more than $200. The owner of the vehicle shall also be liable for the costs of removal of the vehicle from any surface waters and any costs associated with cleanup.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Vehicle in water prohibited.</text>
+      <para>
+        <num>(1)</num>
+        <text>It is a violation for failure to remove a submerged vehicle within any surface water within seven calendar days.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Penalties. Whoever violates this section shall forfeit not more than $500. The owner of the vehicle shall also be liable for the costs of removal of the vehicle from any surface waters and any costs associated with cleanup.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

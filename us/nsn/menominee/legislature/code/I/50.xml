@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>50</num>
+  <heading>DISPUTE RESOLUTION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Tribal Housing Limited Partnership No. 5 — See <cite path="|IV|730">Ch. 730</cite>.</annotation>
+    <annotation type="General References">Tribal Housing Limited Partnership No. 6 — See <cite path="|IV|731">Ch. 731</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|50|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Tribal Housing Limited Partnership Nos. 5 and 6</heading>
+    <annotations>
+      <annotation type="History">Adopted 12-17-2009 by Ord. No. 09-26; amended in its entirety 10-21-2010</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>50-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|50|I">this article</cite> is to create the right for certain persons to enforce contract terms through arbitration awards enforceable in Menominee Tribal Court against the Menominee Indian Tribe where the Tribe has contractually agreed to such arbitration.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-2</num>
+      <heading>Documents affected.</heading>
+      <text><cite path="|I|50|I">This article</cite> shall pertain to:</text>
+      <para>
+        <num>A.</num>
+        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 5, dated    , and the amendment to those lease or leases dated    ; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 6, dated    , and the amendment to those lease or leases dated    ; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The September, 2010 Tribal Guaranty Agreement related to Menominee Tribal Housing Limited Partnership No. 5; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The September 2010 Tribal Guaranty Agreement related to Menominee Tribal Housing Limited Partnership No. 6; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The September 2010 Title Guaranty Agreement related to Menominee Tribal Housing Limited Partnership No. 5; and</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The September 2010 Title Guaranty Agreement related to Menominee Tribal Housing Limited Partnership No. 6; and</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The September 2010 Outside Reserve Pledge Agreement related to Menominee Tribal Housing Limited Partnership No. 5; and</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The September 2010 Outside Reserve Pledge Agreement related to Menominee Tribal Housing Limited Partnership No. 6; and</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The September 2010 agreements with the Wisconsin Housing and Economic Development Authority related to Menominee Tribal Housing Limited Partnership Nos. 5 and 6; and</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Any other written agreements authorized by the Menominee Tribal Legislature, and entered into between the Menominee Indian Tribe of Wisconsin and any third party in furtherance of the acquisition of low-income housing tax credits and necessary actions connected with such acquisition by Menominee Tribal Housing Limited Partnership No. 5 and Menominee Tribal Housing Limited Partnership No. 6. All such agreements, in order to be considered subject to the terms of <cite path="|I|50|I">this article</cite>, shall contain a statement that the third party contracting with the Tribe understands and agrees to be subject to the jurisdiction of the Menominee Tribal Courts for the purposes of enforcement of such agreement and <cite path="|I|50|I">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-3</num>
+      <heading>Enforcement of agreements.</heading>
+      <text>The Menominee Indian Tribe shall be subject to suit in Menominee Tribal Court for the purpose of enforcing dispute resolution provisions, including, but not limited to, binding arbitration provisions contained in any document referenced in <cite path="§48-2">§ 48-2</cite> of <cite path="|I|50|I">this article</cite>, consistent with the terms of any such document, and the Tribal Court shall enforce the arbitration provisions in a manner consistent with the terms of such agreements requiring arbitration of disputes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-4</num>
+      <heading>Sovereign immunity.</heading>
+      <text><cite path="|I|50|I">This article</cite> is authorized by Article XVIII, Section 2, of the Constitution and Bylaws of the Menominee Indian Tribe, which states that the Menominee Indian Tribe shall be subject to suit in Tribal Courts by persons subject to tribal jurisdiction for the purpose of enforcing rights established by ordinance.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|50|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Tribal Housing Limited Partnership Nos. 7 and 8 [Adopted 6-2-2011 by Ord. No. 11-13]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>50-5</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|50|II">this article</cite> is to authorize and approve agreements between the Tribe and other parties related to Menominee Tribal Housing Limited Partnerships No. 7 and No. 8 ("Project") and to provide a mechanism for certain persons to enforce contract terms through arbitration awards enforceable in Menominee Tribal Court against the Menominee Indian Tribe where the Tribe has contractually agreed to such arbitration, and to authorize the use of a special purpose entity to act as a general partner in any limited partnership related to the Project.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-6</num>
+      <heading>Authorization to provide collateral.</heading>
+      <text>The Menominee Tribal Legislature authorizes the Chairperson to execute documents pledging certain funds as collateral pursuant to the Outside Reserve Pledge agreements listed in <cite path="§50-7|I">§ 50-7I</cite> and J of <cite path="|I|50|II">this article</cite> so long as those funds are provided from Menominee tribal housing resources and not from general tribal funds.</text>
+      <annotations>
+        <annotation type="History">Amended 7-21-2011</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-7</num>
+      <heading>Documents affected.</heading>
+      <text>The Menominee Tribal Legislature approves and authorizes the Tribal Chairperson to execute all documents necessary to further the rehabilitation of housing contemplated by this project. This approval and authorization includes, but is not limited to:</text>
+      <para>
+        <num>A.</num>
+        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7, dated April 8, 2011, pertaining to those properties listed in <cite path="§50-10">§ 50-10</cite> of <cite path="|I|50|II">this article</cite>; and <strong>[Amended 7-21-2011]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8 pertaining to those properties listed in <cite path="§50-11">§ 50-11</cite> of <cite path="|I|50|II">this article</cite>; and <strong>[Amended 7-21-2011]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A Guaranty Agreement by and between the Menominee Indian Tribe of Wisconsin and an affiliate of Raymond James Tax Credit Fund, Inc., related to Menominee Tribal Housing Limited Partnership No. 7; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A Guaranty Agreement by and between the Menominee Indian Tribe of Wisconsin and an affiliate of Raymond James Tax Credit Fund, Inc., related to Menominee Tribal Housing Limited Partnership No. 8; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A Title Guaranty Agreement by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7; and</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A Title Guaranty Agreement by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8; and</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Loans and any amendment to loans entered into by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Loans and any amendment to loans entered into by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Outside Reserve Pledge Agreement or agreements by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Outside Reserve Pledge Agreement or agreements by and among the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Any other written agreements authorized by the Menominee Tribal Legislature, and entered into between the Menominee Indian Tribe of Wisconsin and any third party, in furtherance of the acquisition of low-income housing tax credits and necessary actions connected with such acquisition by Menominee Tribal Housing Limited Partnership No. 7 and Menominee Tribal Housing Limited Partnership No. 8. All such agreements, in order to be considered subject to the terms of <cite path="|I|50|II">this article</cite>, shall contain a statement that the third party contracting with the Tribe understands and agrees to be subject to the jurisdiction of the Menominee Tribal Courts for the purposes of enforcement of such agreement and <cite path="|I|50|II">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-8</num>
+      <heading>Enforcement of agreements.</heading>
+      <text>The Menominee Indian Tribe shall be subject to suit in Menominee Tribal Court for the purpose of enforcing dispute resolution provisions, including, but not limited to, binding arbitration provisions contained in any document referenced in <cite path="§50-7">§ 50-7</cite> of <cite path="|I|50|II">this article</cite> consistent with the terms of any such document, and the Tribal Court shall enforce the arbitration provisions in a manner consistent with the terms of such agreements requiring arbitration of disputes.</text>
+      <annotations>
+        <annotation type="History">Amended 9-15-2011</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-9</num>
+      <heading>Sovereign immunity.</heading>
+      <text><cite path="|I|50|II">This article</cite> is authorized by Article XVIII, Section 2, of the Constitution and Bylaws of the Menominee Indian Tribe which states that the Menominee Indian Tribe shall be subject to suit in Tribal Courts by persons subject to tribal jurisdiction for the purpose of enforcing rights established by ordinance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-10</num>
+      <heading>Menominee Tribal Housing Limited Partnership No. 7 properties.</heading>
+      <text>The Menominee Tribal Housing Limited Partnership No. 7 properties are as follows:</text>
+      <text>N525 Brooks Ln., Keshena, WI 54135 N546 Brooks Ln., Keshena, WI 54135 N554 Brooks Ln., Keshena, WI 54135 N562 Brooks Ln., Keshena, WI 54135 N568 Brooks Ln., Keshena, WI 54135 N576 Brooks Ln., Keshena, WI 54135 N586 Brooks Ln., Keshena, WI 54135 N592 Brooks Ln., Keshena, WI 54135</text>
+      <text>W2758 Chief Carron Rd., Keshena, WI 54135 W2774 Chief Carron Rd., Keshena, WI 54135 N606 Chief Little Crow Rd., Keshena, WI 54135 N616 Chief Little Crow Rd., Keshena, WI 54135 N624 Chief Little Crow Rd., Keshena, WI 54135 N625 Chief Little Crow Rd., Keshena, WI 54135 N633 Chief Little Crow Rd., Keshena, WI 54135 N640 Chief Little Crow Rd., Keshena, WI 54135 N647 Chief Little Crow Rd., Keshena, WI 54135 N648 Chief Little Crow Rd., Keshena, WI 54135 N654 Chief Little Crow Rd., Keshena, WI 54135 N655 Chief Little Crow Rd., Keshena, WI 54135 W2769 Chief Little Wave Rd., Keshena, WI 54135 W2925 Pine Ridge Rd., Keshena, WI 54135 W2918 Rabbit Ridge Rd., Keshena, WI 54135 W6522 River St., Neopit, WI 54150</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>50-11</num>
+      <heading>Menominee Tribal Housing Limited Partnership No. 8 properties.</heading>
+      <text>The Menominee Tribal Housing Limited Partnership No. 8 properties are as follows:</text>
+      <text>W2674 Chief Iometah Ct., Keshena, WI 54135 W2675 Chief Iometah Ct., Keshena, WI 54135 W2682 Chief Iometah Ct., Keshena, WI 54135 W2683 Chief Iometah Ct., Keshena, WI 54135 W2687 Chief Iometah Ct., Keshena, WI 54135 W2688 Chief Iometah Ct., Keshena, WI 54135 W2682 Chief Josette St., Keshena, WI 54135 W2687 Chief Josette St., Keshena, WI 54135 W2688 Chief Josette St., Keshena, WI 54135 W2582 Chief Shawano Rd., Keshena, WI 54135 N466 Chief Souligney St., Keshena, WI 54135 N472 Chief Souligney St., Keshena, WI 54135 N490 Chief Souligney St., Keshena, WI 54135 N418 Chief Tomau Rd., Keshena, WI 54135 N432 Chief Tomau Rd., Keshena, WI 54135 N448 Chief Tomau Rd., Keshena, WI 54135 N460 Chief Tomau Rd., Keshena, WI 54135 N478 Chief Tomau Rd., Keshena, WI 54135 W2675 Chief Wis-ke-noh Rd., WI 54135</text>
+      <text>W2680 Chief Wis-ke-noh Rd., WI 54135 W2681 Chief Wis-ke-noh Rd., WI 54135 W2687 Chief Wis-ke-noh Rd., WI 54135 W2668 Warrington Rd., WI 54135 W2676 Warrington Rd., WI 54135</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

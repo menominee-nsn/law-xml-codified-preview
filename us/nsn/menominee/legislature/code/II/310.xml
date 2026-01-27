@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|310">
+  <prefix>Chapter</prefix>
+  <num>310</num>
+  <heading>INVASIVE SPECIES PREVENTION AND FOREST HEALTH PROTECTION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2018 by Ord. No. 18-10; amended in its entirety 9-17-2020 by Ord. No. 20-22. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>310-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|310">this chapter</cite> is to prevent the introduction and help control invasive species and disease on lands within the exterior boundaries of the Menominee Indian Reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>310-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|310">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>EMERALD ASH BORER — An exotic beetle whose larvae feeds on the inner bark of ash trees, disrupting the tree's ability to transport water and nutrients, and has killed millions of ash trees in the United States.</text>
+    <text>INVASIVE SPECIES — Nonindigenous species whose introduction causes or is likely to cause economic or environmental harm or harm to human health.</text>
+    <text>LAW ENFORCEMENT OFFICER — Any Menominee tribal police officer, Menominee tribal conservation warden, or any other person who has been granted tribal law enforcement authority by the Constitution and Bylaws of the Tribe and the Code of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>OAK WILT — An aggressive disease that affects many species of oak (Quercus spp.). It is one of the most serious tree diseases in the eastern United States, killing thousands of oaks each year in forests, woodlots, and home landscapes.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>310-3</num>
+    <heading>Prohibited acts and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Oak wilt. To prevent the spread of this disease, it shall be illegal to cut any standing oak tree still containing its bark, any living species of oak tree, or any tree in a designated oak wilt control area on the Menominee Indian Reservation between the April 1 and August 1 of any given year, unless prior written permission after an inspection is given by the MITW Conservation Department or Environmental Services. Violations of this section shall, upon conviction, result in a forfeiture of not less than $50 nor more than $500 per violation and confiscation and destruction of the cut wood.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Emerald Ash Borer. To prevent the spread of the Emerald Ash Borer, it shall be illegal to transport any ash firewood or unmilled ash logs onto any lands within the exterior boundaries of the Menominee Indian Reservation for use or storage on the Reservation. The Law Enforcement Officer may seize and dispose of ash firewood or unmilled ash logs possessed in violation of this section. Violations of this section shall, upon conviction, result in a forfeiture of not less than $50 nor more than $500 per violation and confiscation and destruction of the cut ash wood or unmilled ash logs.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§310-4">
+    <prefix>§</prefix>
+    <num>310-4</num>
+    <heading>Prohibited/restricted species (see attached list).<fn proof="needed" path="|II|§310-4|footnotes|1">1</fn></heading>
+    <text>It shall be illegal to transport into or possess, transfer or introduce within the exterior boundaries of the Menominee Reservation, any of the listed prohibited/restricted species.</text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Said list is included as an attachment to <cite path="|II|310">this chapter</cite>.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>310-5</num>
+    <heading>Inspection.</heading>
+    <text>The law enforcement officer shall have the authority to inspect all public view and curtilage pursuant to a lawful administrative search within the jurisdiction of the Menominee Indian Tribe to determine if any public nuisance exists thereon in the regards to any firewood or unmilled logs, or species within the attached list. The law enforcement shall be authorized to enter upon public and private properties under the jurisdiction of the Menominee Indian Tribe, at all reasonable times, to take a sample of the suspected firewood or unmilled logs and species within the attached list.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>310-6</num>
+    <heading>Enforcement and penalties.</heading>
+    <text>Violations of this section shall, upon conviction, result in a forfeiture of not less than $50 nor more than</text>
+    <text>$500 per violation and confiscation and destruction of the listed species.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>310-7</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|310">This chapter</cite> shall take effect immediately upon final passage by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|210">
+  <prefix>Chapter</prefix>
+  <num>210</num>
+  <heading>TRIBAL UTILITIES, DEPARTMENT OF</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-7-1997 by Ord. No. 96-28. Amendments noted where applicable</annotation>
+    <annotation type="General References">Sewers and sewage disposal — See <cite path="|II|495">Ch. 495</cite>.</annotation>
+    <annotation type="General References">Water — See <cite path="|II|562">Ch. 562</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>210-1</num>
+    <heading>Findings.</heading>
+    <text>The Menominee Tribal Legislature has determined that the health, safety and welfare of the citizens within the external boundaries of the Menominee Indian Reservation would best be served by a Department of Tribal Utilities under the control and responsibility of the Tribal Legislature rather than an autonomous Tribal Utility Commission established pursuant to Menominee Tribal Ordinance No. 82-16.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-2</num>
+    <heading>Funding.</heading>
+    <text>The Menominee Indian Tribe has funds sufficient to meet the operation costs of this Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-3</num>
+    <heading>Repealer.</heading>
+    <text>Ordinance No. 82-16 which established the Menominee Tribal Utility Commission is hereby revoked in its entirety.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-4</num>
+    <heading>Establishment of Department.</heading>
+    <text>A tribal department is hereby established to manage, operate and maintain utility systems of the Menominee Indian Tribe of Wisconsin pursuant to <cite path="|I|210">this chapter</cite>. The tribal department shall be known as the "Menominee Department of Tribal Utilities." The Administrative Plan of the Menominee Indian Tribe shall be amended to include the Menominee Department of Tribal Utilities (hereinafter referred to as "Department") within the tribal structure. The Menominee Tribal Legislature will be the responsible party, through the Department, to provide services pursuant to <cite path="|I|210">this chapter</cite>, and the Department shall be under the direct supervision of the Menominee Administrative Manager and the Financial Manager who shall be responsible to ensure that the Department is providing services and management pursuant to its duties.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-5</num>
+    <heading>General powers.</heading>
+    <text>The Department shall manage, operate, and maintain utility systems of the Menominee Indian Tribe of Wisconsin. The Department shall have responsibility for domestic water and sewer systems constructed under cooperative projects of the Menominee Indian Tribe of Wisconsin, the Town of Menominee, and the United States Public Health Service. The Department may assume responsibility later for the operation of solid waste, gas, electricity, telephone and other utility systems.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-6</num>
+    <heading>Supervision.</heading>
+    <text>The Administrative Manager and the Financial Manager shall be the supervisors of the Department's Director.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-7</num>
+    <heading>Term.</heading>
+    <text>The Department shall be in existence from the effective date of enactment of <cite path="|I|210">this chapter</cite> until revoked by ordinance.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-8</num>
+    <heading>Duties.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Direct the operation and maintenance of the facilities entrusted to its care in such a manner that all customers will receive the service that the Department has agreed to provide. It shall take steps necessary to ensure that repairs or a replacement of any part of the system will be done with a minimum of delay and loss of service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>See that the personnel employed by it are provided with adequate equipment and supplies and properly trained to carry out their responsibilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Establish, subject to the approval of the Menominee Tribal Utility Committee, rules and regulations regarding the management of the utility system and ensure that these rules are consistent with prior agreements, ordinances, codes, laws and the statutes of the Menominee Indian Tribe of Wisconsin and the federal government.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Prepare, subject to the approval of the Menominee Tribal Utility Committee, a Plan of Operation containing the rules and regulations it adopts regarding fee assessment schedules, policies, employees' responsibilities, and other information concerning procedures and guidelines of operation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Be responsible for the operation and maintenance of the community water and sewage systems of those communities on the Menominee Indian Reservation and for the operation and maintenance of the electricity system in Middle Village. The Department will maintain an up-to-date list of facilities included. In undertaking responsibility for any utility systems besides water and sewage and Middle Village electricity, the Department will first seek approval of the Menominee Tribal Legislature, adopt appropriate additions to the Plan of Operation, and inform the public at each step along the way.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure that insurance, including liability coverage, adequate and sufficient to protect the interest of the Tribe from losses by fire or other disaster shall be carried on all property of the Department and the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>It shall be the responsibility of the Department to maintain the main and lateral water and sewer service lines.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It shall not be the responsibility or duty of the Department to maintain any indoor sewer or water lines or plumbing facilities, nor is it the Department's responsibility or duty to maintain individual wells or pumps in rural areas. Such maintenance may be done by the Department if the schedule permits, with the individual paying the actual cost of such maintenance. Policies regarding this matter will be included in the Department's Plan of Operation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-9</num>
+    <heading>Tribal Utility Committee.</heading>
+    <text>A tribal legislative committee shall be established in conformance with the Menominee Constitution and <cite path="|I|98">Chapter 98</cite>, Government Plan, of this Code. This committee shall be composed of five members and shall have the following duties and authority:</text>
+    <para>
+      <num>A.</num>
+      <text>Review the Department's Plan of Operation and any amendments thereto.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Review rules and regulations of the Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Set the fee schedules for utility use. The estimated cost for the routine operation of the utility systems, plus the accumulation of an adequate depreciation reserve fund, shall be used as a basis for determining these fees. The reserve fund shall provide adequate funds for replacement of existing equipment and for expansion of operations, as approved by the Legislature.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Hear and decide complaints made against the Department.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Provide information to the public regarding operation of the Department.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§210-10">
+    <prefix>§</prefix>
+    <num>210-10</num>
+    <heading>Employees.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall employ necessary personnel to carry out the operation and maintenance of the water and sewage systems and to handle the necessary bookkeeping and clerical work. Such personnel shall be under the supervision of the department head. The department head shall be the Director of Tribal Utilities. The department head shall report directly to the Administrative Manager and Financial Manager. All employees of the Department shall be hired pursuant to the tribal policies and procedures and shall be subject to such procedures, except that former employees of the Menominee Tribal Utility Commission shall automatically become employees of the Tribe upon passage of <cite path="|I|210">this chapter</cite>.<fn path="|I|§210-10|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall draft job descriptions for all positions deemed necessary for the Department's operations, and pay scales shall be in conformity with tribal policies and procedures. All employees shall have the same rights, benefits and responsibilities as other newly hired tribal employees as outlined in the Tribal Personnel Policies and Procedures Manual.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-11</num>
+    <heading>Collection of service fees.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall have the authority to collect fees for services provided. The Department shall post the current schedule of fees in effect for the public.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a customer defaults on payment of assessment for services, the Department has the power to stop service. The Department shall adopt a standard procedure for handling such cases.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The private property of each customer shall not be subject to the Department debts in any amount or to any extent whatever.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department shall enter into agreements, subject to the approval of the Menominee Tribal Legislature, with the Public Health Service and the Bureau of Indian Affairs to sell services to these agencies, where appropriate, and may negotiate agreements, subject to the approval of the Menominee Tribal Legislature, to perform construction or maintenance services under contract with these and other agencies.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-12</num>
+    <heading>Funds.</heading>
+    <para>
+      <num>A.</num>
+      <text>All funds received by the Department shall be deposited in a local bank chosen and designated as depository by the Menominee Tribal Legislature. An accounting of the Department's funds shall be available to the Menominee Tribal Legislature each month.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The actual handling of the Department funds shall be done by the Tribal Department of Finance in accordance with the Tribe's policies for handling program funds.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All Department ledgers and accounts shall be handled by the Tribal Department of Finance and audited during the Menominee Indian Tribe of Wisconsin's annual audit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-13</num>
+    <heading>Responsibility for services.</heading>
+    <text>The Menominee Tribal Legislature shall be responsible for ensuring that services are provided by the Department.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§210-14">
+    <prefix>§</prefix>
+    <num>210-14</num>
+    <heading>Customer complaints or requests.</heading>
+    <para>
+      <num>A.</num>
+      <text>If any individual desires to protest a decision made by the Department, such a protest may be filed, in writing, with the Director of Tribal Utilities requesting a full review by the Utility Committee at the next regular meeting.<fn path="|I|§210-14|footnotes|2">2</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Customer requests for services, such as repairs or connections, may be made directly to the department head.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any individual not understanding the operation of the Department or having questions about any of the Department's activities may attend any meeting of the Menominee Tribal Utility Committee.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-15</num>
+    <heading>Adherence to tribal law, ordinances and regulations.</heading>
+    <text>To protect water, sewage, and other utility systems belonging to the Tribe or to individual tribal members, the Tribal Legislature will adopt appropriate ordinances governing use of these systems. The Department shall have the power to enforce these ordinances as agent of the Tribal Legislature. This power shall include, but not be limited to, inspection of all new utility construction, approval of all new connections to existing systems, and prevention of unauthorized use of utilities. The Public Health Service will assist the Department in applying the ordinances. The tribal ordinances currently in effect shall represent the basis for enforcement by the Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>210-16</num>
+    <heading>Sovereign immunity.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Indian Tribe of Wisconsin does not waive its sovereignty under <cite path="|I|210">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department as a tribal department shall enjoy the same sovereign immunity as the Menominee Indian Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>402</num>
+  <heading>LIBRARY</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="II|402|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Theft of Library Materials [Adopted 10-14-1993 by Ord. No. 93-19]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>402-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|402|I">this article</cite> is to make it a crime to intentionally take, carry away, conceal or to retain possession of library materials without the consent of a library official or agent of the library where the materials are held. <cite path="|II|402|I">This article</cite> further gives any library official or agent having probable cause for believing that an individual has violated <cite path="|II|402|I">this article</cite> the power to detain said individual for a reasonable length of time and to deliver said individual to a law enforcement agent.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>402-2</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|402|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>ARCHIVES — A place in which public or institutional records are systematically preserved.</text>
+      <text>LIBRARY — Any public or tribally owned library; library of an educational, historical or eleemosynary institution, organization or society; archives; or museum located within the external boundaries of the Menominee Indian Reservation.</text>
+      <text>LIBRARY MATERIAL — Includes any book, plate, picture, photograph, engraving, painting, drawing, map, newspaper, magazine, pamphlet, broadside, manuscript, document, letter, public record, microform, sound recording, audiovisual materials in any format, magnetic or other tapes, electronic data processing records, artifacts or other documentary, written or printed materials, regardless of physical form or characteristics, belonging to or on loan to or otherwise in the custody of a library.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>402-3</num>
+      <heading>Prohibited acts.</heading>
+      <text>Whoever intentionally takes and carries away, transfers, conceals or retains possession of any library material without the consent of a library official, agent or employee and with intent to deprive the library of possession of the material may be penalized as provided in <cite path="§402-6">§ 402-6</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>402-4</num>
+      <heading>Evidence of intent.</heading>
+      <text>The concealment of library material beyond the last station for borrowing library material in a library is evidence of intent to deprive the library of possession of the material. The discovery of library material which has not been borrowed in accordance with the library's procedures or taken with consent of a library official, agent or employee and which is concealed upon the person or among the belongings of the person or concealed by a person upon the person or among the belongings of another is evidence of intentional concealment on the part of the person so concealing the material.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>402-5</num>
+      <heading>Detaining suspects.</heading>
+      <text>Any official or adult employee or agent of a library who has probable cause for believing that a person has violated <cite path="|II|402|I">this article</cite> in his or her presence may detain the person in a reasonable manner for a reasonable length of time to deliver the person to a peace officer or to the person's parent or guardian in the case of a minor. The detained person shall be promptly informed of the purpose for the detention and be permitted to make phone calls but shall not be interrogated or searched against his or her will before the arrival of a peace officer who may conduct a lawful interrogation of the accused. Compliance with this section entitles the official, agent or employee effecting detention to the same defense in any action as is available to a</text>
+      <text>peace officer making an arrest in the line of duty.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>402-6</num>
+      <heading>Violations and penalties.</heading>
+      <text>Anyone who is found to have violated <cite path="|II|402|I">this article</cite> may be sentenced to a jail term not to exceed one year and/or be fined in an amount not to exceed $5,000. The Court may, in addition to the above penalties, require that restitution be made for any damage to or loss of library materials.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

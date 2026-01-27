@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>526</num>
+  <heading>TRIBAL LEADERS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Descendant register — See <cite path="|I|46">Ch. 46</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|526|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Use of Deceased Tribal Leader's Name, Voice, Signature, Photograph or Likeness [Adopted 3-17-2011 by Ord. No. 11-06]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>526-1</num>
+      <heading>Consent required; liability.</heading>
+      <text>Any person who uses a deceased tribal leader's name, voice, signature, photograph, or likeness, in any manner, on or in products, merchandise, or goods, or for purposes of advertising or selling, or soliciting purchases of, products, merchandise, goods, or services, without prior consent from the person or persons specified in <cite path="§526-2">§ 526-2</cite>, shall be liable for any damages sustained by the person or persons injured as a result thereof. In addition, in any action brought under <cite path="|II|526|I">this article</cite>, the person who violated <cite path="|II|526|I">this article</cite> shall be liable to the injured party or parties in an amount equal to any profits from the unauthorized use that are attributable to the use. In establishing these profits, the injured party or parties shall be required to present proof only of the gross revenue attributable to the use, and the person who violated <cite path="|II|526|I">this article</cite> is required to prove his or her deductible expenses. The prevailing party or parties in any action under <cite path="|II|526|I">this article</cite> shall also be entitled to attorney's fees and costs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>526-2</num>
+      <heading>Right of consent.</heading>
+      <para>
+        <num>A.</num>
+        <text>The consent required by <cite path="|II|526|I">this article</cite> shall be exercisable by the person or persons to whom the right of consent, or portion thereof, has passed in accordance with <cite path="§526-2|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Subject to <cite path="§526-2|A">Subsection A</cite>, after the death of any person, the rights under <cite path="|II|526|I">this article</cite> shall belong to the following person or persons and may be exercised, on behalf of and for the benefit of all of those persons, by those persons who, in the aggregate, are entitled to more than a one-half interest in the rights:</text>
+        <para>
+          <num>(1)</num>
+          <text>The entire interest in those rights belong to the surviving spouse of the deceased personality unless there are any surviving children or grandchildren of the deceased personality, in which case 1/2 of the entire interest in those rights belong to the surviving spouse.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The entire interest in those rights belong to the surviving children of the deceased personality and to the surviving children of any dead child of the deceased personality unless the deceased personality has a surviving spouse, in which case the ownership of a one-half interest in rights is divided among the surviving children and grandchildren.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If there is no surviving spouse, and no surviving children or grandchildren, then the entire interest in those rights belong to the surviving parent or parents of the deceased personality.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The rights of the deceased personality's children and grandchildren are in all cases divided among them and exercisable in the manner provided by the probate procedures employed by the Menominee Tribal Court, according to the number of the deceased personality's children represented. The share of the children of a dead child of a deceased personality can be exercised only by the action of a majority of them.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>526-3</num>
+      <heading>Vesting of rights in Tribe.</heading>
+      <para>
+        <num>A.</num>
+        <text>If there are no surviving persons as described in <cite path="§526-2|B">§ 526-2B</cite>, then the rights set forth in <cite path="§526-1">§ 526-1</cite> shall be vested in the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Menominee Indian Tribe of Wisconsin shall confer with the family of the deceased tribal leader if the Tribe is contacted about the use of the name or likeness of a deceased tribal member.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>526-4</num>
+      <heading>Applicability.</heading>
+      <text><cite path="|II|526|I">This article</cite> shall apply to the adjudication of liability and the imposition of any damages or other remedies in cases in which the liability, damages, and other remedies arise from acts occurring directly on this Reservation. For purposes of <cite path="|II|526|I">this article</cite>, acts giving rise to liability shall be limited to the use, on or in products, merchandise, goods, or services, or the advertising or selling, or soliciting purchases of, products, merchandise, goods, or services prohibited by <cite path="|II|526|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

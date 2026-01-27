@@ -1,0 +1,2180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="III|594">
+  <prefix>Chapter</prefix>
+  <num>594</num>
+  <heading>KENOSHA TRUST LANDS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-2-2004 by Ord. No. 04-44. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="III|594|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Land Use</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>594-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this land use regulation is to promote the orderly development of the tribal trust lands in Kenosha, Wisconsin, for commercial entertainment purposes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-2</num>
+      <heading>Applicability.</heading>
+      <text><cite path="|III|594">This Chapter 594</cite> shall apply to any lands owned by the United States in trust for the Menominee Indian Tribe of Wisconsin located in the City or County of Kenosha, hereinafter "Menominee Kenosha trust lands" or "trust lands."</text>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-3</num>
+      <heading>Permitted uses.</heading>
+      <text>The following uses are permitted on the referenced site:</text>
+      <para>
+        <num>A.</num>
+        <text>Hotels and motels.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Conference center.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Convention center.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Restaurants, without a drive-through.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Tavern, cocktail lounge, and nightclub.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Convenience retail and service stores as ancillary facilities to the principal use(s).</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Gaming facilities.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Amusement enterprises.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Theater, indoor and outdoor, excluding adult uses.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Commercial recreational uses, indoor and outdoor.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Brew pub or winery.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Parking facilities, including structures and ramps.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Arena, auditorium, exhibition halls and stadiums.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Administrative offices.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Indoor warehouse and storage buildings as ancillary facilities to the principal use(s).</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Recreational vehicle park.</text>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>Stormwater detention and retention basins.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-4</num>
+      <heading>Prohibited uses.</heading>
+      <text>All uses not specifically listed are prohibited.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="III|§594-5">
+      <prefix>§</prefix>
+      <num>594-5</num>
+      <heading>General regulations.</heading>
+      <text>Any development of the referenced lands shall conform to the following requirements:</text>
+      <para>
+        <num>A.</num>
+        <text>Height regulations.</text>
+        <para>
+          <num>(1)</num>
+          <text>No building or structure shall be hereafter enlarged, erected, reconstructed or structurally altered to a height which exceeds a height of 75 feet or as regulated by the Kenosha Regional Airport Zoning and Height Limitation Map, as referenced in Exhibit 3,<fn path="|III|§594-5|footnotes|1">1</fn> whichever is more restrictive.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Parapet walls not exceeding four feet in height, chimneys, flues, elevator bulkheads, penthouses, stacks, stage towers or scenery lofts, cupolas, domes and spires, and necessary mechanical appurtenances may be erected to a height which exceeds the seventy-five-foot height limit. However, no architectural projection or any space above the height limit shall be allowed for the purpose of providing additional floor space.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Ornamental appurtenances, statues, and monuments shall not exceed the height of the allowable building height.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Visual clearance.</text>
+        <para>
+          <num>(1)</num>
+          <text>Purpose. Adequate visual clearance must be provided at intersections for children, pedestrians and for drivers and operators of all motor vehicles, bicycles and other forms of conveyance so that they may be observed by each other in a timely manner to lessen the possibility of accidents and to promote public safety.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>General regulations. No obstructions, such as buildings, structures, fences, parked vehicles or vegetation, which are constructed, erected, maintained or planted shall be permitted between the heights of three feet and nine feet above:</text>
+          <para>
+            <num>(a)</num>
+            <text>The triangular space formed by any two existing or proposed intersecting street right-of-way lines and a line joining points on such lines located a minimum of 15 feet from their intersection.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The intersection of any existing or proposed street right-of-way line with an existing or proposed alley right-of-way line or the line formed by the edge of any driveway and a line joining points on such lines located a minimum of 15 feet from their intersection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Exceptions. The following shall be excepted from the regulations: authorized traffic signs and signals, utility poles and installations, railroad crossing signs and barricades, mailboxes, bus stops, flagpoles, decorative lamp poles, public fixtures, and similar items which do not substantially impair visual clearance.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Parked vehicles. The visual clearance regulations shall apply to parking facilities.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Natural objects and vegetation. Natural objects and vegetation such as trees and shrubs must be removed, trimmed or planted so as to provide, restore or maintain visual clearance.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Building and architectural standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>Building size and scale shall respect the physical scale of the surrounding area and the scale of surrounding buildings, within the trust lands.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The location and orientation of building elements shall respect the orientation of surrounding buildings or structures, within the trust lands.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The materials and design of buildings and structures shall complement the surrounding area, within the trust lands.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Adequate handicap access shall be provided to public buildings and structures as required in the Wisconsin Administrative Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Site standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>The location, proportion, and orientation of buildings or structures should respect the location, proportion and orientation of surrounding landforms, buildings or structures, within the trust lands.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Vehicular access shall meet the following requirements:</text>
+          <para>
+            <num>(a)</num>
+            <text>Intersections of a ninety-degree angle are to be encouraged while other angles are to be discouraged.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Adequate access for emergency vehicles shall be maintained.</text>
+        <para>
+          <num>(3)</num>
+          <text>Any off-street parking area shall meet the applicable design screening and parking requirements.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Separation of pedestrian and vehicular access shall be encouraged.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Drainage standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>To the extent possible, surface water runoff on the site shall be absorbed or retained on the site so that the quantity and rate of water leaving the site would not be significantly different than if the site had remained undeveloped.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If drainage from the proposed development is proposed to be discharged, it shall be discharged in compliance with city, state and federal requirements.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The proposed development shall not create or increase surface water runoff or buildup on adjoining or adjacent properties.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Landscape standards. Landscaping must accomplish the following purposes:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintaining and promoting general aesthetics by preserving existing vegetation or landforms or by requiring new landscaping, both helping to blend buildings and other structures with the landscape.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Circulation control by directing pedestrian and vehicular traffic with appropriate locations of landscaping.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Environmental control by preventing erosion or sedimentation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Adjacent property protection by requiring the screening of incompatible uses and off-street parking facilities.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Landscape quality by requiring appropriate plant or fence types based on climate, variety, hardiness and maintenance.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Utility standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>Utility systems shall be placed in accordance with city, state and federal requirements and the utility companies' rules and regulations.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any lighting source on any building, structure, or site which is for the purpose of illuminating any structure exterior or outdoor area shall be established in a manner which satisfies the following conditions:</text>
+          <para>
+            <num>(a)</num>
+            <text>Such lighting shall be arranged, oriented or shielded in such a manner that direct radiation or glare from such source does not penetrate residential lots which are located adjacent to or across the street from the use being illuminated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The source of such illumination shall be arranged, oriented or shielded in a manner which will not endanger the safety of pedestrian or vehicular traffic.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Exterior lighting shall be constant and not flashing, intermittent or animated in any way.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Storage of waste and trash shall conform to the following standards:</text>
+          <para>
+            <num>(a)</num>
+            <text>Such areas shall be screened from public view.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Such facilities shall be a minimum of a two-cubic-yard container readily accessible and located on a hard-surfaced area.</text>
+          </para>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Exhibit 3 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="III|§594-6">
+      <prefix>§</prefix>
+      <num>594-6</num>
+      <heading>Specific development regulations.</heading>
+      <para>
+        <num>A.</num>
+        <text>(Reserved)</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Parking and loading requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>General parking requirements.</text>
+          <para>
+            <num>(a)</num>
+            <text>There shall be provided at the time any building or structure is erected, enlarged or expanded off-street paved parking spaces in accordance with the following requirements.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All parking spaces required shall be located on the same lot with the building or use.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All off-street parking facilities for five or more vehicles, not contained in a building or structure, shall be effectively screened on any side of the facility which is adjacent to or across the street from a residential district. Such screening shall be accomplished by a fence, wall, berm or landscaping, or some combination thereof, constituting an opaque characteristic which obscures from horizontal view the parking facility. Such screen shall not be less than four feet in height, except where reduced heights are required by visual clearance regulations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Minimum parking spaces required for the following permitted uses:</text>
+          <para>
+            <num>(a)</num>
+            <text>Motel or hotel: 1.0 space per rental unit, plus 1.0 space per three employees.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Theaters, general auditoriums, arenas, stadiums, exhibition halls or other similar places of assembly: 1.0 space per five seats.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Conference centers: 10.0 spaces minimum or spaces equal to 30% of the licensed capacity, whichever is greater.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Convenience retail, general merchandise and service stores, office buildings, financial institutions, and miscellaneous retail and service uses: 1.0 space per 250 square feet of gross floor area.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Restaurants without drive-in or drive-through facilities: 10.0 spaces minimum or spaces equal to 30% of the total licensed capacity, whichever is greater.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Taverns and cocktail lounges: 10.0 spaces minimum or spaces equal to 20% of the total licensed capacity, whichever is greater.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Loading requirements. There shall be provided at the time any building or structure is erected, enlarged, or expanded loading space in accordance with the following requirements:</text>
+          <text>
+            <strong>Loading Spaces Required for Business Uses Gross Floor Area of</strong>
+          </text>
+          <text>
+            <strong>Building (square feet)</strong>
+          </text>
+          <text>
+            <strong>Minimum Loading Space Required</strong>
+          </text>
+          <text>Less than 7,000	0</text>
+          <text>7,001 to 10,000	1</text>
+          <text>10,001 to 25,000	2</text>
+          <text>25,001 to 50,000	3</text>
+          <text>50,001 to 100,000	4</text>
+          <text>100,001 to 250,000	5</text>
+          <text>Each additional 200,000	1</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Airport Overlay District and height limitation regulations.</text>
+        <para>
+          <num>(1)</num>
+          <text>The intent and purpose of the Airport Overlay District is to impose land use controls that will protect airport operations and ensure a compatible relationship between airport operations and other land uses in the vicinity of these airport operations. The Airport Overlay Districts, permitted uses and development standards are:</text>
+          <para>
+            <num>(a)</num>
+            <text>Airport Overlay District Runway Protection (AIR-1). This district shall include all property in the Runway Protection Zone, subject to crash hazard, within the boundaries of the district set forth herein. No buildings or structures are permitted within this zone and the height of natural growth is regulated.</text>
+            <para>
+              <num>[1]</num>
+              <text>Permitted uses.</text>
+              <para>
+                <num>[a]</num>
+                <text>Agriculture, crops only.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Air navigation facilities.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Airport Overlay District Approach (AIR-3). This district shall include all property in the Approach Zone, having a noise exposure of less than 65 DNL due to the operation of aircraft, within the boundaries of the district set forth herein.</text>
+            <para>
+              <num>[1]</num>
+              <text>Permitted uses. All uses which are permitted in <cite path="|III|594|I">this article</cite>. Any new use which provides overnight lodging and/or sleeping accommodations is permitted, upon first paying the fee for preparation of an avigation easement established by the Common Council of the City of Kenosha from time to time, by resolution, and executing and recording an avigation easement. Air navigation facilities are permitted.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Development standards. All uses shall meet the following standard: construction techniques to provide a minimum of five decibels' extra noise reduction, as determined by the Department, as defined in <cite path="§594-7">§ 594-7</cite> of <cite path="|III|594|I">this article</cite>, over the minimum standards contained in state building codes.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Airport Overlay District Overflight (AIR-4). This district shall include all property in the Overflight Zone within three miles of the airport boundaries located within the horizontal surface and/or the 20:1 conical surface area as designated in the Federal Aviation Regulation Part 77 and having a noise exposure of less than 65 DNL due to the operation of aircraft.</text>
+          </para>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>The location and boundaries of the districts are shown on Exhibit 2 and the Kenosha Regional Airport Zoning and Height Limitation Map dated May 25, 1988, shown on Exhibit 3.<fn path="|III|§594-6|footnotes|2">2</fn> The following requirements shall apply to all Airport Overlay Districts (AIR):</text>
+          <para>
+            <num>(a)</num>
+            <text>Interference with avigation. Notwithstanding any other provision of this section, no use shall be made of land within any Airport Overlay District in such a manner as to:</text>
+            <para>
+              <num>[1]</num>
+              <text>Release into the air any substance which would impair visibility or otherwise interfere with the operation of aircraft.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Produce light emissions, either direct or indirect (reflective), which would interfere with the operation of aircraft.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Produce electrical, magnetic or other emissions which would interfere with the operation of aircraft, aircraft communication or aircraft guidance systems.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Attract birds, waterfowl, or wildlife in a manner that creates a hazard to navigation.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Create a hazard to navigation in any other manner.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Flammable and/or combustible material. The following requirements shall apply to all Airport Overlay Districts. All technical terms shall be interpreted as defined in the Wisconsin State Statutes and Wisconsin Administrative Code.</text>
+            <para>
+              <num>[1]</num>
+              <text>The manufacture of flammable and/or combustible liquid and solid materials is prohibited.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The handling and storage of flammable and/or combustible liquid and solid materials and materials which produce flammable or combustible vapors and gases shall be in accordance with state laws, rules and regulations and lawful administrative orders.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prohibitions.</text>
+          <para>
+            <num>(a)</num>
+            <text>No person shall develop or maintain land or construct any building or structure or improve land in any Airport Overlay District(s) shown on Exhibit 2,<fn path="|III|§594-6|footnotes|3">3</fn> in which situated, contrary to these requirements.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No building, structure or object of natural growth shall exceed the height limitation of the underlying zoning district or be in excess of the height limitation indicated on the Kenosha Regional Airport Zoning and Height Limitation Map dated May 25, 1988, shown on Exhibit 3.<fn path="|III|§594-6|footnotes|4">4</fn> In the event of a conflict, the more stringent requirement shall apply.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Traffic impact analysis. The developer shall, at its cost and expense, construct and install, prior to building occupancy, improvements identified in a traffic impact statement. The developer shall be responsible to prepare a traffic impact statement which analyzes adjoining street capacity and current volumes, trip generation rates expected for the development, and expected increase or decrease in volumes on adjoining streets and impacted arterials. The traffic impact statement shall identify the size, location, and characteristics of roadway or traffic control improvements necessitated by the proposed development to maintain existing levels of service on public thoroughfares. The analysis shall identify the impact of the development on pedestrian or vehicular safety and congestion. The impact analysis shall be required when the total floor space of the development on a single parcel or contiguous parcels totals 100,000 square feet or more.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Building requirements. Buildings authorized to be constructed shall conform to the design standards hereinafter set forth:</text>
+        <para>
+          <num>(1)</num>
+          <text>Building faces shall be constructed entirely of architectural masonry, exterior insulated finish system (EIFS), architectural composite aluminum panels, wood, glass or a combination of these materials. Prefinished metal siding, steel siding, or ribbed or corrugated metal siding shall not be permitted on any building facade. Smooth-face concrete blocks shall not be permitted on any building facade, except when used for accent banding.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Articulation on the rooflines shall be provided by using a pitched roof, a partial roof or parapet walls of varying heights.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Rooftop mechanicals shall be concealed in order to prevent their visibility from grade level as measured from the lot lines and abutting street rights-of-way.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Materials and colors of outbuildings shall be consistent with the main building.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Articulation of building facades shall comply with the following design standards:</text>
+          <para>
+            <num>(a)</num>
+            <text>Recesses and/or projections shall comprise at least 20% of each facade length with a minimum depth and/or projection of three feet or other methods of articulation, such as false windows or articulation of brick or block.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Windows, awnings, arcades or similar architectural elements shall total at least 60% of each facade length which faces a public street.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Site requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Parking lots shall be designed and constructed in accordance with city ordinances.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Parking lots shall be paved with asphaltic concrete or portland cement concrete.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Utility requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Storm sewer, sanitary sewer and water utility systems shall be designed and constructed in accordance with City of Kenosha and Kenosha Water Utility ordinances and regulations. All new electric, phone and cable facilities shall be installed underground.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All exterior lighting shall comply with the following standards:</text>
+          <para>
+            <num>(a)</num>
+            <text>Light fixtures shall be selected with care to ensure that they are appropriately scaled in relation to their setting and to ensure that they are of a style that is compatible with the character of their immediate environment.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Luminaires shall be aimed, shielded, or relocated so as to minimize glare.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The maximum allowable light spillover to an adjacent residential property shall be 0.5 footcandle measured at the property line, four feet above grade; for all other types of land uses, the maximum allowable light spillover shall be 0.75 average footcandle, measured in the same manner.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Lighting levels shall be measured in footcandles with a direct-reading, portable light meter. The meter sensor shall be mounted not more than four feet above the ground line in a horizontal position. Readings shall be taken only after the cell has been exposed long enough to provide a constant reading. Measurements shall be made after dark with the light sources in question on, then with the same sources off. The difference between the two readings shall be compared to the maximum permitted illumination.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>All lighting wires/cables shall be placed underground.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Accent lighting should be used to highlight architectural and landscape design elements when appropriate.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Illumination of uses shall meet the minimum standards of the Illuminating Engineering Society of North America (IES).</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Pedestrian walkways and parking area shall be illuminated to a sufficient level so as to provide for security.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Drainage requirements. All development shall comply with the city, state and federal requirements for stormwater retention and detention, and these must be met:</text>
+        <para>
+          <num>(1)</num>
+          <text>Surface water runoff on the site shall be absorbed or retained on the site so that the rate of flow of surface water leaving the site would not be greater than if the site had remained undeveloped.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Surface water from the site shall be discharged to the city storm sewer or ditch, where available and of sufficient capacity to handle the flow.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Surface water flow may be directed onto adjoining private property only under the following circumstances:</text>
+          <para>
+            <num>(a)</num>
+            <text>The surface water follows a predevelopment drainage course.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The property owner of the site being developed executes an indemnity and hold harmless agreement with adjoining property owner.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Private drainage tiles may be connected to those on adjacent property only with the written permission of said property owner.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Nonresidential uses and all parking areas shall not discharge surface water onto any property zoned residential.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Landscaping requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Recommended trees, shrubs and ground cover. Species and/or varieties of trees, shrubs and ground cover shall be those recommended by the City Forester or the most recent version of A Guide to Selecting Landscape Plans for Wisconsin by E.R. Hasselkus. The following criteria shall also govern selection:</text>
+          <para>
+            <num>(a)</num>
+            <text>Size in relation to proximity to buildings, utilities, entrances, pedestrian walkways, roads and other improvements.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Species in relation to plant hardiness (Zones 5 through 2), disease or insect resistance, and low maintenance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Landscape open space. All open space or open areas required for stormwater control or other purposes shall be landscaped in accordance with the standards set forth in these regulations. Unless otherwise identified, all development shall contain a minimum of 15% of the site in landscaped open space, including interior parkways, buffer strips, parking lot landscaping and site interior landscaping.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Landscaping is regulated based on five distinct areas of the parcel being developed as follows:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>Interior parkway. A landscaped open space directly abutting a public street right-of-way.</text>
+        <para>
+          <num>(b)</num>
+          <text>Parkway. The unpaved portion of the public street right-of-way between a curb or curbline and sidewalk.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Buffer strip area. A landscaped area intended to separate two adjacent land uses or properties from one another and soften land use incompatibility.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Parking lot landscaping. Landscaped area within or surrounding a parking area used to soften the visual and environmental character of paved parking areas.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Site interior landscaping. The open space area surrounding buildings intended to enhance building and site character, excluding the interior parkway, parking lot landscaping, and perimeter landscape area. See Exhibit 4 which provides a graphic illustration of each area above described.<fn path="|III|§594-6|footnotes|5">5</fn></text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Site landscaping requirements. The following landscape requirements apply to permitted uses:</text>
+        <para>
+          <num>(a)</num>
+          <text>Interior parkway landscaping. Interior parkway landscaping is required of developments in order to screen vehicular parking which may be viewed from the public rights-of-way as shown in Exhibit 6.<fn path="|III|§594-6|footnotes|6">6</fn></text>
+          <para>
+            <num>[1]</num>
+            <text>Interior parkway landscape standards are indicated in Exhibit 6.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Parking lot frontage shall be screened to a height of three feet along at least 50% of the frontage, as shown in Exhibit 7.<fn path="|III|§594-6|footnotes|7">7</fn></text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Parkway landscaping.</text>
+        </para>
+        <para>
+          <num>[1]</num>
+          <text>Parkway landscaping is required of development in order to provide street tree plantings. Parkway landscape standards shall include one two-inch caliper deciduous tree for every 40 feet of street frontage.</text>
+        </para>
+        <para>
+          <num>[2]</num>
+          <text>Parkway trees are not required when plans show shade trees in interior parkway within 35 feet of parkway curbline.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Buffer strips. All developments shall create a buffer between land uses. Buffers shall be composed of landscape plantings, earth berming or screen fencing. Exhibits 5, 8 and 9 illustrate permissible buffer strip options.<fn path="|III|§594-6|footnotes|8">8</fn></text>
+          <para>
+            <num>[1]</num>
+            <text>Buffer strips shall be provided along the periphery of the development site, except where cross access, utilities or special circumstances prohibit.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Ornamental clump trees shall be a minimum of five feet; all other ornamental trees shall be a minimum of two-inch caliper.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Shrubs shall be planted in groupings or hedges through the buffer strip.</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>Screen fencing or walls of wood, face brick or other approved material shall be provided.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Site interior landscaping. Site interior landscaping shall utilize plant materials, earth berming and screening elements to functionally screen and aesthetically enhance site and building characteristics.</text>
+          <para>
+            <num>[1]</num>
+            <text>Between buildings.</text>
+            <para>
+              <num>[a]</num>
+              <text>There shall be sufficient quantities of deciduous, ornamental and coniferous trees, shrubs and ground covers to adequately screen undesirable views at the sides and rear of buildings.</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>All designated lawn areas between or around buildings shall be sodded. Seed may be used if an irrigation system is provided.</text>
+            </para>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Foundation planting.</text>
+            <para>
+              <num>[a]</num>
+              <text>A five-foot-wide landscape area should be provided adjacent to all building walls. All trees shall be planted a minimum of 10 feet from building overhangs, and only columnar trees may be planted within 20 feet of a building overhang.</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>The landscaped area should be planted with a balance of ornamental and coniferous trees, shrubs, and ground covers.</text>
+            </para>
+            <para>
+              <num>[c]</num>
+              <text>Plantings should emphasize softening of large expanses of building wall length and height, accent building entrances and architectural features and screen mechanical equipment adjacent to buildings.</text>
+            </para>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Service area screening.</text>
+            <para>
+              <num>[a]</num>
+              <text>All service areas such as loading docks and freestanding utility and mechanical equipment shall be screened from view through the use of coniferous plant materials or fencing compatible with proposed building design.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>[b]</num>
+          <text>Trash dumpsters and other waste receptacles or equipment shall be screened with fencing of decorative wood masonry six feet in height, with shrubbery or trees and a solid, attractive single- or double-access gate on one side only, and with shrubs and trees as shown in Exhibit 10.<fn path="|III|§594-6|footnotes|9">9</fn></text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Parking lot landscaping. Landscaping shall be provided within all parking lots. Parking lot plantings shall provide screening, shade, and subdivided space and are intended to reduce glare and heat from pavement surfaces by meeting the following standards:</text>
+          <para>
+            <num>(a)</num>
+            <text>Each parking row, regardless of its length, should begin and end with a landscape island with barrier-type curbs.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No parking space shall be more than 90 linear feet away from either a landscaped parking island or landscaped buffer strip, foundation planting or landscaped interior parkway.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All parking lots or portions of parking lots adjacent to buffer strips or interior parkways which are adjacent to any residential properties shall be screened from view by landscaping, fencing, berming, and/or a combination thereof.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Shrubs within parking lot islands shall be maintained at a height not to exceed three feet.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Parking lot landscape areas shall have a minimum width of eight feet, measured from back of curb to back of curb, and a depth equal to the depth of the parking stall, as shown in Exhibit 11.<fn path="|III|§594-6|footnotes|10">10</fn> Landscape islands shall include at least one deciduous tree of 2 1/2 inches in caliper. Additional trees may be required, depending on the size of the island and the location of parking lot lighting.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Fence requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Approved fence materials. All fences shall meet the following material requirements:</text>
+          <para>
+            <num>(a)</num>
+            <text>Fences shall be constructed using materials including, but not limited to, brick, fieldstone, wrought iron, vinyl or vinyl coated, chain link (with a minimum thickness of nine gauge and a required top rail support), stockade or board-on-board wood. Chain link fencing shall not be used for screening.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No fence shall be constructed of used or discarded materials in disrepair, including but not limited to pallets, tree trunks, trash, tires, junk, or other similar items. Materials not specifically manufactured for fencing, such as railroad ties, wooden doors, landscape timbers or utility poles, shall not be used for or in the construction of a fence.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fence maintenance. Fences shall be maintained in a manner as to prevent rust, corrosion and deterioration, so as not to become a public or private nuisance, and so as not to be dilapidated or a danger to adjoining property owners or the public. Fences shall not create an appearance of patchwork, which is indicative of a state of disrepair. Every fence installed shall be maintained by the owner in such a way that it will remain plumb and in good repair.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prohibited fences. The following shall be prohibited:</text>
+        </para>
+        <para>
+          <num>(a)</num>
+          <text>An electric or razor wire fence.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any wire or chain-link-type fence with the cut or salvage end of the fence exposed at the top.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A fence which creates a hazard to users of the street, sidewalk or to nearby property.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A fence composed solely of fence posts.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An incomplete fence, consisting only of posts and supporting members.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A barbed wire fence.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Definitions. See Exhibit 12.<fn path="|III|§594-6|footnotes|11">11</fn></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Exhibits 2 and 3 are on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Exhibit 2 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Exhibit 3 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Exhibit 4 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Exhibit 6 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Exhibit 7 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Exhibits 5, 8 and 9 are on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Exhibit 10 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Exhibit 11 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+        <footnote>
+          <num>11</num>
+          <text>Editor's Note: Exhibit 12 is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-7</num>
+      <heading>Enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text><cite path="|III|594|I">This article</cite> shall be administered by the Menominee Tribal Community Development Department or any other entity designated by the Menominee Tribal Legislature ("Department"). The Menominee Tribal Attorney, Menominee Tribal Prosecutor, or other officer designated by the Menominee Tribal Legislature, in coordination with the Department, shall enforce these provisions. Persons enforcing <cite path="|III|594|I">this article</cite> may seek injunctive relief from Tribal Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person who fails to comply with the provisions of <cite path="|III|594|I">this article</cite> or any order of the Department or its authorized agent issued in accordance with <cite path="|III|594|I">this article</cite> shall, upon conviction thereof, forfeit not less than $100 or more than $500 for each day the violation continues and the cost of prosecution for each violation, including court costs and reasonable attorney fees.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any person intending to engage in construction activity or hire someone to engage in construction activity shall provide his or her plans to the Department in a format designated by the Department. No person may commence any construction activity prior to receiving written approval from the Department stating that such construction activity conforms to the terms of <cite path="|III|594|I">this article</cite>. Any person engaging in construction activity shall do so in conformance with the approved plans.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="III|§594-8">
+      <prefix>§</prefix>
+      <num>594-8</num>
+      <heading>Exhibits and references.</heading>
+      <para>
+        <num>A.</num>
+        <text>All exhibits and references are attached hereto and incorporated herein.<fn path="|III|§594-8|footnotes|12">12</fn></text>
+        <para>
+          <num>(1)</num>
+          <text>(Reserved)</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Airport Overlay Districts.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Kenosha Regional Airport Zoning and Height Limitation Map.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Landscaped Areas.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Commercial Buffer Strip Abutting Residential Zone.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Interior Parkway Landscaping for Commercial Uses.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Commercial Interior Parkway Landscaping.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Commercial Buffer Strips Abutting Residential Zone.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Buffer Strips for Commercial Uses.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service Area Screening.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Typical Parking Lot Planting Island.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Definitions.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Exhibits 1 through 12 are on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container cache:ref-path="III|594|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Environmental Health and Food</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>594-9</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|III|594|II">this article</cite> is to protect the public health and to maintain and protect the environment.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-10</num>
+      <heading>Administration and enforcement.</heading>
+      <text><cite path="|III|594|II">This article</cite> shall be administered by the Menominee Tribal Environmental Services Department or any other entity designated by the Menominee Tribal Legislature. The Menominee Tribal Attorney, Menominee Tribal Prosecutor, or other officer designated by the Menominee Tribal Legislature, in coordination with the Environmental Services Department, shall enforce these provisions. In addition to seeking penalties listed in <cite path="§594-21">§ 594-21</cite> of <cite path="|III|594|II">this article</cite>, persons enforcing <cite path="|III|594|II">this article</cite> may seek injunctive relief from Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-11</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|III|594|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>APPEALS BOARD — That entity created by the Menominee Tribal Legislature to hear appeals from decisions of the Health Officer.</text>
+      <text>DEPARTMENT — Menominee Tribal Environmental Services Department or any other department of the Tribe or authority charged with enforcing <cite path="|III|594|II">this article</cite>.</text>
+      <text>GROCERY STORE — A retail store whose primary business is the sale of food. HEALTH OFFICER — The Director of the Department or his or her designee.</text>
+      <text>PERSON — An individual, partnership, association, firm, company, corporation, or tribal business, whether tenant, owner, lessee or licensee, or the agent, heir or assignee of any of these.</text>
+      <text>REINSPECTION — A follow-up inspection conducted on a date specified by the Health Officer to verify that an ordered remedial action has been taken and to verify that the noncompliance or violation no longer exists.</text>
+      <text>RESTAURANT — Any building or room where, as the establishment's primary business, meals are prepared or served or sold to transients or the general public and all places used in connection with it. "Restaurant" also means a separate dining facility meeting the foregoing criteria located within an establishment such as, but not limited to, a hotel, motel, or retail store whose primary business is not food service.</text>
+      <text>SEPARATELY VENTILATED — The area is ventilated to a standard specified in the State of Wisconsin Building Code, § Comm 64.0401, Wis. Adm. Code, and there is a ventilation system for the smoking area which is separate and distinct from the ventilation system for the nonsmoking area or areas so that there is no mixing of air from the smoking and nonsmoking areas.</text>
+      <text>SMOKING — To smoke, carry, possess or control any lighted tobacco, including but not limited to cigars, cigarettes or pipes.</text>
+      <text>TAVERN — Any establishment in which fermented malt beverages and/or intoxicating liquors are sold for consumption upon said premises and whose sales account for more than 50% of the establishment's gross receipts during the past license year, verified under oath in a statement provided by an accountant or bookkeeper and filed with the Health Officer at the time of license renewal. New licensees shall estimate gross receipts for the first license year at the time of license application.</text>
+      <text>TRANSIENT — A person who travels from place to place away from his/her permanent residence for vacation, pleasure, recreation, culture, business or employment.</text>
+      <text>TRIBE — Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-12</num>
+      <heading>License application.</heading>
+      <text>Applications for licenses required in <cite path="|III|594|II">this article</cite> shall be made in writing to the Department on forms provided by the Department and shall contain, but not be limited to, the following information:</text>
+      <para>
+        <num>A.</num>
+        <text>The name, address and date of birth of the applicant.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The trade name and address of the establishment.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whether the applicant is a person, corporation, or partnership.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the applicant is a corporation, the application shall contain the registered agent's name, home address and date of birth.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the applicant is a partnership, the application shall include the names, home addresses and dates of birth of the partners.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The signature of all applicants and their agents to confirm that all information on the application is correct and acknowledge that any change in the information on the application shall be reported to the Health Officer within 14 days of the change.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-13</num>
+      <heading>License issuance.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Health Officer shall issue a license to the applicant on a probationary six-month or annual basis, if the requirements of <cite path="|III|594|II">this article</cite> have been complied with and if all applicable fees have been fully paid to the Department.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Health Officer shall set a schedule of fees related to <cite path="|III|594|II">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-14</num>
+      <heading>Display of license.</heading>
+      <text>All licensees shall immediately post their license upon some conspicuous part of the room in which the business is carried on, and the license shall remain posted during the period for which it is in force. No activity regulated by <cite path="|III|594|II">this article</cite> may take place without a license issued by the Department. Where a license has been denied, revoked or suspended all activity permitted by the granting of a license shall cease.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-15</num>
+      <heading>Inspection by Department.</heading>
+      <text>Authorized employees of the Department, upon presenting proper identification, shall have the authority and duty to enter any licensed premises during regular business hours to inspect the same, with respect to businesses open at least 40 hours per week. In the absence of regular business hours, inspection may be made at any time. Inspection includes the right to secure samples or specimens, examine and copy relevant documents and records or obtain photographic or other evidence needed to enforce <cite path="|III|594|II">this article</cite>. The person actually making inspection on behalf of the Health Officer shall have the same minimum training and certification or licensure as is required for inspectors working on behalf of the State of Wisconsin. Each establishment requiring a license under <cite path="|III|594|II">this article</cite> shall be inspected at least once every 12 months. If any violations of <cite path="|III|594|II">this article</cite> are found, the Health Officer shall issue an order for remedial action stating the nature of the violation, the remedial action that must be taken, and the date when such remedial action must</text>
+      <text>be completed. Copies of inspection reports, orders and evidence of corrective action shall be forwarded to the Kenosha County Division of Health within 30 days of receipt or issuance by the Department. Failure to comply with an order for corrective action may result in suspension or revocation of a license.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-16</num>
+      <heading>Denial, suspension or revocation of license.</heading>
+      <text>The Health Officer may deny any license application or suspend or revoke any license issued under <cite path="|III|594|II">this article</cite> for noncompliance with <cite path="|III|594|II">this article</cite>. The following procedure shall be followed in the denial, suspension or revocation of any license issued under <cite path="|III|594|II">this article</cite>:</text>
+      <para>
+        <num>A.</num>
+        <text>A decision by the Health Officer to deny, suspend or revoke a license shall be in writing and shall state, with specificity, the reasons for the Health Officer's decision and shall state any and all applicable ordinances or orders which may have been violated. The Health Officer shall send to the licensee or license applicant a copy of the written decision by mail or personal service. Said notice shall inform the licensee or applicant of the right to have this decision reviewed and the procedure for such review.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A licensee or applicant aggrieved by a decision of the Health Officer to deny, suspend or revoke a license must send a written request for review and reconsideration to the Health Officer within five working days of receipt of the notice of the Health Officer's decision. This request shall state the grounds upon which the person aggrieved contends that the decision should be reversed or modified.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Within five working days of receipt of the request, the Health Officer may affirm, reverse or modify his initial determination. The Health Officer shall mail or deliver to the licensee or applicant a copy of the Officer's decision. The decision shall advise the licensee or applicant of the right to appeal the decision, the time within which appeal shall be taken and the office or person with whom notice of appeal shall be filed.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>An applicant or licensee who wishes to appeal a decision made by the Health Officer on review must file a notice of appeal within 10 days of receipt of the Health Officer's decision for review. The notice of appeal shall be filed or mailed to the Health Officer. The Health Officer shall immediately file said notice with the appeals board.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>An applicant or licensee shall be provided a hearing on appeal within 30 days of receipt of the notice of appeal. The Health Officer shall serve the licensee or applicant with notice of the hearing by mail or personal service at least five days before the hearing.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The hearing shall be conducted before the appeals board in accordance with the appeals board policies.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Within 20 days of the hearing, the appeals board shall mail or deliver to the applicant its written determination stating the reasons therefor. This shall be the final tribal determination.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-17</num>
+      <heading>Temporary orders.</heading>
+      <text>Whenever, as the result of an inspection conducted pursuant to <cite path="|III|594|II">this article</cite>, the Health Officer has reasonable cause to believe that any examined food constitutes, or that any construction, sanitary condition, operation or method of operation of the premises or equipment used on the premises creates, an immediate danger to health, the Health Officer may issue a temporary order to prohibit the sale or movement of food for any purpose or prohibit the continued operation or method of operation which creates an immediate danger to health.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-18</num>
+      <heading>Construction or alteration of food establishments.</heading>
+      <para>
+        <num>A.</num>
+        <text>Except as provided in <cite path="§594-18|B">Subsection B</cite>, no person shall erect, construct, enlarge or alter a food establishment without first submitting to the Health Officer plans (drawings) which clearly show and describe the amount and character of the work proposed and without first receiving Department approval of submitted plans. Such plans shall include floor plan, equipment plan and specifications, wall, floor and ceiling finishes and plans and specifications for food service kitchen ventilation. Submitted plans shall give all information necessary to show compliance with applicable health codes. Submitted plans shall be retained by the Health Officer.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>At the option of the Health Officer, plans need not be submitted to execute minor alterations. Minor alterations include, but are not limited to, the replacing or recovering of existing floor, wall, or ceiling coverings or other cosmetic or decorating activities.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any plans approved by the Department shall not be changed or modified unless the Health Officer has reviewed and approved the modifications or changes.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-19</num>
+      <heading>Activities subject to licensing.</heading>
+      <text>No person shall operate any of the following without first obtaining a license from the Department, nor shall operate contrary to the terms and conditions of <cite path="|III|594|II">this article</cite>:</text>
+      <para>
+        <num>A.</num>
+        <text>Restaurant (including concession stands).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Retail food establishment (including vending machines).</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Food and beverage establishment (including "Class B" and "Class C" city-licensed establishments).</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Food distributors.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Hotels.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Public swimming pool.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Campground.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Kennel.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-20</num>
+      <heading>Adoption of regulations.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribe adopts as its own regulation under <cite path="|III|594|II">this article</cite> the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Wisconsin Food Code found in the State of Wisconsin Administrative Rules at DHS 196, Appendix A.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Wisconsin Administrative Rule DHS 195.02 through 195.11</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Wisconsin Administrative Rule DHS 172.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Wisconsin Administrative Rules DHS 178.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Wisconsin Administrative Rules Comm 90.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text><cite path="|I|98">Chapter 98</cite>, Weights and Measures, Wisconsin Statutes.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Wisconsin Administrative Rules ATCP 53.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Wisconsin Administrative Rules ATCP 54.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Sections of <cite>Chapter 100</cite>, Wisconsin Statutes, pertaining to advertising as follows: §§ 100.18(6) and (8), 100.183 and 100.184.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>National Bureau of Standards (NBS) Handbook 44, United States Department of Commerce, Specifications, Tolerances and Other Technical Requirements for Commercial Weighing and Measuring Devices.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any reference in these adopted provisions to state or local officials shall be deemed a reference to a comparable tribal official. If there is a conflict between the terms of <cite path="|III|594|II">this article</cite> and the terms of the provisions adopted in <cite path="§594-20|A|(1)">Subsection A(1)</cite> and (2) above, the terms of <cite path="|III|594|II">this article</cite> shall govern.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-21</num>
+      <heading>Penalty for failure to comply.</heading>
+      <text>Any person who fails to comply with the provisions of <cite path="|III|594|II">this article</cite> or any order of the Health Officer or his or her authorized agent issued in accordance with <cite path="|III|594|II">this article</cite> shall, upon conviction thereof, forfeit not less than $100 or more than $1,000 for each day the violation continues and the cost of prosecution for each violation, including court costs and reasonable attorney fees.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-22</num>
+      <heading>Smoking.</heading>
+      <para>
+        <num>A.</num>
+        <text>No person shall engage in smoking within the enclosed indoor areas of any grocery store or restaurant. These prohibitions also apply to restaurants within a mall and include adjacent seating areas. These prohibitions do not apply to a room or hall in a restaurant or grocery store that is separately ventilated and separated by a total physical barrier, such as, but not limited to, a full wall without openings other than doors. The door to this room or hall may be opened and closed only for ingress and egress and shall be and remain closed at all other times. No person under the age of 18 years shall be permitted in such room or hall, unless a customer accompanied by his or her parent or legal guardian, or unless an employee having the written permission of his or her parent or legal guardian to work in a room or hall where smoking is permitted.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The prohibitions found in <cite path="§594-22|A">Subsection A</cite> above do not apply to private functions within restaurants conducted in a separate room or hall which is not open to the general public and where the sponsor of the event has elected to permit smoking and has notified invitees that smoking at the event will be permitted.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The prohibitions found in <cite path="§594-22|A">Subsection A</cite> above do not apply to taverns as defined in <cite path="§594-11">§ 594-11</cite> above.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No proprietor or other person in charge of a grocery store or restaurant shall place, provide, or make available any ashtray or similar device used to facilitate smoking in an area where smoking is prohibited.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>No proprietor or other person in charge of a grocery store or restaurant shall fail to display signs required by this section.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>No person shall remove, deface or destroy any sign required by this section, except for purposes of prompt sign replacement by a proprietor or other person in charge of a grocery store or restaurant.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Signs prohibiting smoking shall be posted conspicuously at every entrance used by members of the public by the proprietor or other person in charge of each grocery store and restaurant. The signs shall be no smaller than 8 1/2 inches by 5 1/2 inches, legibly reading "No Smoking By Tribal Ordinance."</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The proprietor or other person in charge of a grocery store or restaurant shall make reasonable efforts to ensure compliance with this section by patrons and employees by approaching persons who fail to voluntarily comply with this section and requesting that they extinguish their smoking material and refrain from smoking upon witnessing the person smoking or upon complaint from a person who witnessed the person smoking.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The proprietor or other person in charge of a grocery store or restaurant shall refuse service to a person smoking.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Any person smoking in violation of this section shall immediately cease and desist from so doing upon the request of the proprietor or person in charge of the grocery store or restaurant. Such person shall be subject to prosecution under <cite path="|III|594|II">this article</cite> upon failure to immediately cease and desist from smoking.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="III|§594-23">
+      <prefix>§</prefix>
+      <num>594-23</num>
+      <heading>Animals.</heading>
+      <para>
+        <num>A.</num>
+        <text>Definitions. As used in this section, the following terms shall have the meanings indicated:</text>
+        <text>ANIMAL — Any living thing that is not human or a plant and generally capable of voluntary motion or sensation.</text>
+        <text>BITTEN — Seizure of any portion of a human being or another animal's anatomy by the teeth or jaws of an animal or contact of saliva from an animal with any break or abrasion of the skin of another animal or person.</text>
+        <text>CAT — Any feline animal, male or female, sexed or neutered. DOG — Any canine animal, male or female, sexed or neutered.</text>
+        <text>OWN — Unless otherwise specified, to keep, harbor, or have control, charge or custody of an animal, or permit an animal to be kept, harbored or fed upon or within premises owned, leased, rented or occupied by a person, and does not require actual legal title or right to the animal.</text>
+        <text>OWNER — Any person keeping, harboring or having charge or control of or permitting any animal to habitually be or remain on or be lodged or fed within buildings or land owned, leased, used or occupied by such person, irrespective of whether such person has legal title or claim to the animal. This term shall not apply to veterinarians or kennel operators temporarily maintaining on their premises animals owned by others and shall not apply to the United States of America, the Menominee Indian Tribe, or the Menominee Kenosha Gaming Authority merely by virtue of its ownership or leasehold interests in the trust lands.</text>
+        <text>PERSON — Any natural person, limited liability company, corporation, or partnership.</text>
+        <text>SCRATCHED — The scraping or clawing of any portion of another animal or a human being's anatomy by an animal.</text>
+        <text>VETERINARIAN — A natural person duly licensed to practice veterinary medicine in the State of Wisconsin and possessing a doctor's degree in veterinary medicine.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person shall harbor any dog which by loud or frequent or habitual barking, yelping, or howling shall cause serious annoyance to the neighborhood or to persons passing to and from upon the streets. No owner or a person harboring a fierce or vicious dog shall suffer the same to run at large at any time within the lands subject to <cite path="|III|594|II">this article</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be unlawful for any person owning or possessing any dog or cat to permit it to run at large. "Run at large" means the presence of an animal which is not on a secured leash of six feet or less on any public property or thoroughfare or on any private property without the permission of the property owner or occupier. Dogs and cats which are not leashed in vehicles are not deemed to "run at large" if they are secured in a manner as will prevent their escape therefrom.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Whenever any person designated by the Health Officer shall find any dog or cat running at large as defined, he/she shall, if possible, pick up and impound such animal in such place as the Health Officer may direct; provided, however, that if any such dog or cat is fierce or dangerous, it may be disposed of forthwith. Whenever the owner of any impounded animal shall be identifiable through a collar or license tag, the owner shall be notified by the impoundment facility. Any animal impounded shall be held for a period of seven days to permit the owner to reclaim it. At the end of such period the animal may be disposed of.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any premises, whether indoors or outdoors, upon which any animal is harbored shall be maintained in a sanitary condition, and all animal feces must be removed and sanitarily disposed of within 24 hours.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>It is unlawful for any person to operate, keep or maintain a kennel without first obtaining a license from the Department and being in compliance with the terms of this section. The fee for a license issued hereunder or renewal thereof shall be determined by motion of the Menominee Tribal Legislature or its designee.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any applicant for a license or renewal thereof under this section shall file with the Department a fully executed application on a form prescribed by the Department, accompanied by the annual license fee. The application shall state the maximum number of dogs sought to be permitted upon the licensed premises.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No license or renewal thereof shall issue hereunder until:</text>
+          <para>
+            <num>(a)</num>
+            <text>There has been an inspection by the Health Officer or his or her designee of the premises being licensed and a determination by said person that all requirements of this section have been met.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>There is an adequate means of restraining animals from running at large or disturbing the peace.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The proposed facilities are in compliance with the applicable building and fire codes as verified by the authorized representatives of enforcing departments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any license or renewal thereof issued hereunder shall be for a calendar year or portion thereof. Licenses must be renewed each calendar year on or before the 31st day of January. Licenses shall not be assignable or transferable either to another person or for another location.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>When issued, a license shall be displayed in a manner and at a location so as to be readily visible by the public.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Department shall license the premises only for such number of dogs as the premises to be licensed will reasonably accommodate based upon inspection reports.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Upon issuing a license hereunder the Department shall issue a number of tags equal to the number of dogs authorized to be kept on the licensed premises. License tags shall be made in a form so that they may be readily distinguishable from the individual license tags for the same year. The licensee shall, at all times, keep one of such tags, plus a rabies tag obtained from a veterinarian, attached to the collar of each dog over five months old kept on the licensed premises. This requirement to wear a tag and collar does not apply to a dog during competition or training, a dog securely confined indoors, or a dog securely confined in a fenced area.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Department shall keep a list of the names of licensees and the number of dogs kept upon each licensed premises.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All licensed premises shall provide the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Adequate and potable water shall be available at all times to animals. Watering and feeding receptacles shall be cleaned at least once daily.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Supplies of food and bedding shall be stored and adequately protected against infestation or contamination by vermin. Refrigeration shall be provided for perishable food.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Provisions shall be made for the removal and disposal of animal and food wastes, bedding, dead animals and debris. Disposal facilities shall also be provided and operated as to minimize vermin infestation, odors and disease hazards.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Facilities such as washrooms, basins or sinks shall be provided to maintain cleanliness among caretakers.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Animals with potential communicable diseases shall be housed in separate rooms from healthy animals.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Vicious animals shall not be kept on the premises.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>In addition to the requirements of <cite path="§594-23|F|(8)">Subsection F(8)</cite> above, indoor facilities licensed hereunder shall provide the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Adequate ventilation to provide for the health and comfort of animals at all times. They shall be provided with fresh air, either by means of windows, doors, vents or air conditioning. Ventilation shall minimize drafts, odors and moisture condensation. Auxiliary ventilation such as exhaust fans and vents or air conditioning shall be provided when the ambient temperature is 85° F. or higher.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Ample artificial light which is of good quality and is well-distributed. Such lighting shall provide uniformly distributed illumination of sufficient intensity to permit routine inspection and cleaning during the entire working period.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Interior surfaces constructed and maintained so that they are impervious to moisture and may be readily cleaned.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Adequate method for rapidly eliminating excess water. If drains are used, they shall be properly constructed and kept in good repair to avoid foul odors. If closed drainage systems are used, they shall be equipped with traps and so installed as to prevent any backup of sewage and odors.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Dogs five months or older which are housed longer than 24 hours shall be provided with adequate, separate, cleanable enclosures and shall be permitted exercise periods at least twice each day for a minimum of five minutes each period, unless an exercise run is provided. An exercise run must have an area of 20 square feet for a dog of 30 pounds or less and a minimum of 36 square feet for a dog over 30 pounds in weight.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>In addition to the standards required under <cite path="§594-23|F|(8)">Subsection F(8)</cite>, outdoor facilities licensed hereunder shall provide the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Sufficient shade to allow animals kept outdoors to protect themselves from the direct rays of the sun.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Access to shelter to allow them to remain dry during rain or snow.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Shelter shall be provided for all animals kept outdoors when the atmospheric temperature falls below 50° F. Sufficient clean bedding material or other means of protection from the weather elements shall be provided when the ambient temperature falls below that temperature to which any such animal is acclimated.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A suitable method shall be provided to rapidly eliminate excess water.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Dogs five months or older which are housed longer than 24 hours shall be provided with adequate, separate cleanable enclosures and shall be permitted exercise periods at least twice each day for a minimum of five minutes each period, unless an exercise run is provided in the same manner as <cite path="§594-23|F|(9)(e)">Subsection F(9)(e)</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Enclosures shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be structurally sound and maintained in good repair to protect the animals from injury, to contain them, and to keep predators out. They shall be constructed of a material that is easily cleanable and maintained so as to enable the animals to remain dry and clean and provide convenient access to clean food and water.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Be constructed and maintained so as to provide sufficient space to allow each animal to turn about freely and to easily stand, sit and lie in a comfortable, natural position.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Be used for housing not more than one animal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Excreta shall be removed from enclosures as often as necessary to prevent contamination of animals contained therein and to reduce disease, hazards and odors. When a hosing or flushing method is used for cleaning the enclosure, the animals shall be removed during the cleaning process and adequate measures shall be taken to protect the animals in other enclosures from being contaminated with water and other wastes.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Enclosures, rooms, hard-surfaced pens and runs shall be cleaned by washing all soiled surfaces with a safe and effective disinfectant.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Pens and runs shall be constructed of concrete, asphalt or impervious material, or other material approved by the Health Officer or his or her designee.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>An effective program for the control of insects, actoparasites, and avian and mammalian pests shall be established and maintained where a problem.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Animals housed for more than 24 hours shall be fed at least once a day, except as otherwise might be required to provide adequate veterinary care. The food shall be free from contamination, wholesome, palatable and of sufficient quality and nutritive value to meet the normal daily requirements for the condition and size of each animal.</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>Food receptacles shall be accessible to the animal and shall be located so as to minimize contamination by excreta. Feeding pans shall be durable and kept clean. The food receptacles shall be cleaned daily. Disposable food receptacles may be used but must be discarded after each feeding. Self feeders may be used for the feeding of dry food and they shall be sanitized as needed, but at least once per week to prevent molding, deterioration or caking of feed.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>No person shall keep, feed or breed any swine, cattle, foxes, beavers, mink, otter, martin, fisher, raccoon, skunk, goats, horses, mules, asses, sheep, pheasants, poultry or bees, nor shall any person bring into, keep or maintain under his control any wild animal or any animal which may endanger life or property. Any traveling circus or similar business having suitable structures or facilities for the safeguarding of such animals as determined by the Department is exempted from the provisions of <cite path="§594-23|G.">this subsection</cite>.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>It shall be unlawful for any person, except the visually or physically handicapped, to cause or permit a dog to be on property, public or private, not owned or possessed by such person unless such person has in his immediate possession an appropriate device for scooping excrement and an appropriate depository for the transmission of excrement to a receptacle located upon property owned or possessed by such person.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>It shall be unlawful for any person in control of, except the visually or physically handicapped, causing or permitting any dog to be on any property, public or private, not owned or possessed by such person, to fail to scoop and remove excrement left by such dog to a proper receptacle located on property owned or possessed by such person.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>It shall be unlawful to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Willfully or maliciously inflict unnecessary or needless cruelty, torture, abuse or cruelly beat any animal.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fail or refuse or neglect to provide any animal in his charge with food, potable water, shade or shelter, or cruelly expose any animal in hot, stormy, cold or inclement weather, or carry any animal in or upon any vehicle in a cruel or inhumane manner.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>In order to control rabies, persons shall comply with the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Dogs and cats shall be vaccinated within 30 days after having reached four months of age. Unvaccinated dogs or cats acquired or moved into the trust lands must be vaccinated within 30 days after purchase or arrival, unless under four months of age, wherein the above shall apply.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Veterinarians, at the time of vaccinating any animal, shall complete a certificate of rabies vaccination (in triplicate) which includes the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>Owner's name and address.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Description of animal (breed, sex, markings, age, and name).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Date of vaccination.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Rabies vaccination tag number.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Type of rabies vaccine administered.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Manufacturer's serial number of vaccine.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Distribution of copies of certificate shall be as follows: the original forwarded to the Department, first copy to owner, and second copy retained by issuing veterinarian. The veterinarian and owner shall retain their copies for the interval between vaccinations. A metal or durable plastic tag, serially numbered, shall be securely attached to the collar or harness of the dog.<fn path="|III|§594-23|footnotes|13">13</fn></text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The cost of rabies vaccination shall be borne by the owner of the animal.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The provisions of this section with respect to vaccination shall not apply to any animal owned by a person temporarily remaining within the trust lands for less than 30 days or any animal brought into the trust lands for show purposes. It shall be unlawful to bring any animal into the trust lands which does not comply with the animal health laws and import regulations of the State of Wisconsin which are applicable to dogs.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Within three days after being notified as provided in <cite path="§594-23|K|(7)">Subsection K(7)</cite> below, the owner of an animal that has bitten or scratched any natural person shall cause such animal to be examined by a veterinarian.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Notice shall identify the animal, the name of the natural person bitten or scratched, the location at which the person was bitten or scratched, and the name of the owner of the animal. Notice shall be complete by either:</text>
+          <para>
+            <num>(a)</num>
+            <text>First-class mailing of notice;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Actual delivery of a notice to the owner; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>By leaving a copy of the notice at the owner's usual place of abode in the presence of some competent member of the family at least 14 years of age, who shall be informed of the contents thereof.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>In not less than 10 nor more than 12 days after the date the animal bit or scratched any natural person, the owner shall secure a release of the animal from a veterinarian, on a form approved and supplied by the Department and delivered by the owner to the Department in not less than 10 nor more than 12 days after the date the animal bit or scratched any natural person.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The owner of the animal shall cause the animal to be confined in the custody and care of a veterinarian for such period of time, not to exceed 10 days, as is deemed necessary by the veterinarian to determine whether the animal is rabid if:</text>
+          <para>
+            <num>(a)</num>
+            <text>Pursuant to the examination, the veterinarian determines that the animal exhibits abnormal symptoms, signs or behavior; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The animal was not vaccinated.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>If pursuant to the examination and subject to the conditions in <cite path="§594-23|K|(9)">Subsection K(9)</cite> above the veterinarian determines that the animal may be released to the owner, the owner shall continuously confine the animal within the owner's house or a locked pen or building completely inaccessible to children and from which the animal cannot escape for a period of 10 days, commencing immediately after the bite or scratch.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>If the owner fails to comply with the requirements of <cite path="§594-23|K|(10)">Subsection K(10)</cite>, the animal or its carcass shall be impounded by order of the Department for such period as shall be deemed necessary by the Department to determine whether or not the animal is rabid. After the animal has been impounded for such period as is necessary to determine whether or not the animal is rabid, the Health Officer may cause such impounded animal to be returned to its owner. The return of the animal shall in no manner affect or diminish the liability of the owner for the costs of impounding and transporting the animal or relieve the owner of any duties or liabilities under this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The owner shall comply with all the requirements of this section each and every time an animal owned by him/her bites or scratches any natural person.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner of an animal shall not be relieved from any duty under this section by reason of the animal's disappearance or by the transfer of its custody to another.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The owner shall not destroy or permit to be destroyed an animal that has bitten or scratched a natural person without the written permission of the Health Officer or until 15 days have passed since the date of the last time the animal bit or scratched a natural person.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Tribe, upon failure of the owner to reimburse the veterinarian, shall reimburse the veterinarian who confines an animal pursuant to a request for such confinement by the Department. Such reimbursement shall be limited to the average normal customary charges in Kenosha, Wisconsin. The veterinarian, upon accepting reimbursement from the Tribe, shall execute and deliver to the Tribe an assignment of his/her claim against the owner for costs of confinement.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Department may cause any dog impounded pursuant to this section to be vaccinated against rabies while such dog is impounded if such dog has not been and is required to be vaccinated under this section.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If any unvaccinated animal is scratched or bitten by a known rabid animal, said bitten or scratched animal may be immediately destroyed, with the owner's consent, or as a last resort, if the animal cannot be captured. If the owner is unwilling to destroy the bitten or scratched animal, strict isolation of the animal in a kennel under veterinary supervision for a minimum of 180 days and compliance with the vaccination requirement of <cite doc="Wis. Stat." path="§95.21|(5)|(c)">§ 95.21(5)(c), Wis. Stats.</cite>, shall be required.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>If a vaccinated animal is bitten or scratched by a known rabid animal, said animal shall be immediately revaccinated and confined for a period of 60 days following revaccination, or if the animal is not immediately revaccinated, the animal shall be confined in strict isolation in a kennel for six months under the supervision of a veterinarian, or the animal shall be destroyed if the owner does not comply with <cite path="§594-23|K.|(8)">this subsection</cite>.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any dog found off the owner's premises and not wearing a valid rabies vaccination tag shall be impounded. All impounded dogs shall be given proper care and maintenance.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any unvaccinated animal may be reclaimed by its owners during the period of impoundment by payment of prescribed pound fees and complying with rabies vaccination requirements of this section within 72 hours of release. Any vaccinated dog impounded because of lack of rabies vaccination tag may be reclaimed by its owner by furnishing proof of rabies vaccination and payment of all impoundment fees prior to release.</text>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Vicious animals are prohibited on the trust lands. "Vicious animal" means an animal that, when unprovoked, inflicts bites, injures, kills, damages or attacks a human being or domestic animal; or any animal that has a propensity, tendency or disposition known to the owner thereof to attack without provocation, in a manner which may cause injury, death, or damage or which may otherwise endanger the safety of any human being or domestic animal; or any animal trained or used for fighting against another animal. A vicious animal which is owned, possessed, harbored, kept or maintained in violation of this section may be impounded and destroyed by the Department at the expense of the owner, following notice and an opportunity to be heard by the Health Officer. Any person or party aggrieved by such decision of the Health Officer may appeal such decision to the Menominee Tribal Legislature by filing a written notice of appeal within five business days of receipt of a written order from the Health Officer. The vicious animal shall be impounded, but not destroyed, until the time for appeal has expired and until any timely appeal has been heard.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-24</num>
+      <heading>Noise control.</heading>
+      <para>
+        <num>A.</num>
+        <text>Definitions. As used in this section, the following terms shall have the meanings indicated:</text>
+        <text>AMBIENT NOISE — The all-encompassing noise associated with a given environment, usually being a composite of sounds with many sources near and far, but excluding the noise source being measured.</text>
+        <text>A-WEIGHTED SOUND LEVEL — The sound-pressure level in decibels as measured on a sound-level meter using A-weighting network. The level so read is designated dB(A) or dBA.</text>
+        <text>COMMERCIAL AREA — All areas within the trust lands.</text>
+        <text>COMMERCIAL PURPOSE — The use, operation, or maintenance of any sound-amplifying equipment for the purpose of advertising any business or any goods or any services, or for the purpose of attracting the attention of the public to, or advertising for, or soliciting patronage or customers to or for any performance, show, entertainment, exhibition, or event, or for the purpose of demonstrating any such equipment.</text>
+        <text>CONSTRUCTION — Any site preparation, assembly, erection, substantial repair, alteration, or similar action, but excluding demolition, for or of public or private rights-of-way, structures, utilities or similar property.</text>
+        <text>CYCLE — The complete sequence of values of a periodic quantity which occurs during a period. DAYTIME — The hours from 7:00 a.m. to 10:00 p.m.</text>
+        <text>DECIBEL (dB) — A unit for measuring the volume of a sound, equal to 20 times the logarithm to the base 10 of the ratio of the pressure of the sound measured to reference pressure, which is 20 micropascals (20 micronewtons per square meter).</text>
+        <text>DEMOLITION — The dismantling, intentional destruction or removal of structures, utilities, public or private right-of-way surfaces, or similar property.</text>
+        <text>EMERGENCY — Any occurrence or set of circumstances involving actual or imminent physical trauma or property damage which demands immediate action.</text>
+        <text>EMERGENCY WORK — Any work performed for the purpose of preventing or alleviating the physical trauma or property damage threatened or caused by an emergency.</text>
+        <text>ENVIRONMENTAL PROTECTION OFFICE(R)/NOISE CONTROL OFFICE(R) (EPO/NCO) —</text>
+        <text>Any designee(s) of the Administrator of Health.</text>
+        <text>FREQUENCY — The frequency of a function periodic in time is the reciprocal of the primitive period. The unit is the cycle per unit time and shall be specified as cycles per second unless another unit of time is more convenient in a particular case.</text>
+        <text>IMPULSIVE SOUND — Sound of short duration, usually less than one second, with an abrupt onset and rapid decay. Examples of sources of impulsive sound include explosions, drop forge impacts, and the discharge of firearms.</text>
+        <text>MICROBAR — A unit of pressure commonly used in acoustics and is equal to one dyne per square centimeter.</text>
+        <text>MOTOR VEHICLE — Has the same definition as that term is defined by <cite path="|II|340">Ch. 340</cite>, Wis. Stats.</text>
+        <text>MUFFLER or SOUND-DISSIPATIVE DEVICE — A device for abating the sound of escaping gases of an internal combustion engine.</text>
+        <text>NIGHTTIME — The hours of 10:00 p.m. until 7:00 a.m. of the following day.</text>
+        <text>NOISE — Any sound which is unnecessary, excessive, unnatural, annoying, prolonged or unusually loud in relationship to its time, place and use effect.</text>
+        <text>NOISE DISTURBANCE — Any sound which:</text>
+        <para>
+          <num>(1)</num>
+          <text>Endangers or injures the safety or health of humans or animals;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Annoys or disturbs a reasonable person of normal sensitivities; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Endangers or injures personal or real property.</text>
+          <text>NONCOMMERCIAL PURPOSE — The use, operation, or maintenance of any sound-amplifying equipment for other than a commercial purpose. "Noncommercial purpose" shall mean and include, but shall not be limited to, philanthropic, political, patriotic, and charitable purpose.</text>
+          <text>PERIOD — The period of a periodic quantity is the smallest increment of time for which the function repeats itself.</text>
+          <text>PERIODIC QUANTITY — Oscillating quantity, the values of which recur for equal increments of time.</text>
+          <text>PERSON — Any individual, association, partnership, or corporation, and includes any officer, employee, department, agency or instrumentality of a state or any political subdivision of a state.</text>
+          <text>POWERED MODEL VEHICLE — Any self-propelled airborne, waterborne, or landborne plane, vessel or vehicle which is not designed to carry persons, including but not limited to any model airplane, boat, car, or rocket.</text>
+          <text>PUBLIC RIGHT-OF-WAY — Any street, avenue, boulevard, highway, sidewalk or alley or similar place designated a public right-of-way by the Tribe.</text>
+          <text>PUBLIC SPACE — Any real property or structures thereon which are designated public space by the Tribe.</text>
+          <text>PURE TONE — Any sound which can be distinctly heard as a single pitch or a set of single pitches. For the purpose of this section, a pure tone shall exist if the one-third octave band sound-pressure level in the band with the tone exceeds the arithmetic average of the sound-pressure levels of the two contiguous one-third octave bands by five dB for center frequencies of 500 Hz and above and by eight dB for center frequencies between 180 and 400 Hz and by 15 dB for center frequencies less than or equal to 125 Hz.</text>
+          <text>REAL PROPERTY BOUNDARY — An imaginary line along the ground surface, and its vertical extension, which separate the real property owned by one person from that owned by another person, but not including intra-building real property divisions.</text>
+          <text>SOUND — An oscillation in pressure, particle displacement, particle velocity or other physical parameter, in a medium with internal forces that cause compression and rarefaction of that medium. The description of sound may include any characteristic of such sound, including duration, intensity and frequency.</text>
+          <text>SOUND-AMPLIFYING EQUIPMENT — Any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios when used and heard only by the occupants of the vehicle in which the automobile radio is installed, and as used in this section shall not include warning devices on authorizing emergency vehicles used only for traffic safety, law enforcement, or authorized emergency purposes.</text>
+          <text>SOUND LEVEL — The weighted sound-pressure level obtained by the use of a sound-level meter and frequency weighting network, such as A, B, or C, as specified in American National Standards Institute specifications for sound-level meters (ANSI S1.4-1971 or the latest approved revision thereof). If the frequency weighting employed is not indicated, the A-weighting shall apply.</text>
+          <text>SOUND-LEVEL METER — An instrument which includes a microphone, amplifier, RMS detector, integrator or time averager, output meter, and weighting networks used to measure sound-pressure levels.</text>
+          <text>SOUND PRESSURE — The instantaneous difference between the actual pressure and the average or barometric pressure at a given point in space, as produced by sound.</text>
+          <text>SOUND-PRESSURE LEVEL — Twenty times the logarithm to the base 10 of the ratio of the RMS sound pressure to the reference pressure of 20 micropascals (20 x 10-6 N/m2). The sound-pressure level is denoted Lp or SPL and is expressed in decibels.</text>
+          <text>SOUND TRUCK — Any vehicle, regardless of motive power, whether in motion or stationary, having mounted thereon, or attached thereto, any sound-amplifying equipment.</text>
+          <text>WEEKDAY — Any day Monday through Friday which is not a legal holiday.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Noise as defined in this section is hereby declared to be a public nuisance and may be subject to abatement procedures as described herein. Such abatement may be in addition to administrative proceedings, fines and penalties as provided in <cite path="|III|594|II">this article</cite>. It shall be the duty of the Health Officer, upon receiving a noise complaint, to determine if a public nuisance exists as defined in this section and to take such action as he or she deems necessary to ensure compliance with this section. Conditions of noise which are specifically exempted or for which a variance permit has been issued in conformity with the provisions of this section shall be exempt from the application of the provisions of this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No person shall unreasonably make, continue, or cause to be made or continued any noise or noise disturbance. Noncommercial public speaking and public assembly activities conducted on any public space or public right-of-way shall be exempt from the operation of <cite path="§594-24|C.">this subsection</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The following acts and the causing thereof are declared to be in violation of this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>Sound devices.</text>
+          <para>
+            <num>(a)</num>
+            <text>Operating, playing or permitting the operation or playing of any radio, television, phonograph, drum, musical instruments, sound amplifier, or similar device which produces, reproduces or amplifies sound:</text>
+            <para>
+              <num>[1]</num>
+              <text>Between the hours of 10:00 p.m. and 7:00 a.m. the following day in such a manner as to create a noise disturbance across a real property boundary, except for activities open to the public and for which a permit has been issued by the Department according to criteria set forth in this section.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>In such a manner as to create a noise disturbance in any room in any dwelling unit located in any adjacent premises.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>In such a manner as to create a noise disturbance at 50 feet from such device, when operated in or on a motor vehicle on a public right-of-way or public space.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>In such a manner as to create a noise disturbance to any person other than the operator of the device, when operated by any passenger on a common carrier.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><cite path="§594-24|D.|(1)|(b)">This subsection</cite> shall not apply to noncommercial spoken language covered elsewhere in this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Using or operating for any noncommercial purpose any loudspeaker, public address system, or similar device between the hours of 10:00 p.m. and 8:00 a.m. the following day, such that the sound therefrom creates a noise disturbance across a real property boundary.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Using or operating for any commercial purpose any loudspeaker, public address system, or similar device such that the sound therefrom causes a noise disturbance across a real property boundary, or between the hours of 5:00 p.m. and 8:00 a.m. the following day on a public right-of-way or public space.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Operating or permitting the operation of powered model vehicles so as to create a noise disturbance across a real property boundary, or in a public space between the hours of 9:00 p.m. and 7:00 a.m. the following day.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The intentional sounding or permitting the sounding outdoors of any fire, burglar, or civil defense alarm siren, whistle or similar stationary emergency signaling device, except for emergency purposes or for testing, as provided in <cite path="§594-24|E">Subsection E</cite> below.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Sounding or permitting the sounding of any exterior burglar (or fire) alarm or any motor vehicle burglar alarm unless such alarm is automatically terminated within 15 minutes of activation.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Testing.</text>
+        <para>
+          <num>(1)</num>
+          <text>Testing of a stationary emergency signaling device shall occur at the same time of day each time such a test is performed, but not before 9:00 a.m. or after 5:00 p.m. Any such testing shall use only the minimum cycle test time. In no case shall such test time exceed 60 seconds.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Testing of the complete emergency signaling system, including the functioning of the signaling device and the personnel response to the signaling device, shall not occur more than once in each calendar month. Such testing shall not occur before 9:00 a.m. or after 5:00 p.m. The time limit specified in <cite path="§594-24|E|(1)">Subsection E(1)</cite> shall not apply to such complete system testing.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Criteria to determine noise.</text>
+        <para>
+          <num>(1)</num>
+          <text>Maximum permissible sound levels by land use. No person shall operate or cause to be operated on private property any source of sound in such a manner as to create a sound level which exceeds the limits set forth below when measuring at or within the property boundary of the receiving land use. At all times, the sound-level limit, dBa, on trust lands shall be 70.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Correction for character of sound. For any source of sound which emits a pure tone or impulsive sound, the maximum sound-level limits set forth in <cite path="§594-24|F|(1)">Subsection F(1)</cite> shall be reduced by five dBA.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Exemptions. The provisions of this section shall not apply to refuse collection vehicles, aircraft and airport operations, interstate railway locomotives and cars, and emergency signaling devices.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Method of measuring noise.</text>
+        <para>
+          <num>(1)</num>
+          <text>Equipment. Noise measurement shall be made with a sound-level meter manufactured according to the specifications of the American Standards Institute, USA Standard Specifications for General Purposes Sound Level Meters (S1.4-1971) and Preferred Center Frequencies for Acoustical Measurements (S1.6-1960) or any subsequent nationally adopted standards superseding the above standards.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Location and interpretation. Noise measurement shall be made at the nearest lot line of the premises from which the noise complaint(s) is received and shall be made at a height of at least three feet above the ground and at least three feet away from walls, barriers, obstructions or sound-reflective surfaces. Where the nature of the noise permits, the slow-response setting shall be used to obtain the noise level on the sound-level meter.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Variance permits. Variance permits may be issued by the Department to exceed the noise standards set forth in this section as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Temporary variance permits.</text>
+          <para>
+            <num>(a)</num>
+            <text>General. A temporary variance permit may be issued upon request, provided that the work producing such noise is necessary to promote the public health and/or welfare and reasonable steps are taken to keep such noise at the lowest possible practical level.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Special community events. A temporary variance permit may be issued for special events, such as circuses, 4th of July celebrations and similar community events, which are limited in duration and are generally acceptable to the Tribe; provided that precautions are taken to maintain the noises produced at the lowest practical level.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Procedure to obtain a variance permit. Applications for temporary variance permits must be made in writing to the Department and shall contain all of the following pertinent information:</text>
+        </para>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>Dates requested;</text>
+        <para>
+          <num>(b)</num>
+          <text>Time and place of operation;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Equipment and operation involved;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Necessity for such permit;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Steps to be taken to minimize noise; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Name of responsible person(s) who will be present at the operation site while the noise is produced.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Variance permits of indefinite duration.</text>
+          <para>
+            <num>(a)</num>
+            <text>It is recognized that it is not technically or economically feasible for certain business operations and equipment to comply with the standards set forth herein as of the date of this section. The Tribe shall therefore issue a variance permit on existing business operations and equipment which produces excessive noise if it is found that it is not technically or economically feasible to alter such operation to reduce noise to within the prescribed standards set forth in this section. Applications for such variances must be made to the Department by an affected party in a letter setting forth the reasons that such variance should be granted. The Tribe, after review of all circumstances and the degree of nuisance, shall reply in writing giving the variance, denying the variance, or setting forth conditions or limitations under which the variance will be granted.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In the event that the Department issues an order citing a violation of this section on an existing business operation and equipment and the party cited applies for a variance within 10 days of such citation, then all penalties provided shall be tolled from the date the application is filed until a final order or decision has been issued on the merits of the application.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Exemptions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Construction sites, public utilities, and public works. The criteria as set forth in this section shall not apply to construction sites, public utilities and public works projects and operations during the daytime hours from Monday through Saturday, inclusive; provided, however, that noise production shall be minimized through proper equipment operation and maintenance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Emergency operations. Emergency short-term operations which are necessary to protect the health and welfare of the citizens, such as emergency utility and street repair, fallen tree removal or emergency fuel oil delivery, shall be exempt from the criteria as set forth in this section, provided that reasonable steps shall be taken by those in charge of such operations to minimize noise emanating from the same.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Noises required by law. The provisions of this section shall not apply to any noise required specifically by law for the protection or safety of people or property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Lawn mowers, garden tools, etc. Power equipment such as lawn mowers, small lawn and garden tools, riding tractors and snow removal equipment which is necessary for the maintenance of property, is kept in good repair and maintenance and which equipment, when new, would not comply with the standards set forth in this section shall be exempted from the provisions of this section. No person shall operate such equipment, with the exception of snow removal equipment, during the hours of 9:00 p.m. through 8:00 a.m., inclusive.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Bells, chimes, etc. Bells, chimes and similar devices which signal the time of day and operate during the daytime hours for a duration of no longer than five minutes in any given one-hour period shall be exempt from the daytime noise limitations of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Control of traffic noises.</text>
+        <para>
+          <num>(1)</num>
+          <text>Operation of noisy vehicles. No person shall operate any vehicle on the alleys, streets and highways of the trust lands which, as a result of the nature of the vehicle or the manner it is driven, exceeds the noise levels established in the rules and regulations adopted by the Tribe pursuant to this section. The operation of equipment installed on governmental or other authorized emergency operations and for the safety of the public is excluded from the provisions of <cite path="§594-24|F.|(1)">this subsection</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Modification of vehicular equipment. No person shall modify or change the exhaust, muffler, intake muffle or any other noise-abatement device of a vehicle in such a manner that the noise emitted by the vehicle is increased above that emitted by the vehicle as originally manufactured.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Rules and regulations pertaining to the control of traffic noises. The following practices and acts are prohibited regardless of decibel measurement:</text>
+          <para>
+            <num>(a)</num>
+            <text>No vehicle shall be operated in such a manner as to produce loud and unnecessary squealing of tires.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No vehicle shall sound its horn, bell, or other signaling device except as a danger or cautionary warning. Such warning shall only be sounded for a reasonable and necessary period of time.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No person shall race the engine of a vehicle in such a manner as to produce unreasonably loud and unnecessary engine noises.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>In addition to the above, all subsections within this section will be applied to motor vehicles where applicable.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Appeals. Any person aggrieved by the denial of an application by the Department for an exemption or variance from the provisions of this section shall have the right to appeal therefrom to the Tribal Legislature, provided that a written request therefor is filed with the Chairperson of the Tribe within 10 days after receipt of the notice of such denial. The Tribal Legislature, after a hearing on such appeal, may affirm, modify or overrule the denial from which the appeal is made.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Additional remedy. The operation or maintenance of any device, instrument, vehicle, or machinery in violation of any provision of this section which causes harm, discomfort, or annoyance to reasonable persons of normal sensitiveness or which endangers the public health, safety, welfare, comfort, repose, peace and prosperity of persons in the area shall be deemed, and is declared to be, a public nuisance and may be subject to abatement by a restraining order or injunction issued by Menominee Tribal Court. This is not intended to preclude resort to any other legal remedy.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="III|§594-25">
+      <prefix>§</prefix>
+      <num>594-25</num>
+      <heading>Weights and measures.</heading>
+      <para>
+        <num>A.</num>
+        <text>The federal standards, Wisconsin Statutes and sections thereof, and Wisconsin Administrative Rules listed in this section are adopted by reference and shall be enforced under this section, with violations of the same subject to the penalties set forth in <cite path="|III|594|II">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The system of weights and measures in customary use in the United States and the metric system of weights and measures are jointly recognized, and one or the other of these systems shall be used for all commercial purposes on the trust lands. The definitions of basic units of weight and measures, and weights and measures equivalents, as published by the National Bureau of Standards, are recognized and shall govern weighing and measuring equipment and transactions on the trust lands.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>There shall be provided by the Tribe such field standards and such equipment as may be found necessary to carry out the provisions of this section. The field standards shall be verified by the State of Wisconsin Weights and Measures Office upon their initial receipt and at least once each five years thereafter.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The specifications, tolerances and regulations for commercial weighing and measuring devices issued by the National Bureau of Standards shall apply on the trust lands except as modified by rules issued by the State Department of Agriculture, Trade and Consumer Protection.<fn path="|III|§594-25|footnotes|14">14</fn></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Department shall have the custody of the Tribe's standards of weight and measure and of the other standards and equipment provided for by this section and shall keep accurate records of the same. The Department shall enforce the provisions of this section and shall have and keep a general supervision over the weights and measures offered for sale, sold, or in use in the trust lands.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Department shall have the power to inspect and test, to ascertain if they are correct, all weights and measures kept, offered, or exposed for sale. It shall be the duty of the Department to inspect and test, to ascertain if they are correct, all weights and measures commercially used in determining the weight measurement or count of commodities or things sold, or offered or exposed for sale, on the basis of weight, measure, or of count, or in computing the basic charge or payment for services rendered on the basis of weight, measure or of count, provided that, with respect to single-service devices, that is, devices designed to be used commercially only once and to be then discarded, and with respect to devices uniformly mass produced, as by means of a mold or die, and not susceptible of individual adjustment, tests may be made on representative samples of such devices, and the lots of which samples are representative shall be held to be correct or incorrect upon the basis of the results of the inspections and tests on such samples.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Department shall investigate complaints made to it concerning violations of the provisions of this section and shall, upon its own initiative, conduct such investigations as it deems appropriate and advisable to develop information on prevailing procedures in commercial quantity determination and on possible violations of the provisions of this section and to promote the general objective of accuracy in the determination and representation of quantity in commercial transactions.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Department shall, from time to time, weigh or measure and inspect packages or amounts of commodities kept, offered, or exposed for sale, sold, or in the process of delivery, to determine whether the same contain the amounts represented and whether they are kept, offered, or exposed for sale, or sold, in accordance with law, and when such packages or amounts of commodities are found not to contain the amounts represented, or are found to be kept, offered, or exposed for sale in violation of law, the Department may order them off sale and may so mark or tag them as to show them to be illegal. In carrying out the provisions of <cite path="§594-25|H.">this subsection</cite>, the Department may employ recognized sampling procedures under which the compliance of a given lot of packages will be determined on the basis of the result obtained on a sample selected from and representative of such lot. No person shall sell or keep, offer, or expose for sale any package or amount of commodity that has been ordered off sale or marked or tagged as provided in <cite path="§594-25|H.">this subsection</cite> unless and until such package or amount of commodity has been brought into full compliance with all legal requirements, or dispose of any package or amount of commodity that has been ordered off sale or marked or tagged as provided in <cite path="§594-25|H.">this subsection</cite> and that has not been brought into compliance with legal requirements, in any manner except with the specific approval of the Department.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Vending machines.</text>
+        <para>
+          <num>(1)</num>
+          <text>Notice posting of machines not operating properly. Whenever upon inspection of any vending machine it shall be found that such vending machine is not operating properly, the Department or its agent shall cause the vending machine to be placed in a nonvending condition by covering the coin insert slot or other mechanism with the notice prescribed and furnished by the Department or its agent.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Responsibility. All vending machines in commercial use shall have conspicuously displayed thereon, or immediately adjacent thereto, adequate information detailing the method for the return of monies paid when the product or service cannot be obtained.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Maintenance. All vending machines in commercial service and all mechanisms and devices attached thereto or used in connection therewith shall continuously be maintained in proper operating condition throughout the period of such service.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Method of sale of commodities.</text>
+        <para>
+          <num>(1)</num>
+          <text>Commodities in liquid form shall be sold by liquid measure, and commodities not in liquid form shall be sold by weight, and commodities not in liquid form may be sold by count or measure if such methods are in general use and give accurate information as to the quantity of commodity sold.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Berries and small fruits may be sold by measure only if in containers having capacities of 1/2 dry pint, one dry pint or one dry quart.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a commodity is packaged in an aerosol container, it shall be sold by weight (including the propellant).</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>This <cite path="§594-25|J">Subsection J</cite> shall not apply to commodities sold in compliance with a state or federal law which prescribes another method of sale or to commodities sold for immediate consumption on the premises where sold.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Declaration of quantity.</text>
+        <para>
+          <num>(1)</num>
+          <text>No commodity which is marked, tagged or labeled, or for which a sign is displayed, with a selling price, shall be sold unless the weight, measure or count of the commodity is conspicuously declared on the commodity or its tag, label or sign, but a declaration of count is not required if the selling price is for a single unit, or a set or combination of commodities customarily sold to and understood by consumers as a single unit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No commodity shall be wrapped or its container made, formed or filled so as to mislead the purchaser, nor shall the qualifying term "when packed" or the terms "jumbo," "giant" or "full" or words of similar import that tend to mislead the purchaser as to the amount of the commodity be used in connection with a declaration of quantity.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Variation from declared quantity. The magnitude of permitted variations from declared quantity shall be determined by rules set forth by the Wisconsin Department of Agriculture, Trade and Consumer Protection and the facts in the individual case.</text>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Declarations of unit price on random weight packages. Any commodity in package form, the package being one of a lot containing random weights of the same commodity and bearing to total selling price of package, shall bear on the outside of the package a plain and conspicuous declaration of the price per single unit of weight.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Misleading packages. No commodity in package form shall be so wrapped nor shall it be in a container so made, formed or filled as to mislead the purchaser as to the quantity of the contents of the package, and the contents of a container shall not fall below such reasonable standard of fill as may have been prescribed for the commodity in question by the Department or its agent.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Advertising commodities for sale. Whenever a commodity in package form is advertised in any manner and the retail price of the package is stated in the advertisement, there shall be closely and conspicuously associated with such statement of price a declaration of the basic quantity of contents of the package as is required by law or regulation to appear on the package.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Bread. Each loaf of bread and each unit of a twin or multiple loaf of bread, made or produced for sale, kept, offered, exposed for sale, or sold, whether or not the bread is wrapped or sliced, shall be one of the following weights and no others: 1/2 pound, one pound, 1 1/2 pounds, or multiples of one pound avoirdupois weight, within variation or tolerances prescribed in this section, provided that the provisions of <cite path="§594-25|O.">this subsection</cite> shall not apply to biscuits, buns or rolls weighing four ounces or less or to "stale bread" sold and expressly represented at the time of sale of such, and the marking provisions of this section shall not apply to unwrapped loaves of bread.</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Bulk deliveries sold in terms of weight and delivered by vehicle. When a commodity in bulk is delivered by vehicle to an individual purchaser and the commodity is sold in terms of weight units, the delivery shall be accompanied by a duplicate delivery ticket with the following information clearly stated in ink or by means of other indelible marking equipment: the name and address of the vendor; the name and address of the purchaser; and the net weight of the delivery expressed in pounds, but where milk is picked up at farms, only the identity of the vendor and the net weight need be stated. If the net weight is derived from determination of gross and tare weights, such gross and tare weights also shall be stated in terms of pounds on the ticket. One of these tickets shall be retained by the vendor and the other shall be delivered to the purchaser at the time of delivery of the commodity or shall be surrendered on demand to the inspector or sealer who, if he/she desires to retain it as evidence, shall issue a weight slip in lieu thereof for delivery to the purchaser. If the purchaser carries away his/her purchase, the vendor shall be required only to give to the purchaser at the time of sale a delivery ticket stating the number of pounds of commodity delivered to him or her. If the commodity is to be weighed by the purchaser, the purchaser shall furnish the vendor the duplicated delivery ticket provided for herein.</text>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>Heating oil. All heating oil shall be sold by liquid measure or by net weight. In the case of each delivery of liquid fuel not in package form and in an amount greater than 10 gallons in the case of sale by liquid measure or 100 pounds in the case of sale by weight, there shall be rendered to the purchaser, either at the time of delivery or otherwise between the vendor and the purchaser, a delivery ticket or a written statement on which, in ink or other indelible substance, there shall be clearly and legibly stated:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name and address of the vendor;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name and address of the purchaser;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The identity of the type of fuel comprising the delivery;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The unit price (that is, the price per gallon or per pound, as the case may be) of the fuel delivered;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In the case of sale by liquid measure, the liquid volume of the delivery together with the print meter readings from which such liquid volume has been computed, expressed in terms of the gallon and its binary or decimal subdivisions; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>In the case of sale by weight, the net weight of the delivery, together with any weighing scale readings from which such net weight has been computed, expressed in terms of tons or pounds avoirdupois.</text>
+        </para>
+      </para>
+      <para>
+        <num>R.</num>
+        <text>Prohibited acts. Persons are prohibited from doing any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Hinder, obstruct or impersonate a dealer or inspector.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Use or have in possession for use in buying or selling any commodity or service, or sell, any incorrect weight or measure or cause a weight or measure to be incorrect.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Represent in any manner a false quantity in connection with the purchase or sale, or any advertising thereof, of any commodity, thing or service.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Use or dispose of any rejected weight or measure, or commodity, or remove therefrom any official tag, seal, stamp or mark, without written authority from the Department or its agent.</text>
+        </para>
+      </para>
+      <para>
+        <num>S.</num>
+        <text>Presumptive evidence. For the purpose of this section, proof of the existence of a weight or measure or a weighing or measure device in or about any building, enclosure, stand, or vehicle in which or from which it is shown that buying or selling is commonly carried on shall, in the absence of conclusive evidence to the contrary, be presumptive proof of the regular use of such weight or measure or weighing or measuring device for commercial purposes and of such use by the person in charge of such building, enclosure, stand or vehicle.</text>
+      </para>
+      <para>
+        <num>T.</num>
+        <text>Lead. Materials used in constructing, remodeling, maintaining or repairing any structure on the trust lands shall comply with accepted standards for lead abatement.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-26</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person, firm, corporation or organization found guilty of a violation of any section of <cite path="|III|594|II">this article</cite> for which a specific penalty is not herein provided shall, upon conviction thereof, forfeit the sum of not less than $25 nor more than $200, together with the costs of the prosecution. Each and every 24 hours such violation shall continue, except as otherwise provided in <cite path="|III|594|II">this article</cite>, shall constitute a separate offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-27</num>
+      <heading>Scope.</heading>
+      <text><cite path="|III|594|II">This article</cite> shall apply to any lands owned by the United States of America in trust for the Menominee Indian Tribe that are located in Kenosha County, Wisconsin. These lands are referred to in <cite path="|III|594|II">this article</cite> as "trust land" or "trust lands."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-28</num>
+      <heading>Communication with county.</heading>
+      <text>The Health Officer shall meet with representatives of the Kenosha County Division of Health from time to time as both parties agree to discuss issues of mutual concern.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="III|594|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Alarms and Emergency 911</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>594-29</num>
+      <heading>False alarms.</heading>
+      <text>Persons in possession of alarm systems intended to elicit a response from law enforcement personnel or fire department personnel shall pay to the Kenosha City/County Joint Services Board a charge per each false alarm responded to by such personnel according to the following schedule:</text>
+      <para>
+        <num>A.</num>
+        <text>First two false alarms: no charge.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Third and fourth false alarm: $50.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Fifth through eighth false alarm: $75.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Ninth and 10th false alarm: $100.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Eleventh through 15th false alarm: $200.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Sixteenth through 20th false alarm: $300.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Twenty-first or more false alarms: $500.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-30</num>
+      <heading>Emergency 911 system.</heading>
+      <text>All businesses located on lands owned by the United States in trust for the Menominee Indian Tribe that are located in Kenosha County shall be responsible for payment of surcharges on their telephone bills for the purpose of funding the 911 system. Such businesses shall connect to the 911 system in cooperation with the Kenosha City/County Joint Services Board.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-31</num>
+      <heading>Scope.</heading>
+      <text><cite path="|III|594|III">This article</cite> shall apply to lands owned by the United States in trust for the Menominee Indian Tribe that are located in Kenosha County, Wisconsin.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="III|594|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Shorelands</heading>
+    <section cache:ref-path="III|§594-32">
+      <prefix>§</prefix>
+      <num>594-32</num>
+      <heading>Applicability.</heading>
+      <text>In addition to the land use regulations in Article I, the following regulations shall apply to that portion of the Menominee trust lands located in Kenosha, Wisconsin, that is within 300 feet of the ordinary high-water mark of a river or stream ("shoreland"), as defined on Exhibit "A" attached hereto and incorporated herein by reference.<fn path="|III|§594-32|footnotes|15">15</fn></text>
+      <footnotes>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Exhibit "A" is on file at the office of the Administrative Manager.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-33</num>
+      <heading>Restrictions on cutting of trees and shrubbery.</heading>
+      <text>The cutting of trees and shrubbery shall be regulated to protect natural beauty, control erosion and reduce the flow of effluents, sediments and nutrients from the shorelands. In the strip of land 35 feet wide inland from the ordinary high-water mark, no more than 30 feet in any 100 feet (30%) shall be clear-cut. In shoreland areas more than 35 feet inland, tree and shrubbery cutting shall be governed by the consideration of the effect on water quality and consideration of sound forestry practices and soil conservation practices. The tree and shrubbery cutting regulations required by this section shall not apply to the removal of dead, diseased or dying trees or shrubbery. Paths and trails shall not exceed 10 feet in width and shall be so designed and constructed as to result in the least removal and disruption of shoreland cover and the minimum impairment of natural beauty.</text>
+      <annotations>
+        <annotation type="History">Amended 2-3-2005</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-34</num>
+      <heading>Protection of rivers and streams.</heading>
+      <text>Withdrawal of water from any river or stream is prohibited. No activities, other than those listed in <cite path="§594-33">§ 594-33</cite> above, shall be allowed within 75 feet of the ordinary high-water mark of any stream or river. Within the remainder of the shorelands, all activities shall comply with <cite path="§594-35">§ 594-35</cite> of <cite path="|III|594|IV">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-35</num>
+      <heading>Shoreland permits.</heading>
+      <text>The Community Development Department of the Menominee Indian Tribe, or any other department or entity granted regulatory power to enforce <cite path="|III|594|IV">this article</cite> by the Menominee Tribal Legislature ("Department"), may issue a stipulated shoreland permit for earthmoving or erection of structures, including utilities, in the shorelands, provided that the use shall not be susceptible to flooding, concentrated runoff, inadequate drainage, adverse soil and topographic conditions or any other features likely to be harmful to the environment or the public interest. Where it is proposed that a stipulated shoreland permit be issued, the Department shall transmit to adjacent property owners within 200 feet of the trust lands, the City and County of Kenosha, and to the Department of Natural Resources a copy of the permit application together with a list of proposed stipulations prepared by the Department. The adjacent property owners, City and County of Kenosha, and Department of Natural Resources shall have 45 days from receipt of the application to recommend to the Department that additional stipulations be imposed on the application. The Department shall not issue the stipulated shoreland permit until the applicant agrees to the stipulations and such stipulated shoreland permit is filed and recorded in the office of the Register of Deeds for Kenosha County. The Department shall notify the Wisconsin Department of Natural Resources of the issuance of all stipulated shoreland permits. All stipulated shoreland permits shall be granted or denied within 60 days after application, unless the time is extended by mutual agreement. The applicant shall post any permit granted in a conspicuous place at the site. Any permit issued in conflict with the provisions of <cite path="|III|594|IV">this article</cite> shall be null and void.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-36</num>
+      <heading>Compliance with Administrative Code.</heading>
+      <text>The use of any shorelands shall be conducted in accordance with the provisions of Ch. NR 115, Wis. Adm. Code. Any reference in that chapter to state or local officials shall be deemed a reference to a comparable tribal official. If there is a conflict between the terms of <cite path="|III|594|IV">this article</cite> and the terms of that chapter, the terms of <cite path="|III|594|IV">this article</cite> shall govern.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-37</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who fails to comply with the provisions of <cite path="|III|594|IV">this article</cite> or any order of the Department issued in accordance with <cite path="|III|594|IV">this article</cite> shall, upon conviction thereof, forfeit not less than $100 or more than $1,000 for each day the violation continues and pay the cost of prosecution for each violation, including court costs and reasonable attorney fees.</text>
+      <annotations>
+        <annotation type="History">Amended 2-3-2005</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>594-38</num>
+      <heading>Administration and enforcement.</heading>
+      <text><cite path="|III|594|IV">This article</cite> shall be administered by the Department or any other entity designated by the Menominee Tribal Legislature. The Menominee Tribal Attorney, Menominee Tribal Prosecutor, or other officer designated by the Menominee Tribal Legislature, in coordination with the Department, shall enforce these provisions. In addition to seeking penalties listed in <cite path="§594-37">§ 594-37</cite> of <cite path="|III|594|IV">this article</cite>, persons enforcing <cite path="|III|594|IV">this article</cite> may seek injunctive relief from Tribal Court.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

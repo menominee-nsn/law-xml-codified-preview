@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|340">
+  <prefix>Chapter</prefix>
+  <num>340</num>
+  <heading>FOREST MANAGEMENT AND DEVELOPMENT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="II|340|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Firewood</heading>
+    <annotations>
+      <annotation type="History">Adopted 4-21-1981 by Ord. No. 81-8; amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>340-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|340|I">this article</cite> is to provide a statutory basis for the regulation of cutting and removing of timber for fuelwood for personal or commercial use by tribal members in a manner consistent with sustained yield practices mandated in the Menominee Forest Management Plan.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-2</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of <cite path="|II|340|I">this article</cite>, the following terms shall have the meanings indicated: COMMERCIAL — Exchanging, buying or selling timber.</text>
+      <text>FOREST MANAGER — The MTE Forest Manager.</text>
+      <text>MENOMINEE LANDS — All lands subject to the jurisdiction of the Tribe.</text>
+      <text>MENOMINEE TRIBAL ENTERPRISES (MTE) — The entity created by the Management Plan, one of the Restoration documents approved April 22, 1975.</text>
+      <text>MERCHANTABLE TIMBER — A tree or stand of trees which may be disposed of at a profit through conversion to a salable product.</text>
+      <text>MTE BOARD OF DIRECTORS and BOARD — That body elected pursuant to provisions of the Management Plan.</text>
+      <text>PERMIT — Written authorization of the Menominee Tribal Enterprises to cut and remove timber on lands within the boundaries of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>PERMIT HOLDER — The person holding a permit to cut and remove timber on lands within the boundaries of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>PERSON — Any enrolled member of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>TIMBER — Includes trees, saplings, bushes, seedlings, and sprouts from which trees may grow, of every size, nature, kind and description. The term includes trees that will produce forest products of value, whether standing or down, and including but not limited to logs, bolts, pulpwood, cedar posts, poles, cordwood, lumber and ornamental or other decorative material.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, acting through its duly constituted governing body, the Tribal Legislature.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§340-3">
+      <prefix>§</prefix>
+      <num>340-3</num>
+      <heading>Powers of Menominee Tribal Enterprises.<fn proof="needed" path="|II|§340-3|footnotes|1">1</fn></heading>
+      <text>The MTE Board:</text>
+      <para>
+        <num>A.</num>
+        <text>Shall administer the cutting and removal of timber for fuelwood and other purposes from Menominee lands, consistent with the provisions of <cite path="|II|340|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Is authorized to issue permits and to promulgate regulations to govern cutting and removing of timber for fuelwood and other purposes on Menominee lands. The Menominee Tribal Enterprises Board may delegate its power to issue, suspend, or cancel permits to the Forest Manager.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Shall have power to promulgate regulations that are deemed necessary for cutting and removing timber from Menominee lands, whether for personal or commercial use. Any such proposed regulation shall be published one time in the Menominee Nation News before the Board takes final action to adopt the regulations.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Shall promulgate interim regulations that are deemed necessary for cutting and removing timber from Menominee lands, whether for personal or commercial use, which shall be effective until such time as permanent regulations described in <cite path="§340-3|C">Subsection C</cite> above can become effective. The Tribal Legislature finds there is just cause to waive the requirement for publication of any such interim regulations in the Menominee Nation News prior to adoption.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: For the Charter of Menominee Tribal Enterprises, see <cite path="|IV|692">Ch. 692</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-4</num>
+      <heading>Existing permits.</heading>
+      <text>All existing permits for cutting and gathering timber are void 30 days after the effective date of <cite path="|II|340|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-5</num>
+      <heading>Cutting and removing timber for fuelwood.</heading>
+      <text>Any tribal member is eligible to apply for a permit to cut and remove timber for fuelwood and other purposes, whether for personal or commercial use.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-6</num>
+      <heading>Personal use permit.</heading>
+      <para>
+        <num>A.</num>
+        <text>The MTE Board shall issue a numbered permit to salvage or cut timber in an amount not to exceed 25 cords of fuel wood per year for personal use from dead and down timber.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The permit may be issued for a period not to exceed one year.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The permit shall be correctly dated and executed by the Forest Manager and signed by the person whose name appears on the permit.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No permit shall be issued to any person other than the person who applies for the permit.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The permit shall provide that:</text>
+        <para>
+          <num>(1)</num>
+          <text>All the timber for fuelwood or other purpose sold or designated for cutting shall be cut without damage to other timber and that the permit holder shall remove all timber authorized to be cut under the permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The permit holder shall pay the permit price value or some other amount determined by the MTE Board for any timber sold which is negligently destroyed or damaged by the permit holder in cutting or removing other timber sold.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Forest Manager shall have the power to order suspension of all operations under the permit when in his/her judgment the conditions of the permit have not been complied with, and any timber cut or removed during such suspension shall be deemed to have been cut in trespass.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>At any time the MTE may bring an action or suit to restrain, enjoin and prohibit the further cutting or removal of timber or the further entry of the permit holder or representative upon the lands covered by the permit if the conditions of the permit have been or will be violated, which suit shall be without prejudice to any other action or proceeding on behalf of the Tribe or MTE.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>If the permit holder shall cut or remove or negligently destroy or damage any timber upon the land described, such timber shall be deemed to have been cut in trespass. The permit holder shall be liable for any such timber.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Forest Manager may cancel the permit at any time when in his/her judgment the conditions of the permit have not been complied with, and such cancellation shall constitute repossession of the timber by the Tribe.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The MTE Board may issue a numbered permit to any person to cut up to 20 cedar posts for personal use, subject to any reasonable restrictions. The MTE Board may issue a numbered permit to any person to cut cedar boughs, subject to any reasonable restrictions. No person shall strip a tree or cut limbs that are more than 10 feet from the base of the tree.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The cutting or removal of any green saplings or ornamental or other decorative material shall be preserved as a right of any person, provided that the cutting or removal is for personal use.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Any enrolled Menominee spouse or designee (nonenrolled Menominee) may authorize them to cut wood and that the designee name shall accompany the permit.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-7</num>
+      <heading>Commercial use permit.</heading>
+      <para>
+        <num>A.</num>
+        <text>The MTE Board may issue a numbered permit to any person to enter upon lands designated on the permit and to cut and remove the timber for fuelwood or other purpose described on the permit according to the provisions of <cite path="|II|340|I">this article</cite> for commercial purposes, subject to any reasonable restrictions. The permit shall be correctly dated and executed by the Forest Manager and signed by the person whose name appears on the permit.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The permit shall expire three months from the date it was issued to the permit holder. The MTE Board may grant an additional period of time not to exceed one month for the removal of cut timber and equipment upon receipt of such request by the permit holder for good and sufficient reasons.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The MTE Board shall charge a reasonable fee for each cord of timber authorized in the permit. The fee shall be based on the actual market value of timber in the immediate geographic region surrounding the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No permit shall be issued to any person other than the person who applies for the permit.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The permit shall state the amount of timber for fuelwood or other purpose estimated for cutting on the land and specify the identification marks to be used in determining any timber that may be authorized for cut.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The permit shall provide that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The permit holder shall plainly place the specified marks upon a sufficient number of pieces to adequately identify the timber from the time of cutting until delivered to the consumer. The permit shall make provisions for the continuous identification of the cut timber.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In case of any failure to mark the timber as specified in the permit, the MTE has the right to take possession of the cut timber.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All timber for fuelwood or other purpose sold or designated for cutting shall be cut without damage to other timber and that the permit holder shall remove all timber authorized to be cut under the permit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The permit holder shall pay the permit price value or some other amount determined by the MTE Board for any timber sold which is negligently destroyed or damaged by the permit holder in cutting or removing other timber sold.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Forest Manager shall have the power to order suspension of all operations under the permit when in his/her judgment the conditions of the permit have not been complied with, and any timber cut or removed during such suspension shall be deemed to have been cut in trespass.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The permit holder shall burn or otherwise dispose of all slashing or other refuse resulting from cutting operations in the manner now or hereafter provided by law or regulation.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>At any time the MTE may bring an action or suit to restrain, enjoin and prohibit the further cutting or removal of timber or the further entry of the permit holder or representative upon the lands covered by the permit if the conditions of the permit have been or will be violated, which suit shall be without prejudice to any other action or proceeding on behalf of the Tribe or the MTE.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>If the permit holder shall cut or remove or negligently destroy or damage any timber upon the land described, such timber shall be deemed to have been cut in trespass. The permit holder shall be liable for any such timber.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Forest Manager may cancel the permit at any time when in his/her judgment the conditions of the permit have not been complied with, and such cancellation shall constitute repossession of the timber by the Tribe.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Any permit which fails to conform to any requirement of <cite path="|II|340|I">this article</cite> is void.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The MTE Board may issue a numbered permit to any person to cut or remove saplings for nursery stock, subject to any reasonable restrictions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-8</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever unlawfully cuts, removes, transports, carries away, conceals, or converts to personal use any timber unlawfully cut, or any dead and fallen timber upon any land subject to the jurisdiction of the Tribe, which is managed by the MTE, shall be fined not more than $1,000 or imprisoned not more than 180 days, or both.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whoever unlawfully cuts or wantonly injures or destroys any tree growing, standing, or being upon any land subject to the jurisdiction of the Tribe, which is managed by the MTE, shall be fined not more than $1,000 or imprisoned not more than 180 days, or both.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whoever, without valid permit, shall cut any timber upon lands subject to the jurisdiction of the Tribe, or remove or carry away any such timber or other property appertaining to these lands, or shall commit any other trespass upon these lands, or shall induce or assist another to do so, shall be liable to the Tribe for treble damages if the trespass is adjudged to have been willful, but liable for double damages only if the trespass is adjudged to have been casual and involuntary.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any person found to have acquired possession in any manner of any timber unlawfully cut on lands subject to the jurisdiction of the Tribe shall be liable to the Tribe for twice the stumpage value.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>It shall be no defense to plead or claim a purchase of any timber from anyone other than the MTE, nor may it be claimed that any other person should be joined as a defendant, nor may any claim be made for remuneration or allowance for labor or expenses incurred in preparing such timber for market or transporting the same to or toward market.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The MTE may take possession of any timber hereafter unlawfully cut upon or taken from any land subject to the jurisdiction of the Tribe and may sell the same informally. When any timber so unlawfully cut has been intermingled with any other timber or property so that it cannot be identified or plainly separated therefrom, the MTE may so seize and sell the whole quantity so intermingled, and in such case the whole quantity of such timber shall be conclusively presumed to have been unlawfully taken from land subject to the jurisdiction of the Tribe.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Whoever makes any false statement in any application, form, or other statement for the purpose of obtaining any permit shall be fined not more than $1,000.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Whoever embezzles, steals, knowingly converts to his/her use or the use of another, willfully misapplies, or willfully permits to be misapplied any of the monies, funds, credits, goods, assets, or other property belonging to the Tribe or MTE, or entrusted to the custody or care of any officer, employee, or agent thereof, or whoever, knowing any such monies, funds, credits, goods, assets, or other property to have been so embezzled, stolen, converted, misapplied or permitted to be misapplied, receives, conceals, or retains the same with intent to convert it to his/her use or the use of another shall be fined not more than $5,000 or imprisoned not more than one year, or both, but if the value of such property does not exceed the sum of $100, he/she shall be fined not more than $500 or imprisoned not more than 90 days.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-9</num>
+      <heading>Search warrant; complaint.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any duly authorized Judge of the Menominee Tribal Court may issue a search warrant to search for and seize any trees that may have been cut or removed in violation of <cite path="|II|340|I">this article</cite> upon probable cause that an offense has been committed.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any duly authorized law enforcement officer having knowledge of any offense under <cite path="|II|340|I">this article</cite> shall immediately make a complaint against the person and request the Court to issue a warrant of arrest in the case.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-10</num>
+      <heading>Sovereign immunity.</heading>
+      <text>Nothing herein shall be construed as a waiver of sovereign immunity of the Tribe or the MTE for any claim or cause of action for monetary damages or equitable relief.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-11</num>
+      <heading>Statute of limitations.</heading>
+      <text>There shall be no time period for bringing either civil or criminal actions when the action is brought by the Tribe or the MTE for trespass upon any Menominee lands, or for violating any of the terms of the permit under which timber is removed from lands subject to the jurisdiction of the Tribe, or for any criminal prosecution instituted under <cite path="|II|340|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-12</num>
+      <heading>Ticket.</heading>
+      <text>The Tribe's Department of Legal Services shall design and issue a ticket in the form and having the effect of a summons and complaint for use in cases of theft of Menominee timber or other Menominee or MTE property, where the value of the property is $200 or less. The ticket shall provide for the name and address of the person charged with the violation, the offense charged, the time and place the person is to appear before the Menominee Tribal Court, and any other information necessary.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|340|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Stumpage Assessment</heading>
+    <annotations>
+      <annotation type="History">Adopted 7-25-2002 by Ord. No. 02-22; amended 1-21-2021 by Ord. No. 20-42</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>340-13</num>
+      <heading>Declaration of legislative intent.</heading>
+      <text>The Tribal Legislature intends that this Stumpage Ordinance, in the form of tribal law, give an equitable share for the use of the tribal asset which is tribal forest land to every tribal member. The Legislature has determined that use of the tribal forest land has gone on since 1975 with little or no payment to tribal members for such use and this continued practice must be brought to an end. <cite path="|II|340|II">This article</cite> for stumpage payment to tribal members is intended for such purposes.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§340-14">
+      <prefix>§</prefix>
+      <num>340-14</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|340|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>BANZHAF REPORT — That report which is referred to herein and attached hereto that may be used as a source material for setting a stumpage.<fn path="|II|§340-14|footnotes|2">2</fn></text>
+      <text>BOARD OF DIRECTORS — The Board of MTE.</text>
+      <text>BUREAU OF INDIAN AFFAIRS (BIA) — That federal agency established by the United States to carry out the primary trust relationship between Indian Tribes and the United States.</text>
+      <text>MTE — Menominee Tribal Enterprises, the entity created by the Management Plan of 1975 for management of the tribal forest land and other property.<fn path="|II|§340-14|footnotes|3">3</fn></text>
+      <text>OFFICERS — The officers of MTE appointed by the Board.</text>
+      <text>STUMPAGE — Has the meaning used by the Bureau of Indian Affairs in the Code of Federal Regulations (25 CFR 163.1 et seq.) and is the fee imposed by the Tribal Legislature as provided for in <cite path="|II|340|II">this article</cite> on tribal forest material.</text>
+      <text>TRIBAL LEGISLATURE — The governing body of the Tribe, and any reference to "Tribe" herein is a reference to the Tribal Legislature as well, unless the context refers otherwise.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: A copy of the report is on file with the Chairperson's office.</text>
+        </footnote>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: For the Charter of Menominee Tribal Enterprises, see <cite path="|IV|692">Ch. 692</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-15</num>
+      <heading>Stumpage fee; duties of MTE.</heading>
+      <para>
+        <num>A.</num>
+        <text>There is hereby assessed a stumpage in the form of a fee arrived at by consultation by and among the Tribe, the BIA, the MTE Head Forester and the MTE Board Chairperson using all available means of assessment of stumpage, including the Timber Mart North Price Report, dated October 2001 to March 2002, issued by the George Banzhaf Company of Milwaukee, Wisconsin, the Schedule for Average Prices for Sawtimber Products for Region 2 of Wisconsin, which includes the Menominee Indian Forest, and other relevant information available to the BIA, and the assessed stumpage will be within generally accepted rates set for other tribal timber lands, subject to adjustment from time to time.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>MTE shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintain a record of all tribal forest material used in any way by MTE, including every tree cut, whether by MTE personnel or by contracted personnel.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Apply the stumpage fee provided for above when it is assessed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Transfer the stumpage assessed and collected to the Tribal Legislature Department of Finance on or before the fifth day of every month.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Submit records of all trees cut on a monthly basis to the Tribal Legislature.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-16</num>
+      <heading>Disbursement.</heading>
+      <text>The Tribal Legislature shall disburse on or about December 1 of every year the stumpage assessed and collected under <cite path="|II|340|II">this article</cite> to all tribal members, pursuant to the distribution of the annual per capita plan. Tribal administration shall charge a variable, minimum, administrative fee, limited to the actual cost of administration.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|340|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Logging Practices</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-4-2005 by Ord. No. 05-22; amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+    </annotations>
+    <section cache:ref-path="II|§340-17">
+      <prefix>§</prefix>
+      <num>340-17</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|340|III">this article</cite> is to protect and preserve the tribal forest and its environs through:</text>
+      <para>
+        <num>A.</num>
+        <text>Silviculture limitations on shelter woods and clear-cutting for white pine regeneration.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Aesthetic limitations on shelter woods and clear-cutting.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Creation of buffers around archaeological sites to protect and preserve archaeological, cultural and historic resources while taking precautions to keep the location of those sites confidential. Archaeological sites will require the implementation of recommendations of the Tribal Director of Historic Preservation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Creation of buffers to protect and provide for water quality assurance, which will be consistent with existing tribal ordinances.<fn path="|II|§340-17|footnotes|4">4</fn></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Establish tribal government procedures to review compliance with applicable regulations for the harvesting of timber from the Menominee forest.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: See <cite path="|II|562">Ch. 562</cite>, Water.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-18</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Indian Tribe, acting through its governing body, the Tribal Legislature, is vested with governmental and sovereign powers over management of the tribal forest by the Constitution and Bylaws of the Menominee Tribe of August 8, 1991, Article XII, and <cite path="|II|340|III">this article</cite> is enacted as an exercise of that authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-19</num>
+      <heading>Definitions.</heading>
+      <text>All terms used in <cite path="|II|340|III">this article</cite> shall have the meanings listed below. Any term not listed below shall have the same meaning as such terms have in the Wisconsin Forest Best Management Practices Manual.</text>
+      <text>AESTHETIC — The natural visual quality of vegetation as opposed to the visual impact caused by harvesting activities associated with shelter wood and clear-cutting regeneration methods.</text>
+      <text>BUFFER (AREA) — A vegetation strip or management zone of varying size, shape, and character maintained along a stream, lake, road, recreation site, or different vegetative zone to mitigate the impacts of actions on adjacent lands, to enhance aesthetic values, or as a best management practice (the Dictionary of Forestry: Helms, John A.; SAF 1998).</text>
+      <text>CLEAR-CUT (SYSTEM) — Regeneration method where all mature trees are cut at once. Can be used to regenerate species which sprout from their stumps or to convert the site to other species (Menominee Tribal Enterprises Forest Management Plan, 1996-2005).</text>
+      <text>CREEK — A small lotic (flowing) system that serves as the natural drainage course for a small drainage basin (MTE/MTL Taskforce).</text>
+      <text>ECOSYSTEM — The interacting, spatially explicit, relatively homogenous unit of the Earth that includes all interacting organisms and components of the abiotic environment within its boundaries (WI-DNR,</text>
+      <text>Wisconsin Forest Management Guidelines).</text>
+      <text>FELLING — The process of cutting down standing trees (WI-DNR, Wisconsin Forest Management Guidelines).</text>
+      <text>FORWARDING — The operation of moving timber products from the stump to a landing for further transport (WI-DNR, Wisconsin Forest Management Guidelines).</text>
+      <text>HARVESTING (LOGGING) — The process of gathering a timber crop. It includes felling, skidding/ forwarding, on-site processing, and removal of products from the site (WI-DNR Wisconsin Forest Management Guidelines).</text>
+      <text>LAKE — A natural or artificial body of fresh water [usually at least eight hectares (20 acres) in surface area] that is completely surrounded by land (MTE/MTL Taskforce).</text>
+      <text>PRESCRIPTION — A planned series of treatments designed to change current stand structure to one that meets management goals. Note: The prescription normally considers ecological, economic, and societal constraints (the Dictionary of Forestry: Helms, John A.; SAF 1998).</text>
+      <text>RIPARIAN MANAGEMENT ZONE — Land and vegetation areas next to lakes and streams where management practices are modified to protect water quality, fish and other aquatic resources. These areas are complex ecosystems that provide food, habitat and movement corridors for both aquatic (water) and terrestrial (land) communities as well as help to minimize nonpoint source pollution impacts to surface water (WI-DNR, Wisconsin Forestry Best Management Practices For Water Quality).</text>
+      <text>RIVER — A large natural or human-modified stream that flows in a defined course or channel or a series of diverging and converging channels (MTE/MTL Taskforce).</text>
+      <text>SILVICULTURE — The art and science of controlling the establishment, growth, composition, health, and quality of forests and woodlands to meet the diverse needs and values of landowners and society on a sustainable basis (the Dictionary of Forestry: Helms, John A.; SAF 1998).</text>
+      <text>SKID (SKIDDING) — Short-distance moving of logs or felled trees from the stump to a point of loading (WI-DNR, Wisconsin Forest Management Guidelines).</text>
+      <text>SLOPES — Follow Wisconsin's Forestry Best Management Practices For Water Quality when addressing slopes. In no case shall mechanical equipment be used on slopes exceeding 50%. Buffer strip width shall be increased from 100 feet on each side of a stream, water body or wetland in accordance with the following table.</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2">Table 1</th>
+            </tr>
+            <tr>
+              <th colspan="2">Guidelines for Buffer Strip Widths</th>
+            </tr>
+            <tr>
+              <th>Slope of Land Above Stream, Water Body or Wetland</th>
+              <th>Minimum Width of Strip (feet)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0% to 10%</td>
+              <td>50 wetland; 100 river or stream</td>
+            </tr>
+            <tr>
+              <td>11% to 20%</td>
+              <td>115</td>
+            </tr>
+            <tr>
+              <td>21% to 30%</td>
+              <td>135</td>
+            </tr>
+            <tr>
+              <td>31% to 40%</td>
+              <td>155</td>
+            </tr>
+            <tr>
+              <td>41% to 50%</td>
+              <td>175</td>
+            </tr>
+            <tr>
+              <td>51%+</td>
+              <td>Activity not allowed due to high erosion potential. Extreme care must be taken to prevent movement of soil.</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>SPRING — Site where groundwater flows naturally from a rock or soil substrate to the surface to form a stream, pond, marsh, or other type of water body (MTE/MTL Taskforce).</text>
+      <text>STREAMS — A general term for a body of flowing water. In hydrology, the term is generally applied to the water flowing in a natural channel as distinct from a canal. Streams in natural channels may be classified as follows (MTE/MTL Taskforce):</text>
+      <para>
+        <num>A.</num>
+        <text>PERENNIAL — One which flows continuously.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>INTERMITTENT or SEASONAL — One which flows only at certain times of the year when it receives water from springs or from some surface source such as melting snow in mountainous areas.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>EPHEMERAL — One that flows only in direct response to precipitation, and whose channel is at all times above the water table.</text>
+        <text>TIMBER (PRODUCT) — Any product produced from felled trees for the purpose of commercial use, including but not limited to saw logs, pulp, chips, biomass, etc.</text>
+        <text>WETLAND — An area where water is at, near or above the land surface long enough to be capable of supporting aquatic or hydrophytic (water-loving) vegetation and which has soils indicative of wet conditions. Wetlands include marshes, bogs, floodplain forests, wet meadows and low prairies (the Dictionary of Forestry: Helms, John A.; SAF 1998).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§340-20">
+      <prefix>§</prefix>
+      <num>340-20</num>
+      <heading>Limitations on tribal logging practices.</heading>
+      <para>
+        <num>A.</num>
+        <text>Silviculture limitations. Harvesting of white pine, via shelter wood or clear-cutting-type silviculture systems is prohibited unless there is proof that either:</text>
+        <para>
+          <num>(1)</num>
+          <text>Menominee Tribal Enterprises (MTE) provides proof that it has set aside adequate monies to replant white pine at a rate of 1,000 seedlings per acre, of which 400 to 600 are white pine; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The silviculture treatment will produce natural regeneration rates of 1,000 seedlings per acre, of which 400 to 600 are white pine.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Buffer: aesthetic or roadway limitations. Harvesting of any timber species via clear-cutting or shelter wood final cut silvicultural system is prohibited unless such harvesting allows for a buffer of 150 feet from paved roadways. The 150-foot roadway buffer shall begin at the edge of the pavement. Management within these roadway buffers shall only take place if one of the following methods is identified and used:</text>
+        <para>
+          <num>(1)</num>
+          <text>Use selective cutting or thinning until regeneration of the objective species in the harvest unit has reached an average minimum height of 10 feet; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Use clear-cutting once regeneration of the objective species in the original harvest unit has reached an average minimum height of 10 feet.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Buffer: archeological site protection.</text>
+        <para>
+          <num>(1)</num>
+          <text>Harvesting any timber is prohibited within a minimum 100 feet adjacent to any archeological site, unless a lesser buffer area is requested or recommended and given final approval by the Tribal Director of Historic Preservation. Menominee Tribal Enterprises and any other person or entity will follow all recommendations of the Tribal Director of Historic Preservation needed to protect identified archaeological, cultural, or historic sites where it is determined that timber harvesting or other activity could cause a substantial adverse change to the identified archaeological, historic or cultural sites. These recommendations may include no-cut buffers, single-tree selection buffers, or other techniques and harvest designs. These efforts shall include, but not be limited to, modifying harvest designs to conceal such locations.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Menominee Tribal Enterprises, Tribal Department of Historic Preservation, and all other persons aware of the location of an identified archaeological site shall keep the location of such sites confidential. This does not apply to the use of this information in the course of conducting business, including communications between loggers, foresters, and the Tribal Department of Historic Preservation necessary to ensure protection of such sites.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Buffer: riparian management zones. Harvesting any timber is prohibited unless such harvesting allows for a buffer between the harvesting activity and any wetlands, streams, rivers, and identifiable riparian management zones (RMZ). The size of the buffer shall be determined by the guidelines under <cite path="§340-20|D|(1)">Subsection D(1)</cite>, listed below. All other requirements shall be determined by the guidelines under <cite path="§340-20|D|(2)">Subsection D(2)</cite>, listed below.</text>
+        <para>
+          <num>(1)</num>
+          <text>Buffers adjacent to any river, stream, or wetland, which may contain steep slopes or highly erodible soils, shall follow the guidelines listed in Table 1 of <cite path="§340-20|D.|(1)">this subsection</cite>, unless a lesser buffer is recommended by the Environmental Services Department.</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="2">Table 1</th>
+                </tr>
+                <tr>
+                  <th colspan="2">Guidelines for Buffer Strip Widths</th>
+                </tr>
+                <tr>
+                  <th>Slope of Land Above Stream, Water Body or Wetland</th>
+                  <th>Minimum Width of Strip (feet)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>0% to 10%</td>
+                  <td>50 wetland; 100 river or stream</td>
+                </tr>
+                <tr>
+                  <td>11% to 20%</td>
+                  <td>115</td>
+                </tr>
+                <tr>
+                  <td>21% to 30%</td>
+                  <td>135</td>
+                </tr>
+                <tr>
+                  <td>31% to 40%</td>
+                  <td>155</td>
+                </tr>
+                <tr>
+                  <td>41% to 50%</td>
+                  <td>175</td>
+                </tr>
+                <tr>
+                  <td>51%+</td>
+                  <td>Activity not allowed due to high erosion potential. Extreme care must be taken to prevent movement of soil.</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Requirements and monitoring of harvesting operations near wetlands shall be governed by Tribal Ordinance No. 04-22, "Surface Water Regulations,"<fn path="|II|§340-20|footnotes|5">5</fn> unless more specific requirements are listed in <cite path="|II|340|III">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Timber harvest: approval process. Harvesting of any timber is prohibited unless a silviculture prescription is in place that conforms to the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal government review. A silviculture prescription designed to include the commercial harvest of timber from the Menominee forest shall be submitted to the Tribe for review and approval by the Tribal Legislature. The prescription originator or its clearly identified representative is responsible for providing all of the required documentation along with the proposed silviculture prescriptions. Legislative approval will consist of a motion accepting the proposed silviculture prescriptions. Disapproval will include specific reasons for not approving the silviculture prescriptions.</text>
+          <para>
+            <num>(a)</num>
+            <text>Procedures shall be established and maintained to support Menominee tribal legislative review and approval efforts.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Procedures shall be developed to monitor and report on adherence to MTL-approved silviculture prescriptions prior to the awarding of harvest areas, during harvest of the areas, and after harvest is completed.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>None of the tribal government reviews, policies and/or procedures created by or identified in <cite path="|II|340|III">this article</cite> shall take the place of any required trust responsibility by the United States government or its representative(s).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Silviculture review and approval procedures and timelines. Silviculture prescriptions as defined by <cite path="|II|340|III">this article</cite> shall meet the timeline requirements and procedures identified in Appendix A, "Review and Approval Timelines."<fn path="|II|§340-20|footnotes|6">6</fn></text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Elements of a silviculture prescription. A silviculture prescription designed to include the harvest of timber from the Menominee forest shall include, at a minimum:</text>
+          <para>
+            <num>(a)</num>
+            <text>A statement of goal(s), which describe(s) the objective(s), for the area, including the desired future condition.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A description of the historical processes that created the current forest type in the proposed area.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A description of the proposed treatment(s) which describe timing, methods, and conditions by which the vegetation and other resources in the proposed area will be disturbed to meet the desired future condition.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A quantitative explanation of stand condition pre- and post-treatment and any predicted benefits to be achieved (i.e., economic, ecological, and societal).</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>An accurate description (i.e., acreage) and map of the proposed area.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>A statement of compliance on how the proposed treatment will meet the sustained-yield mandate of the Menominee Indian Tribe of Wisconsin.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>A statement of compliance on how the proposed treatment will meet the goals of an approved Menominee Forest Management Plan.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Documentation that shows meaningful consultation with applicable tribal, federal and state agencies (Appendix A<fn path="|II|§340-20|footnotes|7">7</fn>) during development of the proposed treatment to ensure implementation of a multidisciplinary approach to forest management.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Documentation that shows all required tribal and federal signatures have been provided. For the purposes of <cite path="|II|340|III">this article</cite>, Historic Preservation and Environmental Services are required signatures for environmental checklist reviews, prior to silviculture prescription submission.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>A statement of compliance and description of management considerations to show adherence to all applicable tribal and federal regulations and requirements (i.e., riparian and cultural buffer provisions of <cite path="|II|340|III">this article</cite>).</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Other limitations. The provisions of Resolution 07-02, entitled "Request for the Removal Out of Forestry Compartment 223 and an Area of One-Quarter Mile on Each Side of the Wolf River in its Entirety Forever," shall be incorporated as part of <cite path="|II|340|III">this article</cite>.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: See <cite path="|II|512">Ch. 512</cite>, Surface Water.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Appendix A is included as an attachment to <cite path="|II|340">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Appendix A is included as an attachment to <cite path="|II|340">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-21</num>
+      <heading>Applicability.</heading>
+      <text><cite path="|II|340|III">This article</cite> applies to all persons and entities within the exterior boundaries of the Menominee Indian Reservation, except for the following:</text>
+      <para>
+        <num>A.</num>
+        <text><cite path="|II|340|III">This article</cite> shall not be applicable to:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Menominee Tribal Legislature or its departments during applicable reviews or consultation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Menominee Indian Tribe, County of Menominee, Town of Menominee, or State of Wisconsin when performing brushing within the legal right-of-way of a tribal, county, town, or state public roadway for the purpose of highway safety.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person or entity harvesting timber or forest products as provided for under Tribal Ordinance 81-08, "Firewood," as amended.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any provision of <cite path="|II|340|III">this article</cite> may be waived by the Menominee Tribal Legislature for a period of 30 to 180 days if the Legislature determines that such a waiver is necessary as a result of natural disaster or disease, or is necessary for the health and safety of the residents of the Menominee Indian Reservation and its forest and resources. Any such waiver must be made in writing, and specifically state the provision or provisions of <cite path="|II|340|III">this article</cite> that is or are being waived, and the logging activity that is allowed under the waiver.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The buffer provisions of <cite path="|II|340|III">this article</cite> shall not be applicable to regeneration treatments, including harvesting, in white pine shelter woods that were created prior to February 1, 2006.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>340-22</num>
+      <heading>Enforcement.</heading>
+      <text><cite path="|II|340|III">This article</cite> shall be enforced by the Menominee Tribal Police and/or the Menominee Tribal Conservation Department and the Menominee Tribal Prosecutor's Office. The Menominee Tribal Police or Menominee Conservation Department shall investigate suspected violations of <cite path="|II|340|III">this article</cite> and provide the results of their investigation to the Menominee Tribal Prosecutor.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§340-23">
+      <prefix>§</prefix>
+      <num>340-23</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever violates the terms of <cite path="|II|340|III">this article</cite> or is concerned in such violation of <cite path="|II|340|III">this article</cite> is liable for forfeiture not less than $2,500 and not to exceed $5,000.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person or entity whose employee or agent violates the terms of <cite path="|II|340|III">this article</cite> while acting in furtherance of that employment or agency is liable for a forfeiture not less than $2,500 and not to exceed $5,000.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A person or entity charged under <cite path="§340-23|B">Subsection B</cite> shall have an affirmative defense to such charge if such person or entity shows the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The person or entity has an effective policy in place to monitor employees' and agents' conduct in regard to <cite path="|II|340|III">this article</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The person or entity promptly reports any knowledge of violations of <cite path="|II|340|III">this article</cite> by its employee or agent to the Menominee Tribal Police Department or Menominee Tribal Conservation Department; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person or entity fully cooperates with all investigations and prosecutions of violations of <cite path="|II|340|III">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A person is "concerned in such violation of <cite path="|II|340|III">this article</cite>" pursuant to <cite path="§340-23|A">Subsection A</cite> if the person:</text>
+        <para>
+          <num>(1)</num>
+          <text>Intentionally aids and abets the violation; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Advises, counsels or otherwise encourages the violation.<fn path="|II|§340-23|footnotes|8">8</fn></text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Former Art. IV, Communications Protocol, adopted 11-16-2006 by Ord. No. 06-29, which immediately followed, was repealed 3-17-2011.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+</container>

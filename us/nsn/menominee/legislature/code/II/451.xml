@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|451">
+  <prefix>Chapter</prefix>
+  <num>451</num>
+  <heading>TRANSFER OF INTEREST IN TRUST LAND UPON DEATH</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 1-2-2020 by Ord. No. 19-29. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>451-1</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|451">this chapter</cite>, the following terms shall have the meanings indicated: LEASE — Defined in <cite path="§450-2">§ 450-2</cite>.</text>
+    <text>LESSEE — Individual or individuals holding an interest in a lease. REAL ESTATE OFFICE — Defined in <cite path="§450-2">§ 450-2</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>451-2</num>
+    <heading>Transfer of lease without probate.</heading>
+    <para>
+      <num>A.</num>
+      <text>A lease shall be transferred without probate to a designated beneficiary upon meeting the requirements of <cite path="|II|451">this chapter</cite> on the death of the lessee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A beneficiary may be designated on a lease by including a provision that clearly indicates the intent to transfer the lease upon death to a beneficiary, and recording that lease with the real estate office.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The designation such a beneficiary on a lease does not affect any interest in the trust land until the death of all persons named on the lease.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The designation may be canceled or changed at any time by a lessee, without the consent of the beneficiary, or the Tribe, by amending the lease to designate a different beneficiary or no beneficiary, and recording such amendment with the real estate office. The recording of a lease with the real estate office that designates a beneficiary or no beneficiary revokes any designation made in a previously recorded lease relating to the same trust land.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>451-3</num>
+    <heading>Requirements for transferring interest to beneficiary.</heading>
+    <text>Upon death of the lessee, a beneficiary shall provide to the real estate office the following:</text>
+    <para>
+      <num>A.</num>
+      <text>A death certificate of the lessee; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A copy of the lessee's will; or an affidavit stating that the beneficiary, after making a good faith effort to locate a will of the lessee, has not been able to locate such a will, and upon information and belief, no will exists; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the will provided pursuant to <cite path="§451-3|B">Subsection B</cite> provides that anyone other than the beneficiary is intended to obtain an interest in the interest in the lease, an affidavit, quitclaim deed, or other instrument acceptable to the real estate office showing a transfer of all interest in the lease from said person or persons to the beneficiary.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the beneficiary is not the spouse of the lessee and the lessee is survived by a spouse, an affidavit, quitclaim deed, or other instrument acceptable to the real estate office showing a transfer of all interest in the lease from said person or persons to the beneficiary.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If the beneficiary is not the child of the lessee, and the lessee is survived by a minor child, an affidavit, quitclaim deed, or other instrument acceptable to the real estate office showing a transfer of all interest in the lease from said surviving minor child to the beneficiary.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If more than one beneficiary is named on the lease, an affidavit, quitclaim deed, or other instrument acceptable to the Tribal real estate office showing a transfer of all interest in the lease to one of the named beneficiaries.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>451-4</num>
+    <heading>Issuance of instrument assigning interest in trust land to beneficiary.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon compliance with the provisions of <cite path="§451-3">§ 451-3</cite>, the real estate office shall prepare a verified statement confirming transfer of interest in the lease from the deceased to the beneficiary.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Said statement shall include, but not be limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the beneficiary;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The effective date of transfer of the lease to the beneficiary;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the beneficiary is not a member of the Tribe, any changes to the lease termination date as required by Article XI, Section 2, of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Agreement of the beneficiary to comply with all terms of the lease, including any change to the lease made pursuant to the statement.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Notarized signature of the beneficiary.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the lease had been approved by ordinance, an amendment to that ordinance showing the beneficiary as the lessee shall be prepared by the real estate office and placed on the agenda of the Tribal Legislature for approval.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the lease has not been approved by ordinance, the real estate office shall publish notice of the beneficiary's assumption of the lease.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Upon final approval of the ordinance amendment pursuant to <cite path="§451-4|C">Subsection C</cite> or publication pursuant to <cite path="§451-4|D">Subsection D</cite>, the verified statement pursuant to <cite path="§451-4|B">Subsection B</cite> shall be recorded in the office of the Register of Deeds of the county in which the property is located, and in the Tribal real estate office.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>451-5</num>
+    <heading>Notice of inability to transfer lease or permit pursuant to this chapter.</heading>
+    <text>If the Tribal real estate office determines that the lease or permit is not eligible for transfer pursuant to <cite path="|II|451">this chapter</cite>, they shall provide a written statement to that effect to any "interested person" as that term is defined in <cite path="|II|450">Chapter 450</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>451-6</num>
+    <heading>Judicial declaration of interest in lease or permit.</heading>
+    <text>Any person claiming that they have an interest in a lease that has been transferred pursuant to <cite path="|II|451">Chapter 451</cite> may maintain an action in Menominee Tribal Court against the Menominee Indian Tribe of Wisconsin, and any judgment by the Court shall determine the interest of the claimant and beneficiary in the lease. Any beneficiary may intervene in an action under this section. No action for such a declaration shall be brought more than three months after final approval of an ordinance amendment pursuant to <cite path="§451-4">§ 451-4</cite>C; or publication of notice pursuant to <cite path="§451-4|D">§ 451-4D</cite>. Nothing in this section acts to waive the Tribe and tribal officials immunity from imposition of damages pursuant to <cite path="|I|120">Chapter 120 of the Menominee Tribal Code</cite> or any other applicable tribal law.</text>
+    <annotations/>
+  </section>
+</container>

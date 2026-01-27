@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|111">
+  <prefix>Chapter</prefix>
+  <num>111</num>
+  <heading>INVESTMENT PLAN</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-20-1996 by Ord. No. 96-10. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>111-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|I|111">This chapter</cite> shall be titled "Investment Plan Authorization."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>111-2</num>
+    <heading>Authority.</heading>
+    <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances concerning the appropriation or transfer of money.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>111-3</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|I|111">this chapter</cite> is to provide for the investing of tribal monies for profit to the Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>111-4</num>
+    <heading>Investment of tribal monies.</heading>
+    <text>The Budget and Finance Committee and the Insurance Manager are hereby authorized to explore, review, and recommend investments of tribal monies, subject to the approval of the Tribal Legislature by resolution.</text>
+    <annotations>
+      <annotation type="History">Amended 4-21-1997; 11-18-2010</annotation>
+    </annotations>
+  </section>
+</container>

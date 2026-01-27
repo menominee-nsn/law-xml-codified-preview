@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>255</num>
+  <heading>ANIMALS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="General References">Noise — See <cite path="|II|429">Ch. 429</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|255|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Dogs</heading>
+    <annotations>
+      <annotation type="History">Adopted 10-1-2009 by Ord. No. 09-12<fn path="|II|255|I|footnotes|1">1</fn></annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: <cite path="|II|255|I">this article</cite> also repealed former Art. I, Dogs, adopted 8-20-1981 by Ord. No. 81-16, as amended.</text>
+      </footnote>
+    </footnotes>
+    <section>
+      <prefix>§</prefix>
+      <num>255-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|255|I">this article</cite> is to provide for the health, safety, and general welfare of the people and lands within the external boundaries of the Menominee Indian Reservation by regulating the licensing, control, and maintenance of dogs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-2</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|255|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>CONTROLLED — Confined by leash, chain, pen, or other restraint on the owner's premises or to the owner's person.</text>
+      <text>DANGEROUS DOG — Any dog which:</text>
+      <para>
+        <num>A.</num>
+        <text>When unprovoked, while not in the control of its owner, chases or approaches a person in a menacing fashion or apparent attitude of attack on public or private property; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When unprovoked and while off its owner's property, approaches a domestic animal in a menacing fashion, and it is clear that the dog is not merely being protective in a particular set of circumstances.</text>
+        <text>DISPOSAL and DISPOSE — The surrender to an animal rescue organization or local humane society. As a last resort or by order of the court, the killing of a dog in a quick and humane manner, including euthanasia and shooting with a firearm.</text>
+        <text>DOG — Any canine, regardless of type, age, size, or gender.</text>
+        <text>DOG POUND or IMPOUNDMENT FACILITY — The facility provided by the Menominee Tribe and maintained by the Tribal Police Department for purposes of impounding dogs. May include any facility or secure place utilized by an animal rescue organization or local humane society working with the Tribal Police Department when the facility provided by the Tribe is full.</text>
+        <text>DOMESTIC ANIMAL — Livestock, domesticated dogs, and domesticated cats.</text>
+        <text>HUNTING DOG — Any dog controlled under the definition of "controlled" above except that the owner has trained the dog and releases the dog for the specific purpose of hunting.</text>
+        <text>KENNEL — An establishment where dogs are bred, trained, or boarded.</text>
+        <text>LAW ENFORCEMENT OFFICER or OFFICER — Any member of the Menominee Tribal Police Department, Conservation Warden, or other bonafide peace officers acting in their official capacities. Conservation Wardens shall offer secondary assistance to other law enforcement officers in the enforcement of <cite path="|II|255|I">this article</cite>.</text>
+        <text>MENACING FASHION — Demonstrating an intent to cause injury by one or more of the following actions:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>An attempt to bite a person or another animal in such a fashion to show plainly to a reasonable person an unfriendly intent and put them in fear of attack.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Growling or barking in an unfriendly manner while approaching, chasing, or making physical contact with a person or a domestic animal.</text>
+        <text>OWNER — Any person, firm, corporation, organization, or department possessing, harboring or having the care or custody, whether temporarily or permanently, of a dog.</text>
+        <text>PUBLIC NUISANCE — Any dog or dogs which:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Molests passersby or passing vehicles;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Attacks other animals;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Trespasses on school grounds;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Is repeatedly at large;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Damages private or public property;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Barks, whines, or howls in an excessive, continuous, or untimely fashion.</text>
+        <text>RUNNING AT LARGE — Not controlled under the definition of "controlled" above.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 11-16-2017 by Ord. No. 17-25; 5-2-2024 by Ord. No. 24-16</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-3</num>
+      <heading>Dog control.</heading>
+      <text>The owner of a dog is required to have his dog controlled at all times. Failure to control a dog will constitute a violation of <cite path="|II|255|I">this article</cite> and subject the owner to penalties as set forth herein.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-4</num>
+      <heading>Number of dogs limited.</heading>
+      <para>
+        <num>A.</num>
+        <text>No family shall own, harbor, or keep in its possession more than three dogs on any residentially zoned lot without prior approval of the Tribal Police Department except that a litter of pups or a portion thereof may be kept for not more than three months from birth. If more than one family resides on a residential lot, then only three dogs shall be allowed on the residential lot unless prior approval is obtained from the Tribal Police Department. For the purpose of this section, the term "family" shall be defined as one or more persons.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Hunting dogs shall be excepted from this provision.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-5</num>
+      <heading>Vaccines required.</heading>
+      <text>All dogs three months old or older must be vaccinated for parvo, distemper, and rabies.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-6</num>
+      <heading>Restraining action against dogs.</heading>
+      <para>
+        <num>A.</num>
+        <text>Killing a dog.</text>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided for in <cite path="|II|255|I">this article</cite>, a person may intentionally kill a dog only if a person is threatened with serious bodily harm by the dog and:</text>
+          <para>
+            <num>(a)</num>
+            <text>Other restraining actions were tried and failed; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Immediate action is necessary.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person may intentionally kill a dog if a domestic animal that is owned or in the custody of the person is threatened with a serious bodily harm by the dog and the dog is on property owned or controlled by the person and:</text>
+          <para>
+            <num>(a)</num>
+            <text>Other restraining actions were tried and failed; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Immediate action is necessary.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Inapplicable to officers, veterinarians, and persons killing their own dog. This section does not apply to an officer acting in the lawful performance of his or her duties, or to a veterinarian killing a dog in a proper and humane manner or to a person killing his or her own dog in a proper and humane manner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-7</num>
+      <heading>Owners' liability for damage caused by dogs.</heading>
+      <para>
+        <num>A.</num>
+        <text>Liability for injury.</text>
+        <para>
+          <num>(1)</num>
+          <text>Without notice. The owner of a dog is liable for the full amount of damages caused by the dog injuring or causing injury to a person, livestock or property. The owner of a dog shall forfeit to the Tribe not less than $50 nor more than $500 if the dog causes injury to a person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After notice. The owner of a dog is liable for two times the full amount of damages caused by the dog injuring or causing injury to a person, livestock or property if the owner was notified or knew that the dog previously injured or caused injury to a person, livestock or property. The owner of a dog shall forfeit to the Tribe not less than $200 nor more than $1,000 if the dog causes injury to a person, if the owner was notified or knew that the dog previously injured or caused injury to a person.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner of a dog that is used by a law enforcement agency shall not be liable for any damages to a crime suspect's property or injury to a crime suspect or forfeiture under <cite path="|II|255|I">this article</cite> while the dog is performing law enforcement functions.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Court order to kill a dog.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe may commence a civil action to obtain a judgment from Tribal Court ordering an officer to kill a dog. The Court may grant the judgment if the Court finds both of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The dog caused serious injury to a person or livestock on two separate occasions off the owner's property, without reasonable cause.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The owner of the dog was notified or knew prior to the second injury that the dog caused the first injury.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any officer enforcing a judgment under <cite path="§255-7|B.|(2)">this subsection</cite> shall kill a dog in a proper and humane manner.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No court order is required to dispose of a dog pursuant to <cite path="§255-13">§ 255-13</cite>.1 of <cite path="|II|255|I">this article</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-8</num>
+      <heading>Instigating fights between animals.</heading>
+      <para>
+        <num>A.</num>
+        <text>No person may instigate, promote, aid or abet the fighting between dogs.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person may own, possess, keep or train any animal with the intent that the animal be engaged in an exhibition of fighting.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Penalties. Any person found to have violated this section shall be fined not less than $100 nor more than $500.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-9</num>
+      <heading>Cruelty to dogs.</heading>
+      <text>It is unlawful for any person to overload, torture or cruelly beat, or unjustifiably injure, maim, mutilate or kill any dog, whether belonging to himself or another, or deprive any dog of necessary sustenance, food, drink or shelter or willfully instigate, engage in or in any way further an act of cruelty to any dog or any act to produce such cruelty.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-10</num>
+      <heading>Licensing.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person owning, keeping, harboring, or having custody of any dog over three months of age within the Reservation must obtain a license as herein provided.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Application for licenses shall be made to the Licensing and Permit Department at the tribal offices which shall include the name and address of the applicant, description of the dog, the appropriate fee, and rabies certificate issued by a licensed veterinarian, the Department of Environmental Services, or anti-rabies clinic.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Application for a license must be made within 30 days after obtaining a dog over three months, except that this requirement will not apply to a nonresident keeping a dog within the Reservation for not longer than 15 days.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon acceptance of the license and fee, the Licensing and Permit Department shall issue a durable tag, stamped with an identifying number and the year of issuance. Tags should be designed so that they may be conveniently fastened or riveted to the dog's collar.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Dogs must wear identification tags at all times when off the premises of the owners.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Licensing and Permit Department shall maintain a record of the identifying numbers of all tags issued and shall make this record available to the public.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>License fees shall be established by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. License fees shall be posted for five business days before they shall become effective.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>A license shall be issued after payment of the applicable fees:</text>
+        <para>
+          <num>(1)</num>
+          <text>Female dog.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Male dog.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Neutered/spayed dog.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Replacement tag.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Kennel license.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Licenses shall be effective for one year, from the first day of January to the 31st day of December, and renewable by the Licensing and Permit Department 10 days prior to expiration date, with no prorated fees.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 11-21-2013 by Ord. No. 13-41</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-11</num>
+      <heading>Seizure and impoundment of dogs running at large.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any dog which is found running at large with or without the identification tag or dog license which is required pursuant to <cite path="§255-10">§ 255-10</cite>, or determined to be creating a public nuisance as defined by <cite path="§255-2">§ 255-2</cite>, may be seized and impounded by the Tribal Police Department.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Impounded dogs will be held for a minimum of four days before being determined unclaimed, abandoned, or stray and appropriate for disposal or adoption. If at any time the tribal impoundment facility has no room to safely and securely impound a dog, the Tribal Police Department is authorized to dispose of a dog in accordance with <cite path="§255-2">§ 255-2</cite>. Safe impoundment includes the safety of caretakers as well as the safety of dogs. Safety of the dog includes, but is not limited to, concerns of inclement weather and other conditions that would adversely affect the health condition of the dog. Transfers due to safety do not remove the minimum hold requirement but are cumulative between the tribal and nontribal placement. Owners reclaiming their dogs will be subject to the daily fees set by the animal rescue organization or local humane society, in addition to the fees set by <cite path="|II|255|I">this article</cite>. <strong>[Amended 11-16-2017 by Ord. No. 17-25]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Unclaimed or abandoned dogs may be adopted in lieu of disposal by paying the appropriate fees and complying with the licensing procedures in <cite path="§255-10">§ 255-10</cite> of <cite path="|II|255|I">this article</cite>, or transferred to the control of an animal rescue organization or local humane society. Persons adopting unclaimed or abandoned dogs will have title and ownership of the dog conferred upon them, free of all claims and interest of the previous owner.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>In addition to, or in lieu of, impounding a dog found at large, a law enforcement officer may issue to the known owner of such dog a citation of ordinance violation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The owner of an impounded dog may also be proceeded against for violation of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Owners may regain possession of their dogs by paying the appropriate fees as determined by the fee schedule, complying with the licensing procedures in <cite path="§255-10">§ 255-10</cite> of <cite path="|II|255|I">this article</cite>, and showing proof of licensing and rabies vaccination.</text>
+        <para>
+          <num>(1)</num>
+          <text>Impoundment fee: $25.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Board fee: $5 (each twenty-four-hour period or portion thereof that the dog is impounded).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Euthanasia fee (on request): $10 (each dog). Owners requesting euthanasia will complete a form requesting euthanasia and pay the appropriate fee which will facilitate the disposal of unwanted dogs.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Known owners of impounded dogs who do not claim or refuse to claim their dogs after the required minimum days provided in this section will be assessed the appropriate dog pound fees in accordance with the fee schedule in the event that the dog in question is not adopted by another person. <strong>[Amended 11-16-2017 by Ord. No. 17-25]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-12</num>
+      <heading>Rabies quarantine.</heading>
+      <para>
+        <num>A.</num>
+        <text>In cases of suspected or actual exposure to rabies by dogs and in cases of dog bites, owners will be required to confine the dog in question, by tying up the dog for a period of 10 days. Owners who refuse to comply with the requirement will have the dog in question impounded by the Tribal Police Department for a period of 10 days. The Tribal Police Department is also authorized to impound and quarantine for 10 days any unowned dog suspected or exposed to rabies or responsible for biting any person.</text>
+        <para>
+          <num>(1)</num>
+          <text>If after observation for such period, any such dog is adjudged free of rabies, the owner may reclaim the dog upon payment of the regular keeping fees and complying with the licensing requirement, as needed. Unowned or unclaimed dogs will be disposed of in accordance with the procedures outlined in <cite path="§255-11">§ 255-11</cite> of <cite path="|II|255|I">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In the event that any animal under quarantine or other confinement is diagnosed as being rabid, it shall be disposed of in accordance with the procedure in <cite path="§255-2">§ 255-2</cite> of <cite path="|II|255|I">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person shall delay or obstruct the Tribal Police Department in the enforcement of this section.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-13</num>
+      <heading>Enforcement.</heading>
+      <text>The enforcement agencies shall be the Tribal Police Department, assisted by the Tribal Conservation Department and the Tribal Department of Environmental Health. A law enforcement officer is authorized as follows concerning a dog running at large or creating a nuisance:</text>
+      <para>
+        <num>A.</num>
+        <text>A law enforcement officer is authorized to capture and impound any dog not controlled, as defined in <cite path="§255-2">§ 255-2</cite>, or determined to be creating a public nuisance as defined in <cite path="§255-2">§ 255-2</cite> of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>After capturing and impounding a dog identifiable by tag, the law enforcement agency may contact the owner for pickup of the dog. The owner will pay any fees incurred in the process as identified in <cite path="§255-11">§ 255-11</cite> of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If a dog impounded pursuant to <cite path="|II|255|I">this article</cite> has no identification, and the owner is unknown to the Officer, and the tribal impoundment facility has no room to safely and securely impound the dog, the Officer is authorized to immediately dispose of the dog in accordance with <cite path="§255-2">§ 255-2</cite> of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If an officer reasonably believes that a dog running at large or creating a nuisance is in a wild state, the officer is authorized to capture and impound such dog for immediate disposal, or to dispose of the dog in the wild if necessary, as provided for under <cite path="§255-2">§ 255-2</cite> of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If a complaint is made to any enforcing agency, or enforcement officer, the dog control officer or his agent shall proceed as provided under <cite path="§255-13|A">Subsection A</cite>, B, C or D above.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-13.1</num>
+      <heading>Dangerous dogs.</heading>
+      <para>
+        <num>A.</num>
+        <text>Possession of dangerous dog prohibited. No person shall own, keep, possess, or harbor a dangerous dog within the exterior boundaries of the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The officer may determine a dog to be dangerous whenever, upon investigation, an officer finds that the animal meets the definition of "dangerous dog" as defined in <cite path="§255-2">§ 255-2</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The officer, upon making the determination that a dog is dangerous, shall issue a citation to the owner for owning, harboring, and keeping a dangerous dog. The citation shall be not less than $100 nor more than $500.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The officer, upon making the determination that a dog is dangerous, shall confiscate the dog immediately, to be held for a period of 48 hours, at which time, if no objection has been filed pursuant to <cite path="§255-13.1|E">Subsection E</cite>, the dog shall be disposed of as provided in <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If the owner objects to the declaration of dangerousness, they may file a letter with the Clerk of Court within 48 hours to have the dog held until the court hearing. Upon filing an objection, the owner shall pay a deposit of $150 for storage of the dog, to be charged at a rate of $5/day until the court hearing.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 5-2-2024 by Ord. No. 24-16</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-13.2</num>
+      <heading>Penalties for offenses.</heading>
+      <text>With the exception of <cite path="§255-8">§ 255-8</cite>, <cite path="§255-10">§ 255-10</cite> and its subsections, <cite path="§255-11|E">§ 255-11E</cite> and <cite path="§255-13">§ 255-13</cite>.1C, other violations of <cite path="|II|255|I">this article</cite> will result in the following penalties:</text>
+      <para>
+        <num>A.</num>
+        <text>First violation: a fine of $100 to be paid to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second violation: a fine of $175 to be paid to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Third violation: a fine of $250, and the enforcement agency may, in its discretion, declare the involved dog to be a public nuisance and dispose of it as defined under <cite path="§255-2">§ 255-2</cite> of <cite path="|II|255|I">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§255-13.3">
+      <prefix>§</prefix>
+      <num>255-13.3</num>
+      <heading>Criminal offenses and penalties. [Added 5-2-2024 by Ord. No. 24-16<fn proof="needed" path="|II|§255-13.3|footnotes|2">2</fn>]</heading>
+      <text>See <cite path="|II|290">Chapter 290</cite>, Article XIX, Uncontrolled Dangerous Dog, <cite path="§290-80">§ 290-80</cite>, Failure to control dangerous dog, and <cite path="§290-81">§ 290-81</cite>, Homicide resulting from failure to control dangerous dog.</text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: This ordinance also renumbered former <cite path="§255-13">§ 255-13</cite>.3 as <cite path="§255-13">§ 255-13</cite>.4.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-13.4</num>
+      <heading>Repealer.</heading>
+      <text>Upon enactment of <cite path="|II|255|I">this article</cite>, Ordinance No. 81-16, "Dogs," and Ordinance No. 02-27, "Dangerous Dogs," are hereby repealed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-13.5</num>
+      <heading>Housing Authority staff. [Added 5-2-2024 by Ord. No. 24-16]</heading>
+      <text>Housing Authority staff who have completed training on <cite path="|II|255|I">this article</cite> are authorized to issue citations for dangerous dogs as defined in <cite path="§255-13">§ 255-13</cite>.1 of <cite path="|II|255|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|255|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Taking of Wild Game or Fish [Adopted 11-17-1983 by Ord. No. 83-20]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>255-14</num>
+      <heading>Prohibited acts.</heading>
+      <para>
+        <num>A.</num>
+        <text>The taking of wild game/fish of any species and the sale or offer to sell of any species of wild game/ fish, regardless of how obtained, within the exterior boundaries of the Menominee Reservation is expressly prohibited. Any tribal member who engages in such prohibited activity shall be charged with violation of <cite path="|II|255|II">this article</cite> and shall be subjected to penalty as provided below. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalty. Violation of this section shall, upon conviction, result in the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>First conviction: fine of $250 and publication of violator's name in the Tribal News.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second conviction: fine of $500 and publication of violator's name in the Tribal News.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Third and succeeding convictions: same as <cite path="§255-14|B|(2)">Subsection B(2)</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-15</num>
+      <heading>Non-tribal members.</heading>
+      <para>
+        <num>A.</num>
+        <text>The attempt to extend or the extension of rights in the taking of wild game/fish, Menominee Constitution, Article IX, to a non-tribal member by a tribal member is expressly prohibited and shall subject such tribal member to penalty as provided for below. Attempt or extension shall include, but shall not be limited to, escorting, guiding, or assisting in any way a person in the taking of wild game/ fish.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalty. Violation of this section shall, upon conviction, result in a fine of $500.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|255|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>(Reserved)<fn proof="needed" path="|II|255|III|footnotes|3">3</fn></heading>
+    <section>
+      <prefix>§§</prefix>
+      <num>255-16 through 255-22</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Former Art. III, Dangerous Dogs, adopted 7-25-2002 by Ord. No. 02-27, was repealed 10-1-2009 by Ord. No. 09-12. See now <cite path="§255-13">§ 255-13</cite>.1.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="II|255|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Fish Diseases and Exotic Species [Adopted 7-2-2008 by Ord. No. 08-12]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>255-23</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|255|IV">This article</cite> is titled "Regulation to Control Spread of Fish Diseases and Exotic Species on the Menominee Indian Reservation."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-24</num>
+      <heading>Findings.</heading>
+      <text>The Menominee Tribal Legislature finds that viral hemorrhagic septicemia (VHS) and exotic aquatic plant species are spreading throughout the lakes and rivers in the State of Wisconsin. The Tribal Legislature also finds that VHS and exotic aquatic plant species are spread by boats and boat trailers entering lakes without being properly cleaned, drained and otherwise sanitized and by the transfer of bait fish and minnows to lakes and waters. The Tribal Legislature also finds that the spread of VHS and exotic aquatic plant species seriously threatens the environmental health and safety of the tribal lakes, waters, fish and plant life and that immediate action must be taken to safeguard the same.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-25</num>
+      <heading>Aquatic invasive species spread prevention.</heading>
+      <text>No person may place or intend to place or use boating equipment in any navigable water if that boat, trailer, or boating equipment has any aquatic plants, aquatic animals such as zebra mussels, or dirt/mud attached. "Aquatic plant" means a submergent, emergent or a floating-leaf plant or any part thereof. "Aquatic animal" means any fish, mussel, crustacean or their organisms that have at least one part of their life cycle in the water.</text>
+      <para>
+        <num>A.</num>
+        <text>A law enforcement officer, including a conservation officer, may order a person to do any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Remove all aquatic plants from a boat, trailer, or boating equipment before placing it in any navigable water.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Remove or not place a boat, trailer, or boating equipment in navigable water if there is a reason to believe that the item has aquatic plants attached.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Remove or not place a boat, trailer, or boating equipment in navigable water if there is reason to believe that item has aquatic animals attached or within compartments or containers on the boat, trailer, or equipment.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Threats to Menominee lakes and streams such as viral hemorrhagic septicemia (VHS) shall be deterred by all means possible.</text>
+        <para>
+          <num>(1)</num>
+          <text>No live fish, including bait fish or crustaceans, may be brought into Menominee Reservation waters unless they come from approved local bait dealers.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No live fish, including bait fish or crustaceans, may be transported from any body of navigable water to another.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cut or dead bait may not be used unless collected from the same body of water where it is used.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any water taken from that body of water must be returned when leaving.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any and all bait must come from a state-approved dealer.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>255-26</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violations of <cite path="|II|255|IV">this article</cite> shall result in the following forfeitures:</text>
+      <para>
+        <num>A.</num>
+        <text>First offense: forfeiture of $500.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second offense: forfeiture of $1,000 to $5,000.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

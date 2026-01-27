@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>525</num>
+  <heading>TRIBAL LANDS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Descendant register — See <cite path="|I|46">Ch. 46</cite>. Illegal settling — See <cite path="|II|490|I">Ch. 490, Art. I</cite>.</annotation>
+    <annotation type="General References">Trespassing on tribal/private property — See <cite path="|II|523|I">Ch. 523, Art. I</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|525|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Access to Tribal Lands</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-16-2011 by Ord. No. 11-16; amended in its entirety 11-3-2011</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>525-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|525|I">This article</cite> shall be entitled "Access to Tribal Lands."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-2</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|525|I">this article</cite> is to define how tribal lands may be accessed by nontribal members.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§525-3">
+      <prefix>§</prefix>
+      <num>525-3</num>
+      <heading>Definitions.</heading>
+      <text>The following words and terms shall have the following meanings:</text>
+      <text>DESCENDANT — An individual who lacks sufficient blood quantum to qualify for inclusion on the official tribal roll, and who is a first- or second-degree descendant of an enrolled Menominee tribal member, as described in Sec. 2 of Menominee Tribal Ordinance No. 09-18,<fn path="|II|§525-3|footnotes|1">1</fn> and who has not relinquished his or her tribal membership.</text>
+      <text>NONTRIBAL MEMBER — Any person who is not an enrolled member of the Tribe, or any person who has relinquished his or her tribal membership.</text>
+      <text>SPOUSE OF A TRIBAL MEMBER — Any person who is legally married to a tribal member who has not relinquished his or her tribal membership.</text>
+      <text>TRIBAL LAND — Any land held in trust by the United States of America for the beneficial use of the Tribe and/or its members, and any land held in fee simple absolute by the Menominee tribal government located within the external boundaries of the Menominee Indian Reservation.</text>
+      <text>TRIBAL MEMBER — An enrolled member of the Tribe. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: See <cite path="|I|46">Ch. 46</cite>, Descendant Register, <cite path="§46-2">§ 46-2</cite>, Application for inclusion.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§525-4">
+      <prefix>§</prefix>
+      <num>525-4</num>
+      <heading>Consent to access tribal lands.</heading>
+      <para>
+        <num>A.</num>
+        <text>Descendants, spouses of tribal members, and nontribal members may access any public road, right-of-way, public facility or residence for any lawful purpose, subject to any limitations or restrictions contained in <cite path="|II|525|I">this article</cite> or any other tribal law.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Employees, contractors, vendors of the Tribe or any chartered entity of the Tribe, and any government agent or official, are authorized to access all tribal land if such access is related to their employment, contractual responsibilities, business operations or official duties.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Customers, clients, and patients of the Tribe, Menominee Indian School District, and tribally chartered entities may access all tribal land if they are involved in a sponsored activity of the Tribe, Menominee Indian School District, and tribally chartered entities, or an activity approved by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Students of the Tribe, Menominee Indian School District, and tribally chartered entities may access all tribal land and participate fully if they are involved in a sponsored activity of the Tribe, Menominee Indian School District, and tribally chartered entities, or an activity approved by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Descendants and spouses of tribal members may access all tribal land, subject to the following limitations and restrictions:</text>
+        <para>
+          <num>(1)</num>
+          <text>They shall not hunt, fish, trap or gather food from plants unless they are in possession of a valid license and identification card pursuant to Ordinance No. 99-01.<fn path="|II|§525-4|footnotes|2">2</fn></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>They shall not disturb or otherwise destroy the natural fauna and flora.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>They shall not cause any disturbance of tribal government operations, forest operations or other business operations.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>They are not authorized to enter tribal lands that are not open to descendants, spouses of tribal members, or other nontribal members as notified by posting, locked gates or other means to indicate that the tribal lands are closed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>They must comply with all Menominee tribal ordinances.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>They are authorized to assist tribal members gathering firewood, plants and any items used for medicinal purposes.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>They must have an identification card issued by the Tribe's Department of Licensing and Permits identifying them as a descendent or spouse.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any person who has been banished from the Menominee Indian Reservation is not authorized to access tribal land under <cite path="|II|525|I">this article</cite>, but may access tribal land in accordance with the terms and conditions of his or her banishment decree.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any person who has relinquished his or her membership in the Menominee Indian Tribe of Wisconsin shall be considered a nontribal member for purposes of <cite path="|II|525|I">this article</cite>.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-5</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violations of <cite path="|II|525|I">this article</cite> may result in the revocation of access to tribal lands and subject violators to prosecution under other tribal laws.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|525|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Descendant/Spouse Hunting, Fishing, and Gathering Privileges [Adopted 8-16-2011 by Ord. No. 11-21]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>525-6</num>
+      <heading>Purpose and legislative findings.</heading>
+      <text><cite path="|II|525|II">This article</cite> is enacted pursuant to Article IX, Section 1 of the Menominee Tribal Constitution, to permit nonmember children, grandchildren, and spouses of enrolled members to hunt, fish, and gather foods from plants, subject to the approval of <cite path="|II|525|II">this article</cite> by the Tribe in accordance with Article VI, Section 3 of the Constitution. The Menominee Tribal Legislature finds that hunting, fishing, and gathering foods from plants are rights held by Menominee tribal members only, but that the privilege to participate in such activities by descendants/spouses is permitted only as allowed by an ordinance enacted by the Tribe and approved by the tribal membership.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§525-7">
+      <prefix>§</prefix>
+      <num>525-7</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|525|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>QUALIFIED DESCENDANT — An individual biologically descended from an enrolled tribal member possessing at least of 1/8° of Menominee blood and who appears on the Menominee Indian Tribe's descendant register per Ordinance 09-18.<fn path="|II|§525-7|footnotes|3">3</fn></text>
+      <text>SPOUSE — Any male or female lawfully married to a Menominee tribal member.</text>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: See <cite path="|I|46">Ch. 46</cite>, Descendant Register.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-8</num>
+      <heading>Hunting, fishing, and gathering for qualified descendants and spouses.</heading>
+      <text>A qualified descendant or a spouse of a Menominee tribal member shall have the privilege to hunt, fish, and gather foods from plants on the Menominee Indian Reservation subject to an ordinance enacted by the Menominee Tribal Legislature that specifically defines the following: seasons; bag limits/collection limits; methods of hunting, fishing, and gathering; and any additional restrictions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-9</num>
+      <heading>Specific rules and regulations to be enacted by tribal ordinance.</heading>
+      <text>The Menominee Tribal Legislature shall enact a tribal ordinance pursuant to the Tribal Constitution setting forth rules and regulations regarding hunting, fishing, and gathering food from plants under <cite path="|II|525|II">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-10</num>
+      <heading>Permits.</heading>
+      <text>No individual authorized to hunt, fish, and gather food from plants under <cite path="|II|525|II">this article</cite> shall exercise such privilege unless he/she is issued a permit by the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-11</num>
+      <heading>Enforcement; violations and penalties.</heading>
+      <text>The Menominee Tribal Legislature shall enact, by ordinance, rules detailing the substance and procedure for enforcing compliance with <cite path="|II|525|II">this article</cite> as well as penalties and forfeiture regarding the same.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-12</num>
+      <heading>Commercial use prohibited.</heading>
+      <text>Any individual having a privilege to hunt, fish, or gather is strictly prohibited from commercializing any of the resources he/she has a privilege to hunt, fish, or gather. This includes any sale or exchange for value</text>
+      <text>to third persons.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>525-13</num>
+      <heading>Individuals authorized must follow all regulations and rules.</heading>
+      <text>Any individual granted a privilege under <cite path="|II|525|II">this article</cite> must follow all rules, regulations, and procedures enacted by the Menominee Tribal Legislature or otherwise recommended to and approved by the Tribal Legislature as a condition of the granted privilege.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

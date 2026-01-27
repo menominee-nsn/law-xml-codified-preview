@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Code of the Menominee Indian Tribe">
+  <meta>
+    <effective>0001-01-01</effective>
+  </meta>
+  <heading>Code of the Menominee Indian Tribe</heading>
+  <xi:include href="./I/index.xml"/>
+  <xi:include href="./II/index.xml"/>
+  <xi:include href="./III/index.xml"/>
+  <xi:include href="./IV/index.xml"/>
+  <xi:include href="./appendix/index.xml"/>
+</document>

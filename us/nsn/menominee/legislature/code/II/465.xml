@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|465">
+  <prefix>Chapter</prefix>
+  <num>465</num>
+  <heading>RECYCLING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-19-2019 by Ord. No. 19-26. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>465-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of these rules under <cite path="|II|465">this chapter</cite> is to help ensure the proper disposal of recyclable materials throughout the Menominee Indian Reservation and Menominee County; in addition, to promote recycling, composting, and resource recovery through the administration of an effective recycling program.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-2</num>
+    <heading>Severability.</heading>
+    <text>Should any portion of <cite path="|II|465">this chapter</cite> be declared unconstitutional or invalid by a court of competent jurisdiction, the remainder of <cite path="|II|465">this chapter</cite> shall not be affected.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-3</num>
+    <heading>When effective.</heading>
+    <text>The provisions of <cite path="|II|465">this chapter</cite> shall become effective upon final approval of the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-4</num>
+    <heading>Administration.</heading>
+    <text>The provisions of <cite path="|II|465">this chapter</cite> shall be administered by the Community Development Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-5</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|465">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>BIMETAL CONTAINER — A container for carbonated or malt beverages that is made primarily of a combination of steel and aluminum.</text>
+    <text>CONTAINER BOARD — Corrugated paperboard used in the manufacture of shipping containers and related products.</text>
+    <text>FOAM POLYSTYRENE PACKAGING — Packaging made primarily from foam polystyrene that satisfies one of the following criteria:</text>
+    <para>
+      <num>A.</num>
+      <text>Is designed for serving food or beverages.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Consists of loose particles intended to fill space and cushion the packaged article in a shipping container.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Consists of rigid materials shaped to hold and cushion the packaged article in a shipping container.</text>
+      <text>GLASS CONTAINER — A glass bottle, jar or other packaging container used to contain a product that is the subject of a retail sale and does not include ceramic cups, dishes, ovenware, plate glass, safety and window glass, heat-resistant glass such as pyrex, lead-based glass such as crystal, or TV tubes.</text>
+      <text>HDPE — High-density polyethylene plastic containers marked by the SPI code No. 2.</text>
+      <text>KESHENA TRANSFER SITE — The transfer facility located on Transfer Site Road, where enrolled members of the Menominee Indian Tribe of Wisconsin may deliver their household waste for transfer.</text>
+      <text>LDPE — Low-density polyethylene plastic containers marked by the SPI code No. 4. MAGAZINES — Magazines and other materials printed on similar paper.</text>
+      <text>MAJOR APPLIANCE — A residential or commercial air conditioner, furnace, boiler, dehumidifier, water heater, clothes dryer, clothes washer, dishwasher, freezer, microwave oven, oven, refrigerator or stove.</text>
+      <text>MULTIPLE-FAMILY DWELLING — A property containing five or more residential units, including those which are occupied seasonally.</text>
+      <text>NEWSPAPER — A newspaper and other materials printed on newsprint.</text>
+      <text>NONRESIDENTIAL FACILITIES AND PROPERTIES — Commercial, retail, industrial, institutional and governmental facilities and properties. This term does not include multiple-family dwellings.</text>
+      <text>OFFICE PAPER — High-grade printing and writing papers from offices in nonresidential facilities and properties. Printed white ledger and computer printout are examples of office paper generally accepted as high grade. This term does not include industrial process waste.</text>
+      <text>OTHER RESINS or MULTIPLE RESINS — Plastic containers labeled by the SPI code No.7.</text>
+      <text>PERSON — Includes any individual, corporation, partnership, association, local governmental unit, state agency or authority or federal agency. For purposes of <cite path="|II|465">this chapter</cite> "local governmental unit" shall mean a political subdivision of the State of Wisconsin, a special-purpose district in the State of Wisconsin, an agency or corporation of a political subdivision or special-purpose district, or a combination or subunit of any of the foregoing.</text>
+      <text>PETE or PET — Polyethylene terephthalate plastic containers marked by the SPI code No. 1.</text>
+      <text>PLASTIC CONTAINER — An individual, separate, rigid plastic bottle, can, jar or carton, except for a blister pack, that is originally used to contain a product that is the subject of a retail sale.</text>
+      <text>POSTCONSUMER WASTE — Solid waste other than solid waste generated in the production of goods, hazardous waste, waste from construction and demolition of structures, scrap automobiles, or high-volume industrial waste, which means fly ash, bottom ash, paper mill sludge or foundry process waste. For purposes of <cite path="|II|465">this chapter</cite> "hazardous waste" shall mean U.S. Environmental Protection Agency under Section 6921(b) of the Resource Conservation and Recovery Act.</text>
+      <text>PP — Polypropylene plastic containers marked by the SPI code No. 5. PS — Polystyrene plastic containers marked by the SPI code No. 6.</text>
+      <text>PVC — Polyvinyl chloride plastic containers marked by the SPI code No. 3.</text>
+      <text>RECYCLABLE MATERIALS — Includes lead acid batteries; major appliances; waste oil; yard waste; aluminum containers; corrugated paper or other container board; foam polystyrene packaging; glass containers; magazines; newspaper; office paper; plastic containers, including those made of PETE, HDPE, PVC, LDPE, PP, PS and mixed or other plastic resin types; steel containers; waste tires; and bimetal containers.</text>
+      <text>RESERVATION — The Menominee Indian Reservation.</text>
+      <text>SOLID WASTE — Any garbage, refuse, sludge from a waste treatment plant, or air pollution control facility, and other discarded or salvageable materials, including solid, liquid, semisolid, or contained gaseous materials resulting from industrial, commercial, mining, and agricultural operations, and from community activities. Solid waste does not include:</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Solids or dissolved materials in domestic sewage;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Solid or dissolved materials in irrigation return flows;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Industrial discharges which are point sources subject to permits under Wisconsin Statute <cite>Chapter 283</cite> or the National Pollution Discharge Elimination System (NPDES);</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Slag generated by the production or processing of iron or steel and that is managed as an item of value in a controlled manner and is not discarded;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Source materials, for the purposes of <cite path="|II|465">this chapter</cite>, shall mean uranium, thorium, any combination thereof in any physical or chemical form, or ores that contain by weight 0.05% or more of uranium, thorium or any combination thereof;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Special nuclear materials, for the purposes of <cite path="|II|465">this chapter</cite>, shall mean plutonium, uranium 233, uranium enriched in the isotope 233 or in the isotope 235 and any other material which the Nuclear Regulatory Commission determines to be special nuclear material; or any material artificially enriched by any of the foregoing. Special nuclear materials does not include source material;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>By-product material, for the purposes of <cite path="|II|465">this chapter</cite>, shall mean:</text>
+      <para>
+        <num>(1)</num>
+        <text>Radioactive material, except special nuclear material, yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear materials;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The tailings or waste produced by the extraction or concentration or uranium or thorium from any ore processes primarily for its source materials content; or</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Post-use plastics or nonrecycled feedstock that are processed at a pyrolysis or gasification facility; that are held at a pyrolysis or gasification facility, prior to processing at the facility where they are being held, to ensure that production is not interrupted; or that are held off site before delivery to a pyrolysis or gasification facility with the intent that they will be processed at a pyrolysis or gasification facility.</text>
+      <text>SOLID WASTE FACILITY — A facility for solid waste treatment, solid waste storage, or solid waste disposal, and includes commercial, industrial, municipal, state, and federal establishments or operations such as, without limitation, because of enumeration, sanitary landfills, dumps, land disposal sites, incinerators, transfer stations, storage facilities, collection and transportation services, and processing, treatment, and recovery facilities. Solid waste facility includes the land where the facility is located. Solid waste facility does not include:</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>A facility for the processing of scrap iron, steel, or nonferrous metal using large machines to produce a principal product of scrap metal for sale or use for remelting purposes;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A facility which uses large machines to sort, grade, compact, or bale clean wastepaper, fibers, or plastics, not mixed with other solid waste, for sale or use for recycling purposes;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An auto junkyard or scrap metal salvage yard; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A pyrolysis facility or a gasification facility.</text>
+      <text>SOLID WASTE TREATMENT — Any method, technique or process which is designed to change the physical, chemical or biological character or composition of solid waste. Treatment includes incineration.</text>
+      <text>TOTE — A container on wheels meant for the purpose of holding solid waste or recyclable materials for curbside pickup.</text>
+      <text>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of the solid waste from one vehicle or container to another, generally of the larger capacity, occurs prior to the point of processing or disposal.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>WASTE TIRE — A tire that is no longer suitable for its original purpose because of wear, damage or defect.</text>
+      <text>YARD WASTE — Leaves, grass clippings, yard and garden debris and brush, including clean woody vegetative material no greater than six inches in diameter. This term does not include stumps, roots or shrubs with intact root balls.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-6</num>
+    <heading>Separation of recyclable materials.</heading>
+    <text>Occupants of single-family and two- to four-unit residences, multiple-family dwellings and nonresidential facilities and properties shall separate the following materials from postconsumer waste:</text>
+    <para>
+      <num>A.</num>
+      <text>Lead acid batteries.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Major appliances.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Waste oil.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Yard waste.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Aluminum containers.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Bimetal containers.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Corrugated paper or other container board.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Foam polystyrene packaging*.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Glass containers.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Magazines.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Newspapers.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Office paper.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Rigid plastic containers made of PETE, HDPE, PVC*, LDPE*, PP*, PS*, and other resins or multiple resins*.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Steel containers.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Waste tires.</text>
+      <text>*Note: See <cite path="§465-7|C">§ 465-7C</cite> for an exemption on these specific materials.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-7</num>
+    <heading>Separation requirements exempted.</heading>
+    <text>The separation requirements of <cite path="§465-6">§ 465-6</cite> do not apply to the following:</text>
+    <para>
+      <num>A.</num>
+      <text>Occupants of single-family and two- to four-unit residences, multiple-family dwellings and nonresidential facilities and properties that send their postconsumer waste to a processing facility licensed by the Wisconsin Department of Natural Resources that recovers the materials specified in <cite path="§465-6">§ 465-6</cite> from solid waste in as pure a form as is technically feasible.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Solid waste which is burned as a supplemental fuel at a facility if less than 30% of the heat input to the facility is derived from the solid waste burned as supplemental fuel.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A recyclable material specified in <cite path="§465-6|E">§ 465-6E</cite> through O for which a variance has been granted by the Department of Natural Resources under section 287.11 (2m) of the Wisconsin Statutes, or Section NR 544.14 of the Wisconsin Administrative Code.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-8</num>
+    <heading>Care of separated recyclable materials.</heading>
+    <para>
+      <num>A.</num>
+      <text>To the greatest extent practicable, the recyclable materials separated in accordance with <cite path="§465-6">§ 465-6</cite> shall be clean and kept free of contaminants such as food or product residue, oil or grease, or other nonrecyclable materials, including but not limited to household hazardous waste, medical waste, and agricultural chemical containers. Recyclable materials shall be stored in a manner which protects them from wind, rain, and other inclement weather conditions.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Used oil filters and electronic devices should be taken to the Keshena Transfer Site for proper disposal through transfer to a licensed facility for proper disposal.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-9</num>
+    <heading>Management of lead acid batteries, major appliances, waste oil and yard waste.</heading>
+    <text>Occupants of single-family and two- to four-unit residences, multiple-family dwellings and nonresidential facilities and properties shall manage lead acid batteries, major appliances, waste oil, and yard waste as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>Lead acid batteries shall be delivered to the Keshena Transfer Site or returned to the place of purchase.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Major appliances shall be delivered to the Keshena Transfer Site or returned to the place of purchase.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Waste oil shall be dropped off at the Keshena Transfer Site for proper disposal at a proper oil-recycling facility. Waste oil shall not be mixed with any other solvents or material.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Yard waste shall be the responsibility of the individual resident; however, composting is recommended. Yard waste shall not be mixed with solid waste or be placed at the curb. Yard waste shall be accepted at any location as approved by the Community Development Department.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-10</num>
+    <heading>Preparation and collection of recyclable materials.</heading>
+    <para>
+      <num>A.</num>
+      <text>Occupants of single-family and two- to four-unit residences shall do the following for the preparation and collection of the separated materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O:</text>
+      <para>
+        <num>(1)</num>
+        <text>Aluminum containers shall be rinsed.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Bimetal containers shall be rinsed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Corrugated paper or other container board shall be broken down. All loose foreign material must be removed. No plastic-lined or waxed cardboard or food containers accepted.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Foam polystyrene packaging shall be crushed.*</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Glass containers shall be clean with all lids and caps removed.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All clean paper materials shall be placed loosely in the provided rolling tote for curbside pickup.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Rigid plastic containers shall be prepared and collected as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Plastic containers made of PETE, including soda and drink bottles, shall be cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Plastic containers made of HDPE, including bottles and tubs, shall be cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Plastic containers made of PVC*, cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Plastic containers made of LDPE*, cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Plastic containers made of PP*, cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Plastic containers made of PS*, cleaned and rinsed with all caps and rings removed.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Plastic containers made of mixed or other plastic resin types*, cleaned and rinsed with all caps and rings removed.</text>
+          <text>*Note: See <cite path="§465-7|C">§ 465-7C</cite> for an exemption on these specific materials.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Steel containers shall be clean. Remove lids and place in center of can.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Waste tires shall be taken to the Keshena Transfer Site or a tire dealer for proper disposal or recycled through the hauler for a fee. There shall be a disposal limit of four tires per tribal member annually.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All items listed in <cite path="§465-10">§ 465-10</cite>A(1) through (8) shall be placed loosely, not in bags, in the provided recycling tote for curbside pickup.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-11</num>
+    <heading>Responsibilities of owners or designated agents of multiple-family dwellings.</heading>
+    <para>
+      <num>A.</num>
+      <text>Owners or designated agents of multiple-family dwellings shall do all of the following for recycling the materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide adequate, separate containers for the recyclable materials.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify tenants in writing at the time of renting or leasing the dwelling and at least semiannually thereafter about the established recycling program.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for the collection of the materials separated from the solid waste by the tenants and the delivery of the materials to a recycling facility.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notify tenants of reasons to reduce and recycle solid waste, which materials are collected, how to prepare the materials in order to meet the processing requirements, collection methods or sites, locations and hours of operation, and a contact person or company, including a name, address and telephone number.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The requirements specified in <cite path="§465-11|A|(1)">Subsection A(1)</cite> do not apply to the owners or designated agents of multiple-family dwellings if the postconsumer waste generated within the dwelling is treated at a processing facility licensed by the Department of Natural Resources that recovers for recycling the materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O from solid waste in as pure a form as is technically feasible.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Residents shall be provided with one ninety-five-gallon trash tote and one ninety-five-gallon recycling tote. All residential solid waste must be bagged, tied, and fit in the tote provided. Cardboard is to be broken down to a two-foot-by-three-foot in size maximum. Solid waste and recyclables shall be covered and secured to prevent littering. No garbage stored outside the cart will be collected. All trash must fit in the cart provided with the lid closed. All recyclable materials placed in the proper tote shall be loose and not contained within bags.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Haulers may not collect, transport, process or dispose of solid waste within the Menominee Reservation or Menominee County unless the recyclable materials have been segregated. It is the responsibility of the hauler to inform the Menominee Indian Tribe of Wisconsin of residential, multifamily, and nonresidential properties that are not segregating recyclable materials from solid waste.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Haulers may contact any residential, multifamily, or nonresidential customer whose recycling or solid waste cannot be picked up. Haulers shall contact the Menominee Indian Tribe of Wisconsin's authorized officer, employee or representative for enforcement.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-12</num>
+    <heading>Responsibilities of owners or designated agents of nonresidential facilities and properties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Owners or designated agents of nonresidential facilities and properties shall do all of the following for recycling the materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide adequate, separate containers for the recyclable materials.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify in writing, at least semiannually, all users, tenants and occupants of the properties about the established recycling program.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for the collection of the materials separated from the solid waste by the users, tenants and occupants and the delivery of the materials to a recycling facility.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notify users, tenants and occupants of reasons to reduce and recycle, which materials are collected, how to prepare materials in order to meet the processing requirements, collection methods or sites, locations and hours of operation, and contact person or company, including a name, address and telephone number.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The requirements specified in <cite path="§465-12|A">§ 465-12A</cite> do not apply to the owners or designated agents of nonresidential facilities and properties if the postconsumer waste generated within the facility or property is treated at a processing facility licensed by the Department of Natural Resources that recovers for recycling the materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O from solid waste in as pure a form as is technically feasible.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Haulers may not collect, transport, process or dispose of solid waste within the Menominee Reservation or Menominee County unless the recyclable materials have been segregated. It is the responsibility of the hauler to inform the Menominee Indian Tribe of Wisconsin of residential, multifamily, and nonresidential properties that are not segregating recyclable materials from solid waste.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Haulers may contact any residential, multifamily, or nonresidential customer whose recycling or solid waste cannot be picked up. Haulers shall contact the Menominee Indian Tribe of Wisconsin's authorized officer, employee or representative for enforcement.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-13</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any person who violates a provision of <cite path="|II|465">this chapter</cite> may be issued a citation by any duly law enforcement officer or any duly conservation warden. The issuance of a citation shall not preclude proceeding under any other ordinance or law relating to the same or any other matter. Proceeding under any other ordinance or law relating to the same or any other matter shall not preclude the issuance of a citation under <cite path="§465-13|A.">this subsection</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For the purpose of ascertaining compliance with the provisions of <cite path="|II|465">this chapter</cite>, any authorized officer, employee or representative of the Tribe may inspect recyclable materials separated for recycling, postconsumer waste intended for disposal, collection sites and facilities, collection vehicles, collection areas of multiple-family dwellings and nonresidential facilities and properties, solid waste disposal facilities and solid waste treatment facilities, and any records relating to recycling activities, for the purpose of ascertaining compliance with provisions of <cite path="|II|465">this chapter</cite>. No person shall refuse access to any authorized officer, employee or authorized representative of the Tribe who requests access for purposes of inspection, and who presents appropriate credentials. No person shall obstruct, hamper, or interfere with such an inspection.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>465-14</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>No person shall dispose of in a solid waste disposal facility or burn in a solid waste treatment facility any of the materials specified in <cite path="§465-6|E">§ 465-6E</cite> through O which have been separated for recycling, except waste tires may be burned with energy recovery in a solid waste treatment facility.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No person shall burn trash, recyclable materials, or any other solid waste material, except for the prudent use of igniting materials or confidential papers, yard waste and clean wood that has not been painted, stained, sealed or treated.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It shall be unlawful for any person, unless under contract with and/or licensed by the Menominee Indian Tribe of Wisconsin or under agreement with an individual generator, to collect or remove any recyclable material which has been placed appropriately for collection.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Penalties for violating <cite path="|II|465">this chapter</cite> shall be assessed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any person who violates <cite path="§465-14|A">§ 465-14A</cite> through C may be required to forfeit $100 for a first violation, $500 for a second violation, and not more than $2,000 for a third or subsequent violation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any person who violates a provision of <cite path="|II|465">this chapter</cite>, except <cite path="§465-14|A">§ 465-14A</cite> through C, may be required to forfeit not less than $50 and not more than $500 for each violation.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

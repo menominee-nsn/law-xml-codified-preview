@@ -1,0 +1,2864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|138">
+  <prefix>Chapter</prefix>
+  <num>138</num>
+  <heading>LEASES AND MORTGAGES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-1-2016 by Ord. No. 16-27;<fn proof="needed" path="|I|138|footnotes|1">1</fn>amended in its entirety 3-21-2019 by Ord. No. 18-38. Subsequent amendments noted where applicable.</annotation>
+  </annotations>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Editor's Note: This ordinance also superseded former <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages, comprising Art. I, Eviction Procedures, adopted 6-25-1992 by Ord. No. 92-9, as amended, Art. II, Veterans Leasehold Mortgages, adopted 7-7-1994 by Ord. No. 94-09, Art. III, Leasehold Mortgage Regulations and Eviction Procedures, adopted 7-1-1999 by Ord. No. 99-10, as amended, and Art. IV, Tribal Mortgage Lending, adopted 10-19-2006 by Ord. No. 06-28, as amended.</text>
+    </footnote>
+  </footnotes>
+  <container cache:ref-path="I|138|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>HEARTH Act Leasing<fn proof="needed" path="|I|138|I|footnotes|2">2</fn></heading>
+    <annotations>
+      <annotation type="History">Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27; adopted and amended in its entirety by Ord. No. 18-38; approved by the Secretary of the Interior on 7-25-2019, published approval in Federal Register Vol. 84, No. 201, October 17, 2019</annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27; adopted and amended in its entirety by Ord. No. 18-38; approved by the Secretary of the Interior on 7-25-2019; published approval in Federal Register Vol. 84, No. 201, October 17, 2019.</text>
+      </footnote>
+    </footnotes>
+    <section>
+      <prefix>§</prefix>
+      <num>138-1</num>
+      <heading>Purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Indian Tribe historically inhabited more than 12 million acres of land in what became the State of Wisconsin. Land cessions by treaties reduced Menominee Land to about 235,000 acres by 1856. Tribal lands were further reduced by the disastrous policy of Termination. Today, almost 90% of tribal land is held in sustained yield leaving only 10% for other uses.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The purpose of <cite path="|I|138|I">this article</cite> is to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recognize the authority of the Menominee Indian Tribe of Wisconsin to enter into, and issue, residential, agricultural, and commercial leases and to establish procedures for environmental review, approval, management, and enforcement of those leases.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><cite path="|I|138|I">This article</cite> shall govern and control the leasing of all Tribal lands on the Menominee Indian Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><cite path="|I|138|I">This article</cite> shall be liberally interpreted and construed to implement the Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012 ("HEARTH Act"), which amended 25 U.S.C. 415, by establishing a process under which leases will not require approval of the Secretary of the Interior if the lease is executed under Menominee Tribal HEARTH Act Leasing Ordinance approved by the Secretary of the Interior.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Nothing in <cite path="|I|138|I">this article</cite> is intended to expand the authority or responsibility of the Secretary of the Interior beyond that provided under applicable federal statutes or regulations.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text><cite path="|I|138|I">This article</cite> shall serve to promote self-determination, encourage economic self-sufficiency, facilitate economic development, and further promote investment in the tribal community while maintaining the critical role and responsibility of protecting Tribal Land and resources.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-2</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>Except as excluded under <cite path="§138-2|B">Subsection B</cite>, or as contrary to applicable federal statues or regulations, these regulations shall apply to the following leases approved pursuant to and in accordance with <cite path="|I|138|I">this article</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>To all future leases providing for residential use.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To all future leases providing for agricultural use; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To all future leases providing for commercial.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|I|138|I">This article</cite> shall not apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>To recreational leases, defined as Menominee Constitutional land use assignments;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To the extent that any such land exists or may exists, to any lease of individually owned Indian allotted land; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Subsurface leases, including, but not limited to, mineral and water leases.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-3</num>
+      <heading>Controlling law.</heading>
+      <para>
+        <num>A.</num>
+        <text>To the extent <cite path="|I|138|I">this article</cite> conflicts with any applicable federal statutes or regulations, the federal statute or regulation shall control.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To the extent that any lease to which <cite path="|I|138|I">this article</cite> applies conflicts with <cite path="|I|138|I">this article</cite>, <cite path="|I|138|I">this article</cite> shall control.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-4</num>
+      <heading>Amendments.</heading>
+      <text><cite path="|I|138|I">This article</cite> may be amended through the ordinance process by majority vote of the Menominee Tribal Legislature, provided that no major substantive amendment hereto shall be effective unless approved by the Secretary of the Interior in accordance with applicable federal laws and regulations. Minor technical amendments shall be effective without approval by the Secretary of the Interior.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§138-5">
+      <prefix>§</prefix>
+      <num>138-5</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of <cite path="|I|138|I">this article</cite>, the following terms shall have the meaning indicated:</text>
+      <text>AGRICULTURAL LAND — Land zoned by the Tribe as agricultural land per <cite path="|III|625">Chapter 625</cite> Zoning, Article XV: Exclusive Agricultural District (A-1).</text>
+      <text>AGRICULTURAL LEASE — A lease of Menominee agricultural land for agricultural use, farming, and/ or grazing purposes.</text>
+      <text>AGRICULTURAL PRODUCTS — Agricultural, horticultural, viticulture, and dairy products, livestock and products thereof, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.</text>
+      <text>AGRICULTURAL USE — The production of food, feed, and fiber commodities, livestock and poultry, bees, fruits and vegetables, and sod, ornamental, nursery, and horticultural crops that are raised, grown, or produced for commercial purposes as well as the raising of domestic animals and wildlife in domestication or a captive environment.</text>
+      <text>AIARMA — The American Indian Agricultural Resources Management Act of December 3, 1993 (107 Stat. 2011, 25 U.S.C. § 3701 et seq.) as amended on November 2, 1994 (108 Stat. 4572).</text>
+      <text>APPROVED LOTS, LAND — See "developed lots."</text>
+      <text>ASSIGNMENT — An agreement between a lessee and an assignee, whereby the assignee acquires all or some of the lessee's rights, and assumes all or some of the lessee's obligations under a lease.</text>
+      <text>BIA — The Bureau of Indian Affairs.</text>
+      <text>BOND — Security for the performance of certain lease obligations, as furnished by the tenant or lessee, or a guaranty of such performance as furnished by a third-party surety.</text>
+      <text>BUSINESS LEASE — See "commercial lease."</text>
+      <text>COMMERCIAL LEASE — Any lease or other agreement for use of tribal land between the Tribe, as lessor, and a member of the Tribe or other qualified individual, as for commercial, business, and for a specified duration. For the purposes of <cite path="|I|138|I">this article</cite>, industrial leases shall be treated as commercial leases with the difference only in the types of designated uses under Tribal law.</text>
+      <text>CONSTRUCTIVE NOTICE — Notice:</text>
+      <para>
+        <num>A.</num>
+        <text>Posted at the tribal governmental office, tribal community building, and the United States Post Office; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Published in the local newspaper(s) nearest to the leased land.</text>
+        <text>DEPARTMENT — The Land Management Department; or any future reorganized and named Tribal department that has taken on the duties involving leasing of tribal lands and real estate services.</text>
+        <text>DEVELOPED LOTS — Developed lots are lots recorded by the Land Management Department in a list of available lots. Generally, although not exclusively, these lots have a certified survey, completed archaeological review, completed environment reviews, and are already approved and zoned for specific uses. Lots not on the Department's list may be placed on the list through the procedures listed in <cite path="|II|340">Chapter 340</cite>, Forest Management and Development; <cite path="|III|600">Chapter 600</cite>, Land Use and Natural Resource Plan; <cite path="|III|625">Chapter 625</cite>, Zoning; Community Development Committee Policies and Procedure, and Land Management Department's Policies and Procedure.</text>
+        <text>EXECUTING OFFICIAL — The Chairperson of the Menominee Indian Tribe of Wisconsin or his/ her designee, if properly designated, who shall have the authority to execute residential, agricultural, commercial site leases on tribal lands controlled by the Menominee Indian Tribe of Wisconsin, and take all necessary and proper action on leases, including amendments, modifications, assignments, and cancellations of leases.</text>
+        <text>FAIR ANNUAL LEASE VALUE — The amount of rental income that a leased tract of tribal land would most probably command in an open market or competitive market, or as determined by competitive bidding.</text>
+        <text>FAIR MARKET RENTAL — The amount of rental income that a leased tract of the Tribe's land would most probably command in an open and competitive market, or as determined by competitive bidding.</text>
+        <text>FAMILY UNIT — Two people legally married and recognized by tribal law, two individuals living together (meaning cohabitation as evidenced by a sworn statement on the application form), or a single adult person residing in the same household as the above, or with any biological children or legally adopted children, including tribal customary adoption, under the age of 18 years old.</text>
+        <text>JUNK — Any of the following that pose a threat to public health, safety or property rights:</text>
+        <annotations/>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Scrap metal, glass, paper products, metal alloy, wood, perishables, debris, refuse, remnants, garbage, aluminum, steel, tires, concrete or synthetic material, including, but not limited to, tanks, barrels, cages, pallets, wire/cable, furniture, culverts, bricks, appliances, waste or bottles.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any junked, ruined, dismantled, wrecked, unlicensed, unregistered or inoperative motor vehicles, including, but not limited to, buses, vans, trucks, cars and recreation vehicles.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any junked, ruined, dismantled or wrecked machinery, including, but not limited to, farm equipment, construction equipment, campers, snowmobiles, boats and parts thereof.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All parts of dismantled buildings or structures, including, but not limited to, abandoned mobile homes, manufactured homes, or other abandoned homes or structures.</text>
+        <text>JUNK HOME — Any home that is:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Uninhabitable or unkempt for a period of more than 180 consecutive days;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Not hooked up to a legal and functioning sewage system for more than 14 days unless used as an accessory structure in accordance with <cite path="|III|625">Chapter 625</cite>, Zoning;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Burned out or otherwise an eyesore and a burden on surrounding property; or</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Not in conformance with <cite path="|III|625">Chapter 625</cite>, Zoning, for more than 14 consecutive days.</text>
+        <text>LEASE — The lease or other written agreement for use of tribal land between the Tribe, as lessor and lessee for a specified purpose and duration. Lease agreements may relate to land or land and buildings. The lessee's right to possess will limit the Tribe's right to possess the leased premises only to the extent provided in the lease.</text>
+        <text>LEASED PREMISES — The property and improvements subject to a lease.</text>
+        <text>LEASEHOLD ESTATE — The possessory interest in the Tribe's land established pursuant to a lease between a lessor and a lessee.</text>
+        <text>LEASEHOLD INTEREST — The interest of a lessee in the lease.</text>
+        <text>LEASEHOLD MORTGAGE — A mortgage, deed of trust, or other instrument that pledges a lessee's leasehold interest as security for a debt or other obligation owed by the lessee to a lender or other mortgagee.</text>
+        <text>LEASEHOLDER — The lessee or a person to whom property is leased under a lease; one who has the right to use or occupy a property under a lease agreement.</text>
+        <text>LESSEE — A person or entity to whom property (Menominee Tribal Trust Land) is leased under a lease. One who has the right to use or occupy a property under a lease agreement, e.g., the leaseholder.</text>
+        <text>LESSOR — The Menominee Indian Tribe of Wisconsin.</text>
+        <text>LTRO — The Land Titles and Records Office is the office responsible for maintaining the Indian Land Record of Title and for examining and determining the completeness and accuracy of the records, certifying the findings of examination and reporting the status of title to Indian trust and restricted lands.</text>
+        <text>MEMBER(S) — One or more enrolled members of the Menominee Indian Tribe of Wisconsin.</text>
+        <text>MORTGAGE — A mortgage, deed of trust, security deed, or other instrument that pledges a tenant's leasehold interest as security for a debt or other obligation owed by the tenant to a lender or other mortgagee.</text>
+        <text>MORTGAGEE — Any lender approved by the Tribe to make and hold a mortgage and its successors and assigns, or any heir successor, executor, administrator, or assign therefor, under a leasehold mortgage.</text>
+        <text>MORTGAGOR — The Tribe or any person or entity who has executed a leasehold mortgage, including any heir(s), successor(s), executor(s), administrator(s) or assign(s) thereof.</text>
+        <text>NEPA — The National Environmental Policy Act of 1969, 42 U.S.C. § 4321 et seq.</text>
+        <text>PERMANENT IMPROVEMENT — Buildings, other structures, and associated infrastructure attached to the Tribe's land.</text>
+        <text>PUBLIC FOR PURPOSES OF ENVIRONMENTAL REVIEW — Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are property of the Menominee Tribe and are not public documents except for the documents required to be publicly posted in compliance with the environmental review process in <cite path="|I|138|I">this article</cite>.</text>
+        <text>PUBLIC NUISANCE — A thing, act, occupation, condition, or use of a property which continues for such length of time as to substantially annoy, injure, or endanger the comfort, health, repose, or safety of the public, or in any way render the public insecure in life or in the use of property or greatly offend the public morals or decency or unlawfully and substantially interfere with, obstruct, or tend to obstruct or render dangerous for passage any street, alley, highway, navigable waters or other public way, or the use of public property. The following is a non-exclusive list of actions that may constitute a public nuisance or, when a threat is posed to public health, safety or property rights:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Failure to keep waste, refuse or garbage in an enclosed building or properly contained in a closed container designed for such purposes;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Failure to maintain a structure in a safe and sanitary condition;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Allowing discharge into the environment of toxic or noxious materials;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Maintaining an excessive number of animals on premises (too many animals for the space, food or circumstances as determined by Land Management Department);</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Allowing the accumulation of junk;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Allowing holes or excavations or other physical hazards;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Allowing unused wells not properly sealed;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Allowing liquid, solid wastes or other adverse influences that will in any way have an objectionable effect upon adjacent or nearby property;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Allowing exterior storage of scrap lumber, junk, trash, or other debris, including, but not limited to, discarded objects or equipment such as vehicles, furniture, appliances, litter, farm, manufacturing equipment or building materials.</text>
+        <text>QUALIFIED NON-TRIBAL MEMBER — Per Article XI, Section 2(b) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, a nonmember who is an heir or descendant of a member of the Menominee Indian Tribe who, for purposes of determining inheritance of any land use assignment, have the same status as heir or descendants who are members of the Tribe. Provided that, where a nonmember inherits the land use assignment, and notwithstanding any provision to the contrary in the land use assignment issued to the deceased member, the term of such use assignment shall be deemed to be for 25 years. The Tribal Legislature may renew such assignment for subsequent terms, each not to exceed 25 years.</text>
+        <text>RESERVATION — The land and waters within the exterior boundaries of the Menominee Indian Reservation, as determined by the Treaties of 1854 and 1856.</text>
+        <text>SECRETARY — The Secretary of the Interior or his or her delegate.</text>
+        <text>SIGNIFICANT EFFECT ON THE ENVIRONMENT — A substantial, or potentially substantial, adverse change in the environment, including land, air, water, minerals, flora, fauna, ambient noise, cultural areas and objects of historic, cultural, or aesthetic significance.</text>
+        <text>SUBLEASE — A written agreement by which the lessee grants to an individual or entity a right to possession no greater than held by the lessee under the lease and approved by the Menominee Indian Tribe of Wisconsin.</text>
+        <text>SURETY — One who guarantees the performance of another.</text>
+        <text>TRESPASS — Any unauthorized occupancy, use of, or action on the Tribe's land.</text>
+        <text>TRIBAL COURT — The Menominee Tribal Court as established by Article V of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
+        <text>TRIBAL LAND — Any tract in which the surface estate is owned by the Tribe in trust or restricted status, and includes such lands reserved for BIA administrative purposes. The term also includes the surface estate of lands held by the United States in trust for an Indian corporation chartered to the Tribe under Section 17 of the Act of June 18, 1934 (48 Stat. 988; 25 U.S.C. § 477<fn path="|I|§138-5|footnotes|3">3</fn>).</text>
+        <text>TRIBAL RECORDING CLERK — The person designated by the Tribe to perform the recording functions required by <cite path="|I|138|I">this article</cite> or any deputy or designee of such person.</text>
+        <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, December 22, 1973, P.L. 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|I|§138-5|footnotes|4">4</fn></text>
+        <text>TRUST LAND — Land within the jurisdiction of the Tribe:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Title to which is held by the United States or any state for the benefit of the Tribe; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>That is subject to restrictions against alienation imposed by federal treaty, statute, or executive order.</text>
+        <text>TRUST OR RESTRICTED STATUS —</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>That the United States holds title to the tract or interest in trust for the benefit of the Tribe; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>That the Tribe holds title to the tract, but can alienate or encumber it only with the approval of the United States because of limitations in the conveyance instruments under federal law or limitations in federal law.</text>
+        <text>UNLAWFUL CONDUCT — Any action which is in violation of Tribal laws, ordinances, regulations, and Constitution, and any applicable federal laws.</text>
+        <text>UNLAWFUL DETAINER ACTION — A suit brought before the Tribal Court to terminate a tenant's interest in real property and/or to evict any person from occupancy of real property.</text>
+        <text>VIOLATION — A failure to take an action, including payment of compensation, when required by the lease, or otherwise not comply with a term of the lease. This definition applies for purpose of enforcement of a lease under <cite path="|I|138|I">this article</cite> no matter how "violation" or "default" is defined in the lease.</text>
+        <text>WASTE — Spoilage, damage or destruction of land, buildings, gardens, trees or other improvements beyond normal wear and tear on the mortgaged property which results in substantial injury to such property.</text>
+        <text>WHEDA — The Wisconsin Housing and Economic Development Authority, an approved lender and mortgagee under <cite path="|I|138|I">this article</cite>.</text>
+        <text>WRIT OF RESTITUTION — An order of the Tribal Court:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Restoring an owner or lessor or the Secretary to possession of real property; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Evicting a tenant or other occupant therefrom.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: 25 U.S.C. § 477 was transferred to 25 U.S.C. § 5124 by P.L. 101–301, May 24, 1990, 104 Stat. 206.</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: P.L. 93-197, § 2, Dec. 22, 1973, 87 Stat. 770, providing definitions, was omitted pursuant to editorial reclassification of provisions of Title 25, Chapters 14 and 19, United States Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-6</num>
+      <heading>Authority.</heading>
+      <para>
+        <num>A.</num>
+        <text>Article III, Section 1, Powers of Tribal Legislature; Article IV, The Tribal Legislature; and Bylaws II-Procedure of the Tribal Legislature of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin grant the Tribal Legislature the power to make and enforce laws, included codes, ordinances, resolutions, motions, regulations, and statutes.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Article X. Limited Power of Tribal Legislature to Transfer Ownership of, or to Encumber, Tribal Land or Interest Therein, Section 1(b) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin grants the Tribal Legislature the power to authorize leases to tribal members of the Tribe for specified portions of tribal land for residential, agricultural, or commercial purposes and grants of permission to tribal members and qualified nonmembers to use specified portions of tribal land for residential, agricultural, or commercial purposes.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Article XI, Use of Tribal Land By Tribal Members and Qualified Non-Tribal Members, Section 2(b) authorizes an heir or descendant exception to the prohibition of use of tribal lands by nonmembers and granting the Tribal Legislature the authority to renew assignments.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-7</num>
+      <heading>Approval of lease(s).</heading>
+      <para>
+        <num>A.</num>
+        <text>All leases will be subject to the approval of the Menominee Tribal Legislature in accordance with <cite path="|I|138|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Leases submitted for approval shall have attached all documents required to be submitted with the lease application under <cite path="|I|138|I">this article</cite>, i.e., financial statements, environmental review, site survey and legal descriptions.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All leases shall be signed by the executing official of the Tribe.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>After the Secretary of Interior approves these regulations, all leases which are approved and executed under <cite path="|I|138|I">this article</cite>, shall be effective without Department of Interior approval.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any lease, which is approved and executed under <cite path="|I|138|I">this article</cite>, shall refer to <cite path="|I|138|I">this article</cite> as authority for its execution on behalf of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-8</num>
+      <heading>General eligibility provisions.</heading>
+      <text>The following requirements of this section pertain to every request for a residential, agricultural and/or commercial leases:</text>
+      <para>
+        <num>A.</num>
+        <text>The applicant must be an enrolled member of the Tribe, except:</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal businesses and special purpose legal entities eligible pursuant to <cite path="|I|18">Chapter 18</cite>, Businesses, Tribal departments and Tribal programs shall be deemed members of the Menominee Indian Tribe for the purpose of leasing tribal lands pursuant to <cite path="|I|138|I">this article</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A nonmember who is an heir or descendant of a member of the Menominee Indian Tribe who inherits a leasehold interest shall, for the purposes of determining inheritance of the lease, have the same status as heirs or descendants who are members of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Before a lessee can reapply or be approved for any future lease, he/she must pay back any lease fees that are owed to the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An applicant is eligible for only one waterfront property lot per family unit.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If a person is applying for a different residential lot, he/she must relinquish any interest he/she has in his/her present residential lot.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>An individual is not eligible for waterfront property if they already own or lease waterfront property on the reservation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>An applicant is not eligible for a residential property if they already lease from the Tribe a residential property. Applicants are only eligible for one residential lot per family unit.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Only lots that are developed and not in sustained yield areas will be considered for a lease application.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-9</num>
+      <heading>Lease terms.</heading>
+      <para>
+        <num>A.</num>
+        <text>These terms shall apply to the following leases:</text>
+        <para>
+          <num>(1)</num>
+          <text>Residential lease term shall be for 25 years. The lease may renew for two subsequent 25-year terms. The total term shall not exceed 75 years.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Agricultural leases shall not exceed 10 years unless a substantial investment in the improvement of the land is required. If a substantial improvement is required, the maximum term may be up to 25 years. The lease may renew up to one additional term, which may not exceed 25 years.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Commercial lease initial terms shall not exceed 25 years except that any such lease may include option(s) to renew. Such renewals shall not exceed 25 years per term and the total maximum lease term shall not exceed 75 years.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-10</num>
+      <heading>Lease requirements.</heading>
+      <text>All leases shall be in writing and, at a minimum, shall contain provisions addressing and/or identifying the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Parties to the lease;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A description of the land being leased; a certified survey map and a legal lot description sufficient to meet the BIA Land Title and Records Office requirements;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The term of the lease and the effective date of the lease and lease documents;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A description of the purpose of the lease and what uses of the leased premises are authorized;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The amount of rent and/or compensation that is due, when it is due, who receives it, what form of payment is acceptable, and whether any late charges or special fees apply;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>What performance bond and/or insurance requirements apply, if any;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>If a lease authorizes or requires the lessee to make permanent improvements during the term of the lease, identify the general type and location of each improvement, ownership of improvement, the responsibility for constructing, operating, maintaining, and managing any removal of permanent improvements during the lease term; require reasonable notice to the lessor of the construction of any permanent improvement not described in the lease and address the ownership and disposition of each improvement at the expiration of the lease; and specify consequences to the lease or lessee for delinquency of or failure to adhere to these improvement requirements;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Specified necessary improvements, if any are required, must be recorded in the lease. The lease shall describe all completion guidelines, schedule(s) and deadlines. Failure to comply with all improvement requirements and deadlines will be deemed a violation of the lease and shall result in the cancellation of the lease unless stated otherwise in the lease;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Provide that the lessee must comply with all applicable laws, rules, regulations and policies;</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>State express prohibitions for unlawful conduct, creation of nuisance, illegal activity, or negligent use or waste of leased premises or any other prohibited actions under <cite path="|I|138|I">this article</cite>;</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>State an express indemnification of the Tribe and the United States;</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>State the governing law, which includes Menominee Law and applicable federal statutes and regulations;</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Include or attach all other provisions required under any applicable federal statutes;</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>State, if any, due diligence requirements that apply;</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>State, if any, performance bond and insurance requirements that apply;</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Describe the state of utilities and road access and include or attach any written provisions required in <cite path="§138-15">§ 138-15</cite>;</text>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>A provision stating that nothing contained in this lease shall operate to delay or prevent a termination of federal trust responsibilities with respect to the land by the issuance of a fee patent or otherwise during the term of the lease; however, such termination shall not serve to abrogate the lease. The owners of the land and the lessee and his surety or sureties shall be notified of any such change in the status of the land;</text>
+      </para>
+      <para>
+        <num>R.</num>
+        <text>State the process for lease amendment(s), which shall only be in writing signed by both parties and any other applicable amendment requirements outlined in <cite path="|I|138|I">this article</cite>. State that any amendments or changes made to any lease document need to be approved by the Menominee Tribal Legislature and signed by the executing official. The lease must expressly state the requirements for amending the lease.</text>
+      </para>
+      <para>
+        <num>S.</num>
+        <text>Requirement that the lessee, when appropriate, must provide environmental and archaeological reports, surveys, and site assessments, as needed, to document compliance with the Tribe's archaeological and environmental review process and other application tribal and federal land use requirements;</text>
+      </para>
+      <para>
+        <num>T.</num>
+        <text>The following terms must be included:</text>
+        <para>
+          <num>(1)</num>
+          <text>Hazardous materials. The lessee indemnifies the lessor and the United States against all liabilities or costs in relation to the use, handling, treatment, removal, storage, transportation, or disposal of hazardous materials, or release or discharge or any hazardous materials from the leased premises that occurs during the lease term, regardless of fault, with the exception that the lessee is not required to indemnify the lessor for liability or cost arising from the lessor's negligence or willful misconduct;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hold harmless. The lessee holds the lessor and the United States harmless from any loss, liability, or damages resulting from the lessee's use or occupation of lease premises;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Historic preservation. If historic properties, archaeological resources, human remains, or other cultural items not previously reported are encountered during the course of any activated associated with this lease, all activity in the immediate vicinity of the properties, resources, remains, or items will cease and the lessee will contact Tribe and BIA to determine how to proceed and appropriate disposition;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Improvements. All permanent improvements and responsibility for constructing, operating, maintaining, and managing permanent improvements are of the lessee during the term of this lease.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Inspection of premises. The lessor and their authorized representative shall have the right, at any reasonable time during the term of this lease, and with reasonable notice, to enter upon the leased premises, or any part thereof, to inspect the same and all buildings and other improvements erected and placed thereon; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Inspection of records. The lessor and the appropriate agencies may treat any failure by the lessee to cooperate with a request to make appropriate records, reports, or information available for inspection and duplication as lease violations.</text>
+        </para>
+      </para>
+      <para>
+        <num>U.</num>
+        <text>Expressly prohibit lessees from expanding the lot, constructive possession, and the construction of any improvements, permanent or temporary beyond the described and recorded lease description;</text>
+      </para>
+      <para>
+        <num>V.</num>
+        <text>State whether there will be rental reviews or adjustments, how and when they will be done, when any adjustment will be effective, and how disputes regarding adjustments will be resolved;</text>
+      </para>
+      <para>
+        <num>W.</num>
+        <text>State the terms of holdover and trespass; and</text>
+      </para>
+      <para>
+        <num>X.</num>
+        <text>Any other terms or provisions the Tribe deems necessary.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-11</num>
+      <heading>Specific lease-type requirements, provisions, and restrictions.</heading>
+      <text>Below are additional, lease-type specific requirements for agricultural, residential and commercial leases.</text>
+      <para>
+        <num>A.</num>
+        <text>Agricultural leases.</text>
+        <para>
+          <num>(1)</num>
+          <text>Lease requirements.</text>
+          <para>
+            <num>(a)</num>
+            <text>Include stipulations to follow the Tribe's general conservation plan or the specifically negotiated conservation plans and/or agricultural management site plan as described in the lease;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Objectives of the agricultural resource management plan and/or land use, and conservation plans developed by the tribe, if any, or by the BIA in close consultation with the Tribe, under AIARMA;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Include or attach all other provisions required under any applicable federal statutes or regulations.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lease amounts. Agricultural lease amounts may be:</text>
+          <para>
+            <num>(a)</num>
+            <text>A fixed amount per acre;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A fixed amount per term to be set in the lease; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Based on a share of the agricultural products generated by the lease, or a percentage of the income to be derived from the sale of such agricultural products.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Leases may be amended to allow for lease rate adjustments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Agricultural management. All agricultural leases shall require the lessee to manage the land in accordance with the management principles established by the Tribe.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Types of agricultural leases permitted shall be the same as the principal uses permitted in the A-1 District under agriculture, including animal boarding (kennel), commercial beekeeping, dairying, floriculture, forestry, general farming, grazing, horticulture, nurseries, orchards, paddocks, pasturage, stabling, and viticulture or any conditional uses approved by the legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Residential leases.</text>
+        <para>
+          <num>(1)</num>
+          <text>A one-acre limit will be set for residential leases. However, the Land Management Department shall require lots to be surveyed at the applicant's expense for lots that are not already surveyed, platted, and recorded by the Department; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The lessee must have and provide to the Land Management Department proof of ownership of permanent or any physical improvements on the land; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If no physical improvements exist, lessee shall have 12 months to construct or acquire. If construction is not completed the lessee may be given a twelve-month extension, approved by legislative motion, if construction has commenced but has been delayed for good cause as defined by the lease. Failure of the lessee to comply with these requirements will be deemed a violation of the lease and may lead to the cancellation of the lease under <cite path="|I|138|I">this Article</cite> I;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Lease amount may be a fixed amount per term to be set in the lease; current economic conditions may be used to determine the lease amount;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Lease may be amended to allow for lease rate adjustment.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Commercial leases. Commercial leases shall mean the commercial and industrial uses and leases authorized in Article X, Limited Power of Tribal Legislature to Transfer Ownership of, or to Encumber Tribal Land or Interests Therein; and Article XI, Use of Tribal Land by Tribal Members and Qualified Non-Tribal Members of the Constitution and By-laws of the Menominee Indian Tribe of Wisconsin.</text>
+        <para>
+          <num>(1)</num>
+          <text>Terms and conditions. The commercial lease shall be governed by the terms and conditions set forth in the commercial lease agreement. The standard terms and conditions may be modified only with approval by motion of the Tribal Legislature if authorized by <cite path="|I|138|I">this article</cite>. The lessee is responsible for understanding these terms and conditions.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lease amount.</text>
+          <para>
+            <num>(a)</num>
+            <text>No lease shall be approved for less than the fair annual lease value, except as follows:</text>
+            <para>
+              <num>[1]</num>
+              <text>The lease is in the development period;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The Legislature is providing an incentive for a business to locate on the Nation's land and must provide lease concessions, lease improvement credits, or lease abatements to attract such business; or</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The Legislature determines such action is in the best interest of the Tribe.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A lease may be structured at a flat lease rate;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A lease may be structured as a flat lease rate plus a percentage of gross receipts if the lessee is a business located in a shopping center or mall or the lessee generates over $1,000,000 annually in gross receipts;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A lease may be structured based on a percentage of gross receipts or based on a market indicator;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The lease may provide for periodic review and such review may give consideration to the economic conditions, exclusive of improvement or development required by the contract or the contribution value of such improvements;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Leases may be amended to allow for lease rate adjustments;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The Land Management Department shall keep written records of the basis used in determining the fair annual lease value as well as the basis for adjustments. These records shall be presented to the lessee for its review and acceptance or non-acceptance and included in the lease file. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Improvements. The lease shall require the lessee, at the lessee's expense or as otherwise provided in the lease, to exercise due diligence and best efforts to complete construction of any improvements within the schedule specified in the lease.</text>
+          <para>
+            <num>(a)</num>
+            <text>If any improvements are to be constructed, the commercial lease must include:</text>
+            <para>
+              <num>[1]</num>
+              <text>A plan describing the type and location of any improvements to be built by the lessee;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A general schedule for construction of the improvements; and</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A requirement that the lessee provide the Department notice of any delay, explanation of good cause as to the nature of the delay, the anticipated new date of construction of the improvements, and evidence of progress toward commencement of construction.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When requested by the Tribe or otherwise required by the commercial lease, lessee shall further provide the Department, in writing, an updated schedule for construction.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Commercial lease shall contain a process for changing the construction schedule by mutual consent of the parties.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Failure of the lessee to comply with these requirements will be deemed a violation of the commercial lease and may lead to cancellation of the lease pursuant to <cite path="|I|138|I">this Article</cite> I.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Improvements to the premises shall become the property of the Tribe unless otherwise provided for in the commercial lease.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>If lessee is authorized to develop equitable value in improvements, the lease must describe how equity will be given and/or divided. The lessee may sell its interest in the commercial lease on the equity value, but the Tribe has the right of first refusal to purchase the interest.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The commercial lease may provide that at expiration, cancellation or termination of the commercial lease, the lessor shall purchase improvements to the premises at fair market value.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The commercial lease shall provide that mitigation and reclamation of any adverse impacts to trust resources shall be made to reasonable satisfaction of the lessor and the Secretary.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>In the event that any archaeological, historic, or cultural heritage resources are uncovered during any of the lessee's operation on the commercial lease premises, the lessor has the right to determine the appropriate disposition for such resources and shall act as reasonably practical so as not to unduly delay the lessee's activities but still provide protection to the uncovered resources. Unless otherwise negotiated and authorized by written consent from the Menominee Tribal Legislature, the cost of monitoring, evaluation or mitigation arising under <cite path="§138-11|C.|(3)|(i)">this subsection</cite> shall be borne by the lessee.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Improvements may be subject to taxation by the Tribe.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Development costs. All costs and expenses of the planning, construction, operation, and maintenance of the commercial lease premises, as well as any site reclamation, shall be the responsibility of and paid by the lessee, unless otherwise negotiated and authorized by written consent of the Menominee Tribal Legislature, and recorded in the lease. These costs and expenses shall include, but not be limited to, any and all costs associated with any necessary permitting, environmental studies, appraisal and survey of work, labor, equipment and materials, structures, utilities, off-site improvements, insurance and surety bonds. The lessee shall be responsible for conducting its own marketing program and providing for the day-to-day operation and maintenance of the commercial lease premises.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Insurance provisions. The lessee shall provide insurance necessary to protect the interests of the Tribe and in amounts sufficient to protect all insurable improvements on the premises:</text>
+          <para>
+            <num>(a)</num>
+            <text>The insurance may include, but is not limited to, property, liability or casualty insurance, or other insurance specified in the commercial lease.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe and the United States must be identified as additional insured parties.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe may waive this requirement if the waiver is in the best interest of the Tribe. The waiver may be revoked at any time if the waiver ceases to be in the Tribe's best interest.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Bonding provisions.</text>
+          <para>
+            <num>(a)</num>
+            <text>Unless waived in writing by the Tribe in accordance with <cite path="§138-11|C.|(6)|(a)">this subsection</cite>, the lessee shall obtain a satisfactory performance bond in an amount sufficient to secure the contractual obligations of the lease. Such bond shall be for the purpose of securing the lessee's contractual obligations under the commercial lease and shall guarantee:</text>
+            <para>
+              <num>[1]</num>
+              <text>The annual lease payment;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The estimated development cost of improvements; and</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Any additional amounts necessary to ensure compliance with the lease.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe may waive the bond requirement, or reduce the amount, if doing so is in the best interest of the Tribe. The Tribe shall maintain written records of waivers and reductions.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The performance bond may be in one of the following forms:</text>
+            <para>
+              <num>[1]</num>
+              <text>Certificate of deposit issued by a federally insured financial institution authorized to do business in the United States;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Irrevocable letters of credit issued by a federally insured financial institution authorized to do business in the United States;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Negotiable Treasury securities; or</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Surety bond issued by a company approved by the U.S. Department of the Treasury.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Representation of lessee. If a representative executes a lease on behalf of a qualified lessee, the lease must identify the landowner or lessee being represented and the legal authority of the representative.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Unless the lessee would be prohibited by law from doing so, the lease must also contain the following provisions:</text>
+          <para>
+            <num>(a)</num>
+            <text>The lessee holds the United States and the Indian landowners harmless from any loss, liability, or damages resulting from the lessee's use or occupation of the leased premises; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The lessee indemnifies the United States and the Indian landowners against all liabilities or costs relating to the use, handling, treatment, removal, storage, transportation, or disposal of hazardous materials, or the release or discharge of any hazardous material from the leased premises that occurs during the lease term, regardless of fault, with the exception that the lessee is not required to indemnify the Indian landowners for liability or cost arising from the Indian landowners' negligence or willful misconduct.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-12</num>
+      <heading>Sub-leasing.</heading>
+      <para>
+        <num>A.</num>
+        <text>Sub-leasing is not allowed without the written consent of the Menominee Tribal Legislature. If approved, the lease shall contain language that defines and describes the sub-leasing process, restrictions on sub-lessees, sub-lessee rights and guidelines.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No sublease shall relieve the lessee or sub-lessee of any liability under the lease.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All sub-leases and amendments thereto shall be recorded with the Department with copies provided to the LTRO with jurisdiction over the tribal land.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All sub-leases and assignments shall require the prior approval of any mortgagee or surety, if required by the mortgagee or surety agreement.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-13</num>
+      <heading>Assignments and transfers.</heading>
+      <text>All assignments, other than to a mortgagee, do not require tribal action but must comply with eligibility requirements in <cite path="|I|138|I">this article</cite>.</text>
+      <para>
+        <num>A.</num>
+        <text>In any assignment, other than to a mortgagee of the leasehold estate, the assignee must agree in writing to assume all of the obligations and conditions of the lease and that the lease is subject to all applicable laws.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All assignments and amendments thereto shall be recorded with the Department with copies provided to the LTRO with jurisdiction over the tribal land. Unless otherwise designated in <cite path="|I|138|I">this article</cite> or the lease, the lessee shall annually verify or update assignments and/or heir(s).</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Neither lessee nor lessor shall, unless otherwise expressly authorized in <cite path="|I|138|I">this article</cite>, sell, transfer, or assign a lease or any interest without the written consent of the other party.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No assignment or transfer shall be approved unless the assignee or transferee is eligible to receive a lease of land from the Menominee Indian Tribe of Wisconsin pursuant to Article X, Limited Power of Tribal Legislature to Transfer Ownership of, or to Encumber Land Interest Therein; and XI, Use of Tribal Land by Tribal Members and Qualified Non-Members of the Constitution and Bylaws of the Menominee Indian Tribe.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Death of lessee/transfer on death. In the event a lessee dies during the term of their lease, all leases shall expire 365 days after the date of lessee's death unless the lessee's interest in the lease is:</text>
+        <para>
+          <num>(1)</num>
+          <text>Assigned or transferred by the lessee according to the lease's beneficiary documents; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Assigned or transferred by the lessee's personal representative in accordance with Tribal law; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Transferred pursuant to valid probate order to a person eligible to receive a lease of land as described above in <cite path="§138-13|C">Subsection C</cite> and the person agrees, in writing, to be bound by each and all of the terms and conditions of the lease and tribal and federal laws and regulations; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Transferred pursuant to a lawful affidavit of transfer and the person agrees, in writing, to be bound by each and all of the terms and conditions of the lease and tribal and federal laws and regulations; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Cancelled by the Tribal Legislature pursuant to an ordinance.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-14</num>
+      <heading>Approval of leasehold mortgage and recording.</heading>
+      <para>
+        <num>A.</num>
+        <text>All leasehold mortgages under a lease must be separately authorized by the Tribal Legislature, unless the lease authorizes a leasehold mortgage and states the law governing foreclosure.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>After the Secretary approves these regulations, all leasehold mortgages which are authorized and executed under <cite path="|I|138|I">this article</cite> shall be effective without federal approval unless the Secretary rescinds approval of <cite path="|I|138|I">this article</cite> and reassumes responsibility for such approval.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All leasehold mortgages, assignments, amendments, and sales relating thereto shall be recorded with the Department with copies provided to the LTRO with jurisdiction over the tribal lands to the extent required by a mortgagee. A leasehold mortgage shall also be recorded in the appropriate county register of deeds.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-15</num>
+      <heading>Utilities and road access.</heading>
+      <para>
+        <num>A.</num>
+        <text>If utilities are not available, the applicant must agree, in writing, that utilities will not be provided by the Tribe. It shall be the responsibility of the applicant to obtain any necessary approvals/easements to acquire utilities.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If no road service/access is available, the applicant must agree, in writing, that no road service/access will be provided by the Tribe. It shall be the responsibility of the applicant to obtain any necessary approvals/easements to acquire road service/access.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-16</num>
+      <heading>Improvements.</heading>
+      <para>
+        <num>A.</num>
+        <text>If permanent improvements are authorized or required under <cite path="|I|138|I">this article</cite>, or as otherwise authorized by written consent of the MTL, the lease shall, at a minimum, require the lease to address ownership requirements of improvements, responsibility for constructing, operating, and maintaining, and managing improvements, and removal of improvements, if applicable.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If permanent improvements are made to the property, the leaseholder shall provide the Department evidence of ownership of said improvements, or any changes in ownership of said improvements.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-17</num>
+      <heading>Mobile homes.</heading>
+      <para>
+        <num>A.</num>
+        <text>A deposit will be required from those individuals who are placing mobile homes on sites, or who are purchasing an existing mobile home, as outlined in the fee schedule set by legislative motion.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Single-family mobile homes are not allowed in the Legend Lake area.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All leases in which mobile homes are being placed shall contain language describing the lessee's responsibility for removal of and/or reclamation of the land.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The lessee shall be responsible for all removal and/or reclamation costs and fees should the lease be cancelled, terminated, or abandoned.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-18</num>
+      <heading>Negotiated remedies.</heading>
+      <text>Negotiated remedies may apply in addition to, or instead of, a cancellation remedy for lease violations but only if approved by the Menominee Tribal Legislature and recorded in the lease. If approved, the lease shall fully define and describe the violations and the applicable negotiated remedies.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-19</num>
+      <heading>Administrative and lease fees.</heading>
+      <text>All application and lease fees are nonrefundable.</text>
+      <para>
+        <num>A.</num>
+        <text>Lessees shall pay annual administrative and lease fees according to the fee schedule unless negotiated and approved by the Menominee Tribal Legislature. The fee schedule shall be produced by the Department and approved by motion of the Tribal Legislature. Changes made to the fee schedule shall be posted for five business days after legislative approval before they shall become effective.</text>
+        <text>The fees in this section may be increased or decreased, in such amounts as are deemed appropriate, from time to time upon motion of the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>General and Department fees shall be assessed on lands leased with the Menominee Indian Tribe of Wisconsin and actions connected to the administration of tribal leases:</text>
+        <para>
+          <num>(1)</num>
+          <text>Fees shall be established by the Department and approved by motion of the Tribal Legislature. Changes to fees shall be posted for five business days before they shall become effective.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Copies of maps are available upon request. The fee for copies of maps shall be determined based on the type of request.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Menominee Indian Tribe of Wisconsin does not have a certified surveyor on staff, surveying needs will be a contracted service. The applicant shall pay the Tribe in advance for all costs associated with this service.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If a title abstract/commitment is required, the applicant shall pay the Tribe in advance for all costs associated with obtaining a title abstract/commitment.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If an archaeological review is required, the applicant shall pay the Tribe in advance for all costs associated with obtaining an archaeological review.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If an environmental review is required, the applicant shall pay the Tribe in advance for all costs associated with obtaining an environmental review.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If an appraisal is required, the applicant shall pay the Tribe in advance for all costs associated with obtaining an appraisal.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The foregoing fees may be increased or decreased, from time to time upon motion of the Menominee Tribal Legislature, in amounts deemed appropriate to defray costs of administration of leases.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-20</num>
+      <heading>Lease payments.</heading>
+      <para>
+        <num>A.</num>
+        <text>All lease payments will become due and payable each year or designated term in accordance with the lease provisions and <cite path="|I|138|I">this article</cite>.</text>
+        <para>
+          <num>(1)</num>
+          <text>If no payment is received by the date specified in the lease, the lease shall be cancelled pursuant to <cite path="|I|138|I">this article</cite> and the land will be reopened to other interested tribal members or qualified individuals.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lessees with unpaid lease fees are ineligible to receive any other type of land assignment, including, but not limited to, land lease, ninety-nine-year permit, seasonal permit, or any other land use assignment.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For any lease requiring payments be made to Tribe, the Tribe shall provide the Secretary with such documentation of the lease payments that are sufficient to enable the Secretary to discharge the trust responsibility of the United States such that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The United States shall not be liable for losses sustained by any party to a lease executed; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to the Tribe under federal law (including regulations), the Secretary may, upon reasonable notice from the Tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-21</num>
+      <heading>Lease application.</heading>
+      <para>
+        <num>A.</num>
+        <text>Land use and site planning. Leases are only issued for developed lots and properties identified appropriate for the specified development within the Tribe's Land Use Plan and consistent with the Official Zoning Map per Menominee Tribal Code <cite path="|III|600">Chapter 600</cite>, Land Use and Natural Resource Plan, and <cite path="|III|625">Chapter 625</cite>, Zoning.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Site availability. The Land Management Department shall maintain a list of property that has been approved for development. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Requirements. The Land Management Department shall obtain the following information on the lease application: <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>Any other name(s) used by the applicant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The exact location of the request;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any previous requests made by the applicant;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Applicant's enrollment number;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Legal description, if any, and/or certified survey;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Determine if land is within forestry sustained yield; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Obtain soil tests if not available.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Priority. Residential lease requests shall take priority over recreational, agricultural and/or commercial lease requests.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Application time line.</text>
+        <para>
+          <num>(1)</num>
+          <text>A first come, first serve policy will be honored on all applications.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon payment of the application fee, the application will be processed by the Land Management Department and appropriate committee, and sent to the Tribal Legislature for approval through the legislative ordinance process. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Pre-application. Applicant requests assistance in acquiring a lease from the Department. After the applicant identifies the type of lease and a potential site, the Department confirms that the parcel is available for lease and is appropriately zoned. If there is no specific potential site, applicant can review the list maintained by the department of approved lots.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Application submittal. Applicant submits a completed application to the Department. The Department retains the original application.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Application review. The Department staff will review the application for completeness. Incomplete applications will be returned to the applicant with a letter outlining information necessary to move the application forward. Completed applications are filed with the Department.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Lease approval. Once the lease application is complete, the Department staff will draft a standard lease per the requirements in <cite path="|I|138|I">this article</cite>. The Department staff will send the proposed lease to the Community Development Committee for review. The Committee will approve or deny the lease per their bylaws. Committee-approved leases will be prepared by the Department and sent to the Legislature for final approval through the ordinance process.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-22</num>
+      <heading>General duties of lessees.</heading>
+      <text>Leaseholders are responsible for knowing the requirements of <cite path="|I|138|I">this article</cite>. Any failure to strictly observe the requirements of <cite path="|I|138|I">this article</cite> and the terms of the lease shall result in cancellation of the lease.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-23</num>
+      <heading>Prohibited acts.</heading>
+      <text>The following are prohibited acts of leaseholders:</text>
+      <para>
+        <num>A.</num>
+        <text>Public nuisance and unfit dwellings. No leaseholder shall erect, construct, cause, continue, maintain or permit any public nuisance or unfit dwelling within the jurisdiction of the Tribe. Any person who shall cause, create or maintain a public nuisance or unfit dwelling, or in any way aid or contribute to the causing, creating or maintenance thereof, shall be guilty of a lease violation and shall be liable for all costs and expenses attendant upon the removal and correction of such a public nuisance or unfit dwelling.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Junk. No leaseholder shall store any junk outside a building, and within public view, for a period of any part of five or more days during a thirty-day period.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Other public nuisance. No leaseholder shall maintain or carry on activities that are defined as a public nuisance.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Other violations. No leaseholder shall violate any of the lease terms and provisions, or any other laws, policies, rules or regulations of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-24</num>
+      <heading>Exceptions to prohibited acts.</heading>
+      <para>
+        <num>A.</num>
+        <text>This is not intended to regulate or place limitations on any properly zoned and licensed junkyard, salvage dealer or other junk, waste disposal or storage activity for which a valid license is required and proper permits have been issued, and where all such licenses and permits are in full force and effect.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>This does not prohibit the reasonable and orderly storage of idle, but operable, farm, business, snow-removal vehicles or equipment, or lawn-mowing equipment.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Other exceptions may be made on a case-by-case basis with the discretion of the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-25</num>
+      <heading>Special projects or districts.</heading>
+      <text>If the leased premises are within an Indian irrigation project or drainage district, except as provided by 25 CFR Part 171, the lessee must pay all operation and maintenance charges that accrue during the lease term. The lessee must pay these amounts to the appropriate office in charge of the irrigation project or drainage district.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-26</num>
+      <heading>Trespass.</heading>
+      <text>If an individual or entity takes possession of or uses the Tribe's land without a lease and a lease is required, the Tribe may treat the unauthorized possession or use as a trespass. The Tribe may take action to recover possession and pursue any additional remedies available under applicable law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-27</num>
+      <heading>Cancellation of leases.</heading>
+      <text>All cancellation of leases shall be done by ordinance and will be subject to the approval of the Menominee Tribal Legislature in accordance with the Menominee Indian Tribe of Wisconsin Constitution and Bylaws. Upon approval of the lease cancellation from the Tribal Legislature, the procedure set out in §<cite path="§138-32">§ 138-32</cite> and 138-33 shall be followed.</text>
+      <para>
+        <num>A.</num>
+        <text>The lease may naturally terminate when the purpose or term of the lease is completed or as mutually agreed upon by both parties.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Leases may be cancelled by ordinance for failure to sign the lease, failure to pay the lease fee, voluntary relinquishment of the lease, or noncompliance with the lease terms and provisions.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The lease shall contain language that defines and describes events and actions that may or shall result in the cancellation of the lease. Grounds for cancellation of lease include, but are not limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Default of an expressed condition precedent;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Manifestation of an expressed condition subsequent;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Material breach by lessee; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Material breach by lessor.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Forfeiture. A lessee may forfeit their lease by obtaining a Lease Cancellation Form from the Department. The lessee must submit a signed, notarized original to the Department. The Department will forward the lease cancellation through the legislative ordinance process.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Upon expiration, cancellation, or termination of the lease, the lessee shall, upon demand, surrender to the lessor complete and peaceable possession of the property and all improvements thereon shall become the property of the lessor, unless specifically negotiated with the Tribe and recorded in the lease.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-28</num>
+      <heading>Enforcement of lease violations.</heading>
+      <text>The Tribe shall have all powers necessary and proper to enforce lease terms, laws, ordinances, regulations, rules, policies, and covenants.</text>
+      <para>
+        <num>A.</num>
+        <text>Determination of violation and notification. If the Land Management Department determines, either through routine inspection or upon submittal of a written complaint to the department, that the leaseholder is in violation of the lease, the Land Management Department shall notify the leaseholder of said violation within a reasonable time. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notice shall be mailed to the leaseholder's last known address.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-29</num>
+      <heading>Lessee remedies.</heading>
+      <text>Within 30 days of notification of the violation, the lessee shall:</text>
+      <para>
+        <num>A.</num>
+        <text>Cure the violation, and notify the Land Management Department, in writing, that the violation has been cured; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Dispute, in writing, the Land Management Department's determination that the lease has not been violated, and explain why the lease should not be cancelled; or <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Request additional time to cure the lease violation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-30</num>
+      <heading>Failure to cure.</heading>
+      <text>If the leaseholder fails to cure the lease violation within the specified period, the Land Management Department shall either:</text>
+      <para>
+        <num>A.</num>
+        <text>Notify the leaseholder that the lease is being cancelled and forwarded to the Committee for cancellation;</text>
+        <para>
+          <num>(1)</num>
+          <text>Notice shall include the date and time for which cancellation is being considered by the Committee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Notice that the lessee has the right to appear during the Committee meeting to discuss the written dispute provided pursuant to <cite path="§138-29">§ 138-29</cite>;</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Grant an extension of time to cure the default; or</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Pursue any other remedies that may be available.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-31</num>
+      <heading>Appeals and complaints.</heading>
+      <para>
+        <num>A.</num>
+        <text>Appeals of cancellations.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the Committee approves the cancellation and sends for legislative approval, the Department shall provide to the lessee the time and place for the first consideration of the ordinance cancelling the lease.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The lessee shall have an opportunity to appeal the ordinance cancelling the lease before the Tribal legislature during the public hearing scheduled after first consideration of the ordinance. The appeal must relate to alleged noncompliance with <cite path="|I|138|I">this article</cite>. These arguments shall be considered before final approval of the ordinance cancelling the lease.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Final approval of the ordinance cancelling the lease shall constitute a final decision.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Complaints.</text>
+        <para>
+          <num>(1)</num>
+          <text>An interested party who has reasonable grounds to believe that the Tribe has failed to comply with this Code has the right to file a complaint under the Department's complaint policy.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Form. The complaint shall be in writing, signed by the interested party with a description of the alleged noncompliance with <cite path="|I|138|I">this article</cite> which is the subject of the complaint, state all relief requested and submitted according to the policy.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Informal resolution. All reasonable efforts to resolve the complaint informally, including, but not limited to, scheduling a meeting with the interested party for such purpose. All complaints which are resolved through such informal resolution shall be reduced to writing and signed by the interested party and the final decision maker according to the policy.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the complaint is not resolved informally, the final decision shall be in writing and shall be delivered to the interested party no later than 20 business days after receipt of complaint. The written decision shall constitute a final decision.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Appeal. In accordance with 25 U.S.C. § 415(h)(8)(A) an interested party who has exhausted the Tribe's remedies set forth in this section may submit a petition to the Secretary, at such time and in such form as the Secretary deems appropriate, to review the Tribe's compliance with <cite path="|I|138|I">this article</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-32</num>
+      <heading>Notice of cancellation.</heading>
+      <text>When the Legislature grants a cancellation of a lease through final approval of the ordinance cancelling the lease, the Land Management Department shall notify the leaseholder of the cancellation. The notification shall be sent, in writing, to the leaseholder's last known address. The letter shall contain the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Explain the grounds for cancellation of the lease;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notify the leaseholder of unpaid amounts, interest charges or late payment penalties that are due under the lease;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Order the leaseholder to vacate the premises within 10 days; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Notify the leaseholder that all property of the leaseholder must be removed (including mobile and manufactured homes, junk, waste, garbage or refuse), and that the property must be left in good condition free of junk and public nuisances, or the leaseholder will be charged for cleanup and disposal of any property, junk or public nuisances left behind.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-33</num>
+      <heading>Miscellaneous cancellation policies.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any property, junk or public nuisance left behind by the leaseholder, that is removed from the property by the Tribe may be sold by the Tribe with any funds received therefrom being used to pay or reimburse the Tribe for cleaning up the property.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If there are any fees outstanding that are owed to the Tribe for cleanup, unpaid lease amounts, interest charges or late payment penalties due under the lease, the person shall be placed on the Tribe's debtors' list.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Before a person can re-apply or be approved for any future lease with the Tribe, any all fees owed must be paid before any action can be taken on any future request.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>BIA may, upon reasonable notice from the Tribe, and at BIA's discretion, enforce the provisions of or cancel a lease document.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-34</num>
+      <heading>Notice of lease approval.</heading>
+      <text>After a lease receives final approval from the Menominee Tribal Legislature, the leaseholder will be mailed a notification letter, to his/her last known address, of approval of lease and will have 30 calendar days to sign the lease and beneficiary documents and pay any necessary fees. When the lease is signed, an Accounts Receivable Customer Setup Form will need to be completed by Land Management Staff. If the individual makes no contact, the lease will automatically be presented for cancellation.</text>
+      <para>
+        <num>A.</num>
+        <text>The Tribe will receive the necessary fees in accordance with the established accounts receivable policy.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The acceptable forms of payment are cash, check or money order.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-35</num>
+      <heading>Annual or lease term fee accounting procedure.</heading>
+      <para>
+        <num>A.</num>
+        <text>On an annual basis, the yearly or term lease fee charges will be entered by Finance and provided to Land Management Department with the statement/invoice. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Fees are due and payable on or before the date designated in the lease. Lots assigned throughout the year may be prorated; however, no prorated fee shall be less than $25. If a leaseholder does not pay the annual fee on time, the fee shall double. The fees and penalty shall then be due within 30 days except for in the event a leaseholder is subject to a catastrophic event of a house fire, death or incapacitating medical problems in his/her immediate family. The leaseholder shall have an additional 30 days in which to pay his/her lease fee and will be responsible for paying any late payment penalties.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>In the event a check for a lease fee payment is returned for insufficient funds or closed accounts, a service fee will be charged. If the leaseholder then fails to pay the appropriate lease fee, penalty fees and service fees, in accordance with the Menominee Indian Tribe of Wisconsin Accounting Procedures, the lease will be cancelled.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-36</num>
+      <heading>Notice of fee payments.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Land Management Department will mail the annual or term lease fee notice to each individual leaseholder at the last known address on file. A reminder is attached to each statement/invoice regarding the penalty if the lease fee is not paid on time. A copy of the statement/invoice is kept on file in the Department. <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Land Management shall notify leaseholders by U.S. mail of fee payments due as follows: <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>The first notice shall be mailed to leaseholder's last known address 60 days prior to the lease fees being due.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The second notice shall be mailed to the leaseholder's last known address 30 days prior to the lease fees being due.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The final notice shall be mailed to the leaseholder's last known address 15 days after the due date specified in the lease. In addition, Land Management shall place an ad in the Menominee Nation News as a reminder that lease fees are due. <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-37</num>
+      <heading>Lessee payments.</heading>
+      <para>
+        <num>A.</num>
+        <text>Payments must be postmarked by the last day of the month due regardless of when check is dated.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Lease payments, except by leaseholders eligible for extensions due to a catastrophic event, not received in the Land Management Department by 4:00 p.m. on the last working day of the month the fees are due, shall result in cancellation of the lease. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Failure by the leaseholder to pay the assessed fees shall result in cancellation of the lease as provided for herein unless the leaseholder qualifies for special consideration due to a catastrophic event of a house fire, death or incapacitating medical problems in his/her immediate family.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Land Management Department shall prepare a list of delinquent leaseholders and submit such list for ordinance cancellation by the Menominee Tribal Legislature. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>In the event a leaseholder is subject to a catastrophic event of a house fire, death or incapacitating medical problems in his/her immediate family, the leaseholder shall have an additional 30 days in which to pay his/her lease fee and will be responsible for paying any late payment penalties.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>In the event of the death of the leaseholder, the Department shall allow for a sixty-day extension of lease payment to the estate administrator, personal representative, or any person lawfully designated or court ordered to represent the estate.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>If a lease is cancelled for nonpayment of a lease fee, the leaseholder will be placed on the Menominee Indian Tribe of Wisconsin debtor's list for the amount of unpaid fees and the matter may be turned over to the Menominee Tribal Court for collection.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Before a leaseholder can reapply or be approved for any future lease, the individual must pay any back lease fees and penalties owed to the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-38</num>
+      <heading>Lease files.</heading>
+      <text>A lease document file shall be kept on file with the Department. Each lease file shall contain the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Application, required application documents, and receipt of application fees (if applicable).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A copy of the committee approval and ordinance approval.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An original lease document containing the lease notification letter, the original signed notarized lease and accompanying beneficiary.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A copy of certified survey maps, archaeological clearance, and environmental review documents.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A copy of mortgage documents and uncertified/certified title status reports.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A copy of any correspondence and miscellaneous documents regarding land lease or mortgage documents.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are property of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-39</num>
+      <heading>Recording.</heading>
+      <text>The recording of documents for leases executed pursuant to <cite path="|I|138|I">this article</cite> shall be done as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>The Department will record and provide a certified copy to lessee. Recording of real estate transactions shall take place at the appropriate register of deeds and with the Bureau of Indian Affairs Land Titles and Records Office (LTRO).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>After recording at the appropriate register of deeds, the original document will be kept on file in the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All land into trust documents, Tribal lease documents or leasehold mortgage.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The original documents and request to record at LTRO will be mailed by certified mail. The original recorded document shall be kept on file in the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are the property of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-40</num>
+      <heading>Recording documents for leasehold mortgages.</heading>
+      <text>The recording of documents for leasehold mortgages shall be done as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>The Land Management Department shall maintain a system for the recording of leasehold mortgages and such other documents as the Tribe may designate by law or resolution. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Land Management Department shall endorse, upon any leasehold mortgage or other document received for recording, the date and time of receipt of the leasehold mortgage or other document, the filing number, to be assigned by the Land Management Department, which shall be a unique number for each leasehold mortgage or other document received, and the name of the staff member receiving the leasehold mortgage or document. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon completion of the above endorsements, the Tribal Recording Clerk shall make a true and correct copy of the leasehold mortgage or other document and shall certify the copy.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Land Management Department shall maintain the copy in the records of the recording system and shall return the original of the leasehold mortgage or other document to the person or entity that presented the same for recording. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Tribal Recording Clerk shall also maintain a log of each leasehold mortgage or other document recorded in which there shall be entered:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name(s) of the mortgagor(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name(s) of the mortgagee(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name(s) of the lessor(s), lessee(s), or other designation of each party named in any other documents;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date and time of receipt;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The filing number assigned by the Tribal Recording Clerk; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The name of the Tribal Recording Clerk receiving the leasehold mortgage or document.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The certified copies of the leasehold mortgages and other documents and the log maintained by the Land Management Department shall be made available for public inspection and copying, upon receiving notice of approval of appropriate tribal records release request. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>All documents recorded under this section shall also be recorded with the Bureau of Indian Affairs in accordance with its recording procedures and with the Register of Deeds of the county where located.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-41</num>
+      <heading>Tract index and map.</heading>
+      <text>The Land Management Department shall maintain a filing system and map, which provides for a chronological history of leased tribal land within the boundaries of the Menominee Indian Reservation. Pertinent leases, cancellations, and other necessary documents shall be placed into this filing system.</text>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-42</num>
+      <heading>Environmental review process.</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of the environmental process is to determine if an Environmental Review is necessary. If the MITW-Environmental Services Department (ESD) determines the leasing activity would not affect the natural and/or cultural resources of the Tribe, the leasing activity is exempted from additional requirements of the Environmental Review.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the ESD determines the leasing activity might impact, alter or cause physical disturbance to the natural resources of the Tribe, the lessee must fulfill the requirements of the Environmental Review Process.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-43</num>
+      <heading>Scope of Environmental Review.</heading>
+      <text>The scope of the work will be conducted by the ESD and be based on existing environmental review processes. These processes must determine if a leasing activity impacts, alters or causes physical disturbances to the environment.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-44</num>
+      <heading>Leasing activity Environmental Review.</heading>
+      <text>For any leasing activity, a request will be directed to ESD for consultation on an Environmental Review for the specific land to be leased. ESD will review the notice of request to determine specific information for any relevant documentation to be included as part of a review.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-45</num>
+      <heading>Environmental Review checklist.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Categorical Exclusion Exception Review (CEER) Checklist will be used to determine if the leasing activity would impact, alter or cause physical disturbance to the natural resources of the Tribe and if so, an environmental assessment will need to be completed. If no for all checklist points, the CEER checklist along with attached documentation will complete the environmental process. Please note, various agencies may request additional reporting/Environmental Reviews.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The following actions do not individually or cumulatively have a significant effect on the environment and, therefore, except as otherwise provided in <cite path="|I|138|I">this article</cite> are categorically excluded from the procedures set forth in <cite path="§138-46">§ 138-46</cite>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Approval of the lease for residential use of an existing housing unit, including any associated improvements, access roads, and utilities;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Approval of a lease for five acres or less of contiguous land for construction and residential use of a single structure of one to four dwelling units and any associated improvements, access roads, and utilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Notwithstanding <cite path="§138-45|B">Subsection B</cite>, ESD shall follow the procedures set forth above if it determines that extraordinary circumstances exist under which the residential use of the premises may, individually or collectively, have a significant effect on the environment, including, without limitation, as set forth below:</text>
+        <para>
+          <num>(1)</num>
+          <text>Substantial controversy on environmental grounds;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Presence of cultural resources; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Presence of historical properties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-46</num>
+      <heading>Environmental Review.</heading>
+      <para>
+        <num>A.</num>
+        <text>If it is determined an Environmental Review is required, ESD will conduct the Environmental Review by existing practices for assessing environmental impacts. The list of impacts includes, but is not limited to, threatened and endangered species, wetlands, scenic rivers, refuges, floodplains, rivers placed on nationwide river inventory or prime or unique farmlands. Further assessments include, but are not limited to, site visits and examinations, public comment periods, consultations with Tribal Historic Preservation Officer to ensure NHPA and Tribal Cultural Resource laws have been addressed; threatened and endangered species examination to determine if any impacts to federally or tribally listed species; review of applicable laws, federal and tribal, to include hazardous materials, zoning, invasive species and surface water regulations.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Public comments will be taken through direct contact at public hearings, if determined necessary by ESD, through postings in the Tribal newspaper or website. In addition, electronic or written comments can be directed to the department for consideration. Comments received will be considered by the ESD before the close of the environmental assessment and posted as part of the Environmental Review process.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon completion, an Environmental Assessment Report will be drafted summarizing the checklist items, determinations, recommendations and included consultation correspondence. This review will be the basis for any approvals or denials of leasing activities, with regards to the environmental process.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Unless a categorical exclusion applies, the ESD shall cause the effects on the environment of the intended uses as authorized by the proposed lease to be identified and evaluated as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>If the ESD determines that the uses authorized by the proposed lease will not have a significant effect on the environment, then it shall cause the following to occur in the order set forth below:</text>
+          <para>
+            <num>(a)</num>
+            <text>A finding of no significant impact shall be issued and posted for a minimum of 15 calendar days in a prominent, noticeable place in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If there is a substantial interest in holding a public meeting it shall be held to provide an opportunity for Tribal members to comment, both written and verbal, on the finding of no significant impact.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Comments shall be reviewed and analyzed and a report shall be issued by the ESD responding to relevant and substantive comments, if any, regarding the finding of no significant impact. The report shall be posted for a minimum of 15 calendar days in a prominent, noticeable place in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A final decision on confirming that the uses authorized by the proposed lease are expected to have no significant effect on the environment shall be issued, sent to the Legislature for approval by motion, and posted for 15 calendar days in a prominent, noticeable place in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the ESD determines that the proposed lease will have a significant effect on the environment, then it shall cause the following to occur in the order set forth below:</text>
+          <para>
+            <num>(a)</num>
+            <text>A draft environmental review which identifies and evaluates any significant effect of the environment of uses authorized by the proposed lease shall be issued and posted for a minimum of 30 calendar days in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A meeting shall be held on the draft environmental review to provide an opportunity for Tribal members and residents on the Tribe's land to comment, both written and verbal, on any significant effect on the environment of the uses authorized by the proposed lease;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Comments shall be reviewed and analyzed and a report by the ESD shall be issued responding to relevant and substantive comments, if any, on any significant effect on the environment of the uses authorized by the proposed lease. The report shall be posted for a minimum of 30 days in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A final environmental review describing the conclusions of the ESD report on the issues and evidence gathered under <cite path="§138-46|D.|(2)|(d)">this subsection</cite> shall be issued and posted for a minimum of 30 calendar days in the locations listed in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, <cite path="§177-3">§ 177-3</cite>A(1) through (7).</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-47</num>
+      <heading>Archaeological Review purpose.</heading>
+      <text>To protect and preserve historical properties, archaeological resources, human remains, or other cultural items on the Menominee Indian Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-48</num>
+      <heading>Scope of Archaeological Review.</heading>
+      <text>The lessee, federal agency, or the Tribal Department, or their applicant or authorized consultant, must make a reasonable or good-faith effort to identify any significant historic or cultural resources within the leased area. Prior to any leasing of tribal land, an applicant must submit the project plans for an archaeological review to the Tribal Historic Preservation Officer if no archaeological survey or assessment has been completed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-49</num>
+      <heading>Archaeological procedure.</heading>
+      <text>The following procedure will flow through the THPO, who will coordinate with an archaeologist who will conduct the survey and/or assessment for the activity:</text>
+      <para>
+        <num>A.</num>
+        <text>A written request will be made identifying the project, land description and scope of work to determine if there will be any disturbance or ground disturbing activity to the land or any culturally significant areas.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The archaeologist will gather any existing data and conduct a survey of the submitted land description.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The archaeologist will submit a report along with any recommendations to the THPO based on the survey and any historical data for the land.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>THPO will review submitted archaeology report and identify any needs for buffer zones and any monitoring which may need to take place as part of the land-disturbing activity.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>THPO writes a clearance or denial letter and forwards to Environmental Services Department and to the archaeologist.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-50</num>
+      <heading>Previously undiscovered archaeological resources.</heading>
+      <text>If historic properties, archaeological resources, human remains, or other cultural items not previously reported are encountered during the course of any activity associated with leases of tribal land, all activity in the immediate vicinity of the properties, resource, remains, or items will cease and the lessee will contact the Tribe to determine how to proceed with appropriate disposition. The lessees shall not disclose newly discovered archaeological resources outside of the Department or THPO.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-51</num>
+      <heading>Severability and superseding effect.</heading>
+      <para>
+        <num>A.</num>
+        <text>In the event that any section, or provision, of <cite path="|I|138|I">this article</cite> is held invalid, it is the intent of the Tribal Legislature that the remaining sections or provisions of <cite path="|I|138|I">this article</cite> shall remain in full force and effect. Any portion of <cite path="|I|138|I">this article</cite> found to be inconsistent with the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin shall be held invalid.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To the extent that <cite path="|I|138|I">this article</cite>'s language differs from the Land Use Plan, <cite path="|I|138|I">this article</cite> shall supersede. In the event of a conflict between provisions of <cite path="|I|138|I">this article</cite> and any other chapter or ordinance of the Tribe, the provisions of <cite path="|I|138|I">this article</cite> shall control.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-52</num>
+      <heading>Effective date.</heading>
+      <text>The regulations in <cite path="|I|138|I">this article</cite> shall become effective upon final approval by the Menominee Tribal Legislature and upon approval thereof by the Secretary of the Interior or his duly authorized representative or designee.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-53</num>
+      <heading>No waiver of sovereign immunity.</heading>
+      <text>Nothing in these regulations shall be deemed to waive the sovereign immunity of the Menominee Indian Tribe of Wisconsin or any of its officials, employees or representatives.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="I|138|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Leasehold Mortgage Regulations<fn proof="needed" path="|I|138|II|footnotes|5">5</fn></heading>
+    <section>
+      <prefix>§</prefix>
+      <num>138-54</num>
+      <heading>Title and purpose.</heading>
+      <text><cite path="|I|138|II">This article</cite> shall be titled "Leasehold Mortgage Regulations." The purpose of <cite path="|I|138|II">this article</cite> is to make available to the Menominee Tribe and its members who reside on trust land pursuant to a lease from the Menominee Tribe the same mortgage lending opportunities available to persons who reside on fee land. <cite path="|I|138|II">This article</cite> accomplishes that purpose by setting up procedures for the orderly recording, prioritizing and foreclosure of leasehold mortgages given to secure loans.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-55</num>
+      <heading>Approval of leasehold mortgage.</heading>
+      <para>
+        <num>A.</num>
+        <text>All leasehold mortgages under a lease must be separately authorized by the Legislature, unless the lease authorizes a leasehold mortgage and states the law governing foreclosure.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>After the Secretary approves the regulations in Article I of <cite path="|I|138">this chapter</cite>, all leasehold mortgages which are authorized under Article I of <cite path="|I|138">this chapter</cite> shall be effective without federal approval under 25 U.S.C. § 415 unless the Secretary rescinds approval of this Code and reassumes responsibility for such approval.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-56</num>
+      <heading>Priority over other liens and claims.</heading>
+      <text>A leasehold mortgage recorded in accordance with the recording procedures set forth in <cite path="|I|138|II">this article</cite> shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim excepting a lien or claim arising from a tribal leasehold tax or fee assessed after the recording of the mortgage. Nothing in <cite path="|I|138|II">this article</cite> shall prevent any person or entity from recording a leasehold mortgage in accordance with state law or from filing a leasehold mortgage with the Bureau of Indian Affairs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-57</num>
+      <heading>Recording.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Recording Clerk shall maintain a system for the recording of leasehold mortgages and such other documents as the Tribe may designate by law or resolution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Tribal Recording Clerk shall endorse upon any leasehold mortgage or other document received for recording:</text>
+        <para>
+          <num>(1)</num>
+          <text>The date and time of receipt of the leasehold mortgage or other document.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The filing number, to be assigned by the Tribal Recording Clerk, which shall be a unique number for each leasehold mortgage or other document received.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name of the Tribal Recording Clerk receiving the leasehold mortgage or document.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon completion of the above endorsements, the Tribal Recording Clerk shall make a true and correct copy of the leasehold mortgage or other document and shall certify the copy.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribal Recording Clerk shall maintain the copy in the records of the recording system and shall return the original of the leasehold mortgage or other document to the person or entity that presented the same for recording.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Tribal Recording Clerk shall also maintain a log of each leasehold mortgage or other document recorded in which should be entered:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name(s) of the mortgagor(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name(s) of the mortgagee(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name(s) of the lessor(s), lessee(s), or other designation of each party named in any other documents;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date and time of receipt;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The filing number assigned by the Tribal Recording Clerk; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The name of the Tribal Recording Clerk receiving the leasehold mortgage or document.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The certified copies of the leasehold mortgages and other documents and the log maintained by the Tribal Recording Clerk shall be made available for public inspection and copying.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>All documents recorded under this section shall also be recorded with the Bureau of Indian Affairs in accordance with its recording procedures and with the register of deeds of the county where the land is located.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-58</num>
+      <heading>Leasehold mortgage foreclosure proceedings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon the default of the mortgagor(s) under a leasehold mortgage, the mortgagee or its designee may commence a leasehold mortgage foreclosure proceeding in the Tribal Court by filing:</text>
+        <para>
+          <num>(1)</num>
+          <text>A verified complaint:</text>
+          <para>
+            <num>(a)</num>
+            <text>Naming the mortgagor(s) and each person or entity claiming through the mortgage, including each subordinate lienholder (except the Tribe with respect to a claim for a tribal leasehold tax or fee), as a defendant;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Describing the property;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Stating the facts concerning the execution of the lease and the leasehold mortgage, the facts concerning the recording of the leasehold mortgage, the facts concerning the alleged default(s) of the mortgagor(s), and such other facts as may be necessary to constitute a cause of action;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Having appended as exhibits true and correct copies of each promissory note, lease, leasehold mortgage, or assignment thereof relating to the property; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Alleging that all relevant requirements and conditions of applicable federal law as well as the provisions of the lease have been complied with.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A summons, issued as in other cases, requiring the mortgagor(s) and each other defendant to appear for a trial upon the complaint on a date and time specified in the summons.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The laws of the Tribe governing service of process and all other matters relating to the conduct of Tribal Court proceedings shall apply to any leasehold mortgage foreclosure proceeding pursuant to <cite path="|I|138|II">this article</cite>, unless otherwise specified herein.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Prior to the entry of a judgment of foreclosure, any mortgagor or any subordinate lienholder may cure the default(s) under the leasehold mortgage. Any subordinate lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such subordinate lienholder to cure the default(s), plus interest on such amounts at the rate stated in the note for the leasehold mortgage.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If the alleged default(s) has not been cured and the mortgagee or its designee has proven the allegations contained in its complaint, the Tribal Court shall enter judgment:</text>
+        <para>
+          <num>(1)</num>
+          <text>Foreclosing the interest in the lease of the mortgagor(s) and each other defendant named in the complaint upon whom proper and timely service has been made, including each such subordinate lienholder; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Assigning such interest in the lease to the mortgagee if the mortgagee is any of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Menominee Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A Menominee tribal member.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>An agency of the United States government.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fixing the amount of mortgage debt then due and also the amount of each installment thereafter to become due and the time when it will become due.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If the mortgagee is not one of the entities or persons listed in <cite path="§138-58|D|(2)">Subsection D(2)</cite>, the interest in the lease shall be assigned to a receiver appointed by the Court. The only person or entity eligible to be a receiver is the Tribe. All contracts for services entered into by the receiver shall be satisfied solely from the proceeds from the sale or rental of the leased premises or shall be advanced by the mortgagee. The Court shall discharge the receiver when the leasehold interest is sold and the proceeds are distributed according to <cite path="|I|138|II">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-59</num>
+      <heading>Sale of leasehold interest.</heading>
+      <para>
+        <num>A.</num>
+        <text>A mortgagee or mortgagee's designee who has been granted a mortgagor's interest in a lease pursuant to <cite path="|I|138|II">this article</cite> shall not commence any eviction proceeding under <cite path="|I|138|II">this article</cite> or offer for sale said leasehold interest until six months after judgment has been entered except as provided in Subsections B, C, D and E below.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A mortgagee or mortgagee designee may commence an eviction proceeding under <cite path="|I|138|II">this article</cite> and offer for sale a leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> above three months after judgment has been entered if as part of said judgment a mortgagee or mortgagee's designee has waived the right to a deficiency judgment against the mortgagor.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A mortgagee or mortgagee designee may offer for sale a leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> above at any time after judgment has been entered if, upon motion to the Tribal Court, the Tribal Court determines that said premises have been abandoned.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A mortgagee or mortgagee designee may offer for sale a leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> above at any time after judgment has been entered if all parties stipulate to said sale.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A mortgagee or mortgagee designee may commence an eviction proceeding under <cite path="|I|138|II">this article</cite> and offer for sale a leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> above at any time after judgment has been entered if, upon motion to the Tribal Court, the Tribal Court determines that waste is being committed on said premises.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Notice of any sale of a leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> must be published at least five days in advance in the Menominee Tribal News and the Shawano Evening Leader. The only persons eligible to purchase said leasehold are enrolled members of the Menominee Indian Tribe or the Menominee Indian Tribe itself. This provision shall be included in any notice of sale.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>No sale by a mortgagee or mortgagee's designee of the leasehold interest acquired pursuant to <cite path="|I|138|II">this article</cite> shall be effective until confirmed by Tribal Court. A mortgagee or mortgagee's designee seeking confirmation of a leasehold sale pursuant to <cite path="|I|138|II">this article</cite> shall submit to Tribal Court, with a copy to all defendants, an application for confirmation containing the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Proof of compliance with the requirements of <cite path="§138-59|F">Subsection F</cite> above.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The sale price received for said leasehold interest.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The amount of the judgment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Notice of whether a deficiency judgment shall be sought and in what amount.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Name of the proposed purchaser.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Tribal Court shall set a date for a hearing on the application for confirmation of a sale. At said hearing, the Tribal Court shall have the authority to confirm said sale and determine the rights of all parties as to any surplus or deficiency. The Tribal Court, in determining whether any deficiency exists, shall determine the fair value of the premises and shall credit the fair value against judgment owed. There shall be no presumption that the premises were sold for its fair value.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>If a leasehold interest is transferred to a receiver pursuant to <cite path="|I|138|II">this article</cite>, a mortgagee, subject to other terms of <cite path="|I|138|II">this article</cite> and the terms of the mortgage, shall enjoy the following rights:</text>
+        <para>
+          <num>(1)</num>
+          <text>The receiver shall follow the directions of the mortgagee in setting the terms of, and conducting, a public or private sale and the acceptance of any offer to buy the leasehold interest, subject to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>All assignments shall be in form and substance satisfactory to the mortgagee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All assignees shall be bound by the terms of the lease.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The receiver shall obtain the consent of the Secretary if such consent is required by law and has not been given.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If no offer is accepted at the public sale conducted pursuant to <cite path="§138-59|F">Subsection F of this section</cite>, the receiver may sell the leasehold interest at private sale.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The receiver shall follow the directions of the mortgagee in renting the leased premises, subject to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Preference shall be given to financially qualified members of the Tribe and the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Lease terms shall not exceed one year, and the preference listed in <cite path="§138-59|I|(2)(a)">Subsection I(2)(a)</cite> above shall apply upon expiration of the lease term.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Leases entered into pursuant to this section are not and shall not be construed to grant any interest in tribal land to the lessee.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All rental proceeds shall be paid to the mortgagee and shall be applied to amounts outstanding under the note or judgment.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The receiver shall obtain the consent of the Secretary if such consent is required by law and has not been given.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-60</num>
+      <heading>Redemption.</heading>
+      <para>
+        <num>A.</num>
+        <text>At any time during the redemption period, as defined below, the mortgagor(s), the mortgagor's heirs, personal representatives or assigns may redeem the mortgaged premises at any time before the sale by paying to the Clerk of Tribal Court or to the plaintiff the amount of such judgment, interest thereon and costs, and any costs subsequent to such judgment, and any fees paid by the plaintiff subsequent to the judgment upon the mortgaged premises. On payment to the Clerk or on filing the receipt of the plaintiff or the plaintiff's assigns for such payment in the office of Tribal Clerk of Courts the Tribal Court shall discharge said judgment.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Redemption period" shall mean the time between the entering of judgment of foreclosure pursuant to <cite path="|I|138|II">this article</cite> and the earliest date a mortgagee or mortgagee's designee may offer for sale the leasehold interest pursuant to <cite path="|I|138|II">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-61</num>
+      <heading>Eviction procedures.</heading>
+      <para>
+        <num>A.</num>
+        <text>These eviction procedures shall apply only to tenants with lease terms of 25 years or more and who have granted a mortgage upon said leasehold.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any mortgagor remaining in occupancy of property foreclosed upon pursuant to <cite path="|I|138|II">this article</cite> above after the end of the redemption period, as defined above, shall be guilty of unlawful detainer.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>At any time after the end of the redemption period a mortgagee or mortgagee's designee may file with the court a motion requesting a writ of restitution. Said motion shall be served upon the person or person(s) occupying the property foreclosed upon and shall contain the facts upon which he or she seeks to recover as well as a description of the pertinent property.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Court shall schedule a hearing not less than five nor more than 10 days after the respondent receives notice. If the Court determines that the mortgagor is guilty of unlawful detainer it shall issue a writ of restitution. Upon issuance of said writ, the Tribal Court shall have the authority to enter a judgment for any damages caused by the respondents to the property other than ordinary wear and tear.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Upon issuance of a writ of restitution by the Tribal Court, tribal law enforcement officers shall enforce the writ of restitution by evicting the respondents and their property from the premises, which is unlawfully occupied. Said writ shall be enforced not later than 10 days after its issuance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-62</num>
+      <heading>Tri-party agreement.</heading>
+      <text>In order to be eligible for certain loan programs, the Menominee Indian Tribe may enter into tri-party agreements between the Tribe, Fannie Mae and lending institutions. The terms of any such tri-party agreement, which is listed below, shall be incorporated into <cite path="|I|138|II">this article</cite> by reference and the terms of those agreements are enforceable against the Tribe in Menominee Tribal Court under Article XVIII, Sovereign</text>
+      <text>Immunity of the Constitution and Bylaws of the Tribe. The Tri-party agreement between Menominee Indian Tribe, Fannie Mae and Associated Mortgage, Inc., entered into on or about August 30, 2000, is on file at the office of the Administrative Manager.</text>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>5</num>
+        <text>Editor's Note: Previously Art. III, Leasehold Mortgage Regulations and Eviction Procedures, adopted 7-1-1999 by Ord. No. 99-10, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. III, Leasehold Mortgage Regulations and Eviction Procedures, did not change and became Art. VII, Leasehold Mortgage Regulations, in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|II">this article</cite> except for renumbering.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="I|138|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Tribal Mortgage Lending<fn proof="needed" path="|I|138|III|footnotes|6">6</fn></heading>
+    <section>
+      <prefix>§</prefix>
+      <num>138-63</num>
+      <heading>Purpose.</heading>
+      <text>The Menominee Tribe enacts this Tribal Mortgage Lending Ordinance ("<cite path="|I|138|III">this article</cite>") for the purpose of encouraging home ownership on trust or restricted lands within the Tribe's jurisdiction by members of the Tribe. <cite path="|I|138|III">This article</cite> is intended, and shall be construed, to provide prompt and effective remedies to lenders upon default of any loan secured by a mortgage on a Tribal member's interest in a lease on trust or restricted lands while at the same time protecting the rights of members by providing due process and permitting the recovery of the member's equity and protecting the sovereignty of the Tribe by assuring the Tribe's right to prevent alienation of trust lands to anyone other than a member of the Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-64</num>
+      <heading>Scope.</heading>
+      <text>Article III shall apply to the Wisconsin Housing and Economic Development Authority (WHEDA) Home Mortgage Program, Home Plus Program and such other WHEDA programs as may be approved by tribal law, resolution or ordinance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-65</num>
+      <heading>Priority recording of mortgages and liens.</heading>
+      <para>
+        <num>A.</num>
+        <text>Recording of mortgages by Recording Clerk.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Recording Clerk shall record each mortgage or other document in a log, which shall contain, at a minimum, the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>The name(s) of the mortgagor of each mortgage, identified as such;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The name(s) of the mortgagee of each mortgage, identified as such;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The name(s) of the grantor(s), grantee(s) or other designation of each party named in any other documents received for recordation;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The date and time of the receipt;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The filing number to be assigned by the Recording Clerk, which shall be a unique number for each mortgage or other document received for filing; and</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The name of the Recording Clerk or designee receiving the mortgage or document.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Recording Clerk shall endorse the following information from the log upon any mortgage or other document received for recording:</text>
+          <para>
+            <num>(a)</num>
+            <text>The date and time of receipt of the mortgage or other document;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The filing number assigned by the Recording Clerk; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The name of the Recording Clerk or designee receiving the mortgage or document.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Recording Clerk shall make a true and correct copy of the endorsed mortgage or other document and shall certify the copy.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Post-recording procedures.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Recording Clerk shall maintain a public tract index where copies or images of all certified mortgages or other documents recorded against a leased premises are located and may be retrieved by a search based on the legal description of the leased premises.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Recording Clerk shall send the original mortgage for filing with the Land Titles and Records Office of the BIA in accordance with Title 25 of the Code of Federal Regulations and shall obtain approval of the Secretary of the mortgage or other document if required by federal law and such approval has not be granted in the lease or mortgage.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If, following recording by BIA, the original mortgage is returned to the Recording Clerk, the Recording Clerk shall retain a copy of the endorsed, BIA-recorded mortgage or other document and transmit the original to the mortgagee or person who delivered the document for recording to the Recording Clerk.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Copies of the certified mortgage and other documents and the log shall be made available for public inspection and copying. The Recording Clerk shall establish rules for copying and may assess reasonable charges therefor.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Upon the mortgagee's commencement of a foreclosure action or application for the appointment of a receiver in connection with an assignment of a leasehold interest in lieu of foreclosure, the Recording Clerk shall not accept any other mortgage or other document for recording until the leasehold interest has been transferred according to the terms of <cite path="|I|138|III">this article</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-66</num>
+      <heading>Priority.</heading>
+      <para>
+        <num>A.</num>
+        <text>The priority of the lien of a mortgage or other document shall be determined by the date and time it was received by the Recording Clerk for recording (unless the mortgage or other document expressly states that it is made subordinate to other liens). That priority shall be superior to all subordinate liens other than liens for tribal taxes.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notwithstanding the date and time endorsed on the mortgage, the log shall definitively establish the date and time a mortgage or other document is received for recording.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The validity of a mortgage or other document shall be determined by federal and tribal law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-67</num>
+      <heading>Assignment of leasehold interest in lieu of foreclosure.</heading>
+      <text>At any time after a default, the mortgagor may enter into a written assignment of leasehold interest in lieu of foreclosure, subject to the following provisions:</text>
+      <para>
+        <num>A.</num>
+        <text>Thirty days shall have expired after the mortgagee has given the Tribe written notice of the lessor's option and the Tribe, as lessor, has not exercised the same.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The assignment shall contain the mortgagor's warranty that the mortgagor, in good faith, believes that the value of the leasehold interest is equal to or less than the amount currently due, or to become due after a foreclosure, under the mortgage and the mortgagee shall release the mortgagor from the obligation to repay the note. The mortgagee may petition the Tribal Court to appoint a receiver, who shall be the Tribe unless otherwise agreed to by the mortgagee and the Tribe, to receive title to the leasehold interest and to liquidate it in accordance with the provisions of <cite path="|I|138|III">this article</cite>. Such petition shall include a copy of the assignment and shall be served on the mortgagor and the Tribe. The order appointing the receiver shall assign the leasehold interest to the receiver, with a right to sell the leasehold interest at private sale or rent the leased premises subject to the same conditions as provided in <cite path="|I|138|III">this article</cite> for a foreclosure.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-68</num>
+      <heading>Foreclosure.</heading>
+      <para>
+        <num>A.</num>
+        <text>Satisfactions of conditions prior to commencing foreclosure.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mortgagee shall provide all written notices and take such other actions as may be required by the note and mortgage prior to commencing foreclosure.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lessor's option.</text>
+          <para>
+            <num>(a)</num>
+            <text>Upon the expiration of any right to cure provided in the mortgage, the mortgagee shall provide a written notice to the Tribe, as lessor, that:</text>
+            <para>
+              <num>[1]</num>
+              <text>Identifies the lessee, the address of the leased premises, and the amount due under the note and mortgage (including principal, interest, costs and fees, including reasonable attorney fees); and</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Offers to assign the lender's interest in the note, mortgage and any other documents, judgments or orders to the lessor upon payment in full of the outstanding obligations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Lender shall not accept any assignment of leasehold interest in lieu of foreclosure or commence a foreclosure action until 30 days after the delivery of such notice.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Upon receipt of such notice, the Tribe may, but is under no obligation, pay to the lender the amounts due under the note and mortgage. The Tribe may exercise the lessor's option at any time prior to the sale or transfer of the leasehold interest to a member or a tribal housing entity under <cite path="|I|138|III">this article</cite>'s foreclosure provisions. Upon payment of such amounts, the lender shall take all such action, and execute all such documents, as may be necessary to immediately transfer all of its interests to the lessor. Thereafter, the Tribe shall have the same rights as the lender hereunder. No merger of title of the Tribe shall occur until the note is paid in full.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Complaint. Upon fulfillment of the conditions to commencing a foreclosure, the mortgagee may commence a foreclosure action by filing a verified complaint, which shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the mortgagor and each person or entity claiming an interest in the leasehold interest, including each subordinate lienholder (except for the Tribe with respect to a claim for tribal taxes), as a defendant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the leased premises; a concise statement of the facts concerning the execution of the mortgage and the lease, if applicable; the facts concerning the recording of the mortgage; the facts concerning the alleged default(s) of the mortgagor; and such other facts as may be necessary to constitute a cause of action;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>True and correct copies of each note, mortgage, deed of trust or other recorded real property security instrument, lease (if applicable) and any assignment of any of these documents; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any applicable allegations concerning compliance with any relevant requirements and conditions prescribed in:</text>
+          <para>
+            <num>(a)</num>
+            <text>Federal statutes and regulations;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Tribal codes, ordinances and regulations; and/or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Provisions of the note, mortgage and the lease.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Service of process. A copy of the summons and complaint shall be served on all defendants and the Tribe in accordance with Menominee Tribal Court Rules of Civil Procedure.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Receiver; appointment, duties and responsibilities.</text>
+        <para>
+          <num>(1)</num>
+          <text>In addition to appointing a receiver upon petition of the mortgagee in connection with an assignment of leasehold interest in lieu of foreclosure, the Tribal Court shall appoint a receiver upon commencement of a foreclosure action and shall have the authority to prevent waste from occurring on the lease premises during the pendency of the proceeding.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise agreed by the Tribe pursuant to a memorandum of understanding or other agreement with a mortgagee, the receiver shall be the Tribe. The receiver shall have the authority to hire such professionals as directed by the mortgagee to manage and secure the leased premises.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The receiver shall be an officer of the Court and shall be immune from all liability except that arising from its own negligence or willful acts. All contracts for services entered into by the receiver shall be satisfied solely from the proceeds from the sale or rental of the leased premises or shall be advanced by the mortgagee.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Tribal Court shall discharge the receiver when the leased premises are sold and the proceeds are distributed according to <cite path="|I|138|III">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Judgment and remedy. A foreclosure action shall be heard and decided in a prompt and reasonable time period not to exceed 60 days from the date of service of the complaint on the defendants. If the mortgagor has no defense to the foreclosure and has not reinstated the mortgage (if such right is allowed under the mortgage) and the Tribal Court finds for the plaintiff, the Tribal Court shall enter judgment:</text>
+        <para>
+          <num>(1)</num>
+          <text>Foreclosing the interest of the mortgagor, other defendants and anyone else acquiring an interest in the leased premises after the commencement of the foreclosure action.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Assigning title to the leasehold interest to the receiver, with authority to sell the leasehold interest or rent the leased premises.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Granting a writ of restitution to the receiver to immediately remove the defendants and all other occupants and their property from the leased premises.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Ordering a public sale and advertising the terms of such sale in a newspaper or other communication distributed by the Tribe to its members (if such exists) and posting the notice on the leased premises and in the Tribal Headquarters.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Providing for the distribution of any funds in excess of the amounts due to the mortgagee to the subordinate lienholders (if any) in order of lien priority and then to the mortgagor.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Requiring that all sales of the leasehold interest be made only to a member, the Tribe, or the Tribal Housing.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Providing that the leased premises may be rented prior to a sale, with preference being given to financially qualified members, the Tribe and the Tribal Housing.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Providing that if no financially qualified members, the Tribe and the Tribal Housing rents the leased premises within 60 days of its being offered for rental, for initial and renewal periods not exceeding one year, with preference to re-rent the leased premises being granted to financially qualified members, the Tribe or a Tribal Housing upon the expiration of each renewal period.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Awarding monetary damages to the plaintiff for damages caused to the leased premises in excess of ordinary wear and tear.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Rights of the mortgagee. Subject to <cite path="|I|138|III">this article</cite> and the terms of the mortgage, a mortgagee has the following rights in connection with an assignment of leasehold interest in lieu of foreclosure or a foreclosure judgment:</text>
+        <para>
+          <num>(1)</num>
+          <text>The receiver shall follow the directions of the mortgagee in setting the terms of, and conducting, a public or private sale and the acceptance of any offer to buy the property, subject to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>All assignments shall be in form and substance satisfactory to the mortgagee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All assignees shall be bound by the terms of the lease.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The receiver shall obtain the consent of the Secretary if such consent is required by law and has not been given.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The mortgagee need not accept any offer at the public sale other than a bona fide cash offer, to be paid within 45 days of the public sale, in an amount equal to or greater than the amount due on the judgment, plus all accrued interest and expenses to date of sale.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If no offer is accepted at the public sale, the receiver may sell the leasehold interest at private sale; the mortgagor shall have no interest in the proceeds, and all proceeds, including any proceeds in excess of the amount due under the judgment, shall be paid to the mortgagee.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The receiver shall follow the directions of the mortgagee in renting the leased premises, subject to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>All rental agreements shall be in a form and substance satisfactory to the mortgagee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All renters shall be provided with a copy of the lease and shall agree, in writing, to be bound by the terms thereof.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All rental proceeds shall be paid to the mortgagee and shall be applied to the amount outstanding under the note or judgment. The receiver shall obtain the consent of the Secretary if such consent is required by law and has not been given.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Enforcement of writ of restitution. Upon issuance of a writ of restitution, tribal law enforcement officers shall enforce it by removing the mortgagor and any other persons occupying the leased premises and their property. The writ of restitution shall be enforced no later than 45 days after a judgment of foreclosure has been entered or order appointing receiver has been entered.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>No merger of estates. There shall be no merger of estates by reason of the execution of a lease or a mortgage or the assignment or assumption of the same, including an assignment adjudged by the Tribal Court, or by operation of law, except as such merger may arise upon satisfaction of the mortgage.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Lessor's right to notice and right to intervene.</text>
+        <para>
+          <num>(1)</num>
+          <text>In any mortgage foreclosure proceeding in which the Tribe is not named as a defendant, a copy of the summons and complaint shall be served on the Tribe in accordance with the Court rules relating to service of process or, alternatively, by certified mail, return receipt requested, within five days after the issuance of the summons.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe may petition the Tribal Court to intervene in any foreclosure proceeding under <cite path="|I|138|III">this article</cite>. Neither the filing of a petition for intervention by the Tribe nor the granting of such petition by the Tribal Court shall operate as a waiver of the sovereign immunity of the Tribe, except as may be expressly authorized by the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Appeals. Appeals from adverse judgments under <cite path="|I|138|III">this article</cite> may be pursued as provided under the Menominee Tribal Court Rules of Appellate Procedure.</text>
+      </para>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>6</num>
+        <text>Editor's Note: Previously Art. IV, Tribal Mortgage Lending, adopted 10-19-2006 by Ord. No. 06-28, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. IV, Tribal Mortgage Lending, did not change and became Art. VIII in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|III">this article</cite> except for renumbering.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="I|138|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Leasehold Mortgage FHA Section 248 Eviction Procedures<fn proof="needed" path="|I|138|IV|footnotes|7">7</fn></heading>
+    <section>
+      <prefix>§</prefix>
+      <num>138-69</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|138|IV">this article</cite> is to assist in making available to tribal members the benefits of the FHA Section 248 Program, under which an Indian family may purchase a home located on leased trust land on the Reservation under an FHA insured loan.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-70</num>
+      <heading>Evictions; jurisdiction in eviction procedures.</heading>
+      <text>The Tribe shall follow eviction procedures in conformity with those used by the Menominee Tribal Department of Housing for evictions from homes and leased land under the FHA Section 248 Program. The Menominee Tribal Court shall have jurisdiction in eviction procedures.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-71</num>
+      <heading>Access to property.</heading>
+      <text>The Tribe hereby grants its permission to agents or employees of the United States Department of Housing and Urban Development to enter trust land on the Reservation for the purpose of carrying out their responsibilities under the FHA Section 248 Program, including the serving of process or posting of property in case of eviction.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-72</num>
+      <heading>Foreclosure.</heading>
+      <text>The Menominee Tribal Court shall exercise jurisdiction over foreclosures. A mortgage insured under the FHA Section 248 Program shall be and constitute the first lien in priority of the home.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-73</num>
+      <heading>Lease form.</heading>
+      <text>Tribal trust land shall be leased for purpose of the FHA Section 248 Program using the lease form prescribed by the Secretary of Housing and Urban Development pursuant to 24 CFR 203.43h(c), 1992 edition, for use in connection with the FHA Section 248 Program.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-74</num>
+      <heading>Abrogation and greater restrictions.</heading>
+      <text>Where <cite path="|I|138|IV">this article</cite> imposes greater restrictions than those contained in other ordinances, the provision of <cite path="|I|138|IV">this article</cite> shall govern.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-75</num>
+      <heading>Interpretation; sovereign immunity.</heading>
+      <text>In their interpretation and application, the provisions of <cite path="|I|138|IV">this article</cite> shall be held to be minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other Tribal power or authority. The Tribe's sovereign immunity is not waived or affected hereby.</text>
+      <text>
+        <strong>3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|IV">this article</cite> except for renumbering.</strong>
+      </text>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>7</num>
+        <text>Editor's Note: Previously Art. I, Eviction Procedures, adopted 6-25-1992 by Ord. No. 92-09, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. I, Eviction Procedures, did not change and became Art. IX, Leasehold Mortgage FHA Section 248 Eviction Procedures in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="I|138|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Veterans Leasehold Mortgage<fn proof="needed" path="|I|138|V|footnotes|8">8</fn></heading>
+    <section>
+      <prefix>§</prefix>
+      <num>138-76</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|138|V">this article</cite> is to avail the Menominee Tribe and its members of financing for the construction and/or purchase of family residences on trust land within the jurisdiction of the Menominee Indian Tribe by prescribing procedures for the recording, priority and foreclosure of leasehold mortgages given to secure loans made by the Department of Veterans Affairs under the Native American Veteran Direct Loan Program authorized under 38 U.S.C. § 3761 et seq.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-77</num>
+      <heading>Definitions.</heading>
+      <text>For purposes of <cite path="|I|138|V">this article</cite> only, the following terms shall have the meanings indicated:</text>
+      <text>LEASEHOLD MORTGAGE — The mortgage of a lease of trust property given to secure a loan made under the VA Native American Direct Loan Program and 38 U.S.C. § 3761 et seq.</text>
+      <text>LEASEHOLD MORTGAGE FORECLOSURE PROCEEDING — A proceeding in the Tribal Court:</text>
+      <para>
+        <num>A.</num>
+        <text>To foreclose the interest of the mortgagor(s), and each person or entity claiming through the mortgagor(s), in a lease for which a mortgage has been given under the VA Native American Direct Loan Program and 38 U.S.C. § 3761 et seq.; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To assign such lease to the Secretary or the Secretary's assignee.</text>
+        <text>SECRETARY — The Secretary of the United States Department of Veterans Affairs (VA) or designee.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-78</num>
+      <heading>Priority over liens or other claims.</heading>
+      <text>A leasehold mortgage recorded in accordance with the recording procedures set forth in <cite path="|I|138|V">this article</cite> shall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim excepting a lien or claim arising from a tribal leasehold tax assessed after the recording of the mortgage. Nothing in <cite path="|I|138|V">this article</cite> shall prevent any person or entity from recording a leasehold mortgage in accordance with state law or from filing a leasehold mortgage with the Bureau of Indian Affairs.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-79</num>
+      <heading>Recording.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Recording Clerk shall maintain in the Tribal Court a system for the recording of leasehold mortgages and such other documents as the Tribe may designate by law or resolution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Endorsement.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Recording Clerk shall endorse upon any leasehold mortgage or other document received for recording:</text>
+          <para>
+            <num>(a)</num>
+            <text>The date and time of receipt of the leasehold mortgage or other document;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The filing number, to be assigned by the Tribal Recording Clerk, which shall be a unique number for each leasehold mortgage or other document received; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The name of the Tribal Recording Clerk receiving the leasehold mortgage or document.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon completion of the above endorsements, the Tribal Recording Clerk shall make a true and correct copy of the leasehold mortgage or other document and shall certify the copy.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Recording Clerk shall maintain the copy in the records of the recording system and shall return the original of the leasehold mortgage or other document to the person or entity that presented the same for recording.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Tribal Recording Clerk shall also maintain a log of each leasehold mortgage or other document recorded in which should be entered:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name(s) of the mortgagor(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name(s) of the mortgagee(s) of each leasehold mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The name(s) of the grantor(s), grantee(s), or other designation of each party named in any other documents;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date and time of receipt;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The filing number assigned by the Tribal Recording Clerk; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The name of the Tribal Recording Clerk receiving the leasehold mortgage or document.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The certified copies of the leasehold mortgages and other documents and the log maintained by the Tribal Recording Clerk shall be made available for public inspection and copying.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-80</num>
+      <heading>Leasehold mortgage foreclosure proceedings.</heading>
+      <text>Upon the default of the mortgagor(s) under a leasehold mortgage, the Secretary may commence a leasehold mortgage foreclosure proceeding in the Tribal Court by filing:</text>
+      <para>
+        <num>A.</num>
+        <text>A verified complaint:</text>
+        <para>
+          <num>(1)</num>
+          <text>Naming the mortgagor(s) and each person or entity claiming through the mortgage, including each subordinate lienholder (except the Tribe with respect to a claim for a tribal leasehold tax), as a defendant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Describing the property;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Stating the facts concerning the execution of the lease and the leasehold mortgage; the facts concerning the recording of the leasehold mortgage; the facts concerning the alleged default(s) of the mortgagor(s); and such other facts as may be necessary to constitute a cause of action;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Having appended as exhibits true and correct copies of each promissory note, lease, leasehold mortgage, or assignment thereof relating to the property; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Including an allegation that all relevant requirements and conditions prescribed in 38 U.S.C. § 3761 et seq., the regulations promulgated thereunder by the Secretary, and the provisions of the lease have been complied with by the Secretary.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A summons, issued as in other cases, requiring the mortgagor(s) and each other defendant to appear for a trial upon the complaint on a date and time specified in the summons.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-81</num>
+      <heading>Service of process and procedures.</heading>
+      <text>The laws of the Tribe governing service of process and all other matters relating to the conduct of Tribal Court proceedings shall apply to any leasehold mortgage foreclosure proceeding pursuant to <cite path="|I|138|V">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-82</num>
+      <heading>Cure of default by subordinate lienholder.</heading>
+      <text>Prior to the entry of a judgment of foreclosure, any mortgagor or any subordinate lienholder may cure the default(s) under the leasehold mortgage. Any subordinate lienholder who has cured a default shall thereafter have included in its lien the amount of all payments made by such subordinate lienholder to cure the default(s), plus interest on such amounts at the rate stated in the note for the leasehold mortgage.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-83</num>
+      <heading>Power of Tribal Court.</heading>
+      <text>If the alleged default(s) has not been cured, and if the Tribal Court should find for the Secretary, the Tribal Court shall enter judgment:</text>
+      <para>
+        <num>A.</num>
+        <text>Foreclosing the interest in the lease of the mortgagor(s) and each other defendant named in the complaint upon whom proper and timely service has been made, including each such subordinate lienholder; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Assigning such lease to the Secretary or the Secretary's assignee.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>138-84</num>
+      <heading>Eviction procedures.</heading>
+      <para>
+        <num>A.</num>
+        <text>Jurisdiction. The provisions of this section shall apply to all persons and property subject to the governing authority of the Tribe as established by the Tribal Constitution and Bylaws.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Unlawful detainer. A tenant or other occupier of land shall be guilty of unlawful detainer if such person shall continue in occupancy of real property under any of the following situations:</text>
+        <para>
+          <num>(1)</num>
+          <text>Without the requirement of any notice:</text>
+          <para>
+            <num>(a)</num>
+            <text>After the expiration of the term of the lease or other agreement;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If such person has entered onto or remains on the real property of another without the permission of the owner and without having any substantial claim of a lease or title of the property;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>After the Indian Housing Authority or other public housing authority has terminated such person's tenancy pursuant to procedures providing such person a hearing before the housing authority involved; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>After the interest of such person in a lease has been foreclosed in a leasehold mortgage foreclosure proceeding in the Tribal Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After having received 30 days' notice, the tenant or occupier shall remain in possession of the property contrary to the terms of the notice as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>When such person has received notice:</text>
+            <para>
+              <num>[1]</num>
+              <text>That he or she is in default in the payment of rent; and</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Requiring him or her to either pay the rent or surrender possession of the occupied property, and such person has remained in possession after receipt of such notice without either surrendering possession of the property or paying the rent;</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When the lease of the property is for an indefinite time, with rent to be paid monthly or by some other period, and the lessor has given notice of termination of the tenancy at least 30 days prior to the end of such month or period;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>When such person shall continue to fail to keep or perform any conditions or covenant of the lease or agreement under which the property is held after he has been given notice to surrender the property; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>When such person continues to commit or to permit waste upon or maintain a nuisance upon the occupied property after having been given notice to either cease such waste or maintenance of nuisance or to surrender the property.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Procedures for service of notice.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Notice shall be served by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Delivering a copy personally to the tenant or occupier or to any adult members of his or her family residing on the premises; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Posting said notice in a conspicuous place near the entrance to said premises and by sending an additional copy to the tenant or occupier by certified mail, return receipt requested, properly addressed, postage prepaid.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof of service by either of the above methods may be made by affidavit of any adult person stating that he or she has complied fully with the requirements of either of these two methods of service.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Complaint and summons. The owner of real property or lessor or Secretary shall commence an action for unlawful detainer by filing with the Court, in writing, the following documents:</text>
+        <para>
+          <num>(1)</num>
+          <text>A complaint, signed by the owner, lessor, the Secretary, and agent, or attorney:</text>
+          <para>
+            <num>(a)</num>
+            <text>Stating the facts on which he or she seeks to recover;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Describing the property so that it can be identified with reasonable certainty; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Stating any claim for damages or compensation due from the persons to be evicted.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A summons, issued as in other cases, requiring the defendants to appear for trial upon the complaint on a date and time specified in the summons. The trial date specified in the summons shall be neither less than six nor more than 30 days from the date of service of the summons and complaint. The summons must notify the defendants that judgment will be taken against them in accordance with the terms of the complaint unless they file with the Court an answer and appear for trial at the time, date and place specified in the summons.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Service of summons and complaint.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Court shall enter a writ of restitution if:</text>
+          <para>
+            <num>(a)</num>
+            <text>Notice of suit and trial is given by service of summons and complaint in accordance with the procedures provided in <cite path="|I|138|V">this article</cite>; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Court shall find that the occupier of the real property is guilty of an act of unlawful detainer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon issuance of a writ of restitution, the Tribal Court shall have the authority to enter against the defendants a judgment for the following: back rent; unpaid utilities; charges due the Tribe, Indian Housing Authority, or landowner under any lease or occupancy agreement (not including a leasehold mortgage); and for damages caused by the defendants to the property other than ordinary wear and tear. The Tribal Court shall have the authority to award to the prevailing party his costs and reasonable attorney fees in bringing suit.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Continuances in cases involving the secretary. Except by agreement of all parties, there shall be no continuances in the cases involving the Secretary that will interfere with the requirement that the writ of restitution in a case involving the Secretary be enforced not later than 60 days from the date of service of the summons and complaint.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Enforcement. Upon issuance of a writ of restitution by the Tribal Court, tribal law enforcement officers shall enforce the writ of restitution by evicting the defendants and their property from the premises, which are unlawfully occupied. In all cases involving the Secretary, the writ of restitution shall be enforced not later than 60 days after the date of service of the summons and complaint.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Alternative remedies. In those cases, in which the persons or property is subject to the jurisdiction of the courts of the State of Wisconsin or the United States, the remedies and procedures provided by <cite path="|I|138|V">this article</cite> are in the alternative to the remedies and procedures provided by the laws of the State of Wisconsin or the United States.</text>
+      </para>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>8</num>
+        <text>Editor's Note: Previously Art. II, Veterans Leasehold Mortgages, adopted 7-7-1994 by Ord. No. 94-09, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. I, Eviction Procedures, did not change and became Art. IX, Leasehold Mortgage FHA Section 248 Eviction Procedures, in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|V">this article</cite> except for renumbering.</text>
+      </footnote>
+    </footnotes>
+  </container>
+</container>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|420">
+  <prefix>Chapter</prefix>
+  <num>420</num>
+  <heading>PROFESSIONAL BOXING AND MIXED MARTIAL ARTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-20-2022 by Ord. No. 22-51. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>420-1</num>
+    <heading>Definitions.</heading>
+    <text>In <cite path="|II|420">this chapter</cite>:</text>
+    <para>
+      <num>A.</num>
+      <text>"Boxing" means the act of attack and defense with the fists, using padded gloves, that is practiced as a sport under the rules described under <cite path="|II|420">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Department" means the department of the Tribe generally charged with issuing licenses and permits.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Mixed martial arts fighting" means fighting that involves the use of a combination of techniques from different disciplines of martial arts, including grappling, kicking, and striking.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"Physician" means a person licensed to practice medicine and surgery under the laws of the State of Wisconsin.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Professional boxing contest" means a boxing contest or exhibition in which one or more of the boxers is compensated for participating in the contest or exhibition.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>"Professional contest" means a professional boxing contest or a professional mixed martial arts contest.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>"Professional mixed martial arts contest" means a contest or exhibition of mixed martial arts in which one or more of the contestants is compensated for participating in the contest or exhibition.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>"Tribe" means the Menominee Indian Tribe of Wisconsin.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-2</num>
+    <heading>Licenses and permits.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall have the sole direction, management, and control of, and jurisdiction over, all professional contests conducted within the Reservation. No person or entity may conduct professional contests within the Reservation except under authority granted by the Department and in accordance with <cite path="|II|420">this chapter</cite> and the rules of the Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department may issue, and for cause limit, suspend, or revoke, a license to conduct professional contests to any promoter as provided in <cite path="|II|420">this chapter</cite>. Every license shall be subject to the Department's rules and regulations. The Department may limit the number of professional contests given by any promoter and may reprimand a promoter for violating <cite path="|II|420">this chapter</cite> or any rule of the Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No professional contest may be conducted by any promoter without a permit from the Department. An application for a permit shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be accompanied by a nonrefundable $300 processing fee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be in writing on a form provided by the Department and include all information required by the Department, including, but not limited to, proof that promoter has entered into a valid agreement for the use of a building or property where the contests are to be held.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be made by and verified by a licensed promoter and include a statement that promoter agrees to the jurisdiction of the Tribe and its courts.</text>
+        <text>Every permit shall be conditioned on payment by the promoter to the Department, prior to the event for which the permit was issued, an event fee of $500.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department may grant licenses upon application and the payment of the prescribed fees to promoters, matchmakers, managers, referees, boxers, mixed martial arts contestants, seconds, and timekeepers in professional contests. The fees to be paid per year shall be set by the Department by rule. The Department may limit, suspend, or revoke any license granted under this section or reprimand the licensee upon such cause as it deems sufficient.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-3</num>
+    <heading>Bond.</heading>
+    <text>The Department shall require a promoter conducting a professional contest to post a bond or other surety in a reasonable amount determined by the Department to ensure payment of the promoter's expenses in conducting the contest, including payments to contestants and to the Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-4</num>
+    <heading>Inspectors.</heading>
+    <text>The Department shall appoint official inspectors, each of whom shall receive a card authorizing the inspector to act wherever the Department designates. The Department may be and at least one inspector shall be present at all professional contests and see that the rules are strictly observed. Inspectors shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties. The Department may require a promoter to pay the cost of inspectors, who may include a referee or judge performing the duties of an inspector, for an event.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-5</num>
+    <heading>Conduct of professional boxing contests.</heading>
+    <text>Professional boxing contests shall be conducted in conformance with:</text>
+    <para>
+      <num>A.</num>
+      <text>The rules of the Department, which shall provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing contests that are at least as restrictive as:</text>
+      <para>
+        <num>(1)</num>
+        <text>The otherwise applicable standards and requirements of the State of Wisconsin; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applicable federal law, including 15 U.S.C. § 6301 et seq.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-6</num>
+    <heading>Conduct of mixed martial arts contests.</heading>
+    <text>Professional mixed martial arts contests shall be conducted in conformance with the rules of the Department, which shall provide for the implementation of health and safety standards, and other requirements relating to the conduct of professional mixed martial arts contests that are consistent with the Association of Boxing Commissions' uniform rules and regulations of mixed martial arts.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-7</num>
+    <heading>Physician to examine professional contestants.</heading>
+    <text>In addition to any medical requirements provided by rule, prior to entering the ring, each contestant in</text>
+    <text>a professional contest must be examined by a physician who has been licensed to practice in Wisconsin not less than five years and who is appointed by the Department and certifies in writing, over his or her signature, as to the contestant's physical and mental fitness to engage in such contest.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-8</num>
+    <heading>Referee to stop contest.</heading>
+    <text>In addition to any other requirement provided by rule, the referee shall stop a professional contest when either of the contestants shows a marked superiority or is apparently outclassed. The referee shall be the sole arbiter of the contest and may consult the physician during the contest.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-9</num>
+    <heading>Sham contests and violations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any promoter that conducts, holds, gives, or participates in any sham or fake professional contest shall forfeit its license. That license shall be revoked by the Department, and the promoter shall not be entitled to another license.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall ban a contestant who participates in any sham or fake professional contest or violates any rule promulgated by the Department, and may require the contestant, the contestant's manager, or the promoter of the contest to forfeit an amount determined by the Department, but not more than $500.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In addition to any other remedies, the Tribe's Legal Services Department is authorized to bring action in the name of the Tribe to enjoin violations of <cite path="|II|420">this chapter</cite> or the rules of the Department.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-10</num>
+    <heading>Insurance on certain contestants.</heading>
+    <text>Any licensee authorized to conduct professional contests shall insure each contestant participating for hospital, nursing, and medication expenses and physician's and surgeon's services according to an equitable fee schedule, not to exceed in the aggregate $25,000, to be paid to, or for the use of, any contestant to compensate for injuries sustained in any such contest; and shall insure each contestant for not less than $25,000 to be paid to the contestant's estate in the event of the contestant's death as the result of participation in such professional contest.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-11</num>
+    <heading>Rules.</heading>
+    <text>The Department shall promulgate any rules necessary to implement and enforce <cite path="|II|420">this Chapter 420 of the Menominee Tribal Code</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>420-12</num>
+    <heading>Contracting authority.</heading>
+    <text>The Department is authorized to delegate any and all of its duties under <cite path="|II|420">this chapter</cite> pursuant to a written agreement with a Boxing Commission or other entity if:</text>
+    <para>
+      <num>A.</num>
+      <text>The written agreement is approved through the Tribe's contract approval system; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The written agreement requires the Boxing Commission or other entity to ensure that any professional contest is conducted in accordance with <cite path="|II|420">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

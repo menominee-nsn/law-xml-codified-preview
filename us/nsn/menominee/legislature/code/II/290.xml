@@ -1,0 +1,2994 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|290">
+  <prefix>Chapter</prefix>
+  <num>290</num>
+  <heading>CRIMINAL CODE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Judiciary and Law and Order Code — See <cite path="|I|120">Ch. 120</cite>. Alcoholic beverages — See <cite path="|II|250">Ch. 250</cite>.</annotation>
+    <annotation type="General References">Animals — See <cite path="|II|255">Ch. 255</cite>.</annotation>
+    <annotation type="General References">Drugs and drug paraphernalia — See <cite path="|II|306">Ch. 306</cite>.</annotation>
+    <annotation type="General References">Firearms — See <cite path="|II|321">Ch. 321</cite>. Noise — See 429.</annotation>
+    <annotation type="General References">Trespassing — See <cite path="|II|523">Ch. 523</cite>.</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Assault and Battery [Adopted 8-19-1982 by Ord. No. 82-9]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-1</num>
+      <heading>Assault.</heading>
+      <para>
+        <num>A.</num>
+        <text>Defined. The threat, with apparent ability to carry it out, to do bodily harm to a person by another.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>First offense: fine not less than $75 nor more than $500 plus costs or 10 days in jail, or both.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second offense: fine not less than $150 nor more than $500 plus costs or 20 days in jail, or both.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Third offense and succeeding offenses: fine not less than $200 nor more than $500 plus costs or not less than 30 days nor more than six months in jail, or both. Counseling may be ordered at the discretion of the Court in all cases but shall not be ordered in lieu of the above penalties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-2</num>
+      <heading>Battery.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever causes bodily harm to another by an act done with intent to cause bodily harm to that person or another without consent of the person so harmed is guilty of battery.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalties. <strong>[Amended 8-27-1993]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>First offense: fine not less than $100 nor more than $5,000 plus costs or not less than 30 days in jail, or both, and restitution to the victim for any medical expenses, property damage, and loss of wages.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second offense: fine not less than $250 nor more than $5,000 plus costs or not less than 60 days nor more than one year in jail, or both, and restitution to the victim for any medical expenses, property damage, and loss of wages.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 7-7-1983; 3-12-1987</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Breaking and Entering [Adopted 12-1-1983 by Ord. No. 83-22]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-3</num>
+      <heading>Jurisdiction; definition.</heading>
+      <para>
+        <num>A.</num>
+        <text>The following article supersedes 25 CFR 11.96ME. Jurisdiction: all Indians.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Defined. Any entry into the structure of another with unlawful intent. Structures are defined to include, but are not limited to, residences, garages, tribally owned buildings, schools, warehouses, stores, taverns, churches, and any type of outbuildings. Unlawful intent is presumed to be present when a person enters a structure without permission of the owner.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-4</num>
+      <heading>Violations and penalties.</heading>
+      <text>The Court shall have no discretion to substitute for the following penalties:</text>
+      <para>
+        <num>A.</num>
+        <text>First offense: fine of $200 and 30 days in jail and restitution for any damages to or loss of property.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second offense: fine of $300 and 60 days in jail and restitution for any damages to or loss of property.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Third offense: fine of $400 and 90 days in jail and restitution for any damages to or loss of property.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 5-23-1984; 1-8-1987</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Battery: Special Circumstances</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-2-1986 by Ord. No. 85-24; amended in its entirety 11-19-1987</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>290-5</num>
+      <heading>Battery by prisoners.</heading>
+      <text>Any prisoner confined to a tribal detention facility who intentionally causes bodily harm to an officer, employee, visitor or another inmate of such facility, without his or her consent, is in violation of <cite path="|II|290|III">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-6</num>
+      <heading>Battery to law enforcement officers, firefighters and emergency medical technicians.</heading>
+      <text>Whoever intentionally causes bodily harm to a law enforcement officer, firefighter or emergency medical technician (EMT), acting in an official capacity, and the person knows or has reason to know that the victim is a law enforcement officer, firefighter or EMT, by an act done without the consent of the person so injured, is in violation of <cite path="|II|290|III">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-7</num>
+      <heading>Battery to witnesses and jurors.</heading>
+      <text>Whoever intentionally causes bodily harm to a person who he or she knows or has reason to know is or was a witness, by reason of the person having attended or testified as a witness or by reason of any verdict or indictment assented to by the person, without the consent of the person injured, is in violation of <cite path="|II|290|III">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-8</num>
+      <heading>Battery to public officers.</heading>
+      <text>Whoever intentionally causes bodily harm to a public officer in order to influence the action of such officer or as a result of any action taken within an official capacity, without the consent of the person injured, is in violation of <cite path="|II|290|III">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-9</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any violation of <cite path="|II|290|III">this article</cite> shall result in a fine not to exceed $500 and/or six months in jail.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Unlawful Use of Telephone [Adopted 4-9-1986 by Ord. No. 86-4]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-10</num>
+      <heading>Prohibited acts.</heading>
+      <text>It is a violation of <cite path="|II|290|IV">this article</cite> to do any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>With intent to frighten, intimidate, threaten, abuse, or harass, make a telephone call and threaten to inflict injury or physical harm to any person or the property of any person.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>With intent to frighten, intimidate, threaten, abuse, harass or offend, telephone another and use any obscene, lewd or profane language or suggest any lewd or lascivious act.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Make or cause the telephone of another repeatedly to ring, with intent to harass any person at the called number.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Make repeated telephone calls, whether or not conversation ensues, with intent solely to harass any person at the called number.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Make a telephone call, whether or not conversation ensues, without disclosing his or her identity and with intent to abuse, threaten or harass any person at the called number.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Knowingly permit any telephone under his or her control to be used for any purpose prohibited by this section.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-11</num>
+      <heading>Violations and penalties.</heading>
+      <text>The penalty for a violation of <cite path="|II|290|IV">this article</cite> shall be:</text>
+      <para>
+        <num>A.</num>
+        <text>A fine not less than $250 and not in excess of $500;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Jail not less than 10 days and not more than six months; or</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Both <cite path="§290-11|A">Subsection A</cite> and B.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Disorderly Conduct and Unlawful Assemblies [Adopted 9-4-1986 by Ord. No. 86-10]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-12</num>
+      <heading>Disorderly conduct.</heading>
+      <text>Whoever, in a public or private place, engages in any one or more of the following types of behavior is in violation of <cite path="|II|290|V">this article</cite> and, upon conviction, shall be subject to a forfeiture of not more than $500 or a jail term of not more than six months, or both: violent, abusive, indecent, profane, boisterous, unreasonable, loud, or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
+      <annotations>
+        <annotation type="History">Amended 1-8-1987, 5-2-2002</annotation>
+      </annotations>
+    </section>
+    <section cache:ref-path="II|§290-13">
+      <prefix>§</prefix>
+      <num>290-13</num>
+      <reason>Reserved<fn path="|II|§290-13|footnotes|1">1</fn></reason>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Former <cite path="§290-13">§ 290-13</cite>, Unlawful assembly, was repealed 9-3-2015 by Ord. No. 14-30.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|VI">
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Harassment</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-3-1987 by Ord. No. 87-14; amended in its entirety 11-1-2012 by Ord. No. 12-30</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>290-14</num>
+      <heading>Definition.</heading>
+      <para>
+        <num>A.</num>
+        <text>"Harassment" means any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Striking, shoving, kicking or otherwise subjecting another person to physical contact or attempting or threatening to do the same; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Engaging in a course of conduct or repeatedly committing acts which harass or intimidate another person and which serve no legitimate purpose.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person violates <cite path="|II|290|VI">this article</cite> if he or she engages in harassment as defined in this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If electronic forms of communications are used to perpetuate the harassment, it is sufficient, to establish jurisdiction, that either the person being harassed accesses those communications within the exterior boundaries of the Menominee Indian Reservation, or the person perpetuating the harassment sends the electronic communications from within the exterior boundaries of the Menominee Indian Reservation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-15</num>
+      <heading>Commencement of action.</heading>
+      <text>An action under <cite path="|II|290|VI">this article</cite> may be commenced by filing a petition described under <cite path="§290-18|A">§ 290-18A</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-16</num>
+      <heading>Temporary restraining order.</heading>
+      <para>
+        <num>A.</num>
+        <text>A Judge may issue a temporary restraining order ordering the respondent to cease or avoid the harassment of another person, if all of the following occur:</text>
+        <para>
+          <num>(1)</num>
+          <text>The petitioner files a petition alleging the elements set forth under <cite path="§290-18|A">§ 290-18A</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Judge finds reasonable grounds to believe that the respondent has violated <cite path="§290-14">§ 290-14</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notice need not be given to the respondent before issuing a temporary restraining order under this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The temporary restraining order is in effect until a hearing is held on issuance of an injunction under</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-17</num>
+      <heading>A Judge shall hold a hearing on issuance of an injunction within seven days after the temporary restraining order is issued, unless the time is extended upon the written consent of the parties or extended once for seven days upon a finding that the respondent has not been served with a copy of the temporary restraining order although the petitioner has exercised due diligence.</heading>
+      <text><cite path="§290-17">§ 290-17</cite>. Injunction.</text>
+      <para>
+        <num>A.</num>
+        <text>A Judge may grant an injunction ordering the respondent to cease or avoid the harassment of another person if all the following occur:</text>
+        <para>
+          <num>(1)</num>
+          <text>The petitioner has filed a petition alleging the elements set forth under <cite path="§290-18">§ 290-18</cite>A; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The petitioner serves upon the respondent a copy of a restraining order obtained under <cite path="§290-16">§ 290-16</cite>C; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>After the hearing, the Judge finds reasonable grounds to believe that the respondent has violated <cite path="§290-14">§ 290-14</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>An injunction under this section is effective according to its terms but for not more than five years.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-18</num>
+      <heading>Petition.</heading>
+      <para>
+        <num>A.</num>
+        <text>The petition shall allege facts sufficient to show the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the person who is the alleged victim;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name of the respondent; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the respondent has violated <cite path="§290-14">§ 290-14</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Clerk of the Menominee Tribal Courts shall provide simplified forms for the petitioner to complete.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-19</num>
+      <heading>Arrest.</heading>
+      <text>The Menominee Tribal Police shall arrest and take a person into custody if all of the following occur:</text>
+      <para>
+        <num>A.</num>
+        <text>The petitioner under <cite path="§290-18">§ 290-18</cite> presents to the tribal police officer a copy of a court order issued under <cite path="§290-16">§ 290-16</cite> or <cite path="§290-17">§ 290-17</cite> or the tribal police officer determines that such an order exists through communication with appropriate authorities; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The tribal police officer has probable cause to believe that the person has violated the court order issued under <cite path="§290-16">§ 290-16</cite> or <cite path="§290-17">§ 290-17</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-20</num>
+      <heading>Violations and penalties.</heading>
+      <text>Whoever violates a temporary restraining order or injunction issued under <cite path="|II|290|VI">this article</cite> shall be subject to:</text>
+      <para>
+        <num>A.</num>
+        <text>First offense: a fine not less than $200 or not more than $1,000 or not more than six months in jail, or both.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second offense: a fine not less than $500 or not more than $2,500 or not more than nine months in jail, or both.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Third offense: a fine not less than $1,000 or not more than $5,000 or not more than one year in jail, or both.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Obstruction of Justice [Adopted 9-17-1987 by Ord. No. 87-17]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-21</num>
+      <heading>Prohibited acts.</heading>
+      <text>Whoever, without reasonable excuse, knowingly gives false information, or refuses to give information, or fails upon command to aid any person known by the person to be an officer of the law or a person authorized to command such assistance, shall be deemed guilty of obstruction of justice.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-22</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>First offense: a fine not to exceed $100 and court costs.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second offense and succeeding offenses: a fine not less than $100 but not more than $500 and court costs.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Solicitation to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-6]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-23</num>
+      <heading>Prohibited acts.</heading>
+      <text class="center">Whoever, with the intent that a tribal law be violated, advises another to commit that crime under circumstances which indicate unequivocally that he or she has such intent is guilty of a tribal misdemeanor.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-24</num>
+      <heading>Violations and penalties.</heading>
+      <text>Whoever is convicted of solicitation shall be fined or jailed or both not to exceed 1/2 of the maximum penalty for the completed crime.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IX</num>
+    <heading>Conspiracy to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-7]</heading>
+    <section cache:ref-path="II|§290-25">
+      <prefix>§</prefix>
+      <num>290-25</num>
+      <heading>Prohibited acts.<fn path="|II|§290-25|footnotes|2">2</fn></heading>
+      <text>Whoever, with the intent that a crime be committed, agrees or combines with another for the purpose of committing that crime may be subject to a penalty as provided in <cite path="§290-26">§ 290-26</cite>, if one or more of the parties to the conspiracy does an act to effect its object.</text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-26</num>
+      <heading>Violations and penalties.</heading>
+      <text>Whoever is convicted of conspiracy shall be fined or jailed or both not to exceed the maximum penalty for the completed crime.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>X</num>
+    <heading>Attempt to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-8]</heading>
+    <section cache:ref-path="II|§290-27">
+      <prefix>§</prefix>
+      <num>290-27</num>
+      <heading>Prohibited acts.<fn path="|II|§290-27|footnotes|3">3</fn></heading>
+      <text>Whoever knowingly attempts to commit a crime which requires that the actor have an intent to perform acts and attain a result which, if accomplished, would constitute such a crime and that he/she does act toward the commission of the crime which demonstrates unequivocally, under all the circumstances, that he formed that intent and would commit the crime except for the intervention of another person or some extraneous factor may be subject to a penalty as provided in <cite path="§290-28">§ 290-28</cite>..</text>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-28</num>
+      <heading>Violations and penalties.</heading>
+      <text>Whoever is convicted of attempt shall be fined or jailed or both not to exceed 1/2 the maximum penalty for the completed crime.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XI">
+    <prefix>Article</prefix>
+    <num>XI</num>
+    <heading>Parties to Crime</heading>
+    <annotations>
+      <annotation type="History">Adopted 10-17-1991 by Ord. No. 91-15</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>290-29</num>
+      <heading>Crime defined.</heading>
+      <text>A crime is conduct which is prohibited by tribal law and punishable by fine or imprisonment or both. Conduct punishable only by a forfeiture is not a crime.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-30</num>
+      <heading>Parties to crime.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever is concerned in the commission of a crime is a principal and may be charged with and convicted of the commission of the crime although he did not directly commit it and although the person who directly committed it has not been convicted or has been convicted of some other degree of the crime or of some other crime based on the same act.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person is concerned in the commission of the crime if he/she:</text>
+        <para>
+          <num>(1)</num>
+          <text>Directly commits the crime;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Intentionally aids and abets the commission of it; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Is a party to a conspiracy with another to commit it or advises, hires, counsels or otherwise procures another to commit it. Such a party is also concerned in the commission of any other crime which is committed in pursuance of the intended crime and which under the circumstances is a natural and probable consequence of the intended crime. <cite path="§290-30|B.|(3)">This subsection</cite> does not apply to a person who voluntarily changes his mind and no longer desires that the crime be committed and notifies the other parties concerned of his withdrawal within a reasonable time before the commission of the crime so as to allow the others also to withdraw.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-31</num>
+      <heading>Prosecution under more than one tribal law or provision permitted.</heading>
+      <text>If an act forms the basis for a crime punishable under more than one tribal law or provision, prosecution may proceed under any or all such provisions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-32</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who is found to be in violation of any provision of <cite path="|II|290|XI">this article</cite> shall be fined or imprisoned in accordance with the penalties prescribed under the Tribe's criminals laws in which any person is adjudged to be party to crime. The Tribal Court shall also have the discretion to order restitution where warranted.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XII">
+    <prefix>Article</prefix>
+    <num>XII</num>
+    <heading>Resisting or Obstructing Officer [Adopted 10-14-1993 by Ord. No. 93-20]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-33</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|290|XII">This article</cite> shall be titled "Resisting or Obstructing an Officer" and hereby supersedes 25 CFR 11.70ME.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-34</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|290|XII">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>OBSTRUCTS — Includes without limitation knowingly giving false information to the officer or knowingly placing physical evidence with intent to mislead the officer in the performance of his or her duty, including the service of any summons or civil process.</text>
+      <text>OFFICER — Any Menominee tribal police officer, game warden or other bona fide peace officers acting in their official capacity.</text>
+      <text>RESIST — The offense of opposing, and endeavoring to prevent, with or without actual force, a peace officer in the execution of a writ or in the lawful discharge of his or her duty while making an arrest or otherwise enforcing the peace.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-35</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever knowingly resists or obstructs an officer while such officer is doing any act in an official capacity and with lawful authority is guilty of resisting or obstructing an officer.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person found in violation of <cite path="§290-35|A">Subsection A</cite> shall, on a first and subsequent offense, be sentenced to a jail term not to exceed nine months and/or be assessed a fine not to exceed $1,000.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XIII">
+    <prefix>Article</prefix>
+    <num>XIII</num>
+    <heading>Curfew and Hitchhiking [Adopted 6-20-1996 by Ord. No. 96-08]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-36</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|290|XIII">This article</cite> shall be titled "Curfew and Hitchhiking."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-37</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the preservation of tribal welfare, peace, and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-38</num>
+      <heading>Purpose.</heading>
+      <text>The following provisions regarding curfew and hitchhiking are enacted in an effort to curb a serious and violent increase in criminal gang-related activity which threatens the health, welfare and safety of the Menominee Indian Reservation and its residents.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-39</num>
+      <heading>Curfew.</heading>
+      <para>
+        <num>A.</num>
+        <text>No child 17 years of age or under shall loiter, idle or remain in or upon any of the streets, alleys, or public places, with or without permission of his or her parent or guardian, or in a private home other than his or her own without the permission of his or her parent or guardian, within the exterior boundaries of the Menominee Reservation between 9:00 p.m. and 6:00 a.m., or at any time that child is required to be in school according to <cite path="|II|368">Chapter 368</cite>, Article VI, Compulsory School Attendance, of this Code. <strong>[Amended 12-7-2000]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No parent or guardian shall knowingly permit his child or ward of such age as indicated above to loiter, idle or remain in or upon any of the streets, alleys, or public places within the hours stated herein, unless such child is accompanied by a parent, guardian or some person of lawful age having legal custody of such child, or unless any such child is going home from school activities, church programs, approved organizational activities, or his or her place of employment, in which case <cite path="|II|290|XIII">this article</cite> shall not apply. <strong>[Amended 12-7-2000]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any such child shall have a reasonable time after school activities, church programs, and approved organizational activities, not to exceed one hour of termination of such meeting, to be within the definition of the term "going home."</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-40</num>
+      <heading>Hitchhiking.</heading>
+      <text>No child 17 years of age or under shall hitchhike within the exterior boundaries of the Menominee Indian Reservation. "Hitchhiking" means the physical presence of a child 17 years of age or under on any road within the exterior boundaries of the Menominee Reservation who signals in any way that he or she is asking for a ride from passing vehicles.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§290-41">
+      <prefix>§</prefix>
+      <num>290-41</num>
+      <heading>Violations and penalties.</heading>
+      <text>For a violation of <cite path="§290-39">§ 290-39</cite> or 290-40 of <cite path="|II|290|XIII">this article</cite>:</text>
+      <para>
+        <num>A.</num>
+        <text>The child shall be taken into custody by a law enforcement officer for the purpose of identifying the child and notifying his or her parent(s) or other responsible adult party to pick up said child at the place of custody (tribal jail or other designated juvenile facility) until the parent(s) or other responsible adult party picks up and signs an appropriate release.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A civil citation shall be issued to the child if the child is 14 years of age or over.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A civil citation shall be issued to the parent(s) or responsible adult party for the violation when the child involved is under the age of 14 years.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A conviction or admission of guilt under the provisions of <cite path="|II|290|XIII">this article</cite> shall result in a forfeiture of $30 for a first offense and an increase of a ten-dollar forfeiture for each succeeding conviction. The Court may also, in its discretion, assign community service in lieu of, or in addition to, the forfeitures stated above. <strong>[Amended 12-7-2000]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Court, in its discretion, may order family counseling in conjunction with the forfeiture.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Court shall order an early offender, defined as a juvenile who has five or fewer referrals into the Court system under <cite path="|II|290|XIII">this article</cite>, to Menominee County Human Services or other available social services entity for a six-month supervised program. <strong>[Amended 12-7-2000</strong><fn path="|II|§290-41|footnotes|4">4</fn><strong>]</strong></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: This amendment also repealed original § 7, Other penalties, which immediately followed this section.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-42</num>
+      <heading>Repealer; when effective; savings provision.</heading>
+      <text><cite path="|II|290|XIII">This article</cite> repeals Menominee Tribal Ordinance No. 83-23 and shall become effective immediately upon final passage by the Menominee Tribal Legislature. The repealing effect of <cite path="|II|290|XIII">this article</cite> shall not effect the prosecution of violations under Menominee Tribal Ordinance No. 83-23 committed by any person prior to the enactment of <cite path="|II|290|XIII">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XIV">
+    <prefix>Article</prefix>
+    <num>XIV</num>
+    <heading>Gang-Related Crimes [Adopted 6-20-1996 by Ord. No. 96-09]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-43</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|290|XIV">This article</cite> shall be titled "Increased Penalty for Gang-Related Crimes."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-44</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the immediate preservation of health, welfare, peace, and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-45</num>
+      <heading>Purpose.</heading>
+      <text>The Tribal Legislature has determined that criminal gang activity on the Menominee Indian Reservation has increased to a level that immediately threatens the health, welfare and safety of the Menominee Indian Reservation and its residents. <cite path="|II|290|XIV">This article</cite> is necessary to help curtail gang-related offenses.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§290-46">
+      <prefix>§</prefix>
+      <num>290-46</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|290|XIV">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>CRIMINAL GANG — An ongoing organization, association or group of three or more persons, whether formal or informal, that has as one of its primary activities the commission of one or more of the criminal acts, or acts that would be criminal if the actor were an adult; that has a common name or a common identifying sign or symbol; and whose members individually or collectively engage in or have engaged in a pattern of criminal gang activity.</text>
+      <text>CRIMINAL GANG ACTIVITY — The commission of, attempt to commit or solicitation to commit one or more of the following crimes, or acts that would be crimes if the actor were an adult, committed for the benefit of, at the direction of or in association with any criminal gang, with the specific intent to promote, further or assist in any criminal conduct by criminal gang members:</text>
+      <para>
+        <num>A.</num>
+        <text>Manufacture or delivery of a controlled substance, as prohibited by <cite path="|II|306">Chapter 306</cite>, Article I of this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Battery or assault, as prohibited by Article I of <cite path="|II|290">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Battery, special circumstances, as prohibited by Article III of <cite path="|II|290">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Disorderly conduct, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Abuse or sexual assault of a child, as prohibited by <cite path="|II|368">Chapter 368</cite>, Articles X and XI, of this Code.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>False arrest, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Abduction, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Malicious mischief, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Breaking and entering as prohibited by Article II of <cite path="|II|290">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Theft, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Concealed weapons, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Receiving stolen property, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Extortion, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Cruelty to animals, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Trespass, as prohibited by <cite path="|II|523">Chapter 523</cite>, Article I, of this Code.</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Injury to public property, as prohibited by <cite path="|I|120">Chapter 120</cite>, Judiciary and Law and Order Code.</text>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>Resisting or obstructing an officer, as prohibited by Article XII of <cite path="|II|290">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>R.</num>
+        <text>Any other crime against a person or property.</text>
+        <text>CRIMINAL GANG MEMBER — Any person who participates in criminal gang activity, as defined in <cite path="|II|290|XIV">this article</cite>, with a criminal gang.</text>
+        <text>PATTERN OF CRIMINAL GANG ACTIVITY — The commission of, attempt to commit or solicitation to commit two or more of the crimes enumerated above, or acts that would be crimes if the actor were an adult, where at least one of those acts or crimes occurs after the effective date of <cite path="|II|290|XIV">this article</cite>, the last of those acts or crimes occurred within three years after a prior act or crime, and the acts or crimes are committed, attempted or solicited on separate occasions or by two or more persons.<fn path="|II|§290-46|footnotes|5">5</fn></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§290-47">
+      <prefix>§</prefix>
+      <num>290-47</num>
+      <heading>Violations and penalties.</heading>
+      <text>If a person is convicted of any of the above-enumerated offenses pursuant to Menominee tribal law for the benefit of, at the direction of or in association with any criminal gang, with the specific intent to promote, further or assist in any criminal conduct by criminal gang members, the penalties for the underlying crime are increased as provided below:</text>
+      <para>
+        <num>A.</num>
+        <text>The maximum jail term for the tribal crime may be increased up to the maximum level allowed by the Indian Civil Rights Act (25 U.S.C. § 1301 et seq.)</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In determining the amount of penalty enhancement, the Court shall consider the seriousness of the offense, the harm to the victim or victims, prior criminal history of the offender, remorse of the offender, age of the offender and other aggravating or mitigating factors.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The penalty of banishment from the Menominee Indian Reservation may be imposed.<fn path="|II|§290-47|footnotes|6">6</fn></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-48</num>
+      <heading>Special verdict.</heading>
+      <text>The Menominee Tribal Court shall direct a special verdict as to whether the underlying crime was committed for the benefit of, at the direction of or in association with any criminal gang, with the specific intent to promote, further or assist in any criminal conduct by criminal gang members.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XV">
+    <prefix>Article</prefix>
+    <num>XV</num>
+    <heading>Sexual Assault</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-2-1999 by Ord. No. 99-20; amended in its entirety 1-8-2009</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>290-49</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the preservation of tribal welfare, peace, and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-50</num>
+      <heading>Purpose.</heading>
+      <text>The prohibitions and penalties contained within <cite path="|II|290|XV">this article</cite> are intended to protect individuals, regardless of their age, from nonconsensual sexual contact.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-51</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|290|XV">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>BODILY HARM — Physical pain or injury, illness or any impairment of physical condition.</text>
+      <text>CONSENT — Words or overt actions by a person who is competent to give informed consent indicating a freely given agreement to have sexual contact or sexual intercourse. Consent is not an issue in alleged violations of <cite path="§290-52">§ 290-52</cite>B(3), (4) and (6). The following persons are presumed incapable of consent, but the presumption may be rebutted by competent evidence:</text>
+      <para>
+        <num>A.</num>
+        <text>A person suffering from a mental illness or defect which impairs capacity to appraise personal conduct.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person who is unconscious or for any other reason is physically unable to communicate unwillingness to an act.</text>
+        <text>GREAT BODILY HARM — Bodily injury which creates a substantial risk of death, or which causes serious permanent disfigurement, or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.</text>
+        <text>INPATIENT FACILITY — Has the meaning designated in § 51.01(10), Wis. Stats.</text>
+        <text>PATIENT — Any person who receives care or treatment or arrives at a facility or program to receive care or treatment from a facility or program, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</text>
+        <text>RESIDENT — Any person who resides in a facility, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</text>
+        <text>SEXUAL CONTACT — Any of the following:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Intentional touching by the complainant or defendant, either directly or through clothing, by the use of any body part or object, of the complainant's or defendant's intimate parts if that intentional touching is either for the purpose of sexually degrading or for the purpose of sexually humiliating the complainant or sexually arousing or gratifying the defendant or if the touching contains the elements of actual or attempted battery under Article I, Assault and Battery, of <cite path="|II|290">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Intentional penile ejaculation of ejaculate or intentional emission of urine or feces by the defendant upon any part of the body, clothed or unclothed, of the complainant, if that ejaculation or emission is either for the purpose of sexually degrading or sexually humiliating the complainant or for the purpose of sexually arousing or gratifying the defendant.</text>
+        <text>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</text>
+        <text>STATE TREATMENT FACILITY — Has the meaning designated in § 51.01(15), Wis. Stats.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§290-52">
+      <prefix>§</prefix>
+      <num>290-52</num>
+      <heading>Sexual assault.<fn proof="needed" path="|II|§290-52|footnotes|7">7</fn></heading>
+      <para>
+        <num>A.</num>
+        <text>First degree sexual assault. Whoever does any of the following is guilty of the crime of first degree sexual assault:</text>
+        <para>
+          <num>(1)</num>
+          <text>Has sexual contact or sexual intercourse with another person, without consent of that person, and causes pregnancy or great bodily harm to that person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Has sexual contact or sexual intercourse with another person, without consent of that person, by use or threat of use of a dangerous weapon or any article used or fashioned in a manner to lead the victim reasonably to believe it to be a dangerous weapon.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Is aided or abetted by one or more other persons and has sexual contact or sexual intercourse with another person, without consent of that person, by use or threat of force or violence.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second degree sexual assault. Whoever does any of the following is guilty of the crime of second degree sexual assault:</text>
+        <para>
+          <num>(1)</num>
+          <text>Has sexual contact or sexual intercourse with another person without consent of that person and causes pregnancy or bodily harm to that person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Has sexual contact or sexual intercourse with another person, without the consent of that person, by use of force or threat of violence.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Has sexual contact or sexual intercourse with another person without consent of that person and causes injury, illness, disease or impairment of a sexual or reproductive organ or mental anguish requiring psychiatric care for the victim.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Has sexual contact or sexual intercourse with a person who suffers from a mental illness or deficiency which renders that person temporarily or permanently incapable of appraising the person's conduct, and the defendant knows of such condition.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Has sexual contact or sexual intercourse with a person who the defendant knows is unconscious.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Is aided or abetted by one or more other persons and has sexual contact or sexual intercourse with another person, without the consent of that person.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Is an employee of a facility, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility, and has sexual contact or sexual intercourse with a person who is a patient or resident of the facility or program.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Third degree sexual assault. Whoever has sexual intercourse with a person without the consent of that person is guilty of the crime of third degree sexual assault.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Fourth degree sexual assault. Whoever has sexual contact with a person without the consent of that person is guilty of the crime of fourth degree sexual assault.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: See also <cite path="|II|368|XI">Ch. 368, Art. XI</cite>, Sexual Assault of a Child.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-53</num>
+      <heading>Marriage not a bar to prosecution.</heading>
+      <text>A defendant shall not be presumed to be incapable of violating <cite path="|II|290|XV">this article</cite> because of marriage to the complainant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-54</num>
+      <heading>HIV testing requirement.</heading>
+      <text>Upon request by a victim, the Court may order the following:</text>
+      <para>
+        <num>A.</num>
+        <text>To administer to a defendant, against whom an information or criminal complaint is presented for a crime in which the perpetrator compels the victim to engage in sexual activity, testing for the immunodeficiency virus (HIV) not later than 48 hours after the date on which the information or criminal complaint is presented;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As soon as practicable, notification to the victim, or parent and guardian of the victim, and defendant of the testing results; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Follow-up tests for HIV as may be medically appropriate, and that, as soon as practicable after each such test, the results be made available to the victim, or parent and guardian of the victim, and the defendant.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-55</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon conviction, the Court shall impose the following penalties:</text>
+        <para>
+          <num>(1)</num>
+          <text>First degree sexual assault: a jail term of one year and a fine of $5,000.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second degree sexual assault: a jail term of not less than nine months nor more than one year and a fine of not less than $3,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Third degree sexual assault: a jail term of not less than six months nor more than one year and a fine of not less than $2,500 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fourth degree sexual assault: a jail term of not less than three months nor more than nine months and a fine of not less than $1,000 nor more than $3,500.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to the penalties listed above, if a person is convicted of a sexual assault crime under <cite path="|II|290|XV">this article</cite>, the person shall be required to complete a sex offender treatment program.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If a victim of a sexual assault crime under <cite path="|II|290|XV">this article</cite> seeks counseling or mental health treatment, the entire uninsured costs of any such counseling or mental health treatment related to the sexual assault shall be the responsibility of the person convicted.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Court may, in its discretion, stay 1/2 of the jail term to a period of probation with appropriate conditions; however, the convicted defendant must actually serve 1/2 of the jail term before he or she is eligible for probation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-56</num>
+      <heading>Sex offender registry.</heading>
+      <text>Any person convicted of first, second, or third degree sexual assault under <cite path="|II|290|XV">this article</cite> shall comply with all rules of Article XVI, Sex Offender Registration, of <cite path="|II|290">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XVI">
+    <prefix>Article</prefix>
+    <num>XVI</num>
+    <heading>Sex Offender Registration and Notification [Adopted 6-17-2010 by Ord. No. 10-13<fn proof="needed" path="|II|§290-57|footnotes|8">8</fn>]</heading>
+    <section cache:ref-path="II|§290-57">
+      <prefix>§</prefix>
+      <num>290-57</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Title. <cite path="|II|290|XVI">This article</cite> shall be known as the "Sex Offender Registration and Notification Ordinance."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Purpose. The intent of <cite path="|II|290|XVI">this article</cite> is to implement the federal Sex Offender Registration and Notification Act (SORNA) (Title I of Public Law 109-248)<fn path="|II|290|XVI|footnotes|9">9</fn> and shall be interpreted liberally to comply with the terms and conditions of SORNA as presently written or hereafter amended.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Need. Violent crime in Indian country is more than twice the national average. On some reservations, it is 20 times the national average. An astounding 30% of Indian and Alaska Native women will be raped in their lifetimes. Tribal nations are disproportionately affected by violent crime and sex offenses in particular from both Indian and nonIndian perpetrators; consequently, the conduct and presence of convicted sex offenders in Indian country threatens the political integrity, economic security, health and welfare of tribal nations even to the point of imperiling the subsistence of tribal communities.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Creation of registries.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sex offender registry. There is hereby established a sex offender registry, which the Menominee Tribal Police Department shall maintain and operate pursuant to the provisions of <cite path="|II|290|XVI">this article</cite>, as amended.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Public sex offender registry website. There is hereby established a public sex offender registry website, which the Menominee Tribal Police Department shall maintain and operate pursuant to the provisions of <cite path="|II|290|XVI">this article</cite>, as amended.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: See 42 U.S.C. § 16901 et seq.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-58</num>
+      <heading>Terminology; covered offenses.</heading>
+      <para>
+        <num>A.</num>
+        <text>Definitions. The definitions below apply to <cite path="|II|290|XVI">this article</cite> only. CONVICTED —</text>
+        <para>
+          <num>(1)</num>
+          <text>An adult sex offender is convicted, for the purposes of <cite path="|II|290|XVI">this article</cite>, if the sex offender has been subjected to penal consequences based on the conviction, however the conviction may be styled.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A juvenile offender is convicted, for purposes of <cite path="|II|290|XVI">this article</cite>, if the juvenile offender is either:</text>
+          <para>
+            <num>(a)</num>
+            <text>Prosecuted and found guilty as an adult for a sex offense; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Is adjudicated delinquent as a juvenile for a sex offense, but only if the offender is 14 years of age or older at the time of the offense and the offense adjudicated was comparable to or more severe than aggravated sexual abuse (as described in either <cite path="§290-58|(a)">Subsection (a)</cite> or (b) of 18 U.S.C. § 2241), or was an attempt or conspiracy to commit such an offense.</text>
+          </para>
+          <aftertext>DRU SJODIN NATIONAL SEX OFFENDER PUBLIC WEBSITE (NSOPW) — The public website</aftertext>
+          <aftertext>maintained by the Attorney General of the United States pursuant to 42 U.S.C. § 16920.</aftertext>
+        </para>
+        <aftertext>EMPLOYEE — The term "employee," as used in this article, includes, but is not limited to, an individual who is self-employed or works for any other entity, regardless of compensation. Volunteers of a tribal agency or organization are included within the definition of "employee" for registration purposes.</aftertext>
+        <aftertext>FOREIGN CONVICTION — A foreign conviction is one obtained outside of the United States. IMMEDIATE — The terms "immediate" and "immediately" mean within three business days.</aftertext>
+        <aftertext>IMPRISONMENT — Refers to incarceration pursuant to a conviction, regardless of the nature of the institution in which the offender serves the sentence. The term is to be interpreted broadly to include, for example, confinement in a state prison as well as in a federal, military, foreign, BIA, private or contract facility, or a local or tribal jail. Persons under house arrest following conviction of a covered sex offense are required to register pursuant to the provisions of this article during their period of house arrest.</aftertext>
+        <aftertext>JURISDICTION — The term "jurisdiction," as used in this article, refers to the 50 states, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, and any Indian tribe.</aftertext>
+        <aftertext>MINOR — An individual who has not attained the age of 18 years.</aftertext>
+        <aftertext>NATIONAL SEX OFFENDER REGISTRY (NSOR) — The national database maintained by the Attorney General of the United States pursuant to 42 U.S.C. § 16919.</aftertext>
+        <aftertext>REGISTRATION AND NOTIFICATION COMMISSION — The group of persons designated to make decisions regarding the holding of public meetings and shall consist of the following:</aftertext>
+        <para>
+          <num>(1)</num>
+          <text>Director of Menominee Tribal Social Services or a social worker from the Department designated by the Director.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Menominee Tribal Chief of Police.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A member of the Menominee Tribal Legislature designated by the Chairperson of the Menominee Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>One to four other persons appointed by the Menominee Tribal Legislature with experience in one of the fields of health care, education, social services, law enforcement or corrections.</text>
+          <text>RESIDES — The term "reside" or "resides" means, with respect to an individual, the location of the individual's home or other place where the individual habitually lives or sleeps.</text>
+          <text>SEX OFFENDER — A person convicted of a sex offense.</text>
+          <text>SEX OFFENDER REGISTRY — The registry of sex offenders, and a notification program, maintained by the Menominee Tribal Police Department.</text>
+          <text>SEX OFFENSE — Except as limited by Subsection (6) or (7) of this definition:</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>A criminal offense that has an element involving a sexual act or sexual contact with another.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A criminal offense that is a specified offense against a minor. The term "specified offense against a minor" means an offense against a minor that involves any of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>An offense (unless committed by a parent or guardian) involving kidnapping.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An offense (unless committed by a parent or guardian) involving false imprisonment.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Solicitation to engage in sexual conduct.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Use in a sexual performance.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Solicitation to practice prostitution.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Video voyeurism as described in 18 U.S.C. § 1801.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Possession, production, or distribution of child pornography.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Criminal sexual conduct involving a minor, or the use of the Internet to facilitate or attempt such conduct.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Any conduct that by its nature is a sex offense against a minor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A federal offense (including an offense prosecuted under 18 U.S.C. § 1152 or § 1153) under Section 1591, or <cite>Chapter 109</cite>A, 110 (other than Section 2257, 2257A, or 2258), or 117, of Title 18 of the United States Code.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of Public Law 105-119 (10 U.S.C. § 951 note); or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>An attempt or conspiracy to commit an offense described in Subsections (1) through (4) of this definition.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Offenses involving consensual sexual conduct. An offense involving consensual sexual conduct is not a sex offense for the purposes of <cite path="|II|290|XVI">this article</cite> if the victim was an adult, unless the adult was under the custodial authority of the offender at the time of the offense, or if the victim was at least 13 years old and the offender was not more than four years older than the victim.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Foreign offenses. A foreign conviction is not a sex offense for the purposes of <cite path="|II|290|XVI">this article</cite> unless it was either:</text>
+          <para>
+            <num>(a)</num>
+            <text>Obtained under the laws of Canada, the United Kingdom, Australia, New Zealand; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Under the laws of any foreign country when the United States State Department, in its Country Reports on Human Rights Practices, has concluded that an independent judiciary generally or vigorously enforced the right to a fair trial in that country during the year in which the conviction occurred.</text>
+          </para>
+          <aftertext>SEXUAL ACT —</aftertext>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Contact between the penis and the vulva or the penis and the anus, and for purposes of this definition, contact involving the penis occurs upon penetration, however slight;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The penetration, however slight, of the anal or genital opening of another by a hand or finger, or by any object, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The intentional touching, not through the clothing, of the genitalia of another person that has not attained the age of 18 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.</text>
+          <text>SEXUAL CONTACT — The intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desires of another person.</text>
+          <text>SMART OFFICE — The Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking, which was established within the United States Department of Justice under the general authority of the Attorney General of the United States pursuant to 42 U.S.C. § 16945.</text>
+          <text>SORNA — The Sex Offender Registration and Notification Act (Title I of the Adam Walsh Child Protection and Safety Act of 2006, P.L. 109-248), 42 U.S.C. § 16911 et seq., as amended.</text>
+          <text>STUDENT — A person who enrolls in or attends either a private or public education institution, including a secondary school, trade or professional school, or an institution of higher education.</text>
+          <text>TIER 1 SEX OFFENDER — A "Tier 1 sex offender," or a sex offender designated as "Tier 1," is one that has been convicted of a Tier 1 sex offense as defined in <cite path="§290-59|A">§ 290-59A</cite>.</text>
+          <text>TIER 2 SEX OFFENDER — A "Tier 2 sex offender," or a sex offender designated as "Tier 2," is one that has been either convicted of a Tier 2 sex offense as defined in <cite path="§290-59|B">§ 290-59B</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>B(2).</text>
+          <text>TIER 3 SEX OFFENDER — A "Tier 3 sex offender," or a sex offender designated as "Tier 3," is one that has been either convicted of a Tier 3 sex offense as defined in <cite path="§290-59|C">§ 290-59C</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>C(2).</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Covered offenses. Individuals who reside within the exterior boundaries of the reservation or otherwise reside on property owned by the Tribe in fee or trust, regardless of location, who are employed within the exterior boundaries of the Reservation or on property owned by the Tribe in fee or trust, regardless of location, or who attend school within the exterior boundaries of the Reservation or on property owned by the Tribe in fee or trust, regardless of location, that have been convicted of any of the following offenses, or convicted of an attempt or conspiracy to commit any of the following offenses, are subject to the requirements of <cite path="|II|290|XVI">this article</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal offenses. A conviction of, adjudication or commitment for a violation, solicitation, conspiracy, or attempt to commit a violation of any of the following Menominee tribal crimes shall hereafter be included in the definition of "sex offense":</text>
+          <para>
+            <num>(a)</num>
+            <text>Abuse or sexual exploitation of children under Ordinance No. 87-21.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Sexual abuse of an individual at risk under Ordinance No. 89-26.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>First, second and third degree sexual assault of a child under Ordinance No. 99-19.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>First, second and third degree sexual assault under Ordinance No. 99-20.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Wisconsin Statutes. A conviction of, adjudication or commitment for a violation, solicitation, conspiracy or attempt to commit a violation of the following Wisconsin Statutes shall hereafter be included in the definition of "sex offense":</text>
+          <para>
+            <num>(a)</num>
+            <heading>940.225(1):</heading>
+            <text>first degree sexual assault.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>940.225(2):</heading>
+            <text>second degree sexual assault.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>940.225(3):</heading>
+            <text>third degree sexual assault.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>940.22(2):</heading>
+            <text>sexual exploitation by therapist.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>940.30:</heading>
+            <text>false imprisonment (if the victim was a minor and not the offender's child).</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>940.302(2):</heading>
+            <text>human trafficking (if 940.302(2)(a)1b, Wis. Stats., applies).</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>940.31:</heading>
+            <text>kidnapping (applies only if the victim was under 18 years of age and the offender was not the victim's parents).</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>944.06:</heading>
+            <text>incest.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>948.02(1):</heading>
+            <text>first degree sexual assault of a child.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>948.02(2):</heading>
+            <text>second degree sexual assault of a child.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <heading>948.025:</heading>
+            <text>repeated act of sexual assault — same child.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <heading>948.05:</heading>
+            <text>sexual exploitation of a child.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <heading>948.051:</heading>
+            <text>trafficking of a child.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <heading>948.055:</heading>
+            <text>forced viewing of sexual activity.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <heading>948.06:</heading>
+            <text>incest with a child.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>948.07(1) through (4): child enticement.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <heading>948.075:</heading>
+            <text>use of a computer to facilitate a child sex crime.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <heading>948.08:</heading>
+            <text>soliciting a child for prostitution.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <heading>948.085:</heading>
+            <text>sexual assault of a child placed in substitute care.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <heading>948.095:</heading>
+            <text>sexual assault of a student by school staff.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text>948.11(2)(a) or (am): exposing a child to harmful materials (for felony sections only).</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <heading>948.12:</heading>
+            <text>possession of child pornography.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <heading>948.13:</heading>
+            <text>convicted child sex offender working with children.</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <heading>948.30:</heading>
+            <text>abduction of another's child.</text>
+          </para>
+          <para>
+            <num>(y)</num>
+            <heading>971.17:</heading>
+            <text>not guilty by reason of mental disease of a listed sex offense.</text>
+          </para>
+          <para>
+            <num>(z)</num>
+            <heading>975.06:</heading>
+            <text>sex crimes law commitment.</text>
+          </para>
+          <para>
+            <num>(aa)</num>
+            <heading>980.01:</heading>
+            <text>sexually violent person commitment. (bb) 944.01: rape (old statute).</text>
+          </para>
+          <para>
+            <num>(cc)</num>
+            <heading>944.10:</heading>
+            <text>sexual intercourse with a child (old statute). (dd) 944.11: indecent behavior with a child (old statute).</text>
+          </para>
+          <para>
+            <num>(ee)</num>
+            <heading>944.12:</heading>
+            <text>enticing a child for immoral purposes (old statute).</text>
+          </para>
+          <para>
+            <num>(ff)</num>
+            <text>943.01 to 943.15: certain crimes against property if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+          </para>
+          <para>
+            <num>(gg)</num>
+            <heading>942.08:</heading>
+            <text>invasion of privacy (aka Peeping Tom) if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+          </para>
+          <para>
+            <num>(hh)</num>
+            <text><cite>Chapter 940</cite>: crimes against life and bodily security if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text><cite>Chapter 944</cite>: crimes against sexual morality if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+          </para>
+          <para>
+            <num>(jj)</num>
+            <text><cite>Chapter 948</cite>: crimes against children if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Federal offenses. A conviction for any of the following and any other offense hereafter included in the definition of "sex offense" at 42 U.S.C. § 16911(5):</text>
+          <para>
+            <num>(a)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 1591 (sex trafficking of children).</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 1801 (video voyeurism of a minor).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2241 (aggravated sexual abuse).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2242 (sexual abuse).</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2243 (sexual abuse of a minor or ward).</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2244 (abusive sexual contact).</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2245 (offenses resulting in death).</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2251 (sexual exploitation of children).</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2251A (selling or buying of children).</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252 (material involving the sexual exploitation of a minor).</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252A (material containing child pornography).</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252B (misleading domain names on the Internet).</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252C (misleading words or digital images on the Internet).</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2260 (production of sexually explicit depictions of a minor for import into the United States).</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2421 (transportation of a minor for illegal sexual activity).</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2422 (coercion and enticement of a minor for illegal sexual activity).</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2423 (Mann Act).</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2424 (failure to file factual statement about an alien individual).</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2425 (transmitting information about a minor to further criminal sexual conduct).</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Foreign offenses: any conviction for a sex offense involving any conduct listed in this section that was obtained under the laws of Canada, the United Kingdom, Australia, New Zealand, or under the laws of any foreign country when the United States State Department in its Country Reports on Human Rights Practices has concluded that an independent judiciary generally or vigorously enforced the right to a fair trial in that country during the year in which the conviction occurred.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Military offenses: any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. § 951 note).</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Juvenile offenses or adjudications: any sex offense, or attempt or conspiracy to commit a sex offense, that is comparable to or more severe than the federal crime of aggravated sexual abuse (as codified in 18 U.S.C. § 2241) and committed by a minor who is 14 years of age or older at the time of the offense. This includes engaging in a sexual act with another by force or the threat of serious violence; or engaging in a sexual act with another by rendering unconscious or involuntarily drugging the victim.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Jurisdiction offenses: any sex offense committed in any jurisdiction, including this Tribe, that involves:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any type or degree of genital, oral, or anal penetration;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any sexual touching of or sexual contact with a person's body, either directly or through the clothing;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Kidnapping of a minor;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>False imprisonment of a minor;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Solicitation to engage a minor in sexual conduct understood broadly to include any direction, request, enticement, persuasion, or encouragement of a minor to engage in sexual conduct;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Use of a minor in a sexual performance;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Solicitation of a minor to practice prostitution;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Possession, production, or distribution of child pornography;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Criminal sexual conduct that involves physical contact with a minor or the use of the Internet to facilitate or attempt such conduct. This includes offenses whose elements involve the use of other persons in prostitution, such as pandering, procuring, or pimping in cases where the victim was a minor at the time of the offense;</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Any conduct that by its nature is a sex offense against a minor; or</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Any offense similar to those outlined in:</text>
+            <para>
+              <num>[1]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 1591 (sex trafficking by force, fraud, or coercion);</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 1801 (video voyeurism of a minor);</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2241 (aggravated sexual abuse);</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2242 (sexual abuse);</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2244 (abusive sexual contact);</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2422(b) (coercing a minor to engage in prostitution);</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2423(a) (transporting a minor to engage in illicit conduct);</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <heading>18 U.S.C.</heading>
+              <text>§ 2243 (sexual abuse of a minor or ward).</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-59</num>
+      <heading>Tiered offenses.</heading>
+      <para>
+        <num>A.</num>
+        <text>Tier 1 offenses.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sex offenses. A Tier 1 offense includes any sex offense for which a person has been convicted, or an attempt or conspiracy to commit such an offense, that is not a Tier 2 or Tier 3 offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Offenses involving minors. A Tier 1 offense also includes any offense for which a person has been convicted by any jurisdiction, local government, or qualifying foreign country pursuant to <cite path="§290-58">§ 290-58</cite>B(3) that involves the false imprisonment of a minor, video voyeurism of a minor, or possession or receipt of child pornography.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal offenses. Any sex offense for which a person has been convicted by Tribal Court which has the same or similar elements as other sex offenses classified as Tier 1 sex offenses under <cite path="|II|290|XVI">this article</cite> shall be considered a Tier 1 sex offense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Certain federal offenses. Conviction for any of the following federal offenses shall be considered a conviction for a Tier 1 offense:</text>
+          <para>
+            <num>(a)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 1801 (video voyeurism of a minor);</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252 (receipt or possession of child pornography);</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252A (receipt or possession of child pornography);</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252B (misleading domain names on the Internet);</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252C (misleading words or digital images on the Internet);</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2422(a) (coercion to engage in prostitution);</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2423(b) (travel with the intent to engage in illicit conduct);</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2423(c) (engaging in illicit conduct in foreign places);</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2424 (failure to file factual statement about an alien individual); or</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2425 (transmitting information about a minor to further criminal sexual conduct).</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Certain military offenses. Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. § 951 note) that is similar to those offenses outlined in <cite path="§290-59|A|(1)">Subsection A(1)</cite>, (2) or (3) shall be considered a Tier 1 offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Tier 2 offenses.</text>
+        <para>
+          <num>(1)</num>
+          <text>Recidivism and felonies. Unless otherwise covered by <cite path="§290-59|C">Subsection C</cite>, any sex offense that is not the first sex offense for which a person has been convicted and that is punishable by more than one year in jail is considered a Tier 2 offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Offenses involving minors. A Tier 2 offense includes any sex offense against a minor for which a person has been convicted, or an attempt or conspiracy to commit such an offense, that involves:</text>
+          <para>
+            <num>(a)</num>
+            <text>The use of minors in prostitution, including solicitations;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Enticing a minor to engage in criminal sexual activity;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Sexual contact with a minor 13 years of age or older, whether directly or indirectly through the clothing, that involves the intimate parts of the body;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The use of a minor in a sexual performance; or</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The production or distribution of child pornography.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal offenses. Any sex offense for which a person has been convicted by Tribal Court which has the same or similar elements as other sex offenses classified as Tier 2 sex offenses under <cite path="|II|290|XVI">this article</cite> shall be considered a Tier 2 sex offense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Certain federal offenses. Conviction for any of the following federal offenses shall be considered a conviction for a Tier 2 offense:</text>
+          <para>
+            <num>(a)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 1591 (sex trafficking by force, fraud, or coercion).</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2243 (sexual abuse of a minor or ward).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2244 (abusive sexual contact, where the victim is 13 years of age or older).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2251 (sexual exploitation of children).</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2251A (selling or buying of children).</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252 (material involving the sexual exploitation of a minor).</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2252A (production or distribution of material containing child pornography).</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2260 (production of sexually explicit depictions of a minor for import into the United States).</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2421 (transportation of a minor for illegal sexual activity).</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2422(b) (coercing a minor to engage in prostitution).</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2423(a) (transporting a minor to engage in illicit conduct).</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Certain military offenses. Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. § 951 note) that is similar to those offenses outlined in <cite path="§290-59|B|(1)">Subsection B(1)</cite>, (2) or (3) shall be considered a Tier 2 offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Tier 3 offenses.</text>
+        <para>
+          <num>(1)</num>
+          <text>Recidivism and felonies. Any sex offense that is punishable by more than one year in jail where the offender has at least one prior conviction for a Tier 2 sex offense, or has previously become a Tier 2 sex offender, is a Tier 3 offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Two-strike cases. Where the offender has been convicted of a sex offense as defined by the crimes included in <cite path="|II|290|XVI">this article</cite> on two or more separate occasions, the offender shall be classified as a Tier 3 offender and subject to the registration requirements of a Tier 3 offender. A previous conviction can include a conviction from another state or tribe that is comparable to one of the crimes requiring registration under <cite path="|II|290|XVI">this article</cite>. Offenses/dispositions that do not constitute a strike include:</text>
+          <para>
+            <num>(a)</num>
+            <text>Juvenile adjudications.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Read-ins do not count as a strike.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Convictions that have been revised, set aside, or vacated.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>General offenses. A Tier 3 offense includes any sex offense for which a person has been convicted, or an attempt or conspiracy to commit such an offense, that involves:</text>
+          <para>
+            <num>(a)</num>
+            <text>Nonparental kidnapping of a minor;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A sexual act with another by force or threat;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A sexual act with another who has been rendered unconscious or involuntarily drugged, or who is otherwise incapable of appraising the nature of the conduct or declining to participate; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Sexual contact with a minor 12 years of age or younger, including offenses that cover sexual touching of or contact with the intimate parts of the body, either directly or through the clothing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Tribal offenses. Any sex offense for which a person has been convicted by Tribal Court which has the same or similar elements as other sex offenses classified as Tier 3 sex offenses under <cite path="|II|290|XVI">this article</cite> shall be considered a Tier 3 sex offense.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Certain federal offenses. Conviction for any of the following federal offenses shall be considered conviction for a Tier 3 offense:</text>
+          <para>
+            <num>(a)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2241(a) and (b) (aggravated sexual abuse);</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>18 U.S.C.</heading>
+            <text>§ 2242 (sexual abuse); or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Where the victim is 12 years of age or younger, 18 U.S.C. § 2244 (abusive sexual contact).</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Certain military offenses. Any military offense specified by the Secretary of Defense under Section 115(a)(8)(C)(i) of Public Law 105-119 (codified at 10 U.S.C. § 951 note) that is similar to those offenses outlined in <cite path="§290-59|C|(1)">Subsection C(1)</cite>, (2) or (3) shall be considered a Tier 3 offense.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Wisconsin <cite>Chapter 980</cite> commitments. Commitment under Wisconsin <cite>Chapter 980</cite> shall classify the offender as a Tier 3 offender and subject the offender to the registration requirements of a Tier 3 offender.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-60</num>
+      <heading>Required information.</heading>
+      <para>
+        <num>A.</num>
+        <text>General requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Duties. A sex offender covered by <cite path="|II|290|XVI">this article</cite> who is required to register with the Tribe pursuant to <cite path="§290-61">§ 290-61</cite> shall provide all of the information detailed in this section to the Menominee Tribal Police Department, and the Menominee Tribal Police Department shall obtain all of the information detailed in this section from covered sex offenders who are required to register with the Tribe in accordance with <cite path="|II|290|XVI">this article</cite> and shall implement any relevant policies and procedures.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Digitization. All information obtained under <cite path="|II|290|XVI">this article</cite> shall be, at a minimum, maintained by the Menominee Tribal Police Department in a digitized format.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Electronic database. A sex offender registry shall be maintained in an electronic database by the Menominee Tribal Police Department and shall be in a form capable of electronic transmission.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Criminal history. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's criminal history:</text>
+        <para>
+          <num>(1)</num>
+          <text>The date of all arrests;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date of all convictions;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The sex offender's status of parole, probation, or supervised release;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The sex offender's registration status; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any outstanding arrest warrants.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Date of birth. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's date of birth:</text>
+        <para>
+          <num>(1)</num>
+          <text>The sex offender's actual date of birth; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any other date of birth used by the sex offender.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>DNA sample.</text>
+        <para>
+          <num>(1)</num>
+          <heading>DNA.</heading>
+          <text>If the sex offender's DNA is not already contained in the Combined DNA Index System (CODIS), the sex offender shall provide the Menominee Tribal Police Department or designee a sample of his DNA. The Wisconsin Department of Justice, Crime Laboratory Bureau, Wisconsin DNA Databank, BUCCAL Swab Collection Kit will be used to collect the sample.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>CODIS.</heading>
+          <text>Any DNA sample obtained from a sex offender shall be submitted to an appropriate lab for analysis and entry of the resulting DNA profile into CODIS.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Driver's licenses, identification cards, passports, and immigration documents.</text>
+        <para>
+          <num>(1)</num>
+          <text>Driver's license. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, a photocopy of all of the sex offender's valid driver's licenses issued by any jurisdiction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Identification cards. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, a photocopy of any identification card, including the sex offender's tribal enrollment card, issued by any jurisdiction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Passports. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, a photocopy of any passports used by the sex offender.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Immigration documents. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, a photocopy of any and all immigration documents.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Employment information. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's employment, to include any and all places where the sex offender is employed in any means, including volunteer and unpaid positions:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the sex offender's employer;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The address of the sex offender's employer; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Similar information related to any transient or day labor employment.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Fingerprints and palm prints. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, both fingerprints and palm prints of the sex offender in a digitized format.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Internet identifiers: Internet names. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's Internet-related activity:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any and all email addresses used by the sex offender;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any and all instant message addresses and identifiers;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any and all other designations or monikers used for self-identification in Internet communications or postings; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any and all designations used by the sex offender for the purpose of routing or self-identification in Internet communications or postings.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Name. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's name:</text>
+        <para>
+          <num>(1)</num>
+          <text>The sex offender's full primary given name;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any and all nicknames, aliases, and pseudonyms, regardless of the context in which they are used; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any and all ethnic or tribal names by which the sex offender is commonly known. This does not include any religious or sacred names not otherwise commonly known.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Phone numbers. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's telephone numbers:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any and all land line and Internet-/computer-based telephone numbers; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any and all cellular and pager telephone numbers.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Picture.</text>
+        <para>
+          <num>(1)</num>
+          <text>Photograph. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, a current photograph of the sex offender.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Update requirements. Unless the appearance of a sex offender has not changed significantly, a digitized photograph shall be collected:</text>
+          <para>
+            <num>(a)</num>
+            <text>Every 90 days for Tier 3 sex offenders;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Every 180 days for Tier 2 sex offenders; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Every year for Tier 1 sex offenders.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Physical description. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, an accurate description of the sex offender as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>A physical description;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A general description of the sex offender's physical appearance or characteristics; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any identifying marks, such as, but not limited to, scars, moles, birthmarks, or tattoos. The Menominee Tribal Police shall take digitized photos of any identifying marks.</text>
+        </para>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Professional licensing information: professional licenses. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, all licensing of the sex offender that authorizes the sex offender to engage in an occupation or carry out a trade or business.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Residence address. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's residence:</text>
+        <para>
+          <num>(1)</num>
+          <text>The address of each residence at which the sex offender resides or will reside; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any location or description that identifies where the sex offender habitually resides, regardless of whether it pertains to a permanent residence or location otherwise identifiable by a street or address.</text>
+        </para>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>School location. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to the sex offender's school:</text>
+        <para>
+          <num>(1)</num>
+          <text>The address of each school where the sex offender is or will be a student; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name of each school where the sex offender is or will be a student.</text>
+        </para>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Social security number. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A valid social security number for the sex offender; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any social security number the sex offender has used in the past, valid or otherwise.</text>
+        </para>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>Temporary lodging.</text>
+        <para>
+          <num>(1)</num>
+          <text>Lodging information. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information when the sex offender will be absent from his residence for seven days or more:</text>
+          <para>
+            <num>(a)</num>
+            <text>Identifying information of the temporary lodging locations, including addresses and names; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The dates the sex offender will be staying at each temporary lodging location.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Travel abroad. In the event the sex offender will be traveling outside of the United States for more than seven days, the Menominee Tribal Police Department or designee shall immediately provide this information to INTERPOL.</text>
+        </para>
+      </para>
+      <para>
+        <num>R.</num>
+        <text>Offense information. The Menominee Tribal Police Department or designee shall obtain the text of each provision of law defining the criminal offense(s) for which the sex offender is registered.</text>
+      </para>
+      <para>
+        <num>S.</num>
+        <text>Detailed vehicle information. The Menominee Tribal Police Department or designee shall obtain, and a covered sex offender shall provide, the following information related to all vehicles owned or operated by the sex offender for work or personal use, including land vehicles, aircraft, and watercraft:</text>
+        <para>
+          <num>(1)</num>
+          <text>License plate numbers;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Registration numbers or identifiers;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>General description of the vehicle, to include color, make, model, and year; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any permanent or frequent location where any covered vehicle is kept.</text>
+        </para>
+      </para>
+      <para>
+        <num>T.</num>
+        <text>Frequency, duration and reduction.</text>
+        <para>
+          <num>(1)</num>
+          <text>Frequency. A sex offender who is required to register shall, at a minimum, appear in person at the Menominee Tribal Police Department for purposes of verification and keeping his or her registration current in accordance with the following time frames:</text>
+          <para>
+            <num>(a)</num>
+            <text>For Tier 1 offenders, once every year for 15 years from the time of release from custody for a sex offender who is incarcerated for the registration offense or from the date of sentencing for a sex offender who is not incarcerated for the registration offense.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For Tier 2 offenders, once every 180 days for 25 years from the time of release from custody for a sex offender who is incarcerated for the registration offense or from the date of sentencing for a sex offender who is not incarcerated for the registration offense.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>For Tier 3 offenders, once every 90 days for the rest of their lives.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>For those offenders, regardless of tier classification, who are homeless or do not have a permanent address, the offender must appear in person at the Menominee Tribal Police Department, during normal business hours, a minimum of once every seven days, or as deemed appropriate by the Sex Offender Registry and Notification Monitor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Reduction of registration periods. A sex offender may have his or her period of registration reduced as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>A Tier 1 offender may have his or her period of registration reduced to 10 years if he or she has maintained a clean record for 10 consecutive years;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A Tier 3 offender may have his or her period of registration reduced to 25 years if he or she was adjudicated delinquent of an offense as a juvenile that required Tier 3 registration and he or she has maintained a clean record for 25 consecutive years.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Clean record. For purposes of <cite path="§290-60|T|(2)">Subsection T(2)</cite>, a person has a clean record if:</text>
+          <para>
+            <num>(a)</num>
+            <text>He or she has not been convicted of any other criminal offense;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>He or she has not been convicted of any sex offense;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>He or she has successfully completed, without revocation, any period of supervised release, probation, or parole; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>He or she has successfully completed an appropriate sex offender treatment program certified by the Tribe, another jurisdiction, or by the Attorney General of the United States.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>U.</num>
+        <text>Requirements for in-person appearances.</text>
+        <para>
+          <num>(1)</num>
+          <text>Photographs. At each in-person verification, the sex offender shall permit the Menominee Tribal Police Department to take a digital photograph of the offender.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review of information. At each in-person verification, the sex offender shall review existing information for accuracy.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Notification. If any new information or change in information is obtained at an in-person verification, the offender shall complete a change-of-information form. The Menominee Tribal Police Department shall immediately notify all other jurisdictions in which the sex offender is required to register of the information or change in information.</text>
+        </para>
+      </para>
+      <para>
+        <num>V.</num>
+        <text>Offender profile data. In addition to the offender demographics, offense and locating information contained in the registry, law enforcement officials will have inquiry access to the offender profile data included in the registry. This information will be collected and maintained on each registrant in order to provide law enforcement with a means to identify possible suspects of criminal sexual behavior, based on known factors/identifiers related to the perpetrator and/or the offense pattern. Data collected in this directory works in conjunction with the registry data to serve as an investigatory tool for law enforcement. Offense profiling information contained in this area of the registry shall include, at a minimum, the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>Profiling information.</text>
+          <para>
+            <num>(a)</num>
+            <text>Targeted age and sex of victim(s).</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Relationship to victim(s).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Type of sexual contact.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Method/use of force.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Offense pattern information.</text>
+          <para>
+            <num>(a)</num>
+            <text>Committed sexual crime with accomplice.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Targeted disabled, aged, vulnerable adults.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Targeted prostitutes.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Engaged in stalking-type behavior.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Engaged in personal and/or home intrusion crimes.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Engaged in impersonating a police officer.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Used disguises in commission of sex crime.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Used photo equipment in commission of sex crime.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Used computer in commission of sex crime.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Used vehicle in commission of sex crime.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-61</num>
+      <heading>Registration.</heading>
+      <para>
+        <num>A.</num>
+        <text>Where registration is required.</text>
+        <para>
+          <num>(1)</num>
+          <text>Jurisdiction of conviction. A sex offender must initially register with the Menominee Tribal Police Department of the Menominee Indian Tribe of Wisconsin if the sex offender was convicted by the Tribal Court of a covered sex offense, regardless of the sex offender's actual or intended residency.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Jurisdiction of incarceration. A sex offender must register with the Menominee Tribal Police Department of the Menominee Indian Tribe of Wisconsin if the sex offender is incarcerated by the Tribe while completing any sentence for a covered sex offense, regardless of whether it is the same jurisdiction as the jurisdiction of conviction or residence.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Jurisdiction of residence. A sex offender must register with the Menominee Tribal Police Department of the Menominee Indian Tribe of Wisconsin if the sex offender resides within the exterior boundaries of the Menominee Indian Reservation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Jurisdiction of employment. A sex offender must register with the Menominee Tribal Police Department of the Menominee Indian Tribe of Wisconsin if he or she is employed by the Tribe in any capacity or otherwise is employed within the exterior boundaries of the Menominee Indian Reservation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Jurisdiction of school attendance. A sex offender must register with the Menominee Tribal Police Department of the Menominee Indian Tribe of Wisconsin if the sex offender is a student in any capacity within the exterior boundaries of the Menominee Indian Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Timing of registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>Timing. A sex offender required to register with the Tribe under <cite path="|II|290|XVI">this article</cite> shall do so in the following time frame:</text>
+          <para>
+            <num>(a)</num>
+            <text>If convicted by the Menominee Indian Tribe of Wisconsin for a covered sex offense and incarcerated, the sex offender must register before being released from incarceration;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If convicted by the Menominee Indian Tribe of Wisconsin but not incarcerated, within three business days of sentencing for the registration offense; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Within three business days of establishing a residence, commencing employment, or becoming a student on lands located within the exterior boundaries of the Menominee Indian Reservation, a sex offender must appear in person to register with the Menominee Tribal Police Department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Duties of Menominee Tribal Police Department. The Menominee Tribal Police Department shall have policies and procedures in place to ensure the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>That any sex offender incarcerated or sentenced by the Tribe for a covered sex offense completes his or her initial registration with the Tribe, using the METP Form 1759;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>That the sex offender reads, or has read to him or her, and signs a form stating that the duty to register has been explained to him or her and that the sex offender understands the registration requirement;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>That the sex offender is registered; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>That upon entry of the sex offender's information into the Menominee Tribal Sex Offender Registry and Notification (SORN) Database, that information is immediately forwarded to all other jurisdictions in which the sex offender is required to register due to the sex offender's residency, employment, or student status.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Retroactive registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>Retroactive registration. The Menominee Tribal Police Department shall have in place policies and procedures to ensure the following three categories of sex offenders are subject to the registration and updating requirements of <cite path="|II|290|XVI">this article</cite>:</text>
+          <para>
+            <num>(a)</num>
+            <text>Sex offenders incarcerated or under the supervision of the Tribe, whether for a covered sex offense or other crime;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Sex offenders already registered or subject to a preexisting sex offender registration requirement under the Tribe's laws; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Sex offenders reentering the justice system due to conviction for any crime.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Timing of recapture. The Menominee Tribal Police Department shall ensure recapture of the sex offenders mentioned in <cite path="§290-61|C|(1)">Subsection C(1)</cite> within the following time frame to be calculated from the date of passage of <cite path="|II|290|XVI">this article</cite>:</text>
+          <para>
+            <num>(a)</num>
+            <text>For Tier 1 sex offenders: one year;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For Tier 2 sex offenders: 180 days; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>For Tier 3 sex offenders: 90 days.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Keeping registration current.</text>
+        <para>
+          <num>(1)</num>
+          <text>Jurisdiction of residency. All sex offenders required to register in this jurisdiction shall immediately appear in person at the Menominee Tribal Police Department to update any changes to their name, residence (including termination of residency), employment, or school attendance. All sex offenders required to register in this jurisdiction shall immediately inform the Menominee Tribal Police Department, in person, of any changes to their temporary lodging information, vehicle information, Internet identifiers, or telephone numbers. The offender shall complete a change-of-information form. In the event of a change in temporary lodging, the sex offender and the Menominee Tribal Police Department shall immediately notify the jurisdiction in which the sex offender will be temporarily staying.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Jurisdiction of school attendance. Any sex offender who is a student in any capacity at a school located within the exterior boundaries of the Menominee Indian Reservation, regardless of location, who changes his or her school, or otherwise terminates his or her schooling, shall immediately appear, in person, at the Menominee Tribal Police Department to update that information. The offender shall complete a change-of-information form. The Menominee Tribal Police Department shall ensure that each jurisdiction in which the sex offender is required to register, or was required to register prior to the updated information being given, is immediately notified of the change.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Jurisdiction of employment. Any sex offender who is employed by the Tribe in any capacity or otherwise is employed within the exterior boundaries of the Menominee Indian Reservation, regardless of location, who changes his or her employment, or otherwise terminates his or her employment, shall immediately appear, in person, at the Menominee Tribal Police Department to update that information. The offender shall complete a change-of-information form. The Menominee Tribal Police Department shall ensure that each jurisdiction in which the sex offender is required to register, or was required to register prior to the updated information being given, is immediately notified of the change.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Duties of Menominee Tribal Police Department. With regard to changes in a sex offender's registration information, the Menominee Tribal Police Department or designee shall immediately notify:</text>
+          <para>
+            <num>(a)</num>
+            <text>All jurisdictions where a sex offender intends to reside, work, or attend school;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any jurisdiction where the sex offender is either registered or required to register; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Specifically with respect to information relating to a sex offender's intent to commence residence, school, or employment outside of the United States, any jurisdiction where the sex offender is either registered or required to register, and the U.S. Marshals Service. The tribal police shall also ensure this information is immediately updated on NSOR.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Failure to appear for registration and absconding.</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure to appear. In the event a sex offender fails to register with the Tribe as required by <cite path="|II|290|XVI">this article</cite>, the Menominee Tribal Police Department or designee shall immediately inform the jurisdiction that provided notification that the sex offender was to commence residency, employment, or school attendance with the Tribe that the sex offender failed to appear for registration.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Absconded sex offenders. If the Menominee Tribal Police Department or designee receives information that a sex offender has absconded, the Menominee Tribal Police Department shall make an effort to determine if the sex offender has actually absconded.</text>
+          <para>
+            <num>(a)</num>
+            <text>In the event no determination can be made, the Menominee Tribal Police Department or designee shall ensure the tribal police and any other appropriate law enforcement agency is notified.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the information indicating the possible absconding came through notice from another jurisdiction or federal authorities, they shall be informed that the sex offender has failed to appear and register.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If an absconded sex offender cannot be located, then the tribal police shall take the following steps:</text>
+            <para>
+              <num>[1]</num>
+              <text>Update the registry to reflect the sex offender has absconded or is otherwise not capable of being located;</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>[2]</num>
+        <text>Notify the U.S. Marshals Service;</text>
+        <para>
+          <num>[3]</num>
+          <text>Seek a warrant for the sex offender's arrest. The U.S. Marshals Service or FBI may be contacted in an attempt to obtain a federal warrant for the sex offender's arrest;</text>
+        </para>
+        <para>
+          <num>[4]</num>
+          <text>Update the NSOR to reflect the sex offender's status as an absconder, or as otherwise not capable of being located; and</text>
+        </para>
+        <para>
+          <num>[5]</num>
+          <text>Enter the sex offender into the National Crime Information Center Wanted Person File.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Failure to register. In the event a sex offender who is required to register due to his or her employment or school attendance status fails to do so or otherwise violates a registration requirement of <cite path="|II|290|XVI">this article</cite>, the Menominee Tribal Police Department shall take all appropriate follow-up measures, including those outlined in <cite path="§290-61|E|(2)">Subsection E(2)</cite>. The Menominee Tribal Police Department shall first make an effort to determine if the sex offender is actually employed or attending school in lands subject to the Tribe's jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Verification process. The registration verification and monitoring program is designed to ensure information contained in the registry is accurate, and to track the registrant compliance with the registry requirements.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon receiving the completed METP Form 1759, the Menominee Tribal Police Department shall enter the information into the Menominee Tribal Sex Offender Registry and Notification Database.</text>
+          <para>
+            <num>(a)</num>
+            <text>An automated letter shall be mailed to the reported address of the registrant requiring the sex offender to forward a confirmation receipt to the Menominee Tribal Police Department within 10 calendar days. When this occurs, the registrant record in the database shall be classified as "nonverified" until full validation of the information is complete.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Completed and returned confirmation receipts shall be noted in the registry, and the record shall be classified as "verified."</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Confirmation receipts not received within the required time frame, or those marked "return to sender," shall generate a certified letter to the registrant, requiring the registrant to forward a confirmation receipt to the Menominee Tribal Police Department within 48 hours. The letter shall include a formal notice to the registrant that failure to respond may result in further prosecution and will constitute a violation of supervision. A copy of any certified mailing to a registrant shall be forwarded to the supervising agent.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Completed and returned confirmation receipts of the certified mailing shall be noted in the registry, and the record shall be classified as "verified."</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Confirmation receipts of the certified mailings not received within the required time frame shall generate a notice to the Tribal Prosecutor. A copy of the notice shall be forwarded to the Menominee Tribal Police, the Tribal Probation/Parole Agent, and the Federal Probation Officer, if applicable.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>When a confirmation receipt of certified mailing is not received within the required time frame, the registry shall reflect that the current information is nonverified, and the registrant shall be classified as "noncompliant."</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each month, the SORN Database shall randomly select 1/12 of the active registrants contained in the database.</text>
+          <para>
+            <num>(a)</num>
+            <text>Upon random selection, an automated letter shall be mailed to the reported address of the registrant requiring the sex offender to forward a confirmation receipt to the Menominee Tribal Police Department within 10 calendar days. When this occurs, the registrant record in the database shall be classified as "nonverified" until full validation of the information is complete.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Completed and returned confirmation receipts shall be noted in the registry, and the record shall be classified as "verified."</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Confirmation receipts not received within the required time frame, or those marked "return to sender," shall generate a certified letter to the registrant, requiring the registrant to forward a confirmation receipt to the Menominee Tribal Police Department within 48 hours. The letter shall include a formal notice to the registrant that failure to respond may result in further prosecution and will constitute a violation of supervision. A copy of any certified mailing to a registrant shall be forwarded to the supervising agent.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Completed and returned confirmation receipts of the certified mailing shall be noted in the registry, and the record shall be classified as "verified."</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Confirmation receipts of the certified mailings not received within the required time frame shall generate a notice to the Tribal Prosecutor. A copy of the notice shall be forwarded to the Menominee Tribal Police, the Tribal Probation/Parole Agent, and the Federal Probation Officer, if applicable.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>When a confirmation receipt of certified mailing is not received within the required time frame, the registry shall reflect that the current information is nonverified, and the registrant shall be classified as "noncompliant."</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Sharing information among agencies. The Menominee Tribal Police Department Chief of Police, or designee, is authorized to share any registration information received pursuant to <cite path="|II|290|XVI">this article</cite> with any law enforcement agency or sex offender registry agency.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Sex offender name changes prohibited.</text>
+        <para>
+          <num>(1)</num>
+          <text>A sex offender may not do any of the following before he/she is released from the sex offender registration and notification reporting requirements.</text>
+          <para>
+            <num>(a)</num>
+            <text>Change his or her name.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Identify himself or herself by a name unless the name is one by which the person is identified with the department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person who violates this section may be subject to penalties set forth in <cite path="§290-64">§ 290-64</cite> of <cite path="|II|290|XVI">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Removal from registry.</text>
+        <para>
+          <num>(1)</num>
+          <text>Period of registration completed. Registrants who have completed their required term of registration shall have their records made inactive in the registry. These individuals shall receive a notice of termination from their obligations to register with the Menominee Tribal Police Department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Record expungement. A registrant may request expungement from the court of all pertinent information in the registry on the grounds that his/her conviction, delinquency adjudication or commitment has been revised, set aside or vacated by the jurisdiction where conviction took place. The Menominee Tribal Police Department must purge all information in the registry concerning an individual when the Menominee Tribal Police Department receives the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The person's written request for expungement; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A certified copy of the court order reversing, setting aside or vacating the conviction, delinquency adjudication or commitment, and stating the offender is no longer required to register as a sex offender.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Death. Death of a registrant while off supervision will be verified by the Menominee Tribal Police Department by obtaining a certified copy of the death certificate. Death occurring while on supervision shall be verified through the normal policy and procedures of the Probation and Parole Department. Upon verification, records will be made inactive in the registry.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-62</num>
+      <heading>Public sex offender registry website.</heading>
+      <para>
+        <num>A.</num>
+        <text>Website.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Menominee Tribal Police Department shall use and maintain a public sex offender registry website.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Links. The registry website shall include links to sex offender safety and education resources.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Instructions. The registry website shall include instructions on how a person can seek correction of information that the individual contends is erroneous.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Warnings. The registry website shall include a warning that the information contained on the website should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported addresses and that any such action could result in civil or criminal penalties.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Search capabilities. The registry website shall have the capability of conducting searches by name; county, city, and/or town; and zip code and/or geographic radius.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Dru Sjodin National Sex Offender Public Website. The Tribe shall include in the design of its website all field search capabilities needed for full participation in the Dru Sjodin National Sex Offender Public Website and shall participate in that website as provided by the Attorney General of the United States.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Required and prohibited information.</text>
+        <para>
+          <num>(1)</num>
+          <text>Required information. The following information shall be made available to the public on the sex offender registry website:</text>
+          <para>
+            <num>(a)</num>
+            <text>Notice that an offender is in violation of his or her registration requirements or cannot be located if the sex offender has absconded;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All sex offenses for which the sex offender has been convicted;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The sex offense(s) for which the offender is currently registered;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The address of the sex offender's employer(s);</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The name of the sex offender, including all aliases;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>A current photograph of the sex offender;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>A physical description of the sex offender;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The residential address and, if relevant, a description of a habitual residence of the sex offender;</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>All addresses of schools attended by the sex offender; and</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>The sex offender's vehicle license plate number along with a description of the vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prohibited information. The following information shall not be available to the public on the sex offender registry website:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any arrest that did not result in conviction;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The sex offender's social security number;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any travel and immigration documents;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The identity of the victim; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Internet identifiers (as defined in 42 U.S.C. § 16911).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Witness protection. For sex offenders who are under a witness protection program, the tribal police may honor the request of the United States Marshals Service or other agency responsible for witness protection by not including the original identity of the offender on the publicly accessible sex offender registry website.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Community notification.</text>
+        <para>
+          <num>(1)</num>
+          <text>Law enforcement notification. Whenever a sex offender registers or updates his or her information with the Tribe, the Menominee Tribal Police Department shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Immediately notify the FBI or other federal agency as designated by the Attorney General in order that the information may be updated on NSOR or other relevant databases.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Immediately notify any agency, department, or program within the Tribe that is responsible for criminal investigation, prosecution, child welfare or sex offender supervision functions, including but not limited to, police, whether BIA, tribal, or FBI, tribal prosecutors, and tribal probation.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Immediately notify any and all other registration jurisdictions where the sex offender is registered due to the sex offender's residency, school attendance, or employment.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Immediately notify National Child Protection Act agencies, which include any agency responsible for conducting employment-related background checks under Section 3 of the National Child Protection Act of 1993 (42 U.S.C. § 5119a), when a sex offender registers or updates registration.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>If the Menominee Registration and Notification Commission deems it necessary, the Commission may recommend to the Menominee Tribal Police Department, Chief of Police, that a public meeting be held. If the Chief of Police is in agreement, the Menominee Tribal Police Department, Chief of Police, shall hold a public meeting to inform the community of necessary information of a sex offender's registration or update of information.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Community notification. The Menominee Tribal Police Department shall ensure there is an automated community notification process in place that ensures the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Upon a sex offender's registration or update of information with the Tribe, the Tribe's public sex offender registry website is immediately updated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe's public sex offender registry has a function that enables the general public to request an e-mail notice that will notify them when a sex offender commences residence, employment, or school attendance with the Tribe, within a specified zip code or within a certain geographic radius. This email notice shall include the sex offender's identity so that the public can access the public registry for the new information.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Notification to law enforcement.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon sentencing of a sex offender by Tribal Courts, Tribal Courts shall notify the Tribal Police Department when the sex offender is required to register.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tribal Courts shall provide all necessary information regarding conviction of a sex offender to the appropriate sex offender registration and notification personnel. This includes information on convictions/adjudications of juvenile sex offenders.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-63</num>
+      <heading>Immunity.</heading>
+      <para>
+        <num>A.</num>
+        <text>No waiver of immunity. Nothing under <cite path="|II|290">this chapter</cite> shall be construed as a waiver of sovereign immunity for the Menominee Indian Tribe of Wisconsin, its departments, agencies, employees, or agents.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Good faith. Any person acting under good faith of <cite path="|II|290|XVI">this article</cite> shall be immune from any civil liability arising out of such actions.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-64</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Criminal penalty. Each violation of a provision of <cite path="|II|290|XVI">this article</cite> by a sex offender who is an Indian shall be considered a crime and subject to a maximum period of incarceration of one year or a maximum fine of $5,000, or both. Additionally, the Court may order the offender banished from the Reservation if the Court finds the offender has failed in the past to comply with <cite path="|II|290|XVI">this article</cite>, has committed another crime while subject to <cite path="|II|290|XVI">this article</cite>, is unlikely to comply with the registration process and is a danger to the community, or if the offender has committed his/her third violation of a sex offense under <cite path="|II|290|XVI">this article</cite>, the Court may order lifetime banishment from the Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Civil penalty. Each violation of a provision of <cite path="|II|290|XVI">this article</cite> by a sex offender who is not an Indian shall be considered a civil violation subject to enforcement by any means not prohibited by federal law, including, but not limited to, the issuance of fines, forfeitures, civil contempt.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Hindrance of sex offender registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>A person is guilty of an offense if he or she:</text>
+          <para>
+            <num>(a)</num>
+            <text>Knowingly harbors or knowingly attempts to harbor, or knowingly assists another person in harboring or attempting to harbor a sex offender who is in violation of <cite path="|II|290|XVI">this article</cite>;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Knowingly assists a sex offender in eluding a law enforcement agency that is seeking to find the sex offender to question the sex offender about, or to arrest the sex offender for, noncompliance with the requirements of <cite path="|II|290|XVI">this article</cite>; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Provides information to a law enforcement agency regarding a sex offender which the person knows to be false.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person guilty of hindrance of sex offender registration shall be subject to a maximum period of incarceration of one year and a maximum fine of $5,000.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-65</num>
+      <heading>When effective.</heading>
+      <text><cite path="|II|290|XVI">This article</cite> shall be immediately effective upon final approval of the Menominee Tribal Legislature.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-66</num>
+      <heading>Severability; repealer.</heading>
+      <para>
+        <num>A.</num>
+        <text>If any portion of <cite path="|II|290|XVI">this article</cite> is found to be unconstitutional or in violation of applicable federal law, the remainder of the article shall remain in effect.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Upon final approval of <cite path="|II|290|XVI">this article</cite> by the Menominee Tribal Legislature, Ordinance No. 01-12, "Sex Offender Registration and Notification Program," shall be repealed in its entirety.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§§</prefix>
+      <num>290-67 through 290-69</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>9</num>
+        <text>Editor's Note: This ordinance also repealed former Art. XVI, Sex Offender Registration, adopted 8-9-2001 by Ord. No. 01-12, as amended.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="II|290|XVII">
+    <prefix>Article</prefix>
+    <num>XVII</num>
+    <heading>Bomb Scares</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-24-2000 by Ord. No. 99-33; amended in its entirety 9-6-2007</annotation>
+    </annotations>
+    <section cache:ref-path="II|§290-70">
+      <prefix>§</prefix>
+      <num>290-70</num>
+      <heading>Violations and penalties.</heading>
+      <text>Whoever intentionally conveys or causes to be conveyed any threat or false information, knowing such to be false, concerning an attempt or alleged attempt being made or to be made to destroy any property by the means of explosives is guilty of a tribal crime and subject to the following penalties:</text>
+      <para>
+        <num>A.</num>
+        <text>Penalties. Upon conviction, the Court shall impose a fine of not less than $1,000 nor more than $5,000 and a jail term of not less than six months nor more than one year in tribal jail. In addition to the above penalties, the Court may order the defendant to pay for all expenses caused as a result of the threat, including but not limited to evacuation costs, operational costs and property damage. In the case of a violation of <cite path="|II|290|XVII">this article</cite> by a student pursuant to <cite path="§290-71">§ 290-71</cite> below, the Court shall have broad discretion pursuant to <cite path="§290-71">§ 290-71</cite>B(2) to determine the penalties and/or the disposition; provided, however, that in no case shall the Court assess a penalty in excess of $5,000 and/or a jail term exceeding six months, if the student is an adult, or to determine disposition if the student is prosecuted under the tribally adopted juvenile code.<fn path="|II|§290-70|footnotes|10">10</fn></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: See <cite path="|II|278">Ch. 278</cite>, Children's Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-71</num>
+      <heading>Bomb scares by students.</heading>
+      <text>Any student who conveys or causes to convey any threat or false information, knowing such to be false, concerning an attempt or alleged attempt being made or to be made to destroy any property of a school or other place of learning by the means of explosives violates <cite path="§290-70">§ 290-70</cite> of <cite path="|II|290|XVII">this article</cite> and is subject to the penalties pursuant to <cite path="§290-71|A">§ 290-71A</cite>, if prosecuted as an adult, or pursuant to the penalties of the tribally adopted juvenile code, if prosecuted as a juvenile delinquent. In addition to penalties that may be imposed by the Court, the student shall face the following administrative action by the school:</text>
+      <para>
+        <num>A.</num>
+        <text>The student(s) will be suspended from school immediately and referred to the School Board for an expulsion hearing.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition, the student(s) will be referred to an appropriate agency for an evaluation/assessment of this threat and follow through with any recommendations from this assessment.</text>
+        <para>
+          <num>(1)</num>
+          <text>A team action plan for intervention will be developed by the school and community agencies to address behaviors identified in the assessment.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Court shall consider the level of cooperation and compliance the student shows with regards to the plan in determining the penalties or disposition to be imposed in any prosecution and conviction arising out of the bomb scare made by the student.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|290|XVIII">
+    <prefix>Article</prefix>
+    <num>XVIII</num>
+    <heading>Theft, Embezzlement, Fraud and Forgery [Adopted 7-25-2002 by Ord. No. 02-25]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-72</num>
+      <heading>Legislative findings.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Legislature has determined that, on numerous occasions and in various locations throughout tribal operations, appropriation by Indian persons of money and other things of value belonging to the Tribe or other persons has occurred which has raised the issue in some quarters as to whether such happenings rise to the level of criminal activity, and the Tribal Legislature has determined that appropriation with intent to deprive money or other things of value from the Tribe or another person has always been a crime and <cite path="|II|290|XVIII">this article</cite> is a reaffirmation of that fact.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Theft, embezzlement, fraud and forgery are crimes as defined herein and shall be punished accordingly to pursue the ends of justice.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-73</num>
+      <heading>Definitions.</heading>
+      <text>For purposes of <cite path="|II|290|XVIII">this article</cite>, the following terms shall have the meaning set forth below:</text>
+      <text>ADULT — An Indian person who has achieved the age of 17 years when the crime is committed.</text>
+      <text>CRIME — Conduct by an Indian person which is prohibited by tribal law and punishable by fine, community service, or imprisonment or all three. Conduct punishable by forfeiture only is not a crime.</text>
+      <text>INDIAN — Any person of Indian descent who is a member of any recognized tribe under federal jurisdiction or a person who is recognized by the Menominee Indian Community as an Indian.</text>
+      <text>JUDGE — Any appointed Judge of the Tribal Court, including the Chief Justice, Supreme Court Justices, and Lower Court Judges.</text>
+      <text>PERSON — An individual person(s) or the Menominee Tribe.</text>
+      <text>PROPERTY — All forms of tangible property, whether real or personal, without limitation, and which may belong to the Tribe or an individual. For purposes of <cite path="|II|290|XVIII">this article</cite> "property" shall include money and personal property.</text>
+      <text>TRIBAL COURT — The Court established by the Tribal Legislature under the Menominee Constitution, Article V.</text>
+      <text>TRIBAL LEGISLATURE — The official governing body of the Menominee Tribe.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-74</num>
+      <heading>Theft.</heading>
+      <text>Theft is a crime defined as any Indian who shall take the property of another person, with intent to steal, and that Indian shall be charged with theft and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months, community service, and repayment of the total value of such stolen property to the Tribe or the person within a period of 12 months.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-75</num>
+      <heading>Embezzlement.</heading>
+      <text>Embezzlement is a crime defined as any Indian who shall, having lawful custody of property not his own but belonging to the Tribe or another person, appropriate the same for his own use, with intent to deprive the owner thereof, and that Indian shall be charged with embezzlement and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months and community service and shall be</text>
+      <text>required to make reparation/restitution of the property to the owner.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-76</num>
+      <heading>Fraud.</heading>
+      <text>Fraud is a crime defined as any Indian who shall, by willful misrepresentation or deceit or by false interpretation, obtain any money or other property belonging to the Tribe or another person, and that Indian shall be charged with fraud and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months and community service and shall be required to make reparation to the owner of the property.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-77</num>
+      <heading>Forgery.</heading>
+      <text>Forgery is a crime defined as any Indian who shall, with intent to defraud, falsely sign, execute or alter any written instrument, and that Indian shall be charged with forgery and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months and community service and shall be required to make reparation to the owner for such falsely obtained property.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-78</num>
+      <heading>Discretion of Court.</heading>
+      <text>Upon conviction of any of the above-listed crimes, the Tribal Court has discretion to sentence a person to loss of liberty up to 12 months, in addition to community service; provided, however, that the Tribal Court shall require repayment, replacement, or reparation from the convicted person for any property obtained or involved in violation of <cite path="|II|290|XVIII">this article</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-79</num>
+      <heading>Reporting.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribal Legislature and all employees of tribal operations wherever situated shall have the duty and responsibility to report in a timely manner any verifiable suspicion of criminal activity engaged in by any Indian person to the Tribal Chairperson, tribal police or the Tribal Prosecutor as circumstances may indicate. The Tribal Legislature has no authority to waive reporting of suspected criminal activity to the appropriate authorities.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Verifiable suspicion" means information based on substantive material, including but not limited to altered receipts, missing money or articles, and variations from usual habits, such as gambling or spending.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Tribe and its agencies will not tolerate reporting under <cite path="|II|290|XVIII">this article</cite> by anyone of frivolous, unsupported, unsubstantiated charges against any other person, and any such attempts will be considered to be malicious mischief and will be dealt with to the full extent of tribal law.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon conviction, a full report shall be carried in the following Menominee Nation News, including names, dates, and a report of the sentencing. This provision is for the purpose of deterrence and a warning that criminal misuse of property will not be tolerated by the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XIX</num>
+    <heading>Uncontrolled Dangerous Dog [Adopted 5-2-2024 by Ord. No. 24-18]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>290-80</num>
+      <heading>Failure to control dangerous dog.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any owner of any dangerous dog, as defined in <cite path="§255-2">§ 255-2</cite>, that permits such dog to run at large or aggressively bite or attack any person while such person is lawfully upon public or private property commits the crime of failure to control a dangerous dog.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person convicted of committing the criminal offense of failure to control a dangerous dog shall be guilty of a crime punishable by imprisonment in the Tribal Jail for not more than six months, or by imposition of a fine not to exceed $500, or both. In addition to said fine, imprisonment, or fine and imprisonment, the Court may also impose up to 40 hours of community service upon conviction.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be an affirmative defense to a prosecution pursuant to this section that the injury was sustained by a person who, at the time, was committing a willful criminal act upon the premises occupied by the owner of the dog or was assaulting the owner of the dog.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If a dangerous dog is found uncontrolled, the dangerous dog shall be immediately confiscated by a law enforcement officer, placed in quarantine for the proper length of time (if necessary), and following the quarantine or in lieu of quarantine, the dangerous dog shall be impounded and held for 10 business days after the owner is given written notification. Thereafter, the Court shall hold a hearing to determine the proper conditions for return of the dog or appropriate course of action. As ordered by the Tribal Court, the dog shall be returned to the owner, placed for adoption, or euthanized in an expeditious and humane manner. If the owner's identity is known, the owner shall be provided notice of the date and time of the Court hearing. If the dog is returned to the owner, the Court may impose conditions deemed necessary to ensure proper control of the dangerous dog.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If any owner of a dangerous dog evades or attempts to evade officers, the owner shall be guilty of the crime <cite path="§290-33">§ 290-33</cite>, Resisting or obstructing an officer. Any person found in violation of <cite path="§290-33">§ 290-33</cite> shall, on a first and subsequent offense, be sentenced to a jail term not to exceed 10 days.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The owner shall be responsible for payment of all boarding costs and other fees as may be required to humanely and safely keep the dog prior to the Court hearing and during any appeal procedure, and for all costs and other fees for humanely euthanizing the dog. If the owner files a written appeal in the Tribal Court, the dog must be held and may not be adopted or destroyed while the appeal is pending.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>290-81</num>
+      <heading>Homicide resulting from failure to control dangerous dog.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever knowing the vicious propensities of any dog intentionally allows it to go at large or keeps it without ordinary care, if such dog, while so at large or not confined, kills any human being who has taken all the precautions which the circumstances may permit to avoid such dog, is guilty of <cite path="§290-81|A">§ 290-81A</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

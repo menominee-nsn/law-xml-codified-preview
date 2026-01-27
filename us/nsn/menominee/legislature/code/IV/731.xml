@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="IV|731">
+  <prefix>Chapter</prefix>
+  <num>731</num>
+  <heading>TRIBAL HOUSING LIMITED PARTNERSHIP NO. 6</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-17-2009 by Ord. No. 09-15. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>731-1</num>
+    <heading>Authority.</heading>
+    <text>This business of the Menominee Indian Tribe of Wisconsin is chartered pursuant to Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this business is to provide housing for Menominee Tribal members on the Menominee Indian Reservation utilizing the Wisconsin Housing and Economic Development Agency's federal Low-Income Housing Tax Credit Program.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-3</num>
+    <heading>Form of business.</heading>
+    <text>The form of this business shall be a limited partnership certified under the laws of the State of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§731-4">
+    <prefix>§</prefix>
+    <num>731-4</num>
+    <heading>General partner.</heading>
+    <text>The general partner of this limited partnership shall be the Wolf River Development Company, a business chartered by the Menominee Indian Tribe of Wisconsin.<fn path="|IV|§731-4|footnotes|1">1</fn></text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|IV|740">Ch. 740</cite>, Wolf River Development Company.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§731-5">
+    <prefix>§</prefix>
+    <num>731-5</num>
+    <heading>Limited partners.<fn proof="needed" path="|IV|§731-5|footnotes|2">2</fn></heading>
+    <text>The limited partners of this limited partnership shall be designated by the Wolf River Development Company.</text>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Ordinance No. 10-19, adopted 9-8-2010, allowed for the use of a special purpose entity to act as the general partner in any limited partnership, and any reference in <cite path="|IV|731">this chapter</cite> to "Wolf River Development Company" shall be read to include any limited-liability company organized under the laws of the State of Wisconsin where the sole member of such limited-liability company is Wolf River Development Company.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-6</num>
+    <heading>Powers of business.</heading>
+    <text>This business shall possess all powers allowed pursuant to Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, including the power to hold leasehold interests in tribal property, and any other powers necessary to accomplish the purpose of this business.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-7</num>
+    <heading>Ownership interest.</heading>
+    <text>The limited partners shall own 99.99% of the assets of the limited partnership. The general partner shall own 0.01% of the assets of the limited partnership. After all the tax credits have been given out pursuant to the award from the Wisconsin Housing and Economic Development Agency, the limited partners shall transfer all interest in the assets of the business to the general partner pursuant to the terms of the partnership agreement.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-8</num>
+    <heading>Control of business.</heading>
+    <text>The general partner shall exercise 100% control over the business of the limited partnership.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-9</num>
+    <heading>Partnership agreement.</heading>
+    <text>The general and limited partners shall act in accordance with the limited partnership agreement.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-10</num>
+    <heading>Rent.</heading>
+    <text>All incomes collected as rent pursuant to the project shall become assets of the general partner to be used to maintain said project.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>731-11</num>
+    <heading>Reporting.</heading>
+    <text>The business shall report to the Menominee Tribal Legislature when requested.</text>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|510">
+  <prefix>Chapter</prefix>
+  <num>510</num>
+  <heading>STALKING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-21-2011 by Ord. No. 11-09. Amendments noted where applicable</annotation>
+    <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+    <annotation type="General References">Domestic violence — See <cite path="|II|368|VII">Ch. 368, Art. VII</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>510-1</num>
+    <heading>Purpose.</heading>
+    <text>The Menominee Indian Tribe of Wisconsin understands that stalking is a serious problem which involves severe intrusions on the victim's personal privacy, spiritual well-being and autonomy. It is a crime that creates risks to the security and safety of the victim and others, even in the absence of express threats of physical harm. Stalking conduct often becomes increasingly violent over time. The Menominee Indian Tribe of Wisconsin recognizes the dangerous nature of stalking tendencies. The purpose of enacting <cite path="|II|510">this chapter</cite> is to encourage effective intervention by law enforcement and prevention and/or the need for other services before the stalking escalates into behavior that has serious or lethal consequences.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>510-2</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|510">This chapter</cite> shall be entitled "Stalking."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>510-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of <cite path="|II|510">this chapter</cite>, the following terms shall have the following meanings:</text>
+    <text>COURSE OF CONDUCT — Two or more acts, including, but not limited to, acts in which the stalker directly, indirectly, or through a third party, by any action, means, devices or method, follows, monitors, observes, surveils, harasses, threatens, intimidates or communicates to or about a person, or interferes with a person's property.</text>
+    <text>EMOTIONAL DISTRESS — Significant mental suffering or distress that may, but does not necessarily, require medical, spiritual or other professional treatment or counseling.</text>
+    <text>IMMEDIATE FAMILY — A person's spouse and biological (or, if applicable, legally adopted) father, mother, brother, sister, child, grandparent, grandchild, legal father-in-law, legal mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law, legal stepfather, stepmother, stepchildren, stepbrother, and stepsister.</text>
+    <text>REASONABLE PERSON — A reasonable person in the victim's circumstances.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>510-4</num>
+    <heading>Offenses.</heading>
+    <text>A person is guilty of the crime of stalking if:</text>
+    <para>
+      <num>A.</num>
+      <text>The person purposefully engages in a course of conduct (as defined above) directed towards another person; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Knows or should know that the course of conduct would cause a reasonable person to fear for his/her safety, or the safety of that person's immediate family, or suffer other emotional distress.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>510-5</num>
+    <heading>Violations and penalties.</heading>
+    <text>A person who commits the crime of stalking, upon conviction, shall be sentenced to jail for a period not to exceed one year and a fine not to exceed $5,000. If a victim seeks a restraining order against the accused person based on stalking, the accused person shall be responsible for the cost of the restraining order, upon conviction, as a form of restitution to the victim.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>510-6</num>
+    <heading>Defenses.</heading>
+    <para>
+      <num>A.</num>
+      <text>It is a defense to an offense under <cite path="|II|510">this chapter</cite> if the accused person had a lawful purpose for the acts.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>It is not a defense to an offense under <cite path="|II|510">this chapter</cite> that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The accused person was not given actual notice that the course of conduct was unwanted; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The accused person did not intend to cause the victim fear or other emotional or spiritual distress.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§510-7">
+    <prefix>§</prefix>
+    <num>510-7</num>
+    <heading>Domestic violence enhancer.</heading>
+    <text>Stalking is a crime where, if applicable, the domestic violence enhancer may be added pursuant to Tribal Ordinance No. 93-21, entitled "Domestic Violence."<fn path="|II|§510-7|footnotes|1">1</fn></text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|II|368">Ch. 368</cite>, Health and Family, Art. VII, Domestic Violence.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+</container>

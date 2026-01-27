@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|180">
+  <prefix>Chapter</prefix>
+  <num>180</num>
+  <heading>RESTRICTED FUND - CLINIC OPERATIONS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-20-2021 by Ord. No. 21-43. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>180-1</num>
+    <heading>Purposes and intent.</heading>
+    <text>The purpose of <cite path="|I|180">this chapter</cite> is to establish a fund to support operations of the Menominee Tribal Clinic in the event of an interruption in federal or other funding and set requirements for growing and accessing the fund.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>180-2</num>
+    <heading>Background.</heading>
+    <text>The Menominee Tribal Legislature has the responsibility for creating laws that enhance the governance, social, and economic well-being of the Tribe and its members. The Menominee Tribal Legislature acts through motion, resolution, or ordinance. The Menominee Tribal Legislature, as the governing body, has the responsibility for all assets of the Menominee Indian Tribe to assure appropriate management and protection of all assets to obtain for the Tribe the highest and best benefit from all Tribal assets. The Menominee Tribal Legislature recognizes the need to fully fund health-related activities of tribal government in accordance with allowable uses set by federal contracts and regulations. The Menominee Tribal Legislatures considers its responsibility to protect the medical and other health care services provided to tribal members by the Menominee Tribal Clinic from service interruptions related to funding as a high priority. <cite path="|I|180">This chapter</cite> codifies that responsibility into tribal law.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>180-3</num>
+    <heading>Establishment of Menominee Tribal Clinic Operations Restricted Fund.</heading>
+    <text>There is hereby established the Tribal Clinic Operations Restricted Fund of the Menominee Indian Tribe. The fund shall be utilized to provide a sustainable fund balance to support the short-term and long-term operations of the tribal clinic when federal funding for the clinic operations is delayed or interrupted.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>180-4</num>
+    <heading>Uses of fund.</heading>
+    <text>The fund may be used for the following purposes:</text>
+    <para>
+      <num>A.</num>
+      <text>Unbudgeted capital purchases of an emergency nature. The reserve fund may be used when unbudgeted and unexpected capital expense which cannot be absorbed by the current year budget arises. The Health Administrator must justify the need for the expense, justify the emergency nature and why the purchase cannot be delayed, and provide the request to the Tribal Administrator, who is authorized to approve the use of restricted funds for this purpose. The use of funds for these emergency purposes will not require a return of cash to the restricted fund, unless qualified reimbursable funds are available.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Short-term cash for operations. The reserve fund may be used to provide cash to cover the operating costs of the clinic when receipt of anticipated federal funds is expected to be delayed for three months or less. The Health Administrator, Tribal Administrator, and Finance Manager are authorized to transfer funds from this reserve into the operating account(s) of the Tribal Clinic, provided that any short-term funds transferred are used for budgeted expenditures and the full amount of short-term funds transferred are returned to the restricted fund immediately upon the receipt of any federal funds that were delayed. The Finance manager shall report the funds transfers to the Menominee Tribal Legislature as part of the monthly financial report.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Long-term cash for operations. The reserve fund may be used to provide cash to cover the operating costs of the clinic when the receipt of anticipated federal funds is expected to be delayed for more than three months or if there is no receipt of federal funds expected for a specific fiscal year. The Health Administrator shall prepare a request to access the restricted fund for review by the Tribal Administrator and the Finance Manager. The request shall be specific about the delay or interruption of federal funding, shall include a detailed budget for the funds requested from reserves, and shall include any cost containment or alternate revenue the Health Administrator will use to supplement the restricted funds being requested. The Tribal Administrator shall forward the request and a recommendation to the Menominee Tribal Legislature for approval or disapproval, following the appropriation process.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>180-5</num>
+    <heading>Fund policy.</heading>
+    <text>It is the policy of the Tribe to provide for the establishment, growth, prudent management, planned contributions, and access to the Menominee Tribal Clinic Operations Restricted Fund as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>Contributions. Immediately upon approval of <cite path="|I|180">this chapter</cite>, the Menominee Tribal Clinic Operations Restricted Fund will be created by the Tribe's Finance Manager using the current fund balance from the Tribal Clinic.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The restricted funds will be deposited into interest-bearing accounts or invested in accordance with the Tribe's current investment policy.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The initial transfer into the restricted fund shall equal one year of average total operating costs for the Menominee Clinic, which at the time of the writing of <cite path="|I|180">this chapter</cite> is $22,600,000.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each year, the annual budget of the Menominee Tribal Clinic shall include a minimum contribution to the restricted fund equal to the rate of inflation on January 1 of the year during which the budget is prepared; for example, the FY2023 contribution shall be based on the rate of inflation on January 1, 2022.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The contributions to the restricted fund shall be made on at least a biannual basis (twice yearly) each fiscal year.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The interest earned by the fund shall count toward the annual contribution required and shall remain in the fund unless the Health Administrator opts to utilize the interest earned in any one fiscal year for operating purposes in the next fiscal year and requests such use through the budget process.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The funds shall be restricted to use by the Menominee Tribal Clinic for operating costs in accordance with the uses of funds as defined by <cite path="|I|180">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>When the fund is accessed for long-term cash operations, the Health Administrator, Tribal Administrator, and Tribal Finance Manager shall develop a plan to replenish the restricted fund over time.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>180-6</num>
+    <heading>Implementation.</heading>
+    <text><cite path="|I|180">This chapter</cite> shall be effective upon approval by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

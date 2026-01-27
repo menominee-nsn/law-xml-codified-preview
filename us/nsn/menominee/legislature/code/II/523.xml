@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>523</num>
+  <heading>TRESPASSING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="II|523|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Tribal/Private Property [Adopted 10-3-1985 by Ord. No. 85-14]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>523-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|523|I">This article</cite> shall be titled "Trespass — Tribal/Private Property."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-2</num>
+      <heading>Purpose and intent.</heading>
+      <text>The Legislature has determined that the orderly conduct of tribal affairs and business and personal privacy requires regulation of tribal premises and grounds and private property.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-3</num>
+      <heading>Jurisdiction.</heading>
+      <text>The jurisdiction of <cite path="|II|523|I">this article</cite> shall extend to all lands, waters, and persons within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-4</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|523|I">this article</cite>, the following terms shall have the meanings indicated: PERSON — Anyone who has reached the age of seven years of age.</text>
+      <text>PRIVATE PROPERTY — All real property and improvements thereon held in fee by an individual(s), a corporation, an educational institution, a religious organization, or any other type group/venture.</text>
+      <text>TRESPASS — The unauthorized entering into or upon tribal premises or private property by any one person which has the result of interfering with the conduct of Tribal affairs/business, other business, or personal privacy. The act of unauthorized entry into or upon tribal premises or private property shall be sufficient evidence on its face to establish a violation of <cite path="|II|523|I">this article</cite>.</text>
+      <text>TRIBAL PREMISES — Those areas, lands and buildings where tribal affairs and businesses are conducted, including but not limited to the Tribal Office Building, Tribal Clinic, Tribal Court and Jail Facility, group home, Logging Museum, walk bridge to museum, leased lots, Keshena and Neopit Head Start, Keshena and Neopit Senior Citizens Centers, tribal bingo, Tribal Business Divisions (formerly Forestedge), MTE Office Building, the mill yard, the log concentration yard, forest land, and trust land.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-5</num>
+      <heading>Violations and penalties.</heading>
+      <text>It shall be a violation of <cite path="|II|523|I">this article</cite> for any one person to trespass on tribal premises or private property, and, upon conviction, the following penalties shall be imposed:</text>
+      <para>
+        <num>A.</num>
+        <text>First offense: $50.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second and succeeding offense: $75.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|523|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Trespassing to Hunt, Fish or Trap [Adopted 7-8-1993 by Ord. No. 93-9]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>523-6</num>
+      <heading>Legislative findings.</heading>
+      <text>The Menominee Tribal Legislature finds and declares that:</text>
+      <para>
+        <num>A.</num>
+        <text>The Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, reserved for the Tribe the exclusive use of the resources of the Menominee Reservation;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Almost all of the land within the exterior boundaries of the Reservation is tribal trust land within the exclusive control of the Tribe;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Menominee Constitution, Article IX, Section 1, prohibits nonmember hunting, fishing and trapping on the Reservation except in accordance with an ordinance which has been approved by a referendum of tribal members, and Article XI, Section 2 prohibits nonmembers from using tribal land for any purpose, with limited exceptions not relevant to <cite path="|II|523|II">this article</cite>;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribe has been the resource manager within the Reservation since its establishment, and the State of Wisconsin has not historically and does not now exercise any significant resource management function on the Reservation;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Tribe wishes to preserve the fish and game resources of the Reservation for the use and enjoyment of present and future generations of tribal members and those nonmembers with whom the Tribe chooses to share these resources;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Encroachments and poaching on the Reservation by nonmembers who have no right or privilege to hunt, fish or trap on the Reservation has become a serious problem, and existing tribal and federal laws have proven to be inadequate to deal with the problem; and</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The enactment of <cite path="|II|523|II">this article</cite> is necessary to protect the welfare of the Tribe and its resources as well as its political and territorial integrity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-7</num>
+      <heading>Purpose and authority.</heading>
+      <text>The Tribal Legislature enacts <cite path="|II|523|II">this article</cite> under the authority of the Menominee Constitution, Article III, Section 1, and in furtherance and implementation of Article IX, Section 1, and Article XI, Section 2, in order to prohibit entry on tribal trust land on the Reservation by nonmembers in possession of hunting, fishing, or trapping equipment who have no right or privilege to hunt, fish or trap within the Reservation. The remedial measures of <cite path="|II|523|II">this article</cite> are designed and intended to encourage compliance with tribal law and to protect the security, welfare and resources of the Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-8</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|523|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>FISHING — Includes the taking, capturing, killing or fishing for fish of any variety in any manner.</text>
+      <text>FISHING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with fishing.</text>
+      <text>HUNTING — Includes shooting, shooting at, pursuing, taking, catching, or killing any wild animal in any manner.</text>
+      <text>HUNTING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with hunting, and shall include any firearm of any type.</text>
+      <text>NONMEMBER — Any person who is not a tribal member.</text>
+      <text>RESERVATION — The entire area within the boundaries established for the Menominee Reservation in the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, together with Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</text>
+      <text>TRAPPING — Includes the taking, or attempting to take, of any wild animals by means of setting or operating any device, mechanism or contraption that is designed, built or made to close upon, hold fast, or otherwise capture a wild animal.</text>
+      <text>TRAPPING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with trapping.</text>
+      <text>TRIBAL MEMBER — A person who is a member of the Tribe as provided in Article II of the Menominee Constitution.</text>
+      <text>TRIBAL TRUST LAND — Any land the title to which is held by the United States for the use and benefit of the Tribe.</text>
+      <text>TRIBE (or TRIBAL) — The Menominee Tribe of Wisconsin.</text>
+      <text>WILD ANIMAL — Any mammal, bird, fish or other creature of a wild nature endowed with sensation and the power of voluntary motion.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-9</num>
+      <heading>Trespass prohibited.</heading>
+      <text>Entry upon tribal trust land within the Reservation by any nonmember in possession of any hunting, fishing or trapping equipment, except as provided in <cite path="§523-10">§ 523-10</cite> of <cite path="|II|523|II">this article</cite>, is hereby declared to be entry without the consent of the Tribe. Such entry is trespass and is strictly prohibited.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-10</num>
+      <heading>Exceptions.</heading>
+      <para>
+        <num>A.</num>
+        <text>The following shall not constitute trespass prohibited by <cite path="§523-9">§ 523-9</cite> of <cite path="|II|523|II">this article</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>Travel by vehicle upon State Highway 47 or 55, or County Highway VV, M, AA, or B, for the purpose of passing through the Reservation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Entry by a nonmember holder of a tribal license or permit, provided that the person's activity is authorized by and conducted in conformity with a tribal ordinance adopted pursuant to Article IX, Section 1 of the Menominee Constitution or any rules adopted under the authority of such an ordinance;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Entry by a nonmember who enjoys or is the beneficiary of any property right or entitlement to fish upon the Reservation granted during the termination period, provided that such entry is for the purpose of exercising and within the scope of such right or entitlement; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Entry for the purpose of conducting any scientific or resource management study or experiment, provided that the study or experiment is conducted with the prior approval of the Tribal Conservation Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For a period of one year from the effective date of <cite path="|II|523|II">this article</cite>, the provisions of <cite path="|II|523|II">this article</cite> shall not apply to fishing on Legend Lake by any person.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-11</num>
+      <heading>Presumptions.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be conclusively presumed that hunting, fishing or trapping equipment within or attached to any motor vehicle, boat, snowmobile or other means of conveyance is in the possession of each and every occupant or rider.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If a person is found in possession of any hunting, fishing or trapping equipment in or upon any navigable waters of the Reservation, it shall be rebuttably presumed that such person entered upon tribal trust land within the Reservation in possession of such equipment.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>523-12</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Breaches of <cite path="|II|523|II">this article</cite> shall be remedied by civil remedial money penalties or civil forfeitures of property, or both, as provided in <cite path="|I|132">Chapter 132</cite>, Article V, Civil Remedial Forfeitures, of this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person found to have breached <cite path="|II|523|II">this article</cite> shall be held liable for a civil remedial money penalty as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>For the first breach, in an amount of not less than $100 nor more than $500.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For a second breach within a three-year period, in an amount not less than $250 nor more than $1,000.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For any breach thereafter within a three-year period, in an amount not less than $1,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For any breach for which the violator is also in possession of any wild animal, or the carcass or any part of a wild animal, the amounts set forth in <cite path="§523-12|B|(1)">Subsection B(1)</cite> through (3) shall be doubled but shall not exceed $5,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any hunting, fishing or trapping equipment possessed in violation of <cite path="|II|523|II">this article</cite> shall be subject to civil remedial forfeiture.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>For a second or subsequent breach within a three-year period, any property used in the commission of the breach, including without limitation motor vehicles, boats, snowmobiles, or other means of conveyance, shall be subject to civil remedial forfeiture.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>In addition to the remedies set forth in <cite>Subsections A through D</cite>, the Tribal Court may revoke or suspend for a period of up to three years any or all privileges, permits or licenses pertaining to the use of the natural resources of the Reservation which may have been granted to the violator by the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

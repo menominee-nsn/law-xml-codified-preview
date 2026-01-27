@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>641</num>
+  <heading>COMMUNITY DEVELOPMENT CORPORATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-23-1984 by Ord. No. 84-4. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>641-1</num>
+    <heading>Name of business.</heading>
+    <text>This Charter is issued to a tribal business to be known as "Menominee Tribal Community Development Corporation," hereinafter "MTCDC."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-2</num>
+    <heading>Purpose and scope of authority.</heading>
+    <text>The purpose of MTCDC shall be economic development of the Menominee Tribe, and for such purpose the scope of authority of MTCDC shall be a grant of all powers necessary to manage and operate business ventures in order to properly perform such duties, including the power to operate subsidiary businesses which come within its scope of authority in order to further economic development needs of the Menominee Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-3</num>
+    <heading>Board of Directors.</heading>
+    <text>MTCDC shall be subject to the authority and control of a Board of Directors consisting of five enrolled members of the Menominee Tribe appointed by the Tribal Legislature. Once appointed, the Board of Directors shall immediately formulate bylaws and a plan of operations which shall set forth procedures governing the operation of the Board; provided, however, that such bylaws shall not become effective until approved by a majority vote of the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-4</num>
+    <heading>Restrictions on business.</heading>
+    <text>MTCDC is established for the purposes of management only and shall not own any tribal assets or have authority to pledge, mortgage, lease, or otherwise encumber tribal lands or interests therein subject to its management. MTCDC may, however, consistent with applicable federal and tribal law, pledge, mortgage, lease, and otherwise encumber interests held in its own name as security for debts and sell, acquire, lease, exchange, transfer, or assign personal property or interests therein.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-5</num>
+    <heading>Retention of authority by Tribal Legislature.</heading>
+    <text>The Tribal Legislature shall not interfere with the business decisions of the management of MTCDC; however, the Tribal Legislature shall retain all authority and power to exercise all proper governmental and sovereign functions over MTCDC and over (real) property managed and owned by MTCDC.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-6</num>
+    <heading>Sharing of profits and financial status reports.</heading>
+    <text>MTCDC shall share its annual net profits with the Menominee Tribe on an equitable basis, which will be based on industry standards. The business shall make regular reports on its financial status to the Tribe through the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-7</num>
+    <heading>Amendments.</heading>
+    <text>This Charter may be amended by an affirmative vote of 2/3 of the Tribal Legislature at any regular meeting of the Tribal Legislature or special meeting for that purpose.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>641-8</num>
+    <heading>Sovereign immunity.</heading>
+    <text>For the purpose of enabling MTCDC to enter into business agreements to secure debts or to provide services or products, MTCDC is authorized to agree by specific written agreement with any party to sue and be sued in its capacity as a chartered tribal business upon any contract, claim, or obligation arising out of its authorized activities, and by such agreement MTCDC waives any immunity from suit it may otherwise have; provided, however, that the Menominee Indian Tribe, in authorizing the establishment by charter of MTCDC, does not waive nor limit in any way the Tribe's sovereign immunity from suit.</text>
+    <annotations/>
+  </section>
+</container>

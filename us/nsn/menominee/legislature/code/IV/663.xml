@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>663</num>
+  <heading>GAMING COUNCIL CORPORATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-23-1995 by Ord. No. 95-18. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>663-1</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings: CORPORATION — The Menominee Gaming Council Corporation, a tribal business enterprise.</text>
+    <text>IGRA — The Indian Gaming Regulatory Act of 1988, 25 U.S.C. §§ 2701 to 2721 (1988), together with any amendments thereto and any regulations adopted thereunder.</text>
+    <text>MENOMINEE TRIBAL LEGISLATURE and MTL — The tribal governing body elected pursuant to the Menominee Constitution and Bylaws, Section 3, Article IV, and their successors.</text>
+    <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
+    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-2</num>
+    <heading>Purposes.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Corporation shall be a business entity of the Tribe to enter into various contracts with Indian tribes and other entities relating to gaming enterprises owned and/or operated by such tribes or other entities, including consulting agreements, management contracts, loan agreements, and related agreements, in a businesslike manner which will best promote the interests of the Tribe and its members.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The MTL shall exercise all proper governmental and sovereign functions in regard to the operations of the Corporation. The Tribe does not waive or limit its immunity as a federally recognized Indian tribe by means of this Charter. This Charter shall be liberally construed in order to achieve the purposes set forth in this section.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-3</num>
+    <heading>Powers.</heading>
+    <text>The Directors of the Corporation shall be vested with all powers necessary to permit the Corporation to discharge the obligations and enforce the rights provided to the Tribe, including, without limitation, the following:</text>
+    <para>
+      <num>A.</num>
+      <text>To operate subject to the requirements of the IGRA and other applicable laws and regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To enter into agreements, contracts, joint ventures, and partnerships with any governmental agency or with any person, partnership, corporation, or Indian tribe; and to agree to any reasonable conditions attached to federal financial assistance, subject to MTL approval.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To provide for the training of employees of tribes or other entities that enter into contracts with the Corporation, through agreements with other tribal businesses or subsidiary bodies or otherwise.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>To hire, discharge, and supervise all labor and employees required for the management and operation of the Corporation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>To enter into contracts for maintenance, repairs, and all other matters reasonably necessary to conduct the business of the Corporation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To make and amend reasonable rules and regulations concerning the use of the subject property.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>To lease property for such periods as are authorized by federal or tribal law and to hold, manage, or sublease the same.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>To borrow money and to issue temporary or long-term evidence of indebtedness and to repay the same, subject to the limitations of this Charter.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>To provide financing, to obtain financing, and to grant security for such financing, for the construction, equipment, and other starting costs of gaming facilities.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>To pledge and otherwise encumber the assets of the Corporation as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property and interests therein, subject to approval under the conditions set forth this Charter.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>To purchase real and personal property and interests therein, to take such property by gift, and to lease such property to the extent provided by law.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>To conduct studies of the economic needs of the Corporation and to prepare and execute plans to implement the conclusions of such studies.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>To purchase insurance for any property or against any risks or hazards.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>To invest such funds as are not required for immediate disbursement.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>To establish and maintain such bank accounts as may be necessary or convenient.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>To take such further actions as are commonly engaged in by chartered bodies as the Board of Directors may deem reasonably necessary to effectuate the purposes of the Corporation.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>To adopt such bylaws as the Board of Directors deems reasonable.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>To conduct all other activities reasonably necessary to implement the powers enumerated above or to further the business needs of the Corporation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-4</num>
+    <heading>Board of Directors.</heading>
+    <para>
+      <num>A.</num>
+      <text>General powers. The business and affairs of the Corporation shall be managed by its Board of Directors. The Board of Directors will determine the manner in which it will exercise its authority and responsibility for the management of the Corporation and the manner and extent to which such powers will be delegated to committees of the Board of Directors or to officers, agents, and employees of the Corporation. In general, the Board of Directors shall be responsible for establishing overall policies and objectives for the management of the affairs and assets of the Corporation and for periodically reviewing and evaluating management results.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Number, tenure, nomination and qualifications of Directors. There shall be three Directors who shall serve for a period of three years.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Vacancies. Any vacancy occurring in the Board of Directors may be filled until the next succeeding annual business meeting by a majority vote of the MTL. In the event that such vacancy or vacancies create difficulty achieving a quorum to take up necessary business, a majority of Directors even if less than a quorum may fill such a vacancy by appointing a temporary Director to serve as Director for one meeting.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Qualifications. To be considered for appointment to the Board of Directors, a person must meet all of the requirements of the federal and tribal law, be an enrolled Menominee and exhibit understanding of business principles.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Restrictions. All Directors shall be enrolled Menominee tribal members, but no Director shall be an employee of a gaming enterprise operated by the Corporation or by any tribe which has any contract with the Corporation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Conflicts of interest prohibited. In carrying out the duties of the Board of Directors, no member of the Board shall make or participate in making decisions which involve balancing a substantial personal financial interest, other than interests held in common by all tribal members.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Regular meetings. A regular meeting of the Board of Directors shall be held immediately after, and at the same place as, each annual business meeting. The Board of Directors may provide, by resolution, for the holding of additional regular meetings at specified times. No notice need be given for such annual meetings or additional regular meetings.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Special meetings. Special meetings of the Board of Directors may be called by the Chairperson of the Board and shall be called by the Secretary on written request of any two Directors. The person or persons authorized to call special meetings of the Board of Directors may fix any place for holding any special meeting of the Board of Directors.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Notice of special meetings. Notice of any special meeting shall be given to each Director and may be given by either of the following methods: by delivering or telephoning such notice to a Director personally at least 72 hours before the time set for such meeting or by mailing such notice at any post office or United States mailbox, with postage prepaid, addressed to a Director as his address may appear on the books of the Corporation, at least 72 hours before the time appointed for such meeting. Whenever any notice is required to be given to any Director under the provisions of this Charter, a waiver thereof, signed at any time by the Director entitled to such notice, shall be deemed equivalent to the giving of such notice. The attendance of a Director at a meeting shall constitute a waiver of notice of such meeting, except where a Director attends a meeting and there objects to the transaction of any business because the meeting is not lawfully called or convened. The business to be transacted at any special meeting of the Board of Directors need not be specified in the notice or waiver of notice of such meeting.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Quorum. Two of the Directors then in office shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such quorum is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Manner of acting. The act of the majority of the Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors, unless the act of a greater number is required by this Charter.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Compensation. The Board of Directors shall not be compensated for any meetings; provided, however, that the Board members may be compensated for travel and per diem if they are on official Corporation business tasks.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Presumption of assent. A Director who is present at a meeting of the Board of Directors or a committee thereof at which action on any matter is taken shall be presumed to have assented to the action taken unless he or she objects to such action at the meeting or unless he or she files his/ her written objection to such action with the Secretary of the Corporation within 72 hours after the adjournment of the meeting. Such right to object shall not apply to a Director who voted in favor of such action.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Informal action. Any action required or permitted by this Charter or by any provision of applicable law may be taken by the Board of Directors at a meeting. Such action may also be taken without a meeting if a consent, in writing, setting forth the action taken, is signed by all of the Directors then in office.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Committees.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board of Directors may designate one or more committees, including an Executive Committee which may be empowered to take temporary actions and to act in lieu of the Board of Directors when the Board is not in session. Each committee shall consist of no fewer than three and no more than five Directors. The members of each committee and the Chairperson thereof shall be designated. Such committees may exercise any powers of the Board of Directors, as set forth in the resolution appointing each committee, except that committees shall not be empowered to act in respect to the distribution of profits, amendments to the agreement, execution of contracts, election of permanent officers, or filling of vacancies on the Board of Directors or on committees created pursuant to this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board of Directors may elect one or more of its members as alternate members of any such committee, who may take the place of any absent member or members at any meeting of such committee upon request by the Chairperson of the Board, President, or the Chairperson of such committee. The Board of Directors may also designate such persons who are not Directors to serve as advisory members of any committee. Such advisory members shall have no power to vote on any matter in which the committee is exercising the power of the Board of Directors in the management of the business and affairs of the Corporation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chairperson of each committee of the Board of Directors shall submit a report from time to time of the activities and actions of the committee. Such reports will be submitted as the Board of Directors or the Chairperson of the Board of Directors may request and shall be delivered to the Chairperson of the Board of Directors for submission to the Board of Directors. The Chairperson of the Executive Committee shall submit such reports and shall provide all members of the Board of Directors with copies of minutes of all Executive Committee meetings. In exercising his/her duties of Chairperson of any committee, the Chairperson may request, through the Chairperson of the Board of Directors or the Executive Director/Administrator, such information from the officers, agents, or employees of the Corporation as such committee may require from time to time in fulfilling its duties.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notice of meetings of committees of the Board of Directors shall be given in accordance with this Charter. The majority of the number of Directors on a committee shall constitute a quorum for the transaction of any business at such meeting. Committees may make rules, not inconsistent with any provisions of this Charter, for conducting committee business.</text>
+      </para>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>Indemnification of Directors and officers. Each present, former, and future Director and officer of the Corporation shall be entitled, without prejudice to any other rights he may have, to be reimbursed and indemnified from assets of the Corporation for any of the following: all legal and other expenses reasonably incurred by him in connection with any claim, action, suit, or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as a Director or officer of the Corporation or of any subsidiary of the Corporation, whether or not wholly owned, or by reason of any action alleged to have been taken or omitted by him as any such Director or officer, provided that the Corporation need reimburse such officer's or Director's legal fees and expenses only if those fees are incurred after the officer or Director has requested, and the Corporation has refused to provide, legal representation to the officer or Director at the Corporation's expense. Reimbursement and indemnification under <cite path="§663-4|P.">this subsection</cite> include amounts paid or incurred in connection with reasonable settlements made with a view to curtailment of costs of litigation and with the approval of a majority of the Directors of the Corporation then in office, other than those involved, whether or not such majority constitutes a quorum. No such reimbursement or indemnification shall relate to any expense incurred or settlement made in connection with any matter arising out of the negligence or misconduct of such Director or officer as determined either by a court of competent jurisdiction or, in the absence of such a determination, by such majority of the Directors acting on the advice of counsel. The Corporation and its Directors, officers, employees, and agents shall not be liable to anyone for making any determination as to the existence or absence of liability, or for making or refusing to make any payment hereunder on the basis of such determination, or for taking or omitting to take any other action hereunder, in reliance upon the advice of counsel.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Recall of Directors. Directors may be recalled from office on grounds of dishonesty, incompetence, nonparticipation in Board matters, or other conduct seriously detrimental to the interests of the Tribe or of the Corporation. The Menominee Tribal Legislature may recall any Director from office upon a simple majority vote of those present, so long as a quorum exists.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-5</num>
+    <heading>Annual business meeting.</heading>
+    <text>An annual business meeting of the tribal members shall be held at the discretion of the Corporation Board for the purpose of informing tribal members on the operation of the Corporation for the past year.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-6</num>
+    <heading>Officers.</heading>
+    <para>
+      <num>A.</num>
+      <text>Number. The principal officers of the Corporation shall be the Chairperson of the Board of Directors, the Vice Chairperson of the Board of Directors, and the Secretary/Treasurer.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Election and term of office. The officers shall be elected by the Board of Directors at the first meeting of the Board and, thereafter, following the annual meeting. If the election of officers is not held at such meeting, such election shall be held as soon as practicable thereafter. Each officer shall hold office until his successor has been duly elected and qualified, until his death, or until he resigns or is removed or recalled from office.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Removal. Any officer or agent elected or appointed by the Board of Directors may be removed by the Board of Directors whenever in its judgment the best interests of the Corporation will be served thereby. Such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment shall not of itself create contract rights.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Vacancies. A vacancy in any principal office may be filled by the Board of Directors for the unexpired portion of the term.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Chairperson of the Board of Directors. The Chairperson of the Board of Directors shall preside at all business meetings of the tribal members and of the Board of Directors. The Chairperson of the Board also shall be the chief executive officer of the Corporation and shall have general supervision and management of the business and affairs of the Corporation, unless the Board delegates some or all of such functions to another officer. The Chairperson shall be an ex officio member of all committees of the Board of Directors and may call special meetings of the Board of Directors and of any committee of the Board of Directors. The Chairperson shall receive reports from Chairpersons of all committees of the Board of Directors and shall deliver such reports to the Board of Directors and the President. The Chairperson shall keep the Board of Directors informed as to Corporation matters. The Chairperson of the Board may sign, with the Secretary or any other officer of the Corporation authorized by the Board of Directors, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof have been expressly delegated by the Board of Directors to some other person. In general, the Chairperson of the Board shall perform all duties incident to the office of the chief executive officer and such other duties as may be prescribed by the Board of Directors.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Vice Chairperson of the Board of Directors. The Vice Chairperson of the Board of Directors shall perform all such duties usually vested in such office and such other duties as may be required by the Chairperson or by the Board of Directors to the contrary; the Vice Chairperson of the Board shall perform the duties of the Chairperson when the Chairperson is absent or unable to carry out his duties or when the office is vacant.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Secretary/Treasurer. The Secretary/Treasurer shall keep the minutes of the meetings of the Board of Directors and any committee appointed by the Board of Directors; see that all notices are duly given in accordance with the provisions of this Charter; be custodian of the Corporation's records and seal and see that the seal of the Corporation is affixed to all appropriate documents; and in general perform all duties usually vested in the office of the Secretary/Treasurer and such other duties as may be assigned by the Chairperson or by the Board of Directors. The Board of Directors may, in its discretion, assign all or some of the duties set forth in <cite path="§663-6|G.">this subsection</cite> to some person other than the Secretary/Treasurer so long as such assignment is not inconsistent with any other provisions of this Charter.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Assistants and acting officers. The Board of Directors shall have the power to appoint assistants to any officer and acting officers. Any person so appointed shall have the power to perform all the duties of the office in question, subject to such limitations as the Board shall prescribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§663-7">
+    <prefix>§</prefix>
+    <num>663-7</num>
+    <heading>Assets.</heading>
+    <para>
+      <num>A.</num>
+      <text>Initial assets. The initial assets of the Corporation shall consist of the Corporation personal property as described in a Schedule of Property which is hereby incorporated by reference into the Charter.<fn path="|IV|§663-7|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Additional assets. All income from whatever source shall constitute additional assets of the Corporation.<fn path="|IV|§663-7|footnotes|2">2</fn>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal real property. No tribal real property shall be an asset of the Corporation for any purpose.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Schedule of Property is on file at the office of the Tribal Chairperson.</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-8</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General method of operation. The Corporation shall be operated in an efficient, businesslike manner in accordance with this Charter. The Board of Directors shall, in addition to the above guidelines, cause the following to be achieved:</text>
+      <para>
+        <num>(1)</num>
+        <text>An accounting system, approved by an independent certified public accounting firm, shall be established;</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>An inventory of property shall be taken as of the last day of business of each fiscal year of the Corporation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An audit of the Corporation shall be conducted by an independent certified public accounting firm as of the last day of business of each fiscal year of the Corporation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An annual financial statement of the operations of the Corporation shall be prepared;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Monthly and annual financial statements of the Corporation shall be prepared;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A proposed budget shall be prepared prior to the beginning of each fiscal year and may be amended during the year if the Board deems it necessary;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Corporation shall adopt general policies which shall include, among other appropriate matters, a statement of purpose, a statement of policy, a statement of administrative policies, and a statement of personnel policies; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Corporation shall carry Wisconsin workers' compensation insurance and shall comply with social security laws.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of net profits. The profits of the Corporation shall be disbursed by the Corporation to MTL each month; provided, however, that all actual operating expenses of the Corporation shall have been paid.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-9</num>
+    <heading>Tribal sovereignty and immunity.</heading>
+    <text>The Tribe hereby gives its consent to allowing the Corporation, by specific written agreement with any party, to sue and be sued in its capacity as a tribal business upon any contract, claim, or obligation arising out of its activities authorized by this Charter. Subject to the provisions of this Charter, the Corporation is authorized to pledge, mortgage, or otherwise encumber its assets as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein. In no event shall any assets of the Tribe, including tribal forest land and other tribal land, be subject to any obligations of the Corporation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-10</num>
+    <heading>Amendments to Charter.</heading>
+    <text>The Menominee Tribal Legislature shall have the authority to make amendments to any provisions of this Charter.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-11</num>
+    <heading>Termination of Charter; distribution of assets.</heading>
+    <para>
+      <num>A.</num>
+      <text>Termination of Charter. The Menominee Tribal Legislature shall have the unilateral right to declare this Charter terminated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of assets and liability upon termination. If this Charter is terminated, the Board of Directors shall promptly relinquish control over all assets and liabilities of the Corporation to the Menominee Tribal Legislature, acting on behalf of the Tribe, or to such other entity as the MTL shall designate. The Board of Directors shall also promptly deliver all books and records of the Corporation to the Menominee Tribal Legislature, acting on behalf of the Tribe, or to such other entity as the Menominee Tribal Legislature shall designate. Upon termination, this Charter shall be null and void.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>663-12</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Principal place of business. The principal office of the Corporation shall be located on the Menominee Indian Reservation. The Corporation may have such other offices as the Board of Directors may designate and as the business of the Corporation may require from time to time.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Agent for service of process. The Board of Directors shall designate an agent of the Corporation for the purpose of accepting service of process. The business address of such agent shall be the principal office of the Corporation.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Seal. The Board of Directors may provide a seal of the Corporation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Duration. This Charter shall remain in effect in perpetuity. If this Charter expires or is terminated, the Board of Directors shall promptly relinquish control over the assets and liabilities of the Corporation to the MTL, acting on behalf of the Tribe, or to such other entity as the MTL shall designate. Upon termination, this Charter shall be null and void.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Cooperation between the Board of Directors and the Menominee Tribal Legislature. In the implementation of this Charter, the Board of Directors and the Menominee Tribal Legislature shall work together and cooperate in order to promote the best interests of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

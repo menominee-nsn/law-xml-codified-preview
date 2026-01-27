@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|81">
+  <prefix>Chapter</prefix>
+  <num>81</num>
+  <heading>EXECUTIVE PARDONS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-03; amended in its entirety 12-7-2023 by Ord. No. 23-57. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>81-1</num>
+    <heading>Declaration of intent.</heading>
+    <text>The Legislature finds that some Indians violate law and are convicted of misdemeanor charges in Tribal Court, serve out their punishments, and become rehabilitated over a period of time, only to find that they are prevented from tribal employment or other tribal benefits because of a record of past misdemeanor conduct. It is the declared intent of the Legislature to examine the records of tribal miscreants (as defined herein), assess their behavior following conviction, and to give serious consideration to the granting of a pardon to qualified persons in order to bring such persons back into the fabric of tribal society where they can make a meaningful contribution.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>81-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|I|81">this chapter</cite>, the following terms shall have the meanings indicated: FELON — A person who has been convicted by any federal or state court of a felony.</text>
+    <text>FELONY — A crime identified in federal law or the laws of any of the United States as a felony.</text>
+    <text>INDIAN — A person whose name appears on the official Menominee tribal roll or the roll of any other federally recognized Indian tribe.</text>
+    <text>LEGISLATURE — The Tribal Legislature, the governing body of the Tribe. MISCREANT — A person who has been convicted of a misdemeanor in Tribal Court.</text>
+    <text>MISDEMEANOR — A violation of a law that is included in the body of law enacted by the Legislature which carries a penalty of not more than a fine of $5,000 or one year's imprisonment, or both.</text>
+    <text>PARDON — An action by the Tribal Legislature which has the legal effect of removing and completely erasing from any record of any kind an Indian's criminal conviction in the Menominee Tribal Courts of a violation of tribal law.</text>
+    <text>PETITIONER — A person who files a petition for a pardon under <cite path="|I|81">this chapter</cite>.</text>
+    <text>TRIBAL COURT — Those courts established by the Legislature under Article V of the Constitution. TRIBAL LAW — That body of law enacted by the Legislature and in effect.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>81-3</num>
+    <heading>Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>Only Indians over whom the Menominee Tribal Court has jurisdiction and who have been convicted of a misdemeanor in Tribal Court are eligible for a pardon under <cite path="|I|81">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>From the time of sentencing to the filing of a petition for a pardon, the Indian shall not have any new criminal convictions in Tribal Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Indians must have completed a five-year waiting period after all the requirements of the sentence</text>
+      <text>have been completed. If a petition is denied by the Legislature, Indians must complete an eighteen-month waiting period and have no convictions to be eligible to file another petition for pardon.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Indians may petition for a pardon as many times as they may choose; provided, however, that each petition meets the requirements listed in <cite path="|I|81">this chapter</cite>, including the required payment of a fee. As stated herein, the filing of a petition for a pardon does not guarantee the granting of a pardon by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Legislature shall grant pardons only for non-violent misdemeanor convictions from Tribal Court. Felony convictions are not rendered in Tribal Court and <cite path="|I|81">this chapter</cite> does not extend to felony convictions. Pardons will not be granted for violent offenses as determined by the Tribal Legislature after consultation with the Tribal Prosecutor.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Misdemeanor convictions in jurisdictions other than the Menominee Tribe are not eligible for pardons under <cite path="|I|81">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>81-4</num>
+    <heading>Petitions.</heading>
+    <text>A petition is required to be filed in the Tribal Chairperson's office by any Indian requesting a pardon. Five full years shall have elapsed since the requirements of the sentence were completed before filing a petition. The form of the petition shall be prescribed by the Legislature. Any misrepresentations, omissions or falsifications on the petition shall result in a denial of a Tribal pardon and may result in prosecution by the Tribe in Tribal Court. The filing of a petition for a pardon does not guarantee the granting of a pardon by the Tribal Legislature. The Legislature shall review each case on its individual merits. The decision by the Tribal Legislature to grant or deny a request for a pardon is final and not subject to further review of any kind. The fee for filing a petition for a tribal pardon is $150, nonrefundable, payable at the time the petition is submitted to the Tribal Chairperson's office. No petition will be accepted unless this fee has been paid to the Tribe either by cash or cashier's check.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>81-5</num>
+    <heading>Action by Legislature.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon submission of a completed petition by the Indian to the Tribal Chairperson's office, the petition shall be placed on the agenda for the next regular meeting of the Legislature, provided that the petition is submitted 10 days in advance of a regularly scheduled legislative meeting. The Legislature may act at this meeting or may table the matter for any reason. The petition shall be scheduled on the regular agenda as a matter of public record.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Legislature shall render its decision after due deliberation and direct that a tribal resolution be prepared if a pardon is granted.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

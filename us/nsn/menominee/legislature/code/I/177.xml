@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|177">
+  <prefix>Chapter</prefix>
+  <num>177</num>
+  <heading>POSTING PROCEDURES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-3-1980 by Ord. No. 80-6; amended in its entirety 6-6-2013 by Ord. No. 13-18. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>177-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|I|177">This chapter</cite> may be cited as the "Posting Procedures Ordinance."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-2</num>
+    <heading>Authority.</heading>
+    <text>Enactment of <cite path="|I|177">this chapter</cite> is required by Bylaw II, Section 4 of the Menominee Constitution and Bylaws, which section requires the Legislature to designate by ordinance no fewer than four public posting places within the geographical boundaries of the Menominee Nation and an appropriate number of places in appropriate urban areas where such posting shall be done.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-3</num>
+    <heading>Posting locations and method of distribution.</heading>
+    <para>
+      <num>A.</num>
+      <text>Primary posting locations. Regular and special General Council meeting agendas, meeting agendas for the Legislature and its committees, recall and election notices, complete copies of proposed and enacted ordinances, any notice that the Tribal Chairperson or the Legislature deems necessary to post in accordance with this section, and any other notice required to be posted by the Constitution and Bylaws or any ordinance of the Tribe shall be promptly hand-delivered by an employee of the Tribal Chairperson's office for its conspicuous posting at the following locations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Menominee Indian Tribe of Wisconsin Website,<a href="http://menominee-nsn.gov/">http://menominee-nsn.gov/</a></text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Tribal Offices Headquarters Building, Keshena;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Post office, Keshena;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Post office, Neopit;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Middle Village Fire Station, located in Nanaweyah Ominihekan (Middle Village) on the Menominee Indian Reservation;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>South Branch Community Center, located at County Highways A and M on the Menominee Indian Reservation;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Zoar Community Building, Zoar; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>An appropriate number of places in appropriate urban areas as determined by the Tribal Chairperson. Posting of notices pursuant to <cite path="§177-3|A.|(8)">this subsection</cite> may be done by an employee of the Tribal Chairperson's office.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Secondary posting locations. In addition to the required posting listed in <cite path="§177-3|A">Subsection A</cite>, regular and special General Council meeting agendas, meeting agendas for the Legislature and its committees, recall and election notices, notice of proposed and enacted ordinances, and any notice that the Tribal Chairperson or the Legislature deems necessary to post in accordance with this section may be promptly delivered electronically by an employee of the Tribal Chairperson's office, and conspicuously posted by a facility manager or his/her designee at a designated site, at the following locations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Community Resources Building (formerly the Tribal Supermarket), Keshena;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maehnowesekiyah Wellness Center, located in Nanaweyah Ominihekan (Middle Village) on the Menominee Indian Reservation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Dolores K. Boyd Head Start Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Early Childcare Services Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Food Distribution Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Hilary Waukau Forestry Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Menominee Tribal Clinic, Keshena;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Menominee Nation Casino employee lounge, Keshena;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Gordon Dickie Family Investment Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Wilmer Peters, Sr. Judicial Center, Keshena;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Senior Meal Site, Keshena;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Senior Meal Site, Neopit;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Menominee Tribal Enterprises Headquarters Building, Neopit;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>College of Menominee Nation, Keshena; and</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Save-a-Lot Grocery Store.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tertiary posting locations. In addition to the required posting listed in <cite path="§177-3|A">Subsection A</cite> and the optional posting listed in <cite path="§177-3|B">Subsection B</cite>, regular and special General Council meeting agendas, meeting agendas for the Legislature and its committees, recall and election notices, notice of proposed and enacted ordinances, and any notice that the Tribal Chairperson or the Legislature deems necessary to post in accordance with this section may be promptly e-mailed to the following locations for the facility manager or his/her designee to consider posting in a conspicuous place:</text>
+      <para>
+        <num>(1)</num>
+        <text>Chicago Community Center, located in Chicago, Illinois;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Milwaukee Area Tribal Offices, located in Milwaukee, Wisconsin; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other non-Reservation site that may now or in the future be deemed by the Legislature to be a location suitable for such posting.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>News media and website postings. The Tribal Chairperson or the Menominee Tribal Legislature may promptly post any notice or information specified in <cite path="§177-3|A">Subsection A</cite> above in the Menominee Nation News, and any social media site maintained by the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-4</num>
+    <heading>Special delivery.</heading>
+    <text>The Tribal Chairperson or the Menominee Tribal Legislature may authorize the Menominee Tribal Police Department or the Tribal Chairperson's office or any other department personnel to deliver, or cause to be delivered, any information not specifically identified above to a location and at a time not otherwise mentioned herein.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-5</num>
+    <heading>Dissemination of personal or political views.</heading>
+    <text>Under no circumstance may the Chairperson or another member of the Legislature use <cite path="|I|177">this chapter</cite> as means to disseminate his or her personal or political views in a manner that is contrary to the majority view of the entire Legislature acting in regular, special, or emergency session assembled.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-6</num>
+    <heading>Facility managers of secondary posting locations.</heading>
+    <text>The facility managers of secondary posting locations shall, within 60 days of passage of <cite path="|I|177">this chapter</cite>, make available the following:</text>
+    <para>
+      <num>A.</num>
+      <text>An accessible location within the facility that provides for the conspicuous posting of information required to be posted.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The name, phone number, and e-mail address of the person designated to post information.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-7</num>
+    <heading>Time of posting.</heading>
+    <text>Any meeting notice required to be posted pursuant to <cite path="§177-3|A">§ 177-3A</cite> shall be posted not less than 72 hours prior to the convening of the meeting specified in the notice.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>177-8</num>
+    <heading>Records.</heading>
+    <text>The Tribal Chairperson's office shall maintain records evidencing the posting of all documents posted pursuant to <cite path="§177-3|A">§ 177-3A</cite> of <cite path="|I|177">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+</container>

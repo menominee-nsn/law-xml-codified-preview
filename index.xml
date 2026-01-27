@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/menominee-nsn/law-xml</xml-bulk>
+      <html-bulk>https://github.com/menominee-nsn/law-html</html-bulk>
+      <static-assets>https://github.com/menominee-nsn/law-static-assets</static-assets>
+      <html/>
+    </canonical-urls>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="menominee-nsn/law-xml" commit="0fc64ea2a1dab033e1ce39dbc1937c6b564829ff"/>
+      </repositories>
+      <platform version="2.19.0" reproducible="false"/>
+      <build-date>2026-01-27</build-date>
+      <codified-date>0001-01-01</codified-date>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/menominee/legislature/code/index.xml"/>
+</library>

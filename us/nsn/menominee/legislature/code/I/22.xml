@@ -1,0 +1,1422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|22">
+  <prefix>Chapter</prefix>
+  <num>22</num>
+  <heading>TRIBAL CONSUMER FINANCIAL SERVICES REGULATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-16-2019 by Ord. No. 19-07. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>22-1</num>
+    <heading>Findings, intent and policy.</heading>
+    <para>
+      <num>A.</num>
+      <text>Findings. The Menominee Tribal Legislature, the governing body of the Tribe, finds that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe desires to expedite the development of the economy of the Tribe in order to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Tribal operation and licensing of consumer financial services businesses and debt collection businesses is a legitimate means of generating revenue to address the aforementioned needs and pursuing the Tribe's goal of self-sufficiency and self-determination.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Tribe has the legal authority to license and regulate consumer financial services businesses and debt collection businesses within its jurisdiction.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Properly licensed and regulated consumer financial services and debt collection activities is consistent with announced federal policy promoting tribal self-government and economic self-sufficiency.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Tribal regulation and control of consumer financial services businesses and debt collection businesses within the jurisdiction of the Tribe is essential for the protection of the public welfare.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>It is essential that the Tribe regulate consumer financial services and debt collection activities in a manner commensurate with Tribal law and policy and applicable federal law.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>It is essential that public confidence in consumer financial services and debt collection activities that take place within the Tribe's jurisdiction be maintained.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Adoption of a tribal consumer financial services regulatory chapter by the Tribal Legislature is a necessary condition for the legal operation of consumer. Financial services and debt collection activities within the Tribe's Reservation and is in the best interest of the Tribe.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Establishment of a Tribal consumer financial services Regulatory Authority to implement the purpose and intent of the tribal consumer financial services regulatory chapter within the Tribe's Reservation is in the best interest of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Intent. The Tribal Legislature declares that the intent of <cite path="|I|22">this chapter</cite> is to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Diversify and expedite the development of the economy of the Tribe's Reservation for the purposes described in <cite path="§22-1|A">§ 22-1A</cite> above.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Define general regulatory powers to be exercised by a Tribal Consumer Financial Services Regulatory Authority in relation to the regulation, control, and oversight of consumer financial services businesses and debt collection businesses and their vendors.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ensure that all consumer financial services business and debt collection business profits are used for the benefit of the Tribe's government and its members and are used to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, health, and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Ensure that consumer financial services and debt collection activities are conducted appropriately by licensees and consumers and that it remains free from corrupt, incompetent, unconscionable, unfair, and dishonest practices.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Protect the interests of the public in the offering of consumer financial services and debt collection activities.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure the maintenance of public confidence in tribal consumer financial services practices.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Ensure that the Tribe provides a tribal-based forum for the fair and orderly resolution of consumer financial services and debt collection disputes consistent with the Tribe's preservation of sovereign immunity.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Ensure that tribal consumer financial services laws are enforced by the Tribe upon persons involved in tribal consumer financial services and debt collection activities.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Policy.</text>
+      <para>
+        <num>(1)</num>
+        <text>Tribal policy of self-government. The Tribe is firmly committed to the principle of tribal self-government. Profits from consumer financial services and debt collection activities shall be utilized and expended only for the following purposes:</text>
+        <para>
+          <num>(a)</num>
+          <text>To fund the Tribe's government operations or programs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To provide for the public health and general welfare of the Tribe and its members and visitors to the tribal community.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To promote tribal economic development and self-sufficiency.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To donate to charitable organizations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Tribal consumer financial services policy. The establishment, promotion and operation of consumer financial services and debt collection activities are necessary, provided that such consumer financial services and debt collection activities are regulated and controlled by the Tribe pursuant to <cite path="|I|22">this chapter</cite> and the profits of such consumer financial services and debt collection activities are used exclusively for the benefit of the Tribe.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Responsibility for regulation. The Tribe shall have the sole proprietary interest in and responsibility for the conduct of consumer financial services and debt collection activities authorized by <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Consumer financial services and debt collection activities authorized. Consumer financial services and debt collection activities that are subject to licensing under <cite path="|I|22">this chapter</cite> are authorized and permitted only as described in <cite path="|I|22">this chapter</cite> and any regulations of the Authority adopted under <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-2</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Authority. <cite path="|I|22">This chapter</cite> is enacted pursuant to the inherent sovereign powers of the Menominee Indian Tribe of Wisconsin and in accordance with the Tribe's Constitution.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applicability. <cite path="|I|22">This chapter</cite> applies to loans made by the lender and to include modifications, refinancing, consolidations, deferrals consummated within the Tribe's jurisdiction. For purposes of <cite path="|I|22">this chapter</cite>, a loan is deemed consummated within the Tribe's jurisdiction and therefore subject to <cite path="|I|22">this chapter</cite> when a consumer completes and sends to the lender, either electronically or through other means of delivery, a written agreement evidencing the consumer's signed agreement to enter into a loan.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Construction. In construing the provisions of <cite path="|I|22">this chapter</cite>, the following shall apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>The provisions of <cite path="|I|22">this chapter</cite>, being necessary for the benefit of the Tribe and its members, shall be liberally construed to effectuate its purpose and to promote substantial justice.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The findings, intentions, and policies stated in <cite path="§22-1">§ 22-1</cite> constitute the standards to be observed by the Authority in the exercise of its discretionary powers under <cite path="|I|22">this chapter</cite>, in the adoption of implementing regulations, in the issuance of orders and declaratory statements, in the examination and supervision of licensees, and in all matters of construction and application of <cite path="|I|22">this chapter</cite> required for any determination or action by the Authority.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No person acting, or who has acted, in good faith reliance upon a rule, order, or declaratory statement issued by the Authority shall be subject to any criminal, civil, or administrative liability for such action, notwithstanding a subsequent decision by a court of competent jurisdiction invalidating the rule, order, or declaratory statement. In the case of an order or a declaratory statement that is not of general application, no person other than the person to whom the order or declaratory statement was issued is entitled to rely upon it, except upon material facts or circumstances that are substantially the same as those upon which the order or declaratory statement was based.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-3</num>
+    <heading>Definitions.</heading>
+    <text>In <cite path="|I|22">this chapter</cite>, except where otherwise specifically provided or unless the context otherwise requires, the following terms and expressions shall have the following meanings:</text>
+    <text>AGENT — Any person appointed by the Tribal Legislature as an officer of the Authority, as that term is defined herein, while engaged in or on account of the performance of official duties.</text>
+    <text>APPLICANT — Any person who has applied for a license under the provisions of <cite path="|I|22">this chapter</cite>. APPLICATION — A request for the issuance of a license under the provisions of <cite path="|I|22">this chapter</cite>.</text>
+    <text>AUTHORITY — The Tribal Consumer Financial Services Regulatory Authority, created and established by the Tribal Legislature, charged with the implementation and enforcement of the tribal consumer financial services regulatory chapter and all other regulations promulgated by the Authority or the Tribe relating to consumer financial services activities and associated licensing requirements.</text>
+    <text>CHAPTER — This tribal consumer financial services regulatory authority chapter.</text>
+    <text>CONSUMER — A natural person who acquires goods, services, or credit primarily for personal, family or household purposes. The term does not include a person who acquires goods, services, or credit primarily for business, commercial, or investment purposes.</text>
+    <text>CONSUMER FINANCIAL SERVICES OR TRIBAL CONSUMER FINANCIAL SERVICES — The</text>
+    <text>business of providing goods, services, or credit to consumers in transactions subject to <cite path="|I|22">this chapter</cite> in</text>
+    <text>exchange for interest, finance charges, fees, rent, or other form of consideration on the Tribe's Reservation or within the Tribe's jurisdiction, including transactions originated from the Tribe's Reservation or Tribe's jurisdiction. The term includes, without limitation, short-term loans, small-dollar loans, credit sales, pawn transactions, sale-leaseback transactions, rent-to-own transactions, guaranties, letters of credit, or other forms of consumer financial services.</text>
+    <text>DEBT COLLECTION ACTIVITIES — All activities associated with purchasing debt from a creditor and collecting debt from a consumer.</text>
+    <text>DEBT COLLECTION LICENSEE — A person that is licensed by the Authority to engage in debt collection activities.</text>
+    <text>ELECTRONIC FUNDS TRANSFER — A draft or agreement for an electronic debit authorized by a consumer and made payable to a financial services licensee or debt collection licensee.</text>
+    <text>EMPLOYEE LICENSEE — A person that is licensed by the Authority to be employed by a financial services licensee or a tribal debt collection licensee.</text>
+    <text>FINANCIAL SERVICES LICENSEE — The one-hundred-percent tribally owned and operated entity that is licensed by the Authority to engage in the business of providing tribal consumer financial services.</text>
+    <text>LENDER — Any licensee that offers or facilitates the processing of a loan through any method, including storefront, mail, telephone, Internet, or any electronic means.</text>
+    <text>LICENSE — The official, legal and revocable financial services license, vendor license, employee license, or debt collection license, issued by the Authority. A license issued pursuant to <cite path="|I|22">this chapter</cite> is a revocable privilege.</text>
+    <text>LICENSEE — Any financial services licensee, vendor licensee, employee licensee, and debt collection licensee whenever used generally in <cite path="|I|22">this chapter</cite>.</text>
+    <text>PERSON — Any natural person, partnership, joint venture, association, trust, firm, estate, club, society, receiver, assignee, trustee in bankruptcy, political entity, company, corporation or other group, however organized, and any owner, director, officer or employee of any such entity or any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise, the government of the Tribe, any governmental entity of the Tribe or any of the above-listed forms of business entities that are wholly owned or operated by the Tribe, or any other entity whatsoever, who engages or seeks to engage in the business of consumer financial services pursuant to <cite path="|I|22">this chapter</cite>; provided, that the term does not include the federal government or any agency thereof.</text>
+    <text>RECEIVABLE OR RECEIVABLES — All rights to payment of indebtedness and obligation (including, without limitation, unpaid principal, accrued interest, costs, fees, expenses and indemnity obligations) owing by a consumer in respect of a loan or loans or other financial accommodations made or extended for the benefit of such consumer as such rights to payment of indebtedness and obligations have been sold and assigned to a debt collection licensee.</text>
+    <text>RESERVATION — The Menominee Indian Reservation.</text>
+    <text>TRIBAL DEBT COLLECTION LICENSEE — A debt collection licensee that is wholly owned by the Tribe or a tribal business.</text>
+    <text>TRIBAL LEGISLATURE OR LEGISLATURE — The Menominee Indian Tribe of Wisconsin Tribal Legislature, the governing body of the Tribe as defined and described in the Tribe's Constitution.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>VENDOR — A person or entity that provides services aiding a financial services licensee or debt collection</text>
+    <text>licensee.</text>
+    <text>VENDOR LICENSEE — A vendor that is licensed by the Authority to provide services aiding the financial services licensee or debt collection licensee unless otherwise exempt under <cite path="|I|22">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-4</num>
+    <heading>Tribal Consumer Financial Services Regulatory Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>Establishment and purpose. The Tribal Legislature hereby creates and establishes the Tribal Consumer Financial Services Regulatory Authority ("Authority") as a governmental subdivision of the Tribe. The Authority has charge of the implementation of the tribal consumer financial services regulatory chapter and regulations of the Tribe relating to business activities and associated licensing requirements.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Location and place of business. The Authority may maintain its headquarters, principal place of business and office within the Tribal offices. The Authority may, however, with a majority vote from the Tribal Legislature, establish other places of business in such other locations as the Authority may from time to time determine to be in the best interest of the Tribe.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Duration. The Authority shall have perpetual existence and succession in its own name, unless dissolved by the Tribal Legislature pursuant to Tribal law.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Attributes. As a governmental subdivision of the Tribe, the Authority is under the direction and control of the Tribal Legislature, and it is the purpose and intent of the Tribal Legislature that the operations of the Authority be conducted on behalf of the Tribe for the sole benefit and interests of the Tribe, its members, residents of, and visitors to the Tribe's Reservation.</text>
+      <para>
+        <num>(1)</num>
+        <text>Arm of Tribe. In carrying out its purposes under <cite path="|I|22">this chapter</cite>, the Authority shall function as an arm of the Tribe. To fund necessary government function and regulatory oversight, the Authority may, upon receiving any necessary approvals from the Tribal Legislature, impose a fee or tax on any financial services licensee or tribal debt collection licensee, and make payment of such a fee or tax subject to a financial services licensee's or tribal debt collection licensee's existing agreements or business relationships, as a condition of its financial services license remaining in good standing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Tribal actions. Notwithstanding any powers delegated to the Authority under <cite path="|I|22">this chapter</cite>, the Tribe reserves to itself the right to bring suit against any person or entity in its own right, on behalf of the Tribe or on behalf of the Authority whenever the Tribe deems it necessary to protect the sovereignty, rights and interests of the Tribe, the Authority, or the licensee.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Sovereign immunity of the authority.</text>
+      <para>
+        <num>(1)</num>
+        <text>Immunity from suit. The Authority, as an arm of the Tribe, is cloaked by tribal and federal law with all the privileges and immunities of the Tribe, except as specifically limited by <cite path="|I|22">this chapter</cite>, including sovereign immunity from suit in any tribal, federal or state Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No Waiver. Nothing in <cite path="|I|22">this chapter</cite> shall be deemed or construed to be a waiver of sovereign immunity of the Authority from suit in state or federal Court. Any waiver shall be made pursuant to <cite path="§22-4|E|(4)">Subsection E(4)</cite>, below.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No consent to jurisdiction. Nothing in <cite path="|I|22">this chapter</cite> shall be deemed or construed to be a consent of the Authority to the jurisdiction of the United States or of any state or of any other tribe with regard to the business or affairs of the Authority.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Waiver of sovereign immunity of the Authority. The Authority is only subject to suit pursuant to Article XVIII of the Constitution.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Sovereign immunity of the Tribe. With respect to the existence and activities of the Authority, all inherent sovereign rights of the Tribe as a federally recognized Indian Tribe are hereby expressly reserved, including sovereign immunity from suit in any state, federal or tribal Court. Nothing in <cite path="|I|22">this chapter</cite> nor any action of the Authority shall be deemed or construed to be a waiver of sovereign immunity from suit or counterclaim of the Tribe, a consent of the Tribe to the jurisdiction of the United States, any state or other tribe with regard to the business or affairs of the Authority or the Tribe, a consent of the Tribe to any cause of action, counterclaim, case or controversy, or to the levy of any judgment, lien or attachment upon any property of the Tribe, a consent to suit or counterclaim in respect to any land within the exterior boundaries of the Tribe's reservation, or to be a consent to the alienation, attachment or encumbrance of any such land.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Assets of the Authority. The Authority shall have only those assets specifically assigned to it by the Tribal Legislature, acquired in its name by the Tribe, or acquired by the Authority on its own behalf. No activity of the Authority or any indebtedness incurred by it shall implicate or in any way involve any assets of tribal members or the Tribe not assigned in writing to the Authority.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Regulatory agents; compensation, duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>Regulatory agents; legislative oversight. The Authority shall be composed of at least one but not more than three agents appointed by the Tribal Legislature. The agents will be employees of the Tribe and subject to the Tribe's employment policies and professional and ethics standards. The Tribal Chairman will supervise the agents for employment purposes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Term of office. Agents shall serve three-year terms unless an agent is removed or otherwise replaced by the Tribal Legislature, or the agent's term is extended. There are no limits to the number of terms a person may serve.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Staggered terms. The Tribal Legislature shall not replace more than one agent per calendar year unless necessitated by <cite path="§22-4|K">Subsection K</cite> based on events beyond the control of the Tribal Legislature. The Tribal Legislature may extend any agent's term as necessary to comport with <cite path="§22-4|H.|(3)">this subsection</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Compensation. The compensation of the agents shall be established from time to time by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Duties. The agents shall have responsibilities that include but are not limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>By majority vote, the agents may elect a Chairman who will oversee and have responsibility for the day-to-day operations of the Authority, including supervision of Authority employees;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accept service of process; and conduct or oversee the conduct of any meetings or hearings held by the Authority in accordance with <cite path="|I|22">this chapter</cite> or further directive of the Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The agents may identify additional duties and assign particular duties to an agent or an Authority employee. Compensation shall be submitted to the Tribal Legislature with the Authority's annual budget approved by the Tribal Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Agent qualifications. Any person appointed as an agent of the Authority shall meet the following qualifications:</text>
+        <para>
+          <num>(a)</num>
+          <text>The agents shall be enrolled members of the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An agent shall have expertise, experience, education or a combination thereof in the following areas: financial services, finance, management, business, governmental regulation, law, and/or Tribal policy.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An agent shall be at least 21 years of age and show proof of high school diploma or equivalent.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No person shall serve as an agent if:</text>
+          <para>
+            <num>[1]</num>
+            <text>His/her prior activities, criminal record, if any, or reputation, habits or associations:</text>
+            <para>
+              <num>[a]</num>
+              <text>Pose a threat to the public interest; or</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>Threaten the effective regulation and control of financial services; or</text>
+            </para>
+            <para>
+              <num>[c]</num>
+              <text>Enhance the dangers of unsuitable, unfair, or illegal practices, methods, or activities in the conduct of financial services.</text>
+            </para>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>He/she has been convicted of or entered a plea of no contest to any felony or to a misdemeanor involving breach of trust or dishonesty in any jurisdiction; or</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>He/she, or any member of his or her immediate family has an ownership, partnership or other direct monetary or financial interest in the conduct of any licensee or is in privity with a financial services licensee or tribal debt collection licensee, or one of its agents, contractors, or subcontractors; or if he or she has any other personal or legal relationship that places him/her in a conflict of interest with any licensee. For purposes of <cite path="§22-4|H.|(6)|(d)|[3]">this subsection</cite>, "immediate family" includes spouse or significant other, parents, children, and siblings. Ownership of a licensee by virtue of membership in the Tribe is not a per se monetary or financial interest in the conduct of any licensee.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Nonvoting agent. In addition to the agents appointed pursuant to <cite path="§22-4|H">Subsection H</cite>, the Legislature has full discretion whether to appoint a nonvoting agent to serve as a nonvoting agent of the Authority who has sufficient expertise in banking and finance, regulatory enforcement, or public policy and whose professional experience will aid the Authority with national outreach and federal and Tribal policy development. A nonvoting agent shall not be an employee or have any interest in any licensee or vendor.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Meetings. Meetings of the Authority shall occur in the manner described herein.</text>
+      <para>
+        <num>(1)</num>
+        <text>Regular meetings. The Authority shall meet at least twice, but no more than four times, per month at such dates, times, and locations as agreed upon by the majority of the agents. In no event shall meetings of the Authority exceed 48 regular meetings per year without prior Tribal Legislature approval.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Special meetings. In addition, two of the three agents, upon 72 hours' written notice to each member, may call special meetings but only for the purpose of exercising enforcement authority prescribed under <cite path="|I|22">this chapter</cite> or as necessary to deal with issues involving emergency or exigent circumstances requiring the immediate attention of the Authority.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Meeting conduct. The Authority shall conduct meetings in the manner described herein.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Authority shall keep a complete and accurate record of all its meetings.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A majority of the agents shall constitute a quorum for the transaction of any business, for the performance of any duty, or for the exercise of any power which <cite path="|I|22">this chapter</cite> requires the Authority to transact, perform, or act.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Authority may conduct meetings in closed session to protect the integrity of personnel matters, background investigations or enforcement actions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Confidentiality. All records of the Authority are confidential records of the Tribe and may not be released without Tribal Legislative approval.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Prohibited acts. The agents and Authority employees shall not do any of the following with respect to any licensee under the jurisdiction of the Authority:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be indebted, either directly or indirectly, as consumer unless such indebtedness was contracted before becoming employed by or appointed to the Authority and is fully disclosed to the Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be an officer, director, or employee of any licensee or lender to the Tribe.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be interested in, directly or indirectly, or receive from any licensee or any officer, director, or employee of any licensee any salary, fee, compensation or other valuable thing by way of gift, donation, credit, or compensation for services or otherwise; except that agents and Authority employees are permitted to receive a pro-rata share of revenue that has been generated by a licensee and is distributed among all eligible tribal members by virtue of membership in the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Removal of regulatory agent/vacancy.</text>
+      <para>
+        <num>(1)</num>
+        <text>Cause for removal. An agent may be removed by the Tribal Legislature for any of the following reasons: serious inefficiency, neglect of duty, malfeasance, misfeasance, nonfeasance, misconduct in office, or for any conduct which threatens the honesty and integrity of financial services or the Authority or violates the intent of <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notice; hearing; removal. If there is cause for removal, an agent shall be given a written notice of the specific charges against him or her. The Tribal Legislature shall schedule a hearing at least 10 days after notice was delivered to the agent. Agents subject to removal will be given an opportunity to provide evidence rebutting the grounds for their proposed removal before the removal is considered. A vote of the Tribal Legislature on the validity of the removal shall be final and not subject to further appeal.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Vacancy. In the event of a vacancy, the Tribal Legislature shall appoint another qualified person to fill the position. The term of office of the appointee shall be for the balance of the unexpired term for the position.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Powers of the Authority. The Authority has the power and responsibility to discharge all duties imposed by law and <cite path="|I|22">this chapter</cite>, including but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>To promulgate, adopt, and enforce regulations and rules furthering the purpose and provisions of <cite path="|I|22">this chapter</cite>; provided that such regulations shall take effect only upon approval of the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To examine or inspect or cause to be examined or inspected each licensee annually and more frequently if the Authority considers it necessary.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To make or cause to be made reasonable investigations of any licensee or person as it deems necessary to ensure compliance with <cite path="|I|22">this chapter</cite> or any order of the Authority, to determine whether any licensee or person has engaged, is engaging or is about to engage in any act, practice or transaction that constitutes an unsafe or unsound practice or violation of <cite path="|I|22">this chapter</cite> or any order of the Authority; or to aid in adopting rules or regulations pursuant to <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To establish procedures designed to permit detection of any irregularities, fraud, or the like.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon prior explicit resolution and approval of the Tribal Legislature, to employ such advisors as it may deem necessary. Advisors may include, but are not limited to, lawyers, accountants, law enforcement specialists and financial services professionals.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To accept, review, approve or disapprove any application, including conducting or arranging for background investigations of all applicants.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>To examine under oath, either orally or in writing, in hearings or otherwise, any licensee or person, or agent, officer or employee of any financial services licensee or tribal debt collection licensee, or any other witness with respect to any matters related to <cite path="|I|22">this chapter</cite> and to compel by subpoena the attendance of witnesses and the production of any books, records, and papers with respect thereto. Upon refusal to appear or produce, the Authority may apply to a court of competent jurisdiction to compel appearance or production.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>To make, or cause to be made by its agents or employees, an examination or investigation of the place of business, equipment, facilities, tangible personal property and the books, records, papers, vouchers, accounts, documents and financial statements of any licensee or person engaging or participating in, or suspected to be engaging or participating in, consumer financial services.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>To discipline any licensee or person engaging or participating in consumer financial services in violation of <cite path="|I|22">this chapter</cite> by ordering immediate compliance, issuing fines and sanctions, and suspending or revoking any license pursuant to the hearings and due process required by <cite path="§22-4|R">Subsection R</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>To arbitrate, compromise, negotiate or settle any dispute to which it is a party relating to the Authority's authorized activities, subject to any approval that may be required by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>To adopt a schedule of fees to be charged for the processing of applications and issuance and renewal of licenses, including fees or charges associated with conducting background checks; for reasonable examinations of licensees; and, for services rendered relating to transcripts and the furnishing or certifying of copies of proceedings, files, and records and to impose the forgoing fees as applicable.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>To establish and maintain such bank accounts as may be necessary or convenient.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>To make such findings as may be necessary to implement the Authority's duties and powers, with such findings to be given deference as the legally binding findings of a governmental entity.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>To counsel lenders and consumers on their rights and duties under <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Establish programs for the education of consumers with respect to credit practices and problems.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Investigations, right of entrance.</text>
+      <para>
+        <num>(1)</num>
+        <text>Investigations. The Authority, upon petition, complaint or upon its own initiative or whenever it may deem it necessary in the performance of its duties or the exercise of its powers, may investigate and examine the operation and premises of any licensee or person engaging or suspected to be engaging in consumer financial services within its jurisdiction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In undertaking such investigations, the Authority may request the assistance of federal or local law enforcement officials, legal counsel and/or other third parties.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In conducting such investigation, the Authority shall make no order or final decision without affording any affected party notice and a hearing pursuant to <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Right of entrance. The Authority and duly authorized employees or agents of the Authority, during regular business hours, may reasonably enter upon any tribal premises of any licensee or person engaging in or suspected to be engaging in tribal consumer financial services for the purpose of making inspections and examining the accounts, books, papers and documents of any such licensee or person.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Aid to entry. The staff of the licensee or person engaging in or suspected to be engaging in tribal consumer financial services shall facilitate such inspection or examinations by giving every reasonable aid to the Authority and to any properly authorized officer or employee.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Annual budget. The Authority shall prepare an annual operating budget for all Authority activities and present it to the Tribal Legislature in the time and manner established by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Authority regulations.</text>
+      <para>
+        <num>(1)</num>
+        <text>Regulations necessary to carry out the implementation and orderly performance of the Authority's duties and powers shall include, but shall not be limited to, the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>The making of findings or other information required by or necessary to implement <cite path="|I|22">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Interpretation and application of <cite path="|I|22">this chapter</cite>, as may be necessary to enforce the Authority's duties and exercise its powers;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A regulatory system for overseeing consumer financial services, including accounting, contracting, management and supervision;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The conduct of inspections, investigations, hearings, enforcement actions and other powers of the Authority authorized by <cite path="|I|22">this chapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Specification of the amount and the schedule of application and examination fees that shall be imposed by the Authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Promulgation of regulations. The Authority may promulgate regulations as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribal Legislature, the Authority, or any licensee may request the promulgation of a regulation by submitting a written request and draft of the proposed regulation to the Authority;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within 30 days, the Authority will review the request and proposed regulation to ensure it does not conflict with <cite path="|I|22">this chapter</cite> or any applicable law;</text>
+          <para>
+            <num>[1]</num>
+            <text>If the proposed regulation conflicts with <cite path="|I|22">this chapter</cite> or any applicable law, the Authority may revise the proposed regulation to conform to <cite path="|I|22">this chapter</cite> or other applicable law, or return the proposal with an explanation of any nonconformity to the submitting person for further review.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>If the proposed regulation does not conflict with <cite path="|I|22">this chapter</cite> or any applicable law, the Authority will notify the Tribal Legislature, the submitting person, and any licensees that may be affected by the proposed regulation by means reasonably calculated to inform the Tribal Legislature and all affected persons;</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>After notice is sent, unless exigent circumstances exist, the Authority will allow at least 30 days for the Tribal Legislature and any affected persons to submit written comments on the proposed regulation that support, oppose, or suggest amendments to the proposed regulation. When exigent circumstances exist, the Authority may promulgate a regulation without a comment period, and any licensee or person affected may protest the regulation by following the procedure detailed in <cite path="§22-4|O|(2)(g)">subsection O(2)(g)</cite>. Upon promulgation of any regulation under exigent circumstances, within seven days, the Authority will notify the Tribal Legislature of the promulgated regulation and the exigent circumstances.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>After the comment period has expired:</text>
+          <para>
+            <num>[1]</num>
+            <text>If the proposed regulation is unopposed, the Authority will shall promulgate and publish the proposed regulation by majority vote and it will be implemented;</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>If the proposed regulation is opposed or amendments are proposed, the Authority may either decline to promulgate the regulation or abandon the proposed regulation, amend the proposed regulation, or conduct a hearing on the proposed regulation to allow interested parties to advocate on the proposal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Authority will notify the Tribal Legislature and all affected persons of its decision pursuant to <cite path="§22-4|D">Subsection D</cite> above.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Tribal Legislature review. Within 30 days after the Authority promulgates or declines to promulgate a regulation, a licensee may request a Tribal Legislature review of the Authority's decision. A licensee may submit a written request for a Tribal Legislature review to the Authority. The written request must detail the basis for the Tribal Legislature review. The Authority will forward to the Tribal Legislature the written request for review, the proposed regulation at issue, a written explanation of the bases for the Authority's decision to promulgate or not to promulgate the proposed regulation, and an agenda request to appear before the Tribal Legislature. The Authority will send copies of this submission to the licensee requesting the Tribal Legislature review.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Tribal Legislature may accept or deny the request to review the Authority's decision.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If the Tribal Legislature declines the request to review the Authority's decision, the Authority's decision on the proposed regulation is final.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>If the Tribal Legislature grants the request to review the Authority's decision, the Tribal Legislature may proceed to review the Authority's decision in any manner it deems appropriate.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Tribal Legislature may promulgate or rescind any regulation at any time by majority vote. The Tribal Legislature is in no way bound by this section.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Only regulations promulgated by this procedure or promulgated by the Tribal Legislature will be enforceable.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Report to the Tribal Legislature. The Authority shall file reports with the Tribal Legislature summarizing reports received from each licensee, investigations undertaken, licensee violations and other activities undertaken by the Authority to keep the Tribal Legislature fully informed as to the status of the Authority's activities. The Authority shall define by regulation, subject to the approval of the Tribal Legislature, the schedule for the submission of such reports.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice and opportunity to cure; due process; notice; hearings; examiner. For a violation of <cite path="|I|22">this chapter</cite> or denial of an application, the Authority shall provide notice and the opportunity for a hearing comporting with notions of due process if it is to utilize any of its enforcement capabilities in the administration of its powers and duties hereunder. At the discretion of the Authority, the Authority may provide a reasonable opportunity to cure before it initiates any enforcement action. If emergency enforcement action is taken based upon a showing of exigent circumstances or good cause, the Authority shall provide notice and an opportunity to be heard within 14 days of the occurrence of such enforcement action to allow an aggrieved party an opportunity to object to the enforcement action. Upon receipt of any notice of violation, a licensee may request a stay of any enforcement action to allow time to cure or to work with the Authority towards a voluntary resolution.</text>
+      <para>
+        <num>(1)</num>
+        <text>No hearing, voluntary resolution. Whenever it shall appear to the satisfaction of the Authority that all of the interested parties involved in any dispute or concern have agreed concerning the matter at hand, the Authority may dismiss an enforcement action or approve resolution of the issue, as appropriate, without a hearing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notice of hearing. A written notice shall set forth, with specificity, the issues to be resolved and the date and time at which a hearing shall be conducted.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hearing.</text>
+        <para>
+          <num>(a)</num>
+          <text>Except as determined by the Authority, a hearing should be scheduled between 10 and 30 business days after the notice of hearing is delivered.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>At the hearing, the affected parties shall be provided the opportunity to present oral or written evidence. An affected party shall have an opportunity to cross-examine opposing witnesses, and to present any other evidence as to why a denial, suspension, or revocation order should not be issued.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Hearings shall be open to all people interested therein as determined by the Authority.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The hearing shall be governed in all respects in accordance with tribal law and Authority regulations. Any suspension or revocation decision of the Authority after hearing may be appealed in accordance with the provisions of <cite path="§22-4|R|(6)">Subsection R(6)</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Examiner. The Authority's agent(s) shall act as examiner for the purpose of any hearing, or the Authority may appoint an examiner qualified in the law or possessing knowledge or expertise in the subject matter of the hearing for the purpose of conducting any hearing. Any such appointment shall constitute a delegation to such examiner of the powers of the Authority under <cite path="|I|22">this chapter</cite> with respect to any such hearing.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Decision. The Authority shall issue a written decision to all affected parties within 30 days after the hearing.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Appeals. Affected parties may appeal an Authority determination by filing a written appeal to the Tribal Court within 20 days of receiving the Authority's final written decision.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-5</num>
+    <heading>Licenses.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability. Unless exempt as described in <cite path="§22-6">§ 22-6</cite>, any person or vendor seeking to engage in tribal consumer financial services or tribal debt collection activities subject to <cite path="|I|22">this chapter</cite> or, when applicable, be employed by a financial services licensee or tribal debt collection licensee, or vendors, shall apply for and receive all required licenses prior to engaging in tribal consumer financial services or tribal debt collection activities, or being employed by a financial services licensee or tribal debt collection licensee. A license is a revocable privilege to do business within the jurisdiction of the Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Application procedure.</text>
+      <para>
+        <num>(1)</num>
+        <text>Submission to Authority. An applicant shall submit an application to the Authority on such form as the Authority may require.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Application Contents. At a minimum, the application shall contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>For applicants that are other than natural persons:</text>
+          <para>
+            <num>[1]</num>
+            <text>Each of the applicant's owners, officers and/or directors; and principal management employees, including any chief executive officer, chief financial officer, chief operating officer, and general manager;</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Each of its owners or partners, if an unincorporated business;</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Each of its shareholders who own more than 10% of the shares of the corporation;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All natural persons identified on any application shall include his criminal and civil record, if any, an explanation of any crimes for which he has been convicted, or to which he has entered a plea of no contest, civil suits in which a judgment has been entered against him, and a complete disclosure of any pending or anticipated civil or criminal action against him in any jurisdiction. Each natural person identified on any application shall provide written permission giving the Authority or its designees the right to investigate his background, including his criminal record;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant for an employee license shall provide all necessary information and written permission for the Authority or its designee to obtain the applicant's credit history and/or credit score;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An application shall list all of the consumer financial services-related or debt collection-related licenses the applicant has ever applied to the Authority for, whether or not such licenses were issued;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An application shall describe the applicant's proposed business, including the type of consumer financial services it intends to engage in;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The applicant shall disclose whether there is a previous contractual relationship with any Indian Tribe; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The applicant shall execute a sworn statement that if the license applied for is issued, the applicant will submit to the jurisdiction of the Tribe; the applicant will abide by all applicable Tribal and federal laws, regulations and policies; and the information contained in the application is true and correct to the best of applicant's knowledge.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Each consumer financial services, debt collection, and vendor application shall be accompanied by an application fee, the amount of which shall be set by the Authority. There is no fee for employee licensee applications.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Review, issuance and denial, term.</text>
+      <para>
+        <num>(1)</num>
+        <text>Consumer financial services license or tribal debt collection license. A consumer financial services license or tribal debt collection license shall automatically issue if the following criteria are met:</text>
+        <para>
+          <num>(a)</num>
+          <text>The application complied with Subsection B;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The consumer financial services or debt collection activities are authorized pursuant to <cite path="|I|22">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The consumer financial services or debt collection activities are authorized by a Tribal Legislature resolution; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tribe has the sole ownership interest in the tribal enterprise that provides the consumer financial services or debt collection activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employee and vendor license. Upon compliance with <cite path="§22-5|B">Subsection B</cite>, the Authority shall review the qualifications of the applicant sufficient to make a determination of eligibility as required under <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Issuance. Upon completion of any necessary background investigation, the Authority may issue a license on a conditional or unconditional basis. The Authority may in its discretion grant a temporary license after submission of a completed application and a preliminary determination of suitability by the Authority.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Denial. The Authority, when it does not license an applicant shall notify the applicant in writing, provide the basis for the denial of the license, and otherwise comply with the procedural requirements of <cite path="§22-4|R">§ 22-4R</cite> of <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Term. Any license issued pursuant to this section shall be effective for a period of two years from the date of issuance. A temporary license may be issued for such period of time as determined by the Authority, but not to exceed sixty 60 days, with a possible sixty-day renewal for cause.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>License substance and classification. The license shall bear on its face the name of the licensee, the tribal logo, the issue date, the license number, and the applicable classification of the license. Subject to <cite path="|I|22">this chapter</cite>, the Authority may issue licenses that authorize a licensee to provide all types of consumer financial services under <cite path="|I|22">this chapter</cite> or a limited-purpose license that only authorizes certain types of consumer financial services under <cite path="|I|22">this chapter</cite>. Each license shall specify its scope.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Record retention. The Authority shall maintain the applicant's file, including applications, background investigation reports, and eligibility determination reports for no less than three years from the date of termination of employment.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>License posting. A license issued pursuant to <cite path="|I|22">this chapter</cite> shall be conspicuously posted at the licensee's place of business and on each of its websites.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Application denial; suspension or revocation of license.</text>
+      <para>
+        <num>(1)</num>
+        <text>Denial; suspension or revocation. The Authority shall not unreasonably withhold issuance or renewal of a license. The Authority shall deny an application, or suspend or revoke a license, only after notice and an opportunity for a hearing pursuant to <cite path="§22-4|R">§ 22-4R</cite> herein, unless the Authority finds that an applicant or licensee:</text>
+        <para>
+          <num>(a)</num>
+          <text>Failed to pay application or renewal fees;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Made a material misstatement or omission on the application or on any document required to be filed with the Authority;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Withheld or provided incomplete or insufficient pertinent information from the Authority;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is not a person of honesty, truthfulness or good character;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Violated or aided, abetted, or conspired or knowingly caused any licensee or person to or otherwise participate in the violation of <cite path="|I|22">this chapter</cite> or the rules and regulations of the Authority;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Participated in consumer financial services in violation of <cite path="|I|22">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Knowingly falsified books or records that relate to a transaction connected with the operation of consumer financial services or debt collection activities;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Failed to keep sufficient books and records to substantiate receipts, disbursements, and expenses incurred or paid by a licensee authorized pursuant to <cite path="|I|22">this chapter</cite> or to substantiate, by the Authority, compliance with <cite path="|I|22">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Failed to take reasonable measures to ensure that an agreement with a consumer is not materially breached;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Is insolvent;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Is charged, has been convicted, or has entered a plea of no contest in any jurisdiction with a felony or any other crime involving breach of trust or dishonesty;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>After notice and an opportunity to be heard, has been found by an administrative agency of any jurisdiction responsible for conduct that involved fraud, deceit or misrepresentation;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Has had a financial judgment ordered against it in a civil action based on fraud, deceit or misrepresentation;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Employed any person in whom the licensee knew or should have known was convicted of fraud, theft, or embezzlement;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Refused to comply with any lawful order, inquiry or directive of the Authority, the Tribal Legislature, the Tribal Court;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Attempted to bribe or offer something of value to any person, Tribal Legislature member, or an agent in an attempt to avoid or circumvent the law;</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Stole or attempted to steal funds or other items of value;</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Poses a threat to the public interest or the effective regulation of tribal consumer financial services or debt collection activities;</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Creates or enhances the danger of unsuitable, unfair or illegal practices and methods and activities in the conduct of tribal consumer financial services or debt collection activities;</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Has had a license suspended or revoked and not subsequently reinstated; or</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Has demonstrated an inability to manage personal or business finances or demonstrates a sufficient indebtedness in relation to income so as to cause concern for the ability to fulfill its responsibilities under <cite path="|I|22">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acts of controlling persons. It is sufficient cause for denial of an application or the suspension or revocation of a license if an officer, director, partner, employee or controlling person of the licensee or applicant acted or failed to act in a manner that would be cause for denial, suspension or revocation. For purposes of <cite path="§22-5|B.|(2)">this subsection</cite>, "controlling person" means a person described in <cite path="§22-5|B|(2)(a)">Subsection B(2)(a)</cite> or who has the ability to affect one or more significant business decisions of the licensee or applicant.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Procedure for suspension or revocation.</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon reasonable basis for belief that a violation of <cite path="|I|22">this chapter</cite> has occurred, the Authority may issue a violation notice or serve an order to show cause why the licensee's license should not be suspended or revoked.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any violation notice or order to show cause shall state the reason for the violation or order and the time and place for the hearing before the Authority pursuant to <cite path="§22-4|R">§ 22-4R</cite> herein.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Renewal.</text>
+      <para>
+        <num>(1)</num>
+        <text>Renewals. A licensee shall apply to renew a license before the license expires. Applicants may be required to provide updated material as requested.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Nonrenewal. The Authority may deny renewal of a license if the Authority finds the existence of any circumstance listed in <cite path="§22-5|D|(1)">Subsection D(1)</cite> above, or that any other fact or condition exists that, if it had existed at the time of the original application for the license, would have warranted the Authority to refuse to issue the license.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Voluntary surrender of license. Any licensee may voluntarily surrender its license at any time by giving written notice of the surrender to the Authority.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Assignment or transfer. A license is not salable, lendable, transferable or assignable, and control of a license shall not be acquired through any stock purchase or other devise.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Deposits of fees and assessments. Application fees, renewal fees, late payment penalties, civil penalties, administrative fines and other fees or penalties provided for in <cite path="|I|22">this chapter</cite> shall in all cases be paid directly to the Authority. The Authority shall deposit such proceeds into an account or fund designated by the Tribal Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-6</num>
+    <heading>Exemptions.</heading>
+    <text>The following persons are subject to <cite path="§22-7|A">§ 22-7A</cite> and B but otherwise exempt from any other provision or application of <cite path="|I|22">this chapter</cite>:</text>
+    <para>
+      <num>A.</num>
+      <text>A person who engages in consumer financial services without charging or collecting interest or other consideration for a transaction or charges or collects nominal or incidental consideration.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A vendor that receives less than $25,000 in any twelve-month period from a licensee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A person who is a bank, savings bank, or savings and loan association organized under the laws of the United States, or any other lender to the Tribe or to a financial services licensee or debt collection licensee.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A person who provides financial services to a licensee and who is licensed, registered, or otherwise subject to the regulatory supervision and oversight of an agency of the United States in order to engage in such financial services.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A person licensed or otherwise authorized to engage in payment processing, money transmission, tax preparation, or the practice of law.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any person providing solely preorigination services, including but not limited to credit bureaus, lead generators, marketing companies, or similar third-party service providers as identified by promulgated regulation.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Any other federal insured financial institution and any of their subsidiaries;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Menominee Indian Tribe of Wisconsin Department of Lending and Tribal Tax;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Any employee of the above.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-7</num>
+    <heading>Licenses.</heading>
+    <para>
+      <num>A.</num>
+      <text>Compliance. Licensees shall at all times comply with the provisions of <cite path="|I|22">this chapter</cite>, rules and regulations promulgated pursuant to <cite path="|I|22">this chapter</cite>, and all other applicable Tribal, and federal laws as applicable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Federal consumer protection laws. A licensee shall conduct business in a manner consistent with principles of federal consumer protection law, including, without limitation, the following, as applicable: Dodd-Frank Wall Street Reform and consumer Protection Act, 12 U.S.C. §<cite path="§5491-5493">§ 5491-5493</cite>; Truth in Lending Act, 15 U.S.C. § 1601 et seq., and related regulations at 12 CFR Part 226; consumer Leasing Act, 15 U.S.C. § 1667 et seq., and related regulations at 12 CFR Part 213; Fair Credit Billing Act, 15 U.S.C. § 1666a; Equal Credit Opportunity Act, 15 U.S.C. § 1691 et seq., and related regulations at 15 CFR Part 202; Electronic Fund Transfer Act, 15 U.S.C. § 1693 et seq., and related regulations at 12 CFR Part 205; Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq., and related regulations at 12 CFR Part 222; privacy provisions of Title V of the Gramm-Leach-Bliley Act, 15 U.S.C. § 6801 et seq., and related regulations at 16 CFR Part 313 and 16 CFR Part 314; Fair Debt Collection Practices Act, 15 U.S.C. § 1692 et seq., and related regulations at 16 CFR Part 901; Talent Amendment, 10 U.S.C. § 987, and related regulations of the Department of Defense at 32 CFR Part 232; Military Lending Act, 10 U.S.C. § 987; and Service Members' Civil Relief Act, 50 U.S.C. App. §<cite path="§501-596">§ 501-596</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Prohibited acts by licensees.</text>
+      <para>
+        <num>(1)</num>
+        <text>Unless otherwise exempt, a person shall not engage in the business of consumer financial services or debt collection activities subject to <cite path="|I|22">this chapter</cite> without first obtaining a license pursuant to <cite path="|I|22">this chapter</cite>. A separate license is not required for each location that the licensee operates and deals in person with the consumers, but each location must be approved in advance by the Authority. The financial services or debt collection licensee shall post its license issued pursuant to <cite path="|I|22">this chapter</cite> at each location or, if the location is a website, said license shall be posted electronically on each website. For purposes of this section, the term "location" or "a location" includes a website maintained for the purpose of participating in consumer financial services or debt collection activities pursuant to <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Assess any interest, fee, or charge that is greater than any applicable limitation, if any, prescribed in <cite path="|I|22">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Use or cause to be published or disseminated any advertisement that contains false, misleading or deceptive statements or representations.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Engage in unfair, deceptive or fraudulent practices.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Tie or otherwise condition the providing of consumer financial services or debt collection activities to the sale of any good or service by the licensee.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Compliance management system.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each financial services and tribal debt collection licensee shall maintain a system to ensure compliance with applicable consumer protection laws, e.g., <cite>Subsections A and B</cite> above.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each financial services licensee and tribal debt collection licensee shall provide compliance management audits to the Authority. Compliance audits shall be provided annually.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Books, accounts and records, examinations, costs.</text>
+      <para>
+        <num>(1)</num>
+        <text>Every financial services and debt collection licensee shall maintain at each location at which it conducts business all books, accounts and records that the Authority reasonably requires. Each financial services and debt collection licensee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Ensure that the books, accounts and records are sufficiently detailed to comply with <cite path="|I|22">this chapter</cite> and all applicable tribal and federal laws.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maintain the books, accounts and records separately from any other business in which the licensee is engaged and shall retain the books, accounts and records for at least three years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Authority may examine or cause to be examined each financial services and tribal debt collection licensee annually. In conducting such examination, the Authority may examine the books, accounts and records to determine if the financial services or tribal debt collection licensee has complied with <cite path="|I|22">this chapter</cite> and any implementing regulations adopted pursuant to <cite path="|I|22">this chapter</cite>. The financial services or tribal debt collection licensee shall pay the cost of the examination as may be required by the Authority in accordance with its regulations.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The books, accounts, and records kept by a licensee are tribal records, and the examination, publication, and dissemination of any such books, accounts, and records are governed by the provisions of <cite path="|I|22">this chapter</cite> unless otherwise preempted by applicable tribal law.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Audit requirements. The Authority may promulgate regulations to require each financial services licensee and tribal debt collection licensee to provide internal audits as well as other third-party audits deemed necessary for the effective regulation of consumer financial services and debt collection activities. Any such regulation shall detail the content of each required audit and auditing standards.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Public notice. Each financial services and debt collection licensee shall have a copy of <cite path="|I|22">this chapter</cite> and any implementing regulations readily available for inspection by any person at each authorized consumer financial services location. For purposes of this <cite path="§22-7|G">Subsection G</cite>, the term "location" includes a website maintained for the purpose of participating in consumer financial services or debt collection activities pursuant to <cite path="|I|22">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-8</num>
+    <heading>Authorized consumer financial services transactions and debt collection activities.</heading>
+    <para>
+      <num>A.</num>
+      <text>General authority. Subject to <cite path="|I|22">this chapter</cite>, a licensee may engage in the business of providing tribal consumer financial services as provided in <cite path="|I|22">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Revolving credit.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applicability, exempted transactions. This section applies to revolving lines of credit. This section does not apply to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Credit transactions involving extensions of credit primarily for business or commercial purposes; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An extension of credit to any person other than a natural person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Definitions. In this section, unless the context otherwise requires:</text>
+        <text>CONSUMER'S ACCOUNT — An account established by a consumer with a creditor under a revolving credit plan.</text>
+        <text>CREDITOR — A financial service licensee issuing a loan to a consumer under the laws of the Tribe and pursuant to <cite path="|I|22">this chapter</cite>.</text>
+        <text>DEPOSIT ACCOUNT — A demand deposit account or a savings account established at a financial institution by a consumer, or person acting on behalf of or with authorization from the consumer, for the purpose of receiving deposits of funds as more fully described in the agreement governing the plan.</text>
+        <text>LOAN OR LOANS — Cash advances or loans to be made from time to time pursuant to the terms of the agreement governing the plan.</text>
+        <text>OUTSTANDING UNPAID INDEBTEDNESS OR INDEBTEDNESS — On any day an</text>
+        <text>amount not in excess of the total amount of loans charged to the consumer's account under the plan which is outstanding and unpaid at the end of the day, after adding the aggregate amount of any new loans charged to the consumer's account as of that day and deducting the aggregate amount of any payments and credits applied to that indebtedness as of any day and, if the agreement providing the plan so provides, may include the amount of any interest and additional charges, including late or delinquency charges, which have accrued to the consumer's account and which are unpaid at the end of the day. Loans may be included in outstanding unpaid indebtedness as of such time as may be specified in the agreement governing the plan.</text>
+        <text>PREPAID CARD — A debit card or other access device, upon which the proceeds of a loan issued pursuant to the terms of a revolving credit plan are added and which is contemplated by the agreement governing the plan.</text>
+        <text>REVOLVING CREDIT PLAN OR PLAN — A plan contemplating the extension of credit under an account governed by an agreement between a creditor and a consumer pursuant to which:</text>
+        <para>
+          <num>(a)</num>
+          <text>The creditor permits the consumer and, if the agreement governing the plan so provides, persons acting on behalf of or with authorization from the consumer, from time to time to obtain loans to be deposited into the consumer's deposit account or to a prepaid card issued in connection with the plan;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The amounts of such loans are charged to the consumer's account;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The consumer is required to pay the creditor the amounts of all loans charged to such consumer's account under the plan but has the privilege of paying such amounts outstanding from time to time in full or over time and can reborrow and repay in accordance with the agreement governing the plan;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Interest may be charged and collected by the creditor from time to time on the outstanding unpaid indebtedness under such plan; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Fees may be charged and collected by the creditor from time to time for loans, services, activity on the consumer's account, or other privileges offered under the plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Extension of credit. Any creditor may offer and extend credit under a revolving credit plan to a consumer and in connection therewith may charge and collect the interest and other charges permitted by this section as may be acceptable to the creditor.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Interest. A creditor may charge and collect interest under a revolving credit plan on outstanding unpaid indebtedness in the consumer's account under the plan at such daily, weekly, monthly, annual or other periodic percentage rate or rates as the agreement governing the plan provides or as established in the manner provided in the agreement governing the plan subject to the maximum interest rate prescribed herein.</text>
+        <para>
+          <num>(a)</num>
+          <text>Periodic interest may be calculated using any method provided for under the plan. Periodic billing cycles may be established in such manner and shall have such duration as may be specified in the agreement governing the plan.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maximum interest rate. No creditor may charge an interest rate under the plan in which the scheduled finance charges exceed $50 per $100 of principal per billing cycle. The finance charge may be calculated, earned and scheduled for payment as agreed by the parties as long as the finance charges as originally scheduled for payment do not exceed the maximum allowable amount set forth herein.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Additional charges.</text>
+        <para>
+          <num>(a)</num>
+          <text>In addition to or in lieu of interest at a periodic percentage rate or rates as provided in <cite path="|I|22">this chapter</cite>, a creditor may, if the agreement governing the revolving credit plan so provides, charge and collect any other fees or charges, costs, points, premiums and all other expenses which may be assessed by the creditor in connection with the plan. All such fees must be disclosed and approved pursuant to the requirements of <cite path="|I|22">this chapter</cite> to consumers before any loan may be issued to a consumer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A consumer may pay the outstanding unpaid indebtedness charged to the consumer's account under a plan in full at any time. A creditor may not impose any prepayment charges in connection with the payment of outstanding unpaid indebtedness in full by a consumer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Delinquent installments. If the agreement governing a revolving credit plan so provides, a creditor may impose a late or delinquency charge upon any outstanding unpaid installment payments or portions thereof under the plan which are in default; provided, however, that no more than one such late or delinquency charge may be imposed in respect of any single such installment payment or portion thereof regardless of the period during which it remains in default; and provided further, however, that for the purpose only of the preceding provision all payments by the consumer shall be deemed to be applied to satisfaction of installment payments in the order in which they become due. Nothing contained in this section shall limit, restrict or otherwise affect the right of a creditor under and pursuant to <cite path="I|§22-8">Subsections C and D of this section</cite> to change the periodic percentage rate or rates of interest applicable to the revolving credit plan between the creditor and a consumer upon the occurrence of a delinquency or default or other failure of the consumer to perform in accordance with the terms of the plan.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Omitted installments. A creditor may at any time and from time to time unilaterally extend to a consumer under a revolving credit plan the option of omitting monthly installments. Any and all required disclosures must be made to a consumer upon a change to the term of any loan or plan.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Billing error resolution. A creditor shall comply with the requirements of <cite path="|I|22">this chapter</cite>, currently in effect, regarding the resolution of billing errors.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Attorneys' fees; costs. In the event a consumer defaults under the terms of a plan, the creditor may, if the consumer's account is referred to an attorney (not a regularly salaried employee of the creditor) or to a third party for collection and if the agreement governing the revolving credit plan so provides, charge and collect from the consumer a reasonable attorneys' fee or the fee charged by any third party to collect the amount due. In addition, following a consumer's default, the creditor may, if the agreement governing the plan so provides, recover from the consumer all court, alternative dispute resolution or other collection costs (including, without limitation, fees and charges of collection agencies) actually incurred by the creditor.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Application of other laws. Any federal law not applicable to Indian tribes or state law limiting the rate or amount of interest, discount, points, finance charges, service charges or other charges which may be charged, taken, collected, received or reserved shall not apply to extensions of credit under a revolving credit plan operated in accordance with this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Consumer small-dollar loans.</text>
+      <para>
+        <num>(1)</num>
+        <text>Applicability, exempted transactions. <cite path="§22-8|C.|(1)">This subsection</cite> applies to small-dollar loans which are not secured by real property or a dwelling. <cite path="§22-8|C.|(1)">This subsection</cite> does not apply to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Credit transactions involving extensions of credit primarily for business or commercial purposes; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An extension of credit to any person other than a natural person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Definitions.</text>
+        <text>BUSINESS DAY — With respect to rescission as used in this <cite path="§22-8|C">Subsection C</cite>, all calendar days except Sundays and legal public holidays.</text>
+        <text>CONSPICUOUSLY DISPLAYED — Highlighted through the use of capitalization, bold print, underlining or some combination thereof.</text>
+        <text>CREDITOR — A financial services licensee lending money under the laws of the Tribe through <cite path="|I|22">this chapter</cite>.</text>
+        <text>EXTENSION OF CREDIT — Any creditor may, subject to any limitations imposed by <cite path="|I|22">this chapter</cite>, offer and extend closed-end credit to a consumer and, in connection therewith, may charge and collect the interest and other charges permitted by this section.</text>
+        <text>LOAN — Any single extension of credit, including short-term consumer loans and Small Dollar consumer loans.</text>
+        <text>RIGHT OF RESCISSION — With respect to any short-term consumer loan, the right to return any amount borrowed, in full, on or before the close of business of the business day following the day on which such sum has been disbursed or advanced without the incursion of any fee or other charges.</text>
+        <text>ROLLOVER — With respect to any short-term consumer loan, the extension of an outstanding and unpaid indebtedness beyond the stated repayment period solely on the basis of the payment of a fee without approval of a new loan application.</text>
+        <text>SHORT-TERM CONSUMER LOAN — A small-dollar loan for which the stated repayment period is less than 60 days.</text>
+        <text>SMALL DOLLAR CONSUMER LOAN — An unsecured loan in the amount of at least $50 but not more than $5,000, excluding finance charges, fees and other charges permitted in <cite path="|I|22">this chapter</cite>.</text>
+        <text>WORKOUT AGREEMENT — An agreement between an individual consumer and a creditor for the repayment of an outstanding and unpaid indebtedness which requires a net reduction of not less than 10% of such indebtedness per payment period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Interest. A creditor may charge and collect interest in respect of a loan at such daily, weekly, monthly, annual or other periodic percentage rate or rates as the agreement governing the loan provides subject to the maximum allowable interest rate required by <cite path="|I|22">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Maximum allowable interest rate. A creditor may not enter into a loan transaction with a consumer in which the scheduled finance charges exceed $50 per $100 of principal per installment period. The finance charge may be calculated, earned and scheduled for payment as agreed by the parties as long as the finance charges as originally scheduled for payment do not exceed the maximum allowable amount set forth herein.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Variable rates. If the agreement governing the loan so provides, the periodic percentage rate or rates of interest charged and collected in respect of the loan may, if the interest is not precomputed and taken in advance, vary in accordance with a schedule or formula. Such periodic percentage rate or rates may vary from time to time as the rate determined in accordance with such schedule or formula varies and such periodic percentage rate or rates, as so varied, may be made applicable to all or any part of outstanding unpaid amounts of such loan on and after the effective date of such variation. This section shall not be construed to limit the authority of a creditor to charge and collect interest in respect of a loan in the manner and at the rate or rates authorized in any other subsection of this section. Without limitation, a permissible schedule or formula hereunder may include provisions in the agreement governing the loan for a change in the periodic percentage rate or rates of interest applicable to all or any part of outstanding unpaid amounts whether by variation of the then-applicable periodic percentage rate or rates of interest, variation of an index or margin or otherwise, contingent upon the happening of any event or circumstance specified in the loan agreement, which event or circumstance may include the failure of the consumer to perform in accordance with the terms of the loan agreement.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Additional charges. In addition to or in lieu of interest at a periodic percentage rate or rates permitted by this section, the creditor may charge and collect:</text>
+        <para>
+          <num>(a)</num>
+          <text>If the agreement governing the loan so provides, charge and collect any other fees or charges, costs, points, premiums and all other expenses which may be assessed by the creditor in connection with the loan.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the agreement governing a loan so provides, a creditor may impose, as interest, a late or delinquency charge upon any outstanding unpaid installment payments or portions thereof under the loan agreement which are in default; provided, however, that no more than one such delinquency charge may be imposed in respect of any single such installment payment or portion thereof regardless of the period during which it remains in default. Nothing contained in this section shall limit, restrict or otherwise affect the right of a creditor under and pursuant to this section to change the periodic percentage rate or rates of interest applicable to the loan agreement between the creditor and a consumer upon the occurrence of a delinquency or default or other failure of the consumer to perform in accordance with the terms of the loan agreement, provided that such changes and variances are disclosed to and approved by the consumer;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Such other charges as are set forth in the agreement governing the loan, including, but not limited to, costs, fees, services, points, premiums and all other reasonable expenses which may be incurred by such applicant in connection with a loan. No creditor shall demand, collect or receive from any applicant for a loan, directly or indirectly, any other charges, or any greater amounts for any authorized charges than those permitted by this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Deferred installments. A creditor may at any time or from time to time permit a consumer to defer installment payments of a loan and may, in connection with such deferral, charge and collect deferral charges and may also require payment by such consumer of the additional cost to the creditor of premiums for continuing in force, until the end of such period of deferral, any insurance coverage provided in connection with the loan pursuant to this section.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Refinancing.</text>
+        <para>
+          <num>(a)</num>
+          <text>A consumer may, with the consent of the creditor, refinance the entire outstanding and unpaid amount of a loan, and the creditor may charge and collect a refinancing charge in connection with any such refinancing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the purposes of this section, the entire outstanding and unpaid amount of a loan shall be deemed to be the total of the unpaid balance and the accrued and unpaid interest and charges on the date of refinancing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Number of loan transactions at one time. A creditor may enter into no more than three loans with any consumer at any time.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Duration. A creditor may not provide loan transactions, whether short-term consumer loans or Small Dollar consumer loans for a term of less than three days or more than 48 months.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Short-term consumer loans.</text>
+      <para>
+        <num>(1)</num>
+        <text>In addition to such other limitations and requirements as are imposed pursuant to other provisions of this section, short-term consumer loans shall be subject to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>No creditor shall make more than four rollovers of an existing short-term consumer loan. After the fourth rollover, the creditor must enter into a workout agreement with the consumer that allows for the pay down of at least 5% of the principal of the loan per month over a maximum forty-eight-month period or take such other actions as are lawful to collect any outstanding and unpaid indebtedness.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No creditor shall make a short-term consumer loan unless such loan is subject to a right of rescission on the part of the individual consumer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No creditor shall pursue or threaten to pursue criminal action against an individual consumer in connection with the nonpayment of any amount due, including the unpaid return of any check or automated clearing-house transaction.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In addition to such other disclosure requirements as are imposed pursuant to other provisions of this section, loans shall be subject to the following: No creditor shall make a loan unless the application for such loan contains a written disclosure, conspicuously displayed, that:</text>
+          <para>
+            <num>[1]</num>
+            <text>The loan is designed as a short-term cash-flow solution and not designed as a solution for longer-term financial problems; and</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Credit counseling services are available to consumers who are experiencing financial problems.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Nothing in this section prohibits a creditor from refinancing the principal amount of a loan, subject to the limitations and requirements imposed herein.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Every loan provider must post, in plain view on all of its websites, a schedule of fees and rates applicable to their loans, and a prominent statement that: "A small-dollar consumer loan is not intended to meet long-term financial needs."</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Attorneys' fees; costs. In the event a consumer defaults under the terms of a loan, the creditor may, if the consumer's account is referred to an attorney (not a regularly salaried employee of the creditor) or to a third party for collection and if the agreement governing, or the bond, note or other evidence of, the loan so provides, charge and collect from the consumer a reasonable attorneys' fee. In addition, following a consumer's default, the creditor may, if the agreement governing, or the bond, note or other evidence of, the loan so provides, recover from the consumer all court, alternative dispute resolution or other collection costs (including, without limitation, fees and charges of collection agencies) actually incurred by the creditor.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Application of other laws. Any federal law not applicable to Indian tribes or state law limiting the rate or amount of interest, discount, points, finance charges, service charges or other charges which may be charged, taken, collected, received or reserved shall not apply to extensions of credit under a loan operated in accordance with this section.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>No oral agreements. A consumer financial services transaction may provide that it represents the entire agreement of the parties and may not be contradicted by evidence of prior, contemporaneous, or subsequent oral agreements of the parties. Such provisions are enforceable and disallow evidence of oral agreements.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Enforcement of creditor's rights and remedies. In any proceeding in which a licensee is a party in interest with respect to any transactions with a consumer, the licensee's rights and remedies shall be granted based upon prima facie proof and entitlement based upon the terms of the written transaction documents and the payment and business records maintained by the licensee in the ordinary course of business.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Debt collection activities authorized; certain acts prohibited.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe hereby authorizes debt collection activities conducted by any tribal debt collection licensee that is a duly formed, tribally owned entity or instrumentality or any debt collection licensee, provided such debt collection activities are, at all times, conducted within the bounds of applicable tribal and federal law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Collection efforts. <cite path="|I|22">This chapter</cite> allows for debt collection activities as such pertain to consumer lending, both lending by the Tribe, its economic arms and instrumentalities, and others who issue debt available for purchase. The Tribe, through its duly formed, tribally owned entity or instrumentation may endeavor to engage in debt collection activities. The following activities are expressly prohibited:</text>
+        <para>
+          <num>(a)</num>
+          <text>Harassment, oppression, or abuse of consumers or other third parties in connection with the collection of receivables; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unfair, deceptive, or abusive practices related to the debt collection activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Prohibited acts. In addition to other civil and criminal acts that may be regulated or prohibited by <cite path="|I|22">this chapter</cite>, other tribal law or applicable federal law, the following shall constitute prohibited activities and unauthorized debt collection under <cite path="|I|22">this chapter</cite> and shall subject any perpetrator to action, including, but not limited to, the imposition of civil penalties and referral to appropriate law enforcement authorities for criminal proceedings:</text>
+        <para>
+          <num>(a)</num>
+          <text>Altering or misrepresenting debt collection documents;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Defrauding the Tribe, any duly formed, tribally owned entity or instrumentality, or consumer;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Participating in any debt collection activities not authorized by <cite path="|I|22">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Knowingly providing false or misleading information, making any false or misleading statement, or failing to disclose a material fact to the Tribe, any duly formed, tribally owned entity or instrumentality, or its agents in connection with any contract for services or property related to debt collection activities;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Falsifying, destroying, erasing or altering any books, computer data, records, or any other information related to debt collection activities; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Misappropriating confidential information.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-9</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>A.</num>
+      <text>Jurisdiction. Except as provided otherwise in <cite path="|I|22">this chapter</cite>, the Authority shall have jurisdiction over all violations of <cite path="|I|22">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Civil violations. Any licensee or person who violates or fails to comply with any provision of <cite path="|I|22">this chapter</cite> or who fails or neglects to comply with any final order of the Authority may be charged with a violation and given due process pursuant to <cite path="§22-4|R">§ 22-4R</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Civil fines. Any licensee or person who is found to have committed a violation may be required to pay a civil fine to the Authority not to exceed $5,000 for each violation. Each day during which any such violation or failure to comply continues may be treated as a separate violation of <cite path="|I|22">this chapter</cite>; however, the penalty shall not exceed $100,000. A violation or series of violations related to the same act or omission may be treated as one violation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cumulative fines. All civil fines accruing under <cite path="|I|22">this chapter</cite> shall be cumulative, and a suit for the recovery of one fine shall not bar or affect the recovery of any other fine, or judgment, penalty, forfeiture or damages nor bar the power of a court of competent jurisdiction to enter an order of contempt, nor bar any criminal prosecution against any officer, director, agent, or employee of any licensee, or any other person.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Purpose of civil penalties. The civil fines imposed under <cite path="|I|22">this chapter</cite> are intended to be remedial and not punitive and are designed to compensate the Tribe for the damage done to the peace, security, economy and general welfare of the Tribe, and to compensate the Tribe for costs incurred by the Tribe in enforcing <cite path="|I|22">this chapter</cite>. The civil fines under <cite path="|I|22">this chapter</cite> are also intended to coerce all people into complying with <cite path="|I|22">this chapter</cite> and Authority regulations and not to punish such people for violation of such laws and regulations.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Guidelines. In imposing any administrative remedy or civil penalty provided for in <cite path="|I|22">this chapter</cite>, the Authority shall take into account the appropriateness of the remedy or penalty with respect to the size of the financial resources and good faith of the financial services licensee or debt collection licensee charged, the extent to which the violation was intentional, the gravity of the violation, the history or previous violations, and such other matters as justice may require.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Civil action for penalties. In enforcing the civil infraction provisions of <cite path="|I|22">this chapter</cite>, the Authority may proceed, in the name of the Tribe, against a person for violation of such provision by civil complaint in a court of competent jurisdiction pursuant to the provisions of <cite path="|I|22">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Seizure and forfeiture of property. Property utilized in violation of <cite path="|I|22">this chapter</cite> shall be subject to seizure and forfeiture by order of the Authority pursuant to such implementing regulations as the Authority shall promulgate.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>22-10</num>
+    <heading>Resolving consumer disputes.</heading>
+    <para>
+      <num>A.</num>
+      <text>General principles. The Tribe values its customers and intends, at all times, to see that questions, concerns, issues, and/or disputes raised by consumers are addressed in a fair and orderly manner. However, nothing in this section shall be construed as a waiver of the Tribe's or the financial services licensee's or tribal debt collection licensee's sovereign immunity or any of the rights and privileges attendant thereto.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Initial dispute resolution procedure.</text>
+      <para>
+        <num>(1)</num>
+        <text>Consumers who, in the course of their otherwise lawful and proper use of a licensee's business, have concerns about the operation of any part of the licensee's operation that pertain to the consumer or who otherwise believe themselves to be aggrieved by some aspect of the operation of any part of the licensee's business, shall direct their concerns or dispute in the first instance to the management of the licensee, either orally or in writing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The licensee shall also expediently gather sufficient facts to make a determination about the dispute. The licensee shall inform the complainant, either orally or in writing, about its initial determination as soon as is reasonably practicable. If the consumer concern or dispute is unresolved through the initial dispute resolution procedure, then a licensee shall notify the consumer in writing of his or her right to contact the Authority about the dispute and his or her rights to pursue formal dispute resolution under <cite path="§22-10|C">Subsection C of this section</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Formal dispute resolution procedure.</text>
+      <para>
+        <num>(1)</num>
+        <text>In the event of a consumer dispute, complainants who have followed the initial dispute resolution procedure described in <cite path="§22-10|B">Subsection B</cite> and who are dissatisfied with a licensee's initial determination, may request review of the initial determination by the licensee by submitting a request to the Authority in writing no later than 90 days after being informed about the initial determination by the licensee. The consumer's written request must include the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>The consumer's full name, as it appears on the consumer's loan contract, as well as the consumer's address, email address, and phone number.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A copy of the consumer's loan agreement, or otherwise identify the loan agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of the licensee's determination.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A written request that summarizes with specificity the events and circumstances giving rise to the alleged wrongful action or inaction of the financial services licensee or tribal debt collection licensee and the relief requested.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A statement requesting a review hearing before the Authority. If a hearing is requested, the consumer must indicate whether he will appear personally or if he would prefer to appear by telephone. The consumer must also indicate whether he will be represented by an attorney or if he will represent himself.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any other information the consumer feels may be relevant to the complaint or that may assist the Authority evaluate the complaint.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Authority shall investigate the dispute in any manner it chooses. The Authority may offer the complainant a fair opportunity to be heard regarding the dispute, in person or through telephonic conference, either before or after the Authority makes its own inquiries.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A complainant may be represented by legal counsel at the consumer's own expense. The complainant's opportunity to be heard, if granted, shall take place, except as determined by the Authority, no less than 10 days and no more than 60 days after the Authority receives the complainant's written request.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In connection with a dispute, the Authority may conduct and issue such review, interviews, sworn statements, depositions, and other discovery as the Authority requests. In each instance, the licensee, complainant and other interested persons must cooperate with the Authority and provide such information and documents as the Authority deems necessary or advisable to make a determination.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>After reviewing and/or investigating (if the Authority chooses), and within 30 days after affording the complainant an opportunity to be heard, the Authority shall issue a written opinion on the complainant's written request for review, and shall mail a copy of the opinion to the complainant at his or her last known address.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Authority shall consider all applicable tribal and federal law in its opinion.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Authority may grant or deny a consumer complaint and grant or deny such relief, if any, as the Authority determines in its sovereign discretion. The opinion shall inform the complainant that he or she may appeal the Authority's decision as set forth in this section.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A complainant may appeal an Authority opinion by filing a written appeal to the Tribal Court within 20 days of receiving the Authority's final written decision in accordance with current rules of court and procedure of the Menominee Tribal Court. A Tribal Court review of any Authority opinion shall consider any applicable tribal and federal law and regulation.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The tribal dispute resolution process authorized under <cite path="|I|22">this chapter</cite> is considered by the Tribe to constitute a petition for redress submitted to a sovereign government, without waiver of sovereign immunity or exclusive jurisdiction, and does not create any binding procedural or substantive rights for a complainant.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

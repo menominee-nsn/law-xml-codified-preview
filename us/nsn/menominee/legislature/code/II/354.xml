@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|354">
+  <prefix>Chapter</prefix>
+  <num>354</num>
+  <heading>GRAVEL, SAND AND FILL REMOVAL</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-11-1986 by Ord. No. 86-26. Amendments noted where applicable</annotation>
+    <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>. Mining — See <cite path="|II|415">Ch. 415</cite>.</annotation>
+    <annotation type="General References">Kenosha trust lands — See <cite path="|III|594">Ch. 594</cite>.</annotation>
+    <annotation type="General References">Land Use and Natural Resource Plan — See <cite path="|III|600">Ch. 600</cite>. Zoning — See <cite path="|III|625">Ch. 625</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>354-1</num>
+    <heading>Prohibited activities.</heading>
+    <text>The taking of gravel, sand or fill of any kind for one's personal use or to offer to sell any gravel, sand or fill which has been removed from within the exterior boundaries of the Menominee Reservation is expressly prohibited. Any tribal or nontribal member, contractor or subcontractor who engages in such prohibited activity shall be charged with violation of <cite path="|II|354">this chapter</cite> and shall be subjected to penalty as provided below.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§354-2">
+    <prefix>§</prefix>
+    <num>354-2</num>
+    <heading>Permit required.<fn proof="needed" path="|II|§354-2|footnotes|1">1</fn></heading>
+    <text>The taking of gravel, sand or fill must be authorized by the Department of Community Development. Those requesting to remove gravel, sand or fill from within the exterior boundaries of the Menominee Reservation will be required to submit payment as so established by the Legislature. Upon payment for the removal of the gravel, sand or fill, a gravel permit will be prepared by the Department of Community Development. This permit requires the signature of the permittee and is forwarded to the Bureau of Indian Affairs for its signature and approval.</text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>354-3</num>
+    <heading>Violations and penalties.</heading>
+    <text>Violation of <cite path="|II|354">this chapter</cite> shall, upon conviction, result in the following:</text>
+    <para>
+      <num>A.</num>
+      <text>First conviction: fine of $200.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Second conviction: fine of $350.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Third and succeeding convictions: fine of $500.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

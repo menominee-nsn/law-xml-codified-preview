@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>630</num>
+  <heading>AUTO SERVICE CENTER</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-21-1996 by Ord. No. 96-24. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>630-1</num>
+    <heading>Name of tribal business.</heading>
+    <text>This Charter is issued to a tribal business to be known as "Menominee Auto Service Center."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-2</num>
+    <heading>Purpose of chartered business.</heading>
+    <text>The purpose of the chartered business shall be to manage the operation of the Menominee Auto Service Center business for the Menominee Indian Tribe. The chartered business is to be operated solely as a profit-making enterprise, dedicated to maximizing the financial resources available for appropriation by the Menominee Tribal Legislature on behalf of the Menominee people. The Menominee Auto Service Center shall conduct the following type of business: primarily to provide auto repair and related services that are not otherwise readily available on the Menominee Reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings: CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
+    <text>MASC — The Menominee Auto Service Center, a tribal business enterprise chartered by the Tribal Legislature to direct the auto service center of the Tribe.</text>
+    <text>MASC PERSONAL PROPERTY — The tribal personal property, including cash, dedicated for use by MASC by virtue of this Charter.</text>
+    <text>SUBJECT PROPERTY — The present facilities, the personal property, and such additional assets as are obtained by MASC pursuant to <cite doc="Charter of the Menominee Indian Tribe" path="|630|§630-6">§ 630-6 of this Charter</cite>.</text>
+    <text>TRIBAL LEGISLATURE — The tribal governing body elected pursuant to Section 3, Article IV of the Constitution.</text>
+    <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
+    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§630-4">
+    <prefix>§</prefix>
+    <num>630-4</num>
+    <heading>Form of management.</heading>
+    <para>
+      <num>A.</num>
+      <text>General manager. The form of management of the chartered business shall be a general manager, hereinafter "manager," who shall manage the Menominee Auto Service Center.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>General powers. Subject to the limitations set forth in this Charter, the manager will determine the manner in which he/she will exercise his/her authority and responsibility for the management of the tribal corporation and the manner and extent to which such powers will be delegated to agents and employees of MASC. In general, the manager shall be responsible for establishing overall policies and objectives for the management of the affairs and assets of MASC; however, in order to assure that the Tribal Legislature may appropriately discharge its governmental and sovereign functions over MASC operations, the manager shall submit quarterly reports to the Tribal Legislature and may be subject to more frequent periodic review and evaluation if the Tribal Legislature determines that such review is necessary.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Nomination and qualifications of manager.</text>
+      <para>
+        <num>(1)</num>
+        <text>Nomination. A manager shall be appointed by the Tribal Legislature in accordance with Menominee Nation Ordinance Nos. 82-10 and 83-6.<fn path="|IV|§630-4|footnotes|1">1</fn> Upon the expiration for any reason of the term of the manager, the Tribal Legislature shall appoint his/her successor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Qualifications. To be considered for appointment as manager, a candidate must exhibit an understanding of business principles and have training or education and experience in auto mechanics, mechanical technology or equivalent manufacturing industry experience. <strong>[Amended 8-24-2000]</strong></text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Conflicts of interest prohibited. In carrying out the duties of MASC, neither the manager nor any agent or employee of MASC shall make or participate in making decisions which involve balancing a substantial personal interest, financial or otherwise, other than interests held in common by all tribal members.<fn path="|IV|§630-4|footnotes|2">2</fn></text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Compensation. The Menominee Tribal Legislature shall set a salary for the manager commensurate with pay scales of general managers in the area. Compensation shall consist of a fixed per annum salary and a bonus amount calculated by a formula tied to the financial profitability of MASC. The fixed salary and bonus formula amount shall be clearly defined in the manager's employment contract.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Indemnification of manager and agents and employees of MASC. Each manager, employee and agent of MASC shall be entitled, without prejudice to any other rights he/she may have, to be reimbursed and indemnified from assets of MASC for any of the following: all legal and other expenses reasonably incurred by him/her in connection with any claim, action, suit, or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as manager, agent or employee of MASC or of any subsidiary of MASC, whether or not wholly owned, or by reason of any action alleged to have been taken or omitted by him as any such manager, agent or employee. Reimbursement and indemnification under <cite path="§630-4|F.">this subsection</cite> include amounts paid or incurred in connection with reasonable settlements made with a view to curtailment of costs of litigation and with the approval of manager then in office. No such reimbursement or indemnification shall relate to any expense incurred or settlement made in connection with any matter arising out of the negligence or misconduct of such manager, agent or employee as determined either by a court of competent jurisdiction or, in the absence of such a determination, by the manager acting on the advice of counsel. MASC and its manager, employees, and agents shall not be liable to anyone for making any determination as to the existence or absence of liability, or for making or refusing to make any payment hereunder on the basis of such determination, or for taking or omitting to take any other action hereunder, in reliance upon the advice of counsel.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Termination of manager. The manager of MASC, appointed pursuant to the provisions of this Charter, may be subject to termination on grounds of dishonesty, incompetence, dereliction of duty, violations of the terms of his/her contract with the Tribe or other conduct seriously detrimental to the interests of the Tribe or MASC. Whenever a manager is subject to termination and terminated, the Tribal Legislature shall fill the vacancy in the manner provided for in this Charter.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Termination procedures. The Tribal Legislature may subject the manager to termination for the reasons stated in <cite path="§630-4|G">Subsection G</cite>. Before taking such action, the Tribal Legislature shall inform the manager in writing of the intended action, specifically listing the reasons for such intended action. Between 10 and 20 days after receipt of said notice of intention, the Tribal Legislature shall meet with the manager and allow him/her to rebut any of the charges in the notice of intent. Within five days of said meeting, the Tribal Legislature shall make its determination on termination and contact the manager informing him/her of its decision. The decision of the Tribal Legislature shall be final and not appealable to the Tribal Court.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|I|170">Ch. 170</cite>, Personnel, of this Code.</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-5</num>
+    <heading>Annual business meeting.</heading>
+    <text>An annual business meeting of the tribal members shall be held on the same date and time as the annual Menominee Tribal General Council for the purposes of informing tribal members on the operation of MASC for the past year.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§630-6">
+    <prefix>§</prefix>
+    <num>630-6</num>
+    <heading>Assets.</heading>
+    <para>
+      <num>A.</num>
+      <text>Initial assets. The initial assets of MASC shall consist of MASC personal property described by and incorporated herein by reference into this Charter as Exhibit "A."<fn path="|IV|§630-6|footnotes|3">3</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Additional assets. All income from whatever source shall constitute additional assets of MASC. Additional assets of MASC shall also include such other funds as are designated for the use of MASC by the Tribal Legislature or by any other entity.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal property. MASC shall have no interest in tribal real property, other than a leasehold interest pursuant to tribal law, and shall have the right to manage and operate MASC in the manner set forth in this Charter. No tribal property, real or personal, shall be an asset of MASC for any purpose.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Exhibit "A" is on file at the office of the Tribal Chairperson.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§630-7">
+    <prefix>§</prefix>
+    <num>630-7</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General method of operation. MASC shall be operated in an efficient, businesslike manner in accordance with this Charter. The manager shall cause the following to be achieved:</text>
+      <para>
+        <num>(1)</num>
+        <text>An accounting system, approved by an independent certified public accounting firm, shall be established;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An inventory control system, including an inventory of property taken as of the last day of business of each fiscal year of MASC, shall be established;<fn path="|IV|§630-7|footnotes|4">4</fn></text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An audit of MASC shall be conducted by an independent certified public accounting firm as of the last day of business of each fiscal year of MASC;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An annual financial statement of the operations of MASC shall be prepared and presented at the annual General Council meeting;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Monthly financial statements of MASC shall be prepared;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A proposed budget, which shall constitute a plan of operation for MASC, shall be prepared and submitted to the Tribal Legislature for approval prior to the beginning of each fiscal year. The budget may be amended during the year if the manager deems it necessary and the Tribal Legislature approves such changes;</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>MASC shall adopt general policies which shall include, among other appropriate matters, a statement of purpose, a statement of policy, a statement of administrative policies, and a statement of personnel policies; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>MASC shall carry Wisconsin state workers' compensation insurance and shall comply with social security laws.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of net profits. The profits of MASC shall be allocated in the following manner: monthly, an amount equal to 100% of the actual net profits shall be disbursed by MASC to the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Creation of debt and encumbrance of assets. The manager shall not be allowed to create debt or encumber assets without the prior written approval of the Tribal Legislature.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-8</num>
+    <heading>Tribal sovereignty and immunity.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribal Legislature hereby gives its consent to allowing MASC, by specific written agreement with any party, to sue and be sued in its capacity as a tribal business upon any contract, claim or obligation arising out of its activities authorized by this Charter and hereby authorizes MASC to agree, by specific written agreement, to waive any immunity from suit which it might otherwise have. Subject to the provisions of this Charter, MASC is authorized to pledge, mortgage, or otherwise encumber the assets of MASC as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein. In no event shall any assets of the Tribe, including tribal forest land and other tribal land, be subject to any obligations of MASC unless specifically authorized by the Constitution.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Charter shall not, except as specifically provided, operate as a partial or total waiver of the sovereign immunity of the Tribe. The Tribe in no way waives or limits its sovereign and governmental powers in regard to MASC or operations of MASC.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>MASC shall be entitled to, and the Tribe in no way waives, the exemptions and immunities from taxation to which American Indian tribes, their members, and their businesses are entitled by law.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-9</num>
+    <heading>Termination of Charter.</heading>
+    <text>If this Charter is terminated by the Tribal Legislature, the manager shall promptly relinquish control over all assets and liabilities of MASC to the Tribal Legislature, acting on behalf of the Tribe, or to such other entity as the Tribal Legislature shall designate. The manager shall also promptly deliver all books and records of MASC to the Tribal Legislature, acting on behalf of the Tribe, or to such other entity as the Tribal Legislature shall designate.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>630-10</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Principal place of business. The principal office of MASC shall be located on the Menominee Indian Reservation. MASC may have such other offices as the manager may designate and as the business of MASC may require, subject to the approval of the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Agent for service of process. The manager shall designate an agent of MASC for the purpose of accepting service of process. The business address of such agent shall be the principal office of MASC.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Seal. The manager may provide a seal of MASC.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Duration. This Charter shall remain in effect until terminated by ordinance. If this Charter is terminated, the manager shall promptly relinquish control over the assets and liabilities of MASC to the Tribal Legislature or to such other entity as the tribal governing body shall designate. Upon termination pursuant to <cite path="§630-10|D.">this subsection</cite>, this Charter shall be null and void.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Cooperation between the manager and Tribal Legislature. In the implementation of this Charter, the manager and the Tribal Legislature shall work together and cooperate in order to promote the best interests of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="IV|652">
+  <prefix>Chapter</prefix>
+  <num>652</num>
+  <heading>ECONOMIC DEVELOPMENT AUTHORITY</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-31. Amendments noted where applicable</annotation>
+    <annotation type="General References">Investment Plan — See <cite path="|I|111">Ch. 111</cite>.</annotation>
+    <annotation type="General References">Economic Development Corporation — See <cite path="|IV|641">Ch. 641</cite>.</annotation>
+    <annotation type="General References">Commission on Economic Affairs — See <cite path="|IV|650">Ch. 650</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>652-1</num>
+    <heading>Name of business.</heading>
+    <text>This Charter is issued to a tribal business to be known as "Menominee Indian Economic Development Authority," hereinafter referred to as "MIEDA."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of MIEDA is to conduct any nongaming commercial activity of the Menominee Indian Tribe of Wisconsin ("Tribe") deemed advisable by the Board of Directors in order to generate revenue to fund the governmental operations and programs of the Tribe and to investigate, review, consider, and act upon all future nongaming business opportunities available to the Menominee Indian Tribe, whether on or off the Menominee Reservation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
+    <text>FELONY — Any state or federal crime where the punishment exceeds one year of imprisonment, or any crime under the laws of a federally recognized Indian tribe, which is comparable in nature to such a state or federal crime.</text>
+    <text>GAAP — Generally accepted accounting principles.</text>
+    <text>NET REVENUE — All revenues of MIEDA from whatever source after subtracting the cost of sales. TRIBE — Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-4</num>
+    <heading>Powers.</heading>
+    <text>MIEDA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to conduct, manage, oversee, and operate any nongaming commercial activity for the purposes listed in <cite doc="Charter of the Menominee Indian Tribe" path="|652|§652-2">§ 652-2 of this Charter</cite>. MIEDA is specifically authorized and empowered to:</text>
+    <para>
+      <num>A.</num>
+      <text>Acquire property in its own name and to pledge, mortgage, lease, or otherwise encumber interests in such property as security for debts, and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Consent, by specific written agreement with any party, to sue and be sued in its capacity as a tribal instrumentality upon any contract or obligation arising out of its authorized activities in any court of competent jurisdiction, and to consent to arbitration or mediation of disputes, and to consent to waiver of exhaustion of tribal remedies;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Receive, collect and own all revenues and pay all expenses and expenditures arising from or relating to its operations;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Purchase, take, receive, subscribe for, join, create or otherwise acquire, own, hold, vote, use, employ, sell, mortgage, loan, pledge, or otherwise dispose of, and otherwise use and deal in and with, shares or other interests in, or obligations of, limited-liability companies, corporations, associations, partnerships or other entities, or individuals, or direct or indirect obligations of the United States or of any other government, tribe, state, territory, governmental district or municipality, or of any instrumentality thereof;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Make and enter into contracts in furtherance of MIEDA's purposes and to incur liabilities, indebtedness and other obligations, including the issuance of guarantees, and the borrowing of money at such rates of interest as MIEDA may determine, and to issue its notes, bonds, debt securities and other obligations, and secure any of such obligations by mortgage or pledge of all or any of its property, franchises, revenues and income;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Employ contractors, consultants, agents, managers, advisers and accountants;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Lend money, invest and reinvest its funds, and take and hold real and personal property as security for the payment of funds so lent or invested;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Conduct its affairs, carry on its operations, hold property, and have offices and exercise the powers granted by this Charter;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Hire, supervise and terminate employees, consultants and agents of MIEDA, and define their duties and fix their compensation;</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Make and alter by-laws, not inconsistent with this Charter or with the laws, ordinances, and regulations of the Tribe and the United States, for the administration of the affairs of MIEDA; and</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Open and maintain such deposit and securities accounts with banks, securities intermediaries and other financial institutions, whether located within or without of the State of Wisconsin, and to deposit therein any or all revenues of MIEDA, which accounts shall be separate from other accounts of the Tribe, and no assets in the accounts of MIEDA shall be commingled with the other assets of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-5</num>
+    <heading>Form of management.</heading>
+    <text>The form of management of MIEDA shall be a Board of Directors.</text>
+    <para>
+      <num>A.</num>
+      <text>Board of Directors.</text>
+      <para>
+        <num>(1)</num>
+        <text>Number of Directors and terms of initial Board of Directors. There shall be five members of the Board of Directors. The terms of the initial board members appointed by the Legislature shall be staggered so that one Director shall have an initial term of one year; two members shall have an initial term of two years; and two members shall have an initial term of three years. The Legislature, in making the appointment, shall designate the term of office of each initial Director.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Powers and duties. The Board of Directors shall exercise all the powers and be responsible for all the duties of MIEDA as set forth in this Charter and the ordinance adopting this Charter. The Board of Directors will determine the manner in which it will exercise its authority and responsibility for the management of the tribal business and the manner and extent to which such powers will be delegated to agents and employees of MIEDA.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Appointment. The Board of Directors shall be appointed by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Qualifications.</text>
+        <para>
+          <num>(a)</num>
+          <text>At least two members of the Board of Directors shall be members of the Menominee Tribal Legislature.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All members of the Board of Directors shall be enrolled members of the Tribe.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All non-Tribal Legislature members of the Board of Directors shall demonstrate, to the satisfaction of the Menominee Tribal Legislature, experience and demonstrated interest in business and/or economic development.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All members and applicants for membership of the Board of Directors must consent to a background investigation, including, but not limited to, criminal and credit issues.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>No person may be a member of the Board of Directors who has been convicted of, or entered a plea of guilty or no contest to, any of the following within the immediately preceding 10 years, unless the person has been pardoned:</text>
+          <para>
+            <num>[1]</num>
+            <text>A felony.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>A crime involving theft, misrepresentation or fraud.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Menominee Tribal Legislature shall review said background investigation and, in its sole discretion, determine to its satisfaction that the member or applicant for membership is capable of carrying out the duties of a member of the Board of Directors and representing the interests of the Authority and the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Term. The Initial Board of Directors shall serve for a term in accordance with <cite path="§652-5|A|(1)">Subsection A(1)</cite> above. Subsequent Directors who are Tribal Legislators shall serve a term that coincides with their term of office on the Tribal Legislature, or for three years, whichever is less. All other subsequent Directors shall serve three-year terms.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Quorum. The presence of not less than three directors, at least one of whom shall be a Director who is also a member of the Menominee Tribal Legislature, shall be necessary to constitute a quorum of the Board of Directors for the transaction of business of MIEDA, and the act of a majority of those members present and voting at a meeting at which a quorum is present shall be the act of MIEDA.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Officers.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Board of Directors shall have the following officers with the following duties:</text>
+          <para>
+            <num>[1]</num>
+            <text>Chairperson. The Chairperson of the Board of Directors shall be a member of the Board who is a member of the Tribal Legislature, and is designated Chairperson by the Tribal Legislature. The Chairperson shall preside at all meetings of the Board of Directors, and shall perform all duties incident to the office of the Chairperson of the Board of Directors and such other duties as, from time to time, may be assigned by the Board of Directors. A Vice Chairperson, if elected, shall act in the capacity of the Chairperson in the absence of the latter, and shall discharge any other duties designated by the Chairperson.</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Secretary. The Secretary shall keep, or cause to be kept, the minutes of the meetings of the Board of Directors. The Secretary shall see that all notices are duly given in accordance with the provisions of <cite path="|IV|652">this chapter</cite>. The Secretary shall be custodian of the seal and records, and shall perform all duties incident to the office of the Secretary, and such other duties as may, from time to time, be assigned to the Secretary by the Board of Directors.</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Treasurer. The Treasurer shall be the financial officer of MIEDA and shall have charge and custody of, and be responsible for, all funds of MIEDA, and shall deposit such funds in such banks, trust companies, or other depositories as shall have been designated by the Board of Directors. The Treasurer shall receive and give receipts for monies due and payable to MIEDA from any source whatsoever, and, in general, shall perform all duties incident to the office of the Treasurer and such other duties as, from time to time, may be assigned to him by the Board of Directors. The Treasurer shall render to the Chairperson and the Board of Directors, whenever the same may be required, an account of all transactions as Treasurer and of the financial condition of MIEDA. The Treasurer shall, at the expense of MIEDA, give a bond for the faithful performance and discharge of the Treasurer's duties in such amount, so conditioned, and with such surety or sureties as the Board of Directors may require.</text>
+          </para>
+          <para>
+            <num>[4]</num>
+            <text>Other officers. The Board of Directors may appoint a Vice Chairperson, Assistant Secretary and Assistant Treasurer to perform the duties of the Chairperson, Secretary, and Treasurer, respectively, in the absence of those officers.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Appointment, removal, vacancy. The Chairperson of the Board of Directors shall be designated in conformance with <cite path="§652-5|A|(7)(a)|[1]">Subsection A(7)(a)[1]</cite> above. All other officers shall be elected by the Board of Directors. Any officer, other than the Chairperson, may be removed as an officer by the Board of Directors whenever it believes it is in the best interest of MIEDA to do so. Vacancies in any office, other than Chairperson, shall be filled by the Board of Directors. The Chairperson may only be removed from his or her office by the Tribal Legislature, and any vacancy in the Chairperson office shall be filled by the Tribal Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Removal. The Tribal Legislature may remove any Director for any reason it deems to be in the best interest of MIEDA or the Tribe.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Replacement of Director. Upon resignation, death, or removal of a Director, the Tribal Legislature shall appoint a new Director to fill the remainder of that Director's term of office.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Compensation. Directors may receive a reasonable compensation for service on the Board; provided, however, that such compensation shall not exceed the compensation provided to Tribal Legislators for their service on the Tribal Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Effect of appointment to Board of Directors. Appointment to the Board of Directors shall create no right of any kind to such office.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Reporting requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board of Directors, and any agent or employee of MIEDA designated by the Tribal Legislature, shall submit reports to the Tribal Legislature in a frequency, form and manner prescribed by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board of Directors shall submit the proposed annual budget referenced in <cite path="§652-6">§ 652-6</cite>A(6) to the Tribal Legislature for their review and comment at least 30 days prior to the beginning of the new fiscal year.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Conflict of interest. Pursuant to Article XVII, Menominee Constitution, Board members shall not make or participate in making any decision which involves a substantial personal financial interest, other than those interests held in common by all tribal members.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Standard of conduct.</text>
+      <para>
+        <num>(1)</num>
+        <text>Board members shall not engage in criminal, infamous, dishonest, immoral or disgraceful conduct which would be detrimental to MIEDA.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Board members shall avoid conflicts of interest and the appearance of conflicts of interest.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Board members shall not use confidential information gained in the course of their appointment for private gain and only disclose confidential information with specific approval.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Board members shall have no authority to act outside meetings, unless authorized by the Chairperson or action of the Board of Directors.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Board members shall focus their efforts through cooperation and positive interaction with each other through open communication and trust with each other.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Board members shall treat each other with respect and be supportive of MIEDA employees.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Board members shall recuse themselves from any matter in which they have a conflict of interest. If the Board of Directors believes that a member of the Board has a conflict of interest and that Board member does not recuse himself or herself, the Board, by motion, may require that Board member to recuse himself or herself.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Board members shall maintain strict confidentiality regarding matters discussed in closed session.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Any alleged violations of these standards of conduct, or alleged violations of MIEDA Board bylaws, shall be brought to the Menominee Tribal Legislature for resolution. Notwithstanding any other provision in this Charter, or any provision in MIEDA Board Bylaws, the Board shall have no authority to impose a penalty on a Board member for such violations.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Indemnification. Each present, former, and future member of the Board of Directors shall be entitled to be reimbursed and indemnified from assets of MIEDA for all legal and other expenses reasonably incurred by him in connection with any claim, action, suit or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as a member of the Board of Directors or by reason of any action alleged to have been taken or omitted by him as a member of the Board (including settlement amounts approved by a majority of the Board then in office other than those involved), provided that MIEDA need reimburse such Board member's legal fees and expenses only if they are incurred after the Board has refused to provide legal representation to the member at MIEDA's expense. No such reimbursement or indemnification shall be made in connection with any matter arising out of the negligence or misconduct of such Board members.</text>
+      <text>Neither this section nor any action or inaction by the Board under this section shall create any liability against the Board or MIEDA.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-6</num>
+    <heading>Fiscal practices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General method of operations. MIEDA shall be operated in an efficient, business-like manner in accordance with this Charter. In addition, the Board of Directors shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish and operate under an accounting system that is in accordance with GAAP and is approved by an independent certified public accounting firm chosen by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Cause an inventory of property to be taken as of the last day of business of each fiscal year.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cause an annual audit of MIEDA by an independent public accounting firm chosen by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Prepare or have prepared an annual financial statement of the operations of MIEDA.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Prepare or have prepared monthly and annual financial statements.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Prepare a proposed budget, which shall constitute a plan of operation for MIEDA, prior to the beginning of each fiscal year. Said budget and plan of operation shall clearly delineate capital expenses and shall contain a narrative explaining in detail the Authority's goals, objectives, and priorities and plans for meeting those goals, objectives and priorities for the coming fiscal year.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Establish and maintain a fiscal year consistent with the Tribe's fiscal year.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Prepare an initial start-up plan, including an initial budget and plan for obtaining start-up capital.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Prior to entering in to any new business venture, prepare a business plan which includes revenue and expense projections, marketing plans, feasibility studies, proposed management, financing and any other information necessary to adequately determine the viability of such venture.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of net revenues. Subject to applicable restrictions reflecting the terms of any contractual agreement entered into by MIEDA, all net revenues, after satisfaction of debt service obligations, other costs and expenses of MIEDA, and after reserving such funds as may in the judgment of MIEDA be reasonably required for the continuing operation of MIEDA in the ordinary course of its business, including capital expenditures to maintain the plant, property and equipment of the business, shall be remitted to the general fund of the Tribe for disposition by the Tribal Legislature on at least an annual basis, provided that with the approval of the Tribal Legislature, MIEDA may reserve such additional funds as may be required for approved capital expansion projects related to its operations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Records; inspection; audits. The books, records and property of MIEDA shall be available for inspection at all reasonable times by authorized representatives of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-7</num>
+    <heading>Assets.</heading>
+    <text>MIEDA's assets shall consist of all revenues, earnings and proceeds of the same and whatever other assets it develops, generates or acquires by other means, including through borrowing. Notwithstanding the foregoing, for purposes of clarification and the avoidance of doubt, upon transfer of funds or property from the accounts of MIEDA to the general funds or other accounts of the Tribe in compliance with all contractual restrictions applicable to MIEDA, such funds shall cease to be assets of MIEDA without the</text>
+    <text>requirement of further act or deed.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-8</num>
+    <heading>Compliance with applicable laws; exercise of powers.</heading>
+    <para>
+      <num>A.</num>
+      <text>Compliance with laws. MIEDA shall exercise the duties and powers delegated to it under this Charter in conformity with all applicable laws.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Best interests of Tribe. MIEDA shall at all times exercise the duties and powers delegated to it under this Charter in the best interest of the Tribe.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Policies and procedures. MIEDA shall adopt such policies and procedures as it may determine necessary for the orderly conduct of its business.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>652-9</num>
+    <heading>Miscellaneous provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Principal place of business. The principal office of MIEDA shall be located on the Menominee Indian Reservation. MIEDA may have such other offices as the Board of Directors may designate and as the business of MIEDA may require from time to time.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Agent for service of process. The Board of Directors shall designate an agent of MIEDA for the purpose of accepting service of process. The business address of such agent shall be the principal office of MIEDA.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Seal. The Board of Directors may provide a seal of MIEDA.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Duration. This Charter shall remain in effect in perpetuity unless revoked by Ordinance.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

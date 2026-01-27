@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|535">
+  <prefix>Chapter</prefix>
+  <num>535</num>
+  <heading>VICTIM RIGHTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 2-4-2016 by Ord. No. 15-38. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>535-1</num>
+    <heading>Purpose.</heading>
+    <text>The Menominee Indian Tribe of Wisconsin, recognizing the fact that all victims of crime should be treated with dignity, respect, and sensitivity, enact <cite path="|II|535">this chapter</cite> for the purpose of providing basic rights and protections to victims of crime on the Menominee Indian Reservation that are no less vigorous than the protections afforded criminal defendants.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-2</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|535">This chapter</cite> shall be entitled "Victim Rights."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-3</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of <cite path="|II|535">this chapter</cite>, the following terms shall have the meaning indicated:</text>
+    <text>ADVOCATE — A professional primarily employed, either through a government agency or nonprofit agency, to assist victims of crime.</text>
+    <text>DEFENDANT — The alleged perpetrator of a criminal act.</text>
+    <text>LAW ENFORCEMENT OFFICER — Any member of the Menominee Tribal Police Department, Menominee Tribal Conservation Warden, or other bona-fide peace officer acting within his or her official capacity.</text>
+    <text>PERSONAL PROPERTY — All property except weapons involved in the commission of the crime, currency, contraband, or disputed ownership items (unless otherwise determined by the court).</text>
+    <text>PUBLIC HEARING OR PUBLIC PROCEEDING — Any court proceeding or administrative hearing that is open to the public.</text>
+    <text>VICTIM — Any of the following: any person who suffers direct or threatened physical, emotional or financial harm as the result of the commission or attempted commission of a crime, as defined under the laws of the Menominee Indian Tribe. Does not include the person charged with or who is culpable for the crime being investigated or prosecuted. If a victim is under 18 years of age, incompetent, incapacitated, or deceased, the victim can be represented by (in order of preference): a spouse, legal guardian, parent, child, sibling or another family member.</text>
+    <text>VULNERABLE VICTIM — Any one of the following: a minor victim, any victim age 55 and over with physical disabilities, a victim who has mental health disabilities and/or meets the definition of "adult at risk" in <cite path="§368-17">§ 368-17</cite>, and/or whomever the Court determines falls under this category.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-4</num>
+    <heading>Eligibility of victims.</heading>
+    <text>A victim has the rights and is eligible for the services outlined in <cite path="|II|535">this chapter</cite> if the crime has been reported to a law enforcement officer or if disclosure of a crime is imminent. Services to crime victims should be rendered in accordance with the existing policy.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-5</num>
+    <heading>Fundamental rights for victims of crimes.</heading>
+    <text>A crime victim has the following fundamental rights:</text>
+    <para>
+      <num>A.</num>
+      <text>The right to attend court hearings.</text>
+      <para>
+        <num>(1)</num>
+        <text>To attend all public proceedings at which a defendant has the right to be present, including, but not limited to, initial appearances, motion hearings, trials, sentencing hearings and probation/ parole hearings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To be accompanied by an advocate at all proceedings at which a defendant has the right to be present as outlined above.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To not be excluded from any such public court proceeding, unless the court, after receiving clear and convincing evidence, determines that testimony by the victim would be materially altered if the victim heard other testimony at that proceeding.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To have proceedings free from unreasonable delay.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The right to reasonable protection.</text>
+      <para>
+        <num>(1)</num>
+        <text>To be provided a waiting area separate from the defendant(s), defendant's relatives and defense witnesses.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To have the prosecutor move that the victim not be compelled to identify in his testimony his/ her address, place of employment or other personal identification.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To have the prosecutor, in the case of minors and/or vulnerable victims, move to have closed-circuit testimony or close the courtroom to the general public.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To be notified, as soon as is reasonable, of the escape or release of a defendant from the tribal jail.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The right to be heard.</text>
+      <para>
+        <num>(1)</num>
+        <text>To be reasonably heard at any public proceeding, involving release, plea, or sentencing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To have the opportunity to confer with the prosecution with regard to major case decisions (e.g., dismissal of charges, release of the accused, possible plea agreements).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To provide to the court verbal and/or written victim impact statements and recommendations pertaining to the sentencing of convicted offender(s).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To have his/her interest considered at probation, parole, and/or other criminal justice proceedings, including but not limited to revocation hearings.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The right to be informed.</text>
+      <para>
+        <num>(1)</num>
+        <text>To be notified of the arrest of the accused.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To be notified of major prosecutorial decisions, including the decision not to file charges.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To be notified of public hearings and/or court proceedings, including changes in charges, dismissal of charges, and release from incarceration for any reason.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To be notified of prisoner escape or release from tribal jail as quickly as possible.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To be notified, as soon as reasonable, if any department listed in <cite path="§535-6">§ 535-6</cite> has been notified of the escape or release of a defendant from an outside jurisdiction.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To be notified of pardon applications, pursuant to <cite path="|I|81">Chapter 81</cite>, Executive Pardons.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>To be notified of rights and procedures outlined in <cite path="|II|535">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>To be informed of financial assistance and other social services available as a result of being a victim of crime.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>To be notified of any or all appeals by defendant(s).</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The Court will make known that the failure to provide a right, privilege, or notice to a victim under <cite path="|II|535">this chapter</cite> shall not be grounds for the defendant(s) to seek to have the conviction set aside or have a retrial.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The right to compensation and restitution.</text>
+      <para>
+        <num>(1)</num>
+        <text>To have personal property promptly returned by law enforcement officers when no longer needed as evidence.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To have the Court, if possible, authorize a photograph of the property item to be used as evidence to expedite the prompt return of property.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To restitution that covers out-of-pocket expenses relating to the crime, including medical expenses, therapy costs, prescription charges, lost wages, counseling costs, lost or damaged property, insurance deductibles, and/or any other expenses that resulted directly from the crime.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To a judgment for unpaid restitution.</text>
+      <para>
+        <num>(5)</num>
+        <text>To be informed of benefits from the tribal, state or federal programs.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To have restitution payments deducted from the defendant's annual per capita and/or tribal distribution payments in accordance with the payment capture hierarchy established by ordinance authorizing the per capita or tribal distribution.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The right to representation.</text>
+      <para>
+        <num>(1)</num>
+        <text>To hire an attorney at his/her own expense to represent his/her own interest in the matter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To have a private attorney pursue a civil recourse from an incident.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The right to access cultural and spiritual support.</text>
+      <para>
+        <num>(1)</num>
+        <text>To reasonable access to cultural and spiritual support, providing it does not interfere with the investigation or prosecution of the crime.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-6</num>
+    <heading>Enforcement of rights.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribal Police Department, Crime Victims Program, Menominee Tribal Prosecutor's Office, Menominee Tribal Court, local social service agencies, Menominee Tribal Jail, and Menominee Probation and Parole Department shall all cooperate with each other to ensure, through the best efforts possible, that victims of crimes receive the rights and services outlined in <cite path="|II|535">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Police Department will be responsible for providing victims information about services and rights within 24 hours of initial contact with the victim.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-7</num>
+    <heading>No cause of action.</heading>
+    <text>Nothing in <cite path="|II|535">this chapter</cite> shall be construed as creating a cause of action for money damages against the Tribe, county or state, or any of their agencies or employees.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-8</num>
+    <heading>Failure to provide notice.</heading>
+    <text>The failure to provide a right, privilege or notice under <cite path="|II|535">this chapter</cite> shall not be grounds for the defendant to seek to have the conviction, sentence set aside, or retrial.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-9</num>
+    <heading>Funding for victim assistance.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court shall assess a convicted defendant at sentencing a penalty fee in the amount of $25 for crimes where there are victims. All fees ordered and collected per this section shall be deposited into a Crime Victim Assistance Fund, to be used for the sole purpose of victim assistance and compensation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Crime Victim Assistance Fund shall be created and funded by the fees described above.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§535-10">
+    <prefix>§</prefix>
+    <num>535-10</num>
+    <heading>Procedures to promote compliance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Policies and procedures. No later than 120 days after the effective date of <cite path="|II|535">this chapter</cite>, the director(s) of the tribal departments listed in <cite path="§535-6">§ 535-6</cite> shall promulgate policies and procedures to enforce the rights of crime victims and to ensure compliance by responsible employees with the obligations described in <cite path="|II|535">this chapter</cite> respecting crime victims.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Contents. The policies and procedures promulgated under <cite path="§535-10|A">Subsection A</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Designate an administrative authority within the department to receive and investigate complaints relating to the provision or violations of the rights of crime victims;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Require training be created for initial implementation of the policies and procedures regarding crime victim's rights;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Require additional training for employees that fail to comply with provisions of <cite path="|II|535">this chapter</cite> pertaining to the treatment of crime victims, and otherwise assist such employees in responding more effectively to the needs of the crime victims;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Contain disciplinary sanctions per Section E, Standard of Conduct, in the Tribe's Personnel Policies and Procedures Manual,<fn path="|II|§535-10|footnotes|1">1</fn> including suspension or termination from employment, for employees who willfully or wantonly fail to comply with provisions of <cite path="|II|535">this chapter</cite> pertaining to the treatment of crime victims; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide a notice process for complainants on the departmental complaint process, or if no such departmental complaint process exists, to the Tribe's General Complaint Policy.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the Chairperson's Office, Department of Administration and Human Resources Department.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-11</num>
+    <heading>Severability.</heading>
+    <text>If any portion of <cite path="|II|535">this chapter</cite> is found to be unconstitutional or in violation of tribal or applicable federal law, the remainder of <cite path="|II|535">this chapter</cite> shall remain in effect.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>535-12</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|535">This chapter</cite> shall take effect upon final approval by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

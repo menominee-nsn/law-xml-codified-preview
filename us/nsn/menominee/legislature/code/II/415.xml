@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>415</num>
+  <heading>MINING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="General References">Gravel, sand and fill removal — See <cite path="|II|354">Ch. 354</cite>.</annotation>
+    <annotation type="General References">Land Use and Natural Resource Plan — See <cite path="|III|600">Ch. 600</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|415|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Sulfide Metallic Mining [Adopted 1-22-1998 by Ord. No. 97-25]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>415-1</num>
+      <heading>Purpose.</heading>
+      <para>
+        <num>A.</num>
+        <text>Menominee law addresses natural resource development within the Menominee Constitution and Bylaws, Article X, Section 3, which requires the consent of the tribal membership.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>It is a general feeling among tribal membership that sulfide metallic mining is totally against Menominee culture, tradition, and spirituality.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Legislature at this time in history needs to by law address sulfide metallic mining to ensure the protection of the health, safety, and welfare of the Menominee people, land, and resources for now and for future generations.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>415-2</num>
+      <heading>Consent of majority of Tribe required.</heading>
+      <text>The Tribal Legislature shall not permit exploration or shall not develop on a commercial or industrial basis any sulfide metallic mining without the consent of a vast majority of the total number of eligible voters of the Tribe. "Vast majority" for purposes of <cite path="|II|415|I">this article</cite> means 2/3 of the total Menominee eligible voter membership.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>415-3</num>
+      <heading>Moratorium imposed.</heading>
+      <text>Until such time the Menominee Tribal Legislature by unanimous vote of 9/9 of the entire Legislature initiates a referendum or receives a petition of 51% of the eligible voter membership and the Legislature shall cause to be held a referendum, there shall be a moratorium, no granting of exploration or mining of sulfide metallic ore bodies within the exterior boundaries of the Menominee Nation.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

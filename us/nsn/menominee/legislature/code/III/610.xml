@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>610</num>
+  <heading>LAND USE ASSIGNMENTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>.</annotation>
+    <annotation type="General References">Tribal lands — See <cite path="|II|525">Ch. 525</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="III|610|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Recreational</heading>
+    <annotations>
+      <annotation type="History">Adopted 11-16-2017 by Ord. No. 17-24</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>610-1</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Constitution and Bylaws, Article X and Article XI, grant authority to the Tribal Legislature, the duly constituted governing body of the Menominee Indian Tribe, to grant permission to qualified tribal members the use of specified portions of tribal land for recreational purposes consistent with the principles of conservation under a comprehensive land use plan.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-2</num>
+      <heading>Purpose.</heading>
+      <text>The Menominee Indian Tribe historically inhabited more than 12 million acres of land in what became the State of Wisconsin. Land cessions by treaties reduced Menominee Land to about 235,000 acres by 1854. Tribal lands were further reduced by the disastrous policy of Termination. Today almost 90% of tribal land is held in sustained yield. That leaves only 10% for other uses, including housing and tribal government operations. Thus, it can be seen that use of tribal land for recreational purposes is a luxury and privilege available for an extremely limited few of the more than 9,000 tribal members who are eligible for such uses. It is, therefore, incumbent on tribal government to promulgate strict mandatory limitations on recreational use of tribal land by tribal members to allow fair use of a limited resource. The purpose of a recreational land use assignment is to provide an area for enjoyment of the outdoors, such as fishing, camping, boating, and family gatherings by qualified tribal members and their guests.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|III|610|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>ASSIGNEE — A person who has acquired the right to temporarily possess and use tribal land by executing a land use assignment and is eligible under <cite path="|III|610|I">this article</cite>.</text>
+      <text>BENEFICIARY — A living, adult, enrolled tribal member who is also a family member of the assignee. A beneficiary must have the sufficient mental capacity to make legal decisions and to make and communicate appropriate decisions except as authorized in <cite path="|III|610|I">this article</cite>.</text>
+      <text>FAMILY and FAMILY MEMBER —</text>
+      <para>
+        <num>A.</num>
+        <text>A person's father, mother, brother, sister, child, grandparent, grandchild, legal father-in-law, legal mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law, legal stepfather, stepmother, stepchildren, stepbrother, and stepsister.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Tribe does not distinguish or discriminate in defining a familial relationship; therefore a family is also defined as (a) two people legally married and recognized by Tribal law; (b) two individuals living together (meaning cohabitation evidenced by sworn statement on the application form); or (c) a single adult person and, residing in the same household of (a), (b) or (c) herein, any biological child(ren) or legally adopted child(ren) under the age of 18 years.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Dissolution of a family relationship may be by divorce or by sworn statements of person(s) who are no longer living in a common-law-type living arrangement.</text>
+        <text>FAMILY UNIT — Two people legally married and recognized by tribal law, two individuals living together (meaning cohabitation as evidenced by a sworn statement on the application form), or a single adult person residing in the same household as the above, or with any biological children or legally adopted children, including tribal custom adoption, under the age of 18 years old.</text>
+        <text>GUEST — Those invited by the assignee and shall be the same as those listed in <cite path="§525-4|A">§ 525-4A</cite>, Consent to access tribal lands, except the assignee may not invite individuals banished by the Tribe.</text>
+        <text>MENOMINEE INDIAN RESERVATION — The land which is described in the Treaties of 1854 and 1856 and any additional land which may be legally added to the exterior bounds of the reservation under applicable federal and tribal law.</text>
+        <text>MENOMINEE TRIBAL MEMBER — Any person whose name appears on the Official Tribal Membership per <cite path="|I|69">Chapter 69</cite>.</text>
+        <text>RECREATIONAL LAND USE ASSIGNMENT — A grant to use tribal land through an assignment for the purpose of recreational use that conveys a temporary possessory interest with owner use privileges granted to the assignee only for those privileges authorized by the tribe in <cite path="|III|610|I">this article</cite>.</text>
+        <text>RECREATIONAL LEASE — This term is interchangeable with the term "land use assignment" used in the Menominee Constitution in reference to permission by the Tribe to use portions of tribal land.</text>
+        <text>RECREATIONAL LOT — That portion of land designated by the Community Development Department as available for recreational purposes and used exclusively for nonresidential purposes.</text>
+      </para>
+      <aftertext>TRIBAL MEMBER — See "Menominee tribal member."</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, hereinafter "Tribe."</aftertext>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-4</num>
+      <heading>Criteria for eligibility.</heading>
+      <text>The following criteria shall determine who is eligible for recreational land use assignment and general rules of applicability.</text>
+      <para>
+        <num>A.</num>
+        <text>The applicant must be a living, adult, competent tribal member.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No tribal member is eligible to apply for a recreational land use assignment as long as that member's name is included on the list of debtors created and maintained pursuant to <cite path="|I|44">Chapter 44</cite>, Debt Collection.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any tribal member who is on the waiting list for a recreational land use assignment and is subsequently added to the <cite path="|I|44">Chapter 44</cite>, Debtors, list shall be removed from the waiting list unless the person acts to remove his/her name from the <cite path="|I|44">Chapter 44</cite> debtor's list within six months of being placed thereon.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Only one application is allowed per family unit.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Only one tribal member's name can be listed on the application for recreational land use assignment.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>No tribal member is eligible to apply for a Type 1 or Type 2 recreational land use assignment if they, or their family unit, already have a Type 1 or Type 2 recreational land use assignment, waterfront residential lease, or have fee ownership of other waterfront property on the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>No tribal member, or its family unit, may have more than one recreational land assignment.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Acquiring fee ownership of any waterfront property or assignment/transfer of waterfront residential lease within the Menominee Indian Reservation by the assignee, or their family unit, during the term of an assignee's Type 1 or Type 2 recreational land use assignment shall constitute grounds for termination of their assignment.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-5</num>
+      <heading>Applications.</heading>
+      <para>
+        <num>A.</num>
+        <text>An application must be filed with the Community Development Department along with a nonrefundable administrative fee payable to the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Applications shall be made available through the Community Development Department.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Applications will be accepted, dated and time noted, when the application is completed and the administrative fee is paid.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Incomplete or false information on applications will cause the rejection of the application. Notice of rejected applications will be sent to the mailing address provided on the application.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Applicants may only request any one of the three types of lots. Type No. 1 and Type No. 2 lot requests are filled by date and time and added to a waiting list. Requests for Type No. 3 lots are more readily available and are assigned on a first-come-first-served basis. These waiting lists are maintained and constitute a list of eligible applicants.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-6</num>
+      <heading>Recreational lot designations.</heading>
+      <text>There are three types of recreational lots:</text>
+      <para>
+        <num>A.</num>
+        <text>Type No. 1, waterfront with access to electricity;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Type No. 2, waterfront without access to electricity;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Type No. 3, back lots (nonwaterfront).</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-7</num>
+      <heading>Recreational lot assignments.</heading>
+      <text>When a recreational lot becomes available:</text>
+      <para>
+        <num>A.</num>
+        <text>The eligible applicant who applied for a Type No. 1 or Type No. 2 recreational lot is notified by the Community Development Department by certified letter of the available lot, addressed to the official address of the tribal member as listed on the application form. Applicants are responsible to keep the Community Development Department informed of their current, accurate address. If the certified mail notice is not accepted and returned to the Community Development Department, the application shall be deemed null and void and removed from the list of applications. No applicant shall be prohibited from reapplying for a recreational lot if they are removed from the waiting list pursuant to this section.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The eligible applicant has 10 working days after notification of the availability of a recreational lot to accept or reject the assignment. If the applicant does not notify the Community Development Department of either an acceptance or rejection of the lot, the applicant's name will be removed from the waiting list. If an applicant rejects an assignment from the Community Development Department, the applicant will retain his/her place on the waiting list. In the event of acceptance, within this ten-day period, the applicant shall complete the land use assignment form and update the application if necessary. No applicant shall be prohibited from reapplying for a recreational lot if they are removed from the waiting list pursuant to this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon acceptance in Step 3 above, the Community Development Committee shall submit the name of the applicant and the lot description in ordinance form for approval by the Tribal Legislature at the next regular legislative meeting.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon approval of the recreational lot request by the Tribal Legislature, the Community Development Department shall notify the approved applicant that he/she has 30 calendar days to pay the assignment fee.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-8</num>
+      <heading>Payments.</heading>
+      <para>
+        <num>A.</num>
+        <text>Fees shall be set, established in a fee schedule, by the Community Development Department and approved by motion of the Tribal Legislature. These fees shall be posted for five business days before they shall become effective.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The fee schedule, at a minimum, shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>Application fee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Type No. 1, waterfront with access to electricity annual fee.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Type No. 2, waterfront without access to electricity annual fee.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Type No. 3, back lots (nonwaterfront) annual fee.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Minimum annual prorated fee.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Late charge fee.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Service fee.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Fees are annual and due and payable on or before October 31. Lots assigned throughout the year shall be prorated; provided, however, that no prorated fee shall be less than $25. If an assignee does not pay the annual fee in October, the assignment fee will be doubled. The fee and penalty shall then be due by November 30.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>In the event a check for the fee payment is returned for insufficient funds or closed accounts, a service fee of $15 will be charged. If the assignee then fails to pay the appropriate fee, penalty fees and service fees, in accordance with the Menominee Indian Tribe of Wisconsin Accounting Procedures, by November 30, the land use assignment will be cancelled.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Community Development Department shall notify recreational land use assignment holders by United States Mail of fee payments due on the following schedule:</text>
+        <para>
+          <num>(1)</num>
+          <text>First notice mailed first week of September.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second notice mailed first week of October.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Final notice mailed first week of November by certified mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Community Development Department shall post notices to the community in alignment with <cite path="|I|177">Chapter 177</cite> post procedures in August, September, and October as a reminder that fees are due by October 31.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Payments must be received or postmarked by October 31.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Fee payments, except by assignees eligible for extensions under <cite path="§610-8|K">§ 610-8K</cite> below, not received in the Community Development Department by 4:00 p.m. on the last working day of November shall result in cancellation of the recreational land use assignment.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The Community Development Department shall prepare a list of delinquent assignees and submit such list to the Community Development Committee.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Failure of the assignee of a recreational land use assignment to pay the assigned fee shall result in cancellation of the recreational land use assignment provided for herein, unless the assignee qualifies for special consideration under <cite path="§610-8|K">§ 610-8K</cite> below.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Special consideration for catastrophic events. In the event an assignee is subject to a catastrophic event as determined by the Community Development Department, the assignee shall have an additional 45 days in which to pay his/her fee and will be responsible for paying any late payment penalties. Individuals who have been given special consideration for catastrophic events are not eligible to file appeals.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-9</num>
+      <heading>Conversion of recreational lots.</heading>
+      <text>Recreational lots may be converted to residential lots if the assignee has proof, verified by the Community Development Department, of tangible plans for building a residence (permanent structure) and must follow the residential lease requirements of <cite path="|I|138">Chapter 138</cite>.</text>
+      <para>
+        <num>A.</num>
+        <text>The assignee must continue to pay the recreational land use assignment fee until the permanent structure is completed.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The assignee must pay a one-time fee of $1,000 if the assignee's lot is converted from a recreational lot under a land use assignment to a residential lot under a residential lease.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-10</num>
+      <heading>Named beneficiary.</heading>
+      <text>Pursuant to Article XI, Section 1, <cite path="§610-10|(c)">Subsection (c)</cite>, of the Menominee Constitution and Bylaws, the Tribal Legislature hereby ordains the following rules and regulations for transfer of recreational land use assignments by tribal members:</text>
+      <para>
+        <num>A.</num>
+        <text>All recreational land use assignment holders shall be required to execute a notarized beneficiary designation for his/her recreational land use assignment to whom the assignment shall be granted upon their death.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The beneficiary of a recreational land use assignment shall be subject to all tribal laws.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The assignee shall designate the named beneficiary in his/her land use assignment. If there is no valid, named beneficiary contained in the land use assignment at the time of the death of the assignee, the assignment shall be cancelled.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A beneficiary may not be granted a recreational land use assignment if the beneficiary already holds another recreational land use assignment or fee ownership of other waterfront property on the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>An individual is not an eligible beneficiary if they or their family unit already own or lease waterfront property on the reservation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A beneficiary must have the sufficient mental capacity to make legal decisions and to make and communicate appropriate decisions, with the exception of the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>The beneficiary has a court-appointed guardianship;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The beneficiary has a court-appointed conservatorship; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The beneficiary has executed a lawful durable power of attorney.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The appointed guardian or conservator, or person with durable power of attorney, must act in the best interest of the beneficiary when designating a new beneficiary, provided that such action is within the scope of the guardian's, conservator's, or durable power of attorney's authority or approved by the court overseeing the guardianship or conservatorship.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>No person who has durable power of attorney, nor his or her immediate family, shall benefit from the designation of a new beneficiary. For the purpose of <cite path="§610-10|H.">this subsection</cite>, "immediate family" shall mean spouse and biological or legally adopted children.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>No person who is a guardian or conservator, nor his or her immediate family, shall benefit from the designation of a new beneficiary, unless the court approves such designation. For the purpose of <cite path="§610-10|I.">this subsection</cite>, "immediate family" shall mean spouse and biological or legally adopted children, unless such children are siblings to the original beneficiary.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-11</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Recreational land use assignment holders shall abide by all rules and regulations of <cite path="|III|600">Chapter 600</cite>, Comprehensive Land Use and Natural Resources Plan. In the event of notification by appropriate authorities that an assignee is in violation of such tribal law, failure to correct such violation within 30 days shall result in submission of that person's land use assignment for cancellation by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The assignee is personally responsible for knowing the requirements of these policies and procedures, and any failure to strictly observe these mandates shall result in submission of that person's land use assignment for cancellation by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>In some special circumstances, when the assignee is an enrolled Menominee tribal elder and requires some assistance in carrying out the requirements of the land use assignment, the name of the caretaker may be added to the land use assignment with the added provision that the caretaker has no rights of inheritance to the recreational land use assignment.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>An individual is not eligible for waterfront property if they already own or lease lakefront property within the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>An applicant is eligible for only one lake lot per family unit.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A tribal member can only hold one recreational land use assignment.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Assignees are absolutely prohibited from making commercial use of their assigned property, including but not limited to, subleasing, renting out space for camping, renting in any form to another party, conducting a business for profit, selling personal services on the assigned property, or other such activity. The Community Development Department shall refer any such prohibited activity to the appropriate authorities and upon conviction of a citation by an authorized law enforcement officer shall recommend cancellation of the involved person to the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Recreational land use assignment requirements. All recreational land use assignments shall be in writing and, at a minimum, shall contain the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Name of the parties to the land use assignment;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the land being assigned;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The term of the land use assignment and the effective date of the assignment and assignment documents;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A description of the purpose of the recreational land use assignment and what uses of the premises are authorized;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The annual fee amount that is due, and when it is due, who receives it, what form of payment is acceptable, and a description of late charges and special fees that may apply;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Provide that the assignee must comply with all applicable laws, rules, regulations, and policies;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>State any express prohibitions for unlawful conduct, creation of nuisances, illegal activity, or negligent use or waste of assigned premises or any other prohibited actions under <cite path="|III|610|I">this article</cite>;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>State the governing law;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>State the means by which a termination and/or cancellation of the land use assignment shall occur;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>State the Tribe as assignor, and its authorized representative shall have the rights, at any reasonable times during the term of the land use assignment, and with reasonable notice, to enter on the assigned recreational lot, or any part thereof, to inspect the premises for compliance of <cite path="|III|610|I">this article</cite>;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Express prohibition from expanding the lot, constructive possession, and the construction of any improvements beyond what is described and recorded in the land use assignment; and</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Any other terms or provisions the Tribe deems necessary.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-12</num>
+      <heading>Appeal procedure.</heading>
+      <text>If a tribal member wishes to dispute a ruling made by the Community Development Department concerning an issue governed by <cite path="|III|610|I">this article</cite>, the following steps shall be taken.</text>
+      <para>
+        <num>A.</num>
+        <text>Step 1. The complaining person, "complainant," shall submit a signed, written statement of complaint to the Community Development Department within five working days of the occurrence. No other type of complaint shall be accepted.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Step 2. The Community Development Department shall immediately undertake an investigation of the complaint and shall respond to the complaint within 10 working days, unless the matter requires a longer period of investigation as determined by the Community Development Department. If it will take longer than 10 working days to investigate the complaint, the Community Development Department shall notify the complainant that additional time is needed to investigate the complaint. The additional time shall not exceed an additional 14 working days. The complainant and Community Development Committee Chairperson shall be informed of the progress of the investigation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Step 3. If as a result of a complaint and investigation the Community Development Department discovers a violation of tribal law, a report shall be submitted within three working days to the appropriate authorities.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Step 4. Intermediate appeals, defined as any resolved complaints having gone through the foregoing appeal steps, may be appealed within five working days of the final decision above to the Community Development Committee. The Community Development Committee Chairperson shall issue a written decision to the complainant within 30 days of hearing the intermediate appeal. The Community Development Committee shall call a meeting within this thirty-day period, unless there is good cause a meeting cannot be held. If a meeting cannot be held, the Committee Chairperson may take a straw poll over decisions needing a Committee vote or consensus in order to complete the written decision within the required time frame.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Step 5. Final appeal, initiated by a written signed request within five working days of the decision in Step 4, may be made to the Tribal Legislature. The Legislature shall entertain the written request within 30 days under Executive Session and will be provided all records and written materials and may request any witnesses.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Step 6. These appeal procedures are the final administrative remedy, and further appeals shall be to the Menominee Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>610-13</num>
+      <heading>Superseding effect.</heading>
+      <text>In the event that the language of any provision contained within <cite path="|III|610|I">this article</cite> conflicts with a previous ordinance or section of code enacted by the Menominee Indian Tribe of Wisconsin, the provisions contained within <cite path="|III|610|I">this article</cite> shall supersede the language contained in any previously enacted ordinances or section of code with respect to recreational leases or recreational land use assignments.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

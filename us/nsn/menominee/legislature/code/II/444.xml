@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>444</num>
+  <heading>PARKS AND RECREATION</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Alcoholic beverages — See <cite path="|II|250">Ch. 250</cite>. Animals — See <cite path="|II|255">Ch. 255</cite>.</annotation>
+    <annotation type="General References">Boating and rafting — See <cite path="|II|268">Ch. 268</cite>.</annotation>
+    <annotation type="General References">Fireworks — See <cite path="|II|329">Ch. 329</cite>. Noise — See <cite path="|II|429">Ch. 429</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|444|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Ballparks</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-15-1985 by Ord. No. 85-9; amended in its entirety 11-21-1996</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>444-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|444|I">This article</cite> shall be retitled "Ballpark Regulations."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>444-2</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|444|I">this article</cite> is to provide regulations governing the use of tribally owned and/or operated ballparks.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>444-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|444|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>BALLPARK — Any tribally owned and/or operated ballpark within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <text>DEPARTMENT — The Recreation Department.</text>
+      <text>DIRECTOR — The Director of the Department or his or her designee. ORGANIZATION — Any amateur or professional athletic association or team.</text>
+      <text>ORGANIZER — An individual responsible for coordinating a game or other athletic activity. VENDOR — The license or permit holder for the sale of alcoholic beverages and cigarettes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>444-4</num>
+      <heading>General provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Authority of the Director under <cite path="|II|444|I">this article</cite>. The Director shall have the authority to authorize any organization meeting the requirements set forth in <cite path="|II|444|I">this article</cite> to use any ballpark; to prohibit the sale and consumption of alcoholic beverages at any ballpark where the safety and well-being of the community are best served thereby; and to monitor compliance with <cite path="|II|444|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Requests for using ballparks. No organization shall use a ballpark unless it has submitted a request which has been approved by the Director. All requests shall be made in writing at least two weeks prior to the date on which the ballpark is requested. Requests which are submitted after this date, however, may be approved by the Director if said ballpark has not been reserved by another organization.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Priority for approving requests. The Director shall give the following organizations priority when approving requests submitted under <cite path="§444-4|B">Subsection B</cite>, in the order that is listed:</text>
+        <para>
+          <num>(1)</num>
+          <text>Recreation Department sponsored activities;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Little leagues (ages nine through 13);</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tee ball (ages six through eight);</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>TCJ League (ages 14 through 16);</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Menominee Legion (ages 16 through 18);</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adult leagues;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Softball tournaments;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Charities; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Fund-raising organizations.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Responsibility of organizations. With the exception of Department-organized activities, all organizations shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Provide their own equipment (i.e., bats, balls, marble dust, etc.) and umpires;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide for security;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Assume liability for the grounds, structures (i.e., dugouts, lights, etc.). The Department shall be notified prior to grounds preparation and may be consulted for technical assistance in the proper use of tribal recreational property;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide proof of liability insurance for spectators, players, and others attending tournament play. Said liability insurance shall be from a company licensed to do business in the State of Wisconsin and shall be in the amount of $100,000 aggregate;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Ensure that all waste material and debris are removed from and about the premises and that the premises is left in a neat condition satisfactory to the Department;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Ensure that all games and activities are finished before the ballpark is closed; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Post a security deposit of $100 in advance of tournament play for the purpose of covering damages to permanent structures and to defray the costs of providing maintenance for the sponsor's failure to perform adequate cleanup. Said security deposit shall be returned to the sponsor upon the Department's inspection of the premises and satisfaction of the sponsor meeting his or her responsibility under this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Use and consumption of alcohol. The sale or consumption of alcoholic beverages at any ballpark where the majority of the participants are under the age of 21 years is prohibited. The Director shall not have the authority to waive this provision.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Ballpark hours. All ballparks shall open at 8:00 a.m. and close by 11:00 p.m.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Vendors. All vendors shall forward a copy of their permit to the Department prior to selling cigarettes or alcohol at any ballparks. Any vendor who fails to furnish a copy of said permit to the Department shall not sell alcohol or cigarettes at any ballpark.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>444-5</num>
+      <heading>Fees for using ballparks.</heading>
+      <para>
+        <num>A.</num>
+        <text>Ballpark fee. The following organizations shall pay the specified fee for using a ballpark:</text>
+        <para>
+          <num>(1)</num>
+          <text>Department-organized activities: no fee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Little league: no fee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Softball league: no fee;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>BABA League organized games: fee of $1, collected annually;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Charities and fund-raising organizations: fee of $25 per ballpark, collected daily; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Other organizations not listed: $25 per ballpark, collected daily.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Service charge for using electricity. With the exception of little leagues, adult leagues and Department-organized activities, organizations shall be required to pay a service charge of $1 plus $3 per kilowatt hour of electricity used.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Collection of fees. The Department may collect the fees and charges specified above in advance of the scheduled game or activity.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>444-6</num>
+      <heading>Violations and penalties.</heading>
+      <text>The Menominee tribal police shall have the authority to issue citations for the following violations of <cite path="|II|444|I">this article</cite>:</text>
+      <para>
+        <num>A.</num>
+        <text>Whoever sells, distributes or otherwise consumes alcoholic beverages at any ballpark where the sale and or consumption of alcoholic beverages has been prohibited by the Director or pursuant to <cite path="§444-4|E">§ 444-4E</cite> shall be escorted off the premises and subject to a forfeiture of $25.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any vendor who sells cigarettes or alcohol without having furnished a copy of his or her permit to the Department shall be escorted off the premises and subject to a forfeiture of $25.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whoever fails to comply with the provisions of <cite path="|II|444|I">this article</cite> may be denied future use of any ballpark.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Whoever loiters, idles or remains on a ballpark after 11:00 p.m. shall be subject to a forfeiture of $15.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

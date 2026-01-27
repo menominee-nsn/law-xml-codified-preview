@@ -1,0 +1,1504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|550">
+  <prefix>Chapter</prefix>
+  <num>550</num>
+  <heading>VEHICLES AND TRAFFIC</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Salvage yards — See <cite path="|II|504">Ch. 504, § 504-23</cite>.</annotation>
+    <annotation type="General References">Junked vehicles and mobile homes — See <cite path="|II|546">Ch. 546</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|550|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Motor Vehicle Code</heading>
+    <annotations>
+      <annotation type="History">Adopted 12-19-1985 by Ord. No. 85-21; amended 4-16-1987; 6-18-1987</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>550-1</num>
+      <heading>Adoption of state code.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Wisconsin Motor Vehicle Code as amended from time to time is adopted and incorporated into Menominee law as a civil regulatory ordinance with certain exceptions noted below.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|II|550|I">This article</cite> shall be enforced by any duly authorized Menominee tribal police officers and Menominee tribal conservation officers. Such officers are law enforcement officers for the authorizations pursuant to <cite path="§132-3">§ 132-3</cite>, and that authority applies to the other designations of enforcement authority in the remaining articles of <cite path="|II|550">Chapter 550</cite>. <strong>[Added 12-19-2019 by Ord. No. 19-25]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-2</num>
+      <heading>Exceptions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Second and succeeding offenses for operating while under the influence (OWI) shall be criminal offenses and shall be penalized at the discretion of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All OWI offenses and all reckless driving offenses are nonforfeiture actions and require court appearances.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Violation of §§ 346.67(1), 346.04(2t) and 346.62(3) and (4), Wis. Stats., shall be a criminal offense and the penalty shall be that prescribed in <cite>Ch. 346</cite>, Wis. Stats., except that in no circumstances shall the Court sentence any defendant to a fine exceeding $5,000 or jail the defendant for a term exceeding one year per violation. <strong>[Added 6-19-2003]</strong></text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Winter parking is a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article II. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Traveling on Dam No. 3 is a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article III. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Registration of all-terrain vehicles is a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article IV. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Seatbelt requirements are a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article V. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Parking regulations are a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article VI. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Registration of motor vehicles is a traditional governmental function and shall be a civil regulatory function of the Menominee Indian Tribe of Wisconsin under tribal law, <cite path="|II|550">Chapter 550</cite>, Article VII. <strong>[Added 3-5-2020 by Ord. No. 19-41]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Winter Parking</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-21-1988 by Ord. No. 87-35</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>550-3</num>
+      <heading>Intent.</heading>
+      <text>In order to protect and preserve the public safety, property, health and welfare of the Menominee Nation and assist the Menominee Tribal Department of Environmental Services and the County of Menominee Highway Department, it is the intent of the Tribal Legislature to provide for a proper and timely manner of snow removal upon the streets and highways within the exterior boundaries of the Menominee Nation.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-4</num>
+      <heading>Jurisdiction and authority.</heading>
+      <para>
+        <num>A.</num>
+        <text>Pursuant to Article I of the Constitution and Bylaws of the Menominee Indian Tribe, the governmental powers shall extend to all persons and subjects, to all lands and other property, including natural resources, and to all waters and air space within the exterior boundaries of the Menominee Indian Reservation. Pursuant to Article III, Section 1, the Tribal Legislature is vested with the power to make and to enforce laws.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|II|550|II">This article</cite> shall be enforced by any duly authorized Menominee tribal police officers and Menominee tribal conservation officers. <strong>[Added 12-19-2019 by Ord. No. 19-25]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-5</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|550|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>MOTOR VEHICLE — Any automobile, truck, trailer, semitrailer, tractor, motor bus or any self-propelled or motor-driven vehicle, except a motorcycle, moped, or motor bicycle.</text>
+      <text>PUBLIC HIGHWAY — Every public street, alley, road, highway or thoroughfare of any kind open to public travel and use.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-6</num>
+      <heading>Parking prohibited.</heading>
+      <text>It shall be unlawful to park any motor vehicle on any public highway within the exterior boundaries of the Menominee Nation between the hours of 12:00 midnight and 7:00 a.m. from November 15 to April 15 of each year, to permit snow removal.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-7</num>
+      <heading>Effect on other laws; violations and penalties.</heading>
+      <text><cite path="|II|550|II">This article</cite> shall not rescind, supersede or amend the provisions of Article I of <cite path="|II|550">this chapter</cite> which adopt the entire Wisconsin Motor Vehicle Code (and any amendments that occur from time to time) under</text>
+      <text>§ 349.13(1g), (1m), (2), (3), (3m) and (5), Wis. Stats., Authority to regulate the stopping, standing or parking of vehicles. However, in lieu of the penalties mandated by Article I of <cite path="|II|550">this chapter</cite>, violating any provision of <cite path="|II|550|II">this article</cite> shall be subject to fines of not more than $10 plus court costs for the first offense and $20 plus court costs for each subsequent conviction.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Traveling on Dam No. 3 [Adopted 10-22-1992 by Ord. No. 92-19]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>550-8</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|550|III">this article</cite> is to protect the health, safety and welfare of the residents within the external boundaries of the Menominee Indian Reservation by preventing erosion of Dam No. 3 caused by needless off-road traveling on said dam which could lead to its failure.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-9</num>
+      <heading>Jurisdiction.</heading>
+      <text>The jurisdiction of <cite path="|II|550|III">this article</cite> shall include all lands and waters within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-10</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|550|III">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>DAM NO. 3 — The dam located on Linzy Creek in the NW 1/4, NE 1/4 of Section 23, Township 28 North, Range 16 East, Menominee County, on the Menominee Indian Reservation.</text>
+      <text>UNPAVED AREAS OF DAM — All areas of Dam No. 3, including but not limited to the public right-of-way and public access area. It does not include the normally traveled, hard-paved road or gravel shoulder.</text>
+      <text>VEHICLE — Any instrument of human transportation or conveyance, including but not limited to automobiles, trucks, motorcycles, dirt bikes, four-wheel-drive vehicles, all-terrain vehicles, bicycles or any other motor-driven or human-propelled vehicles.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-11</num>
+      <heading>Illegal use of Dam No 3.</heading>
+      <text>It shall be illegal for anyone, without express authorization pursuant to <cite path="|II|550|III">this article</cite>, to do any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Drive or travel with a vehicle on any of the unpaved areas of the normal roadway of Dam No. 3.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Park any vehicle on Dam No. 3 off the gravel margin immediately adjoining the hard-paved roadway.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-12</num>
+      <heading>Enforcement.</heading>
+      <text><cite path="|II|550|III">This article</cite> shall be enforced by the Menominee Tribal Police Department and any duly authorized tribal conservation officers.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-13</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any individual violating <cite path="§550-11|A">§ 550-11A</cite> and B of <cite path="|II|550|III">this article</cite> shall be, upon conviction, penalized as follows: a fine not to exceed $500, plus court costs, or a jail term not to exceed six months in jail, or both a fine and a jail term not to exceed the above-stated maximum amounts.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>All-Terrain Vehicles</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-20-1997 by Ord. No. 97-13; amended in its entirety 5-10-2010</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>550-14</num>
+      <heading>Title.</heading>
+      <text>The title of <cite path="|II|550|IV">this article</cite> is "All-Terrain Vehicle Regulations."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-15</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|550|IV">this article</cite> is to establish a statutory base for regulation of all-terrain vehicles within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§550-16">
+      <prefix>§</prefix>
+      <num>550-16</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|550|IV">this article</cite>, the following terms shall have the meanings indicated: ACCOMPANIED — Being subject to continuous verbal direction or control.</text>
+      <text>ALL-TERRAIN VEHICLE — An engine-driven device which has a net weight of 900 pounds or less, which has a width of 48 inches or less, which is equipped with a seat designed to be straddled by the operator and which is designed to travel on two or more low-pressure tires. A low-pressure tire is a tire which has a minimum width of six inches, which is designed to be mounted on a rim with a maximum diameter of 12 inches and which is designed to be inflated with an operating pressure not to exceed six pounds per square inch as recommended by the manufacturer. The term "all-terrain vehicle" shall also include non-street-legal motorbikes, motorized vehicles, snowmobiles, go-carts, golf carts, six- to eight-wheel amphibious vehicles, and utility-type side-by-side vehicles, regardless of size, weight or dimensions.</text>
+      <text>ALL-TERRAIN VEHICLE ROUTE — A route designated for all-terrain vehicle use by the Menominee Tribe.</text>
+      <text>ALL-TERRAIN VEHICLE TRAIL — A marked corridor on public property or on private lands, subject to public easement or lease, for all-terrain vehicle use designated by the Menominee Tribe as established by the Community Development Department in cooperation with Menominee Tribal Conservation, Menominee Tribal Enterprises, Menominee Tribal Police, and any other concerned departments; however, such corridor shall exclude roadways or highways except those roadways which are not seasonally maintained for motor vehicle traffic.</text>
+      <text>APPROVED CROSSING — An area used to cross a stream, creek, lake or wetland that has been designated as a crossing by Menominee Tribal Environmental Services Department, Historic Preservation, Community Development, Conservation and any other tribal department deemed necessary in designating an approved crossing.</text>
+      <text>ARCHAEOLOGICAL SITE — A geographic location which contains any material of artifacts, features, structures, organic and environmental remains of past human activity, ancient or contemporary burial sites, sacred sites, human ancestral remains, or historic properties which include districts, sites, buildings, structures and objects significant in history, architecture, archaeology, engineering and culture of the Menominee.</text>
+      <text>CULTURAL SITE — A geographic location which is highly significant due to the nature of activity occurring on the site and may be the location of traditional Menominee cultural activities, and may include sites that include plants that are traditional to the Menominee culture and activities.</text>
+      <text>EYE PROTECTIVE WEAR — Goggles, sunglasses, or glasses.</text>
+      <text>HIGHWAY — All public ways and thoroughfares and bridges on the same.</text>
+      <text>HUSBANDRY — The raising of livestock and the cultivation of crops; agriculture; the prudent management or conservation of resources.</text>
+      <text>IMMEDIATE FAMILY — Persons who are related as spouses, as siblings, or as parent and child. INDIAN LANDS — All lands within the exterior boundaries of the Menominee Reservation.</text>
+      <text>INTOXICANT — Any alcoholic beverage, controlled substance or other drug, or combination thereof. LAW ENFORCEMENT OFFICER — Any duly authorized tribal conservation or tribal police officer.</text>
+      <text>OPERATE — To exercise physical control over the speed or direction of an all-terrain vehicle or to physically manipulate or activate any of the controls of an all-terrain vehicle necessary to put it in motion.</text>
+      <text>OPERATION UNDER THE INFLUENCE — A condition in which a person's ability to operate an all-terrain vehicle, because of the consumption or use of an intoxicant, is impaired to the extent that the person is less able to exercise the clear judgment and steady hand necessary to handle and control the all-terrain vehicle.</text>
+      <text>OWNER — A person who has lawful possession of an all-terrain vehicle by virtue of legal title or equitable interest in the all-terrain vehicle which entitles a person to possession of the all-terrain vehicle.</text>
+      <text>QUALIFIED DESCENDANT — An individual who lacks sufficient blood quantum to qualify for inclusion on the official tribal roll, and who is a first- or second-degree descendant of an enrolled Menominee tribal member, as described in Sec. 2 of Menominee Tribal Ordinance No. 09-18,<fn path="|II|§550-16|footnotes|1">1</fn> and who has not relinquished his or her tribal membership.</text>
+      <text>SPOUSE OF A TRIBAL MEMBER — Any person who is legally married to a tribal member who has not relinquished his or her tribal membership.</text>
+      <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
+      <text>USED EXCLUSIVELY FOR AGRICULTURAL PURPOSES — Use of an all-terrain vehicle only on land owned or leased by the person or member of the person's immediate family over which the owner or lessee has management and control exclusively for agricultural use.</text>
+      <text>USED EXCLUSIVELY ON PRIVATE PROPERTY — Use of an all-terrain vehicle by the owner of the all-terrain vehicle or a member of his or her immediate family only on land owned or leased by the all-terrain vehicle owner or a member of his or her immediate family.</text>
+      <text>WETLAND — Areas that are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated (hydric) soil conditions. Wetlands generally include, but are not limited to, swamps, marshes, bogs, and similar areas.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: See <cite path="|I|46">Ch. 46</cite>, Descendant Register.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
+    </section>
+    <section cache:ref-path="II|§550-17">
+      <prefix>§</prefix>
+      <num>550-17</num>
+      <heading>Registration required. [Amended 8-19-2010; 1-5-2012 by Ord. No. 11-32; 2-15-2024 by</heading>
+      <text>
+        <strong>Ord. No. 23-79]</strong>
+      </text>
+      <text>The Menominee Tribe shall cause to be established rules, procedures and requirements for all-terrain vehicle registration.<fn path="|II|§550-17|footnotes|2">2</fn></text>
+      <para>
+        <num>A.</num>
+        <text>All-terrain vehicles shall be registered with the Menominee Tribe Department of Licensing and Permits prior to operation of such vehicles within the exterior boundaries of the Menominee Indian Reservation. A tribally issued all-terrain vehicle license sticker shall be affixed to and displayed on all-terrain vehicles at all times. The all-terrain vehicle license sticker shall be prominently visible on both sides of the all-terrain vehicle and in a position which is forward of the operator. Registration cost shall be as set by the Legislature.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All-terrain vehicles registered as public are required to furnish a rear plate that displays the registration number. Plates can be created or purchased. Plates must meet the specifications below:</text>
+        <para>
+          <num>(1)</num>
+          <text>The plate must be a minimum of four inches in height and 7 1/2 inches wide and made of white material.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The registration number must be made of black lettering a minimum of 1 1/2 inches high with a minimum 3/16 inch stroke.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Only the four registration numbers and two letters need to be on the plate. The registration number can be found on both the decals and the registration card.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The owner must maintain the plate so it is in legible condition, and the plate shall be attached to the rear of the vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be a violation of <cite path="|II|550|IV">this article</cite> for the owner of an all-terrain vehicle to allow a person to operate an all-terrain vehicle in violation of any section of <cite path="|II|550|IV">this article</cite>.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: The Procedure Manual for Registering All-Terrain Vehicles is on file in office of the Tribal Chairperson.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§550-18">
+      <prefix>§</prefix>
+      <num>550-18</num>
+      <heading>Rules of operation.</heading>
+      <text>For the protection of the Menominee Indian Tribe of Wisconsin and tribal land, operation of an all-terrain vehicle in the following manner shall be prohibited:</text>
+      <para>
+        <num>A.</num>
+        <text>In any careless way so as to endanger the person or property of another. It is unlawful for any person to endanger the safety of his/her own person or property or the safety of another's person or property by a high degree of negligence in the operation of an all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>On the private property of another without the consent of the owner or lessee. Failure to post private property does not imply consent for all-terrain vehicle use.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>On Indian lands without the consent of the Menominee Tribal Legislature or Indian owner. Failure to post Indian lands does not imply consent for all-terrain vehicle use.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>On any pathways or sidewalks specified for pedestrian use.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>On any public, church, school or business properties, or cultural or archaeological sites.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>With any firearm in his or her possession, unless it is enclosed in a carrying case, or in a commercially manufactured scabbard or rack, and is in accordance with the Firearms Ordinance.<fn path="|II|§550-18|footnotes|3">3</fn> This provision does not apply to law enforcement officers acting in their official capacity.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>When within 150 feet of a dwelling at a speed exceeding 10 miles per hour.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>On the frozen surface of lake waters within 100 feet of a person not in or on an all-terrain vehicle or motor vehicle or within 100 feet of a fishing shanty at a speed exceeding 10 miles per hour.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>All all-terrain vehicle operators under the age of 18 are required to wear a protective helmet, unless the operator is age 18 or older, or unless operation of the all-terrain vehicle is for the purpose of husbandry.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Without wearing the required eye protection.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>In any streams, creeks, lakes or wetlands except in an approved crossing.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>No person under the age of 12 shall operate an all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>No person under the age of 12 shall operate an all-terrain vehicle, and persons aged 12 to 16 must successfully complete an approved all-terrain vehicle safety course, and must carry documentation showing successful completion of said safety course while operating an all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>In any manner to flee or escape a law enforcement officer.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>With a passenger, unless the all-terrain vehicle is designated for more than one passenger or is outfitted with a commercially manufactured bolt-on apparatus designed to allow for a passenger. Passengers under the age of 16 are only allowed to ride with a person over the age of 18 years. All passengers must wear a protective helmet, regardless of age.</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>An all-terrain vehicle shall not exceed 10 miles per hour under the posted speed limit, and exceptions shall be made for navigating from one trail to another over paved roads.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: See <cite path="|II|321">Ch. 321</cite>, Firearms.</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-19</num>
+      <heading>Operation on or near highway.</heading>
+      <text>All-terrain vehicles may not be operated on any highways or other paved roadways within the exterior boundaries of the Menominee Indian Reservation except by a tribal member, descendant, or spouse of a tribal member. Tribal members, descendants, or spouses of tribal members may not operate on State Highway 47 and 55.</text>
+      <para>
+        <num>A.</num>
+        <text>Operation on roadway. All-terrain vehicles may be operated on the paved roadway portion of any highway only in the following situations:</text>
+        <para>
+          <num>(1)</num>
+          <text>To cross a roadway.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On any roadway not seasonally maintained for motor vehicle traffic.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To cross a bridge, culvert or railroad right-of-way.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>On roadways designated as all-terrain vehicle routes.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>On roadways if the all-terrain vehicle is an implement of husbandry.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Operation adjacent to roadway. An all-terrain vehicle may be operated adjacent to a paved roadway on an all-terrain vehicle route or trail if the all-terrain vehicle is operated in the following manner:</text>
+        <para>
+          <num>(1)</num>
+          <text>At a distance of 10 feet or more from the paved roadway along U.S. numbered highways, state and county highways, tribal roads, town roads, and BIA roads.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Travel shall conform to the direction of traffic in the nearest lane.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Roadway speed limits shall be observed when traveling adjacent to a roadway.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-20</num>
+      <heading>Equipment requirements.</heading>
+      <text>It shall be a violation of <cite path="|II|550|IV">this article</cite> if the following equipment requirements are not met:</text>
+      <para>
+        <num>A.</num>
+        <text>Any all-terrain vehicle operated during the hours of darkness or operated during daylight hours on any highway right-of-way is required to display a lighted headlamp and tail lamp.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The headlamp on an all-terrain vehicle is required to display a white light of sufficient illuminating power to reveal any person, vehicle or substantial object at a distance of at least 200 feet ahead of the all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The tail lamp on an all-terrain vehicle is required to display a red light visible during darkness from a distance of 500 feet to the rear.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Every all-terrain vehicle is required to be equipped with at least one brake operated either by hand or by foot.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Every all-terrain vehicle is required to be equipped with a functioning muffler to prevent excessive or unusual noise.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-21</num>
+      <heading>Operation while under the influence prohibited.</heading>
+      <text>It is illegal to operate an all-terrain vehicle while under the influence of alcohol or other drugs.</text>
+      <para>
+        <num>A.</num>
+        <text>No person may engage in the operation of an all-terrain vehicle with a blood alcohol concentration (BAC) of 0.08% or more. However, a person may be arrested for operating under the influence with a BAC that is under 0.08%.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person may operate an all-terrain vehicle while under the influence of an intoxicant to a degree which renders him or her incapable of safe operation of an all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No person may engage in the operation of an all-terrain vehicle with any detectable amount of a restricted controlled substance in his or her blood.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>You are required to provide a sample of your breath, blood or urine if a law enforcement officer has probable cause to believe you are operating an all-terrain vehicle under the influence. If you refuse to provide a breath, blood or urine sample, you will be charged with an additional violation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>No person shall operate an all-terrain vehicle or ride as a passenger on an all-terrain vehicle while carrying open intoxicants.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-21.1</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violation of a provision of <cite path="|II|550|IV">this article</cite> shall result in forfeiture as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>Operating an all-terrain vehicle without a valid registration in violation of <cite path="§550-17">§ 550-17</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $50.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Operating an all-terrain vehicle in any careless way so as to endanger a person or person's property in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of 50.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Operating an all-terrain vehicle on the private property of another without consent of the owner or lessee in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $100.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Operating an all-terrain vehicle on Indian lands without the consent of the Menominee Tribal Legislature or Indian owner in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $100.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Operating an all-terrain vehicle on any pathways or sidewalks specified for pedestrian use in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $50.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Operating an all-terrain vehicle on any public, church, school or business properties in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $50.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Operating an all-terrain vehicle while transporting any uncased firearms or bows in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $60.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Operating an all-terrain vehicle within 150 feet of a dwelling at a speed exceeding 10 miles per hour in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $30.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Operating an all-terrain vehicle on a frozen lake surface within 100 feet of a person or ice shanty at a speed exceeding 10 miles per hour in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $40.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Operating an all-terrain vehicle without wearing a protective helmet in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $10.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Operating an all-terrain vehicle without wearing required eye protection in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $10.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Operating an all-terrain vehicle in any streams, creeks, lakes or wetlands in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $50.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Operation of an all-terrain vehicle by a person under the age of 12 years in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $20.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Operating an all-terrain vehicle without successful completion of an all-terrain vehicle safety course in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $20. Operating an all-terrain vehicle without proof of successful completion of an all-terrain vehicle safety course in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $10.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Operating an all-terrain vehicle in any manner to flee or escape a law enforcement officer in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $100 as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Operating an all-terrain vehicle with a passenger in violation of <cite path="§550-18">§ 550-18</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $30.</text>
+      </para>
+      <para>
+        <num>Q.</num>
+        <text>Operating an all-terrain vehicle illegally on or in the vicinity of a highway in violation of <cite path="§550-19">§ 550-19</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $50.</text>
+      </para>
+      <para>
+        <num>R.</num>
+        <text>Operating an all-terrain vehicle in violation of equipment requirements of <cite path="§550-20">§ 550-20</cite> of <cite path="|II|550|IV">this article</cite> shall result in a forfeiture of $30.</text>
+      </para>
+      <para>
+        <num>S.</num>
+        <text>Second-time violations of §<cite path="§550-17">§ 550-17</cite>, 550-18, 550-19 and 550-20 of <cite path="|II|550|IV">this article</cite> shall result in the original penalty being doubled as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>T.</num>
+        <text>Third and subsequent violations of §<cite path="§550-17">§ 550-17</cite>, 550-18, 550-19 and 550-20 of <cite path="|II|550|IV">this article</cite> shall result in the original penalty being tripled as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>U.</num>
+        <text>A first-time violation of any provision of <cite path="§550-21">§ 550-21</cite> shall result in a forfeiture of not less than $150 nor more than $300 as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>V.</num>
+        <text>A second violation of any provision of <cite path="§550-21">§ 550-21</cite> shall result in a forfeiture of $500 and jail for not less than five days nor more than 30 days as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>W.</num>
+        <text>Third and subsequent violations of any provision of <cite path="§550-21">§ 550-21</cite> shall result in a forfeiture of not less than $500 nor more than $1,000 and jail for not less than 10 days nor more than six months as well as seizure and impoundment of the all-terrain vehicle as listed in <cite path="§550-21">§ 550-21</cite>.3.</text>
+      </para>
+      <para>
+        <num>X.</num>
+        <text>Violation of any other provision of <cite path="|II|550|IV">this article</cite> not specifically enumerated above shall result in a forfeiture of not less than $50 nor more than $1,000.</text>
+      </para>
+      <para>
+        <num>Y.</num>
+        <text>In addition to the above penalties, restitution may be ordered for damage caused from a violation of <cite path="|II|550|IV">this article</cite>.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-21.2</num>
+      <heading>Seizure and impoundment.</heading>
+      <para>
+        <num>A.</num>
+        <text>A law enforcement officer may seize an all-terrain vehicle, and impound for evidence purposes an all-terrain vehicle, if the officer has a reasonable basis to believe the all-terrain vehicle was used in the commission of a crime/offense on the Reservation, or the officer believes the property presents a danger to persons, property, or a natural resource of the Reservation, or if the officer has a reasonable basis to believe that without immediate seizure the all-terrain vehicle will be removed from the jurisdiction.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A receipt describing the seized all-terrain vehicle shall be issued to the person in possession of the vehicle at the time of seizure, if such person is present.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon order of the Court, after final adjudication of a case, or upon the Tribal Prosecutor's determination that the all-terrain vehicle is no longer needed for evidence purposes, the owner of the all-terrain vehicle shall be notified, in writing, of when and where the all-terrain vehicle may be picked up, and of any costs the owner must pay due to the seizure and impoundment of the all-terrain vehicle.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-21.3</num>
+      <heading>Seizure and impoundment for fleeing or escaping a law enforcement officer or for repeated violations. [Added 2-15-2024 by Ord. No. 23-79]</heading>
+      <para>
+        <num>A.</num>
+        <text>A law enforcement officer may confiscate any all-terrain vehicle and impound any all-terrain vehicle that violates any section under <cite path="|II|550|IV">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A receipt describing the seized all-terrain vehicle shall be issued to the person in possession of the vehicle at the time of seizure, if such person is present.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Upon order of the Court, after final adjudication of a case, after proof of payment of all fines or penalties, or upon the Tribal Prosecutor's determination that the all-terrain vehicle is no longer needed for evidence purposes, the owner of the all-terrain vehicle shall be notified, in writing, of when and where the all-terrain vehicle may be picked up, and of any costs the owner must pay due to the seizure and impoundment of the all-terrain vehicle.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any all-terrain vehicle that does not have tribal registration or tribal plates displayed may be confiscated, or impounded by a law enforcement officer.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any all-terrain vehicle which is confiscated or impounded shall be held in the locked yard at Conservation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any all-terrain vehicle that is impounded by a law enforcement officer may be released to the registered owner with an order of the Tribal Court and/or proof of payment for any fines or penalties under <cite path="|II|550|IV">this article</cite>.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any person wishing to have an all-terrain vehicle released from impoundment must make motion before the appropriate court, and said all-terrain vehicle shall only be released upon court order. Upon receipt of said court order, the all-terrain vehicle shall be released by a law enforcement officer upon payment of an impoundment fee. Said fee shall be $200 for 30 days. If the vehicle has been impounded for more than 30 days, the fee shall be $150 per month plus $5 per day, which sum shall be payable to Conservation. The impoundment fee can be paid online or in Tribal Court. The fee shall include any storage fees, towing fees, and/or any other related fees as incurred by law enforcement.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Seat Belt Requirements</heading>
+    <annotations>
+      <annotation type="History">Adopted 7-25-2002 by Ord. No. 02-26; amended in its entirety 4-21-2011</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>550-22</num>
+      <heading>Purpose.</heading>
+      <text>The Tribal Legislature has determined that the failure to use seat belts by persons driving vehicles within the exterior boundaries of the Menominee Indian Reservation has caused injuries due to accidents which were largely preventable. <cite path="|II|550|V">This article</cite> is enacted for safety reasons.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-23</num>
+      <heading>Effect on other laws.</heading>
+      <text><cite path="|II|550|V">This article</cite> supercedes any other tribal law that relates to the use of seat belts.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-24</num>
+      <heading>Use of seat belts required.</heading>
+      <para>
+        <num>A.</num>
+        <text>All drivers of vehicles operating on Menominee Reservation public roads and passengers riding therein shall be required to fasten seat belts while the vehicle is moving.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Minor children are required to be safely, securely, and properly fastened while riding in a motor vehicle, and the driver is responsible for assuring the child or minor is in the proper restraint according to the age and weight guidelines, as indicated.</text>
+        <para>
+          <num>(1)</num>
+          <text>Children less than one year old or less than 20 pounds must be in rear-facing child seats and in the back seat of the vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Children ages one to four or between 20 and 40 pounds must be in a forward-facing child seat in the back seat of the vehicle.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Children ages four to eight or between 40 and 80 pounds, and no more than four feet nine inches tall, must be in a booster seat.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Children and minors ages eight through no more than 18 or at least 80 pounds or at least four feet nine inches tall must use safety belts.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In vehicles such as pickup trucks with no rear seat, the guidelines shall remain the same except the child or minor must be in the passenger seat of the vehicle with the seat adjusted back from the dashboard as far as possible and the passenger air bag deactivated, if that option is available.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-25</num>
+      <heading>Enforcement.</heading>
+      <text>Tribal police and any duly authorized tribal conservation officers are hereby ordered and directed to stop any vehicle in which drivers/passengers are not using seat belts. Failure to fasten seat belts shall result in a citation for the driver and any passengers for violation of <cite path="|II|550|V">this article</cite>.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-26</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violation of <cite path="|II|550|V">this article</cite> shall result in the following penalties being assessed:</text>
+      <para>
+        <num>A.</num>
+        <text>First offense, driver and passenger who fail to fasten own seat belts, each fined $50;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second and subsequent offenses, driver and passenger who fail to fasten own seat belts, each fined $100;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>First offense for driver who fails to fasten seat belt of a minor, $100; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Second and subsequent offenses for driver who fails to fasten seat belt of a minor, $200.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|VI">
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Parking Regulations [Adopted 3-11-2013 by Ord. No. 12-20]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>550-27</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of <cite path="|II|550|VI">this article</cite>, the following words or phrases shall have the meanings set forth below:</text>
+      <text>HIGHWAY — All public ways and thoroughfares and bridges on the same. It includes the entire width between the boundary lines of every way open to the use of the public as a matter of right for the purposes of vehicular travel. It includes those roads or driveways on the Reservation which have been opened to the use of the public for the purpose of vehicular travel and roads or driveways upon the grounds of public schools, and institutions under the jurisdiction of the Menominee Indian Tribe.</text>
+      <text>MOTOR VEHICLE — A vehicle, including a combination of two or more vehicles or an articulated vehicle, which is self-propelled. "Motor vehicle" includes, without limitation, a commercial motor vehicle. A snowmobile and an all-terrain vehicle shall be considered motor vehicles for purposes of <cite path="|II|550|VI">this article</cite>.</text>
+      <text>OFFICIAL TRAFFIC SIGN — A sign professionally manufactured which is put in place by the Menominee Indian Tribe of Wisconsin or the State of Wisconsin.</text>
+      <text>OWNER — A person who holds the legal title of a vehicle, except that if legal title is held by a secured party with the immediate right of possession of the vehicle vested in the debtor, the debtor is the owner for the purposes of <cite path="|II|550|VI">this article</cite>.</text>
+      <text>PARK or PARKING — The halting of a vehicle, whether occupied or not, except temporarily for the purpose of and while actually engaged in loading or unloading property or passengers.</text>
+      <text>PRIVATE ROAD or DRIVEWAY — Every way or place in private ownership and used for vehicular travel only by the owner and those having express or implied permission from the owner and every road or driveway upon the grounds of public institutions and institutions under the jurisdiction of the Menominee Indian Tribe.</text>
+      <text>SIDEWALK — That portion of a highway between the curblines, or the lateral lines of a roadway, and the adjacent property lines, constructed for use of pedestrians.</text>
+      <text>STAND or STANDING — The temporary halting of a vehicle, whether occupied or not, except for the purpose of, and while actually engaged in, receiving or discharging passengers.</text>
+      <text>STREET — Every highway within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <text>VEHICLE — Every device in, upon, or by which any person or property is or may be transported or drawn upon a highway.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-28</num>
+      <heading>Regulations.</heading>
+      <para>
+        <num>A.</num>
+        <text>Handicapped parking. Except for a motor vehicle used by a physically disabled person, no person may park, stop or leave standing any vehicle, whether attended or unattended and whether temporarily or otherwise, upon any portion of a street, highway or parking facility reserved, by official traffic signs indicating the restriction, for vehicles displaying special registration plates, or a special identification card or vehicles registered in another jurisdiction and displaying a registration plate, card or emblem issued by the other jurisdiction which designates the vehicle as a vehicle used by a physically disabled person.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Obstructing handicapped parking. No person may park, stop or leave standing any vehicle, whether attended or unattended and whether temporarily or otherwise, upon any portion of a street, highway or parking facility so as to obstruct, block or otherwise limit the use of any portion of a street, highway or parking facility reserved, by official traffic signs indicating the restriction, for vehicles displaying special registration plates or a special identification card or vehicles registered in another jurisdiction and displaying a registration plate, card or emblem issued by the other jurisdiction which designates the vehicle as a vehicle used by a physically disabled person.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Elder parking. Except for a motor vehicle used by a tribal elder, no person may park, stop or leave standing any vehicle, whether attended or unattended and whether temporarily or otherwise, upon any portion of a street, highway or parking facility reserved, by official traffic signs indicating the restriction, for vehicles displaying a special tribal elder sticker which designates the vehicle as a vehicle used by a tribal elder.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal elder stickers are available to tribal members age 55 or older.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>They may be obtained in the Licensing and Permit office.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The tribal elder sticker shall be affixed to the lower right corner of the rear window of the vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Fraudulent use of an elder sticker. No person shall park a vehicle which he/she is driving in a parking spot designated for elders if he/she is not entitled to have personally obtained an elder sticker.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Obstructing elder parking. No person may park, stop or leave standing any vehicle, whether attended or unattended and whether temporarily or otherwise, upon any portion of a street, highway or parking facility so as to obstruct, block or otherwise limit the use of any portion of a street, highway or parking facility reserved, by official traffic signs indicating the restriction, for vehicles displaying special tribal elder sticker which designates the vehicle as a vehicle used by a tribal elder.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Parking where prohibited. No person may stop or leave standing any vehicle, whether attended or unattended and whether temporarily or otherwise, in any of the following places:</text>
+        <para>
+          <num>(1)</num>
+          <text>Within an intersection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On a crosswalk.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Between a safety zone and the adjacent curb, or within 15 feet of a point on the curb immediately opposite the end of a safety zone unless a different distance is clearly indicated by an official traffic sign or marker.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>On a sidewalk or sidewalk area, except when parking on the sidewalk or sidewalk area is clearly indicated by official traffic signs or markers.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Alongside or opposite any highway excavation or obstruction when stopping or standing at that place would obstruct traffic or when pedestrian traffic would be required to travel in the roadway.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>On the roadway side of any parked vehicle unless double parking is clearly indicated by official traffic signs or markers.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Within 15 feet of the driveway entrance to a fire station or directly across the highway from a fire station entrance.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Upon any portion of a highway where, and at the time when, stopping or standing is prohibited by official traffic signs indicating the prohibition of any stopping or standing.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Stopping or standing where prohibited. No person shall stop or leave any vehicle standing in any of the following places except temporarily for the purpose of and while actually engaged in loading or unloading or in receiving or discharging passengers and while the vehicle is attended by a licensed operator so that it may promptly be moved in case of an emergency or to avoid obstruction of traffic:</text>
+        <para>
+          <num>(1)</num>
+          <text>In a loading zone.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 10 feet of a fire hydrant, unless a greater distance is indicated by an official traffic sign.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Within four feet of the entrance to an alley or a private road or driveway.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Closer than 15 feet to the near limits of a crosswalk.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Upon any portion of a highway where and at the time when parking is prohibited, limited or restricted by official traffic signs.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Parking on left side of highway. No person shall stop or leave standing any vehicle on the left side of a highway.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Parking on private property. No person may leave or park any motor vehicle on private property without the consent of the owner or lessee of the property.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Owners or lessees may regulate parking. Owners or lessees of public or private property may permit parking by certain persons and limit, restrict or prohibit parking as to other persons if the owner or lessee posts a sign on the property indicating for whom parking is permitted, limited, restricted or prohibited. No person may leave or park any motor vehicle on public or private property contrary to a sign posted thereon.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-29</num>
+      <heading>Snow emergency regulations.</heading>
+      <para>
+        <num>A.</num>
+        <text>Snow emergencies. In times of emergency due to excessive snowfall, or when it is deemed advisable in the interest of public safety, the Chief of Police may, in his or her discretion, either through the Police Department or by signs placed or erected, close off streets, portions of streets, divert or regulate traffic and prohibit parking, stopping or unloading as the occasion may require, and all owners and operators of vehicles shall conform to these regulations.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Emergency declaration. Whenever an emergency exists and the Chief of Police shall have caused announcement thereof to be made by a radio station whose normal operating range covers the Menominee Indian Reservation, no person shall park any vehicle of any kind or description on any street or highway within the exterior boundaries of the Menominee Indian Reservation. During such a state of emergency, vehicles may be parked for a period of time not longer than three minutes for actually loading or unloading passengers, or 30 minutes for actually loading or unloading property, and provided further that no other regulation restricting parking as to place, time, or manner is violated thereby.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-30</num>
+      <heading>Owner liable for violations; registration record as evidence.</heading>
+      <text>When any vehicle is found to be in violation of any portion of <cite path="|II|550|VI">this article</cite>, and the identity of the operator cannot be immediately determined, the owner, as shown by the ownership registration of the vehicle supplied by the Menominee Licensing and Permits Department, or a comparable authority of any government unit, shall be liable for the violation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-31</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person violating <cite path="§550-28|F">§ 550-28F</cite> through J shall forfeit $20.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person violating <cite path="§550-28|A">§ 550-28A</cite> through E, <cite path="§550-29">§ 550-29</cite> or <cite path="§550-32|B">§ 550-32B</cite> shall forfeit $50.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Forfeiture amount to double when not paid. All forfeitures assessed pursuant to <cite path="|II|550|VI">this article</cite> shall be paid within 30 days of issuance of citation. If the forfeiture is not paid within 30 days of issuance of citation, the forfeiture amount shall double.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Registration to be suspended. The registration of any vehicle violating <cite path="|II|550|VI">this article</cite> shall be suspended if the forfeiture remains unpaid 60 days from the issuance of the notice of violation. Prior to suspending the registration, a notice will be mailed via regular U.S. Mail to the owner of the vehicle at the last known address as listed on the vehicle registration record by the department issuing the violation notice.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-32</num>
+      <heading>Manner of citing violations.</heading>
+      <para>
+        <num>A.</num>
+        <text>Placing on windshield proper service. If the owner or operator of a vehicle found to be violating <cite path="|II|550|VI">this article</cite> is not present at the time the officer discovers the violation, a citation specifying the violation and forfeiture amount will be placed on the windshield of the vehicle.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Unlawful removal of parking citation. No person other than the owner or operator thereof shall remove a parking citation from a motor vehicle.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-33</num>
+      <heading>Towing of vehicles authorized.</heading>
+      <text>Menominee tribal police officers and any duly authorized tribal conservation officers are hereby authorized to cause the towing away of vehicles parked in violation of <cite path="|II|550|VI">this article</cite>. The owner of said vehicle shall be liable for all costs of towing and storage associated with removal under <cite path="|II|550|VI">this article</cite>. This liability begins once the tow truck has been dispatched, whether or not the vehicle is actually towed.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-34</num>
+      <heading>Enforcement. [Added 12-19-2019 by Ord. No. 19-25]</heading>
+      <text><cite path="|II|550|VI">This article</cite> shall be enforced by any duly authorized Menominee tribal police officers and Menominee tribal conservation officers.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|550|VII">
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Motor Vehicle Registration [Adopted 3-5-2020 by Ord. No. 19-41]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>550-34.1</num>
+      <heading>General.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Menominee Indian Tribe of Wisconsin finds that registration of motor vehicles on all lands within the exterior boundaries of the Reservation is necessary in order for the Tribe to be able to regulate motor vehicle traffic on all lands within the exterior boundaries of the Reservation. It is also the purpose of the Tribe in enacting <cite path="|II|550|VII">this article</cite> to provide for the orderly registration of vehicles owned by tribal members and located on the public roads and highways of the Tribe's reservation, to assist law enforcement in identifying the owners of such vehicles, to prevent fraudulent transfers, theft, conversion, or other wrongful transactions or use of vehicles, to provide positive identification of vehicles within the service area in cases of emergency, and to provide revenue to the Nation through the levying of fees and charges for the privilege of operating vehicles within the service area.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Authority. The Menominee Indian Tribe of Wisconsin, under its inherent sovereign powers, controls the access and presence of persons on all lands within the exterior boundaries of the Reservation. Pursuant to the inherent powers of the Menominee Indian Tribe of Wisconsin to exercise civil regulatory authority in such matters under Article III, Section 1, of the Constitution of the Menominee Indian Tribe of Wisconsin, the Menominee Tribal Legislature has enacted this Menominee Indian Tribe of Wisconsin motor vehicle registration article to regulate motor vehicle traffic licensing on all lands within the exterior boundaries of the Reservation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Application. The provisions of <cite path="|II|550|VII">this article</cite> shall apply any person subject to the jurisdiction of the Tribe and to vehicles owned and operated by the governing body of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-35</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of <cite path="|II|550|VII">this article</cite>, the following words or phrases shall have the meanings set forth below:</text>
+      <text>AUTOMOBILE — A motor vehicle designed and used primarily for carrying persons but which does not come within the definition of a motor bus, motorcycle, or moped.</text>
+      <text>DEPARTMENT — The Enrollment/Licensing and Permits Department or any other department of the Tribe, with the authority to implement and administer <cite path="|II|550|VII">this article</cite>.</text>
+      <text>GROSS WEIGHT — The weight of the vehicle equipped for service plus the weight which the vehicle is carrying as load.</text>
+      <text>HIGHWAY — All public ways, thoroughfares, and bridges on the same. It includes the entire width between the boundary lines of every way open to the use of the public as a matter of right for the purposes of vehicular travel.</text>
+      <text>IDENTIFICATION NUMBER — The numbers, letters, or combination of numbers and letters assigned by the manufacturer of a vehicle or vehicle part or by the Department and stamped upon or affixed to a vehicle, also known as a "vehicle identification number (VIN)," or vehicle part for the purpose of identification.</text>
+      <text>MOPED — Any of the following motor vehicles capable of speeds of not more than 30 miles per hour with a 150-pound rider on a dry, level, hard surface with no wind, excluding a tractor, a power source as an integral part of the vehicle and a seat for the operator:</text>
+      <para>
+        <num>A.</num>
+        <text>A bicycle-type vehicle with fully operative pedals for propulsion by human power and an engine certified by the manufacturer at nor more than 130 cubic centimeters or an equivalent power unit;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A Type 1 motorcycle with an automatic transmission and an engine certified by the manufacturer at not more than 50 cubic centimeters or an equivalent power unit.</text>
+        <text>MOTOR HOME — A motor vehicle designed to be operated upon a highway for use as a temporary or recreational dwelling and having the same internal characteristics and equipment as a mobile home.</text>
+        <text>MOTOR VEHICLE — Every device in, upon, or which any person or property is or may be transported or drawn upon a highway, except railroad trains. A snowmobile shall not be considered a motor vehicle.</text>
+        <text>MOTORCYCLE — A motor vehicle, excluding a tractor, all-terrain vehicle, or a utility terrain vehicle, which is capable of speeds in excess of 30 miles per hour with a 150-pound rider on a dry, level, hard surface with no wind, with a power source as an integral part of the vehicle, and which meets any of the following conditions:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Type 1 is a motor vehicle, which meets either of the following conditions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is designed and built with two wheels in tandem and a seat for the operator, and may be modified to have no more than three wheels by attaching a sidecar to one of the side wheels in tandem without changing the location of the power source; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is designed and built to have no more than three wheels, seating for the operator and no more than three passengers, and does not have the operator area enclosed.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Type 2 is a motor vehicle designed and built to have at least three wheels in contact with the ground, a curb weight of less than 1,500 pounds, and a passenger and operator area with sides permanently enclosed with rigid construction and a top which may be convertible.</text>
+        <text>NONMOVING TRAFFIC VIOLATION — A citation for parking a motor vehicle in violation of a statute, ordinance, or resolution of the Tribe or the State of Wisconsin.</text>
+        <text>OTHER JURISDICTION or ANOTHER JURISDICTION — Territory other than all lands within the exterior boundaries of the Menominee Indian Tribe of Wisconsin Reservation, including the State of Wisconsin, and any state or tribal nation.</text>
+        <text>OWNER — A person who holds the legal title of a motor vehicle, except that if legal title is held by a secured party with the immediate right of possession of the motor vehicle vested in the debtor, the debtor is the owner for the purposes of <cite path="|II|550|VII">this article</cite>.</text>
+        <text>PERSON WITH A DISABILITY THAT LIMITS OR IMPAIRS THE ABILITY TO WALK — Any person with a disability as defined by the Americans with Disabilities Act of 1990, 42 USC 12101 et seq., so far as applicable, or any persons who meet the following conditions:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Cannot walk 200 feet or more without stopping to rest.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Cannot walk without the use of, or assistance from, another person or brace, cane, crutch, prosthetic device, wheelchair, or other assistive device.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Is restricted by lung disease.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Uses portable oxygen.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Has a cardiac condition to the extent that functional limitations are present.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Is severely limited in the ability to walk due to an arthritic, neurological, or orthopedic condition.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Has a degree of disability equal to that specified in <cite path="§550-35|A">Subsection A</cite> to F above.</text>
+        <text>PERSONAL IDENTIFIER — A name, street address, post office box number, or nine-digit extended zip code.</text>
+        <text>PERSONALIZED REGISTRATION PLATES — Registration plates for a motor vehicle registered under <cite path="|II|550|VII">this article</cite>, which display a registration composed of letters, numbers, or both, requested by the applicant.</text>
+        <text>REGISTRANT — A person who has applied for and received registration plates for a motor vehicle under <cite path="|II|550|VII">this article</cite>.</text>
+        <text>RESERVATION — All lands within the exterior boundaries of the Reservation of the Menominee Indian Tribe of Wisconsin, as created pursuant to the Menominee Tribe of Wisconsin Restoration of Federal Supervision Act, and any lands added thereto pursuant to federal law.</text>
+        <text>SPECIAL-INTEREST VEHICLE — A motor vehicle of any age, which has not been altered or modified from original manufacturing specifications and, because of its historic interest, is being preserved by hobbyists.</text>
+        <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+        <text>TRUCK — Every motor vehicle 80,000 pounds or less designed, used, or maintained primarily for the transportation of property.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-36</num>
+      <heading>Department authority and responsibilities.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Department shall be responsible for the administration of <cite path="|II|550|VII">this article</cite> and is delegated the authority to create rules to allow for the implementation of <cite path="|II|550|VII">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Fees. The Menominee Tribal Legislature, upon recommendation of the Department, shall adopt a motor vehicle registration fee schedule. Upon adoption, the fee schedule shall be published in the Menominee Nation News and shall be republished whenever fees are changed. All registration fees shall be nonrefundable and shall be paid to and retained by the Department. The Department may recommend separate fees based on any combination of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The type of motor vehicle being registered.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The maximum gross weight of the motor vehicle. Upon payment of the fee, a motor vehicle subject to registration on the basis of gross weight may be registered at a weight in excess of the manufacturer's maximum gross weight rating, but such registration does not exempt such vehicle from compliance with weigh limitations imposed by law or by state, local, or tribal authorities pursuant to authority of law.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whether the motor vehicle's registration was previously suspended under <cite path="|II|550|VII">this article</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Records retention. All registration applications and renewal requests shall be retained by the Department.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Registration lists. The Department shall maintain a list of registrations. The list shall give the name and address of each registrant, the registration number assigned, and other identifying information, as the Department deems necessary.</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon request, the Department shall distribute, free of charge, registration lists compiled under this section to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Menominee Tribal Police Department.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any other person, agency, or public officer that provides, in writing, a reasonable request for the lists.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who has received a personal identifier of any person under <cite path="§550-36">§ 550-36</cite>D(1) shall keep the personal identifier confidential and may not disclose it except:</text>
+          <para>
+            <num>(a)</num>
+            <text>To perform a legally authorized function;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To issue or renew a property and/or casualty insurance policy, related underwriting, billing, processing or paying a claim;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To conduct a vehicle recall by the manufacturer of a vehicle or his or her agent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who discloses a personal identifier in violation of this section may be subject to a fine of not more than $500 for each violation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who requests or obtains a personal identifier from the Department under false pretenses may be required to forfeit not more than $500 for each violation.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-37</num>
+      <heading>Registration of motor vehicles.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Tribe has the authority to enter into reciprocal agreements regarding:</text>
+        <para>
+          <num>(1)</num>
+          <text>The registration and licensing of any motor vehicle, including but not limited to automobiles, trucks, motorcycles, buses, or official vehicles with any governmental jurisdiction;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The exemption from Wisconsin state registration requirements of designated classes of motor vehicles registered by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Except as provided in <cite path="§550-37">§ 550-37</cite>I(1) through (7), all motor vehicles owned by persons subject to the jurisdiction of the Tribe shall be registered with the Department in accordance with the registration period determined by the Department.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Registration applications and registration renewal requests shall be submitted to the Department upon forms prescribed by the Department and shall be accompanied by the required fee.</text>
+        <para>
+          <num>(1)</num>
+          <text>All information obtained by the Department for purposes of registering a motor vehicle under <cite path="|II|550|VII">this article</cite> shall be subject to review or internal audit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the registrant has an unpaid citation for any nonmoving traffic violation, the registrant shall be notified that the registration may not be issued or renewed until the citation is paid or the registrant appears in court to respond to the citation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whenever any person, after applying for and receiving registration plates, has a change of address or change of name, the person shall, within 10 days of such change, notify the Department in writing the old and new address, and of such former and new names, and of all registration plate numbers held.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Original registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>Applications for original registration of a motor vehicle shall contain the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>The name of the owner; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A description of the vehicle, including make, model, identification number, and any other information which the Department may reasonably require for proper identification of the vehicle; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Such further information as the Department may reasonably require to enable it to determine whether the vehicle is by law entitled to registration or to enable it to determine the proper registration fee for the vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Department may accept an application and complete registration of a motor vehicle when the evidence of ownership is held by a nonresident lien holder or for other reasons not immediately available if the Department is satisfied as to ownership of the vehicle.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Minors. If the applicant for registration is under 18 years of age, the application shall be accompanied by a notarized statement made and signed by a guardian of the applicant, stating that the applicant has the guardian's consent to register the motor vehicle in the applicant's name. The signature on the statement shall not impute any liability for the negligence of misconduct of the applicant while operating such motor vehicles on the highways.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Registration renewal.</text>
+        <para>
+          <num>(1)</num>
+          <text>At least 30 days prior to the expiration of a motor vehicle's registration, the Department shall mail to the last-known address of the registrant a notice of the date upon which the registration must be renewed and instructions for renewal of registration.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In order to renew a registration, the registrant shall provide the Department with any updates to information required on the application for registration to ensure the proper registration of the motor vehicle. The Department may require that requests for renewal of registration be accompanied by the certificate of title issued for the motor vehicle if true ownership or proper registration of the motor vehicle is in doubt and cannot be resolved from records maintained by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Reregistration required for motor vehicles subject to a different fee. Whenever the construction or the use of a registered motor vehicle is changed in a manner which makes the motor vehicle subject to a different registration fee, the owner shall immediately apply for a new registration.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Plate transfers. Registered motor vehicle plates may be transferred, but an administrative fee shall be applied by the Tribe. The Department shall be responsible to set this fee. The transfer plates for the motor vehicle are only valid up to the date when the previous registration would have expired.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Operating unregistered or improperly registered motor vehicle. It is unlawful for any person to operate or for an owner to consent to being operated on the Reservation any motor vehicle, for which a registration fee is specifically prescribed, unless at the time of operation the motor vehicle in question either is registered by the Department, or a complete application for registration, including evidence of any inspection required by the Department, accompanied by the required fee has been delivered to the Department or deposited in the mail properly addressed with postage prepaid, and if the motor vehicle is an automobile or truck having a registered weight of 80,000 pounds or less, the motor vehicle displays a temporary operation plate issued by the Department for the motor vehicle unless the operator or owner of the motor vehicle produces proof that operation of the motor vehicle is within two business days of the motor vehicle's sale or transfer, or the motor vehicle in question is exempt from registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>A motor vehicle may be operated after the date of purchase of such vehicle or after the date the owner moved to the Reservation if application of registration and certificate of title has been made.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All motor vehicles subject to renewal may be operated, provided that a registration renewal request has been made.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who violates <cite path="§550-37">§ 550-37</cite>, Registration of motor vehicles, where the motor vehicle used is an automobile, station wagon, or any other motor vehicle having a gross weight of 10,000 pounds or less, may be required to forfeit not more than $200 for each violation.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who violates <cite path="§550-37">§ 550-37</cite>, Registration of motor vehicles, where the motor vehicle used is not enumerated under <cite path="§550-37|G">§ 550-37G</cite>, may be required to forfeit not more than $500 for each violation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Unless application for reregistration has been made as required by <cite path="§550-37|F">§ 550-37F</cite>, it is unlawful for any person to operate or for the owner to consent to being operated on any highway any registered motor vehicle the construction or use of which has been changed so as to make the vehicle subject to a higher fee than the fee at which it currently is registered or which is carrying a greater load than that permitted under the current registration.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Vehicles exempt from registration. A motor vehicle operated on a highway is exempt from registration when such vehicle:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is registered in another jurisdiction and the vehicle has a registration plate indicating it is validly registered in such other jurisdiction; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is operated in accordance with <cite path="§550-39|F">§ 550-39F</cite> exempting motor vehicles from registration, or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Is a farm tractor used exclusively in agricultural operations or used exclusively to provide power to drive other machinery, or to transport from job to job machinery driven by such tractor; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Is a trailer or semi-trailer used exclusively for the transportation of farm machinery, implements, produce or supplies on a farm or between farms; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Is a fork-lift truck, a specially constructed road or truck tractor used for shunting trailers; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Is a trailer or camper trailer having a gross weight of 3,000 pounds or less and not used for hire or rental; or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Is a piece of road machinery.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-38</num>
+      <heading>Department grounds for refusing registration.</heading>
+      <text>The Department shall refuse registration of a vehicle under any of the following circumstances:</text>
+      <para>
+        <num>A.</num>
+        <text>The required motor vehicle registration fee has not been paid for the specific vehicle, or such fees have not been paid on any other vehicles owned by the applicant.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The applicant has failed to furnish any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Unless exempted by rule of the document, the mileage disclosure from the most recent titled owner and of all subsequent nontitled owners of the motor vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Other information or documents required by law or by the Department pursuant to authority of law.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The applicant does not hold a valid certificate of title and is not entitled to the issuance of a certificate of title.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The applicant's registration has been suspended and such suspension is still in effect.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The applicant has an unpaid citation for any nonmoving traffic violation.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The vehicle is exempt from registration.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-39</num>
+      <heading>Design, procurement, and issuance of registration plates.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Department, upon registering a motor vehicle, shall issue to the applicant two registration plates for an automobile, truck, or motor home, and one plate for other motor vehicles.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In lieu of issuing a new plate upon each renewal of registration or a motor vehicle, the Department may issue a tag, decal, or other identification per motor vehicle to indicate the period of registration. The tag, decal, or other identification shall be used only if the outstanding plate is in suitable condition for further usage.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Department shall determine the size, color, and design of registration plates with a view toward making the following visible: the period for which the motor vehicle is registered and the fee class into which the motor vehicle falls. The registration plates shall also be a ready means of identifying the specific motor vehicle or owner for which the plates were issued.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>All registration plates shall have displayed upon them the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The registration number assigned to the motor vehicle or owner. The registration number may be composed of numbers, letters, or both.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The name "Menominee Nation" or "Omaeqnomenewak."</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An indication of the period for which the specific plate is issued or the date of expiration of registration.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Special plates.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Department may issue the following special plates:</text>
+          <para>
+            <num>(a)</num>
+            <text>Disabled person plates. If a registrant submits a statement once every four years, from a physician licensed to practice medicine in any state, or from a chiropractor licensed to practice chiropractic services in any state, that the registrant is a person with a disability that limits or impairs the ability to walk, the Department shall issue or renew plates of a special design in lieu of plates which ordinarily would be issued for the motor vehicle.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Veterans plates. The Department shall issue special plates for veterans.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Other special plates. The Department may issue additional special plates if the Department determines the demand for such special plates would justify the issuance of such plates and the Department has the ability to determine who is qualified to receive the plates.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If an individual in possession of special plates no longer qualifies for the special plates, the individual shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Dispose of the special plates in a manner prescribed by the Department; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Submit an application and registration fee for plates he or she qualifies for and pay a fee for the issuance of replacement plates.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Antique motor vehicle plates. A motor vehicle which has a model year of 1945 or earlier and which has not been altered or modified from the original manufacturers' specifications may register the vehicle as an antique motor vehicle upon payment of a fee, and be furnished registration plates of a distinctive design, in lieu of the usual registration plates, which shall show, in addition to the requirements of <cite path="§550-39">§ 550-39</cite>D(1) through (3), that the motor vehicle is an antique. The registration shall be valid while the motor vehicle is owned by the applicant without payment of any additional fee. The motor vehicle shall only be used for special occasions such as display and parade purposes or for necessary testing, maintenance, and storage purposes.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who registers an antique motor vehicle may furnish and display on the motor vehicle a historical plate from or representing the model year of the motor vehicle if the registration and plates issued by the Department are simultaneously carried in the motor vehicle and are available for inspection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Unless inconsistent with this section, the provisions applicable to other motor vehicles apply to antique motor vehicles.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Special-interest vehicles. Any owner who has a motor vehicle registered through the Tribe and uses for regular transportation at least one vehicle that has regular registration plates may apply to register a vehicle as a special-interest vehicle if the vehicle is at least 20 years old.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Department shall furnish the owner of the vehicle with registration plates of a distinctive design in lieu of the usual registration plates, and those shall show that the vehicle is a special-interest vehicle owned by a collector. Upon application, the owner may reregister the vehicle without the payment of any additional fee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each collector applying for special-interest vehicle registration plates will be issued a collector's identification number, which will appear on each plate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The vehicle may be used as are other vehicles of the same type except:</text>
+          <para>
+            <num>(a)</num>
+            <text>Motor vehicles may not transport passengers for hire.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Trucks may not haul material weighing more than 500 pounds.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No special-interest vehicle may be operated upon any highway during the month of January unless the owner of the vehicle reregisters the vehicle with regular registration plates or transfers regular registration plates to the vehicle.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Unless inconsistent with this section, the provisions applicable to other vehicles shall apply to special-interest vehicles.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Personalized registration plates. Personalized registration plates shall be of the same color and design as regular registration plates and shall consist of number, letters, or both.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Department shall issue personalized registration plates only upon request and if:</text>
+          <para>
+            <num>(a)</num>
+            <text>The request is accompanied by the proper fee and paperwork as required by the Department; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The requested combination of numbers, letters, or both has not already been issued.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Department may refuse to issue any combination of letters, numbers, or both which carry connotations offensive to Menominee heritage or traditions, good taste or decency, or which would be misleading, or in conflict with the issuance of any other registration plates. All decisions of the Department with respect to personalized registration plate applications shall be final and not subject to judicial review.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each personalized registration plate issued shall be reserved for the recipient in succeeding registration periods and shall not be duplicated for issuance to any other person if the recipient maintains the plate, unless the recipient authorizes issuance of the plate to another person. If the recipient does not maintain the plate for two successive years or if the recipient does not specifically request reissuance of the personalized registration plate by the end of the month in which the plate expires, the Department may reissue the personalized registration plate to another applicant.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Department may cancel and order the return of any personalized registration plates issued which contain any combination of letters, numbers, or both, which the Department determines may carry connotations that are offensive to Menominee heritage or traditions, good taste and decency, or which may be misleading. Any person ordered to return such plate shall either be reimbursed for any additional fees they paid for the plates for the registration year in which they are recalled, or be given at no additional cost replacement personalized registration plates, the issuance of which is in compliance with <cite path="|II|550|VII">this article</cite>. A person who fails to return personalized registration plates upon request of the Department may be required to forfeit not more than $200.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Replacement plates.</text>
+          <para>
+            <num>(a)</num>
+            <text>Lost or destroyed plates. Whenever a current registration plate is lost or destroyed, the owner of the motor vehicle to which the plate was attached shall immediately apply to the Department for a replacement. Except as further provided in <cite path="|II|550|VII">this article</cite>, upon satisfactory proof of the loss or destruction of each plate and upon payment of a fee for each plate, the Department shall issue a replacement.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Illegible plates. Whenever a current registration plate becomes illegible, the owner of the motor vehicle to which the plate is attached shall apply to the Department for a replacement. Upon receipt of satisfactory proof of illegibility, and upon payment of a fee for each plate, the Department shall issue a replacement. Upon receipt of a replacement plate, the applicant shall return the illegible plate to the Department for recycling.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>When issuing replacement plates, the Department may assign a new number and issue a new plate rather than a duplicate of the original if the Department determines it is in the best interests of economy or prevention of fraud. Upon receipt of a replacement plate, the applicant shall return the illegible plate to the Department for recycling.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-40</num>
+      <heading>Display of registration plates.</heading>
+      <para>
+        <num>A.</num>
+        <text>Placement of plates or decals on motor vehicles.</text>
+        <para>
+          <num>(1)</num>
+          <text>Whenever two registration plates are licensed for a motor vehicle, one plate shall be attached to the front and one to the rear of the motor vehicle. Whenever only one registration plate is issued for a motor vehicle, the plate shall be attached to the rear of the motor vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any registration decal or tag issued by the Department shall be placed on the rear registration plate of the vehicle in the manner directed by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Registration plates shall be attached firmly and rigidly in a horizontal position and in a conspicuous place. The plates shall at all times be maintained in a legible condition and shall be displayed so that they can be readily and distinctly seen and read. A law enforcement officer may require the operator of any vehicle on which plates are not properly displayed to display such plates as required by this section.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>550-41</num>
+      <heading>Penalties and appeals.</heading>
+      <para>
+        <num>A.</num>
+        <text>Suspension of registration.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Department shall suspend the registration of a vehicle when:</text>
+          <para>
+            <num>(a)</num>
+            <text>The registration was completed through fraud or error and the person who registered the vehicle does not or cannot register the vehicle properly; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any applicable test or inspection requirements of the State of Wisconsin under <cite doc="Wis. Stat." path="§110.20|(6)">§ 110.20(6), Wis. Stats.</cite>, have not been met.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any registration suspended pursuant to this section continues to be suspended until reinstated by the Department. The Department shall reinstate the registration when the reason for the suspension has been removed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whenever the registration of a vehicle is suspended under this section, the Department may order the owner or person in possession of the registration plates to return them to the Department.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>No owner may transfer the ownership or registration of any vehicle whose registration is suspended under this section until the registration is reinstated or until the Department is satisfied that such transfer is proposed in good faith.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>This section does not apply to or affect the registration of any vehicle sold by a person who, pursuant to the terms or conditions of any written instrument giving a right of repossession, has exercised such right and has repossessed such vehicle from a person who registration has been suspended.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Civil infraction citation. All Menominee tribal law enforcement officers are hereby designated as authorized officials to issue civil infraction citations. Any person who violates a provision of <cite path="|II|550|VII">this article</cite> may be subject to a fine issued by a Menominee tribal law enforcement officer of not more than $500 for each violation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Appeals. A person issued a fine under <cite path="|II|550|VII">this article</cite> may appeal such fine to the Tribe's Judiciary in accordance with applicable rules of civil and appellate procedure.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>270</num>
+  <heading>CARBON CREDITS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 8-2-2018 by Ord. No. 18-19. Amendments noted where applicable</annotation>
+    <annotation type="General References">Forest management and development — See <cite path="|II|340">Ch. 340</cite>. Tribal lands — See <cite path="|II|525">Ch. 525</cite>.</annotation>
+    <annotation type="General References">Land use legislation — See <cite>Part III</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>270-1</num>
+    <heading>Forest carbon, carbon credit, or carbon cap-and-trade programs.</heading>
+    <text>The Menominee Indian Tribe of Wisconsin hereby bans any further consideration or implementation of any forest carbon, carbon offset, or carbon cap-and-trade program in any of the Tribal forests or forest lands, including the recent proposals involving Finite Carbon and BP Petroleum.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>270-2</num>
+    <heading>Ban on similar programs.</heading>
+    <text>The Menominee Indian Tribe of Wisconsin hereby further bans consideration or implementation of any similar program that would require idling or encumbering any of the Tribal forests or forest lands.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>270-3</num>
+    <heading>Tribal forests or forest lands.</heading>
+    <text>The Menominee Tribal Legislature shall not make any attempt, whether by ordinance, resolution, or other means, to undertake any forest carbon, carbon offset, or carbon cap-and-trade program in any of the Tribal forests or forest lands, or to otherwise undertake any similar program that would idle or encumber the Tribal forests or forest lands.</text>
+    <annotations/>
+  </section>
+</container>

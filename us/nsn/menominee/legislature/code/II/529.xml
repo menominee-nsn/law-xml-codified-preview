@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>529</num>
+  <heading>TURKEY REGULATIONS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-5-2001. Amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="II|§529-1">
+    <prefix>§</prefix>
+    <num>529-1</num>
+    <heading>Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>The following rules and regulations have been developed by the Menominee Conservation Commission and through final approval by the Menominee Tribal Legislature in accordance with the Menominee Conservation Code.<fn path="|II|§529-1|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rules pertaining to wild turkey hunting have been identified in the regulations 2000 and shall be honored to the extent that the following rules will replace specific parts.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-2</num>
+    <heading>Hunting of wild turkey prohibited; exception.</heading>
+    <text>No individual may hunt for wild turkey, as defined in the Conservation Code, except as provided below.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-3</num>
+    <heading>Identification.</heading>
+    <text>All hunters are encouraged to have a tribal identification card in their possession while hunting.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-4</num>
+    <heading>Hunting of wild turkey by tribal members; season.</heading>
+    <para>
+      <num>A.</num>
+      <text>Only tribal members will be allowed to hunt wild turkey.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Season for tribal members. Tribal members will be allowed to hunt for wild turkey from Saturday April 14, 2001, to Sunday May 27, 2001.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-5</num>
+    <heading>Bag limits and tagging; tribal members only.</heading>
+    <para>
+      <num>A.</num>
+      <text>Only male turkey will be allowed for harvest.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>One turkey per tribal member may be harvested.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tags are not transferable and must be in possession of the eligible hunter.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Individuals 12 years and under will not be eligible for tags.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Bird must be tagged immediately upon killing and registered within 72 hours at the designated registration site or by calling the Menominee Conservation Department.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Tribal members shall remain in accordance with all applicable laws and rules specified herein as well as in the Conservation Code and all laws of the Menominee Indian Tribe.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>All persons are required to process their bird in a timely manner so as not to allow the meat to spoil. This will result in a wanton waste violation in accordance with the Conservation Code.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-6</num>
+    <heading>Prohibited acts.</heading>
+    <text>The following acts shall be prohibited:</text>
+    <para>
+      <num>A.</num>
+      <text>Hunting turkey at night.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Taking turkey from night roost.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Transferring of tags.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>529-7</num>
+    <heading>Safety tips.</heading>
+    <text>The following safety tips are recommended to protect everyone. Hunt safely and respect mother earth.</text>
+    <para>
+      <num>A.</num>
+      <text>Be sure of your target and what is beyond it.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Be certain what you see or hear is a turkey not a decoy or another hunter.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Do not wear blue, red or white colors when hunting turkey; these are the colors of the gobbler.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>When still hunting and another hunter approaches use your voice to identify that you are there. Never wave your arms or stand up quickly when other hunters approach.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Never use your turkey call when there are hunters around or near you.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Never hunt with a decoy closer than 200 yards to any road.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

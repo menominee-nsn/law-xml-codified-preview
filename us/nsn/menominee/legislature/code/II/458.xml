@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|458">
+  <prefix>Chapter</prefix>
+  <num>458</num>
+  <heading>PROPERTY ADDRESS NUMBERING AND ROAD NAMING</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-2000 by Ord. No. 00-05. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>458-1</num>
+    <heading>Title, purpose and applicability.</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose. For the purpose of rapidly locating residences and businesses by ambulance, police, and fire departments for emergency services, the Menominee Indian Tribe of Wisconsin (MITW) and Menominee County consider the promotion of a consistent and logical system of property identification a high priority.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Title. <cite path="|II|458">This chapter</cite> shall be known as the "Uniform Property Address Numbering and Road Naming Ordinance of the Menominee Indian Tribe of Wisconsin and Menominee County."</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Applicability. <cite path="|II|458">This chapter</cite> shall be applicable to all persons, all land use activities, and all land within the exterior boundaries of the Menominee Reservation and county. All properties or parcels of land within the exterior boundaries of the Menominee Reservation and county shall hereafter be identified by reference to the uniform property address numbering and road naming system adopted herein. All existing address numbers of property and buildings not now in conformity with the provisions of <cite path="|II|458">this chapter</cite> shall be changed to conform to the system herein adopted.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-2</num>
+    <heading>Definitions and word usage.</heading>
+    <para>
+      <num>A.</num>
+      <text>General. For the purposes of <cite path="|II|458">this chapter</cite>, the following shall apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>The word "government entity" includes tribal government and county and town governments.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The word "person" includes a firm, association, organization, government entity, partnership, trust, company, and corporation, as well as an individual.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The present tense includes the future tense, and the singular includes the plural.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The word "shall" is mandatory; the word "may" is permissive.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Definition of terms. For the purpose of <cite path="|II|458">this chapter</cite>, the following terms are defined: ACCESSORY OR INSUBSTANTIAL STRUCTURE — In supplement of a principal structure.</text>
+      <text>ACCESS ROAD — A road designed to provide vehicular access to abutting property and to discourage, if not prevent, through traffic.</text>
+      <text>ADDRESS — The element that designates a specific, situs location, such as a home or office.</text>
+      <text>AFFIX — Any word attached to the road name. Term applies to both the beginning and end of the road name.</text>
+      <text>ALLEY — A public way used as a secondary access to the side or rear of abutting property.</text>
+      <text>APARTMENT — A room(s) in a multiple-dwelling structure or multiple-use structure intended to be used as a separate housing unit.</text>
+      <text>AXIS — A linear point of reference from which to start measurement. BULB — The circular end of a cul-de-sac.</text>
+      <text>CIRCLE — A curving side street.</text>
+      <text>CUL-DE-SAC — A small portion of a road that is circular in form. Typically found at the end of a road segment.</text>
+      <text>CURVILINEAR ROAD — A road that meanders and, therefore, is not straight.</text>
+      <text>DRIVEWAY — A private road giving access from a public way to a building on abutting grounds. HABITABLE STRUCTURE — A fixed place of residence.</text>
+      <text>IMPROVED PROPERTY — Any permanent changes placed upon or otherwise affixed to real estate, including but not limited to structures, landscaping, septic systems and wells.</text>
+      <text>INTERVAL — A fixed distance in which a number is assigned for any building within that space. LOOP — The road separates to form a loop.</text>
+      <text>MAIN ENTRANCE — The driveway to the front of the primary structure. ORIGIN — Place of beginning.</text>
+      <text>PARCEL — Land location within a prescribed description. PRIMARY STRUCTURE — Place of residence.</text>
+      <text>RECREATION LOT — Used exclusively for nonresidential purposes. ROAD — Any paved or gravel surface designed to carry vehicular traffic. ROAD SEGMENT — A portion of a road.</text>
+      <text>THROUGH ROAD — A road with a greater traffic volume in relation to an intersecting road. UNIMPROVED PROPERTY — Devoid of any man-made improvements.</text>
+      <text>U-SHAPED ROAD — A road in the shape of a horseshoe. VACANT LOT — Without content or improvement.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-3</num>
+    <heading>Uniform property address numbering and road naming maps.</heading>
+    <para>
+      <num>A.</num>
+      <text>Establishing the uniform property address numbering and road naming maps. The set of property address numbering and road naming maps titled "Uniform Property Address Numbering and Road Naming Maps" dated April 2000 shall be the official maps to be used with <cite path="|II|458">this chapter</cite>. These maps may be amended from time to time by the Community Development Department, and once any map amendment is approved by the Menominee Tribal Legislature by motion, the amended map shall be the official map to be used with <cite path="|II|458">this chapter</cite>. Copies of the official property address numbering and road naming maps shall be kept on file both at the Community Development Department of MITW and at the Menominee County Land Information Office. <strong>[Amended 10-24-2000]</strong></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Establishing the property numbering system. All property address numbers assigned shall be assigned in accordance with these property address numbering maps, and no other property address numbers shall be used or displayed within the Menominee Reservation and county.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Establishing the road names. All road names designated on these maps shall be assigned in accordance with these road naming maps, and no other road names shall be used or displayed within the Menominee Reservation and county.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-4</num>
+    <heading>Property address numbering system.</heading>
+    <text>For the purpose of promoting the orderly and logical identification of properties, utilizing the physical property address in order to locate residences and businesses by emergency units, by travelers, and by mail and other delivery services, a grid system has been prepared by the Community Development Department of MITW and the Menominee County Land Information Office. The following shall apply:</text>
+    <para>
+      <num>A.</num>
+      <text>The origin. The origin of the grid shall be the southeast corner of the Menominee Reservation and county (i.e., the SE Corner of Section 36, Township 28, Range 16). Property address numbers shall increase incrementally northward and incrementally westward from this point, starting with N100 and W100. In the occurrence where the road doubles back on itself, the frontage interval system is used. This method is based on the measurement of the intervals between the beginning of a road and the structures along the road.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Address parity (even/odd numbering). Parity shall remain consistent within the system adopted by <cite path="|II|458">this chapter</cite>.</text>
+      <para>
+        <num>(1)</num>
+        <text>On all north-south avenues, streets, and alleys, odd numbers shall be assigned to the west side of the road and even numbers shall be assigned to the east side.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On all east-west avenues, streets, and alleys, odd numbers shall be assigned to the south side of the road and even numbers shall be assigned to the north side.</text>
+        <text>
+          <img alt="Embedded Image" src="data:image/png;base64,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"/>
+        </text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Addressing consistency. Addresses located across the road from each other shall be assigned so that they are nearly equal. Where there are more addresses on one side of the road, addresses assigned to the other side will be more widely spaced so that addressing consistency is maintained for addresses across from one another.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-5</num>
+    <heading>Numbers for future buildings.</heading>
+    <text>All residences and business buildings zoned, permitted, and erected after the adoption of <cite path="|II|458">this chapter</cite> shall be assigned a number in accordance with the uniform property address numbering maps and shall display such number as provided in <cite path="§458-6">§ 458-6</cite> of <cite path="|II|458">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-6</num>
+    <heading>Posting of designated address.</heading>
+    <para>
+      <num>A.</num>
+      <text>Disclaimer of liability. This section shall not create liability on the part of or cause of action against the Menominee Indian Tribe of Wisconsin or Menominee County or any officer or employee thereof for any damage that may result from reliance of this section.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notification. The owner of any house or building on a property to which a number has been assigned will be notified in writing by the Community Development Department of MITW or by the Menominee County Land Information Office, as appropriate, at any time after the adoption of <cite path="|II|458">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Installation of new numbers. The installation of the new numbers will be performed in accordance with <cite path="|II|458">this chapter</cite>. Installation of new numbers is the responsibility of the Community Development Department of MITW for all trust parcels and of the Menominee County Land Information Office for all fee parcels.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Removal of old numbers. The Menominee County Land Information Office or the Community Development Department of MITW is responsible, upon affixing the new number, to remove any different number other than that assigned to said structure by the property address numbering maps.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Placement of new numbers. New property address numbers shall be placed in accordance with the following standards:</text>
+      <para>
+        <num>(1)</num>
+        <text>Numerals indicating the official address of a property shall be posted on the primary structure to the upper right side of the door, in a manner as to be clearly visible from the road on which the property is located and from which the address was derived, unobstructed by vegetation or trees. In addition, numerals indicating the official address of a property shall be posted on the associated mailbox, if one exists.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a primary structure is not visible from the road from which the property is addressed, the numerals indicating the official address of the property shall be mounted on a sign or post placed beside the driveway entrance leading to this structure. This shall be done in such a manner that the numbers are clearly visible from the roadway, unobstructed by vegetation or trees.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-7</num>
+    <heading>Assignment of road names.</heading>
+    <para>
+      <num>A.</num>
+      <text>Objectives. Road names should enable the easy and rapid location of residences and businesses by ambulance, police, and fire departments for emergency response. Thus, road names should be easy to read and pronounce by the general public and by children in particular so that the names may be clearly conveyed in an emergency situation. Duplicate road names shall not be permitted so as to avoid possible confusion in emergency situations. Further, road names should reflect the Menominee culture and add to the pride of homeownership. Finally, the consistent use of road names by all entities aids in the sharing of electronic data among governmental agencies and departments.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Official road names. Official road names shall be in English to facilitate emergency response. The Historic Preservation Department of MITW is responsible for the selection of official road names for all tribal roads, and the Menominee County Land Information Office (LIO) is responsible for all town roads. To maintain culture, subsigns will be in the Menominee language and will be used subject to appropriation. Subsigns are not considered duplicate road names.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Preferred road names. For all new developments, it is recommended that road names are chosen surrounding a theme (e.g., type of trees: maple, oak, elm and pine).</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Unacceptable road names. The following items are considered unacceptable road names:</text>
+      <para>
+        <num>(1)</num>
+        <text>Alphabetical letters (A, B, C, etc.). Alphabetical letters shall not be used as road names.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Vanity road names. Vanity road names and addresses (i.e., names or addresses that relate to a particular business, developer or property owner) should be avoided when possible.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Surnames of living persons (historical figures, etc., excluded). Surnames of living persons should be avoided when possible.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Unconventionally spelled names. Unconventional spelling of road names should be avoided when possible.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Names that include directions (e.g., "Southwind" or "West Ridge") or words commonly associated with street types (e.g., "Melrose Place Drive") should be avoided when possible.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Roads with numerical names shall be written out (e.g., First Street, Second Street, etc.); the alternative is not permitted (e.g., 1st Street, 2nd Street, etc.).</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Location of road name break points. Road name breaks should occur at an intersection whenever possible and preferably at an intersection with a major cross street. Where it is not possible to make the break at an intersection, the break should occur at a point on the curve where the street orientation changes from primarily north-south to east-west, or vice versa. Road name signs should be used at every road name break to clarify the change.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Continuity. A continuous street, or one proposed to be continuous, should bear the same name throughout, even though it may change directions.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-8</num>
+    <heading>Affixes and abbreviations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Unnecessary affixes are to be avoided. The terms that may be utilized are as follows: "N" and "W" shall be used in front of the property number (e.g., N100 or W100) to indicate the direction from the origin along the appropriate axis.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms and corresponding abbreviations must comply with United States Postal Service (USPS) designations as described in the United States Postal Addressing Standards, Publication 28.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-9</num>
+    <heading>Name duplication.</heading>
+    <para>
+      <num>A.</num>
+      <text>Uniqueness. All roads shall possess a unique road name, regardless of any affixes or street types or of direction north or west (e.g., Rowe Street and Rowe Way are not considered unique road names; W100 Spense Drive and N100 Spense Street are not considered unique road names).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Duplication. Duplication of street names refers to roads that share the same name but may have different road type designation or affixes or may have different directionality north or west. Similar sounding names (i.e., homophones) even if spelled differently, are considered to be a duplication regardless of spelling (e.g., "Roe" and "Row" and "Rowe").</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Area of effect. Duplication of names shall not be permitted within the Menominee Reservation and county after the passage of <cite path="|II|458">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-10</num>
+    <heading>Names for future roads.</heading>
+    <para>
+      <num>A.</num>
+      <text>Future road names. All roads constructed or dedicated after the adoption of <cite path="|II|458">this chapter</cite> shall be assigned a name in accordance with §<cite path="§458-7">§ 458-7</cite>, 458-8, and 458-9 of <cite path="|II|458">this chapter</cite> and shall display such a name as provided in <cite path="§458-11">§ 458-11</cite> of <cite path="|II|458">this chapter</cite>. A map amendment is required to officially add the road name to <cite path="|II|458">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Future culs-de-sac. All culs-de-sac shall be named unless the culs-de-sac provide street frontage for two or fewer parcels. If named, the name shall be the same as that of the intersecting street. Where there is a series of culs-de-sac, however, all should have separate names.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§458-11">
+    <prefix>§</prefix>
+    <num>458-11</num>
+    <heading>Administration.</heading>
+    <para>
+      <num>A.</num>
+      <text>System administration. The Community Development Department of MITW and the Menominee County Land Information Office (LIO), in coordination, shall administer the uniform property addressing numbering and road naming system and corresponding maps, in accordance with the Uniform Property Address Numbering and Road Naming Guidelines.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Record maintenance. The Community Development Department of MITW and the Menominee County LIO shall be responsible for maintaining a record of all property address numbers and road names (Appendix A)<fn path="|II|§458-11|footnotes|1">1</fn> assigned under <cite path="|II|458">this chapter</cite> both in digital and hardcopy format. The Menominee Tribal Community Development Department shall be responsible for all updates to these records concerning trust parcels; similarly, the Menominee County LIO shall be responsible for all updates to these records concerning fee parcels. Both departments are responsible for providing the other with digital copies of all updates made to these records.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Map maintenance. The Community Development Department of MITW is responsible for all updates and changes to the uniform property address numbering and road naming maps concerning trust parcels; the Menominee County LIO is responsible for all updates and changes to these same maps concerning fee parcels. Both the County LIO and Community Development Department are responsible for providing each other with all changes and updates to these maps in digital format so that both sets of maps, as maintained by the Community Development Department and the County LIO, are accurate and timely.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Annual review. The Community Development Department and the Menominee County Land Information Office, in coordination, shall be responsible for annually reviewing the uniform property numbering and road naming maps for accuracy and updating them as necessary. This will be conducted with oversight from the Local Emergency Planning Commission.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Process for new address system.</text>
+      <para>
+        <num>(1)</num>
+        <text>Application procedure:</text>
+        <para>
+          <num>(a)</num>
+          <text>The property owner shall obtain a physical address application from the Community Development Department of the MITW or the Menominee County Land Information Office, as appropriate. The form shall be completed by the property owner and/or agent with the assistance of Community Development Department and/or Menominee County Land Information Office and shall include the following information:</text>
+          <para>
+            <num>[1]</num>
+            <text>Contact information.</text>
+            <para>
+              <num>[a]</num>
+              <text>Property owner's name (may be the same as above).</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>Property owner's current address.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>[b]</num>
+        <text>Property owner's current telephone number.</text>
+      </para>
+      <para>
+        <num>[c]</num>
+        <text>Occupant's name (may be the same as above).</text>
+      </para>
+      <para>
+        <num>[d]</num>
+        <text>Occupant's address.</text>
+      </para>
+      <para>
+        <num>[e]</num>
+        <text>Occupant's phone.</text>
+      </para>
+      <para>
+        <num>[2]</num>
+        <text>Driveway and building location information.</text>
+        <para>
+          <num>[a]</num>
+          <text>Road name which property/primary building will be accessed to/from (taken from official road signpost).</text>
+        </para>
+        <para>
+          <num>[b]</num>
+          <text>Side of access road the property/building is located on (north, south, east or west).</text>
+        </para>
+        <para>
+          <num>[c]</num>
+          <text>Whether or not the driveway is shared by other structures.</text>
+        </para>
+        <para>
+          <num>[d]</num>
+          <text>Tax parcel number (PIN) when appropriate.</text>
+        </para>
+        <para>
+          <num>[e]</num>
+          <text>Legal description of property (deed, volume, and page, certified survey map, plat, section, township, range, lot number, etc.).</text>
+        </para>
+        <para>
+          <num>[f]</num>
+          <text>Any other information that may be vital to this application.</text>
+        </para>
+        <para>
+          <num>[g]</num>
+          <text>Signature of owner or agent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The property owner shall return the completed physical property address application form to the Menominee Tribal Community Development Department or Menominee County Land Information Office, as appropriate, at which time the application will be reviewed to determine if all the required information is contained therein.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The MITW Community Development Department and Menominee County Zoning Department will issue no building permits for unimproved lots until the parcel for which the permit is intended has been assigned a physical property address.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Community Development Department of MITW or the Menominee County Land Information Office, as appropriate, may issue additional numerals in accord with the official uniform property address numbering system whenever a property has been subdivided or vandalized or some other event has destroyed the original numerals. The first signs and posts will be purchased one time only by the Tribe and county. The property owner/lessee is responsible for the maintenance and replacement of the sign and post once provided.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The numeric sign shall be posted within 30 days of the date the number was assigned by the Menominee Tribal Community Development Department or by the Menominee County Land Information Office.</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Notification. Notification is the responsibility of the Community Development Department of MITW for all trust parcels and the Menominee County Land Information Office for all fee parcels. Notification must include the correct number to use and the correct spelling of the road name. The following shall be notified of a new address, address change or correction:</text>
+        <para>
+          <num>(a)</num>
+          <text>Property owner or lessee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Occupant (may be the same).</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Appropriate post office.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Town of Menominee Fire Department.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Tribal Police Department.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>County Sheriff Department.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Tribal Ambulance.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Town of Menominee.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>County Tax Assessor.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>County Treasurer.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Tribal Housing Department.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>County Register of Deeds.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Tribal Utilities.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Alliant.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Frontier Communications.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Process for new road name assignment or existing road name change. Road naming is the responsibility of the Menominee Tribal Historic Preservation and Community Development Departments and Menominee County Land Information Office. When a new road is proposed/ constructed or an existing road name must be changed:</text>
+      <para>
+        <num>(1)</num>
+        <text>Determine the location: section, township, and range.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Determine intersecting roads.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Name is proposed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Alignment.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Verification that it is not a duplicate name.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Resolution/approval.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Order sign.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Verify road name spelling, etc., as printed on sign.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Contact Diggers Hotline for utility location.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Place sign (performed by local official).</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Notification (same as above).</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Appendix A is on file at the office of the Administrative Manager.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-12</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Defacing property address numbers. Any person altering, destroying, removing, or otherwise rendering illegible property address numbers that are required by <cite path="|II|458">this chapter</cite> shall forfeit not less than $50 nor more than $100 along with penalty assessment and costs.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Defacing street signs. With the exception of repair or replacement of street signs by authorized personnel, any person altering, destroying, removing, or otherwise rendering illegible street signs placed on any property in accordance with <cite path="|II|458">this chapter</cite> shall forfeit not less than $50 nor more than $500 along with penalty assessment and costs.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-13</num>
+    <heading>Enforcement.</heading>
+    <text>Menominee tribal law enforcement officers are authorized to enforce <cite path="|II|458">this chapter</cite> against all persons subject to tribal jurisdiction, and Menominee County law enforcement officers are authorized to enforce <cite path="|II|458">this chapter</cite> against all persons subject to Menominee County jurisdiction.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>458-14</num>
+    <heading>Amendments.</heading>
+    <text>The Menominee Tribal Legislature and Menominee County Board of Supervisors may from time to time, on their own motion or on petition, amend, supplement, or change <cite path="|II|458">this chapter</cite>.</text>
+    <annotations>
+      <annotation type="History">Amended 10-24-2000</annotation>
+    </annotations>
+  </section>
+</container>

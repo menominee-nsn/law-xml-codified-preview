@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|483">
+  <prefix>Chapter</prefix>
+  <num>483</num>
+  <heading>SEASONAL PERMITS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-09; amended in its entirety 11-20-2014 by Ord. No. 14-27. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>483-1</num>
+    <heading>Declaration of legislative intent.</heading>
+    <text>It is the declared intent of the Tribal Legislature to equalize the opportunity for tribal members to enjoy the fruits which may be gleaned from the operation of a concession stand on certain tribal lands on a seasonal basis and to provide regulations of the permit to keep the public and the natural resources of the Tribe protected.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§483-2">
+    <prefix>§</prefix>
+    <num>483-2</num>
+    <heading>Legal effect.</heading>
+    <text>The legal effect of <cite path="|II|483">this chapter</cite> is to regularize the issuance of seasonal permits to tribal members. Seasonal permits do not include rafting "put in" and "take out" rules which are governed under the applicable tribal rafting code.<fn path="|II|§483-2|footnotes|1">1</fn></text>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See <cite path="|II|268|I">Ch. 268, Art. I</cite>, Rafting.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-3</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|483">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CONCESSION LAND AREAS — Those areas of tribal land identified by the Tribal Community Development Department (Community Development) as subject to seasonal permits, designated by a minimum of three GPS points, with the total concession land area not to exceed 1/2 acre.</text>
+    <text>CONCESSION SITE(S) — See "concession land areas."</text>
+    <text>ELIGIBLE APPLICANT — A tribal member, age 21 or older, who meets the qualifications listed herein.</text>
+    <text>GPS POINTS — Coordinates determined through the Global Positioning System "GPS" space-based satellite navigation system by utilizing a GPS receiver.</text>
+    <text>LAW ENFORCEMENT OFFICER(S) — Any Menominee tribal police officer, Menominee tribal conservation warden, or any other person who has been granted tribal law enforcement authority by the Constitution and Bylaws of the Tribe and the Code of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>PERMITTEE — A tribal member who has received a seasonal permit as provided herein. PREMISES — Land described for use within the permit.</text>
+    <text>PUBLIC NUISANCE — Two types of acts shall be considered public nuisances:</text>
+    <para>
+      <num>A.</num>
+      <text>Illegal acts: felony or misdemeanor violations; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Objectionable conditions: disturbances of the peace, to include but not be limited to public drunkenness, harassment of passersby, gambling, prostitution; public urination, lewd conduct, drug trafficking or excess loud noise.</text>
+      <text>SEASON — Refers to a time of year from May 1 to September 30.</text>
+      <text>SEASONAL PERMIT — A permit issued by the Menominee Tribal Legislature to qualified applicants who meet the requirements listed herein.</text>
+      <text>SEASONAL PERMIT REGULATIONS (SPR) — The regulations which apply to seasonal permits which are listed herein.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-4</num>
+    <heading>Application regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applications. Community Development shall prepare an application for seasonal permits. These applications shall require tribal member name, enrollment number, age, address, area desired, concessions for sale, and a nonrefundable application fee of $25 payable to the Tribe. The applicant is required to obtain and submit certification forms from the Menominee Tribal Tax Commission and Menominee Tribal Loan Fund and any other departments included on the application checklist created by the Community Development Department. Eligible tribal members may apply for more than one area; provided, however, that only one area shall be assigned to any one tribal member. No more than four areas may be designated as concession sites: one site for the Dells, one site for Sullivan Falls, and two sites for Smokey Falls.</text>
+      <para>
+        <num>(1)</num>
+        <text>The application shall require a specific description of the location requested to be used in the seasonal permit.</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant must use a previous concession land area that has been mapped by Community Development and does not exceed 1/2 acre. The specific location must be acknowledged on the application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the applicant is requesting to place improvements on the site that is in an area not previously used for the concession stand, Historic Preservation and Community Development shall conduct a site evaluation; if cultural resources are found, the applicant shall be notified within five business days of the need to select a concession area approved for improvement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If cultural resources are found, an expanded evaluation of the site area shall be done in accordance with the cultural resource plan in <cite path="|II|293">Chapter 293</cite> of this Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Applicants shall be required to obtain all departmental certifications listed in the application checklist as part of the seasonal permit application. Applications submitted without these certifications shall be considered incomplete and will not be considered. It is the duty of each applicant to ensure they submit the required certifications and a completed application. A checklist will accompany the application to give guidance to applicants, but if a conflict exists between the administrative checklist and the Tribal Code, the Tribal Code shall have superseding authority.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Applications and checklists shall be created by Community Development. The application and checklist shall be approved by MTL motion and shall become effective after posting of five business days.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Application period. Applications shall be made available from December 15 and shall close on the last day of January of any given year. Applications shall be completed and returned to Community Development by the January closing date. No applications shall be accepted after the closing date. No applications shall be accepted which are incomplete or for which the application fee has not been paid.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Selection of seasonal permits.</text>
+      <para>
+        <num>(1)</num>
+        <text>Seasonal permits shall be subject to the tribal sealed bid process.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Community Development shall prepare a notice that seasonal permits shall be subject to the tribal sealed bid process.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Selection of the seasonal permits shall be reviewed by the Community Development Department and forwarded to the Tribal Legislature with results of the bid process by February 15 of any given year.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Tribal Legislature, at the first regular meeting of the Legislature after February 15, shall select one application for each concession area that is up for renewal. The selection is for a five-year lease with the awarded bid amount to be paid within five days of notification of selection. The chosen applicant shall be notified on the day following selection.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Minimum bid. The minimum bid for a seasonal permit for a concession area shall be a fee of $150 per season totaling a minimum five-year lease bid of $750.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-5</num>
+    <heading>Permit regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Fee. The permit fee will be calculated as $150 per season, plus any amount bid over that amount. The total bid amount shall be considered by the Legislature when a final selection is made for a seasonal permit; provided, however, that the bid amount shall not be the only consideration when a seasonal permit is awarded.</text>
+      <para>
+        <num>(1)</num>
+        <text>The total five-year seasonal permit fee shall be due and payable to the Tribe within five days of notification of selection.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Permittees may elect to pay five annual installments, with each installment totaling 1/5 of the bid amount plus an annual installment fee of $25. The annual payments shall be due the same day of the month as the first payment described in <cite path="§483-5">§ 483-5</cite>A(1).</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Succession. In the event that a chosen applicant is unable to pay the total seasonal permit fee on time or is otherwise unable to fulfill the terms of the seasonal permit, the Legislature shall have the option of selecting the next highest eligible bidder or rebidding within 15 calendar days. Permits are nontransferable and may not be assigned in full or in part.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Permit requirements. Community Development shall develop a seasonal permit which shall include, but not be limited to, the following provisions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Description of the land containing at least three GPS points;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Term of permit;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cost of permit that is due, and when it is due, who receives it, what form of payment is acceptable, and whether any late or reclamation charges or special fees apply;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>What performance bond and/or insurances requirements apply, if any;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A description of authorized uses of the premises;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>These specific terms and provisions for actions that shall result in a cancelation of the permit:</text>
+        <para>
+          <num>(a)</num>
+          <text>Fraud, misrepresentation or incorrect statement contained in the application for the seasonal permit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Fraud, misrepresentation or incorrect statement made in the course of carrying out business under the seasonal permit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any violation of <cite path="|II|483">Chapter 483</cite> of this Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any violation of <cite path="|II|287">Chapter 287</cite>, Conservation Code, <cite path="|II|325">Chapter 325</cite>, Fire Prevention, <cite path="|II|340">Chapter 340</cite>, Forest Management and Development, <cite path="|II|354">Chapter 354</cite>, Gravel, Sand and Fill Removal, <cite path="|II|490">Chapter 490</cite>, Settlement, <cite path="|II|495">Chapter 495</cite>, Sewers and Sewage Disposal, <cite path="|II|504">Chapter 504</cite>, Solid Waste, <cite path="|II|512">Chapter 512</cite>, Surface Water, <cite path="|II|523">Chapter 523</cite>, Trespassing, <cite path="|II|525">Chapter 525</cite>, Tribal Lands, and <cite path="|III|625">Chapter 625</cite>, Zoning.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The permittee utilizes any land outside the descriptive boundaries of the permit.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The permittee uses the premises for any other purpose than what was described in the permit.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The permittee makes permanent improvements on the premises.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The permittee uses or causes to be used the authorized premises for any unlawful conduct or purpose.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The permittee fails to comply with all applicable Menominee tribal laws.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The permittee fails to pay the required fee within the required time frame.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Conviction of any of the following crimes: theft, <cite path="§290-74">§ 290-74</cite>, embezzlement, <cite path="§290-75">§ 290-75</cite>, fraud, <cite path="§290-76">§ 290-76</cite>, forgery, <cite path="§290-75">§ 290-75</cite>, any violations from <cite path="|II|306">Chapter 306</cite>, fraud on hotel or restaurant keeper, <cite path="§374-8">§ 374-8</cite>, extortion, 120 Attachment 1, 25 CFR 11.48, and receiving stolen property, 120 Attachment 1, 25 CFR 11.47.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Conducting business in an unlawful manner or in such a manner as to constitute a public nuisance or to constitute a menace to the health, safety or general welfare of the public.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Generally describe the type and location of any improvements allowed to be added or constructed by the permittee;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Statement requiring removal of any structure and land to be restored to its original condition 10 days after end of permit term or cancellation of permit;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Requirements for solid waste disposal; requirements for chemical sanitary facilities (port-a-pots) and service;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Require compliance with tribal zoning laws and setback limits from the river's edge;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Nonassignment of permit clause;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Consent to abide by all tribal laws, policies, procedures, rules, and other relevant provisions;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>A provision stating that nothing contained in this lease shall operate to delay or prevent a termination of federal trust responsibilities with respect to the land by the issuance of a fee patent or otherwise during term of the lease; however, such termination shall not serve to abrogate the lease. The owners of the land and the permittee and his/her surety or sureties, if any, shall be notified of any such change in the status of the land;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Requirements for obtaining, maintaining and posting annual food handling permits per Tribal Code <cite path="|II|335">Chapter 335</cite>, Food Handling; and</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Any other terms or provisions the Tribe deems necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Improvements. Permittees may not make any improvements during the term of the permit except upon obtaining prior written approval from the Community Development Department, subject to tribal or applicable law.</text>
+      <para>
+        <num>(1)</num>
+        <text>Improvements must be of a removable nature. Permittees may not make permanent improvements to the land.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The permittee must remove any improvements placed on the premises within 10 days of the cancellation of their permit or end of permit term.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The permittee shall be responsible for the cost of the reclamation of the premises to restore it to original condition as may be determined, in writing, by the Tribe as being in the best interest of the Tribe. Any cost for reclamation will be charged back to the permittee.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the permittee does not remove improvements within 10 days, the improvements will become the property of the Tribe and the permittee will be charged a late charge at a rate of $25 per day from the date he or she received notice of cancellation or from the end of permit term until the improvements are removed.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Use of natural resources. The taking of tribal resources, including but not limited to merchantable timber, gravel, sand, fill, or topsoil of any kind, for one's personal use or to offer to sell any such resources which have been removed from within the exterior bounds of the Menominee Reservation, is expressly prohibited within the description of land in the permit. Clear cutting of any timber shall be expressly prohibited and will result in a seven-year ban from applying for seasonal permits under <cite path="|II|483">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Prohibited acts. In addition to any specific prohibitions mentioned elsewhere in <cite path="|II|483">this chapter</cite>, the following are prohibited acts of seasonal permit holders:</text>
+      <para>
+        <num>(1)</num>
+        <text>No permit holder shall cause, create, maintain or carry on activities that are defined as a public nuisance in <cite path="§483-3">§ 483-3</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No permit holder shall cause, create, maintain an unfit dwelling.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No permit holder shall violate any of the permit terms and provisions, or any other laws, policies, rules or regulations of the Tribe.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-6</num>
+    <heading>Sale of alcohol.</heading>
+    <para>
+      <num>A.</num>
+      <text>General. In the event that a permittee engages in the sale of alcohol, such permittee shall have a valid alcohol beverage license issued by Menominee County/Town and shall present proof of such license to the Licensing and Permit Department. A copy of the approved license shall be kept with the application and signed seasonal permit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Fee. Upon providing a copy of a valid alcohol beverage license to the Licensing and Permit Department, permittees shall be required to pay the fee $1,500. Failure to pay the fee at time of submissions, and selling alcohol without giving notice of license and paying of fee to the Tribe, shall result in the immediate termination of the permit.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Posting requirements. Any permittee who has a valid alcohol beverage license from Menominee County and who sells alcohol are required to post public notice of their license.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§483-7">
+    <prefix>§</prefix>
+    <num>483-7</num>
+    <heading>Cancellation of permit.</heading>
+    <para>
+      <num>A.</num>
+      <text>General. The Tribal Legislature reserves the right to cancel a seasonal permit by ordinance for failure to sign a permit, failure to pay permit fee, voluntary relinquishment of permit, for violation of the terms and provisions of the seasonal permit, failure to observe the mandates of the real estate policies and procedures (Hearth Act<fn path="|II|§483-7|footnotes|2">2</fn>), or violations of <cite path="|II|483">this chapter</cite>. See <cite path="§483-8">§ 483-8</cite> for specific procedures under this chapter.</text>
+      <para>
+        <num>(1)</num>
+        <text>Permit holders shall have the right to dispute permit violations and present their side during the public hearing portion of the ordinance process.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Deliberation and review of matters heard on the cancellation of the permit shall take place in executive session per Bylaw II, Section 1.(c)(5) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice of cancellation. Upon approval of the permit cancellation from the Tribal Legislature, personal service and notice of permit cancellation shall be attempted by Community Development no more than three times. Upon a third unsuccessful personal service attempt, a letter shall be sent by Community Development to the permittee at his/her last known address. Upon receipt of notice of cancelation of permit, the permittee shall vacate the concession site within 10 days. Service shall be deemed complete if no return mailing notification is received. See <cite path="§483-8">§ 483-8</cite> for specific procedures.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Voluntary relinquishment. If for any reason a permittee chooses to voluntarily relinquish his or her premises, he or she shall give written notice to the Community Development Department within five days of his or her relinquishment.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Commercial property. If the permittee shall acquire the fee ownership of any commercial property within the Menominee Indian Reservation, such acquisition shall constitute grounds for termination of the permit by voluntary relinquishment.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Emergency conditions. The Menominee Indian Tribe reserves the right to temporarily shut down premises and concessions of permit holders when the operation of the premises threatens the health, safety, and general welfare of the public.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Miscellaneous cancellation policies.</text>
+      <para>
+        <num>(1)</num>
+        <text>Any property, junk or public nuisance left behind by the lease/permit holder, that is removed from the property by the Tribe, may be sold by the Tribe with any funds received therefrom being used to pay or reimburse the Tribe for cleaning up the property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If there are any fees outstanding that are owed to the Tribe for cleanup fees, unpaid lease amounts, interest charges or late payment penalties due under the lease/permit, the person shall be placed on the Tribe's debtors' list.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Before a person can reapply or be approved for any future lease/permit with the Tribe, any all fees owed must be paid before any action can be taken on any future request.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: See 25 U.S.C. § 415 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-8</num>
+    <heading>Enforcement.</heading>
+    <text>The Tribe shall have all powers necessary and proper to enforce permit terms, laws, ordinances, regulations, rules, policies, and covenants.</text>
+    <para>
+      <num>A.</num>
+      <text>Determination of violation and notification. If Community Development determines, either through routine inspection, notification by law enforcement or upon investigation and verification of a written complaint to the department that the permit holder is in violation of the permit, Community Development shall notify the permit holder of said violation within a reasonable time. Notice shall be mailed to the permit holder's last known address.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Permit holder options. Within 30 days of notification of the violation, the permit holder shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cure the violation, and notify the Community Development Department, in writing, that the violation has been cured;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Dispute, in writing, the Community Development Department's determination that the permit has not been violated, and explain why the permit should not be cancelled; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Request additional time to cure the permit violation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure to cure. If the permit holder fails to cure the permit violation within the specified time period, the Community Development Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notify the permit holder that the permit is being cancelled, and forward the permit to legislature for cancellation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Grant an extension of time to cure the default; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pursue any other remedies which may be available.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cancellation and notification. When the Tribal Legislature grants a cancellation of a permit, the Community Development Department shall notify the permit holder of the cancellation. The notification shall be sent, in writing, to the permit holder's last known address. The letter shall contain the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Explain the grounds for cancellation of the permit;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify the permit holder of unpaid amounts, interest charges or late payment penalties that are due under the permit;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Order the permit holder to vacate the premises within 10 days; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notify the permit holder that all property of the permit holder must be removed and that the property must be left in good condition, free of junk and public nuisances, or the permit holder will be charged for reclamation costs and cleanup and disposal of any property, junk, or public nuisance left behind and of the requirements of <cite path="§483-5">§ 483-5</cite>D(3) and (4).</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Law enforcement officers. Menominee tribal police officers and Menominee tribal conservation wardens are authorized to enforce provisions of <cite path="|II|483">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Authority to enforce tribal laws for law enforcement officers follow from the Constitution and Bylaws of the Menominee Nation and Menominee Tribal Code, <cite path="|I|132">Chapter 132</cite>, Law Enforcement, Article I, <cite path="§132-3">§ 132-3</cite>, Authority of police officers, and Article VII, Empowerment of Conservation Wardens to Enforce Tribal Laws.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Additional remedies. Nothing in this section shall preclude permittees from being cited for their actions for other violations of Menominee tribal law. The civil remedies governed by this code are not mutually exclusive remedies of the Tribe for violation of its laws.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Nothing in <cite path="|II|483">this chapter</cite> shall restrict or curtail the right of the Tribe to prosecute or seek the criminal prosecution of any defendant or owner or to institute a civil action for damages in any court against a defendant or owner.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Emergency conditions. The Tribe has the right to shut down premises for emergency conditions when the public's health, safety, and welfare is at risk.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-9</num>
+    <heading>Severability.</heading>
+    <text>If any portion of <cite path="|II|483">this chapter</cite> is found to be unconstitutional or in violation of applicable federal law, the remainder of <cite path="|II|483">this chapter</cite> shall remain in effect.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>483-10</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|483">This chapter</cite> shall take effect upon final approval by the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

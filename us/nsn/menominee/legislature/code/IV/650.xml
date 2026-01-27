@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>650</num>
+  <heading>ECONOMIC AFFAIRS, COMMISSION ON</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 1-6-1994 by Ord. No. 93-29. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>650-1</num>
+    <heading>Name.</heading>
+    <text>This organization shall be known as the "Menominee Indian Tribe of Wisconsin Commission on Economic Affairs" ("Commission").</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>650-2</num>
+    <heading>Organization.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission shall consist of five individual Commissioners. At least three of the Commissioners shall be members of the Menominee Indian Tribe of Wisconsin ("Tribe"). None of the Commissioners, however, shall be members of the Tribal Legislature.</text>
+      <para>
+        <num>(1)</num>
+        <text>Qualifications. The Commissioners shall demonstrate a familiarity with financial institutions, education, marketing, business law, economic development, local business or other business-related activities. In addition to the foregoing, each Commissioner must have demonstrated a good, moral, honest and reputable character.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature shall appoint each of the five Commissioners and shall designate one Commissioner to serve as Chairperson. Commissioners shall have three-year staggered terms. The Commissioner designated as Chairperson shall serve a three-year term. One other Commissioner shall serve a three-year term, one shall serve a two-year term and two shall serve a one-year term. The length of the term of the initial Commissioners other than the Chairperson shall be determined by lot. <strong>[Amended 6-2-1994]</strong></text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Commissioners may be recalled from office, by a simple majority vote of a quorum of the Menominee Tribal Legislature, on grounds of dishonesty, incompetence, nonparticipation in Commission matters, or other conduct seriously detrimental to the interests of the Tribe or the Commission. The Commissioner in question shall be given at least 10 days' notice of any meeting in which his or her removal is to be considered, setting forth the alleged misconduct with specificity, and shall be given an opportunity to be heard at that meeting. If a Commissioner is recalled by the Tribal Legislature, the vacancy shall be filled in the manner provided in <cite path="§650-2|D">Subsection D</cite>. Actions of the Tribal Legislature recalling a Commissioner shall be final and not subject to judicial review.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Vacancies on the Commission shall be filled through appointment by the Tribal Chairperson with the concurrence of the Tribal Legislature and shall only be for the length of the unexpired term.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A majority of the Commission shall constitute a quorum for the transaction of business.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>An office of the Commission on Economic Affairs is established in tribal administration. The Commission shall hire a full-time paid Executive Director ("Director"), who shall be responsible for the day-to-day administration of the office of the Commission. The Director shall report directly to the Commission.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Director shall employ outside experts and consultants as needed under a budget recommended by the Commission and approved by the Tribal Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>650-3</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of the Commission is to assure orderly and informed consideration of business opportunities that may be available from time to time for the Tribe and to assist in the development of new businesses or expansion of existing businesses by the Tribe and by individual tribal members.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>650-4</num>
+    <heading>Duties.</heading>
+    <text>The Commission is assigned the following duties and such other duties involving economic matters as may be determined from time to time by the Tribal Legislature. The Commission shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Develop an annual budget, which shall include details of the compensation package for the Director, to be approved by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Develop and amend, from time to time, a comprehensive long-term economic plan to be approved by the Tribal Legislature. The long-term economic plan shall include the present Tribal Policy Statement on Investment Objectives and Policies, as revised effective May 27, 1992, with any amendments recommended by the Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Develop and amend, from time to time, a short-term economic plan, to be approved by the Tribal Legislature, to implement the goals and objectives of the long-term plan.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Develop and maintain reliable statistics needed for economic initiatives and conduct of tribal business.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Review and recommend action on proposals for tribal economic development on and off the Menominee Reservation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Provide assistance, as requested, in review of economic activities of existing tribal businesses.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Assist individual tribal members in the establishment of new businesses or the conduct of existing businesses on the Menominee Reservation.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Assist the Legislature, as requested, in coordination of tribal economic activities.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Develop and maintain up-to-date information on various forms of federal, state or other assistance available for economic development on Indian reservations and, upon request, make such information available to Menominee tribal and individual businesses.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Prepare periodic reports to the Tribal Legislature on the economy of the Menominee Reservation and the status of efforts to implement the long- and short- term economic plans for the Reservation.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Develop a small business loan program.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Prepare a report on the feasibility of creating a venture capital fund.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Develop a plan for attracting outside investments and business to the Reservation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§650-5">
+    <prefix>§</prefix>
+    <num>650-5</num>
+    <heading>Review of business investment proposals.<fn proof="needed" path="|IV|§650-5|footnotes|1">1</fn></heading>
+    <para>
+      <num>A.</num>
+      <text>Procedures.</text>
+      <para>
+        <num>(1)</num>
+        <text>All proposals for establishment of new tribal businesses, or the expansion of existing tribal businesses, or for the investment of tribal funds, by tribal members or third parties must be submitted to the Director, who will request appropriate information for processing. This will ordinarily include personal information on the individuals involved, including social security numbers, tax returns or other reliable financial data, business plans for the following three years (where appropriate), and such other data as the Director believes is needed to preliminarily screen the proposal to determine whether it is appropriate for serious consideration by the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Director examines the data supplied and makes a preliminary review of each proposal.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Director rejects any proposal that is disqualified under any of the standards set forth in <cite path="§650-5|B">Subsection B</cite> below.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>As to any proposal that is not disqualified, the Director prepares a report analyzing relevant factors for approval (see <cite path="§650-5|C">Subsection C</cite> below) assisted by outside experts, as needed.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Director submits his report to the Commission which then proceeds to evaluate the proposal (assisted by outside experts, as needed).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>After review, the Commission rejects any proposal it does not believe to be worthy of consideration by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>As to proposals that the Commission believes to be worthy of approval or serious consideration by the Tribal Legislature, the Commission negotiates and/or prepares a proposal suitable for submission to the Legislature for further action.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>In exceptional circumstances, with the approval of the Commission Chairperson, a proposal may be submitted by the Director simultaneously to the Commission and the Legislature for review and approval.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>After review the Legislature takes appropriate action on each proposal submitted to it. This may include, without limitation, approval of the proposal, approval with conditions, or rejection. If further negotiation is required, this will be conducted by the Commission, under direction of the Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Disqualifications. No proposal for business development or expansion or for investment of tribal funds shall be processed if it violates any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Financial and/or personal information is not supplied as requested (i.e., social security number, tax returns, business plan or other information requested by the Director).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The proposal violates applicable law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The proposal threatens the Reservation's environment and/or natural resources.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Basis of review. In reviewing proposals for the establishment or expansion of tribal businesses or investment of tribal funds, the Director, the Commission and the Tribal Legislature will consider the following factors and weigh them against the monetary risk involved for the Tribe in proceeding with the proposal:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether the proposed activity would provide job training.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether the proposal is likely to create jobs on the Reservation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether the business or investment proposed would potentially provide significant annual revenue for the Tribe.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Whether the business or investment proposed would potentially provide capital appreciation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Whether the proposal would enhance or protect the Reservation's environment and/or natural resources.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Whether the proposal would improve tribal infrastructure.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Whether the proposal would provide educational opportunities for tribal members.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Whether the proposal would provide housing for tribal members or otherwise enhance tribal living and/or health standards.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Whether the proposal would promote individual entrepreneurship and lead to the establishment or improvement of existing businesses owned by tribal members.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Whether the proposal would redirect expenditures by Reservation residents from off Reservation to on Reservation.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Section 4 of Ord. No. 93-29 provided as follows: "Procedures and standards for the review of business or investment proposals, set forth in Article V of the Charter, may be amended by the Commission with the approval by resolution of the Tribal Legislature."</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>650-6</num>
+    <heading>Initiation of new businesses and investments by Tribe.</heading>
+    <text>Upon request of the Tribal Legislature, the Commission will prepare proposals for the initiation of new businesses and investments by the Tribe to be submitted to the Legislature for approval under the standards set forth in <cite path="§650-5">§ 650-5</cite> above.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>650-7</num>
+    <heading>Dissolution.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission may dissolve and wind up its affairs at a meeting of all Commissioners upon the adoption of a resolution to dissolve by a vote of the majority of Commissioners then in office.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Distribution of assets. The assets of the Commission in the process of dissolution shall be applied firstly to all liabilities and obligations of the Commission and thereafter in accordance with provisions set forth in the bylaws.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Articles of dissolution. When all debts and obligations of the Commission have been paid and discharged and all remaining assets transferred as provided for herein, articles of dissolution, stating the Commission's name, a copy of the resolution of dissolution, a statement that all obligations have been discharged and all assets transferred, a statement that no suits are pending against all assets, and the names and addresses of the last Commissioners, shall be deposited by the Chairperson of the Commission with the office of the Tribal Chairperson, and upon the completion of such act the legal existence of the Commission shall be terminated. The Tribal Chairperson shall cause the above-mentioned deposited documents to be recorded and distributed to the Tribal Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

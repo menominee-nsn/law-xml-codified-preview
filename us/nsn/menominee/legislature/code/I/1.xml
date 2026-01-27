@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Use and Construction</heading>
+    <annotations>
+      <annotation type="History">Adopted at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>)</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>1-1</num>
+      <heading>Rules of construction.</heading>
+      <text>In the construction of this Code, the following rules shall be observed, unless such construction would be inconsistent with the manifest intent of the ordinance:</text>
+      <para>
+        <num>A.</num>
+        <text>Gender; singular and plural. Every word in this Code and in any ordinance using the masculine or feminine gender may extend and be applied to the other gender as well, and every word importing the singular number only may extend and be applied to several persons or things as well as to one person or thing, and every word importing a plural number may extend and be applied to one person or thing, provided that these rules of construction shall not be applied to any provision which shall contain any express language excluding such construction or when the subject matter or context of such provisions may be repugnant thereto.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Person. The word "person" extends and applies to natural persons, firms, corporations, associations, partnerships or bodies corporate or politic and all entities of any kind capable of being sued unless plainly inapplicable.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Acts by agents. When a provision requires an act to be done which may by law as well be done by any agent as by the principal, such provision shall be construed to include all such acts when done by an authorized agent.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Tense. Words used in the present tense include the future.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-2</num>
+      <heading>Conflicting provisions.</heading>
+      <text>If the provisions of the different chapters of this Code conflict with or contravene each other, the provisions of each chapter shall prevail as to all matters and questions arising out of the subject matter of such chapter.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Adoption of Code</heading>
+    <annotations>
+      <annotation type="History">Adopted 1-5-2012 by Ord. No. 11-32</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>1-3</num>
+      <heading>Adoption of Code.</heading>
+      <text>Pursuant to Bylaw II, § 2(h) of the Constitution and Bylaws, the ordinances of the Menominee Indian Tribe of a general and permanent nature adopted by the Legislature of the Menominee Indian Tribe, as revised, codified and consolidated into chapters and sections by General Code, and consisting of Chapters 1 through 740, together with an Appendix, are hereby approved, adopted, ordained and enacted as the Code of the Menominee Indian Tribe, hereinafter referred to as the "Code."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-4</num>
+      <heading>Code supersedes prior ordinances.</heading>
+      <text>This ordinance and the Code shall supersede all other general and permanent ordinances enacted prior to the enactment of this Code, except such ordinances as are hereinafter expressly saved from repeal or continued in force.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-5</num>
+      <heading>Continuation of existing provisions.</heading>
+      <text>The provisions of the Code, insofar as they are substantively the same as those of the ordinances in force immediately prior to the enactment of the Code by this ordinance, are intended as a continuation of such ordinances and not as new enactments, and the effectiveness of such provisions shall date from the date of adoption of the prior ordinances.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-6</num>
+      <heading>Copy of Code on file.</heading>
+      <text>A copy of the Code has been filed in the office of the Tribal Chairperson and shall remain there for use and examination by the public for at least two weeks and until final action is taken on this ordinance, and, if this ordinance shall be adopted, such copy shall be certified to by the Chairperson, and such certified copy shall remain on file in the office of said Chairperson to be made available to persons desiring to examine the same during all times while said Code is in effect.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-7</num>
+      <heading>Amendments to Code.</heading>
+      <text>Any and all additions, deletions, amendments or supplements to the Code, when adopted in such form as to indicate the intention of the Legislature to make them a part thereof, shall be deemed to be incorporated into such Code so that reference to the "Code of the Menominee Indian Tribe" shall be understood and intended to include such additions, deletions, amendments or supplements. Whenever such additions, deletions, amendments or supplements to the Code shall be adopted, they shall thereafter be inserted in the Code as amendments and supplements thereto.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-8</num>
+      <heading>Publication; filing.</heading>
+      <text>The Chairperson shall cause to be published, in the manner required by law, a notice of the adoption of this ordinance. Sufficient copies of the Code shall be maintained in the office of the Chairperson for inspection by the public at all times during regular office hours. The publication of notice of the enactment of this ordinance, coupled with the availability of a copy of the Code for inspection by the public, shall be deemed, held and considered to be due and legal publication of all provisions of the Code for all purposes.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-9</num>
+      <heading>Code to be kept up-to-date.</heading>
+      <text>It shall be the duty of the Chairperson, or someone authorized and directed by the Chairperson, to keep up-to-date the certified copy of the Code required to be filed in the Chairperson's office for use by the public. All changes in said Code and all ordinances adopted subsequent to the effective date of this codification which shall be adopted specifically as part of the Code shall, when finally adopted, be included therein by reference until such changes or new ordinances are included as supplements to said Code book.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-10</num>
+      <heading>Sale of Code.</heading>
+      <text>Copies of the Code, or any chapter or portion of it, may be purchased from the Chairperson or an authorized agent of the Chairperson upon the payment of a fee to be set by the Legislature. The Chairperson may also arrange for procedures for the periodic supplementation of the Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-11</num>
+      <heading>Altering or tampering with Code; penalties for violation.</heading>
+      <text>It shall be unlawful for anyone to improperly change or amend, by additions or deletions, any part or portion of the Code or to alter or tamper with such Code in any manner whatsoever which will cause the law of the Menominee Indian Tribe to be misrepresented thereby. Anyone violating this section or any part of this ordinance shall be subject, upon conviction, to a fine of not more than $500.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-12</num>
+      <heading>Severability of Code provisions.</heading>
+      <text>Each section of the Code and every part of each section is an independent section or part of a section, and the holding of any section or a part thereof to be unconstitutional, void or ineffective for any cause shall not be deemed to affect the validity or constitutionality of any other sections or parts thereof. If any provision of this Code or the application thereof to any person or circumstances is held invalid, the remainder of this Code and the application of such provision to other persons or circumstances shall not be affected thereby.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-13</num>
+      <heading>Severability of ordinance provisions.</heading>
+      <text>Each section of this ordinance is an independent section, and the holding of any section or part thereof to be unconstitutional, void or ineffective for any cause shall not be deemed to affect the validity or constitutionality of any other sections or parts thereof.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-14</num>
+      <heading>Repealer.</heading>
+      <text>All ordinances or parts of ordinances of a general and permanent nature adopted and in force on the date of the adoption of this ordinance and not contained in the Code are hereby repealed as of the effective date of this Adoption Ordinance, except as hereinafter provided.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-15</num>
+      <heading>Ordinances saved from repeal.</heading>
+      <text>The adoption of this Code and the repeal of ordinances provided for in <cite path="§1-14">§ 1-14</cite> of this ordinance shall not affect the following ordinances, rights and obligations, which are hereby expressly saved from repeal:</text>
+      <para>
+        <num>A.</num>
+        <text>Any ordinance adopted subsequent to November 4, 2010.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any right or liability established, accrued or incurred under any legislative provision prior to the effective date of this ordinance or any action or proceeding brought for the enforcement of such right or liability.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any offense or act committed or done before the effective date of this ordinance in violation of any legislative provision or any penalty, punishment or forfeiture which may result therefrom.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any prosecution, indictment, action, suit or other proceeding pending or any judgment rendered prior to the effective date of this ordinance brought pursuant to any legislative provision.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any franchise, license, right, easement or privilege heretofore granted or conferred.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any ordinance providing for the laying out, opening, altering, widening, relocating, straightening, establishing grade, changing name, improvement, acceptance or vacation of any right-of-way, easement, street, road, highway, park or other public place or any portion thereof.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any ordinance appropriating money or transferring funds, promising or guaranteeing the payment of money or authorizing the issuance and delivery of any bond or other instruments or evidence of the Tribe's indebtedness.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Ordinances authorizing the purchase, sale, lease or transfer of property or any lawful contract or obligation.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The levy or imposition of taxes, assessments or charges.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>The annexation or dedication of property or approval of preliminary or final subdivision plats.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Ordinances providing for local improvements or assessing taxes or special assessments therefor.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>All currently effective ordinances pertaining to the rate and manner of payment of salaries and compensation of officers and employees.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Any legislation relating to or establishing a pension plan or pension fund for tribal employees.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Any ordinances adopting or amending a Zoning Map or otherwise rezoning property.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>The following ordinances and any amendments thereto: Menominee Enterprises Plan (Ordinance Nos. 79-12, 79-17 and 93-5); Comprehensive Land Use and Natural Resource Plan (Ordinance No. 83-5); Personnel Policies and Procedures Manual (Ordinance No. 83-6); Hazardous Waste Management Regulations (Ordinance No. 87-27); Detention Facility Policies and Procedures Manual (Ordinance No. 89-21); Hazardous Waste (Ordinance No. 92-14); Classification and Compensation Guideline (Ordinance No. 00-07); and Fuel Regulations (Ordinance No. 05-35).</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Any ordinance or portion of an ordinance establishing a specific fee amount for any license, permit or service obtained from the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§1-16">
+      <prefix>§</prefix>
+      <num>1-16</num>
+      <heading>Changes in previously adopted legislation; new provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>In compiling and preparing the ordinances for publication as the Code of the Menominee Indian Tribe, no changes in the meaning or intent of such ordinances have been made, except as provided for in <cite path="§1-16|B">Subsection B</cite> hereof. Certain grammatical changes and other minor nonsubstantive changes were made in one or more of said pieces of legislation. It is the intention of the Legislature that all such changes be adopted as part of the Code as if the ordinances had been previously formally amended to read as such.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The amendments and/or additions as set forth in Schedule A<fn path="|I|§1-16|footnotes|1">1</fn> attached hereto and made a part hereof are made herewith, to become effective upon the effective date of this ordinance. (Chapter and section number references are to the ordinances as they have been renumbered and appear in the Code.)</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: In accordance with <cite path="§1-16|B">§ 1-16B</cite>, the chapters, parts and sections which were added, amended, adopted or deleted by this ordinance are indicated throughout the Code by a footnote referring to <cite path="|I|1">Chapter 1</cite>, General Provisions, Article II. During routine supplementation, footnotes indicating amendments, additions or deletions will be replaced with the following history: "Amended (added, deleted) 1-5-2012 by Ord. No. 11-32." Schedule A, which contains a complete description of all changes, is on file at the office of the Tribal Chairperson.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-17</num>
+      <heading>Incorporation of provisions into Code.</heading>
+      <text>The provisions of this ordinance are hereby made Article II of <cite path="|I|1">Chapter 1 of the Code of the Menominee Indian Tribe</cite>, such ordinance to be titled "General Provisions, Article II, Adoption of Code," and the sections of this ordinance shall be numbered §<cite path="§1-3">§ 1-3</cite> to 1-18, inclusive.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>1-18</num>
+      <heading>When effective.</heading>
+      <text>This ordinance shall take effect on February 9, 2012, so as to coincide with the start of the new legislative year.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

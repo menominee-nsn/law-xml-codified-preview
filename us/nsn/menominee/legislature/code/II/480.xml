@@ -1,0 +1,1437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|480">
+  <prefix>Chapter</prefix>
+  <num>480</num>
+  <heading>RENTAL HOUSING AND EVICTION CODE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-20-2018 by Ord. No. 18-35. Amendments noted where applicable</annotation>
+    <annotation type="General References">Judiciary and Law and Order Code — See <cite path="|I|120">Ch. 120</cite>, Part 1</annotation>
+    <annotation type="General References">Trespassing — See <cite path="|II|523">Ch. 523</cite>.</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-1</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>This Code shall hereinafter be referred to as the "Rental Housing and Eviction Code." It shall apply to any and all arrangements, formal or informal, written or agreed to orally or by the practice of the parties, in renting, leasing, occupying, rent to own, or using any and all housing dwellings, or accommodations for human occupation and residence.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The following arrangements are not governed by this Code:</text>
+        <para>
+          <num>(1)</num>
+          <text>Residence at an institution, public or private, if incidental to detention or the provision of medical, geriatric, educational, counseling, religious or similar service-oriented facilities; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Transient occupancy in a hotel, motel or other commercial lodging.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-2</num>
+      <heading>Jurisdiction.</heading>
+      <para>
+        <num>A.</num>
+        <text>Jurisdiction is extended over all buildings and lands intended for human dwelling, occupation or residence which may lie within:</text>
+        <para>
+          <num>(1)</num>
+          <text>The exterior boundaries of the Tribal Reservation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lands owned by, held in trust for, leased or used by the Tribe, its members, its Housing Department, or any other entity of the Tribe; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Indian Country of the Tribe, as may be defined from time to time by the laws of the Tribe or of the United States.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Jurisdiction is extended over all persons or entities within the jurisdiction of the Tribe who rent, lease, or allow persons to occupy housing, dwellings, or accommodations for the purpose of human dwelling, occupation, or residence, and all persons who rent, rent to own, lease, or occupy such structures. Such personal jurisdiction is extended over all persons and entities, whether or not they are members of the Tribe, whether they are Indian or non-Indian, and whether they have a place of business within the Tribal Reservation. Any act within the Reservation dealing with the subject matter of this Code shall be subject to the jurisdiction of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-3</num>
+      <heading>Purposes and interpretation.</heading>
+      <text>This Code shall be liberally interpreted and construed to fulfill the following purposes:</text>
+      <para>
+        <num>A.</num>
+        <text>To simplify, clarify, modernize, and revise the law governing the occupation of dwelling units and accommodations, as well as the rights, obligations, and remedies of the owners, sellers, lessors, landlords, lessees, tenants, and occupiers of such structures;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To preserve and ensure the peace, harmony, safety, health and general welfare of the people of the Tribe and those permitted to enter or reside on the Reservation;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>To protect the general welfare of the public, tribal housing, private landlords, and tenants by providing eviction procedures under <cite path="|II|480">this chapter</cite> where evictions are a necessary action to be taken;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>To encourage landlords and tenants to use the procedures established under this Code to provide a transparent mechanism and forum to resolve housing disputes;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>To strictly apply specific provisions of this Code as necessary in order to obtain federal, state, tribal or private funding for tribal housing programs.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-4</num>
+      <heading>Relation to other laws.</heading>
+      <para>
+        <num>A.</num>
+        <text>Applicable law. Unless affected or displaced by this Code, principles of law and equity in the common law of the Tribe and tribal customs and traditions are applicable, and the general principles of law of any other Tribe or any other state may be used as a guide to supplement and interpret this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Conflicts with other laws.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal laws. To the extent that this Code may conflict with Menominee tribal laws which have been enacted to comply with statutes or regulations of any agency of the United States, such tribal law may govern over the provisions of this Code if it has specific applicability and it is clearly in conflict with the provisions of this Code.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Federal laws. Where a conflict may appear between this Code and any statutes, regulation, or agreement of the United States, the federal law may govern if it has specific applicability and it is clearly in conflict with the provisions of this Code.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>State laws. To the extent that the laws of any state may be applicable to the subject matter of this Code, such laws shall be read to be advisory and not directly binding and shall not govern the relations of the parties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-5</num>
+      <heading>Definitions.</heading>
+      <text>As used in this Code, the following terms shall have the meanings as indicated below:</text>
+      <text>ACTION, SUIT OR LAWSUIT, CLAIM, COMPLAINT OR DEFENSE — Is any dispute between</text>
+      <text>persons or entities which relates to the sale, rental, lease, use or occupancy of any housing, dwelling, or accommodation for human occupancy, including claims for the payment of monies for such housing, dwellings or accommodations, damages to such units, including the right to occupy them.</text>
+      <text>ADULT — Is any person 18 years of age or older.</text>
+      <text>BUILDING OR HOUSING LAWS — Is any law or governmental regulation of the Tribe or an agency of the United States which deals with fitness for habitation, health conditions, or the safety, construction, maintenance, operation, occupancy, use, or appearance of any dwelling unit. Where appropriate to the situation, standard or recognized building standards or codes may be applied as building or housing codes.</text>
+      <text>DRUG-RELATED CRIMINAL ACTIVITY — Is the illegal manufacture, sale, distribution, use or possession with intent to manufacture, sell, distribute, or use, of a controlled substance as defined in Menominee Tribal Law Controlled Substances Act § 306, Section 102 of the Controlled Substance Act (21 U.S.C. § 802), as amended, or other applicable federal requirements.</text>
+      <text>DWELLING OR DWELLING UNIT — Is a structure or part of a structure that is used as a home, residence, or sleeping place by any person who maintains a household and is not for purposes of this Code any public transient accommodation, such as a hotel room.</text>
+      <text>GUEST — Is any person, other than the tenant, in or around a dwelling unit with the permission and consent of the tenant.</text>
+      <text>INDIAN — Is any person recognized as being an Indian or Alaska Native by any tribe, or by the government of the United States.</text>
+      <text>INDIAN COUNTRY, THE TERRITORIAL JURISDICTION, OR THE JURISDICTION OF THE TRIBE — Is all lands owned by, held in trust for, leased, occupied, or otherwise controlled by the Tribe, as well as any such ownership or use by an entity of the Tribe; and those terms shall include any and all areas which may constitute Indian Country of the Tribe under applicable provisions of its laws or the laws of the United States.</text>
+      <text>LANDLORD — Is any person or entity or any agency of government that is the owner, lessor, or sublessor of a dwelling unit, and it also means a manager of any such dwelling unit, as well as the Housing Department for purposes of low-rent or existing housing programs.</text>
+      <text>LESSEE — Is a tenant of a dwelling unit, user and/or occupier of real property. The lessee maybe the Menominee Housing Department for purposes of this Code.</text>
+      <text>LESSOR — Is the legal, beneficial, or equitable owner of property under a lease. Lessor may also include the heir(s), successor(s), executor(s), administrator or assign(s) of the lessor.</text>
+      <text>MOBILE HOME — Is a structure designed for human habitation and for being moved on a street or highway. Mobile home includes prefab, modular and manufactured homes. Mobile home does not include a recreational vehicle or a commercial coach.</text>
+      <text>NUISANCE — Is the maintenance or allowance on real property of a condition which one has the ability to control and which unreasonably threatens the health or safety of the public or neighboring land users or unreasonably and substantially interferes with the ability of neighboring property users to enjoy the reasonable use and occupancy of their property.</text>
+      <text>OWNER — Is any person or entity jointly or individually having legal title to all or part of land or a dwelling, including the legal right to own, manage, use, or control a dwelling unit under a mortgage, long-term lease, or any other security arrangement.</text>
+      <text>PERSON — May include the Tribe, Housing Department, an individual or organization, and where the meaning of a portion of this Code requires, it means a public agency, corporation, partnership, or any other entity.</text>
+      <text>PREMISES — Is a dwelling unit and the structure of which it is a part, and all facilities and areas connected with it, including grounds, common areas, and facilities intended for the use of tenants or the use of which is promised for tenants.</text>
+      <text>RENT — Is all periodic payments to be made to a landlord or lessor under a rental agreement.</text>
+      <text>RENTAL AGREEMENT — Is a written or oral agreement between two parties, as well as valid rules and regulations regarding the tenants and conditions of the use and occupancy of real property, dwelling unit, building, or premises.</text>
+      <text>RENTAL PREMISES — Is the property and improvements subject to a rental agreement. RESERVATION — Is the Menominee Indian Tribe of Wisconsin Reservation.</text>
+      <text>SHALL — Is defined as mandatory or must.</text>
+      <text>TENANT — Is the lessee(s), sublessee(s), or person(s) entitled under a rental agreement to occupy a dwelling unit to the exclusion of others.</text>
+      <text>TRIBAL COURT — Is the Court as established by the laws of this Tribe or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a Court of law.</text>
+      <text>TRIBE — Is the Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Landlord/Tenant Responsibilities and Remedies</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-6</num>
+      <heading>Sources of rights, obligations, and remedies.</heading>
+      <text>The rights, obligations, and remedies of landlords and tenants, as defined in this Code, are contained in:</text>
+      <para>
+        <num>A.</num>
+        <text>The laws of the Tribe;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Applicable statutes, regulations and agreements with agencies of the United States;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A lease or other agreements with occupiers of dwellings;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Menominee Tribal Law, <cite path="|I|138">Chapter 138</cite>, Leases and Mortgages Code.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Other laws which are made applicable through provisions of this Code; or</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Contracts with private agencies.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-7</num>
+      <heading>Effect of any agreement regarding dwellings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Unless an agreement or an applicable provision of the agreement is clearly contrary to this Code or the laws identified in <cite path="§480-6">§ 480-6</cite>, Sources of rights, obligations, and remedies, or <cite path="§480-4">§ 480-4</cite>, Relation to other laws, the agreement or provision will govern the rights and obligations of any party before the Tribal Court, and the Tribal Court must grant the relief provided for in the agreement according to its terms.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Where there is no written agreement, the intent of the parties expressed in their oral agreement or relationship will govern, as well as applicable provisions of this Code.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Terms prohibited in rental agreements. No rental agreement shall provide that the tenant agrees to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Waive or forfeit their rights or remedies under this Code or any other applicable laws as identified in <cite path="§480-4">§ 480-4</cite>, Relation to other laws;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To exculpate or limit the liability of the landlord or to indemnify the landlord for that liability or the costs connected therewith;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To permit the landlord to dispossess them without resort to court order;</text>
+        <para>
+          <num>(4)</num>
+          <text>To pay a late charge prior to the expiration of the grace period set forth in <cite path="§480-18">§ 480-18</cite>, Grounds for evictions, <cite path="§480-7|A">Subsection A</cite>. A provision prohibited by <cite path="§480-7|(3)|(4)">this subsection</cite> shall be unenforceable.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Adverse possession by or against the tribe or its political subdivisions is prohibited. No title to or interest in real property belonging to the Tribe or any tribal department or organization of the tribal government may be obtained by adverse possession.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Term of tenancy. In the absence of a definite term in the rental agreement, the tenancy shall be month to month.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Payment of rent. In the absence of definite terms in the rental agreement, rent is payable at the landlord's office (if known) or at the dwelling unit. In the absence of definite terms, the amount of rent shall be the fair market value of the rental unit.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Covenant of landlord and tenant not to knowingly allow unlawful activities.</text>
+        <para>
+          <num>(1)</num>
+          <text>In every rental agreement, the landlord and the tenant covenant that neither will:</text>
+          <para>
+            <num>(a)</num>
+            <text>Unlawfully allow controlled substances in those premises or in the common area and curtilage of the premises; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Allow prostitution or prostitution-related activities to occur on the premises or in the common area and curtilage of the premises; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Allow unlawful use or possession of a firearm in violation of Menominee Tribal Law, <cite path="|II|321">Chapter 321</cite>, Firearms, or applicable federal law, on the premises or in the common area and curtilage of the premises; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Allow stolen property or property obtained by robbery in those premises or in the common area and curtilage of the premises.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Breach voids right to possession. A breach of the covenant in <cite path="§480-7|F.|(2)">this subsection</cite> voids the tenant's right to possession of the residential premises. All other provisions of the rental agreement, including but not limited to the obligation to pay rent, remain in effect until the rental agreement is terminated by the terms of the agreement or operation of law. If the tenant breaches the covenant the landlord has the right to bring an eviction action against the tenant.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The parties to a lease may not waive or modify the covenant required by <cite path="§480-7|F.|(3)">this subsection</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-8</num>
+      <heading>Rules and regulations.</heading>
+      <para>
+        <num>A.</num>
+        <text>As the owner of the premises, only the landlord may promulgate reasonable rules and regulations regarding the use and occupancy of the dwelling unit.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Such rules and regulations are enforceable against the tenant only if:</text>
+        <para>
+          <num>(1)</num>
+          <text>The purpose is to promote the convenience, safety or welfare of the tenants in the premises, preserve the landlord's property from abusive use or make a fair distribution of services and facilities held out for all the tenants generally;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The rules and regulations are reasonably related to the purpose for which they are adopted;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The rules and regulations apply to all tenants in the premises in a fair manner;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The rules and regulations are sufficiently explicit in their prohibition, direction or limitation of the tenant's conduct to fairly inform him of what he shall or shall not do to comply; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The tenant has notice of the rules and regulations at the time s/he enters into the rental agreement or when they are adopted.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A rule adopted or amended after a tenant initially enters into a rental agreement may be enforced against that tenant only if the new or amended rule is reasonable, the tenant has notice of the rule, and the rule is not a substantial modification of the original agreement. Substantial modification is defined to mean any change in a rule which results in one or more of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Significantly diminishes or eliminates any material obligation of the owner; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Significantly diminishes or eliminates any material right, privilege, or freedom of action of a tenant; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Involves a significant new expense for a tenant.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If a rule or regulation that would result in a substantial modification of the terms of the rental agreement is adopted after the tenant enters into the rental agreement, such rule or regulation is not valid unless the tenant consents to such rule or regulation in writing. If the tenant does not agree to the rule in writing, the landlord shall have cause for an eviction pursuant to <cite path="§480-17">§ 480-17</cite> Notice to terminate tenancy, <cite path="§480-18">§ 480-18</cite>, Grounds for evictions, and <cite path="§480-19">§ 480-19</cite> Notice to quit process. For all new or amended rules that are reasonable, the landlord shall provide notice to the tenant 60 calendar days before the rule is effective.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-9</num>
+      <heading>Landlord responsibilities and obligations.</heading>
+      <text>Except as otherwise fairly and reasonably provided in a rental agreement, each landlord subject to the provisions of this Code shall:</text>
+      <para>
+        <num>A.</num>
+        <text>Maintain the dwelling unit in a decent, safe, and sanitary condition.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Comply with applicable building and housing codes.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Make all necessary repairs to put and maintain the premises in a fit and habitable condition, except where the premises are intentionally rendered unfit or uninhabitable by the tenant or their guest, in which case such duty shall be the responsibility of the tenant.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Keep common areas clean, safe, and secure.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Ensure tenant access to the dwelling unit.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Maintain in good condition and safe working order all electrical, plumbing, sanitary, heating, ventilating, air-conditioning, and other facilities and appliances, where such things are not the responsibility of the tenant or are generated by an installation within the exclusive control of the tenant.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Provide and maintain proper and appropriate receptacles and facilities for the disposal of ashes, garbage, rubbish, and other waste.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Provide running water, hot water, and heat in accordance with applicable building and housing codes, except to the extent the tenant is required to provide such for himself.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Guarantee the right of quiet enjoyment of the dwelling unit to the tenant and insure that the conduct of other tenants, their guests, and other persons on the premises does not cause a nuisance, endangerment of public health and safety, breach of peace, or interference with the quiet enjoyment of the tenant.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Give sole possession of the dwelling unit to the tenant in accordance with the rental agreement and refrain from:</text>
+        <para>
+          <num>(1)</num>
+          <text>Entering the unit, except as authorized in <cite path="§480-12">§ 480-12</cite>, Tenant responsibilities and obligations, Subsection K;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Making repeated demands for entry otherwise lawful under <cite path="§480-12">§ 480-12</cite>, Tenant responsibilities and obligations, <cite path="§480-9|K">Subsection K</cite>, but which have the effect of unreasonably harassing the tenant;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Sexually harassing or physically assaulting the tenant in or around the tenant's dwelling unit; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Locking the tenant out of the tenant's dwelling unit without the tenant's consent.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Disclose, in writing, the name, address, and telephone number of the person responsible for receiving rent, notices and demands under this Code, the person authorized to manage the dwelling unit, the owner of the premises or their agent, and the person responsible for making repairs, where they are required.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§480-10">
+      <prefix>§</prefix>
+      <num>480-10</num>
+      <heading>Landlord rights.</heading>
+      <text>Each landlord under this Code has the following rights:</text>
+      <para>
+        <num>A.</num>
+        <text>To be paid any rent or money due under an agreement within 10 business days from the agreed date of payment, or within 10 business days following the first day of the month in a month-to-month agreement for dwelling occupancy. Rent is payable without demand or notice at the time and place agreed upon by the parties. In the absence of a definite term in the agreement, the tenancy is month to month, and if not stated in the agreement, the amount of rent shall be the fair rental value of the rental unit, as compared to similar rental units. In the absence of a written agreement, the tenancy shall be month to month, and the rent, if not otherwise evident from the situation, shall be the fair market rental value of the unit, as compared to similar rental units. Fair market rental value is the estimated amount of money a property with a certain number of bedrooms, in a certain area of the country, will rent for and includes a gross rent of base rent, as well as any essential utilities that the tenant would be responsible for paying, such as gas or electric. It does not include nonessential utilities such as telephone, television or Internet. Fair market rental values are established by the U.S. Department of Housing and Urban Development (HUD) each year and may be utilized as a guideline.<fn path="|II|§480-10|footnotes|1">1</fn></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To adopt reasonable rules and regulations for the use and occupancy of a dwelling which are designed to promote the convenience, safety, and welfare of all occupants.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>To have access to the dwelling for maintenance, repairs, decorations, alterations, or improvements to inspect the premises, to supply necessary or agreed services, show the dwelling to prospective buyers or tenants, or to otherwise have reasonable access to the premises. Such access must be at reasonable times when the tenant is present, and upon a notice of at least 24 hours, except in situations involving an emergency, or where the tenant consents. No tenant who unreasonably denies access to a landlord for these purposes may pursue an action or grievance maintaining that any services or repairs were not provided.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>To require that the tenant comply with tribal laws or regulations regarding housing, health, safety, or public order, keep the premises reasonably clean and safe, dispose of all ashes, garbage, rubbish, and waste in a clean and safe manner, keep the premises and its parts in good repair, reasonably use all electrical, plumbing, sanitary, heating, ventilating, air-conditioning or other facilities and appliances. Require the tenant to conduct themselves and require others on the premises to conduct themselves in a way that will not disturb the peaceful enjoyment of others or abuse property, use all parts of the premises in a way they were intended or designed, and refrain from destroying, defacing, damaging, or removing any part of the premises, or allow any other to do so.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Where a dwelling has been abandoned (the tenant has vacated without notice and does not intend to return which is evidenced by removal of possessions, nonpayment of rent, disconnected utilities, or expressed to the landlord or third party) a landlord, without further notice to the tenant may post a notice on the dwelling stating that the landlord intends to take possession and that the tenant's possessions will be inventoried and removed within 10 business days from the posting. If the tenant's possessions are not claimed within 30 calendar days from their removal from the abandoned dwelling, the landlord may dispose of the possessions and document such actions in the tenant's file.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>To file an action in Tribal Court as authorized by applicable laws in order to enforce landlord rights under this Code.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Note: See https://www.huduser.gov/portal/datasets/fmr/fmrs/FY2018_code/select_geography_sa.odn, as annually amended.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-11</num>
+      <heading>Landlord remedies.</heading>
+      <text>Where a tenant has not complied with this Code or the agreement of the parties, the landlord has the right to:</text>
+      <para>
+        <num>A.</num>
+        <text>Give reasonable notice to the tenant to comply with their obligations, pay any monies due and owing under the agreement of the parties, or the landlord has the right to terminate the agreement under which the tenant occupies the premises, and demand that they and those with them leave the premises.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Require maintenance or repairs which are the responsibility of the tenant and compliance with reasonable rules and regulations for occupancy.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Seek a Court order or judgment for the payment of monies or costs, for compliance with the agreements and obligations of tenants, for termination of an agreement, payment of damages, eviction of tenants, or any other relief to which he may be entitled by law or the agreement of the parties.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-12</num>
+      <heading>Tenant responsibilities and obligations.</heading>
+      <text>Except as otherwise fairly and reasonably provided in a rental agreement, every tenant under this Code shall have the following responsibilities and obligations:</text>
+      <para>
+        <num>A.</num>
+        <text>To pay rent, purchase payments, costs, fees, or damages in accordance with the agreement of the parties, this Code, and applicable law.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To immediately notify the landlord of any defects in the premises hazardous to life, health, or safety.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>To maintain the premises in a safe and clean manner, and to otherwise maintain the premises as may be required by agreement or this Code, and conduct themselves in using the premises and common areas in a way which does not disturb the quiet enjoyment of others or cause a breach of the peace. These obligations include the duty to require that those who occupy or use the premises as guests or by invitation conduct themselves in a similar way.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>To not give up the premises to others, assign a lease agreement, sublease, provide accommodations for boarders, lodgers, or others who are not parties to the agreement over the premises without the permission of the landlord.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>To use the premises only for a personal and private dwelling as agreed, and not to use or permit its use for any other purpose, including refraining from illegal conduct or any other activity that is contrary to written which may harm the physical or social environment of the premises or the area around it.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>To abide by necessary and reasonable rules and regulations made by the landlord that have been communicated to the tenant.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>To dispose of all ashes, garbage, rubbish and other waste, as well as junk, abandoned vehicles, or other unnecessary items, in a proper, sanitary, and safe manner.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>To use all electrical, plumbing, sanitary, heating, ventilating, air-conditioning, and other facilities and appliances that are part of the premises, and the property of the landlord, in a proper, safe, sanitary, and reasonable manner.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>To refrain from destroying, defacing, damaging, or removing any part of the premises or common tenant areas, and to require family members and guests to act in like manner.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>To pay reasonable charges (other than for wear and tear) for the repair of damages to the premises or common areas caused by the tenant, their household or guests, or to make repairs for such damages where that is the obligation of the tenant, all within 30 calendar days of such damage, except as otherwise agreed upon by the parties.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>To provide the landlord access to the dwelling unit to perform maintenance and repairs, inspect the premises, supply necessary or agreed-upon services, or show the dwelling unit to prospective buyers or tenants, provided that such access shall be at reasonable times when the tenant is present, and upon reasonable written or verbal notice from the landlord, except in emergency situations where the health, safety or welfare of the tenant or the tenant's neighbor is in immediate danger or where the tenant consents. No tenant who unreasonably denies access to a landlord for these purposes may pursue an action or grievance on the grounds that any services or repairs were not provided.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>To conduct themselves and cause other persons to conduct themselves in a way that will not disturb or injure neighbors, and in a way that will keep the dwelling and common areas in a decent, safe, and sanitary condition.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>To perform seasonal maintenance or other maintenance reasonably required by the agreement of the tenant or the reasonable rules and regulations of the landlord.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-13</num>
+      <heading>Tenant rights.</heading>
+      <text>Each tenant under this Code shall have the following rights:</text>
+      <para>
+        <num>A.</num>
+        <text>To quiet enjoyment of the premises and protection of that right by the landlord against offending persons or things under the landlord's control.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To a warranty of habitability that the premises are decent, safe, sanitary and suitable for human occupancy.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Receipt of reasonable notice, as provided by this Code, for compliance with the agreement of the tenant, termination of an agreement, or eviction.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>To landlord compliance with applicable building or housing Codes.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>To a reasonable and effective means of dealing with the landlord or agents, making complaints regarding the premises or agreement, and having them resolved in a reasonable manner, and otherwise having an effective opportunity to be heard and fairly treated.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>To adequate and timely maintenance and repair of those premises, facilities, and appliances which are obligations of the landlord.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>To file an action in Tribal Court for purposes of enforcing rights and duties established by the Menominee Tribal Constitution as authorized under Article XVII, Section 2, Suits Against the Tribe in Tribal Courts By Persons Subject to Tribal Jurisdiction, in order to enforce the tenant's rights under this Code.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-14</num>
+      <heading>Tenant remedies.</heading>
+      <text>Where a landlord has not complied with this Code or the agreement of the parties, the tenant has the following remedies:</text>
+      <para>
+        <num>A.</num>
+        <text>To give reasonable notice to the landlord in writing to comply with obligations, demand repairs which are the responsibility of the landlord, or terminate the agreement under which the tenant occupies the premises, in accordance with procedures outlined in this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To require repairs or maintenance which are the responsibility of the landlord.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Should the landlord fail to make repairs, as duly noticed by the tenant, within a reasonable time, the tenant may make necessary repairs and deduct reasonable costs from the rent payment.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-15</num>
+      <heading>Abandoned dwelling units.</heading>
+      <text>For the purposes of this section, a landlord may regain possession of a dwelling unit, in accordance with this section, where the tenant has abandoned the dwelling unit.</text>
+      <para>
+        <num>A.</num>
+        <text>Abandonment of the dwelling unit shall be presumed when the tenant has vacated the unit without notice to the landlord and does not intend to return, which is evidenced by:</text>
+        <para>
+          <num>(1)</num>
+          <text>An express statement by the tenant that s/he does not intend to occupy the premises after a specified date; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Terminated water, electrical, sewer, or other essential utility service for more than 30 calendar days; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nonpayment of rent for two or more months and removal by the tenant or their agent of substantially all of their possessions and personal effects from the unit.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The landlord may then send notice to the tenant at the last-known address both by regular mail, postage prepaid, and by certified mail, return receipt requested, and may post notice conspicuously on the dwelling unit stating that:</text>
+        <para>
+          <num>(1)</num>
+          <text>There is reason to believe that the occupant has abandoned the dwelling unit;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The landlord intends to reenter and take possession of the dwelling unit unless the occupant contacts him within 10 business days of receipt of the notice;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the tenant does not contact the landlord, the landlord intends to remove any possessions and personal effects remaining in the premises and to rent the premises to another; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If the tenant does not reclaim such possessions and personal effects within 30 days after the notice, they will be disposed of in accordance with <cite path="§480-39">§ 480-39</cite>, Storage of personal property following forcible eviction, of this Code.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The notice shall be in clear and simple language and shall include a telephone number and a mailing address at which the landlord can be contacted. If the notice is returned as undeliverable, or if the tenant fails to contact the landlord within 10 business days of the receipt of the notice, the landlord may reenter and take possession of the dwelling unit, at which time any rental agreement in effect shall terminate.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The landlord need not comply with the procedures set forth in Articles III, IV, and V of this Code to obtain possession of a dwelling unit which has been abandoned.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If the abandoned unit contains property of cultural, religious, or ceremonial significance, the landlord shall have an affirmative duty to notify next of kin and/or contact the Tribe in order to return the items. If the landlord is the Tribe, the Tribe shall have an affirmative duty to notify next of kin in order to return the items. The Tribe may transfer or donate any unclaimed items to a tribal department, entity, or organization.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-16</num>
+      <heading>Death of tenant.</heading>
+      <para>
+        <num>A.</num>
+        <text>If a tenant dies, his or her tenancy is terminated on the earlier of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Thirty calendar days after the landlord receives notice, is advised, or otherwise becomes aware of the tenant's death; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The expiration of the term of the rental agreement.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The deceased tenant or his or her estate is not liable for any rent after the termination of his or her tenancy. Any liability of the deceased tenant or his or her estate for rent under <cite path="§480-16|B.">this subsection</cite> is subject to the landlord's duty to reasonably mitigate damages.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Nothing in this section relieves another adult cotenant of the deceased tenant's premises from any obligation under a rental agreement or any other liability to the landlord.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A landlord under this section may not contact or communicate with a member of the deceased tenant's family for the purpose of obtaining from the family member rent for which the family member has no liability.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The landlord may follow the provisions of <cite path="§480-15">§ 480-15</cite>, Abandoned dwelling units, <cite>Subsections B through D</cite>, for the notice of and disposal of personal possessions of the deceased tenant, except that notice shall be given to the designee or representative of the deceased tenant's estate, or next of kin if no designee or representative comes forward.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Cancellation/Termination of Tenancy Notice Requirements</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-17</num>
+      <heading>Notice to terminate tenancy.</heading>
+      <text>An agreement of the parties for the rental of a premises may be canceled or terminated in the following manner, unless otherwise provided in the rental agreement:</text>
+      <para>
+        <num>A.</num>
+        <text>Elements of notice. The Notice must include a statement that the tenant may be represented or accompanied, at his own expense, by a person of his choice.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Time requirements for notice. The notice to cancel or terminate tenancy must be delivered within the following periods of time:</text>
+        <para>
+          <num>(1)</num>
+          <text>No less than seven business days prior to the date of notice to quit specified for any failure to pay rent or other terms required by the agreement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No less than three business days prior to the date of notice to quit specified for nuisance, serious injury to property, or injury to persons.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In situations in which there is an emergency, such as a fire or condition making the dwelling unsafe or uninhabitable, or in situations involving an imminent or serious threat to public health or safety, the notice may be made in a period of time which is reasonable, given the situation.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Delivery of notice. Any notice to cancel or terminate an agreement for the lease, use, or occupancy of a dwelling must be in writing and must be delivered to the tenant or landlord. Delivery must be made by/in the following manner:</text>
+        <para>
+          <num>(1)</num>
+          <text>A law enforcement officer of the Tribe or other government; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person authorized by the Tribal Court; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any adult person who is not a party to the action.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Effective service of notice. Except as otherwise designated in this Code, delivery will be effective when it is:</text>
+        <para>
+          <num>(1)</num>
+          <text>Personally delivered to a tenant with a copy delivered by first-class mail; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personally delivered to an adult living in the premises with a copy delivered by first-class mail; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Personally delivered to an adult agent or employee of the landlord or the tenant with a copy delivered by first-class mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Substitute service of notice. Except as otherwise designated in this Code, if the notice cannot be given by means of personal delivery, or the landlord or tenant cannot be found, the notice may be delivered by means of:</text>
+        <para>
+          <num>(1)</num>
+          <text>Certified mail, return receipt requested, at the last known address of the landlord or tenant; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Securely taping a copy of the notice to the main entry door of the residence in such a manner that it is not likely to blow away, and by posting a copy of the notice in some public place near the premises, including a tribal office, or other commonly frequented place and by sending a copy first-class mail, postage prepaid, addressed to the tenant at the residence.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Copy of notice/proof of service. The person giving notice must keep a copy of the notice and proof of service in accordance with this Code, and be able to demonstrate service by affidavit or other manner recognized by law.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Eviction Process</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-18</num>
+      <heading>Grounds for evictions.</heading>
+      <text>After providing proper notice canceling or terminating a tenant's tenancy, as set forth in Article III of this Code, a tenant may be evicted from any premises, ordered to pay damages and costs, or otherwise be subject to the order or judgment of the Tribal Court for the breach of any obligation under this Code, any agreement, including an agreement to purchase or rent any dwelling, or for any other obligation provided by law. The following shall be grounds for eviction:</text>
+      <para>
+        <num>A.</num>
+        <text>Expiration of the lease. Generally, once a lease expires, whether written or oral, year to year, or month to month, the landlord is under no obligation to renew it. Occupation of any premises without permission or agreement, following any reasonable demand by a person in authority over the premises to leave.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Nonpayment of rent. Any agreement in rent, costs, or damages which have been due and owing for 30 calendar days or more shall be cause for eviction. The receipt by a landlord of partial payments under an agreement shall not excuse the payment of any balance due upon demand. If the tenant pays the balance due during a grace period, they cannot be evicted for nonpayment; however, if repeated late payments occur within a six-month period, it shall be cause for eviction as nonpayment of rent.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Illegal conduct or serious nuisance. Breach of covenant per <cite path="§480-7|F">§ 480-7F</cite>, Covenant, illegal conduct, or serious nuisance; an assault on a landlord or other tenant; use of the leased premises for selling, using or manufacturing illegal drugs, or other illegal conduct shall be cause for eviction. Serious nuisance, intentional or reckless damage, destruction, or injury to the property of the landlord or other tenants, or disturbing another tenant's right to peaceful and quiet enjoyment of a dwelling unit shall be cause for eviction. Tenants cannot cure an eviction based on breach of <cite path="§480-7|F">§ 480-7F</cite>, Covenant, illegal conduct, or serious nuisance.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Breach of other lease terms. Serious or repeated violations of the material terms of the rental agreement, any reasonable rules or regulations adopted by the landlord, or any applicable building or housing codes, or other terms in the rental agreement which do not conflict with the provisions of this Code shall be cause for eviction. If the tenant cures the breach within 15 calendar days of the notice of the breach, it nullifies the breach, unless a similar breach occurs within the following six months. All parties are responsible to document breaches and cured breaches.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-19</num>
+      <heading>Notice to quit process.</heading>
+      <text>Following a timely notice to terminate or cancel an agreement, or providing notice to a person who occupies a dwelling without an agreement to leave it, a tenant must be given notice to quit possession.</text>
+      <para>
+        <num>A.</num>
+        <text>Requirements of notice to quit possession. The following information must be provided in the notice to quit possession of the premises:</text>
+        <para>
+          <num>(1)</num>
+          <text>The notice must be addressed to the known tenants of the premises, although unknown occupants need not be named, and it shall state the reason(s) for the notice and state a date by which the tenant must leave the premises and surrender it to the landlord.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Notice must include a statement that the tenant may be legally represented or accompanied, at the tenant's own expense, by a person of their choice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any notice which substantially complies with the following form will be sufficient:</text>
+          <text>To: [Name of Tenant] and occupiers of [address of premises or reasonable description of location]</text>
+          <text>From: [Name of Landlord]</text>
+          <text>You are required to quit possession or occupancy of these premises, move out, and return the possession of the premises to the landlord on or before [date] for the following reason(s): [state specifically what they are]</text>
+          <text>You have the right to an attorney at your own expense. You have the right to be accompanied by a person of your choice, at your own expense.</text>
+        </para>
+      </para>
+      <aftertext>[Name and address of the person giving notice, date, and signature]</aftertext>
+      <para>
+        <num>B.</num>
+        <text>Timeline to serve. The notice to quit possession must occur within 30 calendar days following the date of service of notice to terminate except for in cases of emergency or nuisance or injuries as provided in <cite path="§480-17">§ 480-17</cite>, Notice to terminate tenancy, <cite path="§480-19|B|(2)">Subsection B(2)</cite> and (3), the tenant shall be given three business days to quit possession of the premises.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-20</num>
+      <heading>Serving the notice to quit.</heading>
+      <text>Any notice to quit must be in writing, and must be delivered to the tenant(s) in the following manner:</text>
+      <para>
+        <num>A.</num>
+        <text>Delivery must be made by:</text>
+        <para>
+          <num>(1)</num>
+          <text>A law enforcement officer of the Tribe or other government; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person authorized by the Tribal Court; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any adult person who is not a party to the action.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Delivery will be effective when it is:</text>
+        <para>
+          <num>(1)</num>
+          <text>Personally delivered to a tenant with a copy delivered by first-class mail; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personally delivered to an adult living in the premises with a copy delivered by first-class mail; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Personally delivered to an adult agent or employee of the landlord or the tenant with a copy delivered by first-class mail.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If the notice cannot be given by means of personal delivery, or the landlord or tenant cannot be found, the notice may be delivered by means of:</text>
+        <para>
+          <num>(1)</num>
+          <text>Certified mail, return receipt requested, at the last known address of the landlord or tenant; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Securely taping a copy of the notice to the main entry door of the residence in such a manner that it is not likely to blow away, and by posting a copy of the notice in some public place near the premises, including a tribal office, or other commonly frequented place and by sending a copy first-class mail, postage prepaid, addressed to the tenant at the residence.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-21</num>
+      <heading>Copy of notice/proof of service.</heading>
+      <text>The person providing notice must keep a copy of the notice and proof of service in accordance with this Code, and be able to demonstrate service by affidavit or other manner recognized by law.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-22</num>
+      <heading>Pre-eviction options.</heading>
+      <para>
+        <num>A.</num>
+        <text>Negotiated settlement. After a notice to quit is served upon a tenant, the landlord and tenant may engage in discussions to avoid a proceeding to evict and settle the issue(s) between the parties. The agreement to enter into discussions will not affect the rights of parties unless the parties reach an agreement to waive any of their rights. In reaching an agreement, the parties may consider, but are not limited to the following options:</text>
+        <para>
+          <num>(1)</num>
+          <text>The parties may employ the use of advocates or attorneys;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The parties may employ the use of a mediator or conciliator, and, if employed, both parties shall accept the recommendation of the mediator or conciliator;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The parties may agree to any other barter for services and goods, or to any other means of securing a fair exchange of value for the use of the dwelling;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The parties may agree to dismiss the matter in exchange for any agreement reached;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The parties may agree to stipulate to a judgment to be entered by the Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Stay of proceedings. Where the parties mutually agree in good faith to proceed with such discussions and judicial eviction procedures have been initiated, the Court shall only stay such proceedings until the Court is notified by one or both parties that a hearing is required or that a settlement has been reached; provided, that the Court may only stay the proceedings for a maximum of 30 calendar days unless both parties stipulate in writing to exceed the 30 calendar days and the Court finds good cause to grant an extension.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-23</num>
+      <heading>No self-help eviction.</heading>
+      <text>Except by mutual consent of the parties, no landlord may compel a tenant to vacate any premises in a forceful fashion or way which causes a breach of the peace without giving a notice to cancel/terminate lease and notice to quit, and obtaining a Court order as provided in this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-24</num>
+      <heading>Notices other than notices to terminate or notices to quit.</heading>
+      <text>Any notice to a landlord or tenant to comply with the agreement of the parties or this Code, other than a notice to cancel or terminate the agreement of the parties pursuant to Article III or a notice to quit the premises pursuant to Article IV, may be given in any reasonable manner, or as provided by the agreement of the parties.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Judicial Eviction Procedure</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-25</num>
+      <heading>Complaint.</heading>
+      <text>At any time after the expiration of the time set in the notice to quit, if the tenant or occupant of the premises refuses to quit possession or occupancy of the premises, the landlord may file a complaint in the Tribal Court for eviction and other relief. The complaint must state:</text>
+      <para>
+        <num>A.</num>
+        <text>The name and known address of the tenant(s) against whom the suit is brought, but it need not state the names of any other occupants, who will be considered to be bound by a Court order;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A description of the agreement of the parties or the terms under which the person being sued occupies the premises;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The address or location of the premises in sufficient terms to allow a law enforcement officer to carry out any order of the Court;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A description of the obligation the tenant has breached or the reason for the action;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A statement showing that any required termination notices and the notice to quit have been served in accordance with the provisions of this Code requiring them; and</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The relief demanded, including any claims for damages, fees, costs, or other special relief, which may include, in accordance with <cite path="§480-18">§ 480-18</cite>, Grounds for eviction, nonpayment of rent or other costs between the time of notice and the described at <cite path="§480-34">§ 480-34</cite>, Execution of judgment.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-26</num>
+      <heading>Action upon filed complaint.</heading>
+      <para>
+        <num>A.</num>
+        <text>Procedure.</text>
+        <para>
+          <num>(1)</num>
+          <text>When a complaint is filed in the Tribal Court, it must be immediately presented to a Tribal Court Judge. This must be on the date of filing, or, if no Judge is present, on the first regular Court day after filing or when a Judge may first be found.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Judge must review the complaint and must, if it appears to be in compliance with <cite path="§480-25">§ 480-25</cite>, complaint, shall issue an order of the Court requiring the defendant named in the complaint to appear before the Court on a day and at a place stated in the summons.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The appearance shall not be less than seven business days nor more than 14 business days from the day of issuing the summons, except as provided by below per the expedited procedure.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A copy of the complaint shall be attached to the summons, which shall state that the copy is attached and the original has been filed.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Expedited procedure.</text>
+        <para>
+          <num>(1)</num>
+          <text>In an eviction action brought under <cite path="§480-7|E">§ 480-7E</cite>, <cite path="§480-17">§ 480-17</cite>A(2) and (3), or <cite path="§480-18|C">§ 480-18C</cite> or on the basis that the tenant is causing other illegal behavior that seriously endangers the safety of other tenants, their property, or the landlord's property, the person filing the complaint shall file an affidavit stating specific facts and instances that support why an expedited hearing is required.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The complaint and affidavit shall be scheduled for an expedited hearing only if sufficient supporting facts are stated and they meet the requirements of <cite path="§480-26|B.|(2)">this subsection</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The appearance in an expedited hearing shall not be less than five business days nor more than seven business days from the date the summons is issued. The summons, in an expedited hearing, shall be served upon the tenant within 48 hours of issuance unless the Court orders otherwise for good cause shown.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Summons; how served.</text>
+        <para>
+          <num>(1)</num>
+          <text>The summons must be served at least seven business days before the date of the court appearance specified in the summons, in the following manner:</text>
+          <para>
+            <num>(a)</num>
+            <text>A law enforcement officer of a tribe, county, state, or an agency of the United States government; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any person authorized by the Tribal Court; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any adult person who is not party to the action.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as described below, service is effective when it is personally delivered on the defendant;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the defendant cannot be found within the Reservation, the summons may be effectively served at least seven business days before the date of court appearance by:</text>
+          <para>
+            <num>(a)</num>
+            <text>Leaving a copy at the defendant's last known residence with a person of suitable age and discretion residing there; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Leaving a copy at the property described in the complaint with a person of suitable age and discretion occupying the premises.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Failure, after the requisite attempts, to serve the defendant is prima facie proof that the defendant cannot be found within the Reservation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Where the defendant cannot be found within the Reservation, service of the summons may be effectively made upon the defendant by posting the summons in a conspicuous place on the property for not less than five business days if:</text>
+          <para>
+            <num>(a)</num>
+            <text>The property described in the complaint is residential and service has been attempted at least twice on different days, with at least one of the attempts having been made between the hours of 6:00 p.m. and 10:00 p.m.; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The plaintiff or plaintiff's attorney has signed and filed with the Court an affidavit stating that:</text>
+            <para>
+              <num>[1]</num>
+              <text>The defendant cannot be found, or that the plaintiff or the plaintiff's attorney believes that the defendant is not within the Reservation; and</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A copy of the summons has been mailed to the defendant at the defendant's last known address if any is known to the plaintiff.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-27</num>
+      <heading>Commencement of proceedings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Appearance; trial. At the court appearance specified in the summons, the defendant may appear and answer the complaint, and the Court shall hear and decide the action, unless it grants a continuance of the trial as provided below.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Answer; defenses, witness, alleging illegal conduct by landlord. If the defendant is raising defenses against eviction under this Code, alleging other illegal or retaliatory conduct of the plaintiff, and/ or providing witnesses other than the named defendants, the defendant shall file an answer with the Court not less than three business days before the appearance date on the summons. The Court, upon filing an answer, shall notify the plaintiff and have a copy available to pick up. The Court may send an electronic copy to the plaintiff, at the request of the plaintiff.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Failure to file an answer. If the defendant fails to file an answer as described above:</text>
+        <para>
+          <num>(1)</num>
+          <text>The defendant shall be precluded from presenting additional witnesses at the trial on the date set by the Court for appearance in the summons unless the plaintiff raises no objection; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The plaintiff shall have good cause to request a continuance and discovery from the defendant.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Continuance of trial.</text>
+        <para>
+          <num>(1)</num>
+          <text>In an eviction action, the Court, in its discretion, may grant a continuance of the trial for no more than six business days unless all parties consent to a longer continuance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>However, in all actions brought where the defendant has filed an answer raising retaliation defense, illegal conduct of landlord, or a cross-complaint filed by the defendant, the Court shall continue the trial as necessary but for no more than three months if the defendant or defendant's attorney:</text>
+          <para>
+            <num>(a)</num>
+            <text>States under oath that the defendant cannot proceed to trial because a material witness is not present;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Names the witness(es);</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>States under oath that the defendant has made due exertion to obtain the witness;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>States the belief that if the continuance is allowed the defendant will be able to procure the attendance of the witness at the trial or to obtain the witness's deposition; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Gives bond that the plaintiff will be paid all rent that accrues during the pendency of the action and all costs and damages that accrued due to adjournment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Court shall not grant a continuance where the complaint has been filed and scheduled under the expedited procedure in this section except under a finding of extraordinary circumstances. Such a continuance shall not exceed six business days.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Computing days. Weekends, holidays, or Court closures, including delays and closures resulting in partial days, shall not be counted in scheduling continuances.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Rent/damages owed during pendency of eviction proceedings. The Court may, in its discretion and only upon motion from the landlord, order the tenant to pay into the Court rents for the use and occupancy during the pendency of the eviction case and/or damages to the rental unit caused by the tenant. If the Court orders rents and/or damages owed by tenant and the tenant fails to pay, the Court may find for contempt.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-28</num>
+      <heading>Defenses.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon an appropriate showing, the Court must grant the remedies allowed in this Code, unless it appears by the evidence that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The premises are untenable, uninhabitable, or constitute a situation where there is a constructive eviction of the tenant, in that the premises are in such a condition, due to the fault of the landlord, that they constitute a real and serious hazard to human health and safety and not a mere inconvenience.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The landlord has failed or refused to make repairs which are his or her responsibility after a reasonable demand by a tenant to do so, without good cause, and the repairs are necessary for the reasonable enjoyment of the premises.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>There are monies due and owing to the tenant because he or she has been required to make repairs which are the obligation of the landlord, and the landlord has failed or refused to make them after a reasonable notice. Such sums may be a complete or partial defense to a complaint for eviction, but only to the extent that such sums set off monies owed for occupancy. A tenant may be evicted after such a period if he fails or refuses to pay the reasonable rental value of the premises.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Due to the conduct of the landlord, there is injury to the tenant in such a way that justice requires that relief be modified or denied. This shall include the equitable defenses of estoppel, laches, fraud, misrepresentation, and breaches of serious and material obligations for public health, safety, and peace standards.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>There are such serious and material breaches of applicable housing law on the part of the landlord that it would be unjust to grant him a remedy.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The landlord is evicting the tenant because of his or her race, sex, sexual orientation, religion, age, marital status, family status, or because the tenant is disabled.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No defense may be founded upon either of the grounds listed in <cite path="§480-28|(A)|(1)">Subsection (A)(1)</cite> or (2) above unless:</text>
+        <para>
+          <num>(1)</num>
+          <text>The obligation to maintain or repair is that of the landlord under this Code or the agreement of the parties, and a clear and reasonable demand was made by the tenant to correct such conditions or the landlord knew of them; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The landlord has had a reasonable opportunity to maintain or make repairs and the tenant has been cooperative in allowing them.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-29</num>
+      <heading>Discovery and prehearing proceedings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Discovery shall be informal, and reasonably provided on demand of a party. Requests for discovery must be made at the date of appearance. The Court may enter reasonable orders requiring discovery, altering the time requirements of this section or protecting the rights of the parties upon reasonable notice.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Extensive, prolonged, or time-consuming discovery and prehearing proceedings will not be permitted, except in the interests of justice and for good cause shown by the moving party.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-30</num>
+      <heading>Evidence.</heading>
+      <text>Evidence in proceedings under this Code shall be according to the following provisions:</text>
+      <para>
+        <num>A.</num>
+        <text>All evidence may be admitted which can be shown to be relevant, material, and have reasonable probative value to the case. The Court may exclude irrelevant or repetitious evidence or arguments.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The proceedings shall not be governed by the common law or statutory rules of evidence except those relating to the privilege. Fairness will dictate the decision of the Judge on challenges to admissibility of evidence. The Court may conduct questioning of the witness and shall endeavor to ensure that the claims or defense of all parties are fairly presented to the court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court may avail itself of any recognized and authoritative materials, books or documents as guidance in reaching a decision on the admissibility of evidence.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Hearsay evidence is admissible if it is relevant, material, reasonably competent under the circumstances, and has reasonable probative value. An essential finding of fact may not be based solely on a declarant's oral hearsay statement unless it would be admissible under the rules of evidence. Hearsay evidence may be freely admitted where all parties to the out-of-Court statement are present before the Court and qualified to testify as to the statement made.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>At the discretion of the Judge, evidence may be excluded if its value as proof is outweighed by the risk that its admission will create a substantial risk of undue prejudice, confuse the issues, or unfairly surprise the opposing party.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Upon request of a party, the Court may take judicial notice of specific facts which are so certain as not to be subject to reasonable dispute.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-31</num>
+      <heading>Burden of proof.</heading>
+      <text>The burden of proof in all proceedings under this Code shall be clear and convincing evidence. The burden of proof shall be on the petitioner in an action before the Tribal Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-32</num>
+      <heading>Judgment.</heading>
+      <para>
+        <num>A.</num>
+        <text>Default judgment. If a defendant fails to appear in person on the date of the Court-scheduled appearance, the Court shall enter a default judgment on behalf of the plaintiff based on the pleadings.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Judgment on the merits. Within five business days of the date of the hearing, the Court must grant and enter judgment on the merits. The judgment must grant all relief that the parties are entitled to as of the date of the judgment. The judgment may:</text>
+        <para>
+          <num>(1)</num>
+          <text>Order the immediate eviction of a tenant and delivery of the premises to the landlord;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Grant actual damages as provided in the agreement of the parties or this Code;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Order the parties to carry out an obligation required by law;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Establish a payment plan for the tenant;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Establish a power of attorney in another person/agency to fulfill rights or obligations of either landlord or tenant;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Remediate the action in part or in whole through appropriate recalculation of rent;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Remediate the action, in part or in whole, through a conversion from a lease/purchase agreement to a rental tenant status;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Order the tenant to perform work for the landlord or the Housing Department to pay off back rent due and/or damages incurred;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Order the payment of attorneys' fees and, where allowed by law or agreement, costs and expenses of litigation;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Grant any relief provided in this Code or allowed in law or equity.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-33</num>
+      <heading>Form of judgment.</heading>
+      <para>
+        <num>A.</num>
+        <text>The judgment shall state the relief granted by the Court to any party, but need not state findings of fact or conclusion of law in support of the judgment. The judgment may state brief reasons for it. The Judge should, whenever possible, render a decision immediately after both parties have rested their case and award costs and restitution.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The judgment shall be known as an "eviction order." It shall include a writ of recovery of premises and an order to vacate.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court shall develop a uniform form for the summons and writ of recovery of premises and order to vacate.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Court shall identify a writ of recovery of premises and order to vacate property that is issued pursuant to an eviction action under the expedited procedure and clearly note on the order to vacate that it is a priority order. Notice that it is a priority order must be made in a manner that is obvious to an officer who must execute the order.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-34</num>
+      <heading>Execution of judgment.</heading>
+      <para>
+        <num>A.</num>
+        <text>An eviction order may be executed by a duly authorized law enforcement officer or officer of the Court, appointed by the Court for such purpose. Any law enforcement officer shall, upon receipt of an order of the Court, execute the judgment or order made by the Court within five business days of the date of the judgment or order and make a report to the Court on what was done to enforce it.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any law enforcement officer to whom a judgment or order is given for enforcement who fails, in the absence of good faith, or refuses to execute it shall be subject to the payment of reasonable damages, costs and expenses to a party for failure to execute the judgment and/or suspension from employment.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>This section shall also apply to any judgment on behalf of a tenant obtained under the general tribal civil procedure code and/or tribal small claims procedure code. All other portions of the judgment shall be subject to execution in the manner otherwise provided under tribal law.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>To execute the order, the officer shall;</text>
+        <para>
+          <num>(1)</num>
+          <text>Provide a copy of the order of eviction to all adult tenants;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Post copies of the order of eviction on the doors of the premises, if there is not any adult tenant present at the time of execution;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Remove all the evicted persons from the dwelling and verbally order them not to reenter;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Supervise the removal of the possessions of the evicted persons.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-35</num>
+      <heading>Stay of execution.</heading>
+      <text>If the Court issues judgment for possession of the dwelling unit in favor of the landlord, the tenant may apply for a stay of execution of the judgment or order, provided it is within five business days of the judgment rendered and there is evidence that one or more of the following conditions is met:</text>
+      <para>
+        <num>A.</num>
+        <text>Good and reasonable grounds affecting the wellbeing of the party are stated; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>There would be no substantial prejudice or injury to the prevailing party during the period of the stay; or</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Execution of the judgment could result in extreme hardship for the tenant(s); or</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A bond is posted or monies are paid to the Court, to satisfy the judgment or payment for the reasonable use and occupancy of the premises during the period of time following the judgment. The clerk shall distribute such arrearages to the landlord in accordance with any order of the Court.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>No stay shall exceed three months in the aggregate.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>For actions brought under the expedited procedure the Court may not stay the writ of recovery of the premises and order to vacate unless the Court makes written findings specifying the extraordinary and exigent circumstances that warrant staying the writ for a reasonable period, not to exceed seven days.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-36</num>
+      <heading>Requests for reopening default judgments and appeals.</heading>
+      <para>
+        <num>A.</num>
+        <text>Reopening a default judgment. A party may file a motion to reopen a default judgment within 15 calendar days of the Court's judgment or order. A motion under this section does not affect the finality of a judgment or suspend its operation. This section does not limit the power of a court to entertain an independent action to relieve a party from judgment, order, or proceeding, or to set aside a judgment for fraud on the Court. On motion and upon such terms as are in the interest of justice, the Court may relieve a party or legal representative from a default judgment if the movant is able to demonstrate both:</text>
+        <para>
+          <num>(1)</num>
+          <text>Good cause shown for failure to appear or file an answer; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A reasonable prospect of success on the merits.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Appeals. Appeals under this Code shall be handled according to the general tribal appellate provisions, with the exception that the party making the appeal shall have only five business days from the entry of the order of judgment to file a notice of appeal. All orders from the Court will remain in effect during the pendency of an appeal under this Code unless otherwise ordered by the Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-37</num>
+      <heading>Miscellaneous complaints and claims.</heading>
+      <text>Any miscellaneous complaint, cross-complaint, or claim including a complaint or claim by a tenant which does not fall within the procedures of this Code may be made under the general tribal civil procedure Code and/or tribal small claims procedure Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-38</num>
+      <heading>Forcible eviction.</heading>
+      <para>
+        <num>A.</num>
+        <text>At the hearing where eviction is ordered, the Court shall inform the defendants that if they do not vacate the premises voluntarily by the effective date, they and any other occupants will be subject to forcible eviction, and their property will be subject to storage, sale and disposal as set forth in <cite path="§480-39">§ 480-39</cite>, Storage of personal property following forcible eviction.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Where the Court orders an eviction, and the defendant or any other occupant of the premises refuses to vacate voluntarily by the effective date of that order, the defendant or other occupants may be forcibly removed from the premises by a tribal law enforcement officer.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Following eviction, the Court may allow the landlord, the Tribe, or the United States government access to any property leased by either of them for purposes of preserving and securing it.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-39</num>
+      <heading>Storage of personal property following forcible eviction.</heading>
+      <para>
+        <num>A.</num>
+        <text>Following forcible eviction of the defendant and/or other occupants, the former occupants' personal property shall be stored by the owner of the premises for at least 30 calendar days, either on the premises or at another suitable location.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In order to reclaim their property, the former occupants must pay the reasonable costs of its removal and storage.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If they do not pay such costs within 30 calendar days, the owner of the premises is authorized to sell the property in order to recover costs incurred.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Upon request by the former occupants, the landlord must provide them with pertinent information concerning the sale, including the time, date and location.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any proceeds from the sale in excess of the Court-ordered judgment, storage, and removal costs must be remitted to the former occupants. Nothing in this section shall be construed to prevent the former occupants from reclaiming property remaining after the sale if they can arrange to do so in a manner satisfactory to the owner.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Miscellaneous Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>480-40</num>
+      <heading>Computation of time.</heading>
+      <text>Unless otherwise described, all references to "days" shall mean business days, excluding weekends, holidays, and Court closures. Business days shall be applied when a given time period is 14 days or less. In cases where a given time period is 15 days or more, calendar days will be applied, and any actions thereupon due shall be due on the next available open Court day.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-41</num>
+      <heading>Sovereign immunity.</heading>
+      <text>In their interpretation and application, the provisions of <cite path="|II|480">this chapter</cite> shall be held to be minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other tribal power or authority. The Tribe's sovereign immunity is not waived or affected hereby.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>480-42</num>
+      <heading>Severability.</heading>
+      <text>Each section of the Code and every part of each section is an independent section or part of a section, and the holding of any section or a part thereof to be unconstitutional, void or ineffective for any cause shall not be deemed to affect the validity or constitutionality of any other sections or parts thereof. If any provision of this Code or the application thereof to any person or circumstances is held invalid, the remainder of this Code and the application of such provision to other persons or circumstances shall not be affected thereby.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

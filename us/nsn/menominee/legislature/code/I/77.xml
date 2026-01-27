@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>77</num>
+  <heading>ETHICS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="I|77|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Conflict of Interest</heading>
+    <annotations>
+      <annotation type="History">Adopted 10-7-1982 by Ord. No. 82-11; amended in its entirety 1-19-2012</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>77-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|77|I">this article</cite> is to ensure the integrity of Menominee government; to provide limitations on permissible activities of tribal officials, whether elected or appointed; to carry out the intent of Article XVII, Conflict of Interest, Menominee Constitution; and to respond to the concerns of tribal members who presented a resolution, "Conflict of Interest," to the General Council of December 5, 1981, which resolution was approved by a majority of tribal members in attendance.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>77-2</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|77|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>TRIBAL EMPLOYEE — Any person employed by Menominee tribal government who is paid for services.</text>
+      <text>TRIBAL OFFICIAL — Any person, elected or appointed, to the Tribal Legislature; members of the Enrollment Committee; members of the Election Commission; Tribal Judges; and Clerk of Court.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>77-3</num>
+      <heading>Conflicts of interest enumerated.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be a conflict of interest for any Tribal Judge to be a member of any tribal committee, commission, or board during his/her term of office.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Clerk of Court shall not serve on any tribal committee, commission, or board, nor shall he/she engage in the private practice of law during his/her tenure as Clerk of Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Tribal Legislators, during their term of office, shall not serve as elected officials on the Menominee Town and County Board of Supervisors.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Tribal Legislators, during their term of office, shall not serve as members of the Menominee Revolving Loan Fund Committee.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>It shall be a conflict of interest for any Tribal Legislator or Director of Tribal Programs to have a business relationship which results in monetary compensation with an entity of any kind that proposes to, or does, have a business relationship with the Tribe.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>It shall be a conflict of interest for any Tribal Legislator to represent any party or entity in a court or proceeding where the Tribe is a defendant in the action.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Except for lawfully provided-for compensation which is paid from tribal money, payment of any kind, whether in money, goods, or services, made to a Tribal Legislator for actions which have been taken as a Tribal Legislator is prohibited. Acceptance of such payment shall constitute a violation of <cite path="|I|77|I">this article</cite> and shall subject the Tribal Legislator to the provisions of <cite path="§77-4">§ 77-4</cite> of <cite path="|I|77|I">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>77-4</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violation of any provisions of <cite path="§77-3">§ 77-3</cite> of <cite path="|I|77|I">this article</cite> shall give rise to legislative review and:</text>
+      <para>
+        <num>A.</num>
+        <text>In the case of a Legislator, such sanctions as may be permissible under Menominee law.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In the case of a tribal employee, termination of employment.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

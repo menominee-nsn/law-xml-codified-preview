@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|69">
+  <prefix>Chapter</prefix>
+  <num>69</num>
+  <heading>ENROLLMENT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 8-16-1979 by Ord. No. 79-15; amended in its entirety 10-15-2009. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>69-1</num>
+    <heading>Enrollment Committee established; powers and duties.</heading>
+    <text>The Enrollment Committee (hereinafter referred to as "Committee") is established and exists by virtue of Article II, Section 3, of the Menominee Tribal Constitution and shall have the following constitutional powers:</text>
+    <para>
+      <num>A.</num>
+      <text>Authority and duty to maintain roll, report to Tribal Legislature, investigate suspected errors and recommend changes in roll. The Committee shall have the authority and duty to maintain a current and accurate official tribal membership roll in accordance with the provisions of Article II of the Tribal Constitution. The Committee shall report at least four times a year to the Tribal Legislature as to the current status of the roll. The Committee shall have the authority to investigate suspected errors in the roll, and where it deems appropriate in view of the evidence, shall recommend changes in the roll to the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Recommend removal from the roll. The Committee shall make recommendations to the Tribal Legislature as to any of its findings that an individual lacks a required membership qualification. Upon receipt of such information and a finding by the Legislature that the person in question lacks a required membership qualification, proceedings shall be instituted against such person in Tribal Court to remove the person from the membership roll.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="I|§69-2">
+    <prefix>§</prefix>
+    <num>69-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|I|69">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CONFIDENTIAL RECORDS — Include birth certificates, paternity records, adoption records, any other court records sealed or not available to the public, and any records containing an individual's social security number, whether stored electronically or in a paper-based retrieval system.</text>
+    <text>OFFICIAL TRIBAL MEMBERSHIP ROLL — The official tribal membership roll which contains, for each person included thereon, a roll number, total degree of Menominee blood, and in the remarks column, the name and relationship of the ancestor(s) through whom eligibility was established. Only persons who meet the following criteria, as set forth by Article II of the Tribal Constitution, shall be placed on the official tribal membership roll:</text>
+    <para>
+      <num>A.</num>
+      <text>Those persons of one-quarter-degree Menominee Indian blood whose names appear on the tribal roll compiled pursuant to Subsection 4(c) of the Menominee Restoration Act (87 Stat. 771<fn path="|I|§69-2|footnotes|1">1</fn>);</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Those persons who possess at least one-quarter-degree Menominee Indian blood, and who are descendants of persons enrolled on the tribal membership roll compiled pursuant to Subsection 4(c) of the Menominee Restoration Act (87 Stat. 771).</text>
+      <text>QUASI-JUDICIAL — Judicial-like in nature; as if done by a court of law, person exercising judge-like powers, including examining evidence on oath before making a decision affecting rights, powers or interests.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See 25 U.S.C. § 903 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-3</num>
+    <heading>Official tribal membership roll.</heading>
+    <text>The Committee shall have the authority and duty to maintain a current and accurate official tribal membership roll. Once each year the Committee shall have prepared a full and updated printout of the official membership roll. The official roll shall contain, for each person included thereon, a roll number, total degree of Menominee blood, and in the remarks column, the name and relationship of the ancestor(s) through whom eligibility was established.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-4</num>
+    <heading>Abstract of roll.</heading>
+    <text>The Committee shall also have prepared once each year a current and updated abstract of the official tribal roll. The abstract shall only include the official tribal number, name, date of birth, and degree of Menominee blood.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-5</num>
+    <heading>Access to official roll and abstract.</heading>
+    <text>The abstract of the tribal roll shall be available for inspection and copying by all tribal members for a fee. The official roll shall not be available for inspection in whole or in part except upon good cause shown to the Enrollment Committee, provided that each enrolled member shall be entitled to all information listed beside his/her own name in the official tribal roll. Copies of the official roll may be used for all purposes specified under federal or tribal law. The Enrollment Department and Committee shall take all necessary precautions and develop a procedure to ensure that confidential records are protected. Under no circumstance shall a departmental file or record be removed from the Enrollment Department.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-6</num>
+    <heading>Enrollment Committee to report to Tribal Legislature.</heading>
+    <text>Pursuant to Article II, Section 3(b), of the Tribal Constitution, the Enrollment Committee shall report to the Tribal Legislature at least four times a year as to the current status of the roll and as to its efforts in preparing the roll. This report shall include the total number of enrolled members on the official roll and the total number of descendants on the descendant register. The Tribal Legislature may also request status reports at any time from the Enrollment Committee upon motion duly approved by majority vote.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-7</num>
+    <heading>Authority of Enrollment Committee to investigate and correct errors.</heading>
+    <text>The Committee is authorized to conduct an investigation into the accuracy of the enrollment records upon receipt of any information that would cause the Committee to be reasonably suspicious that an error in the roll exists. The Committee shall conduct an investigation that conforms with the hearing rules/procedures prescribed within <cite path="|I|69">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-8</num>
+    <heading>Application for enrollment.</heading>
+    <text>Any application for enrollment may be submitted by the individual applicant. With respect to minors, mental incompetents or other persons in need of assistance, applications may be submitted by the individual applicant's parent, next of kin, recognized guardian, or other person responsible for the care of the individual. In the case of a minor child, all Menominee parents shall be notified of the application, except in the case of adopted children where those adoption records are held confidential.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-9</num>
+    <heading>Submission and contents of applications for enrollment.</heading>
+    <text>Applications for enrollment shall be submitted, in writing, to the Enrollment Committee. Applications for enrollment shall include sufficient detail to show that the applicant is entitled to enrollment pursuant to</text>
+    <text>the standards of Article II, Section 1, of the Tribal Constitution. If the application contains insufficient information to determine whether the person is entitled to enrollment, the Enrollment Committee may request that additional information be provided. The burden of proof for establishment of eligibility for enrollment is on the applicant. All applicants for enrollment shall pay a reasonable fee set by the Enrollment Committee as an administrative processing fee.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-10</num>
+    <heading>Standard enrollment form.</heading>
+    <text>The Enrollment Committee shall provide a standard form to be completed by applicants for enrollment. All applicants shall use the prescribed form to apply for enrollment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-11</num>
+    <heading>Enrollment of individuals born out of wedlock.</heading>
+    <text>No person otherwise entitled to enrollment shall be denied enrollment in the Menominee Indian Tribe solely on the grounds of an out-of-wedlock birth. In order to ascertain the eligibility of a child born out of wedlock for enrollment, the paternity of the child may be established by paternity proceedings in any competent court of general jurisdiction and/or by DNA testing of those claiming to be the biologic parents of the person seeking enrollment. The Committee shall require DNA testing when a court has established paternity of a child against a father by a default appearance of the father, or in cases where the biological relationship between the father and child could be reasonably questioned. If an application for enrollment is made for a child born out of wedlock, the Committee shall make a reasonable effort to notify the enrolled Menominee parent of the application.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-12</num>
+    <heading>Denial of enrollment without hearing prohibited.</heading>
+    <text>If an application is denied, the applicant may appear before the Committee for a hearing to present new and/ or additional evidence. At such hearing, the applicant shall be entitled to present all evidence regarding his/ her right to enrollment, and the Committee shall have the right to ask questions of the applicant regarding the application.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-13</num>
+    <heading>Disposition of application for enrollment.</heading>
+    <text>The Committee shall advise each applicant, in writing, of the disposition of his/her enrollment application. The Committee shall not deny an application for enrollment without providing the applicant with a written explanation of why enrollment was denied.</text>
+    <para>
+      <num>A.</num>
+      <text>The Committee shall also advise each unsuccessful applicant of his/her right to appeal within 30 days to the Tribal Court as provided for in <cite path="§69-16">§ 69-16</cite> of <cite path="|I|69">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Committee shall advise the successful applicant, in writing, as to its decision to recommend the addition of his/her name to the official tribal roll.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A copy of all documents entered into the record along with a finding of facts and decision shall become part of a permanent file with the enrollment office. If the successful applicant entered original records and wishes to have them returned, the enrollment office shall make copies and return the original records, noting in the file that the original records were returned.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-14</num>
+    <heading>Applications for change in recordation of blood quantum.</heading>
+    <text>The Committee shall have authority to correct errors in the tribal roll regarding the Menominee blood quantum of enrolled members. Enrolled tribal members may file an application, on a prescribed form, with the Committee requesting a change in the recordation of their Menominee blood degree on the tribal roll.</text>
+    <text>Applicants for a change in recordation of blood degree shall be entitled to a hearing before the Committee prior to disposition of their application. The Committee shall inform each applicant, in writing, of the disposition of his/her application. In the event that the Committee denies the application, it shall inform the applicant, in writing, of the reasons for the denial, and it shall inform the applicant of his/her right to appeal to the Tribal Court as provided for in <cite path="|I|69">this chapter</cite>.</text>
+    <para>
+      <num>A.</num>
+      <text>Tribal Enrollment Committee to provide application form; information to be included. The Committee shall provide a standard form for applicants to use to change the recordation of Menominee blood quantum. The application form shall contain, at a minimum, all personal identifying information of the applicant necessary for the Committee to fairly and accurately identify the applicant for purposes of the action, along with clear reasons why the applicant believes that the blood quantum assessed to him/her is in error. The application shall require the applicant to swear that the information contained in the application is true and correct to the applicant's best knowledge and that false statements may be punishable under the law.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant requesting blood quantum change to include certified copies. The applicant must include, along with the completed form, original or certified copies of all documents relied upon for the change in blood quantum.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Grounds for blood quantum change. The Committee shall allow a change in blood quantum only for the following reasons:</text>
+      <para>
+        <num>(1)</num>
+        <text>Errors in recording information from past official, historical or otherwise compelling documents;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Errors in recording information into the official enrollment records of the Menominee Indian Tribe;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Evidence in official, historical or otherwise compelling documents that show clearly and convincingly that a blood quantum change is necessary;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>New evidence regarding family history based upon DNA evidence or other credible and compelling scientific evidence; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Other credible and compelling evidence which would prove by clear and convincing evidence that a blood quantum change was necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Standard of proof; burden of proof. The applicant has the burden to show by clear and convincing evidence that an error was made in the official membership roll and that a blood change is warranted. The Committee may only decide to make a favorable recommendation to change an error in the official roll if it is convinced by clear and convincing evidence that such a change is warranted.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-15</num>
+    <heading>Enrollment Committee investigation and hearing procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>Powers of the Committee to conduct an investigation. The Committee shall have the following powers in conducting their investigations:</text>
+      <para>
+        <num>(1)</num>
+        <text>The authority and power to subpoena witnesses;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The authority and power to subpoena documents;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The authority and power to compel testimony of witnesses;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The authority and power to administer oaths;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The power and authority to enforce its powers through a finding of contempt; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Other powers that are reasonable, necessary and typical of such an investigative committee carrying out its constitutional mandates.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice of investigation and/or hearing. The Committee shall give notice of an investigation and/or hearing to persons whom the Committee believes have a bona fide interest in such investigation and/ or hearing. The notice shall inform persons as to the general nature of the investigation and/or hearing, and advise them as to the manner and time in which comments or evidence may be presented to the Committee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Investigative hearing; procedures. The Chairperson of the Committee shall preside over and conduct the formal investigative hearing, which shall be quasi-judicial in nature. The hearing may be held in executive session when the need to maintain confidentiality of the proceedings outweighs the interest of the public in attending such a hearing. The Chairperson shall have the power and authority to call witnesses, compel testimony, administer oaths and make determinations on the receipt of documents and other evidence. The Chairperson shall conduct the order of the meeting and shall give reasonable opportunity to the Committee members to question witnesses and for interested parties to be reasonably heard. The Committee may seek the assistance of the Legal Services Department in the presentation of the evidence. If the Legal Services Department is requested to present evidence, it shall not be allowed to take <cite>part i</cite>n Committee deliberations or in drafting documents regarding findings or decisions of the Committee.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Administration of oath. All witnesses shall be sworn to tell the truth under penalty of perjury prior to testifying. The Committee Chairperson shall have the authority to administer oaths to witnesses and shall administer said oaths by having all witnesses raise their right hands and state the following question to them: "Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth?" The Committee Chair may elect to have the witness swear to tell the truth under penalty of perjury by signing a form that affirms the same, in substitution of or in addition to an orally administered oath.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Rules of evidence. The Committee shall not have to follow formal rules of evidence as adopted by the Menominee Tribal Courts, but may accept any credible and reliable evidence offered by any witness or party to the hearing. The Committee shall not render any decision based upon uncorroborated hearsay, unauthenticated documents, or other suspect and/or unreliable evidence.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Admission of documents into evidence. The Committee shall not accept into evidence and shall not render a decision based on any document(s) unless that document(s) is/are originals or is/are certified copies. Copies, if they are to be admitted into evidence or relied upon, must be certified to be authentic by the individual who is in charge of the original document. In the case where there is justifiable doubt as to the authenticity of a certified copy, the Committee may recess the hearing for a period not to exceed 15 days and request to view the original version of the document held by the custodian of the document.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Hearing procedure; findings of fact. The Committee shall conduct a hearing that conforms with the hearing rules/procedures prescribed within <cite path="|I|69">this chapter</cite>. At the conclusion of the hearing, the Committee Chairperson will render a written decision within 20 days as to the Committee's determination. The written decision shall include a detailed finding and conclusions. A copy of the written decision shall be delivered to the applicant, any members whose blood quantum or enrollment was affected, and to the Tribal Legislature. The written decision shall include the following statement: "This decision shall have the legal effect of being a recommendation to the Tribal Legislature to correct the membership roll pursuant to Menominee Tribal Constitution, Article II, Section 3, Paragraph (b)."</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Investigation to become part of file. A copy of all documents entered into the record, along with a finding of facts and decision, shall become part of the permanent file with the Enrollment Office.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-16</num>
+    <heading>Appeals to Tribal Judiciary.</heading>
+    <text>Any person denied enrollment by the Tribal Enrollment Committee shall have the right to appeal such decision to the Tribal Court of the Tribal Judiciary within 30 days from the date of the denial. Decisions of the Tribal Court may be appealed to the Supreme Court. Any person denied a change in recordation of Menominee blood degree by the Committee may appeal such decision to the Tribal Court and to the Supreme Court in like manner. This provision shall implement Article II, Section 4, of the Tribal Constitution.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-17</num>
+    <heading>Removal from membership roll.</heading>
+    <text>The provisions of Article II, Section 5, of the Tribal Constitution shall govern the removal of an individual from the membership roll by the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-18</num>
+    <heading>Relinquishment of membership.</heading>
+    <para>
+      <num>A.</num>
+      <text>Relationship of relinquished person to Tribe. Any person who relinquishes his/her membership in the Menominee Indian Tribe forfeits all rights and benefits he/she is entitled to by virtue of his/her membership in the Menominee Indian Tribe at the time of the final court order of relinquishment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Status as descendant. No person who has relinquished his/her membership in the Menominee Indian Tribe shall be considered or recognized as a descendant of the Menominee Indian Tribe for any purpose.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Blood quantum. Any descendant of a person who has relinquished membership in the Menominee Indian Tribe may include in the calculation of his/her blood quantum, for the purposes of enrollment and status as a descendant, the amount of Menominee blood received from said relinquished person.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Structures on leased land.</text>
+      <para>
+        <num>(1)</num>
+        <text>Relinquishment of membership in the Menominee Indian Tribe automatically terminates any lease or permit to use tribal trust land.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the event there are personal property structures owned by the relinquished member situated on such terminated leased/permitted tribal land, a person shall have a period of one year from the time of relinquishment to dispose of such personal property. Failure to dispose of such personal property shall result in reversion of this property to the Tribe.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Regardless of the continued ownership of the personal property structures referred to above, the person who has relinquished tribal membership shall have no right to maintain residency, habitation, or right to be domiciled in these aforementioned structures upon final court order of relinquishment.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Prior actions void. Any transfers of residential, recreational, or other types of tribal land leases or permits made after passage of <cite path="|I|69">this chapter</cite> and within 10 years of a relinquishment action by a tribal member shall be null and void when a final court order of relinquishment has been signed by the Tribal Court.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Voluntary relinquishment. Members of the Menominee Indian Tribe desiring to voluntarily relinquish their membership in the Tribe, except for minors and mental incompetents, shall file a written petition to that effect before the Chief Justice, or any Justice or Judge. He/She shall provide the member with a hearing and shall explain to the member orally and in writing the consequences of voluntary relinquishment of membership. If the person still desires to relinquish his/her membership, he/she shall sign a statement to that effect prepared by the Tribal Judiciary; the statement shall also be signed by the presiding Tribal Judge and shall have the effect of an order of the Tribal Court. The statement shall clearly state that the person voluntarily relinquishing his/her membership shall not again be eligible to enroll as a member of the Tribe or be placed on the Menominee descendant register. This provision shall implement Article II, Section 6, of the Tribal Constitution.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Publication. The Tribal Enrollment Department shall publish or cause to be published a complete list of the names of relinquished members on a periodic basis, not less than four times a year, in a newspaper of general circulation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-19</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>It shall be a violation of <cite path="|I|69">this chapter</cite> for any individual to knowingly be enrolled in the Menominee Indian Tribe and another tribe simultaneously. No individual shall become voluntarily enrolled in another tribe while enrolled in the Menominee Indian Tribe, and no individual shall voluntarily enroll in the Menominee Indian Tribe while enrolled in another tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No individual shall knowingly submit false documents pursuant to <cite path="|I|69">this chapter</cite> or knowingly make false statements to the Committee while under oath.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The following penalties may be recommended to be assessed under this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>Dual membership; penalty. The Committee may assess the following penalties for a violation of the prohibition of dual membership:</text>
+        <para>
+          <num>(a)</num>
+          <text>Recommend to the Tribal Legislature that the offender be immediately removed from the tribal roll; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Recommend repayment of all benefits, per capita payments, stumpage and other payments or benefits given to the dual membership offender that accrued during the time of the dual membership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>False submission of documents; false swearing. The Committee shall refer all cases of falsification of documents and false swearing to the Menominee Tribal Prosecutor for prosecution.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Waiting period to reapply from a denial of enrollment or change in blood quantum. An applicant may not reapply for enrollment or a change in the blood quantum under <cite path="|I|69">this chapter</cite> for a period of five years, unless the applicant can show new and compelling evidence that enrollment or blood change is warranted. The Committee may summarily dismiss any application that fails to supply new and compelling evidence as described above.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>69-20</num>
+    <heading>Repealer.</heading>
+    <text><cite path="|I|69">This chapter</cite> shall repeal Ordinance No. 02-39, "Relinquishment."</text>
+    <annotations/>
+  </section>
+</container>

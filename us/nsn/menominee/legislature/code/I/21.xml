@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>21</num>
+  <heading>COMMERCIAL CODE, UNIFORM</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="I|21|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Secured Transactions</heading>
+    <annotations>
+      <annotation type="History">Adopted 5-1-2008 by Ord. No. 08-08; amended in its entirety 1-22-2009</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>21-1</num>
+      <heading>Purpose.</heading>
+      <text>It is the purpose and policy of <cite path="|I|21|I">this article</cite> to establish the method of the creation, the effect of perfection and nonperfection, priority among competing creditors, and enforcement of security interests in personal property.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§21-2">
+      <prefix>§</prefix>
+      <num>21-2</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|21|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>CASH — All cash or currency of the United States of America that is legal tender for all public and private debts.</text>
+      <text>REVENUES — Earnings, income, revenues and the rights to receive the foregoing, whether in the form of cash, deposit accounts, investments or other assets, and the proceeds thereof.</text>
+      <text>TRIBAL PARTY — The Tribe and any division, subdivision, branch, department, board, committee, commission, agency, enterprise, instrumentality, or entity wholly owned or wholly controlled, directly or indirectly, by the Tribe, along with the successors and assigns of each.</text>
+      <text>UNIFORM COMMERCIAL CODE — The Uniform Commercial Code as in effect from time to time in the State of Wisconsin.<fn path="|I|§21-2|footnotes|1">1</fn></text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: See Chs. 401 to 420, Wis. Stats.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-3</num>
+      <heading>Application of Uniform Commercial Code.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any security interest granted in any cash, revenues or other personal property shall be created and perfected, priorities among competing creditors determined, and the security interest enforced in accordance with the Uniform Commercial Code, subject to <cite path="§21-3|B">Subsection B of this section</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Notwithstanding any other provision of the Uniform Commercial Code, a security interest granted by a tribal party in cash or revenues (including any proceeds thereof) shall be perfected only upon the filing of a financing statement in the same manner as security interests are perfected by filing generally, and priorities with respect thereto shall be determined on a first-to-file basis.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Except as provided in <cite path="§21-3|B">Subsection B of this section</cite>, the perfection, effect of perfection or nonperfection, and priority of any security interest to which <cite path="|I|21|I">this article</cite> applies shall be determined in accordance with the Uniform Commercial Code as if each debtor were (for purposes of §§ 409.301 through 409.307 of the Uniform Commercial Code) located in the State of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-4</num>
+      <heading>Application of article.</heading>
+      <para>
+        <num>A.</num>
+        <text><cite path="|I|21|I">This article</cite> shall apply to all security interests and collateral subject to the sovereign authority of the Tribe to the same extent provided in § 409.109 of the Uniform Commercial Code, except that provisions of § 409.109(3)(b) of the Uniform Commercial Code shall be ineffective to limit the application of the Uniform Commercial Code in accordance with <cite path="|I|21|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>While any security interest granted under the authority of <cite path="|I|21|I">this article</cite> remains outstanding, <cite path="|I|21|I">this article</cite> may not be repealed or be amended in a manner adverse to the interests of any secured party.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>21-5</num>
+      <heading>Sovereign immunity.</heading>
+      <text>Nothing in <cite path="|I|21|I">this article</cite> shall act to or be construed as waiving the immunity from suit of the Menominee Indian Tribe of Wisconsin and its instrumentalities.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

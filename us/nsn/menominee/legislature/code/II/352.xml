@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|352">
+  <prefix>Chapter</prefix>
+  <num>352</num>
+  <heading>GRANDPARENTS VISITATION RIGHTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-5-2015 by Ord. No. 15-28. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>352-1</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|352">this chapter</cite> is to preserve the opportunity of children, who are members of the Tribe, eligible for membership in the Tribe, or a first- or second-generation descendant of a member of the Tribe, to form and maintain meaningful relationships with grandparents, who play an important role in their care, development, education, or nurturance.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|352">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CHILD — Any person under the age of 18 years who is a member of the Tribe, eligible for membership in the Tribe, or a first- or second-generation descendant of a member of the Tribe, whether or not domiciled or resident on the Menominee Indian Reservation.</text>
+    <text>COURT — The Menominee Tribal Court.</text>
+    <text>GRANDPARENT(S) — The legal or biological grandparent(s), great-grandparent(s) or great-great-grandparent(s) or the legal step-grandparent(s) of a child. Proof of relationship would need to be provided to the Court.</text>
+    <text>GUARDIAN — The legal guardian of the child. PARENT — The legal or biological parent of the child. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-3</num>
+    <heading>Petition for visitation rights.</heading>
+    <text>The grandparent(s) may petition the Court for grandchild(ren) visitation rights in the following circumstances:</text>
+    <para>
+      <num>A.</num>
+      <text>The parents of the child(ren) are divorced, legally separated or no longer in a relationship; or</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An action for divorce or separate maintenance has been commenced by one of the parents of the child(ren);</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The parent of the child(ren), who is the child of the grandparent, has died;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the parent(s) have denied petitioner(s) visitation with the child(ren); or</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The petitioner(s) have not been previously denied visitation or placement by a court, or there is not another action pending before a court regarding visitation or placement of the child(ren).</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-4</num>
+    <heading>Procedure for hearing.</heading>
+    <text>The clerk of court shall schedule a hearing on the petition within 60 days of its filing. A copy of any petition filed under <cite path="|II|352">this chapter</cite> shall be served on each of the child's parents, and any guardian other than a parent, together with a notice of hearing which specifies that the hearing shall be on the merits of the</text>
+    <text>petition and that the court may make a visitation award at the close of the hearing. A guardian ad litem shall be appointed in all cases upon the filing of a petition under <cite path="|II|352">this chapter</cite>, unless the visitation order is stipulated to by the petitioner, the child's parents, and any other guardian.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-5</num>
+    <heading>Standards for ordering visitation rights.</heading>
+    <text>The Court may order visitation rights if it finds that such an order would be in the best interests of the child. The Court shall take into account all of the following factors:</text>
+    <para>
+      <num>A.</num>
+      <text>The family relationship of the petitioner to the child;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The quality of the relationship of the petitioner with the child;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The family relationship and quality of the relationship between the petitioner and each of the child's parents and any other guardian;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The relationship between the child's parents, provided that visitation rights may be awarded, whether or not the parents' relationship is intact;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The child's wishes, taking into account the age of the child;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The benefits and detriments to the child of awarding visitation rights to the petitioner;</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The feasibility of fashioning an award of visitation rights while minimizing interference with the parents' custodial rights;</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The reason that the child's parent or guardian restricted the visitation with the grandparent;</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Any other information that the Court may have at its disposal that is relevant to the petitioner(s) ability to provide a safe and nurturing environment if visitation is awarded; and</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Whether the petitioner has shown sufficient information to rebut the presumption that the child's parent or guardian was acting in the best interest of the child in denying visitation to the petitioner.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-6</num>
+    <heading>Order provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Within 30 days of the hearing, the Court shall grant or deny the petition, or grant the petition conditionally or with such modifications as are in the best interest of the child. All orders shall be in writing and shall specify to the greatest extent practicable the particular rights, if any, that are awarded.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An order may award visitation rights under the circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances that may reasonably be expected to occur at a future time, provided that any such award of contingent rights is reviewable under <cite path="§352-8">§ 352-8</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any person served with a copy of a notice and petition under <cite path="§352-4">§ 352-4</cite>, and with a copy of an order under this section, shall be required to comply with the terms of the order, and may be proceeded against for contempt of court for any interference therewith.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-7</num>
+    <heading>Payment of guardian ad litem fees.</heading>
+    <text>The fees of the appointed guardian ad litem shall be paid by the Court.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-8</num>
+    <heading>Modifications to order.</heading>
+    <text>Any order issued under <cite path="|II|352">this chapter</cite> may be modified upon motion, notice, and hearing.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>352-9</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|352">This chapter</cite> shall become effective upon final approval of the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

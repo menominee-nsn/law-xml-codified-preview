@@ -1,0 +1,2171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|504">
+  <prefix>Chapter</prefix>
+  <num>504</num>
+  <heading>SOLID WASTE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Fire prevention — See <cite path="|II|325">Ch. 325</cite>. Food handling — See <cite path="|II|335">Ch. 335</cite>.</annotation>
+    <annotation type="General References">Hazardous materials — See <cite path="|II|361">Ch. 361</cite>.</annotation>
+    <annotation type="General References">Junked vehicles and mobile homes — See <cite path="|II|546">Ch. 546</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|504|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Scavenging and Dumping</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-4-1986 by Ord. No. 86-16; amended in its entirety 12-19-2007</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>504-1</num>
+      <heading>Purpose and title.</heading>
+      <para>
+        <num>A.</num>
+        <text>Title. <cite path="|II|504|I">This article</cite> shall be titled "Scavenging and Dumping."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Purpose. The purpose of <cite path="|II|504|I">this article</cite> is to promote health, safety, aesthetics, and environmental protection at the tribal dumping sites on the Menominee Indian Reservation. The general intent of <cite path="|II|504|I">this article</cite> is to prevent unregulated scavenging and dumping at all the dump sites. It is further intended to provide for the administration and enforcement of <cite path="|II|504|I">this article</cite> and to provide penalties for its violation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-2</num>
+      <heading>Scope of regulations.</heading>
+      <text>The provisions and requirements of these regulations shall be adhered to by any and all residents and nonresidents of the Menominee Indian Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|504|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>SCAVENGING — Salvaging, collecting, or picking material from discarded solid waste at all solid waste disposal sites for use, reuse or sale by the individual, group or business.</text>
+      <text>SOLID WASTE — Garbage, refuse, or other waste material, including liquid waste, generated from business and living activities.</text>
+      <text>SOLID WASTE DISPOSAL SITES — Sites designated by the Menominee Indian Tribe for disposal of solid waste.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-4</num>
+      <heading>Prohibited acts.</heading>
+      <text>It shall be illegal for any individual, group, or business, whether resident or nonresident, to:</text>
+      <para>
+        <num>A.</num>
+        <text>Scavenge at any solid waste disposal site on the Menominee Indian Reservation. This restriction shall not apply to any individual or business who or which has a contract with the Menominee Indian Tribe to collect, remove, dispose or recycle solid waste, metals or materials and who or which is acting within the scope of his or its contract.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Dispose of any solid waste on any land outside of the designated solid waste disposal sites. Disposal of solid waste shall be permitted on special days at hours which shall be posted at sites.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-5">
+      <prefix>§</prefix>
+      <num>504-5</num>
+      <heading>Enforcement.<fn proof="needed" path="|II|§504-5|footnotes|1">1</fn></heading>
+      <text>It shall be the duty of the Menominee Tribal Police Department and any of its designated deputies or officers and the Department of Conservation to enforce the provisions of <cite path="|II|504|I">this article</cite>.</text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-6</num>
+      <heading>Violations and penalties.</heading>
+      <text>Violations of <cite path="|II|504|I">this article</cite> will result in the following penalties:</text>
+      <para>
+        <num>A.</num>
+        <text>First violation: a forfeiture of $100 to be paid to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Second violation: a forfeiture of $300 to be paid to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Third and subsequent violation: a forfeiture of $500 to be paid to the Tribal Court.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|504|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Solid Waste Management [Adopted 2-4-1988 by Ord. No. 87-26]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>504-7</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of these rules under <cite path="|II|504|II">this article</cite> is to help ensure that efficient, nuisance-free and environmentally acceptable solid waste management procedures are practiced within the exterior boundaries of the Menominee Indian Reservation and Menominee County; to establish minimum standards defining acceptable solid waste management sites applicable to owners or operators of solid waste facilities (landfills) which store solid waste; to establish standards for the transportation and collection of solid waste on the Reservation; to establish regulations concerning salvage yards and incinerators; and to establish fees for associated land disposal facilities and long-term care of sites.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-8</num>
+      <heading>Prohibition.</heading>
+      <text>Because of the concern and problems associated with solid waste management on the Menominee Indian Reservation, the Tribe has prohibited constructing or using land spreading sites or facilities, and storing or disposing of hazardous wastes as defined under <cite path="|II|361">Chapter 361</cite>, Article I, Hazardous Waste, of this Code, in any site or facility constructed or used exclusively for the disposal of solid wastes within the exterior boundaries of the Menominee Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-9</num>
+      <heading>Authority.</heading>
+      <text>These rules under <cite path="|II|504|II">this article</cite> shall be governed by Article I (Jurisdiction) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, a federally recognized sovereign Indian tribe, be consistent with applicable federal law, and extend to all persons and subjects, to all lands and other property, including natural resources, and to all waters and air space within the exterior boundaries of the Menominee Reservation, including any land which may hereafter be added to the Reservation under any law of the United States. The governmental powers of the Menominee Indian Tribe shall, consistent with applicable federal law, also extend outside the exterior boundaries of the Reservation to any persons, subjects, or real property which is, or may hereafter be, included within the jurisdiction of the Tribe under any law of the United States. Any person who violates any regulations or laws set forth under <cite path="|II|504|II">this article</cite> shall be prosecuted under tribal law whereby under Article III, Section 2 of the Tribal Constitution and Bylaws (Powers of the Tribal Judiciary), the Tribal Judiciary shall be vested with all judicial powers of the Tribe, including the power to decide cases in which a person is accused by the Tribe of committing an offense against the laws of the Tribe. The powers granted to the judiciary by this section shall include judicial powers restored or granted to the Tribe by any law of the United States or other competent authority.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-10</num>
+      <heading>Interaction with other governments.</heading>
+      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of these rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has responsibility for all matters of tribal policy under <cite path="|II|504|II">this article</cite>. The Wisconsin Department of Natural Resources, acting as a neighboring government whose interests are served by the development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination</text>
+      <text>with each other, as they share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-11</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>These rules govern all solid waste disposal facilities as defined by <cite path="|II|504|II">this article</cite>, under the definition of "solid waste management facilities" in <cite path="§504-12">§ 504-12</cite>, except hazardous waste facilities. Hazardous waste will be regulated under <cite path="|II|361">Chapter 361</cite>, Article I, Hazardous Waste, of this Code.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The provisions of <cite path="|II|504|II">this article</cite> are not applicable to the design, construction or operation of industrial wastewater facilities, sewerage systems, and waterworks treating liquid waste.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-12">
+      <prefix>§</prefix>
+      <num>504-12</num>
+      <heading>Definitions.</heading>
+      <text>The following special definitions are applicable to the terms used in <cite path="|II|504|II">this article</cite>:</text>
+      <text>AIR CURTAIN DESTRUCTOR — A solid waste processing facility that combines a fixed open pit and mechanical air supply which uses an excess of oxygen and turbulence to accomplish the smokeless combustion of clean wood wastes and similar combustible materials.</text>
+      <text>CLOSING — The time at which a solid waste facility ceases to accept waste, and includes those actions taken by the owner or operator of the facility to prepare the site for any required long-term care and make it suitable for other uses.</text>
+      <text>CLOSURE — Those actions taken by the owner or operator of a solid waste site or facility to prepare the site for long-term care and to make it suitable for other uses.</text>
+      <text>CLOSURE PLAN — A written report and supplemental engineering plans detailing those actions that will be taken by the owner or operator to effect proper closure of a solid waste disposal facility.</text>
+      <text>COD — Chemical oxygen demand.</text>
+      <text>COLLECTION AND TRANSPORTATION SERVICES — A solid waste disposal operation which utilizes containers, vehicles or other means for the collection and transportation of solid waste.</text>
+      <text>CONSTRUCT — To engage in a program of on-site construction, including but not limited to site clearing, grading, development or landfills.</text>
+      <text>CONSTRUCTION OBSERVATION REPORT — A written report submitted under the seal of a registered professional engineer advising that a solid waste disposal facility has been constructed in substantial compliance with a Tribe-approved plan of operation.</text>
+      <text>CONTAINERIZED STORAGE FACILITY — A mechanical or nonmechanical storage container or facility designed and operated for storage and containment of solid waste.</text>
+      <text>CRITICAL HABITAT AREAS — Any habit determined by the Tribe to be critical to the continued existence of any endangered species listed in Ch. NR 27, Wis. Adm. Code.</text>
+      <text>DEMOLITION MATERIAL — Solid waste resulting from the demolition or razing of buildings, roads and other man-made structures. Demolition material typically consists of concrete, brick, bituminous concrete, wood, masonry and plaster, alone or in combinations.</text>
+      <text>DESIGN CAPACITY — The total volume in cubic yards of solid waste to be disposed of in a land disposal facility, including the volume of daily and intermediate cover utilized in the facility, but not including final cover or topsoil.</text>
+      <text>DETRIMENTAL EFFECT ON GROUND OR SURFACE WATER — Causing a violation of the ground or surface water quality standards established under <cite path="|II|562">Chapter 562</cite>, Article I, Groundwater Quality, and <cite path="|II|512">Chapter 512</cite>, Surface Water, of this Code, respectively.</text>
+      <text>DISCARDED MATERIAL — Material that is no longer of use to the generator of the material in the process from which it was generated.</text>
+      <text>DISPOSAL — The discharge, deposit, injection, dumping, or placing of any solid waste into or on any land or water so that such solid waste or any constituent thereof may enter the environment or be emitted into the air or discharged into any waters, including groundwater.</text>
+      <text>DREDGE MATERIAL — Any earth material removed from the bed of any surface water. ESTABLISH — To bring a solid waste disposal facility into existence.</text>
+      <text>EXPAND AN EXISTING FACILITY — To dispose of solid waste on land not previously covered under the approved plan of operation.</text>
+      <text>FEASIBILITY REPORT — A report for a specific solid waste disposal facility that describes the site, surrounding area, and proposed operation in terms of land use, topography, soils geology, groundwater, surface water, proposed waste, quantities and characteristics, and preliminary facility design concepts.</text>
+      <text>FILL AREA — The area proposed to receive or which is receiving direct application of solid waste.</text>
+      <text>FLOODPLAIN — The land which has been or may be hereafter covered by floodwater during the regional flood as defined in Ch. NR 116, Wis. Adm. Code, and includes the floodway and the flood fringe as defined in Ch. NR 116, Wis. Adm. Code.</text>
+      <text>FOOD CHAIN CROP — Crops grown for human consumption, and pasture, forage and feed grain for animals whose products are consumed by humans.</text>
+      <text>GARBAGE — Discarded materials resulting from the handling, processing, storage and consumption of food.</text>
+      <text>HAZARDOUS WASTE — Any waste identified by the Tribe as hazardous pursuant to criteria promulgated by the Tribe. The tribal criteria will be identical to the criteria promulgated by the United States Environmental Protection Agency under § 3001(b) of the Resource Conservation and Recovery Act of 1976, P.L. 94-580.</text>
+      <text>LAND DISPOSAL FACILITY — A solid waste disposal facility where solid waste is placed in a landfill or surface impoundment facility for disposal purposes.</text>
+      <text>LANDFILL — A solid waste land disposal facility, not classified as a surface impoundment facility, where solid waste is disposed on land without creating nuisances or hazards to public health or safety by utilizing the principles of engineering to confine the solid waste to the smallest practical area, to reduce it to the smallest practical volume and to cover it with a layer of earth at such intervals as may be necessary.</text>
+      <text>LANDSPREADING — The discharge, deposit or placement of solid wastes onto the land surface, or incorporated into the top several feet of the surface soil, for agricultural, silvicultural and/or waste disposal purposes.</text>
+      <text>LEACHATE — Water or other liquid that has been contaminated by dissolved or suspended material due to contact with solid waste or gases thereof.</text>
+      <text>LONG-TERM CARE — The routine care, maintenance and monitoring of a solid waste land disposal facility following the closing of the facility.</text>
+      <text>MINING WASTE — All waste soil, rock, mineral, liquid, vegetation and other material directly resulting from or displaced by the prospecting or mining and from the clearing or preparation of minerals during the prospecting or mining operation.</text>
+      <text>MUNICIPAL SOLID WASTE — Solid waste primarily generated by residential activities but may include minor amounts of commercial and industrial waste that are in the total waste stream and are not hazardous.</text>
+      <text>NONCOMBUSTIBLE MATERIALS — Solid waste which will not support combustion in the ambient atmosphere.</text>
+      <text>NONCONTAINERIZED STORAGE FACILITY — A facility designed and operated for storage of solid waste generally in volumes too large for containerized storage.</text>
+      <text>OPEN BURNING — Combustion of solid waste where the products of combustion are emitted directly into the ambient air without passing through a stack or chimney.</text>
+      <text>OPEN DUMP — A land disposal facility which is not a sanitary landfill.</text>
+      <text>PERSON — An individual both tribally enrolled and a descendant of tribally enrolled members, trust, firm, cooperative, institution, joint-stock company, corporation (including the Menominee Tribal Government Corporation), partnership, association, municipality, commission, agency or instrumentality.</text>
+      <text>PLAN OF OPERATION — A report submitted for a solid waste disposal site or facility that describes its location, design, construction, sanitation, operation, maintenance, closing and long-term care.</text>
+      <text>POLLUTION — The contaminating or rendering unclean or impure of the waters, air or land of the Menominee Reservation, making the same injurious to public health, harmful for commercial or recreational use, or deleterious to fish, birds, or animal or plant life.</text>
+      <text>PROCESSING FACILITY — A solid waste facility at which solid waste is baled, shredded, pulverized, composted, classified, separated or altered by some means to facilitate further transfer, processing, utilization or disposal or incineration. Processing facilities do not include operations conducted by scrap metal, paper, fiber or plastic processors excluded from the definition of "solid waste disposal sites and facilities" in this section.<fn path="|II|§504-12|footnotes|2">2</fn></text>
+      <text>PROOF OF FINANCIAL RESPONSIBILITY — A bond, deposit or account ensuring that sufficient funds will be available to comply with the closure and long-term care requirements of <cite path="|II|504|II">this article</cite> and the approved plan of operation.</text>
+      <text>PUTRESCIBLE WASTE — Solid waste which contains organic matter capable of being decomposed by microorganisms and of such a character and proportion as to be capable of attracting or providing food for animals.</text>
+      <text>REFUSE — Combustible and noncombustible rubbish, including but not limited to paper, wood, metal, glass, cloth and products thereof; litter and street rubbish; ashes; and lumber, concrete, and other debris resulting from the construction or demolition of structures.</text>
+      <text>REGISTERED PROFESSIONAL ENGINEER — A professional engineer registered as such with the Wisconsin Examining Board of Architects, Professional Engineers, Designers and Land Surveyors.</text>
+      <text>RESERVATION — The Menominee Indian Reservation.</text>
+      <text>SALVAGEABLE MATERIAL — Junk cars, machinery or equipment, scrap metal or other junk or scrap materials which are of further usefulness mainly as a raw material for reprocessing or as imperfect stock from which replacement or spare parts can be extracted.</text>
+      <text>SALVAGE YARD — A solid waste disposal site or facility at which salvageable materials are stored or sold or at which wrecking, dismantling or demolition of salvageable materials is conducted. Salvage yards do not include operations conducted by scrap metal, paper, fiber or plastic processors excluded from the</text>
+      <text>definition of "solid waste management facilities" in this section, nor do salvage yards include small storage areas for equipment such as are normally found adjacent to industrial and commercial establishments.</text>
+      <text>SANITARY LANDFILL — A land disposal facility conforming to the applicable requirements of <cite path="|II|504|II">this article</cite>.</text>
+      <text>SEPTAGE — Semisolid or liquid human or domestic waste removed from septic tanks, holding tanks, seepage pits, grease traps, or portable or permanent privies.</text>
+      <text>SEWERAGE SYSTEMS — All structures, conduits and pipelines by which sewage is collected, treated and disposed of, except plumbing inside and in connection with buildings served, and service pipes from building to street main.</text>
+      <text>SLUDGE — Any solid, semisolid, or liquid waste generated from a municipal, commercial or industrial wastewater treatment plant, water supply treatment plant or air pollution control facility.</text>
+      <text>SOIL — Material that has been physically and chemically derived from the bedrock by nature.</text>
+      <text>SOLID WASTE — Any garbage or refuse resulting from domestic, industrial, commercial, and agricultural operations and from community activities, but does not include solid or dissolved material in domestic sewage or solid or dissolved material in irrigation return flows.</text>
+      <text>SOLID WASTE MANAGEMENT — The systematic administration of activities which provide for collection, source separation, storage, transportation, transfer, processing, treatment and disposal of solid waste.</text>
+      <text>SOLID WASTE MANAGEMENT FACILITIES — Any private, commercial, industrial or municipal establishments or operations, such as, without limitation because of enumeration, sanitary landfills, dumps, land disposal sites, auto junkyards, scrap metal salvage yards, transfer stations, storage facilities, collection and transportation services and other establishments or operations for the storage, collection, transportation, transfer, processing, treatment, recovery or disposal of solid waste. "Solid waste disposal sites and facilities" does not include a site or facility for the processing of scrap iron, steel or nonferrous metal using large machines to produce a principal product of scrap metal for sale or use for remelting purposes, nor does the term include a site or facility which uses large machines to sort, grade, compact or bale clean wastepaper, fibers or plastics, not mixed with other solid waste, for sale or use for recycling purposes.</text>
+      <text>STABILIZATION OF A LAND DISPOSAL SITE OR FACILITY — The process of waste settlement and associated land surface maintenance to ensure that the majority of the settlement has occurred, that pockets or depressions caused by settlements have been refilled or regraded, and that the final land surface contours represent a stable condition for closure and site maintenance purposes, including slopes for positive runoff.</text>
+      <text>STABILIZATION OF WASTE — Any chemical, physical, or thermal treatment of a waste, either alone or in combination with biological processes, which results in a significant reduction of pathogenic organisms, including viruses.</text>
+      <text>STORAGE SITE OR FACILITY — A solid waste disposal site or facility for the storage of solid waste on a temporary basis in such a manner as not to constitute ultimate disposal of solid waste.</text>
+      <text>SURFACE IMPOUNDMENT FACILITY — A natural topographic depression, artificial excavation or dike arrangement which is used for storage of waste fluids or semisolids.</text>
+      <text>TOPSOIL — Natural loam, sandy loam, silt loam, silt clay loam or clay loam humus-bearing soils or other material that will easily produce and sustain dense growths of vegetation capable of preventing wind and water erosion of the material itself and other materials beneath.</text>
+      <text>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of solid waste from</text>
+      <text>one vehicle or container to another, generally of larger capacity, occurs prior to transporting to the point of processing or disposal.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin. USGS — United States Geological Survey.</text>
+      <text>WATERWORKS — All structures, conduits and appurtenances by means of which water is delivered to consumers, except piping and fixtures inside buildings served, and service pipes from buildings to street main.</text>
+      <text>WELL NEST — Two or more wells installed within 10 feet of each other at the ground surface and constructed to varying depths.</text>
+      <text>WETLANDS — Those areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas. The permanent channels of streams and rivers and open water of lakes and reservoirs are not included in this definition.</text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: See definition of "solid waste management facilities."</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-13">
+      <prefix>§</prefix>
+      <num>504-13</num>
+      <heading>License required; license period and fees.</heading>
+      <para>
+        <num>A.</num>
+        <text>No person shall maintain or operate a solid waste disposal site or facility unless the person has obtained an operating license from the Menominee Tribal Department of Community Development. The license period shall be one year beginning upon approval of a solid waste disposal site or facility and payment of fees to the Tribe.<fn path="|II|§504-13|footnotes|3">3</fn></text>
+        <para>
+          <num>(1)</num>
+          <text>Application for initial licensing or renewal licensing of a solid waste disposal site or facility shall be submitted on forms supplied by the Tribe with the appropriate fees as shown in Table 1, Menominee Tribal Solid Waste Fee Schedule.<fn path="|II|§504-13|footnotes|4">4</fn></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>License fees for solid waste disposal sites or facilities are not refundable.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person shall establish or construct a solid waste disposal site or facility within the exterior boundaries of the Reservation until a public hearing has been held in which all affected persons can comment on the proposed site or facility.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No person shall establish or construct a solid waste disposal site or facility within the exterior boundaries of the Reservation prior to obtaining written approval from the Tribe of plans describing facility feasibility and operation, except as otherwise provided in <cite path="|II|504|II">this article</cite>. The plan review fee specified herein shall accompany all plans submitted to the Tribe for approval. Plan review fees are not transferable, proratable or refundable.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Table 1 is included at the end of <cite path="|II|504">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-14">
+      <prefix>§</prefix>
+      <num>504-14</num>
+      <heading>General submittal requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>Unless otherwise specified in <cite path="|II|504|II">this article</cite>, all submittals for review and approval shall include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The review fee specified in <cite path="§504-13">§ 504-13</cite> in check or money order payable to the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A letter detailing the desired tribal action or response.</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Three copies of the plan or report prepared pursuant to the appropriate section of <cite path="|II|504|II">this article</cite>. All copies shall be submitted to the Tribe. The plans and reports and all methods and procedures used to prepare them shall conform to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Preparation. The submittal shall be under the seal of a registered professional engineer.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Investigation. All technical procedures used to investigate a solid waste disposal site or facility shall be the current standard procedures as specified by the American Society for Testing Materials, USGS, Standard Methods for the Examination of Water and Wastewater, or other equivalent or appropriate methods approved by the Tribe. Test procedures used shall be specified. Any deviation from a standard method shall be explained in detail with reasons provided.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Format. All submittals shall include:</text>
+            <para>
+              <num>[1]</num>
+              <text>The required technical information as specified in <cite path="|II|504|II">this article</cite>, information or conclusions. The visuals shall be legible. All maps, plan sheets, drawings, isometrics, cross sections and aerial photographs shall meet the following requirements:</text>
+              <para>
+                <num>[a]</num>
+                <text>Generally be no larger than 24 inches by 36 inches and no smaller than 8 1/2 inches by 11 inches.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Be of appropriate scale to show all required details in sufficient clarity.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Be numbered, referenced in the narrative, titled, have a legend of all symbols used, contain horizontal and vertical scales (where applicable), and specify drafting or origination dates.</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>Use uniform scales as much as practical.</text>
+              </para>
+              <para>
+                <num>[e]</num>
+                <text>Contain a North arrow.</text>
+              </para>
+              <para>
+                <num>[f]</num>
+                <text>Use USGS datum as basis for all elevations.</text>
+              </para>
+              <para>
+                <num>[g]</num>
+                <text>Plan sheets showing site construction, operation or closure topography shall also show original topography.</text>
+              </para>
+              <para>
+                <num>[h]</num>
+                <text>Plan sheets for land disposal sites and facilities shall indicate a survey grid based on monuments established in the field specifically for that purpose.</text>
+              </para>
+              <para>
+                <num>[i]</num>
+                <text>All cross sections shall show survey grid location and be referenced to major plan sheets.</text>
+              </para>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>An appendix listing names of all references, all necessary data, procedures and calculations.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>A submittal for initial licensing or relicensing of any solid waste disposal facility shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>The license fee specified in <cite path="§504-13">§ 504-13</cite> in check or money order payable to the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A completed copy of the appropriate application form.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For all land disposal sites and facilities with plans of operations approved under <cite path="|II|504|II">this article</cite>, proof of financial responsibility as specified in <cite path="§504-20">§ 504-20</cite>. (Note: Submittals can be made to the Menominee Tribal Department of Community Development.)<fn path="|II|§504-14|footnotes|5">5</fn></text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-15</num>
+      <heading>Collection and transportation services requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall maintain or operate a collection or transportation service unless the person has obtained an operating license from the Tribe, except as otherwise provided in <cite path="§504-15|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exemptions. The following services are exempt from all requirements of this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>Services collecting and transporting only salvageable material, gravel pit spoils, quarry materials or earth materials.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Services collecting and transporting only ordinary solid waste from a single household or amounting to less than 10 tons per year or 1,667 pounds per month.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Operational requirements. No person shall operate or maintain a solid waste collection and transportation service except in accordance with the following minimum requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Each vehicle shall have lettered "MIT" followed by the license number on the driver's door. The letters shall be at least two inches high with a minimum brush stroke of 1/2 inch. The lettering colors shall contrast with the background to make it easy to read.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Solid waste shall be collected from, transported to and disposed of only at facilities meeting the requirements of <cite path="|II|504|II">this article</cite> or taken to a licensed or approved facility off the Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All vehicles or containers used for the collection and transportation of solid waste shall be durable, easily cleanable and leakproof, if necessary, considering the type of waste and its moisture content. These vehicles and containers shall be cleaned frequently to prevent nuisances or insect breeding and shall be maintained in good repair.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Vehicles or containers used for the collection and transportation of solid waste shall be loaded and moved in such a manner that the contents will not fall, spill or leak therefrom. Covers shall be provided, as necessary, to prevent littering and spillage. If spillage does occur the operator shall immediately return spilled materials to the vehicle and shall properly clean the spill area.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Expansion or termination. The owner or operator shall notify the Tribe in writing of any expansion or termination of a service or of any changes in the use of disposal facilities 30 days prior to effective date of such action.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Responsibility. Except as otherwise provided in <cite path="|II|504|II">this article</cite>, any person generating solid waste shall be responsible for the collection and transportation of the waste to a solid waste disposal site or facility licensed by the Tribe or off the Reservation to an approved site, unless the person contracts with a collection and transportation service licensed by the Tribe for that purpose.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-16</num>
+      <heading>Transfer facilities.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall maintain or operate a solid waste transfer site or facility unless the person has obtained an operating license from the Tribe. Any person intending to establish or construct a solid waste transfer facility shall contact the Tribe to arrange for an initial facility inspection.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Transfer facility operations. Transfer facilities designed and operated to receive solid waste from individual users and from hand-unloaded vehicles shall conform to the following practices:</text>
+        <para>
+          <num>(1)</num>
+          <text>Containers shall be leakproof and manufactured of rot-proofed material. A closeable cover shall not be required unless specifically requested in writing by the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where mechanical equipment is a part of the operation, access shall be limited to those times that attendants are on duty. Access restrictions and/or attendants may be required in writing by the Tribe for a nonmechanical facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Containers shall be removed or emptied at least once per week and more frequently if conditions warrant.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The transfer station and adjacent area shall be kept clean and free of litter.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No open burning of solid waste shall be conducted.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Effective means shall be provided to control flies, rodents and other insects or vermin.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Plan of operation. No person shall establish or construct a solid waste transfer site or facility or expand an existing operation unless the person has obtained approval of a plan of operation from the Tribe. The plan of operation shall specify the intent and objectives of the proposal and indicate methods and procedures to minimize adverse environmental impacts of the proposed operation. The plan shall be submitted in accordance with <cite path="§504-14|A">§ 504-14A</cite> and shall include plans and specifications denoting plant layout, building construction, equipment placement and material handling systems within the plant. The plan of operation shall contain, at a minimum, the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>Introduction and general information, including:</text>
+          <para>
+            <num>(a)</num>
+            <text>Legal description of the facility and facility boundaries.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Adjacent land ownership and land use with 1/2 mile of the proposed site.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The operator of the site.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Facility size.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Proposed life expectancy of the facility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Surface features of the proposed site, including:</text>
+          <para>
+            <num>(a)</num>
+            <text>USGS 7 1/2 minute or 15 minute quadrangle map.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A vicinity map(s) indicating the following features within 1/2 mile of the facility:</text>
+            <para>
+              <num>[1]</num>
+              <text>Property boundaries of the proposed site.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Predominant surface water drainage features.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Surface water bodies.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Wetlands, floodplain and shoreline areas.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Roads and highways.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>Industrial, commercial and residential buildings.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Plot plan(s) of the transfer facility, including:</text>
+          <para>
+            <num>(a)</num>
+            <text>Site plan indicating locations of all buildings, roadways, parking and storage areas.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Existing and proposed final ground surface contours.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Locations of receiving or unloading areas and exit or material removal areas.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Location of proposed utilities servicing the transfer station.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Means of limiting access, such as fencing, gates, natural barriers or other methods.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Method of screening the facility from the surrounding areas.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Buildings and equipment plans and drawings, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Plans of all structures proposed at the facility, including foundations, walls, floor elevations, and other construction items.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Cross-section drawings through the facility indicating process flow lines.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cross-section drawings of each major piece of mechanical equipment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Plans and drawings of supplemental construction areas, fixed or moveable equipment, electrical systems, and any other drawings necessary to fully describe the facility.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A narrative shall be prepared outlining facility operations and regulations. This report shall include, at a minimum:</text>
+          <para>
+            <num>(a)</num>
+            <text>Consistency of facility development with area-wide solid waste plans, land use plans, or other area-wide plans. Alternatives considered in the project planning phase shall be discussed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Population and area to be served by the facility and projections for increased use in the future.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Type and quantity of waste to be handled and specific waste types not accepted at the facility.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Persons responsible for structural improvements, building maintenance and daily operations and control of the facility.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Type of vehicles used to transport solid waste into and out of the station.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Vehicle traffic routing at the facility and provisions for access to connecting roadways.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Methods of water supply and wastewater treatment.</text>
+        <para>
+          <num>(h)</num>
+          <text>Methods of volume reduction, such as compacting, grinding, compression or tamping.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Design criteria used to select equipment capacity and building configuration and sizing.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Daily cleanup procedures.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Names and locations of all solid waste disposal operations to which waste from the transfer station may be hauled.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Procedures for alternate routing of waste during inoperable periods at the facility.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Appurtenances and procedures to handle heavy or bulky items and store solid waste beyond the end of the working day.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Equipment and procedures designed to control dust, odors, noise, and windblown paper.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Equipment and procedures designed to prevent and control fire, including heat and/or smoke sensors; fire extinguishers; two-inch diameter fire hose of sufficient length to access the entire facility; and an adequately sized well for indoor facilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Locational criteria. No person shall establish, construct, operate, maintain or permit the use of property for a transfer site or facility in wetlands.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Operational requirements. No person shall operate or maintain a transfer site or facility except in conformance with the approved plan of operation and the following minimum requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>A sign, acceptable to the Tribe, shall be posted at the entrance to the operation which indicates the name, license number and hours of use of the operation, penalty for unauthorized dumping and use, necessary safety precautions, and any other pertinent information specified by the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A building, roofed and enclosed on at least three sides where applicable, or otherwise enclosed to satisfactorily control dust, papers, and other waste material, shall be provided.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Screening shall be provided for a transfer site or facility located within 500 feet of any residence.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The site or facility shall be operated under the close supervision of a responsible individual(s) who is thoroughly familiar with the requirements and the operational procedures of the transfer site or facility.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Access shall be limited to those times that an attendant is on duty.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>There shall be no storage of solid waste in the building or yard for a period greater than 24 hours except in licensed collection and transportation units.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Unloading of solid waste shall take place only within the enclosed structure and only on approved designated areas.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Solid waste shall be confined to the unloading, loading and hauling area.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The transfer site or facility and adjacent area shall be kept clean and free of litter. Litter shall be picked up daily adjacent to the facility.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Hazardous waste shall not be permitted at the transfer site or facility.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Dust and odor generated by the unloading of solid waste and the operation of the transfer site or facility shall be controlled at all times.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>No open burning of solid waste shall be conducted.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Solid waste which is burning or is at a temperature likely to cause fire or is of a highly flammable or explosive nature shall not be accepted at the transfer site or facility.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Equipment shall be provided to control accidental fires, and arrangements shall be made with the local fire department to provide immediate services when needed.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Means shall be provided to control flies, rodents, and other insects or vermin.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Sanitary facilities shall be available for use by facility operators.</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>Provision shall be made for needed maintenance of the transfer site or facility after each day of operation.</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>Means of communication shall be provided for emergency purposes.</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>An approved alternative method of waste processing or disposal shall be provided in the event that the transfer site or facility is reported inoperable.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Closure. Any person who operates or maintains a transfer site or facility or who permits the use of property for such purpose shall close the facility in accordance with any plan approval issued by the Tribe and the following minimum practices:</text>
+        <para>
+          <num>(1)</num>
+          <text>The operator shall notify the Tribe and all users of the facility in writing at least 60 days prior to closure of the facility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Access shall be restricted through the use of a fence, gate plantings or other appropriate means upon closure of the facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The operator shall provide a sign notifying users of the facility of closure upon termination of operations.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-17</num>
+      <heading>Processing facilities.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall operate or maintain a solid waste processing site or facility within the exterior boundaries of the Menominee Reservation except as provided in <cite path="§504-17|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exemptions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Composting operations used for processing solid waste from a single family or household, a member of which is the owner, occupant or lessee of the property used for the solid waste processing operation, are exempt from the requirements of this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sites or facilities which use large machines to sort, grade, compact or bale clean wastepaper, fibers or plastics, not mixed with other solid waste, for sale or use for recycling purposes are exempt from the requirements of this section.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-18</num>
+      <heading>Incinerators.</heading>
+      <text>No person shall operate or maintain an incinerator within the exterior boundaries of the Menominee Reservation.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-19</num>
+      <heading>Air curtain destructors.</heading>
+      <text>No person shall operate or maintain an air curtain destructor facility within the exterior boundaries of the Menominee Reservation.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-20">
+      <prefix>§</prefix>
+      <num>504-20</num>
+      <heading>Solid waste land disposal sites and facilities.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall operate or maintain a solid waste land disposal facility unless the person has obtained an operating license from the Tribe, except as otherwise provided in <cite path="§504-20|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exemptions. Facilities for the disposal of wood residue from a saw mill debarker or equivalent industry which produces less than 5,000 board feet of lumber per year or equivalent and having a total disposal site volume of less than 500 cubic yards of wood residue are exempt from the requirements of this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Locational criteria.</text>
+        <para>
+          <num>(1)</num>
+          <text>No person shall establish, construct, operate, maintain, or permit the use of property for a solid waste land disposal site or facility within the following areas:</text>
+          <para>
+            <num>(a)</num>
+            <text>Within 1,000 feet of any navigable lake, pond or flowage.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Within 300 feet of a navigable river or stream.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Within a floodplain.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Within 1,000 feet of the nearest edge of the right-of-way of any state trunk highway, interstate or federal aid primary highway or the boundary of any public park, unless the site is screened by natural objects, planting, fences or other appropriate means so as not to be visible from the highway or park.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Within wetlands.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Within critical habitat areas.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Within an area where the Tribe after investigation finds that there is a reasonable probability that disposal of solid waste within such an area will have a detrimental effect on any surface water.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Within an area where the Tribe after investigation finds that there is a reasonable probability that disposal of solid waste within such an area will have a detrimental effect on groundwater quality.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Within 1,200 feet of any public or private water supply well.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An applicant for an initial license or for approval of an expansion on of an existing land disposal facility shall demonstrate to the Tribe that the proposed site will be in compliance with all of the locational standards of this section for which no exemption has been granted. No exemptions from compliance with <cite path="§504-20|C|(1)(g)">Subsection C(1)(g)</cite> and (h) will be granted by the Tribe. Exemptions from compliance with <cite path="§504-20|C|(1)(d)">Subsection C(1)(d)</cite> and (i) may be granted only upon demonstration by the applicant of circumstances which warrant such an exemption. The factors which will be considered by the Tribe in determining whether or not to grant an exemption include waste types and characteristics, site or facility design and operational considerations, availability of other environmentally suitable alternatives, compliance with other federal regulations and the public health, safety and welfare.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Initial site inspection. Any person intending to establish a land disposal site or facility or expand an existing site shall contact the Tribe to arrange for an initial site inspection.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Initial site report.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person, prior to submitting a feasibility report, may submit an initial site report in accordance with <cite path="§504-14|A">§ 504-14A</cite> to the Tribe. The purpose of submitting this report is to obtain a preliminary opinion from the Tribe on the potential of the site for development and the advisability of spending additional time and funds to prepare a feasibility report. The Tribe shall review and respond to the initial site report within 90 days of receipt. A favorable determination under this section does not guarantee a favorable determination of site feasibility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An initial site report may be as detailed as the applicant chooses to make it. The greater the detail, the more certain the Tribe can be in its response. For guidance purposes, the following indicates the type and extent of information that might be submitted in a initial site report:</text>
+          <para>
+            <num>(a)</num>
+            <text>General site information. The report should identify project title; name, address and telephone number of primary contact person for tribal correspondence; consultant(s); present property owner; proposed disposal site owner and operator; legal description of site by metes and bounds; total acreage of property and proposed licensed acreage; proposed site life and disposal capacity; municipalities, industries and collection and transportation agencies to be served; estimated waste types and estimated weekly quantities to be disposed; anticipated covering frequency; and mode of operation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Regional geotechnical information. A discussion of the regional setting should be included to provide a basis for comparison and interpretation of any site-specific information obtained through field investigations. The discussion should be limited to information available from publications, although some field verification and updating may be desirable. The term "regional" as utilized herein is intended to include that area which may affect or be affected by the proposed site. In most instances this will be the proposed site and the area within a one-mile radius of the site. The discussions should be supplemented by maps or cross sections, where appropriate. The following items should be addressed:</text>
+            <para>
+              <num>[1]</num>
+              <text>Topography, including predominant topographic features.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Hydrology, including surface water drainage patterns and significant hydrologic features, such as surface waters, springs, drainage divides and wetlands.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Geology, including the nature and distribution of bedrock and unconsolidated deposits.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Hydrogeology, including depth to groundwater, groundwater flow directions, recharge and discharge areas, groundwater divides, aquifers and the identification of the aquifer used by public and private wells within 1,200 feet of the proposed site.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Groundwater and surface water quality.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Land use information. A discussion of the present land use of the site and surrounding area should be included. The radius of coverage should extend to all areas that may affect or be affected by the proposed site. In most instances, this will be the proposed site and the area within one mile of the site. The discussion should be supplemented by maps, where appropriate. The following items should be addressed:</text>
+            <para>
+              <num>[1]</num>
+              <text>Identification of adjacent landowners.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Zoning.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Present land uses with particular emphasis on known recreational, historic or archaeological areas.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Present or proposed access roads and weight restrictions.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Site-specific geotechnical information. Where the applicant chooses to gather site specific data, the following should be considered:</text>
+            <para>
+              <num>[1]</num>
+              <text>Field investigations should be performed to define the site-specific topography, soil types, and depth to bedrock and groundwater. These investigations should include:</text>
+              <para>
+                <num>[a]</num>
+                <text>A partial topographic survey of the area. This map should show the proposed fill area, property boundaries, proposed site boundary, soil borings performed and wells installed. The minimum scale should be one inch equals 500 feet with the contour interval sufficient to show site relief. It is recommended that this map consist of a blowup of a USGS map (7 1/2 or 15 minute topographical), with supplemental information added as appropriate.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>Soil borings extending to bedrock or 25 feet below the anticipated site base grade, whichever is less. The borings should be distributed in a grid pattern throughout the area. A minimum of five borings is recommended.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Three of the borings should be developed into groundwater observation wells where groundwater is within 25 feet of the anticipated base grade. Otherwise, one of the borings should be extended to 50 feet below the anticipated base grade or to groundwater or bedrock, whichever is less, and an observation well established.</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>Each major soil layer encountered during boring investigations should be analyzed for grain-size distribution and classified according to the unified soil classifications systems.</text>
+              </para>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The results of the subsurface investigations should be summarized utilizing a series of geologic sections which connect the soil borings performed. Each section should show present topography, borings, wells, major soil layers, water table and bedrock.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Data analysis. The results of the field investigations, regional geotechnical information and land use information should be analyzed and preliminary conclusions and recommendations on site development made. This should include a discussion of the potential for the site to meet the locational requirements in <cite path="§504-20|C">Subsection C</cite> and potential limitations on site development.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Appendix. The site boundaries should be shown on all maps included in the appendix. The appendix should include:</text>
+            <para>
+              <num>[1]</num>
+              <text>All raw data, such as boring logs, soil tests, well construction data and water level measurements.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A plat map of the area.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A USGS quadrangle of the area, updated with locations of applicable wells installed after preparation of the quadrangle.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>A Natural Resources Conservation Service soil map and interpretation, if available.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>References.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Feasibility report.</text>
+        <para>
+          <num>(1)</num>
+          <text>No person shall establish or construct a land disposal site or facility or expand an existing site or facility without first obtaining approval of a feasibility report describing the physical conditions of the proposed site and subsequently obtaining approval of a plan of operation from the Tribe. The purpose of the feasibility report is to determine whether the site has potential for use as a solid waste disposal facility and to identify any conditions which the applicant must include in the plan of operation. The feasibility report shall be submitted in accordance with <cite path="§504-14|A">§ 504-14A</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For sites for the disposal of only municipal solid waste having a proposed capacity of 30,000 cubic yards or less, an initial site report prepared in accordance with <cite path="§504-20|E|(2)">Subsection E(2)</cite> shall qualify as a complete feasibility report. Sites for the disposal of industrial or commercial solid waste having a proposed capacity of 30,000 cubic yards or less may utilize the initial site report in lieu of a complete feasibility report depending upon the waste type to be disposed and the disposal location. Such allowance shall be at the discretion of the Tribe. Where an initial site report is utilized in lieu of a complete feasibility report, all of the information specified in <cite path="§504-20|E|(2)">Subsection E(2)</cite> shall be provided to the Tribe as well as the information required in <cite path="§504-20|F|(3)(i)">Subsection F(3)(i)</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For sites other than those describe in <cite path="§504-20|F|(2)">Subsection F(2)</cite>, the feasibility report shall contain, at a minimum, the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>All information specified in <cite path="§504-20|E|(2)">Subsection E(2)</cite> shall be submitted. Where an initial site report has been submitted this information may be included by reference with additional information addressing Tribe review comments.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An existing site conditions plan sheet shall be prepared. This shall be a detailed topographic survey of the area of investigation. The minimum scale of this plan shall be one inch equals 200 feet with a maximum two-foot contour interval. All elevations shall be related to USGS datum. The plan shall indicate the property boundaries, proposed site boundary, fill area, survey grid and North arrow, homes, buildings, water supply wells, utility lines, man-made features, soil boring locations, observation well locations and other pertinent information.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Field and laboratory investigations shall be performed to further define site physical characteristics, including soils, bedrocks and groundwater. At a minimum, these investigations shall include:</text>
+            <para>
+              <num>[1]</num>
+              <text>Sufficient soil borings to adequately define the soil, bedrock, and groundwater conditions at the site. Under most site conditions, five soil borings for the first five acres and three borings for each additional five acres or portion thereof should be performed. A lesser number of borings may be made based on specific site conditions and site design. The borings shall be located in a grid pattern such that there is a minimum of one boring in each major geomorphic feature (e.g., ridges, lowlands and drainage swales). All borings shall extend a minimum of 25 feet below the anticipated site base grade or to bedrock, whichever is less.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Where soil conditions permit, soil samples shall be collected utilizing standard undisturbed soil sampling techniques. Samples shall not be composited for testing purposes. Soil samples shall be collected from each soil layer encountered at maximum five-foot intervals. All soil samples shall be described.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Boring logs shall be recorded for all borings. Each log shall include soil and rock descriptions and methods of sampling, sample depth, date of boring, water level measurements and dates, and soil test data. All elevations shall be corrected to USGS datum.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>For each major soil layer encountered, at least three soil samples shall be analyzed for grain size distribution (mechanical and/or hydrometer as appropriate to the soil type) and classified according to the unified soil classification system.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>A minimum of three permeability tests shall be conducted for each major soil layer. At least one of the three tests shall be performed utilizing in-field testing procedures.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>Soil borings shall be converted to water table observation wells and well nests in accordance with the following schedule:</text>
+              <para>
+                <num>[a]</num>
+                <text>Three water table observation wells and two well nests for the first five acres or portion thereof.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>One observation well for each additional five acres or portion thereof.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>One well nest for each additional five acres or portion thereof.</text>
+              </para>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>The construction of each well shall be recorded on logs. Well log information shall include the elevations of the ground surface, the bottom of the boring, well seals and screened interval, and a description of well construction materials.</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <text>Upon completion, each well shall be properly developed by successive pumpings and back flushings until clear when soil conditions permit.</text>
+            </para>
+            <para>
+              <num>[9]</num>
+              <text>Once developed, all wells shall be pumped and successive water level measurements shall be made until stabilized readings are obtained.</text>
+            </para>
+            <para>
+              <num>[10]</num>
+              <text>Where public or private wells are present, stabilized water level readings from these wells may be required.</text>
+            </para>
+            <para>
+              <num>[11]</num>
+              <text>All soil borings and monitoring wells constructed for the purpose of gathering information for the feasibility report shall be backfilled with bentonite portland cement slurry when such borings or wells are abandoned.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Data shall be presented as follows:</text>
+            <para>
+              <num>[1]</num>
+              <text>All raw data such as boring logs, well logs, soil tests and water level measurements shall be included in the report appendix.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A series of geologic cross sections passing through all borings shall illustrate existing topography, soil borings, soil classification and other properties, interpreted soil stratigraphy, bedrock, and well and stabilized water level readings.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A water table map shall be constructed based on stabilized water level readings. The existing site conditions plan shall be used as a base for this map. Seasonal changes in groundwater levels shall be predicted.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>When more than two well nests have been constructed, groundwater flow net sections shall be prepared to illustrate horizontal and vertical flow directions. Where appropriate, this information may be illustrated on the geologic sections.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A preliminary water budget shall be prepared for the periods of time before construction, during active operations and after site closure. Factors to be considered in preparation of the water budget are precipitation, evaporation, runoff, infiltration, evapotranspiration, soil and solid waste moisture holding capacity and groundwater flow velocities and volume. The water budget information shall be related to the leachate generation rate and effect of the site on groundwater water levels and quality.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The anticipated types, amounts, and characteristics of the solid waste to be disposed at the site shall be described. Except for municipal solid waste, the physical and chemical characteristics of the waste shall be analyzed and described.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Recommendations on design constraints for development of the site considering all available data shall be made and reasons given for such recommendations. This shall include a discussion of the potential for the site to meet locational requirements in <cite path="§504-20|C">Subsection C</cite>. For expansion of existing facilities, the report shall include sufficient information to assess the effectiveness of the existing facility design and operation.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Based on the conclusions resulting from site analysis, a proposed site design shall be prepared. This shall consist of preliminary engineering plans and a general discussion of proposed operating procedures. This section of the report shall include, at a minimum, the following information:</text>
+            <para>
+              <num>[1]</num>
+              <text>A plan sheet showing proposed access, lateral extent of filling, and phases of site development. The existing site conditions map shall be utilized as a base for this sheet.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A series of north-south and east-west cross sections showing present topography, proposed base grades and final grades. This information may be displayed on the geologic sections.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Preliminary cover balance calculations.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Proposed methods for leachate and gas control.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Proposed operating procedures, including covering frequency, method of site development, method of access control, control of surface water, screening, and other special design features.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>Proposed groundwater and other monitoring.</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>Proposed final use.</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <text>Proposed method of demonstrating financial responsibility and anticipated long-term care requirements.</text>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>The feasibility report shall also include a brief discussion of the following:</text>
+            <para>
+              <num>[1]</num>
+              <text>The purpose and need for the proposed project and for the recommended site shall be evaluated.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>The probable adverse and beneficial physical, biological, social, economic and other impacts of proposed site development shall be identified and evaluated.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The probable adverse impacts of site development that cannot be avoided shall be identified and evaluated.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The irreversible or irretrievable commitments of resources if the site is developed as proposed shall be identified and evaluated.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>The alternatives to the proposed site development shall be identified and evaluated.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>The direct, indirect and cumulative effects of the proposed site development shall be identified and evaluated.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>Within 60 days after a feasibility report is submitted, the Tribe shall notify the applicant in writing whether the report is complete. If the report is not complete, the Tribe will specify the information which must be submitted before the report is deemed complete. The Tribe will determine whether or not the feasibility report is complete by determining whether or not the minimum requirements of <cite path="§504-20|A.|(1)">this subsection</cite> have been met. Additional feasibility information may be required of the applicant after a determination that the feasibility report is complete only if the Tribe establishes that a detailed review of the feasibility report indicates that site feasibility cannot be determined in the absence of such additional information.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribe may by order require the submittal of any of the information specified in this section for any existing landfill.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Plan of operation.</text>
+        <para>
+          <num>(1)</num>
+          <text>General. No person shall establish or construct a site or facility for the land disposal of solid waste or expand an existing land disposal facility until a plan of operation has been submitted in accordance with <cite path="§504-14|A">§ 504-14A</cite> and approved in writing by the Tribe, except as otherwise provided herein. No person shall establish, construct, operate, maintain, close, provide long-term care for, or terminate a site or facility for the land disposal of solid waste except in accordance with this section and with the approved plan of operation, if required by this section. Only persons who have obtained a favorable determination of site feasibility from the Tribe may submit a plan of operation for review and approval.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Content. All plans of operation for land disposal sites and facilities shall contain complete plans and specifications necessary for the construction, operation, monitoring, closing, long-term care and termination of the project and any additional information the Tribe may require for the analysis of environmental impacts of the project. Because these documents are to be used for day-to-day operation of the site, it is imperative that the information be presented in a manner that is clear and understandable. The plan of operation shall contain, at a minimum, the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>Engineering plans consisting of the following:</text>
+            <para>
+              <num>[1]</num>
+              <text>A title sheet indicating the project title, who prepared the plans, the person for whom the plans were prepared, a table of contents, and a location map showing the location of the site and the area to be served.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>An existing site conditions plan sheet indicating site conditions prior to development. The details and extent of coverage shall be the same as that required for the existing site conditions map in <cite path="§504-20|F|(3)(b)">Subsection F(3)(b)</cite>.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A base grade plan sheet indicating site base grades or the appearance of the site if it were excavated in its entirety to the base elevation, before installation of any engineering modifications or the beginning of any filling.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>An engineering modifications plan sheet indicating the appearance of the site after installation of engineering modifications. More than one plan sheet may be required for complicated sites. This plan is required only for those sites with engineering modifications.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>A final site topography plan sheet indicating the appearance of the site at closing, including the details necessary to prepare the site for long-term care.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>A series of phasing plan sheets showing the progression of site development through time. At a minimum, a separate plan shall be provided for initial site preparations and for each subsequent major phase or new area where substantial site preparation must be performed. Each such plan shall include a list of construction items and quantities necessary to prepare the phase indicated.</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>A site monitoring plan sheet showing the location of all devices for the monitoring of leachate production, groundwater quality and gas production and venting. The plan shall include a table indicating the parameters to be monitored for and the frequency of monitoring before and during site development.</text>
+            </para>
+            <para>
+              <num>[8]</num>
+              <text>A long-term care plan sheet showing the site at the completion of closing and indicating those items anticipated to be performed during the period of long-term care for the site. The plan shall include a table listing the items and the anticipated schedule for monitoring and maintenance. In many instances this information can be presented on the final site topography sheet.</text>
+            </para>
+            <para>
+              <num>[9]</num>
+              <text>When applicable, the following information shall be presented on the plan sheet(s):</text>
+              <para>
+                <num>[a]</num>
+                <text>All information required for the existing site conditions map as described in <cite path="§504-20|F|(3)(b)">Subsection F(3)(b)</cite> unless including this information leads to confusion with the data intended for display. However, in all instances, existing site topography shall be sketched lightly or otherwise indicated on the plan sheets required in <cite path="§504-20|G|(2)(a)|[3]">Subsection G(2)(a)[3]</cite>, [4], [5] and [6].</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>A survey grid with base lines and monuments to be used for field control.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Limits of filling for each major waste type or fill area.</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>All drainage patterns and surface water drainage control structures both within the actual fill area and at the site perimeter. Such structures may include berms, ditches, sedimentation basins, pumps, sumps, culverts, pipes, inlets, velocity breaks, sodding, erosion matting, or other methods of erosion control.</text>
+              </para>
+              <para>
+                <num>[e]</num>
+                <text>The direction and sequence of filling within each phase.</text>
+              </para>
+              <para>
+                <num>[f]</num>
+                <text>Ground surface contours at the time represented by the drawing. Spot elevations should be indicated for key features.</text>
+              </para>
+              <para>
+                <num>[g]</num>
+                <text>Areas to be cleared and grubbed and stripped of topsoil.</text>
+              </para>
+              <para>
+                <num>[h]</num>
+                <text>Borrow areas for liner materials, gas venting materials, berms, roadway construction, daily cover and final cover.</text>
+              </para>
+              <para>
+                <num>[i]</num>
+                <text>All soil stockpiles, including daily and final cover, topsoil, liner material, gas venting materials and other excavation.</text>
+              </para>
+              <para>
+                <num>[j]</num>
+                <text>Access roads and traffic flow patterns to and within the active fill area.</text>
+              </para>
+              <para>
+                <num>[k]</num>
+                <text>All temporary and permanent fencing.</text>
+              </para>
+              <para>
+                <num>[l]</num>
+                <text>The methods of screening, such as berms, vegetation or special fencing.</text>
+              </para>
+              <para>
+                <num>[m]</num>
+                <text>Leachate collection, control and treatment systems, which may include pipes, manholes, trenches, berms, collection sumps or basins, pumps, risers, liners, and liner splices.</text>
+              </para>
+              <para>
+                <num>[n]</num>
+                <text>Gas, leachate and groundwater monitoring devices and systems.</text>
+              </para>
+              <para>
+                <num>[o]</num>
+                <text>Severe weather disposal areas.</text>
+              </para>
+              <para>
+                <num>[p]</num>
+                <text>Support buildings, scale, utilities, gates and signs.</text>
+              </para>
+              <para>
+                <num>[q]</num>
+                <text>Special waste handling areas.</text>
+              </para>
+              <para>
+                <num>[r]</num>
+                <text>Construction notes and reference to details.</text>
+              </para>
+              <para>
+                <num>[s]</num>
+                <text>Other appropriate site features.</text>
+              </para>
+            </para>
+            <para>
+              <num>[10]</num>
+              <text>A series of site cross sections shall be drawn perpendicular and parallel to the site baseline at a maximum distance of 500 feet between cross sections and at points of grade break and important construction features. The location of the cross sections shall be shown on the appropriate plan sheet(s) and the section labeled using the site grid system. Where applicable, each cross section shall show existing and proposed base and final grades; soil borings and monitoring wells which the section passes through or is adjacent to; soil types; bedrock and water table leachate control, collection and monitoring systems; gas venting and monitoring systems; limits of filling for each major waste type; drainage control structures; access roads and ramps on the site perimeter and within the active fill area; the filling sequence or phases; and other appropriate site features.</text>
+            </para>
+            <para>
+              <num>[11]</num>
+              <text>Detailed drawings and typical sections for, as appropriate, drainage control structures, access roads, fencing, leachate and gas control systems and monitoring devices, buildings, signs, and other construction details.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An operations manual and design report consisting of the following information:</text>
+            <para>
+              <num>[1]</num>
+              <text>The report shall identify the project title; engineering consultant(s); site owner, licensee and operator; proposed licensed acreage; site life and capacity; municipalities, industries and collection and transportation agencies served; waste types and quantities to be disposed; and any exemptions applied for.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Specifications for site construction and operation shall be presented, including detailed instructions to the site operator for all aspects of site construction and operation. References to specifications on the plan sheet shall be pointed out as well as additional instructions included, where appropriate. The specification shall include, at a minimum, the following information:</text>
+              <para>
+                <num>[a]</num>
+                <text>Initial site preparations, including specifications for clearing and grubbing, topsoil stripping, other excavations, berm construction, drainage control structures, leachate collection system, access roads and entrance screening, fencing, groundwater monitoring and other special design features.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>A plan for initial site preparations, including a discussion of the field measurements, photographs to be taken, and sampling and testing procedures to be utilized to verify that the in-field conditions encountered were the same as those defined in the feasibility report and to document that the site was constructed according to the engineering plans and specifications submitted for tribal approval.</text>
+              </para>
+              <para>
+                <num>[c]</num>
+                <text>Daily operations, including a discussion of the timetable for development, waste types accepted or excluded, typical waste handling techniques, hours of operation, traffic routing, drainage and erosion control, windy, wet and cold weather operations, fire protection equipment, manpower, methods for handling of unusual waste types, methods for vector, dust and odor control, daily cleanup, direction of filling, salvaging, recordkeeping, parking for visitors and employees, monitoring, abandonment of filled areas, gas and leachate control methods, backup equipment with names and telephone numbers where equipment may be obtained, and other special design features. This may be developed as a removable section to improve accessibility for the site operator.</text>
+              </para>
+              <para>
+                <num>[d]</num>
+                <text>Development of subsequent phases consisting of a discussion of those items in <cite path="§504-20|G|(2)(b)|[2]">Subsection G(2)(b)[2]</cite>[a], [b] and [c] above as they relate to the development of subsequent phases of the site.</text>
+              </para>
+              <para>
+                <num>[e]</num>
+                <text>Site closing information consisting of a discussion of the anticipated sequence of events for site closing and a discussion of those actions necessary to prepare the site for long-term care and final use.</text>
+              </para>
+              <para>
+                <num>[f]</num>
+                <text>Long-term care information, including a discussion of the procedures to be utilized for the inspection and maintenance of runoff control structures, settlement, erosion damage, gas and leachate control feasibilities, monitoring for gas, leachate and groundwater, and other long-term care needs.</text>
+              </para>
+              <para>
+                <num>[g]</num>
+                <text>An economic analysis, including an engineer's cost estimate for the construction of each major phase of site development, daily operation, site closing and long-term care.</text>
+              </para>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>A design report shall be submitted which shall include supplemental discussions and design calculations to facilitate tribal review and provide supplemental information on financial responsibility and long-term care, including the following information:</text>
+              <para>
+                <num>[a]</num>
+                <text>A discussion of the reasoning and logic behind the design of the major features of the site, such as traffic routing, base grade and relationships to subsurface conditions, anticipated waste types and characteristics, phases of development, liner design, facility monitoring, and similar design features, shall be provided. A list of the conditions of site development as stated in the tribal determination of site feasibility and the measures taken to meet the conditions shall be included. A discussion of all calculations, such as refuse cover balance computations, stockpile sizing estimates, estimate of site life and runoff and leachate volume estimates shall be included. The calculations shall be summarized with the detailed equations presented in the appendix.</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>A detailed analysis in accordance with <cite path="§504-22">§ 504-22</cite> shall be made of the financial responsibility for long-term care from the time of site closing to termination.</text>
+              </para>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>An appendix shall be submitted which shall include any additional data not previously presented, calculations, material specifications, operating agreements, leachate treatment agreements, documents related to long-term care funding and other appropriate information.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>The Tribe may require that a registered professional engineer document site construction and render an opinion as to whether the site has been constructed and/or operated in substantial conformance with the plan of operation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Prior to licensing, the owner or operator shall submit proof that a notation of the existence of the site has been recorded in the office of the Menominee County Register of Deeds.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Minimum requirements for land disposal site or facility design and operation. No person shall operate or maintain a new or existing land disposal site or facility except in conformance with any approved plan of operation and the following minimum requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Open burning shall be controlled and confined to as small an area as possible.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No solid waste shall be deposited in such a manner that the solid waste or leachings therefrom will have a detrimental effect on any groundwater or surface water.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Deposition of solid waste shall be confined to as small an area as practical.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The deposition and active area shall be provided with facilities to confine windblown material within that area.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>At the conclusion of each day of operation, all windblown material shall be collected, returned to the deposition area, and properly disposed of in accordance with the provisions of this section, unless the operator establishes, to the satisfaction of the Tribe, that all the following criteria are satisfied:</text>
+          <para>
+            <num>(a)</num>
+            <text>All windblown material cannot be collected using reasonable efforts because of conditions beyond the control of the operator.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The operator has collected and properly disposed of all windblown materials which can be collected using such reasonable efforts.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Nuisance conditions do not exist.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>To provide for maximum compaction, each single layer of municipal solid waste shall be spread and compacted in two-foot layers.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All solid waste shall be compacted and covered at the end of each operating day with a compacted layer of six inches of soil, except that the Tribe may grant an exemption in writing for less frequent covering if the following criteria are satisfied:</text>
+          <para>
+            <num>(a)</num>
+            <text>All portions of the licensed operation shall be greater than 1/4 mile from any residence or place of public gathering or written consent shall be obtained from all residents and proprietors living within 1/4 mile of the operation at the time the site is initially licensed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Potential nuisance conditions shall not be created.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The solid waste shall be compacted and covered with at least six inches of soil no less frequently than once per month.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Surface water drainage shall be diverted away from the working area and off of the landfill operation.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Putrescible materials such as spoiled food and animal carcasses shall be disposed of in a pit separate from the main disposal area and be marked clearly by a sign indicating "animal waste" and "spoiled food waste." These wastes shall be covered daily with soil and compacted.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Access to the facility shall be restricted through the use of fencing, natural barriers, or other methods approved in writing by the Tribe.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Effective means shall be taken to limit access to the active disposal area to minimize exposure of the public to hazards.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Effective means shall be taken to control flies, rodents, and other insects and vermin.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>All access roads to the active area of the operation shall be of all-weather construction and shall be maintained in good condition.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Equipment shall be provided to control accidental fires, and arrangements shall be made with the local fire protection agency to acquire its services when needed.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>An attendant shall be on duty at the operation at all times while it is open for public use.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>A gate shall be provided at the entrance to the operation and it shall be kept locked when an attendant is not on duty.</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>The gate area shall be policed at the beginning of each day of operation to remove any solid waste which may have been indiscriminately dumped during periods when the site was closed.</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>A sign, acceptable to the Tribe, shall be posted at the entrance to the operation of any site operated for public use which indicates the name, license number, and hours of use of the operation, penalty for unauthorized use, necessary safety precautions, and any other pertinent information. The sign shall contain the phrase "Indiscriminate dumping at gate or entrance of landfill by any person will result in penalties enforceable by Menominee Tribal Courts under littering regulations."</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>The site shall be surrounded with rapidly growing trees, shrubbery, fencing, or other appropriate means to screen it from the surrounding area and to provide a windbreak.</text>
+        </para>
+        <para>
+          <num>(20)</num>
+          <text>Effective means shall be utilized to prevent the migration of explosive gases from within the limits of waste fill. At no time shall the concentration of explosive gases in any facility structures (excluding gas control or recovery system components) or in the soil at or beyond the site property boundary exceed the lower explosive limit for such gases.</text>
+        </para>
+        <para>
+          <num>(21)</num>
+          <text>Any area to be utilized for the disposal of solid waste or borrow areas shall first be stripped of all topsoil and the topsoil shall be stockpiled to ensure that adequate amounts are available for closure.</text>
+        </para>
+        <para>
+          <num>(22)</num>
+          <text>Effective means shall be taken to control dust resulting from site operation.</text>
+        </para>
+        <para>
+          <num>(23)</num>
+          <text>All soil borings and monitoring wells shall be backfilled with a benconite portland cement slurry when such borings or wells are abandoned.</text>
+        </para>
+        <para>
+          <num>(24)</num>
+          <text>Facility monitoring shall be performed in accordance with <cite path="§504-20|K">Subsection K</cite>.</text>
+        </para>
+        <para>
+          <num>(25)</num>
+          <text>Site closure shall be accomplished in accordance with the approved plan of operation and in accordance with <cite path="§504-20|L">Subsection L</cite>.</text>
+        </para>
+        <para>
+          <num>(26)</num>
+          <text>Scavenging within the active disposal area is prohibited when such activity interferes with site operations.</text>
+        </para>
+        <para>
+          <num>(27)</num>
+          <text>Provisions for backup equipment in the event of operating equipment breakdown shall be made.</text>
+        </para>
+        <para>
+          <num>(28)</num>
+          <text>All topsoil within the site construction limits shall be salvaged and stored on site in a nuisance-free manner for use in site closure.</text>
+        </para>
+        <para>
+          <num>(29)</num>
+          <text>Provisions shall be made for leachate treatment for all sites designed to contain and collect leachate.</text>
+        </para>
+        <para>
+          <num>(30)</num>
+          <text>Only waste types and sources listed on the license or otherwise approved by the Tribe in writing shall be accepted for disposal.</text>
+        </para>
+        <para>
+          <num>(31)</num>
+          <text>All access roads shall be constructed with a maximum grade no greater than 10%. The intersection of the access road with an existing highway shall be designed to provide sufficient sight distance and provide for minimum interference with traffic on existing highways.</text>
+        </para>
+        <para>
+          <num>(32)</num>
+          <text>All surface water drainage ditches, culverts and other drainage control structures shall be designed for a ten-year, twenty-four-hour rainfall event as defined in § NR 205.05, Wis. Adm. Code.</text>
+        </para>
+        <para>
+          <num>(33)</num>
+          <text>All base grades shall be designed and constructed with a minimum slope of 1%.</text>
+        </para>
+        <para>
+          <num>(34)</num>
+          <text>The final slopes of a completed land disposal site or facility shall be no less than 2% and no greater than three horizontal to one vertical unless the site or facility is specifically designed for a final use compatible with other slopes which have been approved by the Tribe.</text>
+        </para>
+        <para>
+          <num>(35)</num>
+          <text>All sites shall have a final cover designed to minimize infiltration and subsequent leachate production.</text>
+        </para>
+        <para>
+          <num>(36)</num>
+          <text>A minimum separation distance of 100 feet shall be maintained between the limits of waste filling and adjacent property.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Monitoring. The Tribe shall require the owner or operator of any land disposal site or facility, or any person who permits the use of property for such purpose, to conduct monitoring of groundwater, leachate, gas, surface water, or other physical features.</text>
+        <para>
+          <num>(1)</num>
+          <text>Groundwater and leachate monitoring. The Tribe shall require the installation of groundwater and leachate monitoring wells, lysimeters, moisture probes, and similar devices, and water quality sampling and analysis programs to detect the effects of leachate on groundwater. The location of such monitoring devices shall be in approved in writing by the Tribe.</text>
+          <para>
+            <num>(a)</num>
+            <text>The number of required wells shall be approved by the Tribe based on the site size, waste type(s), site design and the hydrogeologic and geologic setting of the site. Unless otherwise specified by the Tribe, the minimum number of monitoring wells shall be two upgradient wells, four downgradient wells and two well nests.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Water level measurements and sampling of monitoring wells shall be accomplished in accordance with the schedule set forth in the plan of operation. This schedule may very depending on site geology, hydrogeology and design. Sampling and test schedules for other groundwater monitoring devices shall be approved by the Tribe. The results of all water elevation measurement and sampling shall be reported to the Tribe within 10 days of sampling. All data shall be submitted on forms supplied by the Tribe. Unless otherwise specified by the Tribe, the minimum frequency shall be that listed in Table 2.<fn path="|II|§504-20|footnotes|6">6</fn></text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The methods of groundwater and leachate sample collection, preservation, and analysis shall be accomplished in accordance with Standard Methods for the Examination of Water and Wastewater or other methods approved in writing by the Tribe.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All monitoring wells shall be constructed utilizing a minimum two-inch inside diameter PVC pipe with threaded joints or similar inert material.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Tribe shall require the operator to sample public or private wells as part of a regular monitoring program if private wells are within 200 feet of a solid waste site.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>If for any reason a monitoring well or other monitoring device is destroyed or otherwise fails to properly function, the site operator shall immediately notify the Tribe in writing. All such devices shall be properly abandoned and replaced with a functioning device within 45 days of notification to the Tribe unless the operator is notified otherwise in writing by the Tribe.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Sampling parameters shall be in accordance with Table 3<fn path="|II|§504-20|footnotes|7">7</fn> unless otherwise specified by the Tribe. The physical appearance of the water sample, including odor, color and turbidity, at the time of sampling shall be recorded.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>No person shall begin filling operations at a new solid waste disposal site or facility until background groundwater quality in accordance with the parameters in Table 3 has been determined and results of such analysis submitted to the Tribe.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Gas monitoring. The Tribe shall require the installation of gas monitoring devices and sampling and analysis programs for protection against potential detrimental effects of gas production. Sample collection and analysis techniques shall be in accordance with Standard Methods.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Surface water monitoring. The Tribe shall require monitoring of surface water runoff, leachate seeps, sump pumpings, sedimentation ponds and other surface water discharges resulting from site operation and of surface waters which may be affected by such discharges. Sampling times and parameters shall be as specified by the Tribe.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Monitoring of physical features. The Tribe shall require monitoring of air quality, landfill settlement, berm stability, vegetation growth, drainage control structures, or other aspects of site operation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Operations reports. The Tribe may request the owner or operator of any land disposal site or facility or any person who permits the use of property for such purpose to submit an operations report to assess the effectiveness and environmental acceptability of site operations. The contents of the report shall include a discussion and analysis of entrance and access roads, windblown debris, confinement of active area, analysis of gas and leachate and other monitoring, cover to refuse ratios, surface water control and erosion control, revegetation, settlement, volume utilized, site users, leachate quantity and quality, slope stability, equipment performance and volume and type of waste accepted.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Closure. Any person who maintains or operates a land disposal site or facility or who permits use of property for such purpose shall, when the fill area or a portion thereof reaches final grade, or when the Tribe determines that closure is required, cease to accept waste and close the site or portion thereof in accordance with any plan approval issued by the Tribe and the following minimum practices:</text>
+        <para>
+          <num>(1)</num>
+          <text>At least 20 days prior to the closing of the site, the owner or operator shall notify the Tribe in writing of intent to close the site. At the same time or preferably prior of this date, the owner or operator shall notify all users of the facility of intent to close the site.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 10 days after ceasing to accept waste, the following shall be accomplished at a minimum:</text>
+          <para>
+            <num>(a)</num>
+            <text>Access shall be restricted by the use of gates, fencing or other appropriate means to ensure against further use of the site. In the event that the final site use allows access, such access shall be restricted until site closure has been completed and approved by the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Notification of closure shall be posted at the gate by proper signs indicating date of closure and alternative disposal site(s).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Notice shall be published in the local and tribal newspaper and a copy of the notice shall be provided to the Tribe within 10 days of the date of publication.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Within 60 days after ceasing to accept waste, closure shall be accomplished in the following manner:</text>
+          <para>
+            <num>(a)</num>
+            <text>The entire area previously used for disposal purposes shall be covered with at least three feet of compacted earth sloped adequately to allow surface water runoff. A specific soil type may be required by the Tribe for this three-foot layer. Fine grain soils should be utilized to minimize infiltration. Top slopes shall be no less than 2%. Side slopes shall be no steeper than 33%.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Surface water shall be diverted to limit potential for erosion and sedimentation. Wherever possible, surface water shall be diverted around previously filled areas, and drainage shall be conveyed by clay-lined drainage swales having a minimum depth of two feet.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The finished surface of the filled area shall be covered with a minimum of eight inches of topsoil.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Within 90 days after ceasing to accept waste, seeding, fertilizing and mulching of the finished surface shall be accomplished in accordance with the site final use. The seed type and amount of fertilizer shall be selected depending on the type and quality of topsoil and compatibility with native vegetation.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Following closure of the land disposal site, the site shall be inspected and maintained by the owner or operator until it becomes stabilized or until the responsibility of the owner or operator terminates in accordance with the plan approval. The Tribe shall require installation of groundwater and leachate monitoring wells or other devices, groundwater and leachate quality sampling and analysis programs, gas monitoring and sampling and provisions for the protection against detrimental effects of leachate and gas migration from any land disposal site.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Table 2 is included at the end of <cite path="|II|504">this chapter</cite>.</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Table 3 is included at the end of <cite path="|II|504">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-21</num>
+      <heading>Solid waste land spreading sites and facilities.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall operate or maintain a solid waste land spreading site or facility within the exterior boundaries of the Menominee Reservation except as otherwise provided in <cite path="§504-21|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exemptions. The following land spreading sites and facilities are exempt from the requirements of this section but must be developed, operated and maintained in a safe, nuisance-free manner.</text>
+        <para>
+          <num>(1)</num>
+          <text>Sites used for the land spreading of nonhazardous putrescible waste and septage from a single family or household, a member of which is the owner, occupant, or lessee of the property used for solid waste disposal.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Farms on which only nonhazardous agricultural solid wastes resulting from the operation of a farm, including farm animal manure, are disposed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Sites used for the land spreading of whey, provided that the whey is applied as a soil conditioner or fertilizer in accordance with accepted agricultural practices.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-22">
+      <prefix>§</prefix>
+      <num>504-22</num>
+      <heading>Financial responsibility for closure and long-term care.</heading>
+      <para>
+        <num>A.</num>
+        <text>Definitions. As used in this section, the following terms shall have the meanings indicated:</text>
+        <text>ACTUAL DOLLAR PAYMENTS — Equal annual payments made by the facility owner into a long-term care account.</text>
+        <text>CERTIFICATE OF DEPOSIT — A certificate issued by a bank or financial institution acknowledging receipt of a specified sum of money in a special kind of time deposit, drawing interest and requiring written notice for withdrawal.</text>
+        <text>CLOSURE PERIOD — The ninety-day period after the facility ceases to accept waste, unless otherwise specified in the approved plan of operation.</text>
+        <text>EQUAL ANNUAL OUTPAYMENTS — Estimated payments for long-term care which are the same amount in each year of the period of owner responsibility for the long-term care of the facility.</text>
+        <text>INTEREST BEARING ACCOUNTS — Escrow, trust accounts or cash deposits with the department.</text>
+        <text>NON-INTEREST-BEARING ACCOUNTS — Letters of credit, performance bonds or forfeiture bonds.</text>
+        <text>REAL DOLLAR INPAYMENTS — Payments made by the facility owner, which increase over each year at the rate of inflation, into a long-term care account.</text>
+        <text>UNEQUAL ANNUAL OUTPAYMENTS — Estimated payments for long-term care which are higher in the early years of the period of owner responsibility for long-term care than they are later in the long-term care period after the facility has stabilized.</text>
+        <text>UNITED STATES GOVERNMENT SECURITIES — Includes treasury bills, treasury bonds, treasury certificates, treasury notes, and treasury stocks guaranteed by the federal government.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Applicability.</text>
+        <para>
+          <num>(1)</num>
+          <text>Closure. The owner of a site or facility for the land disposal of solid waste shall submit, as part of the initial operating license application and annually thereafter for the period of active facility life, proof of financial responsibility to ensure compliance with the closure requirements of the facility's approval plan of operation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Long-term care. The owner of a site or facility for the disposal of solid waste shall be responsible for the long-term care of the facility for either 20 or 30 years after facility closure, unless the owner's responsibility is terminated earlier by approval from the Tribe. An owner responsible for long-term care shall specify at the time of submittal of the plan of operation whether the owner chooses to be responsible for 20 years, subject to tribal approval, or 30 years and shall submit, as part of the initial operating license application and annually thereafter for the period of active facility life, proof of financial responsibility to ensure compliance with the long-term care requirements of the plan of operation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Successors in interest. Any person acquiring rights of ownership, possession or operation of a licensed facility shall be subject to all requirements of the license for the facility and shall provide any required proof of financial responsibility to the Tribe in accordance with this section. The previous owner is responsible for closure and long-term care and shall maintain any required proof of financial responsibility until the person acquiring ownership, possession or operation of the facility establishes any required proof of financial responsibility.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Methods of providing proof of financial responsibility. Financial assurances for closure and long-term care shall be established separately. The owner shall specify, as part of the plan of operation submittal, which method of providing proof of financial responsibility will be used for closure and for long-term care. To provide proof of financial responsibility the applicant shall use one of the following methods for each account:</text>
+        <para>
+          <num>(1)</num>
+          <text>Performance or forfeiture bond.</text>
+          <para>
+            <num>(a)</num>
+            <text>If the owner chooses to submit a bond, it shall be in the amount determined according to <cite path="§504-22|E|(2)">Subsection E(2)</cite> and conditioned upon faithful performance by the owner and successor in interest of all closure requirements of the approved plan of operation or, if no approved plan of operation exists for the site, all applicable requirements in <cite path="§504-22|G">Subsection G</cite>. The bond shall be delivered to the Tribe as part of an initial operating license application. Bond forms shall be supplied by the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Bonds shall be issued by a surety company authorized to do surety business in Wisconsin. At the option of the owner, a performance bond or a forfeiture bond may be filed and the Tribe shall be the obligee of the bond. Surety companies may have the opportunity to complete the closure of the site in lieu of cash payment to the Tribe if the owner or any successor in interest fails to carry out the closure requirements of the approved plan of operation, or the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The Tribe shall mail notification of its intent to use the funds for that purpose to last known address for the owner.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Each bond shall provide that as long as any obligation of the owner for closure remains, the bond may not be cancelled by the surety, unless a replacement bond or other proof of financial responsibility under <cite path="§504-22|C.|(1)|(c)">this subsection</cite> is provided to the Tribe by the owner. If the surety proposes to cancel such a bond, the surety shall provide notice to the Tribe in writing by registered or certified mail not less than 90 days prior to the proposed cancellation date. Not less than 30 days prior to the expiration of the ninety-day notice period, the owner shall deliver to the Tribe a replacement bond or other proof of financial responsibility under <cite path="§504-22|C.|(1)|(c)">this subsection</cite>, in the absence of which all generation, recycling and accumulation operations shall immediately cease, and the bond shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If the surety company becomes bankrupt or insolvent or its authorization to do business in the state is revoked or suspended, the owner shall, within 30 days after receiving written notice thereof, deliver to the Tribe a replacement bond or other proof of financial responsibility under <cite path="§504-22|C.|(1)|(d)">this subsection</cite>, in the absence of which all generation, recycling and accumulation operation shall immediately cease, and the bond shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deposit with the Tribe. An owner may deposit cash, certificates of deposit, or United States government securities with the Tribe. The amount of the deposit shall be determined according to <cite path="§504-22|E|(1)">Subsection E(1)</cite> and shall be submitted as part of an initial operating license application. Cash deposits placed with the Tribe shall be segregated and invested in an interest-bearing account. All interest pavements shall be accumulated in the account. The Tribe shall have the right to use part or all of the funds to carry out the closure or requirements of the approved plan of operation or the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use funds for that purpose to the last known address of the owner.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Escrow account. If the owner establishes an escrow account, it shall be with a bank or financial institution located within the State of Wisconsin which is examined and regulated by the state or a federal agency and in the amount determined according to <cite path="§504-22|E|(1)">Subsection E(1)</cite>. The assets in the escrow account shall consist of cash, certificates of deposit, or United States government securities. All interest payments shall be accumulated in the account. A duplicate original of the escrow agreement with original signatures shall be submitted to the Tribe as part of an initial operating license application. Escrow account forms shall be supplied by the Tribe. The Tribe shall be a party to the escrow agreement, which shall provide that there shall be no withdrawals from the escrow account except as authorized in writing by the Tribe. The escrow agreement shall further provide that the Tribe shall have the right to withdraw and use part or all of the funds in the escrow account to carry out the closure or requirements of the approved plan of operation or the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use funds for that purpose to the last known address of the owner.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Irrevocable trust. If the owner creates an irrevocable trust, it shall be exclusively for the purpose of ensuring that the owner or any successor in interest will comply with the closure requirements of the approved plan of operation or, if no approved plan of operation exists for the facility, the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The trust agreement shall designate the Tribe as sole beneficiary. The trustee shall be a bank or other financial institution located within the State of Wisconsin which has the authority to act as a trustee and whose trust operations are regulated and examined by the state or a federal agency. The trust corpus shall consist of cash, certificates of deposit or United States government securities in the amount determined according to <cite path="§504-22|E|(1)">Subsection E(1)</cite>. All interest payments shall be accumulated in the account. A duplicate original of the trust agreement with original signatures shall be submitted to the Tribe for approval as part of an initial operating license application. Trust forms shall be supplied by the Tribe. The trust agreement shall provide that there shall be no withdrawals from the trust fund except as authorized by the Tribe. The trust agreement shall further provide that sufficient monies shall be paid from the trust fund to the beneficiary in the event that the owner or any successor in interest fails to complete the closure requirements of the approved plan of operation or, if no approved plan of operation exists for the facility, the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The Tribe shall mail notifications of its intent to use funds for that purpose to the last known address of the owner.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Letter of credit.</text>
+          <para>
+            <num>(a)</num>
+            <text>If the owner chooses to submit a letter of credit, it shall be in the amount determined according to <cite path="§504-22|E|(2)">Subsection E(2)</cite> and conditioned upon faithful performance by the owner and any successor in interest of all closure requirements of the approved plan of operation or, if no approved plan of operation exists for the facility, the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The original letter of credit shall be delivered to the Tribe as part of an initial operating license application. Letter of credit forms shall be supplied by the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Letters of credit shall be issued by a bank or financial institution which is examined and regulated by a federal agency or, in the case of a bank or financial institution located within the State of Wisconsin, which is examined and regulated by a state agency. The Tribe shall be the beneficiary of the letter of credit.<fn path="|II|§504-22|footnotes|8">8</fn></text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Each letter of credit shall provide that as long as any obligation of the owner for closure remains, the letter of credit may not be cancelled by the bank or financial institution unless a replacement letter of credit or other proof of financial responsibility under <cite path="§504-22|C.|(5)|(c)">this subsection</cite> is provided to the Tribe by the owner. The bank or financial institution shall provide notice to the Tribe in writing by registered or certified mail not less than 90 days prior to the proposed cancellation date. Not less than 30 days prior to the expiration date of the ninety-day notice period, the owner shall deliver to the Tribe a replacement letter of credit or other proof of financial responsibility under <cite path="§504-22|C.|(5)|(c)">this subsection</cite>, in the absence of which all landfilling operations shall immediately cease, and the letter of credit shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If the bank or financial institution becomes bankrupt or insolvent or if its authorization to do business is revoked or suspended, the owner shall, within 30 days upon receiving written notice thereof, deliver to the Tribe a replacement letter of credit or other proof of financial responsibility under <cite path="§504-22|C.|(5)|(d)">this subsection</cite>, in the absence of which all landfilling operations shall immediately cease, and the letter of credit shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The letter of credit shall further provide that the Tribe shall have the right to withdraw and use part or all of the funds to carry out the closure requirements of the plan of operation or the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use the funds for that purpose to the last known address of the owner.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Insurance.</text>
+          <para>
+            <num>(a)</num>
+            <text>If the owner chooses to submit an insurance policy for closure, it shall be issued for the maximum risk limit determined according to <cite path="§504-22|E|(3)">Subsection E(3)</cite>. A certificate of insurance shall be delivered to the Tribe as part of an initial operating license application. Certificates of insurance shall be supplied by the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>At a minimum the agent or broker shall be licensed as a surplus lines insurance agent or broker. The Tribe shall determine the acceptability of a surplus lines insurance company to provide coverage for proof of financial responsibility. The Tribe shall be the beneficiary of the insurance policy.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The insurance policy shall provide that, as long as any obligation of the owner for closure remains, the insurance policy shall not be cancelled by the insurer, unless a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(6)|(c)">this subsection</cite> is provided to the Tribe by the owner. If the insurer proposes to cancel such an insurance policy, the insurer shall provide notice to the Tribe in writing by registered or certified mail not less than 90 days prior to the proposed cancellation date. Not less than 30 days prior to the expiration of the ninety-day notice period, the owner shall deliver to the Tribe a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(6)|(c)">this subsection</cite>, in the absence of which all landfilling operations shall immediately cease, and the policy shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the insurance company becomes bankrupt or insolvent the owner shall, within 30 days after receiving written notice thereof, deliver to the Tribe a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(d)">this subsection</cite>, in the absence of which all operations shall immediately cease, and the policy shall remain in effect as long as any obligation of the owner remains for closure.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The insurance policy shall further provide that funds, up to an amount equal to the maximum risk limit of the policy, will be available to the Tribe to carry out the closure requirements of the approved plan of operation or, if no approved plan of operation exists, all applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use the funds for that purpose to the last known address of the owner.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Each insurance policy shall contain a provision allowing assignment of the policy to a successor owner or operator. Such assignment may be conditioned upon the consent of the insurer, provided that such consent is not unreasonably refused.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Other methods. The Tribe shall consider other financial commitments made payable to or established for the benefit of the Tribe to ensure that the owner or operator will comply with the closure requirements for the approved plan of operation or, if no approved plan of operation exists for the facility, the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The Tribe shall review the request of any owner or operator to establish proof of financial responsibility under <cite path="§504-22|C.|(2)">this subsection</cite>. The owner shall submit the request and all supporting information as part of the plan of operation.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Cost estimates.</text>
+        <para>
+          <num>(1)</num>
+          <text>For the purpose of determining the amount of proof financial responsibility that is required in <cite path="§504-22|C">Subsection C</cite>, the owner shall estimate the total cost of closure for the point in time in the facility's operation when the extent and manner of its operation make closure most expensive, estimate the annual cost of long-term care of the facility for the period of owner responsibility and submit the estimated closure and long-term care costs together with all necessary justification to the Tribe for approval as part of the plan of operation submittal. The cost shall be based on a third party performing the work and report on a per-unit basis. The source of estimates shall be included.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>At a minimum, closure costs shall include cover material, topsoil, seeding, fertilizing, mulching and labor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>At a minimum, long-term care cost shall include land surface care; monitoring; leachate pumping, transportation, monitoring and treatment; and groundwater monitoring, collection and analysis.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The estimated rate of inflation shall be the latest percent change in the annual gross national product implicit price deflator published in the survey of current business by the Bureau of Economic Analysis, United States Department of Commerce.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The estimated annual rate of interest shall be the rate specified by the financial institution managing the fund or deposit.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Formulas for calculating the amount of the proof of financial responsibility. The owner shall, as part of the plan of operation submittal, perform the calculations of the formula for the chosen method of providing proof of financial responsibility for closure and for long-term care.</text>
+        <para>
+          <num>(1)</num>
+          <text>Deposits in escrow, trust or tribal accounts. The formula for closure shall be:</text>
+        </para>
+        <aftertext>D = C	<u>(1 + f)</u></aftertext>
+        <aftertext>(1 + i)</aftertext>
+        <aftertext>In which:</aftertext>
+        <aftertext>D	=	The unknown deposit for closure.</aftertext>
+        <aftertext>C	=	The estimated cost of closure.</aftertext>
+        <aftertext>f	=	The estimated</aftertext>
+        <aftertext>annual rate of information.</aftertext>
+        <aftertext>i	=	The estimated</aftertext>
+        <aftertext>annual rate of interest.</aftertext>
+        <para>
+          <num>(2)</num>
+          <text>Bonds and letters of credit.</text>
+          <para>
+            <num>(a)</num>
+            <text>Non-interest-bearing accounts. The formula for closure is:</text>
+            <text class="center">CB = C (1 + f)</text>
+          </para>
+        </para>
+        <aftertext>In which:</aftertext>
+        <aftertext>CB	=	The unknown amount of the bond or letter of credit for closure.</aftertext>
+        <aftertext>c	=	Estimated</aftertext>
+        <aftertext>closure cost.</aftertext>
+        <aftertext>f	=	The estimated annual rate of inflation.</aftertext>
+        <para>
+          <num>(3)</num>
+          <text>Insurance.</text>
+          <para>
+            <num>(a)</num>
+            <text>Closure. The formula shall be:</text>
+            <text class="center">CI = C (1 + f)</text>
+            <text>In which:</text>
+            <text>CI	=	The unknown amount of the closure insurance.</text>
+            <text>C	=	The estimated closure cost.</text>
+            <text>f	=	The estimated annual rate of inflation.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Changing methods of proof of financial responsibility. The owner of a solid waste land disposal facility may change from one method of providing proof of financial responsibility under <cite path="§504-22|C">Subsection C</cite> to another, but not more than once per year. A change may only be made on the anniversary of the submittal of the original method of providing proof of financial responsibility.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Adjustment of financial responsibility. The owner of a facility for the land disposal of solid waste shall prepare a new closure cost estimate whenever a substantial change in the closure plan affects the cost of closure and a new long-term care cost requirement in the approved plan of operation affects the cost of long-term care. Proof of the increase in the amount of all bonds, letters of credit, escrow accounts and trust accounts, or other approved methods established under this section shall be submitted annually to the Tribe. The Tribe may adjust the amount of the required proof of financial responsibility for closure or long-term care based upon prevailing or projected interest and inflation rates and the latest cost estimates and may annually require the owner to adjust the amount of proof of financial responsibility accordingly.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Access and default. Whenever, on the basis of any reliable information and after opportunity for a hearing, the Tribe determines that an owner or operator of a solid waste land disposal facility is in violation of any of the requirements for closure or long-term care specified in the approved plan of operation, the Tribe shall have the right to enter upon the facility and carry out the closure or long-term care requirements. The Tribe may use part or all the money deposited with it, or the money deposited in escrow or trust accounts, or performance or forfeiture bonds, or letters of credit, or funds accumulated under other approved methods to carry out the closure or long-term care requirements.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Authorization to release funds.</text>
+        <para>
+          <num>(1)</num>
+          <text>Closure. When an owner or operator has completed closure, the owner may apply to the Tribe for release of the bond, insurance or the letter of credit or return of the money held on deposit, in escrow, or in trust for closure of the facility. The application shall be accompanied by an itemized list of costs incurred. Upon determination by the Tribe that complete closure has been accomplished, the Tribe shall authorize in writing the release and return of all funds accumulated in such accounts or give written permission for cancellation of the bond or letter of credit. Determination shall be made within 90 days of the application.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Long-term care. One year after closure, and annually thereafter for the period of owner responsibility, the owner who has carried out all necessary long-term care during the preceding year may make application to the Tribe for reimbursement from an escrow account, trust account, or deposit with the Tribe, or other approved methods, or for reduction of the bond, insurance or letter of credit equal to the estimated costs for long-term care for that year. The application shall be accompanied by an itemized list of cost incurred. Upon determination that the expenditures incurred are in accordance with the long-term care requirement anticipated in the approved plan of operation, the Tribe may authorize, in writing, the release of the funds or approve a reduction in the bond or letter of credit. Prior to authorizing a release of the funds or a reduction of the bond or letter of credit, the Tribe shall determine that adequate funds exist to complete required long-term care work for the remaining period of owner responsibility. Determination shall be made within 90 days of the application. Any funds remaining in an escrow account, trust, account, or on deposit with the Tribe at the termination of the period of owner responsibility shall be released to the owner.</text>
+        </para>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-23</num>
+      <heading>Salvage yards.</heading>
+      <para>
+        <num>A.</num>
+        <text>General. No person shall operate or maintain a salvage yard unless the person has obtained an operating license from the Tribe.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Locational criteria. No person shall establish, operate, maintain or permit the use of property for a new salvage yard or expand an existing salvage yard within the following areas:</text>
+        <para>
+          <num>(1)</num>
+          <text>Within 1,000 feet of any navigable lake, pond or flowage.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Within 300 feet of a navigable river or stream.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Within a floodplain.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Within an area from which the Tribe after investigation finds there is a reasonable probability that solid waste or leachings therefrom may have a detrimental effect on any surface water.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Within an area from which the Tribe after investigation finds there is a reasonable probability that solid waste or leachings therefrom may have a detrimental effect on groundwater quality.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Within 1,000 feet of the nearest edge of the right-of-way of any interstate or federal aid primary highway or the boundary of any public park, unless the site is screened by natural objects, plantings, fences, or other appropriate means so as not be visible from the highway or park.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Within wetlands.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Within a critical habitat area.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Plan of operation. No person shall establish a new salvage yard or expand an existing salvage yard until a plan of operation has been submitted to and approved by the Tribe in writing. The plan of operation shall include at a minimum the following: a map or aerial photograph of the area showing land use and zoning within 1/4 mile of the salvage yard boundaries. The map or aerial photograph shall be of sufficient scale to show all salvage yard boundaries, all homes, industrial buildings, roads, watercourses, and other applicable details. All such details, plus the topography, and direction shall be identified and indicated on the map or aerial photograph.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-24</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who violates <cite path="|II|504|II">this article</cite> or any rule promulgated or any plan approval, license or special order issued under <cite path="|II|504|II">this article</cite> shall forfeit not less than $100 nor more than $5,000 for each violation. Initial violations under §<cite path="§504-20|K">§ 504-20K</cite> and 504-21 shall carry a minimum penalty of $250; all other initial offenses shall carry a minimum penalty of $100. Second offenses under §<cite path="§504-20|K">§ 504-20K</cite> and 504-21 shall carry a minimum penalty of $750; all other second offenses shall carry a minimum penalty of $500. Third offenses under §<cite path="§504-20|K">§ 504-20K</cite> and 504-21 shall carry a minimum penalty of $2,500; all other third offenses shall carry a minimum penalty of $1,000. Subsequent violations shall result in penalties not to exceed $5,000. Each day of continued violation is a separate offense. While the order is suspended, stayed or enjoined, this penalty shall not accrue.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|504|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Solid Waste Disposal</heading>
+    <annotations>
+      <annotation type="History">Adopted 7-15-1992 by Ord. No. 92-11; amended in its entirety 4-8-1998</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>504-25</num>
+      <heading>Purpose and jurisdiction.</heading>
+      <para>
+        <num>A.</num>
+        <text>The purpose of <cite path="|II|504|III">this article</cite> is to promote the health, safety, aesthetics, and general welfare of the people and communities within the Menominee Indian Reservation. The general intent of <cite path="|II|504|III">this article</cite> is to regulate the collection and disposal of solid waste. It is further intended to provide for the administration and enforcement of <cite path="|II|504|III">this article</cite> and to provide penalties for its violation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The jurisdiction of <cite path="|II|504|III">this article</cite> shall include all lands and water within the exterior boundaries of the Menominee Indian Reservation, except where indicated otherwise in <cite path="|II|504|III">this article</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§504-26">
+      <prefix>§</prefix>
+      <num>504-26</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|504|III">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>BUSINESS — Any structure, whether public or private, temporary or permanent, that is adopted for occupancy for transaction of business, for rendering of professional service, for amusement, for the display, sale or storage of goods, wares, or merchandise, or for the performance of work or labor.</text>
+      <text>COMMERCIAL HAULER — Any individual contracted to haul solid waste on the Menominee Indian Reservation for consideration.</text>
+      <text>GARBAGE — Discarded materials resulting from the handling, processing, storage and consumption of food. It does not include used motor oil, car batteries, appliances or hazardous wastes.</text>
+      <text>HAZARDOUS WASTE — Any waste identified by the Tribe as hazardous pursuant to criteria promulgated by the Tribe.<fn path="|II|§504-26|footnotes|9">9</fn> The tribal criteria will be identical to the criteria promulgated by the United States Environmental Protection Agency under § 3001(b) of the Resource Conservation and Recovery Act (RCRA) of 1976, P.L. 94-580.</text>
+      <text>RESIDENCE — Any place of habitation within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <text>SOLID WASTE — Any garbage, refuse, sludge or any other waste material generated from business and living activities. "Solid waste" does not include human body waste. It includes any material that is defined as solid waste pursuant to 40 CFR 261.2.</text>
+      <text>TRIBAL MEMBER — Any enrolled member, spouse, or descendent of the Menominee Indian Tribe who resides within the exterior boundaries of the Menominee Indian Reservation.</text>
+      <text>TYPE "A" SPECIAL WASTE — Any waste from a commercial or industrial activity meeting any of the following descriptions:</text>
+      <para>
+        <num>A.</num>
+        <text>Waste containing free liquids.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Sludge waste.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Waste from an industrial process.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Waste from a pollution control process.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Residue from a spill of a chemical substance or commercial product.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Contaminated residuals from the cleanup of a facility generating, storing, treating, recycling or disposing wastes or chemical substances.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any waste which is nonhazardous as a result of treatment pursuant to RCRA Subtitle C.</text>
+        <text>TYPE "B" SPECIAL WASTE — Any waste from a commercial or industrial activity meeting the following descriptions:</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Friable asbestos waste from building demolition or cleaning. Nonfriable asbestos is a special waste if it has been processed, handled or used in such a way that asbestos fibers may be freely released. Asbestos-bearing industrial process waste is a Type "A" special waste.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Commercial products or chemicals which are off-specification, outdated, unused or banned.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Untreated biomedical waste.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Treated biomedical waste.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Liquids and sludges from septic tanks, food service grease traps or washwater and wastewaters from commercial laundries, laundromats, and car washes unless these waters are managed at commercial or public treatment works.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Chemical-containing equipment removed from service.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Waste produced from the demolition or dismantling of industrial process equipment or facilities contaminated with chemicals from the industrial process.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: See <cite path="|II|361|I">Ch. 361, Art. I</cite>, Hazardous Waste.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-27</num>
+      <heading>Prohibited acts.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be illegal to leave, deposit, or dump solid waste anywhere within the jurisdiction of the Menominee Indian Tribe except as provided under <cite path="§504-28">§ 504-28</cite> of <cite path="|II|504|III">this article</cite>. Solid waste placed on a person's own property for curbside pickup by a commercial hauler shall not constitute leaving, depositing, or dumping solid waste under <cite path="|II|504|III">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>It shall be illegal for nonmembers to dispose of solid waste anywhere within the exterior boundaries of the Menominee Indian Reservation. Nonmember residents and nonmembers that own vacation property and are thus temporary residents, however, may use the transfer site for commingled and paper/cardboard recycling purposes only. Nonmembers may use the Keshena transfer site for additional recycling purposes, i.e., tires, scrap metal and waste oil, by paying an annual user fee to the Menominee Indian Tribe of Wisconsin. <strong>[Amended 2-20-2003]</strong></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Solid waste generated outside the boundaries of the Menominee Indian Reservation shall not be disposed of on any lands, dumping sites, transfer sites, or landfill within these boundaries.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>It shall be illegal for any person to: <strong>[Amended 2-20-2003]</strong></text>
+        <para>
+          <num>(1)</num>
+          <text>Dispose of solid waste on any private or public residential property, except as specifically authorized by the Menominee Indian Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deposit solid waste from any stopped or moving vehicle onto any state, county, town, BIA or tribal highways, roads, or rights-of-way.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Deposit brush or leaves onto the ditches or roadway of any state, county, town, or tribal highways, roads, plantation roads or rights-of-way. Brush and leaves should be deposited at a designated yard waste facility or composted in an individual's compost bin.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-28</num>
+      <heading>Waste transfer sites.</heading>
+      <para>
+        <num>A.</num>
+        <text>Establishment of transfer sites. The Menominee Indian Tribe shall establish sites where solid waste can be collected for safe and sanitary removal from the Menominee Indian Tribe.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Use of sites.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal members shall dispose of their solid waste using curbside collection at their residences. On limited occasions when curbside is not convenient, i.e. funerals and weddings, tribal members may use the Keshena transfer site to dispose of solid waste. <strong>[Amended 2-20-2003]</strong></text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Authorized commercial haulers of solid waste may be authorized by the Menominee Indian Tribe to use said transfer sites upon the payment of reasonable tipping fees. The cost of the tipping fees shall be as found in <cite path="§504-30">§ 504-30</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nonmember permanent and temporary residents paying the annual fee to the Menominee Indian Tribe of Wisconsin and tribal members may deposit used motor oil, appliances, car batteries, brush and leaves, used construction materials, hazardous or Type "A" or "B" special waste in the above transfer sites in a manner prescribed by the Tribe. <strong>[Amended 2-20-2003]</strong></text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-29</num>
+      <heading>Administration and enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text>Enforcement. It shall be the duty of the Director of the Environmental Health Program, the Director of the Community Development Department and law enforcement agencies to monitor and strictly enforce the provisions of <cite path="|II|504|III">this article</cite>. They are authorized to do so by citation. <strong>[Amended 2-20-2003]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>Violations of <cite path="§504-27">§ 504-27</cite>. Any person, firm, or corporation violating any of the provisions of <cite path="§504-27">§ 504-27</cite> of <cite path="|II|504|III">this article</cite> shall, upon conviction, be fined not less than $10 nor more than $10,000, together with costs of prosecution, and shall remove illegally deposited material to a designated site.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Violations of <cite path="§504-28|B">§ 504-28B</cite>. Any person, firm, or corporation disposing of waste in nondesignated areas shall, upon conviction, be fined not less than $10 nor more than $10,000, together with costs of prosecution, and shall remove illegally deposited material to a designated site.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Menominee Tribal Legislature, by motion, shall approve a fee schedule which states the amount of all fees required by <cite path="|II|504|III">this article</cite>. <strong>[Added 2-20-2003]</strong></text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-30</num>
+      <heading>Tipping fee.</heading>
+      <text>Commercial haulers will be required to pay a tipping fee to offset the Menominee Indian Tribe's actual cost of transportation and tipping.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|504|IV">
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Earth Materials and Brush [Adopted 8-17-2023 by Ord. No. 23-27]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>504-31</num>
+      <heading>Earth materials and brush sites.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Indian Tribe shall establish sites where earth materials and brush may be collected.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As used in <cite path="|II|504|IV">this article</cite>, the following terms shall have the meaning indicated: BRUSH — Limbs up to eight inches in diameter.</text>
+        <text>EARTH MATERIALS — Naturally occurring solid materials found on or below the surface of the Earth that make-up the solid components of the Earth's crust, including, but not limited to soil, rock, sand, gravel, clay, minerals, sediments and other geological materials.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be illegal to deposit or dump earth materials or brush anywhere on the Menominee Reservation except at sites designated pursuant to <cite path="|II|504|IV">this article</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>It shall be illegal to deposit or dump, or otherwise utilize the earth materials or brush sites in any way contrary to the approved rules and regulations for the operation of such sites.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>It shall be illegal to dispose earth materials and brush generated outside the Menominee Reservation at sites designated pursuant to <cite path="§504-31|A">§ 504-31A</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>504-32</num>
+      <heading>Administration and enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Community Development Department of the Menominee Indian Tribe shall propose the location of sites pursuant to <cite path="§504-31">§ 504-31</cite>, along with rules and regulations related to the operation of such sites which shall include, but not be limited to hours of operation and fees. Such sites and related regulation and rules shall be effective upon approval of the Tribal Legislature by motion.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Upon approval pursuant to <cite path="§504-32|A">Subsection A</cite> above, the Community Development Department shall create signage and other informational material to inform persons of the availability and rules and regulations related to the earth materials and brush sites.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be the duty and responsibility of the Community Development Department to operate the approved earth materials and brush sites on behalf of the Menominee Indian Tribe, and along with law enforcement agencies to monitor and strictly enforce the provisions of <cite path="|II|504|IV">this article</cite>. They are authorized to do so by citation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any person, firm, or corporation violating any of the provisions of <cite path="§504-31|C">§ 504-31C</cite>, D, or E of <cite path="|II|504|IV">this article</cite> shall, upon conviction, be fined not less than $10 nor more than $5,000, together with costs of prosecution, and shall remove any illegally dumped earth materials or brush to a designated site.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

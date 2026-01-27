@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>715</num>
+  <heading>SUPERMARKET</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 8-13-1987 by Ord. No. 87-11; amended 10-6-1988; 2-16-1989; 11-2-1989. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>715-1</num>
+    <heading>Name of tribal business.</heading>
+    <text>This Charter is issued to a tribal business to be known as "Menominee Tribal Supermarket."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-2</num>
+    <heading>Purpose of chartered business.</heading>
+    <text>The purpose of the chartered business shall be to manage the operation of the Menominee Tribal Supermarket business for the Menominee Tribe. The chartered business is to be operated solely as a profit-making business enterprise, dedicated to maximizing the financial resources available for appropriation by the Menominee Legislature on behalf of the Menominee people.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-3</num>
+    <heading>Form of management of chartered business.</heading>
+    <para>
+      <num>A.</num>
+      <text>The form of management of the chartered business shall be a Board of Trustees, hereinafter "Board," which oversees the Menominee Tribal Supermarket.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Board shall consist of five enrolled members appointed by majority vote of the Tribal Legislature. The Board shall choose among themselves, by lot, the length of each member's first term after passage of this amendment. The first term of one member shall be for one year. The first term of another member shall be for two years. The first term of the remaining members shall be for three years. This shall accomplish the staggering of terms, and all further terms shall be of three years' length. All members of the Board shall possess voting privileges, with one member to be selected by the Board as Chairperson. <strong>[Amended 5-15-1993]</strong></text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Qualifications for Board membership shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Business background in profit-making venture.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Familiarity with marketing or similar type business operation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Of demonstrated good, moral, honest, reputable character, and can withstand a background check.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An enrolled member of the Menominee Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Removal. Any Trustee may be removed by a majority vote of the Tribal Legislature whenever in its judgment the best interests of the Menominee Tribal Supermarket will be served thereby. Appointment to the Board shall not create rights of any kind.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Vacancies. A vacancy on the Board shall be filled by the Tribal Legislature for the unexpired term.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="IV|§715-4">
+    <prefix>§</prefix>
+    <num>715-4</num>
+    <heading>Powers.</heading>
+    <para>
+      <num>A.</num>
+      <text>The powers of the chartered business, Menominee Tribal Supermarket, shall be limited to purposes of management of Menominee Tribal Supermarket business only.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No tribal assets shall be transferred to the ownership of Menominee Tribal Supermarket. Tribal lands or interests therein which are subject to management by Menominee Tribal Supermarket shall not be pledged, mortgaged, leased, or otherwise encumbered.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The chartered business may, consistent with federal law and the requirements of <cite path="§715-5|A">§ 715-5A</cite> below, pledge, mortgage, lease, or otherwise encumber land or interests therein held in its own name as security for debts.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The chartered business may acquire, sell, lease, exchange, transfer, or assign personal property or interests therein, pursuant to the requirements of <cite path="§715-5|A">§ 715-5A</cite> below.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The chartered business shall prepare bylaws for approval of the Menominee Tribal Legislature within 30 days following approval of this Charter.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Menominee Tribal Supermarket shall comply with all applicable tribal/federal laws, with the express exception that Tribal Ordinance Nos. 80-7, 82-11 and 83-6 shall not apply to the chartered Menominee Tribal Supermarket.<fn path="|IV|§715-4|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The chartered business shall hire all personnel necessary for the operation of the Menominee Tribal Supermarket business, subject to the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The initial director of the business shall be as previously designated by the Tribal Legislature, subject to retention by the Board pursuant to tribal personnel policies and procedures. Future hiring of a director shall be by the Board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The chartered business shall not have power to hire or employ legal counsel on its own behalf except as expressly provided in <cite path="§715-5|F">§ 715-5F</cite> below.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The business shall develop its own policies and procedures for the hiring and retention of personnel as appropriate to a supermarket, subject to approval by the Legislature by ordinance.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: For Ord. No. 80-7 see <cite path="|I|7">Ch. 7</cite>, Accounting System; for Ord. No. 82-11 see <cite path="|I|77|I">Ch. 77, Art. I</cite>, Conflict of Interest. Ordinance No. 83-6 adopted the Personnel Policies and Procedures Manual which is on file at the office of the Administrative Manager.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-5</num>
+    <heading>Relationship with Tribal Legislature.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribal Legislature shall not interfere with the business decisions of the management of Menominee Tribal Supermarket.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature shall retain all authority and power to exercise all power governmental and sovereign functions over the chartered business and over property managed and owned by it.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In addition to the power to amend this Charter from time to time as it deems advisable, the Tribal Legislature expressly retains the rights to withdraw this Charter and dissolve the chartered business by repeal of Ordinance No. 87-11 whenever the Tribal Legislature determines that the best interests of the Menominee Tribe shall be served thereby.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Tribal Legislature, by issuing this written charter for Menominee Tribal Supermarket business, does not waive the Tribe's sovereign immunity, and the Tribal Legislature hereby expressly prohibits the chartered business, Menominee Tribal Supermarket, from waiving its sovereign immunity.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Menominee Tribal Legislature shall, by resolution, set reasonable salaries or other compensation for the Board of Trustees, which salaries or other forms of compensation shall be an expense of the chartered business.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Tribal Legislature shall make available the services of the Tribal Attorney, or such other attorney as the Legislature may from time to time retain, for purposes of advising and representing the chartered business, and the chartered business shall rely exclusively on the legal opinions and services of said Attorney, except where the Tribal Legislature shall expressly authorize, by resolution, the hiring of separate counsel, and then only on the conditions and for the purposes expressly authorized. The costs of the tribally designated attorney's services and the costs of such separate counsel as may from time to time be authorized shall be an expense of the chartered business.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-6</num>
+    <heading>Transmittal of profits.</heading>
+    <para>
+      <num>A.</num>
+      <text>The chartered business shall pay all expenses for operation of Menominee Tribal Supermarket business.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All profits after expenses shall inure to the benefit of the Menominee Tribe. No dividend shall be paid to Trustees or employees.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All profit after expenses shall be transmitted on a monthly basis by the chartered business to the Tribal Legislature, subject to retainage of 5% of the net profits by the chartered business for purposes of reinvestment, accelerated retirement of debt or reasonable reserve for contingencies.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-7</num>
+    <heading>Financial status report.</heading>
+    <para>
+      <num>A.</num>
+      <text>The chartered business, Menominee Tribal Supermarket, acting through its Chairperson or delegated representative, shall report to the Tribal Legislature on the financial status of the Menominee Tribal Supermarket at the first meeting of the Tribal Legislature in every month.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An annual financial status report shall be made to the General Council by the chartered business.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-8</num>
+    <heading>Amendment to Charter.</heading>
+    <text>This Charter may be amended by the tribal ordinance process.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>715-9</num>
+    <heading>Conflict with Uniform Business Rules.</heading>
+    <text>Should there be a conflict between the provisions of this Charter and the provisions of the Uniform Business Rules, the provisions of this Charter shall govern.</text>
+    <annotations/>
+  </section>
+</container>

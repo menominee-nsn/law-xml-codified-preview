@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>490</num>
+  <heading>SETTLEMENT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="II|490|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Illegal Settling</heading>
+    <annotations>
+      <annotation type="History">Adopted 7-15-1992 by Ord. No. 92-10</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>490-1</num>
+      <heading>Purpose.</heading>
+      <text>It is the purpose of <cite path="|II|490|I">this article</cite> to regulate the settlement on lands within the external boundaries of the Menominee Indian Reservation so as to allow safe, proper and orderly settlement of Menominee lands as delegated by the Menominee Tribal Constitution.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>490-2</num>
+      <heading>Definitions.</heading>
+      <text>The following definitions shall be used to interpret <cite path="|II|490|I">this article</cite>:</text>
+      <text>ILLEGAL SETTLEMENT — Any settlement on Menominee tribal land without an official, duly authorized, specific written permit granted by the Menominee Indian Tribe or its designee allowing such a settlement.</text>
+      <text>MENOMINEE TRIBAL LANDS/TRIBAL LANDS — Any land(s) held in trust for the Menominee Indian Tribe by the United States federal government occurring within the external boundaries of the Menominee Indian Reservation or in transition to trust or owned in fee simple by the Menominee Indian Tribe.</text>
+      <text>MENOMINEE TRIBAL MEMBER/TRIBAL MEMBER — A Menominee tribal member who is listed on the official roll of the Menominee Indian Tribe at the time of his settlement.</text>
+      <text>SETTLEMENT/SETTLE — Any physical presence on any tribal land by any individual, either in person, constructively or by his property, which evidences a permanent or semipermanent intent to reside on the land indefinitely.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>490-3</num>
+      <heading>Illegal settlement.</heading>
+      <text>It shall be a violation of Menominee tribal law for any individual to settle upon Menominee tribal lands without specific authorization of the Menominee Indian Tribe or its designee. Menominee tribal members may request authorization to settle upon Menominee tribal lands from the Menominee Tribal Real Estate Services office.</text>
+      <para>
+        <num>A.</num>
+        <text>All authorizations shall be in writing specifying the length of the authorization and the terms of the authorization.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Fees may be set as a condition of the authorization.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Nontribal members shall not be granted authorization to settle upon Menominee tribal lands except as specified in the Menominee Constitution and Bylaws.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>490-4</num>
+      <heading>Violations and penalties.</heading>
+      <text>It shall be a violation of tribal law for any individual to settle upon Menominee tribal lands without a duly authorized permit. Any individual settling upon such lands shall be subject to the following forfeitures: any individual violating <cite path="|II|490|I">this article</cite> shall pay a forfeiture of not less than $500 nor more than $1,000 plus costs of removal and court costs. For the purpose of <cite path="|II|490|I">this article</cite>, each day that the individual remains illegally settled on Menominee tribal land after he or she receives official notice shall be considered a separate offense.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>490-5</num>
+      <heading>Implementation.</heading>
+      <text>Implementation of <cite path="|II|490|I">this article</cite> shall be delegated to the Real Estate Services Office.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>490-6</num>
+      <heading>Enforcement.</heading>
+      <text><cite path="|II|490|I">This article</cite> shall be enforced by the Menominee Tribal Police Department and the Menominee Tribal Conservation Department, which shall cooperate with the Menominee Tribal Real Estate Services Office.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

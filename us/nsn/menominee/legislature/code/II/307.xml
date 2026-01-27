@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|307">
+  <prefix>Chapter</prefix>
+  <num>307</num>
+  <heading>INDUSTRIAL HEMP</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-7-2015 by Ord. No. 15-06; amended in its entirety 6-20-2019 by Ord. No. 19-06. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Controlled substances — See <cite path="|II|306">Ch. 306</cite>, Part 1.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>307-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|307">This chapter</cite> shall be titled "Industrial Hemp."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-2</num>
+    <heading>Findings and purpose.</heading>
+    <text>The Legislature finds that hemp has been continuously cultivated for millennia, is accepted and available in the global marketplace, and has numerous beneficial, practical, and economic uses, including, but not limited to, high-strength fiber; textiles; clothing; biofuel; paper products; protein-rich food containing fatty acids and amino acids; biodegradable plastics; resins; nontoxic medicinal and cosmetic products; construction materials; rope; and value-added crafts. The hemp plant is morphologically distinctive and readily identifiable as an agricultural crop grown for the cultivation and harvesting of its fiber and seed. It is the intent of the Legislature to legalize the agricultural production of industrial hemp and provide a regulatory framework that will ensure the security and safety of hemp crops while at the same time facilitate the ability of the Tribe to successfully compete in the global hemp marketplace.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-3</num>
+    <heading>Legitimacy agricultural product.</heading>
+    <text>Notwithstanding Menominee Tribal Code <cite path="|II|306">Chapter 306</cite> or any other tribal law, industrial hemp is an agricultural product that may be legally grown, produced, possessed, processed, and commercially traded in accordance with the provisions of <cite path="|II|307">this chapter</cite>. Interstate and international commercial transactions may be conducted by tribally licensed industrial hemp growers with respect to industrial hemp and industrial hemp products produced on the Menominee Reservation by licensees. A grower engaged in processing, selling, or otherwise distributing industrial hemp cultivated by a grower licensed under <cite path="|II|307">this chapter</cite>, or selling industrial hemp products produced therefrom, is not subject to any civil or criminal actions under Menominee law for engaging in such activities.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-4</num>
+    <heading>Definitions.</heading>
+    <text>The definitions in this section apply throughout <cite path="|II|307">this chapter</cite> unless the context clearly requires otherwise:</text>
+    <text>CULTIVAR — A variation of genera Cannabis that has been developed through cultivation by selective breeding.</text>
+    <text>DEPARTMENT — Menominee Tribal Department of Agriculture and Food Systems.</text>
+    <text>GROWER — Any person or entity growing industrial hemp and being duly licensed in accordance with the provisions of <cite path="|II|307">this chapter</cite>.</text>
+    <text>HEMP PRODUCTS — Includes all products made from industrial hemp, including, but not limited to, cloth, cordage, fiber, food, fuel, paint, paper, building materials, plastics, seed, livestock feed, seed meal, seed oil intended for consumption, seed certified for cultivation, extracted chemicals from leaves, stems, roots, flowers and seed for therapeutic, nutritional, pharmaceutical, and nutraceutical products, or any other hemp product derived from industrial hemp, provided the product is derived from seeds originating from industrial hemp cultivars approved by the Department in accordance with the provisions of <cite path="|II|307">this chapter</cite>.</text>
+    <text>INDUSTRIAL HEMP — All parts and varieties of the genera Cannabis, cultivated or possessed by a grower, whether growing or not, that contain a tetrahydrocannabinol concentration of 0.3% or less by weight.</text>
+    <text>THC CONCENTRATION — Percent of total THC, which is the combined percent of delta-9-tetrahydrocannabinol and tetrahydrocannabinolic acid in any part of the genera Cannabis, regardless of moisture content.</text>
+    <text>THC OR TETRAHYDROCANNABINOL — The component delta-9-tetrahydrocannibinol contained in the genera Cannabis, or in the resinous extractives of the genera Cannabis, or the synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-5</num>
+    <heading>Duties of Department.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall administer and enforce the provisions of <cite path="|II|307">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department is authorized to investigate compliance with <cite path="|II|307">this chapter</cite>, and have access, subject to the provisions of <cite path="§307-5|C">Subsection C of this section</cite>, to all land, buildings, or places where industrial hemp is grown, kept, stored, or handled, and to all records relating to hemp production. The Department may make copies of the records.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department may access properties and records specified in <cite path="§307-5|B">Subsection B of this section</cite> during regular business hours upon the consent of the grower or when the Department has probable cause to believe that any grower licensed under <cite path="|II|307">this chapter</cite> is otherwise in violation of <cite path="|II|307">this chapter</cite> or rules adopted under it.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-6</num>
+    <heading>License required.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any entity wishing to engage in the cultivation of industrial hemp must be licensed as an industrial hemp grower by the Department. A Department-issued license authorizes industrial hemp production only at the site or sites specified by the licensee in the licensee's license application.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In order to obtain a license, a prospective licensee must provide evidence that the majority ownership of the prospective licensee is held by the Menominee Indian Tribe of Wisconsin, or an instrumentality of the Menominee Indian Tribe of Wisconsin approved by the Menominee Tribal Legislature, and file an application with the Department. A Department-issued license is valid for three years and may be renewed, but may not be transferred.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To qualify for a license, an applicant shall demonstrate to the satisfaction of the Department, in a manner prescribed by the Department, that the applicant intends to and is capable of growing industrial hemp and has adopted methods to ensure its safe production which, at a minimum, include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Securing the supply of all industrial hemp seed obtained for planting in compliance with <cite path="|II|307">this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensuring the integrity of the industrial hemp crop while it is in the field, which includes filing with the Department the location and acreage of all parcels sown and other field reference information as may be required by the Department;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Agreeing to the provisions of <cite path="§307-5">§ 307-5</cite> of <cite path="|II|307">this chapter</cite> regarding inspections and records requests by the Department; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Maintaining and providing to the Department records that reflect compliance with the provisions of <cite path="|II|307">this chapter</cite> and with all other tribal law regulating the planting and cultivation of industrial hemp.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Every grower shall maintain all production records for at least three years after each production season at its principal place of business located on the Menominee Reservation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Every grower shall place signs at the natural access points of industrial hemp fields that communicate, at a minimum, that the crop is industrial hemp and that the THC content is insignificant. The minimum length of the signs is 24 inches and the minimum height is 18 inches.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Department may deny, suspend, revoke, or refuse to renew the license of any grower that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Makes a false statement or misrepresentation on an application for a license or renewal of a license;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fails to comply with or violates any provision of <cite path="|II|307">this chapter</cite> or any rule adopted under it; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fails to take any action required by the Department under the provisions of <cite path="|II|307">this chapter</cite> within the time period stated in a written notice to take such action.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Revocation or suspension of a license may be in addition to any criminal penalties or fines imposed on a grower under other tribal law.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>All the provisions of this section regarding obtaining and qualifying for a license apply equally to license renewal or transfer.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-7</num>
+    <heading>Fees.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall charge a fee for each license granted to a grower under <cite path="|II|307">this chapter</cite>. The fee amount charged for the first growing season after the effective date of <cite path="|II|307">this chapter</cite> is $100 per acre of land under cultivation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>After the first growing season, the Department shall adopt by rule a fee to fund and administer the program, to be used beginning with the growing seasons following the first growing season. All fee revenue shall be utilized to defray the costs of the Department in administering <cite path="|II|307">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-8</num>
+    <heading>Approved seeds.</heading>
+    <text>Only industrial hemp seed propagated from Cannabis wherein the progeny are likely to possess no amount of THC greater than 0.3% by weight are approved for use under the license. Special exemption may be acquired by the licensee, upon written application and approval, for purposes of research or breeding in order to develop more favorable industrial hemp cultivars.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-9</num>
+    <heading>Annual THC testing; exemption.</heading>
+    <para>
+      <num>A.</num>
+      <text>Industrial hemp growers are required to annually submit plant samples chosen by the Department to an independent, Department-certified testing laboratory for the testing of THC levels in accordance with the requirements of <cite path="|II|307">this chapter</cite>. The annual test results must be retained by the grower for a period of three years. The samples must be from each noncontiguous, individually identifiable field, regardless of size, that is owned or controlled by the grower. The costs of the testing must be borne by the grower, and the test results must be provided to the Department by the laboratory. The Department has discretionary authority to require random testing at any time.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department may exempt a grower from the annual testing requirement established under this section if the annual test results of the hemp varieties grown by that producer prove to contain 0.3% THC or less for three consecutive years.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department shall adopt by rule the criteria for the certification of a testing laboratory and the testing standards and processes to be used by a laboratory under this section.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In addition to plant testing, all products intended to be put into the stream of commerce and which will be produced for human or animal consumption or absorption shall be tested for quality and shall be labeled. Such labeling shall include the percentage of THC, CBD, CBG and CBN within the end product.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-10</num>
+    <heading>Research.</heading>
+    <text>The Department is authorized to waive any provision of <cite path="|II|307">this chapter</cite> as it would apply to the College of Menominee Nation growth and cultivation of industrial hemp for the purpose of engaging in agricultural or academic research upon application for such a waiver by the College of Menominee Nation.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-11</num>
+    <heading>Reporting.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall report annually to the Legislature on the fee amount, the acres of industrial hemp in production, and the revenue generated from industrial hemp.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department must report to the Legislature on the implementation of <cite path="|II|307">this chapter</cite> and on the commercialization of industrial hemp on the Menominee Reservation and elsewhere in the world, and recommend any changes to <cite path="|II|307">this chapter</cite> deemed appropriate.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-12</num>
+    <heading>Sale of industrial hemp products.</heading>
+    <text>Neither industrial hemp nor any product made from industrial hemp intended to be put into the stream of commerce and which will be produced for human consumption or absorption shall be sold to any person under the age of 18.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-13</num>
+    <heading>Unlicensed growth, manufacture and sale of industrial hemp prohibited; violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as authorized by <cite path="|II|307">this chapter</cite> by a validly licensed grower, it is unlawful for any person or entity to knowingly or intentionally cultivate, grow, manufacture, traffic, distribute, dispense or deliver, or possess with the intent to manufacture, distribute, dispense, or deliver, industrial hemp.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person who violates <cite path="§307-13|A">Subsection A</cite> shall be subject to a Class B misdemeanor as defined in Menominee Tribal Code <cite path="§306-29">§ 306-29</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the offense is a second or subsequent violation of this section, then the penalty shall increase to a Class A misdemeanor as defined in Menominee Tribal Code <cite path="§306-29">§ 306-29</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>307-14</num>
+    <heading>Exemptions for persons or entities licensed under Wisconsin law.</heading>
+    <para>
+      <num>A.</num>
+      <text>Notwithstanding <cite path="§307-6|B">§ 307-6B</cite>, any enrolled tribal member or entity wholly owned by an enrolled tribal member or members that has been issued a license to grow industrial hemp by the Wisconsin Department of Agriculture, Trade, and Consumer Protection shall receive a license under <cite path="|II|307">this chapter</cite> upon:</text>
+      <para>
+        <num>(1)</num>
+        <text>Payment of the fee listed in <cite path="§307-7">§ 307-7</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acceptance by the Department of a valid copy of said Wisconsin license and any application materials provided to the State of Wisconsin regarding said license.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person or entity licensed pursuant to <cite path="§307-14|A">§ 307-14A</cite> shall be subject to all the provisions of <cite path="|II|307">Chapter 307</cite> except §<cite path="§307-8">§ 307-8</cite> and 307-9.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any tribal license issued to a person or entity pursuant to <cite path="§307-14|A">§ 307-14A</cite> shall only be valid so long as the Wisconsin license is valid.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Failure of the licensee to comply with the Wisconsin license requirements regarding testing of THC levels shall be deemed a violation of <cite path="|II|307">this Chapter 307</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Results of all testing of THC levels shall be provided to the Department within 48 hours of receipt by the licensee.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>All documentation and information required to be provided to the Wisconsin Department of Agriculture, Trace, and Consumer Protection by the licensee pursuant to Wisconsin rules shall be also provided to the Department at the same time.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Any license issued pursuant to this <cite path="§307-14">§ 307-14</cite> shall become null and void 90 days after the United States Secretary of Agriculture approves a hemp plan for the Menominee Indian Tribe of Wisconsin pursuant to § 297B of the Agricultural Marketing Act of 1946.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

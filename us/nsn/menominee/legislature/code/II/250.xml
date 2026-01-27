@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|250">
+  <prefix>Chapter</prefix>
+  <num>250</num>
+  <heading>ALCOHOLIC BEVERAGES</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
+    <annotation type="General References">Drugs and drug paraphernalia — See <cite path="|II|306">Ch. 306</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="II|250|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Alcoholic Beverage Control</heading>
+    <annotations>
+      <annotation type="History">Adopted 12-20-1979 by Ord. No. 79-31; amended in its entirety 5-21-2020 by Ord. No. 20-10</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>250-1</num>
+      <heading>Incorporation of state law.</heading>
+      <text>Pursuant to applicable federal law, including 25 U.S.C.A. § 1302 and 18 U.S.C. § 1161, which requires that tribal regulation of liquor on Indian reservations be in conformity with the laws of the state in which the reservation is located, the Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law <cite>Ch. 125</cite>, Wis. Stats., as amended from time to time, substituting where necessary the Tribe and is agents and agencies for the state and its agents, agencies or subdivisions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-2</num>
+      <heading>Underage and intoxicated persons.</heading>
+      <para>
+        <num>A.</num>
+        <text>Repeal of prior amendments. The amendments to Ordinance No. 79-31 adopted on September 29, 1988, and June 12, 1993, are repealed, and <cite doc="Wis. Stat." path="§125.07">§ 125.07, Wis. Stats.</cite>, which is incorporated pursuant to <cite path="|II|250|I">this article</cite> as part of Ch. 125, Wis. Stats., is reinstated in its entirety except for the changes noted in this section.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Amendments to <cite doc="Wis. Stat." path="§125.07">§ 125.07, Wis. Stats.</cite></text>
+        <para>
+          <num>(1)</num>
+          <text>Section 125.07(1)(a)1 is amended to delete the phrase "not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age."</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Section 125.07(1)(a)2 is amended to delete the phrase "not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age."</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Section 125.07(3)(a) is amended to delete the phrase "not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age."</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Section 125.07(4)(a)2 is amended to delete the phrase "unless accompanied by a parent, guardian or spouse who has attained the legal drinking age."</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Section 125.07(4)(b) is amended to delete the phrase "not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age."</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Penalties.</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person convicted of providing intoxicants to persons under 21 years of age shall be assessed a fine not to exceed $1,000 or imprisoned not to exceed one year, or both.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any penalty contained in <cite>Chapter 125</cite> of the Wisconsin Statutes adopted by <cite path="|II|250|I">this article</cite> which exceeds one year of imprisonment or $5,000 is replaced with a penalty of one year of imprisonment or fine of $5,000, or both.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Special Permits; Public Intoxication</heading>
+    <annotations>
+      <annotation type="History">Adopted 7-7-1983 by Ord. No. 83-11; amended in its entirety 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>250-3</num>
+      <heading>Special permits for sale of alcoholic beverages.</heading>
+      <text>Special permits for the sale of any type of alcoholic beverages shall:</text>
+      <para>
+        <num>A.</num>
+        <text>Not be issued to anyone within a ten-mile radius of the Village of Keshena on Tribal Pow Wow days.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Be issued on other days within the exterior boundaries of the Reservation and shall be good only between the hours of 9:00 a.m. to 9:00 p.m. where the permit is for an outside activity such as ball games, parades, etc., or 9:00 a.m. to 12:00 midnight where the permit is for an activity within a building such as Legend Lake Lodge, etc.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-4</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|250|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Intoxication and Alcoholic Beverage Offenses</heading>
+    <annotations>
+      <annotation type="History">Adopted 12-7-2000 by Ord. No. 00-33; amended in its entirety 5-21-2020 by Ord. No. 20-10<fn path="|II|250|III|footnotes|1">1</fn></annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: This ordinance also amended the title of <cite path="|II|250|III">this article</cite>, which was formerly Public Consumption.</text>
+      </footnote>
+    </footnotes>
+    <section>
+      <prefix>§</prefix>
+      <num>250-5</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|250|III">This article</cite> shall be titled "Intoxication and Alcoholic Beverage Offenses."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-6</num>
+      <heading>Definitions.</heading>
+      <text>The following words and terms shall have the following meanings:</text>
+      <text>ALCOHOLIC BEVERAGE — Fermented malt beverages, intoxicating liquor and wines which contain 0.5% or more alcohol by volume, but shall not include any beverage used in a bona fide religious ceremony.</text>
+      <text>INTOXICATED — Not having the normal use of mental or physical faculties by reason of the introduction of alcohol, a controlled substance, a drug, a dangerous drug, or combination of two or more of those substances or any other substance into the body.</text>
+      <text>PRIVATE PROPERTY — Any private residence which is owned or leased by:</text>
+      <para>
+        <num>A.</num>
+        <text>The person consuming the alcoholic beverage or in possession of the open container of the alcoholic beverage;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>An immediate member of said person's family; or</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A person who has granted permission to the person consuming the alcoholic beverage or in possession of the open container of the alcoholic beverage to be on the property.</text>
+        <text>PRIVATE RESIDENCE — A house or apartment where persons reside and shall not include any commercial establishment.</text>
+        <text>PUBLIC PLACE —</text>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>A public place is not:</text>
+        <para>
+          <num>(1)</num>
+          <text>Inside a place that is licensed to allow consumption of alcoholic beverages on its premises pursuant to Article I of <cite path="|II|250">this chapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A place where alcoholic beverages are allowed to be consumed pursuant to <cite path="|II|444">Chapter 444</cite>, Parks and Recreation, Article I, Ballparks, of this Code or any other chapter of the Code of Menominee Indian Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A public place is any place:</text>
+        <para>
+          <num>(1)</num>
+          <text>That is within view of a public road; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That is where the conduct involved may reasonably be expected to be viewed by people other than members of the actor's family or household; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That is not private property.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-7</num>
+      <heading>Public consumption.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be unlawful for any person to consume an alcoholic beverage or be in possession of an open container of an alcoholic beverage in a public place within the exterior boundaries of the Menominee Indian Reservation. Persons violating this section shall be issued a citation by a Menominee tribal police or Menominee tribal conservation officer and have any alcoholic beverages in their possession confiscated and disposed of.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Except as provided in the subsection below, the penalty for violation of this section shall be a forfeiture of $100.</text>
+        <para>
+          <num>(1)</num>
+          <text>If it is shown on the trial of the offense that the person has previously been convicted of the same offense within the past 12 months, the penalty shall be a forfeiture of $200.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If it is shown on the trial of the offense that the person has previously been twice convicted of the same offense within the past 12 months from the penalty shall be a forfeiture of $300.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court may:</text>
+        <para>
+          <num>(1)</num>
+          <text>After a finding of inability to pay, reduce the cost of forfeiture and order the person to pay the difference toward the cost of the alcohol assessment; or a combination of requiring the person to perform community service work and/or attending trauma informed care training and/or adverse child experience training in lieu of paying the forfeiture imposed; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Require the person to attend trauma informed care training and/or adverse child experience training in lieu of paying half of the forfeiture for a first offense.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-8</num>
+      <heading>Public intoxication.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person commits an offense if the person appears in any public place under the influence of intoxicating liquor, any drug, controlled substance, or any combination of any intoxicating liquor, drug, controlled substance, in a condition that he or she is:</text>
+        <para>
+          <num>(1)</num>
+          <text>Unable to exercise care for their safety or the safety of others; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>By reason of his or her being under the influence of intoxicating liquor, any drug, controlled substance or any combination of any intoxicating liquor, drug, interferes with, obstructs, or prevents others from using streets, sidewalks, or other public ways, public places, or tribal lands.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For the purposes of this section, a premises licensed or permitted alcohol under a state or tribal alcohol beverage code is a public place.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Except for as provided in the subsection below, the penalty for a violation of this section shall be $150.</text>
+        <para>
+          <num>(1)</num>
+          <text>If it is shown on the trial of the offense that the person has previously been convicted of the same offense within the past 12 months the penalty shall be a forfeiture of $300.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If it is shown on the trial of the offense that the person has previously been convicted of the same offense within the past 12 months the penalty shall be a forfeiture of $450.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Court may:</text>
+        <para>
+          <num>(1)</num>
+          <text>After a finding of inability to pay, reduce the cost of forfeiture and order the person to pay the difference toward the cost of the alcohol assessment; or a combination of requiring the person to perform community service work and/or attending trauma informed care training and/or adverse child experience training in lieu of paying the forfeiture imposed; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Require the person to attend Trauma Informed Care Training and/or Adverse Child Experience Training in lieu of paying half of the forfeiture for a first offense.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-9</num>
+      <heading>Trauma informed practices.</heading>
+      <text>The Court shall:</text>
+      <para>
+        <num>A.</num>
+        <text>Strive to understand the prevalence and impact of trauma.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Move towards recommending or ordering service delivery efforts where there is a greater understanding of the role of trauma in offenders' lives and the impact of trauma on health and substance-use-related behaviors.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Afford dignity and respect to all individuals appearing before or coming in contact with the Court.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>250-10</num>
+      <heading>Severability and when effective.</heading>
+      <para>
+        <num>A.</num>
+        <text>If any portion of <cite path="|II|250|III">this article</cite> is found to be unconstitutional or in violation of applicable federal law, the remainder of <cite path="|II|250|III">this article</cite> shall remain in effect.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|II|250|III">This article</cite> shall be immediately effective upon final approval of the Menominee Tribal Legislature.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

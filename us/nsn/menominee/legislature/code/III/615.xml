@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="III|615">
+  <prefix>Chapter</prefix>
+  <num>615</num>
+  <heading>LAND TRANSFER AGENT</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-18-2018 by Ord. No. 18-29. Amendments noted where applicable</annotation>
+    <annotation type="General References">Tribal lands — See <cite path="|II|525">Ch. 525</cite>.</annotation>
+    <annotation type="General References">Kenosha Trust lands — See <cite path="|III|594">Ch. 594</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>615-1</num>
+    <heading>Designation of Land Transfer Agent.</heading>
+    <text>The Menominee Tribal Legislature shall, by Resolution, designate one or more Tribal members to act as the Tribe's Land Transfer Agent for the purpose of facilitating the transfer of land to the United States in trust for the Menominee Indian Tribe of Wisconsin pursuant to 25 U.S.C. § 903d(c). The Land Transfer Agent shall generally perform the duties previously performed by the Tribal "Straw person" subject to the provisions of <cite path="|III|615">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-2</num>
+    <heading>Authority of Land Transfer Agent.</heading>
+    <text>A Land Transfer Agent designated by the Tribal Legislature by resolution who executes an agreement with the Tribe pursuant to <cite path="§615-8">§ 615-8</cite> shall have the authority to do the following:</text>
+    <para>
+      <num>A.</num>
+      <text>Accept the transfer of real property on behalf of the Menominee Indian Tribe of Wisconsin if the deed transferring the real property states that the Land Transfer Agent is accepting the real property on behalf of the Menominee Indian Tribe of Wisconsin ("designated real property");</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At the direction of the Tribe in conformance with the agreement referenced in <cite path="§615-8">§ 615-8</cite>, deed the designated real property to either:</text>
+      <para>
+        <num>(1)</num>
+        <text>The United States of America in trust for the Menominee Indian Tribe of Wisconsin; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Another Tribal Land Transfer Agent; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other person or entity as specifically directed by resolution of the Tribal Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Take any other action in accordance with the provisions of <cite path="|III|615">this Chapter 615</cite> and the agreement referenced in <cite path="§615-8">§ 615-8</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-3</num>
+    <heading>Power of attorney.</heading>
+    <text>Any person designated a Land Transfer Agent pursuant to this section shall grant an irrevocable durable power of attorney to the Secretary of the Tribal Legislature authorizing the Secretary to take any act the Land Transfer Agent is authorized to take pursuant to <cite path="|III|615">this chapter</cite>. The Secretary shall take no action pursuant to this delegated power of attorney except pursuant to motion of the Tribal Legislature. The grant of power of attorney made pursuant to this section shall automatically transfer to any successor Secretary of the Tribal Legislature at the time that office transfers pursuant to act of the Tribal Legislature, and shall terminate in regard to any Secretary of the Tribal Legislature at the time they cease to hold that position.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-4</num>
+    <heading>Restrictions.</heading>
+    <text>Notwithstanding any other provision of Tribal law:</text>
+    <para>
+      <num>A.</num>
+      <text>No person or entity through inheritance, marriage, or otherwise shall be entitled to any interest in the designated real property that is titled in the Land Transfer Agent's name. A deed executed by the Land Transfer Agent designating a beneficiary for designated real property upon death of Land Transfer Agent shall act to transfer such designated real property to the named beneficiary upon death of the Land Transfer Agent.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any power of attorney granted or delegated in an instrument in conformance with the provisions of <cite path="|III|615">this chapter</cite> shall survive the incapacity or death of the person granting or delegating such power of attorney.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-5</num>
+    <heading>Transferability.</heading>
+    <text>The Land Transfer Agent has no authority to transfer the designated real property, or any interest in the designated real property except as provided for in <cite path="|III|615">this chapter</cite>. Any purported action by the Land Transfer Agent contrary to the provisions of <cite path="|III|615">this chapter</cite> shall be null and void and of no effect.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-6</num>
+    <heading>Fees and costs.</heading>
+    <text>The Land Transfer Agent shall not be responsible for any taxes, fees, costs, or any other obligation that is related to ownership of designated real property.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-7</num>
+    <heading>Reimbursement and indemnification.</heading>
+    <text>A Land Transfer Agent shall be entitled to be reimbursed and indemnified by the Tribe for all legal and other expenses reasonably incurred in connection with any claim, action, suit, or proceeding of whatever nature in which he may be involved by reason of having served as Land Transfer Agent. Reimbursement and indemnification under <cite path="§615-7">this subsection</cite> include amounts paid or incurred in connection with reasonable settlements designed to curtail litigation costs. No such reimbursement or indemnification shall relate to any expense incurred or settlement made in connection with any matter arising out of the negligence or misconduct of the Land Transfer Agent, as determined by the Tribal Courts. The choice of counsel to represent the Land Transfer Agent shall be at the sole discretion of the Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-8</num>
+    <heading>Agreement.</heading>
+    <text>The Land Transfer Agent shall enter into an agreement with the Tribe, in a form acceptable to the Tribal Legislature, that includes, but is not limited to, the following:</text>
+    <para>
+      <num>A.</num>
+      <text>Compensation for the Land Transfer Agent services.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Land Transfer Agent acknowledgement of and agreement to abide by the provisions of <cite path="|III|615">this chapter of the Menominee Tribal Code</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Requirements that the Land Transfer Agent execute all documents necessary to further the provisions of <cite path="|III|615">this chapter</cite>, including, but not limited to, power of attorney and transfer on death deeds.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Provisions allowing the Tribe to terminate the agreement at will.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>615-9</num>
+    <heading>Termination.</heading>
+    <text>Designation of a Tribal Land Agent shall create no right of any kind to such positon. The Tribal Legislature may terminate a Tribal Land Agent's authority at any time for any reason it deems to be in the best interest of the Tribe.</text>
+    <annotations/>
+  </section>
+</container>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|436">
+  <prefix>Chapter</prefix>
+  <num>436</num>
+  <heading>OCCUPATIONAL SAFETY AND HEALTH</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-21. Amendments noted where applicable</annotation>
+    <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
+  </annotations>
+  <section cache:ref-path="II|§436-1">
+    <prefix>§</prefix>
+    <num>436-1</num>
+    <heading>Purpose; legislative authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribal Legislature, in order to assure, insofar as may reasonably be possible, safe and healthful working conditions for every man and woman working on the Menominee Indian Reservation, declares its purpose by the provisions of <cite path="|II|436">this chapter</cite> to create, maintain, continue, and enhance the industrial safety and health program of the Tribe, which program shall be as effective, in the opinion of the Menominee Tribal Legislature, as the standards prescribed by the Occupational Safety and Health Act of 1970 (Public Law 91-596, 84 Stat. 1590).<fn path="|II|§436-1|footnotes|1">1</fn></text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Although the Menominee Tribal Legislature, pursuant to Article III of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, has the power and authority to make the provisions of <cite path="|II|436">this chapter</cite> applicable to all employers within the borders of the Menominee Indian Reservation, the Legislature at this time wishes only to apply the provisions of <cite path="|II|436">this chapter</cite> to Menominee Tribal Enterprises, Menominee Indian Gaming Authority and all entities chartered by the Menominee Tribal Legislature pursuant to Articles XII and XIII of the Constitution and Bylaws. The provisions of <cite path="|II|436">this chapter</cite> do not apply to the Menominee Indian Tribe nor the College of the Menominee Nation, nor to any other person or entity not defined as an employer pursuant to <cite path="§436-2">§ 436-2</cite> of <cite path="|II|436">this chapter</cite>.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: See 29 U.S.C. § 651 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of <cite path="|II|436">this chapter</cite>:</text>
+    <text>ADVISORY BOARD — A board which shall consist of the Insurance Director, Environmental Services Director, Community Development Director, Housing Director, designee from the Menominee Casino and designee from the College of the Menominee Nation. In the event that one of the above-listed positions is filled by a nontribal member, that director shall designate a tribal member employee of that department to serve on the Board.</text>
+    <text>AUTHORIZED REPRESENTATIVE — An employee, agent, or officer of the Department. DEPARTMENT — The Menominee Indian Tribe of Wisconsin Environmental Services Department.</text>
+    <text>DIRECTOR — The Director of the Menominee Indian Tribe of Wisconsin Environmental Services Department, or a designated representative of that Director.</text>
+    <text>EMPLOYEE — An employee of an employer.</text>
+    <text>EMPLOYER — Menominee Tribal Enterprises, the Menominee Indian Gaming Authority and any</text>
+    <text>business chartered by the Tribe pursuant to Article XII or XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>SAFETY AND HEALTH STANDARD — A standard which requires the adoption or use of one or more practices, means, methods, operations, or processes reasonably necessary or appropriate to provide safe or healthful employment and places of employment, and any rules, regulations, or procedures necessary to effectively implement <cite path="|II|436">this chapter</cite>.</text>
+    <text>TRIBAL COURT — The Menominee Tribal Court.</text>
+    <text>WORKING DAY — For the purpose of computing time, a calendar day, except Saturdays, Sundays, and all tribal governmental legal holidays, as now or hereafter amended, and for the purposes of the computation of time within which an act is to be done under the provisions of <cite path="|II|436">this chapter</cite>, shall be computed by excluding the first working day and including the last working day.</text>
+    <text>WORK PLACE — Any plant, yard, premises, room, or other place where an employee or employees are employed for the performance of labor or service over which the employer has the right of access or control.</text>
+    <annotations>
+      <annotation type="History">Amended 12-15-2011</annotation>
+    </annotations>
+  </section>
+  <section cache:ref-path="II|§436-3">
+    <prefix>§</prefix>
+    <num>436-3</num>
+    <heading>Recommendation and adoption of standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribal Legislature, by resolution, shall make, adopt, modify, and repeal rules and regulations governing safety and health standards for conditions of employment as authorized by <cite path="|II|436">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Within one year of enactment of <cite path="|II|436">this chapter</cite>, the Advisory Board shall recommend to the Menominee Tribal Legislature the adoption of safety and health standards governing the conditions of employment of general and special application in all work places. The Director shall post these recommendations in accordance with Ordinance No. 80-6<fn path="|II|§436-3|footnotes|2">2</fn> at least 30 days prior to any adoption of such recommendations pursuant to <cite path="§436-3|A">Subsection A</cite> above. Such posting shall invite public comment. The Director may present such rules at a public hearing where the Director determines or is required by law to hold such a hearing to provide for notice and comment. The Menominee Tribal Legislature may extend the time period for the Advisory Board to provide its initial recommendation for up to 60 days, upon request from the Advisory Board.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Advisory Board shall thereafter recommend the adoption of safety and health standards, or the amendment of existing safety and health standards, at any time it deems it to be necessary for the safety and health of employees. Such further recommendations shall be made and adopted in the same manner provided for the initial recommendations.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the recommendation of safety and health standards under the authority of <cite path="|II|436">this chapter</cite>, the Advisory Board shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide for the adoption of occupational health and safety standards which are at least as effective as those adopted or recognized by the United States Secretary of Labor under the authority of the Occupational Safety and Health Act of 1970 (Public Law 91-596, 84 Stat. 1590);<fn path="|II|§436-3|footnotes|3">3</fn> and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide a method of encouraging employers and employees in their efforts to reduce the number of safety and health hazards at their work places and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions; and</text>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Provide for appropriate reporting procedures by employers with respect to such information relating to conditions of employment which will assist in achieving the objectives of <cite path="|II|436">this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide for the frequency, method, and manner of the making of inspections of work places without advance notice; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for the publication and dissemination to employers and employees, posting where appropriate by employers, of informational, educational, or training materials calculated to aid and assist in achieving the objectives of <cite path="|II|436">this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide for the establishment of new, and the perfection and expansion of existing, programs for occupational safety and health education for employers and employees, and in addition, institute methods and procedures for the establishment of a program for voluntary compliance solely through the use of advice and consultation with employers and employees with recommendations, including recommendations of methods to abate violations relating to the requirements of <cite path="|II|436">this chapter</cite> and all applicable safety and health standards and rules and regulations promulgated pursuant to the authority of <cite path="|II|436">this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide the effective date of such standard which shall not be less than 30 days, excepting emergency rules. Temporary orders granting a variance may be utilized by the Director in lieu of the delayed effectiveness in the adoption of any rule.</text>
+      </para>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: See <cite path="|I|177">Ch. 177</cite>, Posting Procedures.</text>
+      </footnote>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: See 29 U.S.C. § 651 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-4</num>
+    <heading>General safety standard.</heading>
+    <text>Each employer shall furnish to each of his employees a place of employment free from recognized hazards that are causing or likely to cause serious injury or death to his employees.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-5</num>
+    <heading>Inspections and investigations.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Director, or any authorized representative, in carrying out his duties under <cite path="|II|436">this chapter</cite>, upon the presentation of appropriate credentials to the owner, manager, operator, or agent in charge, is authorized to do the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enter without delay and at all reasonable times any work place of an employer; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Inspect, survey, and investigate during regular working hours and at other reasonable times, and within reasonable manner, any such work place and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In making inspections and making investigations under <cite path="|II|436">this chapter</cite>, the Director may require the attendance and testimony of witnesses and the production of evidence under oath. Witnesses shall be paid the same fees and mileage that are paid witnesses in the Tribal Courts. In the case of failure or refusal of any person to obey such an order, the Tribal Court shall have jurisdiction to issue to such person an order requiring such person to appear to produce evidence when so ordered, and to give testimony relating to the matter under investigation or in question. Any failure to obey such order of the Court may be punished by said Tribal Court as contempt thereof.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A representative of the employer shall be given an opportunity to accompany the Director, or an authorized representative, during the physical inspection of any work place for the purpose of aiding such inspection.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-6</num>
+    <heading>Temporary variances.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any employer may apply to the Director for a temporary order granting a variance from any safety and health standard promulgated by rule or regulation under the authority of <cite path="|II|436">this chapter</cite>. Such temporary order shall be granted only if the employer files an application which meets the requirements of <cite path="§436-6|B">Subsection B of this section</cite>. No temporary order may be in effect for longer than the period needed by the employer to achieve compliance with the standard, or one year, whichever is shorter, except that such an order may be renewed not more than twice, so long as the requirements of <cite path="§436-6|A.">this subsection</cite> are met and if an application for renewal is filed at least 90 days prior to the expiration date of the order. No renewal of a temporary order may remain in effect for longer than 180 days.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An application for a temporary order under this section shall contain:</text>
+      <para>
+        <num>(1)</num>
+        <text>A specification of the safety and health standard or portion thereof from which the employer seeks variance;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A representation by the employer, supported by proof from qualified persons having first-hand knowledge of the facts as represented, that he is unable to comply with the safety and health standard or portion thereof and a detailed statement of the reasons therefor;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement of the steps the employer has taken and will take, with specific dates, to protect employees against the hazard covered by the standard;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A statement as to when the employer expects to be able to comply with the standard or portion thereof and what steps he has taken and will take, with dates specified, to come into compliance with the standard; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A certification that the employer, by the date of mailing or delivery of the application to the Director, has informed his employees of the application by providing a copy thereof to his employees or their authorized representative by posting a copy of such application in a place or places reasonably accessible to all employees or by other appropriate means of notification and by mailing a copy to the authorized representative of such employees; the application shall set forth the manner in which the employees have been so informed. The application shall also advise employees and their employee representatives of their right to apply to the Director to conduct a hearing upon the application for a variance.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-7</num>
+    <heading>Permanent variances.</heading>
+    <text>Any employer may apply to the Director for an order for a variance from any rule or regulation establishing a safety and health standard promulgated under <cite path="|II|436">this chapter</cite>. Affected employees shall be given notice of each such application, and in the manner prescribed by <cite path="§436-6">§ 436-6</cite>, shall be informed of their right to request a hearing on any such application. The Director shall issue such order granting a variance, after opportunity for an inspection, if he determines or decides after a hearing has been held, if request for hearing has been made, the applicant for the variance has demonstrated by a preponderance of the evidence that the conditions, practices, means, methods, operations, or processes used or proposed to be used by such applicant employer will provide employment and places of employment to his employees which are as safe and healthful as those which would prevail if he complied with the safety and health standard or standards from which the variance is sought. The order so issued shall prescribe the conditions the employer must maintain, and the practices, means, methods, operations, and processes which he must adopt and utilize, to the extent they differ from the standard in question. At any time after six months has elapsed from the date of the issuance of the order granting a variance upon application of an employer, employee, or the Director on his own motion, after notice has been given in the manner prescribed for the issuance of such order, may modify or revoke the order granting the variance from any standard promulgated under the authority of <cite path="|II|436">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-8</num>
+    <heading>Employee compliance required.</heading>
+    <text>Each employee shall comply with the provisions of <cite path="|II|436">this chapter</cite> and all rules, regulations, health and safety standards and orders issued pursuant to the authority of <cite path="|II|436">this chapter</cite> which are applicable to his own actions and conduct in the course of his employment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-9</num>
+    <heading>Employee complaints.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any employee or representative of employees who in good faith believes that a violation of a safety or health standard, promulgated by rule under the authority of <cite path="|II|436">this chapter</cite>, exists that threatens physical harm to employees, or that an imminent danger to such employees exists, may request an inspection of the work place by giving written notice to the Director or his authorized representative of such violation or danger.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A copy of the notice shall be provided to the employer or his agent no later than at the time of inspection, except that, upon the request of the person giving such notice, his name and the names of individual employees referred to therein shall not appear in such copy or on any record published, released, or made available pursuant to any provision of <cite path="|II|436">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If upon receipt of such notification the Director determines that there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection as soon as practicable to determine if such violation or danger exists. If the Director determines there are no reasonable grounds to believe that a violation or danger exists, he shall notify the employer and the employee, in writing, of such determination. Prior to or during any inspection of a work place, any employee employed in such work place may notify the Director or any representative of the Director responsible for conducting the inspection, in writing, of any violation of <cite path="|II|436">this chapter</cite> which he has reason to believe exists in such work place.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to <cite path="|II|436">this chapter</cite>, or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by <cite path="|II|436">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-10</num>
+    <heading>Citations for violations.</heading>
+    <para>
+      <num>A.</num>
+      <text>If upon inspection or investigation the Director or an authorized representative believes that an employer has violated a requirement of <cite path="|II|436">this chapter</cite>, or any safety or health standard promulgated by rule adopted pursuant to <cite path="|II|436">this chapter</cite>, or the conditions of any order granting a variance pursuant to <cite path="|II|436">this chapter</cite>, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provisions of the ordinance, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix reasonable time for the abatement of the violation. The Director may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Each citation, or a copy or copies thereof, issued under the authority of this section shall be prominently posted at or near each place a violation referred to in the citation occurred or as may otherwise be prescribed in regulations issued by the Director. No citation may be issued under this section after the expiration of six months following a compliance inspection, investigation, or survey revealing any such violation.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If an employer has not abated a violation cited pursuant to <cite path="§436-10">§ 436-10</cite> or <cite path="§436-11">§ 436-11</cite> of <cite path="|II|436">this chapter</cite> in the time required by the citation, the Director shall forward the citation to the Tribal Prosecutor for prosecution in Tribal Court.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-11</num>
+    <heading>Citations for dangerous conditions.</heading>
+    <para>
+      <num>A.</num>
+      <text>If upon inspection or investigation, the Director, or an authorized representative, believes that an employer has violated a requirement of <cite path="|II|436">this chapter</cite>, or any safety or health standard promulgated by rule adopted pursuant to <cite path="|II|436">this chapter</cite>, or any conditions of an order granting a variance, which violation is such that a danger exists from which there is a substantial probability that death or serious physical harm could result to any employee, the Director or an authorized representative shall issue a citation and may issue an order immediately restraining any such condition, practice, method, process, or means in the work place. Any order issued under this section may require such steps to be taken as may be necessary to avoid, correct, or remove such danger and prohibit the employment or presence of any individual in locations or under conditions where such danger exists, except individuals whose presence is necessary to avoid, correct, or remove such danger or to maintain the capacity of a continuous process operation in order that the resumption of normal operations may be had without a complete cessation of operations, or where a cessation of operations is necessary, to permit such to be accomplished in a safe and orderly manner. In addition, if any machine or equipment, or any part thereof, is in violation of a requirement of <cite path="|II|436">this chapter</cite> or any safety or health standard promulgated by rules of the Department, and the operation of such machine or equipment gives rise to a substantial probability that death or serious physical harm could result to any employee, and an order of immediate restraint of the use of such machine or equipment has been issued under <cite path="§436-11|A.">this subsection</cite>, the use of such machine or equipment is prohibited, and a notice to that effect shall be attached thereto by the Director or an authorized representative.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Whenever the Director, or an authorized representative, concludes that a condition of employment described in <cite path="§436-11|A">Subsection A of this section</cite> exists in any work place, he shall promptly inform the affected employees and employers of the danger.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At any time that a citation or a citation and order restraining any condition of employment or practice described in <cite path="§436-11|A">Subsection A of this section</cite> is issued by the Director, or his authorized representative, he may in addition request the Tribal Prosecutor to make an application to the Tribal Court for a temporary restraining order or such other relief as appears to be appropriate under the circumstances.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-12</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any employer who fails to correct a violation for which a citation has been issued under <cite path="§436-10">§ 436-10</cite> or <cite path="§436-11">§ 436-11</cite> within the period permitted for its correction listed in said citation may be assessed a civil penalty of not more than $1,000 for each day during which such failure or violation continues.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person who gives advance notice of any inspection to be conducted under the authority of <cite path="|II|436">this chapter</cite>, without the consent of the Director or his authorized representative, may be assessed a civil penalty of not more than $1,000.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any person who knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained pursuant to <cite path="|II|436">this chapter</cite> may be assessed a civil penalty of not more than $1,000.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any person who willfully and knowingly violates the requirements of <cite path="|II|436">this chapter</cite>, any safety or health standard promulgated under <cite path="|II|436">this chapter</cite>, any existing rule or regulation governing the safety or health conditions of employment and adopted by the Director, or any order issued granting a variance under <cite path="|II|436">this chapter</cite>, and that violation caused death to any employee, may be assessed a civil penalty of not more than $5,000.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Any employer who has been issued an order immediately restraining a condition, practice, method, process, or means in the work place, pursuant to <cite path="§436-11">§ 436-11</cite>, and who nevertheless continues to use a machine or equipment or part thereof to which a notice prohibiting such use has been attached may be assessed a civil penalty of not more than $1,000 for each day during which such use continues.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any person who violates any provision of <cite path="|II|436">this chapter</cite> not specifically referenced elsewhere in this section may be assessed a civil penalty of not more than $500 for such violation.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Whenever the Director has reasonable cause to believe that any person has committed an act which subjects him or her to a penalty under this section, the Director shall cause a record of such alleged violation to be prepared, a copy of which shall be referred to the Tribal Prosecutor, and the Tribal Prosecutor shall, in writing, advise the Director of the disposition he shall make of the alleged violation.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>If the person committing the act subject to penalty under this section is an employee of an employer, the employer shall be jointly and severally liable with that person for all penalties imposed under <cite path="|II|436">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-13</num>
+    <heading>Injunctions.</heading>
+    <text>In addition to and after having invoked the powers of restraint vested in the Director as provided in <cite path="§436-11">§ 436-11</cite>, the Tribal Court shall have jurisdiction, upon petition of the Director through the Tribal Prosecutor, to enjoin any condition or practice in any work place from which there is a substantial probability that death or serious physical harm could result to any employee immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by <cite path="|II|436">this chapter</cite>. Any order issued under this section may require such steps to be taken as may be necessary to avoid, correct, or remove such danger and prohibit the employment or presence of any individual in locations or under conditions where such danger exists, except individuals whose presence is necessary to avoid, correct, or remove such danger or to maintain the capacity of a continuous process operation to resume normal operation without a complete cessation of operations, or where a cessation of operations is necessary, to permit such to be accomplished in a safe and orderly manner.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-14</num>
+    <heading>Confidentiality of trade secrets.</heading>
+    <text>All information reported to or otherwise obtained by the Director, or an authorized representative, in connection with any inspection or proceeding under the authority of <cite path="|II|436">this chapter</cite> which contains or which might reveal a trade secret shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out <cite path="|II|436">this chapter</cite>, or when relevant in any proceeding under <cite path="|II|436">this chapter</cite>. In any such proceeding, the Director or the Court shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-15</num>
+    <heading>Records and reports.</heading>
+    <para>
+      <num>A.</num>
+      <text>Each employer shall make, keep, preserve, and make available to the Director such records regarding his activities relating to <cite path="|II|436">this chapter</cite> as may be prescribed by regulation as necessary or appropriate for the enforcement of <cite path="|II|436">this chapter</cite> or for developing information regarding the causes and prevention of occupational accidents and illnesses. In order to carry out the provisions of this section, such regulations may include provisions requiring employers to conduct periodic inspections. Each employer shall keep his or her employees informed of their protection and obligations under <cite path="|II|436">this chapter</cite>, including the provisions of applicable safety and health standards, in accordance with prescribed regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employers shall maintain accurate records and make periodic reports of work-related deaths and of injuries and illnesses other than minor injuries requiring only first aid treatment and which do not involve medical treatment, loss of consciousness, restriction of work or motion, or transfer to another job, in accordance with prescribed regulations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employers shall maintain accurate records of employee exposures to potentially toxic materials or harmful physical agents which are required to be monitored or measured and shall provide employees or their representatives with an opportunity to observe such monitoring or measuring, and to have access to the records thereof, in accordance with prescribed regulations.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-16</num>
+    <heading>Severability.</heading>
+    <text>If any provision of <cite path="|II|436">this chapter</cite> or its application to any person or circumstance is held invalid, the remainder of the chapter, or the application of the provision to other persons or circumstances, is not affected.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§436-17">
+    <prefix>§</prefix>
+    <num>436-17</num>
+    <heading>Enforcement of other standards.</heading>
+    <text>In order to ensure the effectiveness of <cite path="|II|436">this chapter</cite>, if any employer is contacted by the United States Department of Labor regarding compliance with the federal Occupational Safety and Health Act,<fn path="|II|§436-17|footnotes|4">4</fn> that employer shall request that the Department of Labor address itself to the Chairperson of the Menominee Tribal Legislature, and employers shall promptly notify the Office of the Chairperson of the Menominee Tribal Legislature of any such contact.</text>
+    <footnotes>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: See 29 U.S.C. § 651 et seq.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>436-18</num>
+    <heading>Implementation; when effective.</heading>
+    <text>The Menominee Tribal Legislature shall appropriate a sufficient amount of funds to implement the purposes of <cite path="|II|436">this chapter</cite>. <cite path="|II|436">This chapter</cite> shall become effective upon final approval.</text>
+    <annotations/>
+  </section>
+</container>

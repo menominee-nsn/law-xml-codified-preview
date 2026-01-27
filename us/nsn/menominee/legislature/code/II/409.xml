@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|409">
+  <prefix>Chapter</prefix>
+  <num>409</num>
+  <heading>MARRIAGE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-3-2016 by Ord. No. 16-28. Amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>409-1</num>
+    <heading>Title.</heading>
+    <text>This code shall be known and may be cited as the "Menominee Indian Tribe of Wisconsin Marriage Code."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this code is to establish procedures for marriage within the Tribe's Reservation and the recognition of marriages performed outside of the Tribe's Reservation pursuant to <cite path="§409-16">§ 409-16</cite>, Recognition of marriages from other jurisdictions, under <cite path="|II|409">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-3</num>
+    <heading>Severability.</heading>
+    <text>If any provision of this code, or the application thereof to any person or circumstance, shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this Code, which shall continue in full force and effect.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-4</num>
+    <heading>Applicability.</heading>
+    <para>
+      <num>A.</num>
+      <text><cite path="|II|409">This chapter</cite> authorizes the Licensing and Permit Department to issue marriage licenses and for authorized persons, under <cite path="§409-12">§ 409-12</cite>, Solemnization of marriage contract, of this code, to perform marriages in which one or both parties to the marriage is a member of the Menominee Indian Tribe of Wisconsin or is a resident residing within the exterior boundaries of the Menominee Indian Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the State of Wisconsin as to any marriage performed on the Reservation in which one party is not a member of the Menominee Indian Tribe of Wisconsin or is not a resident of the Menominee community. Upon the acceptance of an executed application for a marriage license under <cite path="|II|409">this chapter</cite>, it shall be deemed to constitute the nonmember's consent to the Tribe's jurisdiction to grant such a license.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To the extent that any provisions of this section of the code, or the application thereof to any person or circumstance, shall for any reason conflict with the remainder of the Code, <cite path="|II|409">this chapter</cite> shall prevail. The other conflicting provisions will be invalidated, and this section of the code shall continue in full force and effect.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-5</num>
+    <heading>Definitions.</heading>
+    <text>The following terms, whenever used or referred to in this code, shall have the following respective meanings:</text>
+    <text>CLERK OF THE COURT or TRIBAL COURT CLERK — The Clerk of the Menominee Tribal Court. CODE or MARRIAGE CODE — This code of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>CONSTITUTION — The Constitution of the Tribe, as amended.</text>
+    <text>CUSTODIAN — A person who has legal custody of a child under tribal or state law or to whom temporary physical care, custody and control has been transferred by the parent of the child.</text>
+    <text>LEGISLATURE or TRIBAL LEGISLATURE — The elected governing body of the Menominee Indian Tribe of Wisconsin as established by the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>MARRIAGE — A civil contract between two persons, regardless of their sex, creating a union to the exclusion of all others.</text>
+    <text>MEMBER — A duly enrolled member of the Tribe.</text>
+    <text>SOLEMNIZE — To perform a marriage ceremony or to enter into a marriage publicly before witnesses pursuant to this code, as applicable.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-6</num>
+    <heading>Marriage contract.</heading>
+    <text>Marriage under this law is a civil contract to which the consent of the parties capable in law of contracting is essential, and which creates a union between two persons, regardless of their sex (or gender), to the exclusion of all others.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-7</num>
+    <heading>Who may contract; marriageable age.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any person who has attained the age of 18 years may marry if otherwise competent.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person between ages 16 and 18 may marry if the person's parent(s), legal guardian(s) or custodian(s) have filed a written affidavit and at least one of the person's parents, legal guardians or custodians appear in person at the time the application is made.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-8</num>
+    <heading>Invalid or prohibited marriages.</heading>
+    <para>
+      <num>A.</num>
+      <text>No marriage shall be contracted while either of the parties is lawfully married to another person.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Persons closer in relationship than second cousins may not marry, except that first cousins may marry if the female has attained the age of 55 years or where either party at the time of application for marriage license submits an affidavit signed by a physician stating that either party is permanently sterile.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A marriage may not be contracted if either party is not capable of understanding what it means to agree to become married.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No person who is or has been a party to an action for divorce in any court may marry again until six months after judgment of divorce is granted, and the marriage of any such person solemnized before the expiration of six months from the date of granting of judgment of divorce shall be void.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-9</num>
+    <heading>Identification of parties.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person making an application for marriage must present proof of age by presenting a certified copy of his or her birth certificate.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Each party to the marriage must present satisfactory documentary proof of identification and residence.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Each party to the marriage must present satisfactory copies of documents providing proof that he or she is free to marry, such as proof of death of previous spouses, or proof of divorce or annulment of previous marriages.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each party shall complete in full and sign the license application form provided by the Licensing and Permit Department which will include a statement warranting that each party meets the requirements to marry pursuant to the Menominee Indian Tribe of Wisconsin Marriage Code.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-10</num>
+    <heading>Marriage licenses.</heading>
+    <para>
+      <num>A.</num>
+      <text>A marriage license shall be issued by the Licensing and Permit Department upon receiving a completed application form from two unmarried persons, regardless of sex (or gender), and in the absence of any showing that the proposed marriage would be invalid under any provisions of this code. The marriage license shall become effective upon issuance and shall remain effective until the 30th day after issuance.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any person who applies for a marriage license under this code shall be deemed to have given consent to the personal jurisdiction of the Tribe, the Tribal Court, and the Tribal Supreme Court, and to have waived all available defenses against such jurisdiction, and shall acknowledge such statement on the application.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-11</num>
+    <heading>Fee.</heading>
+    <text>The fee for issuance of marriage licenses shall be set by the Licensing and Permit Department in accordance with applicable tribal law. This fee may be increased from time to time in accordance with applicable tribal law.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-12</num>
+    <heading>Solemnization of marriage contract.</heading>
+    <para>
+      <num>A.</num>
+      <text>Officiate at marriages. A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any ordained clergyman of any religious denomination or society;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An Indian traditional practitioner or spiritual leader who is recognized by the parties making the application;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any tribal judge or judge of court of record;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any family court commissioner or court commissioner appointed under Wisconsin law.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-13</num>
+    <heading>Grounds for annulment or voidable marriage.</heading>
+    <text>A marriage may be voided or annulled by the Tribal Court for any one of the following reasons upon the application of one of the parties to marriage:</text>
+    <para>
+      <num>A.</num>
+      <text>When either party to the marriage shall be incapable of consenting thereto.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>When the consent was obtained by force or fraud.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>When either party was at the time of the marriage incapable of consummating the marriage and the incapacity is continuing.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>When the marriage was invalid on one of the grounds set forth in <cite path="§409-8">§ 409-8</cite> of <cite path="|II|409">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-14</num>
+    <heading>Delivery and filing of marriage document.</heading>
+    <text>The marriage document, legibly and completely filled out in ink, shall be returned by the officiating person or by the parties to the marriage contract to the Licensing and Permit Department within 10 days after the date of marriage. The Licensing and Permit Department shall provide the document to the Menominee Tribal Clerk of Court so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-15</num>
+    <heading>Recognition of previous on-Reservation traditional marriages.</heading>
+    <text>All marriages performed on the Reservation prior to the effective date of this code that meet the requirements of <cite path="§409-7">§ 409-7</cite>, Who may contract; marriageable age, <cite path="§409-8">§ 409-8</cite>, Invalid or prohibited marriages,</text>
+    <text><cite path="§409-9">§ 409-9</cite>, Identification of parties, and <cite path="§409-12">§ 409-12</cite>, Solemnization of marriage contract, shall be valid upon completion of the requirements to obtain a marriage license under this code. Parties to such marriages may obtain a marriage license upon proof to the Licensing and Permit Department by affidavit or otherwise of their eligibility for such a license under this section and payment of a fee set by the Licensing and Permit Department in accordance with applicable tribal law. This fee may be increased from time to time in accordance with tribal law. The Licensing and Permit Department shall provide the document to the Menominee Tribal Clerk of Court so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-16</num>
+    <heading>Recognition of marriages from other jurisdictions.</heading>
+    <text>The Tribe recognizes and grants full faith and credit to any marriage license issued in conformance with the laws of any state, federal, tribal, or foreign jurisdiction that grants comity to marriage licenses and court orders of the Menominee Indian Tribe of Wisconsin.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>409-17</num>
+    <heading>When effective.</heading>
+    <text><cite path="|II|409">This chapter</cite> shall become effective upon final approval of the Menominee Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

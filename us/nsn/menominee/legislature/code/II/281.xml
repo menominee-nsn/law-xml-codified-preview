@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|281">
+  <prefix>Chapter</prefix>
+  <num>281</num>
+  <heading>CIGARETTES AND TOBACCO PRODUCTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-11-1979 by Ord. No. 79-4; amended in its entirety 11-19-2020 by Ord. No. 20-36. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section cache:ref-path="II|§281-1">
+    <prefix>§</prefix>
+    <num>281-1</num>
+    <heading>Adoption of state law; applicability; distribution of products.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribe hereby incorporates Wisconsin Statutes, 1983 Senate Bill 83, popular name "Indian Cigarette Tax Bill," a copy of which is attached hereto,<fn path="|II|§281-1|footnotes|1">1</fn> into Menominee law and authorizes appropriate tribal officials to act in accordance with the provisions thereof.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The adoption of the Indian Cigarette Tax Bill in <cite path="§281-1|A">Subsection A</cite> above is applicable only to the sale of cigarettes on the reservation which the Tribe purchases with the Wisconsin cigarette tax stamp affixed. Nothing in <cite path="|II|281">this chapter</cite> shall prohibit the Menominee Indian Tribe from engaging in the purchase and sale of unstamped cigarettes if such purchase or sale is authorized by the Menominee Tribal Legislature by motion, resolution or ordinance.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Menominee Tribe is hereby established as the exclusive distributor of cigarettes and tobacco products only destined for retail/resale on the Menominee Reservation. Cigarettes and tobacco product retail includes stores, markets, taverns, package liquor establishments, gas stations, bingo parlors, restaurants, pow wow stands, cigarette machines, or any other business venture engaged in the sale of cigarette and tobacco products; provided, however, that this section shall not permit sales to off-Reservation retailers.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: A copy of this bill is on file with the office of the Tribal Chairperson. See §§ 139.323 and <cite doc="Wis. Stat." path="§139.325">139.325, Wis. Stats.</cite></text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-2</num>
+    <heading>Definitions.</heading>
+    <text>As used in <cite path="|II|281">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CIGARETTE — Any roll of tobacco which is wrapped in paper or any substance other than tobacco.</text>
+    <text>COMMERCIAL DISTRIBUTOR — Any person who acquires unstamped cigarettes from the manufacturer thereof, affixes stamps to the packages or other containers, stores them and sells them to other permittees or to retailers for resale or who acquires stamped cigarettes from another permittee for such sales.</text>
+    <text>MOIST SNUFF — Any finely cut, ground, or powdered smokeless tobacco that is intended to be placed or dipped in mouth.<strong>[Added 10-6-2022 by Ord. No. 22-45]</strong></text>
+    <text>RETAILER — Any person who sells, or offers for sale, any cigarettes or tobacco products in a store, market, tavern, package liquor establishment, gas station, bingo parlor, restaurant, pow wow stand, cigarette machine, or any other business venture engaged in the sale of cigarettes and tobacco products on the Menominee Reservation.</text>
+    <text>TOBACCO PRODUCT — Cigars, cheroots, granulated, plug cuts, snuff, chewing tobacco, clippings and other forms of tobacco prepared in such a manner as to be suitable for chewing or smoking in a pipe or otherwise and includes tobacco that can be used for "roll your own" cigarettes, but does not include cigarettes. "Tobacco product" includes moist snuff, except for the purposes of <cite path="§281-5|B">§ 281-5B</cite>.</text>
+    <text>TRIBAL DISTRIBUTOR — The Menominee Indian Tribe of Wisconsin, who acquires cigarettes and tobacco products from a commercial distributor, stores them, and holds exclusive rights to sell those cigarettes and tobacco products to retailers for resale.</text>
+    <text>VAPOR PRODUCT — A noncombustible product that produces vapor or aerosol for inhalation from the application of a heating element to a liquid or other substance that is depleted as the product is used, regardless of whether the liquid or other substance contains nicotine.</text>
+    <annotations>
+      <annotation type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-3</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Implementation of <cite path="|II|281">this chapter</cite> shall be delegated to the office of Tax Commissioner.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tax Commissioner shall have the authority to limit the quantity of cigarettes and tobacco products ordered.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No retailer may possess cigarettes or tobacco products purchased from any commercial distributor or retailer other than the tribal distributor.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No retailer will possess any vapor products for retail sales.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-4</num>
+    <heading>Licensing.</heading>
+    <text>All cigarette and tobacco product retailers are required to be licensed by the Tribe under the following terms:</text>
+    <para>
+      <num>A.</num>
+      <text>Yearly license. Yearly licenses shall be granted to the following persons pursuant to the following conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adult enrolled Menominee Tribal members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Licenses shall be good for a period from July 1 through June 30 with no prorated fees.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of fee. Annual: $200 for retailers selling tobacco products only or cigarettes only; $400 for retailers selling both tobacco products and cigarettes (due upon the issuance of license).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No sales of tobacco products or cigarettes shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No. 22-45]</strong></text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No sales of any vapor products shall be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Temporary ten-day license. Temporary ten-day licenses shall be granted to the following persons pursuant to the following conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adult enrolled Menominee Tribal members having an approved temporary, removable, retail sales stand on the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The license shall be issued for a period not to exceed 10 days.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of fee: $5 per day for retailers selling tobacco products only or cigarettes only; $10 per day for retailers selling both tobacco products and cigarettes (due upon issuance of the license).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Temporary licenses may be reissued not more than three times per year on a nonconsecutive basis.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No sales shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No.</strong></text>
+        <text>22-45]</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>No sales of any vapor products shall be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Seasonal license. Seasonal licenses shall be granted to the following persons pursuant to the following conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adult enrolled Menominee Tribal members having a seasonal use permit approved by the Menominee Tribal Legislature and having an approved temporary, removable, retail sales stand on the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The license shall be issued from May 1 through September 30.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of fee: $100 for retailers selling tobacco products only or cigarettes only; $200 for retailers selling both tobacco products and cigarettes (due upon the issuance of the license).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No sales shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No. 22-45]</strong></text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No sales of any vapor products shall be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Conditions of license.</text>
+      <para>
+        <num>(1)</num>
+        <text>As a condition of a license being granted, retailers agree that cigarettes and tobacco products may be randomly inspected for an affixed Wisconsin tribal stamp or retailers may be randomly inspected for possession of vapor products for retail sale.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a retailer refuses an inspection of the cigarette and tobacco product for the affixed Wisconsin tribal stamp or possession of vapor products, the retailer's license shall be revoked.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-5</num>
+    <heading>Tribal tax.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Tribe levies a tribal tax of $0.06875 on each cigarette distributed for sale which shall be collected by the Tribe in advance of distribution to retailers.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee Tribe levies a tribal tax of 56% on all tobacco products distributed for sale which shall be collected by the Tribe in advance of the distribution to retailers.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Menominee Tribe levies a tribal tax of 75% on all moist snuff distributed for sale, which shall be collected by the Tribe in advance of the distribution to retailers.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>All retailers that have entered into a written agreement with the Menominee Indian Tribe of Wisconsin, approved by the Menominee Tribal Legislature, regarding the distribution of retailer's net revenues to the Menominee Indian Tribe of Wisconsin are exempt from the taxes imposed in <cite path="II|§281-5">Subsections A and B of this section</cite>.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-6</num>
+    <heading>Payments.</heading>
+    <para>
+      <num>A.</num>
+      <text>Payment for cigarettes and tobacco products shall be made in full within three tribal business days after delivery. Payment for cigarettes and tobacco products by temporary or seasonal license holders shall be immediate upon delivery of cigarettes and tobacco products.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If payment for cigarettes and tobacco products is not made in full within three tribal business days after delivery, any future delivery of cigarettes or tobacco products shall be suspended until payment and any assessed penalties are made in full.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If delivery of cigarettes and tobacco products is suspended due to nonpayment, the Tax Commissioner shall request and receive that any remaining unsold product be returned.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>281-7</num>
+    <heading>Violations and penalties.</heading>
+    <text>Violation of <cite path="|II|281">this chapter</cite> shall result in the following penalties:</text>
+    <para>
+      <num>A.</num>
+      <text>If a retailer is found to have purchased cigarettes or tobacco products from a vendor other than the Tribe:</text>
+      <para>
+        <num>(1)</num>
+        <text>First offense: penalty of $500.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second offense: penalty of $1,000 and a three-month suspension of license.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Third offense: penalty of $1,000 and suspension of license for a period of one year.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a retailer is found to be selling cigarettes or tobacco products without a tribal license:</text>
+      <para>
+        <num>(1)</num>
+        <text>First offense: penalty of $500.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second offense: penalty of $1,000 and a three-month suspension of license.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Third offense: penalty of $1,000 and suspension of license for a period of one year.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If payment is not received within three tribal business days after delivery of cigarettes or tobacco products:</text>
+      <para>
+        <num>(1)</num>
+        <text>First offense: $50 per day of nonpayment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second offense: $100 per day of nonpayment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Third offense: $100 per day of nonpayment and suspension of license for a period of one year.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If a retailer is found to be in possession of vapor products for retail sales or selling vapor products:</text>
+      <para>
+        <num>(1)</num>
+        <text>First offense: $1,000 fine and a three month suspension of license.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second offense: $1,000 fine and a one year suspension of license.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Third offense: $1,000 fine and a three year suspension of license.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+</container>

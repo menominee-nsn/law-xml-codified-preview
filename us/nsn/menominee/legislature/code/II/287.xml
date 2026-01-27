@@ -1,0 +1,880 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|287">
+  <prefix>Chapter</prefix>
+  <num>287</num>
+  <heading>CONSERVATION CODE</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-1999 by Ord. No. 99-01; amended in its entirety 10-1-2020 by Ord. No. 20-25. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>287-1</num>
+    <heading>Intent.</heading>
+    <text>The amendments requiring Legislative approval or denial of the Conservation Commission's final actions supersede any provision in <cite path="|II|287">this chapter</cite> which gave the Conservation Commission final decision making power or authority.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-2</num>
+    <heading>Title.</heading>
+    <text><cite path="|II|287">This chapter</cite> shall be entitled the "Conservation Code."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-3</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="|II|287">this chapter</cite> is to:</text>
+    <para>
+      <num>A.</num>
+      <text>Establish a Conservation Commission to create rules regarding hunting, fishing, trapping and gathering;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Establish penalties for the violation of such regulations as may be adopted by the Conservation Commission from time to time or of any section herein adopted; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Repeal all laws regarding hunting, fishing, trapping and gathering on the Menominee Indian Reservation.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-4</num>
+    <heading>Jurisdiction.</heading>
+    <text><cite path="|II|287">This chapter</cite> shall apply to all lands within the exterior boundaries of the Menominee Indian Reservation, plus Naneweyah Ominihekan (Middle Village), and any lands acquired by the Tribe and placed into trust for the use and benefit of the Tribe. The Court shall have jurisdiction over proceedings instituted pursuant to <cite path="|II|287">this chapter</cite>. <cite path="|II|287">This chapter</cite> shall be binding upon all individuals who reside on, travel through, or come upon the Menominee Indian Reservation and any lands held in trust for the Tribe or later acquired and placed in trust for its benefit. Any person who enters the Menominee Indian Reservation shall be deemed to have given consent to the jurisdiction of the Tribe for the purposes of enforcing <cite path="|II|287">this chapter</cite>.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§287-5">
+    <prefix>§</prefix>
+    <num>287-5</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of <cite path="|II|287">this chapter</cite> and the hunting and trapping, fishing, and gathering regulation booklets, or rules promulgated by the Conservation Commission pursuant to <cite path="§287-7">§ 287-7</cite> of <cite path="|II|287">this chapter</cite>, the following words and terms shall have the following meanings:</text>
+    <text>ANTLERLESS DEER — Any deer without antlers or with both antlers less than three inches in length.</text>
+    <text>APPROVAL — Any type of approval or authorization issued by the Department or issuing agent for any license, permit, certificate, card, stamp or tag unless the context requires a different meaning.</text>
+    <text>ARROW — A shaft of at least 24 inches long containing three trimmed or five untrimmed feathers, tipped with a point or device used to strike, penetrate, or pierce.</text>
+    <text>AUTHORIZED ENFORCEMENT PERSONNEL — Menominee tribal police, Menominee conservation wardens and federal enforcement agents acting in their official capacity.</text>
+    <text>BAG LIMIT — The maximum limit, in number amount, of a particular species of fish and/or wildlife which may lawfully be taken during one day or during the season, depending on the species.</text>
+    <text>BAIT — Honey and any solid or nonliquid material attractive to game.</text>
+    <text>BAIT STATION — For the purpose of bear hunting, means to supply food or other attractions to lure bears to a specific area.</text>
+    <text>BIG GAME — Includes deer, bear, elk, moose and buffalo.</text>
+    <text>BIG GAME FISH — Includes large-mouth and small-mouth bass, walleye, trout, northern pike, salmon, rock or lake sturgeon, and muskellunge.</text>
+    <text>BOW — Any hunting instrument designed for the purpose of propelling arrows which is drawn and held by and through efforts of the person releasing, but does not include a crossbow.</text>
+    <text>BUCK DEER — Any deer with an antler not less than three inches in length. CARCASS — The dead body of fish or wildlife or parts thereof.</text>
+    <text>CLOSED SEASON — The time and or days during which fish or wildlife may not be taken legally.</text>
+    <text>COMMERCIAL USE — The engaging in buying, selling, bartering, or exchange, for goods, services, or money, the natural resources of the Tribe which results from hunting, fishing, trapping or gathering.</text>
+    <text>COMMISSION — The Conservation Commission, a seven-member regulatory body organized and empowered herein to issue such rules as are necessary for the preservation and protection of the natural resources of the Tribe.</text>
+    <text>COMMISSIONER — One of the members of the Commission.</text>
+    <text>CROSSBOW — Any device using a bow which, once drawn, is held solely by the means other than the effort of the person holding it.</text>
+    <text>DEPARTMENT — The Licensing and Permits Department.</text>
+    <text>DOG — A dog specifically bred to hunt, scent, point, flush, or retrieve game animals.</text>
+    <text>ENDANGERED SPECIES — Any species whose continued existence as a viable component of the Tribe's wild animals or wild plants is determined by the Commission to be in jeopardy on the basis of scientific evidence.</text>
+    <text>EXPLOSIVE DEVICE — A device that bursts with sudden violence from internal energy.</text>
+    <text>FIREARM — Any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver or any such weapon, including antique firearms; any firearm muffler or firearm silencer; or any destructive device.</text>
+    <text>FISH — Includes game fish, rough fish and minnows.</text>
+    <text>FISHING — Includes taking, capturing, killing, or fishing for fish of any variety in any manner. When the word "fish" is used as a verb, it shall have the same meaning as the word "fishing" as defined herein.</text>
+    <text>FISHING SINKER — A fishing sinker is a weight used in conjunction with a fishing lure or hook to increase its rate of sink, anchoring ability, and/or casting distance.</text>
+    <text>FLASHLIGHT — A battery-operated light designed to be carried and held by hand.</text>
+    <text>FUR-BEARING ANIMALS — Beaver, mink, muskrat, other, skunk, raccoon, fox, weasel, opossum, badger, coyote, bobcat, lynx, cougar, and fisher.</text>
+    <text>GAME — Includes all varieties of wild mammals or birds.</text>
+    <text>GAME ANIMALS — Includes deer, moose, elk, bear, rabbits, squirrels, fox and raccoon.</text>
+    <text>GAME BIRDS — Includes the following aquatic birds: wild geese, brant, wild ducks, wild swan, rails, coots, gallinules, jacksnipe, woodcock, plovers and sandpipers; the following upland birds: ruffed grouse (partridge), pinnated grouse (prairie chicken), sharp-tailed grouse, pheasants, Hungarian partridge, Chukar partridge, bobwhite, quail, California quail and wild turkey.</text>
+    <text>GAME FISH — Includes all varieties of fish except rough fish and minnows.</text>
+    <text>GATHERING — To take or acquire or attempt to take or acquire possession of any wild plants or part thereof.</text>
+    <text>GILL NET — Any net set to capture fish by entanglement rather than entrapment.</text>
+    <text>HARASS — To shoot at, disturb, worry, molest, rally, concentrate, harry, chase, drive, herd, or torment.</text>
+    <text>HUNTING — Includes shooting, shooting at, pursuing, taking, catching, or killing any wild animal in any manner.</text>
+    <text>HUNTING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with hunting, and shall include any firearm of any type.</text>
+    <text>ICE FISHING — Taking, capturing or killing fish or fishing for any variety of fish at any time through a hole in the ice.</text>
+    <text>INCENDIARY DEVICE — Any device designed or specially adapted to cause physical harm to persons or property by means of fire, and consisting of an incendiary substance or agency and a means to ignite it.</text>
+    <text>LEGISLATURE or MENOMINEE TRIBAL LEGISLATURE — The governing body which is established under, and the members of which are elected pursuant to, Article IV of the Constitution and Bylaws of the Tribe.</text>
+    <text>LICENSE — An identification card and license that is issued by the Menominee Tribal License and Permits Department for the purpose of allowing an individual to legally hunt, fish, gather, and trap on the reservation.</text>
+    <text>LICENSEE — Any person who is eligible for and obtains a license specified in <cite path="|II|287">this chapter</cite>. LIGHT — Includes flashlights, automobile lights and other lights.</text>
+    <text>MIGRATORY GAME BIRDS — Any bird which is migratory and on which an open season has been prescribed by the Commission and belongs to one of the following families:</text>
+    <para>
+      <num>A.</num>
+      <text>Anatidae (wild ducks, geese and brant).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rallidae (rails, coots and gallinules).</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Scolopacidae [woodcock and Wilson's snipe (jacksnipe)].</text>
+      <text>MINNOWS — Includes suckers, mud minnows, madtom, stonecat, killifish, stickleback, trout-perch, darters, sculpin and all minnow family cyprinids except goldfish and carp.</text>
+      <text>MOLEST — Any activity which results in physical damage or destruction of an object and/or animal.<fn path="|II|§287-5|footnotes|1">1</fn></text>
+      <text>NON-LEAD AMMUNITION — Any centerfire, shotgun, muzzleloading, or rimfire ammunition containing projectiles not classified by the federal government as toxic or harmful to wildlife or the environment.</text>
+      <text>PERSON — A natural person, corporation, limited-liability company, cooperative, private or public utility, estate or trust, the United States, a federal agency, the Tribe, or a tribal department or program.</text>
+      <text>PLANT — The undomesticated species, and fruit or part thereof, of the plant kingdom occurring in the natural ecosystem.</text>
+      <text>POSSESSION LIMIT — The amount of fish, wildlife, and plant that may be legally possessed at any one time.</text>
+      <text>PROJECTILE — Any bullet, ball, sabot, slug, buckshot, shot, pellet or other device that is expelled from a firearm through a barrel by force.</text>
+      <text>QUALIFIED DESCENDANT — An individual biologically descended from an enrolled Tribal member possessing at least 1/8° Menominee Blood and who appears on the Menominee Indian Tribe's descendent register per <cite path="|I|46">Chapter 46</cite>.</text>
+      <text>RECREATION — Includes, but not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</text>
+      <text>RESERVATION — The Menominee Indian Reservation; the entire area within the exterior boundaries established by the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, plus the Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</text>
+      <text>ROUGH FISH — Includes dace, suckers, carp, goldfish, redhorse, freshwater drum, burbot, bowfin, garfish, buffalo fish, lamprey, alewife, gizzard shad, smelt, goldeye, mooneye, carpsucker, quill back, and chub.</text>
+      <text>RULE — Any duly enacted rule of the Commission.</text>
+      <text>SECOND SEASON — For the purpose of bear hunting, means a bear that is in its second season after birth.</text>
+      <text>SHINING — The casting of rays of a light on a field, forest or other area for the purpose of illuminating, locating or attempting to illuminate or locate wild animals.</text>
+      <text>SMALL GAME — Includes rabbits, squirrels, fox and raccoon.</text>
+      <text>SMALL GAME FISH — Includes white bass, rock bass, bluegill, crappie, pumpkinseed, yellow perch, bullheads, yellow bass, catfish, cisco and whitefish and spoonbill catfish.</text>
+      <text>SNARE — A steel cable device in the form of a noose with a stop, lock and swivel which is set to capture an animal by the body, neck or foot.</text>
+      <text>SPEAR FISHING — Taking or attempting to take a fish by means of a hand-held spear or other similar device which is directed by the spearer to impale the target fish. Spearing may include the use of an artificial light.</text>
+      <text>SPOUSE — Any male or female lawfully married to a Menominee tribal member. Upon death of tribal member spouses, spousal privileges of non-tribal member spouses shall cease.</text>
+      <text>STOCKING — The intentional release of a fish into the waters of the Menominee Indian Reservation which was not caught in the waters in which it was released.</text>
+      <text>STURGEON CEREMONY — An officially recognized and organized spring ceremony celebrating the</text>
+      <text>return of sturgeon to the Reservation, which has been historically celebrated by Menominee tribal members. This ceremony may be conducted annually. The date and manner of the ceremony shall be determined only by a majority vote of the Menominee Tribal Legislature prior to each proposed ceremony. The number of sturgeon recommended for harvest shall be determined by the Menominee Tribal Conservation Committee. No ceremony shall be conducted without final approval of the Menominee Tribal Legislature.</text>
+      <text>TAG — An identification tag that is issued to a hunter, fisherman, or trapper by the Menominee Conservation Department, which is authorized for use on killed deer, bear, turkey, sturgeon, bobcat, fisher, or otter. When used as a verb, "tag" means the act of attaching a tag to a deer, bear, turkey, sturgeon, bobcat, fisher, or otter.</text>
+      <text>THREATENED SPECIES — Any species of wild animals or wild plants which appears likely, within the foreseeable future, on the basis of scientific evidence, to become endangered.</text>
+      <text>TRACER SHELL — Any bullet or projectile that is built with a pyrotechnic charge in its base used to make the path of the projectile visible to the naked eye.</text>
+      <text>TRAPPING — Includes the taking of, or attempting to take, any wild animals by means of setting or operating any device, mechanism or contraption that is designed, built or made to close upon, hold fast, or otherwise capture a wild animal or animals. When the word "trap" is used as a verb, it shall have the same meaning as the word "trapping" as defined herein.</text>
+      <text>TRAPPING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with trapping.</text>
+      <text>TRIBAL MEMBER — When used with respect to the Tribe, means an individual enrolled in the Tribe.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93- 197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|II|§287-5|footnotes|2">2</fn></text>
+      <text>TROUT WATERS — Any waters capable of sustaining significant populations of naturally producing trout.</text>
+      <text>WATERFOWL — Any migratory game bird of the family Anatidae, including wild ducks, geese and brant.</text>
+      <text>WILD ANIMAL — Any mammal, fish, wild bird, amphibian, reptile, mollusk, crustacean, or arthropod, or any part, products, egg or offspring thereof, or the dead body or parts thereof.</text>
+      <text>WILD PLANT — Any undomesticated species of the plant kingdom occurring in a natural ecosystem.</text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: The definition of "non-lead ammunition," which immediately followed this definition, was repealed 4-21-2022 by Ord. No. 22-04.</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: P.L. 93-197, § 2, Dec. 22, 1973, 87 Stat. 770, providing definitions, was omitted pursuant to editorial reclassification of provisions of Title 25, Chapters 14 and 19, United States Code.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-6</num>
+    <heading>Composition of Conservation Commission.</heading>
+    <para>
+      <num>A.</num>
+      <text>Establishment and purpose of Commission. The Menominee Conservation Commission is hereby established for the purpose of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Issuing such rules as are necessary for the purpose of conserving the fish, game, and plant supply and ensuring the members of the Tribe continued opportunities for good fishing, hunting, trapping, and gathering;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Making recommendations to the Legislature for the creation and/or revision to the laws of the Tribe concerning conservation; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Such other purposes as may be authorized by a subsequent act of the Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Number and terms of appointment. The Commission shall consist of seven members appointed by the Legislature. The Commission shall choose among themselves, by lot, the length of each member's first term after passage of <cite path="|II|287">this chapter</cite>. The first term of two members shall be for one year. The first term of two other members shall be for two years. The first term of the remaining members shall be for three years. This shall accomplish the staggering of terms, and all further terms shall be of three years in length.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Qualifications of Commissioners. To be considered eligible for appointment to the Commission, applicants must meet the following requirements:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be a tribal member at least 18 years of age at the time of appointment; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Complete and submit an application that is developed jointly by the Conservation Commission and Enforcement and Resource Protection Committee for the Menominee Tribal Legislature to use in selecting Commissioners.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Compensation for Commissioners. Commissioners shall be compensated at a rate of $100 per meeting, plus mileage. Commissioners shall be reimbursed for actual expenses incurred on Commission business, including necessary travel expenses.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Selection of Chairperson. The Commission shall select annually from its membership a chairperson. The Chairperson with the consensus of the Commission shall call, convene and preside at all regular and special meetings of the Commission. The Chairperson, with the consensus of the Commission, shall deliver reports or cause such reports to be delivered to the Legislature, and perform any other duties as may be prescribed by <cite path="|II|287">this chapter</cite> or Commission bylaws.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Other officers of the Commission. The Commission may elect among themselves such other officers to perform such functions as may be deemed necessary from time to time.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Quorum. For the purpose of transacting official Commission business, a quorum shall consist of four members of the Commission. In the event of Commissioner vacancies, a majority of Commission members shall constitute a quorum. If less than such quorum is present, a majority of the Commissioners present may adjourn the meeting from time to time without further notice.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Regular meetings of the Commission. The Commission shall meet not less than four times each year to make recommendations to the Legislature, set policy and transact other business that may be properly brought before it. Said meetings shall be held at specified times pursuant to resolution by the Commission.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Annual meeting. The Commission shall hold an annual meeting on the second Monday in April of every year for the purposes of discussing problems and issues concerning the Tribe's plant and animal life, to hear the concerns and recommendations of tribal members and to present any proposed rule changes.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Emergency meetings. The MCC Chairperson, upon receiving prior approval of the Chairperson of the Tribe, may call for the holding of a special meeting of the Commission upon less than 72 hours' written notice if such meeting is necessary for the immediate preservation and protection of the natural resources of the Tribe. Every effort shall be made to give maximum practical notice to each Commissioner. Maximum practical notice of such meeting shall be given to tribal members, and such notice shall be posted as provided in <cite path="|I|177">Chapter 177</cite>, Posting Procedures, promptly after such meeting is called. No business other than that which is stated in the notice shall be transacted.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Meetings open to tribal members. Meetings of the Commission shall be open to tribal members only and shall be governed by such rules of order as the Commission may adopt. However, non-tribal members may be invited to attend a meeting when deemed appropriate.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Removal of Commissioners. A Commissioner may be removed for the purpose of changing the number of Commissioners pursuant to amendment of <cite path="|II|287">this chapter</cite> by the Legislature. A Commissioner may also be removed from and by the Menominee Tribal Legislature prior to the end of his or her term, following a public hearing, for a violation of one or more of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Violation(s) or conviction of any federal, state or tribal criminal laws, or of any conservation laws during his or her term on the Commission, as specified in the Conservation Commission Bylaws.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For conduct that the Menominee Tribal Legislature deems to be unethical, unprofessional or otherwise inappropriate.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Missing two or more consecutive meetings of the Commission without obtaining the prior approval of the Chairperson of the Commission.</text>
+        <para>
+          <num>(a)</num>
+          <text>Said approval may be granted by the Chairperson of the Commission for the following reasons:</text>
+          <para>
+            <num>[1]</num>
+            <text>The medical condition of said Commissioner, or his or her immediate family member, warrants his or her absence;</text>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Death in said Commissioner's immediate family; and</text>
+          </para>
+          <para>
+            <num>[3]</num>
+            <text>Upon reasonable grounds for absence from the Commission's meeting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Chairperson of the Commission does not grant approval of a Commissioner's absence from a meeting based on the above criteria, the decision of the Commission Chairperson must be sent to the full Conservation Commission for concurrence.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Vacancies. The Legislature may appoint a new Commissioner to fill a vacancy on the Commission within 60 days of notice by the Commission that a vacancy exists. Said appointment shall be for the remaining term of the vacant position. In the event such vacancy or vacancies create difficulty in achieving a quorum to take up necessary business, a majority of Commissioners, even if less than a quorum, may fill such a vacancy by appointing a temporary Commissioner, subject to the same requirements as a Commissioner, to serve as Acting Commissioner until the vacancy is filled by the Legislature.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Conflicts of interest prohibited. In carrying out the duties of the Commission, no Commissioner shall make or participate in making decisions which involve balancing a substantial personal financial interest, other than interests held in common by all tribal members.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Establishment of bylaws. The Commission may adopt such bylaws as it deems appropriate.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 3-21-2024 by Ord. No. 24-10</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-7</num>
+    <heading>Powers and duties of Commission.</heading>
+    <para>
+      <num>A.</num>
+      <text>General powers. The Commission shall be authorized to issue rules to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish and maintain open and closed seasons for the several species of fish, game, and plants and any bag limits, size limits, rest days and conditions governing the taking of fish, game and plants;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To establish an endangered and threatened species list;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To adjust license fees; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Make recommendations to the Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Special consideration. When adopting, amending or repealing a rule, the Commission shall take into consideration the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>What effect such action will have on the population of various species of fish and game directly or indirectly affected thereby;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>What effect such action will have on all tribal members; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether the best scientific data available will support the proposed action.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No final action shall be taken by the Conservation Commission on any rules, regulations, seasons, or any other type of regulation without submitting each proposed action for approval or denial by the Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Form of Commission rules. All Commission rules shall be made, in writing, in whatever form and fashion as the Commission shall determine which, as finally enacted, shall be authenticated by the signature of the Chairperson of the Commission or other person authorized by the Commission. A true copy of every such authenticated rule shall be numbered and recorded in the official records of the Commission. Attached to each rule, and made a part thereof, shall be a certification by the Chairperson of the Commission, or other person authorized by the Commission, that the same has been posted in accordance with <cite path="|II|287">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Prior notice of actions. In adopting, amending, and repealing rules, the Commission shall give prior notice of the proposed action by appropriate posting throughout the reservation. Said notice shall inform such persons as to the general nature of the proposed action and advise them as to the manner in which comments on said proposed action shall be received by the Commission. In the event of an emergency, the Commission may summarily adopt, amend or repeal any rule if at the time the Commission determines such action is necessary for the immediate preservation and protection of the natural resources of the Tribe, together with a statement of facts constituting the emergency; provided, however, that the Commission shall schedule such emergency action for a regular hearing within 60 days after any such emergency meeting.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Legal effect of Commission rules. All rules of the Commission in conformity with law are prima facie reasonable and lawful. However, nothing in this section shall be construed to confer upon the Commission the power to alter any provisions of <cite path="|II|287">this chapter</cite> unless otherwise indicated.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Conservation Commission shall submit reports of its meetings on a timely basis to the Tribal Legislature or its designee.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Technical staff. The Legislature shall make available the services of the tribal attorney, or such other attorney as the Legislature may from time to time retain, for the purpose of advising and representing the Commission. The Legislature shall also make available the professional and technical services of any department or program of the Tribe for the purpose of assisting the Commission in its lawful duties.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-8</num>
+    <heading>Licensing.</heading>
+    <para>
+      <num>A.</num>
+      <text>License and identification required. With the exception of tribal members, no person may hunt, fish, or gather food from plants without having in his or her possession a valid license and identification card. Although tribal members are not required to carry identification on their person while hunting, fishing, trapping and gathering, possession of identification is strongly encouraged. Non-tribal members do not have the right to trap, or gather plants for nonfood purposes, within the Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Person entitled to apply for license. Qualified descendants and spouses are entitled to apply for a license to hunt, fish and/or gather food from plants on the Reservation, subject to the provisions contained in <cite path="|II|287">this chapter</cite> and any rule promulgated by the Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Conditions and restrictions on licenses. A hunting, gathering or fishing license may be issued only to qualified descendants and spouses. A hunting, gathering or fishing license may be issued only to a person who presents to the Department or issuing agent definite proof of his or her identity and that he or she is entitled to said license. No more than one of the same series of license may be issued to the same person in any year. No person may transfer his or her license or permit the use of any license by any other person, and no person while hunting, gathering or fishing may use or carry any license issued to another person. No hunting, gathering or fishing license shall be issued to a person who is not entitled to said license pursuant to <cite path="§287-8|I">§ 287-8I</cite> of <cite path="|II|287">this chapter</cite>. A person may designate a family member to pick his/her license up for them by filing their designation with the Licensing and Permit office.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Application for license. The application for a license shall be on the form and contain the information required by the Department, and no license shall be issued until the applicant complies with these requirements. The application form shall contain a statement which informs the applicant that providing incorrect information on the application in an attempt to falsely obtain a license may subject the applicant to severe civil and/or criminal penalties. A license under <cite path="|II|287">this chapter</cite> shall only confer the privileges for which it is issued.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Form of license. Any license issued pursuant to this section shall bear the name, address, date of birth, color of hair and eyes, height, weight, expiration date of the licensee and may contain a unique identifying number issued by the Department. Additionally, each license shall specify whether the license holder is authorized to hunt, fish, trap, gather, or any combination thereof.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Form of identification. All forms of identification issued by the Department bearing the tribal members or license holder's name, enrollment number, and picture shall be adequate for the purpose of identifying said tribal member or license holder.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Fee for license and identification. The Commission may establish, by rule, a fee for all identification and licenses issued by the Department which are designed for the purposes specified in this section. All license fees shall be established by the Commission and approved by motion of the Menominee Tribal Legislature.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Licensing department. The Licensing and Permits Department shall be responsible for issuing the license and identification specified herein and for collecting any such licensing or identification fee established by the Commission.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Restrictions. No person shall be eligible to receive a license who has voluntarily relinquished his or her enrollment with the Tribe (whether or not he/she is a spouse of a Menominee Tribal member), as determined by the Enrollment Department, or whose privileges under <cite path="|II|287">this chapter</cite> are suspended or revoked at the time of application. No license shall be issued to a person suspended or revoked by other jurisdictions.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="II|§287-9">
+    <prefix>§</prefix>
+    <num>287-9</num>
+    <heading>Violations and penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Killing of a federal or tribally listed threatened or endangered species. Any person who hunts, fishes, traps, or gathers the following endangered or threatened species and/or causes the death of said endangered or threatened species with intent to kill said endangered or threatened species is guilty of a misdemeanor as provided for herein:</text>
+      <para>
+        <num>(1)</num>
+        <text>Bald eagle: a penalty of a Class A misdemeanor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Birds of prey, with the exception of the bald eagle: a penalty of a Class B misdemeanor.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any plant or animal life listed as endangered or threatened: a penalty of a Class C misdemeanor.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any equipment, including motor vehicles, boat and motor with trailer, used in the commission of the crimes in <cite path="§287-9|A.|(4)">this subsection</cite> shall be subject to immediate seizure and forfeiture as an additional penalty upon sentencing except as provided in <cite path="§287-15">§ 287-15</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Commercialization of game or fish. Any person who sells, buys, barters or trades, or offers to sell, buy barter or trade or have in possession or under control for the purpose of sale, barter or trade, any fish or game, excluding hides and skeletal remains, shall be subject to a Class C forfeiture. However, nothing in <cite path="§287-9|B.">this subsection</cite> shall prevent an individual from giving or donating the meat or fish or game to any individual or nonprofit organization, so long as it is a gift and done without exchange of money or other remuneration.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any person who uses explosives to harvest or kill, or attempt to harvest or kill, any game or fish is guilty of a Class C misdemeanor.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Noxious substances. Any person who uses baits containing poisons of any description where it might destroy or cause the destruction of game, and possesses any such poison or poison baits while hunting, fishing or trapping, shall be guilty of a Class C misdemeanor.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Shining deer or bear. Any person who uses or possesses with intent to use a light for shining deer or bear while the person is hunting deer or bear or in possession of a firearm, bow and arrow or crossbow is guilty of a Class C forfeiture. <cite path="§287-9|E.">This subsection</cite> shall not apply to authorized enforcement personnel or tribal members to whom the privilege of shining may be granted by rule of the Commission.</text>
+      <para>
+        <num>(1)</num>
+        <text>Any equipment, including motor vehicles used during the act of shining would be subject to immediate seizure and forfeiture as and additional penalty upon sentencing except as provided in <cite path="§287-15">§ 287-15</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>(Reserved)<fn path="|II|§287-9|footnotes|3">3</fn></text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Violation of Commission rules. Any person who violates the following rules of the Commission shall be subject to the fine or penalty expressed therein:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any open and closed season established for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Big game: a Class C forfeiture.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Small game: a Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Fur-bearing animals: a Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Game birds: a Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Big game fish: a Class D forfeiture.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Small game fish: a Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Plants: range from Class A to Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Ginseng: range from Class A to Class E forfeiture.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any bag limits established for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Big game: a Class C forfeiture.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Small game: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fur-bearing animals: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Game birds: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Big game fish: a Class D forfeiture.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Small game fish: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Plants: range from Class A to Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Ginseng: range from Class A to Class E forfeiture.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Conditions governing:</text>
+        <para>
+          <num>(a)</num>
+          <text>Big game: a Class C forfeiture.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Small game: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fur-bearing animals: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Game birds: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Big game fish: a Class D forfeiture.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Small game fish: a Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Plants: range from Class A to Class E forfeiture.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Ginseng: range from Class A to Class E forfeiture.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Hunting, trapping, fishing or gathering without a license. Any person who hunts, fishes, traps or gathers without a valid license or identification shall be subject to a Class C forfeiture.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Altering a license. Any person who changes or alters, in any manner, or enters other than the correct date of issuance on any approval shall be subject to a Class C forfeiture.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Larceny of game. Any person who, without permission of the owner, molests, disturbs or appropriates any wild animal or its carcass that has been lawfully taken by another shall be subject to a Class B forfeiture plus ordered to pay restitution to the owner.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Wanton destruction of fish, game or wild plants. Any person who engages in the wanton destruction of fish, game or wild plants shall be subject to a Class B forfeiture.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Incendiary shells. Any person who possesses or has in control, while hunting, any shell, cartridge or ammunition known as "tracer shells," or incendiary shells or cartridges, shall be guilty of a Class D misdemeanor.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Hunting bear accompanied by cubs. Any person who hunts a bear accompanied by a cub or cubs shall be subject to a Class C forfeiture.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>Hunting using a fully automatic firearm. Any person who possesses or has in control, while hunting, a fully automatic firearm shall be guilty of a Class C misdemeanor.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>Incorrect information on application. Any person who provides incorrect information and thereby obtains a license issued under <cite path="|II|287">this chapter</cite> to which the person is not entitled shall be guilty of a Class D misdemeanor.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>Parties to a violation. Whoever is concerned in the commission of a violation of <cite path="|II|287">this chapter</cite> or of any Commission rule adopted under <cite path="|II|287">this chapter</cite> is a principal and may be charged with and convicted of the violation although he or she did not directly commit it and although the person who directly committed it has not been convicted of the violation. A person is concerned in the commission of the violation if the person:</text>
+      <para>
+        <num>(1)</num>
+        <text>Directly commits a violation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Aids and abets the commission of said violation; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is a party to a conspiracy with another to commit it or advises, hires or counsels or otherwise procures another to commit a violation.</text>
+      </para>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>Possession of live game and fur-bearing animals. Except as may be authorized under <cite path="§287-13">§ 287-13</cite> of <cite path="|II|287">this chapter</cite>, any person who possesses any live game animal or fur-bearing animals shall be guilty of a Class C forfeiture.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>Possession of game during closed season. Except as may be authorized under <cite path="§287-13">§ 287-13</cite> of <cite path="|II|287">this chapter</cite>, whoever shall have in his or her possession or under the person's control, or have in storage or retention for any person, any wild animal, or the carcass or part thereof, that was taken during the closed season for that wild animal shall be subject to a Class C forfeiture.</text>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>Duty to aid victim. Any person who, while hunting any wild animal or bird, discharges a firearm or arrow, and thereby injures or kills another person, shall forthwith give his or her name and address to the other person if the other person is injured and render such assistance to that other person as may be necessary and obtain immediate medical or hospital care, and shall immediately thereafter report such injury or death to authorized enforcement personnel. Any person failing to comply with <cite path="§287-9|S.">this subsection</cite> shall be guilty of a Class A misdemeanor.</text>
+    </para>
+    <para>
+      <num>T.</num>
+      <text>Unauthorized stocking. No fish, fish eggs, or gametes shall be stocked in waters of the Menominee Reservation unless authorized by the Conservation Director. Any person who engages in unauthorized stocking shall be guilty of a Class A forfeiture.</text>
+    </para>
+    <para>
+      <num>U.</num>
+      <text>Interference with trapping. Any person, without permission, interfering or impeding with lawful trapping, disturbing or molesting lawfully placed traps, or harassing wild animals, with the intent to prevent the taking of a wild animal shall be guilty of a Class A forfeiture.</text>
+    </para>
+    <para>
+      <num>V.</num>
+      <text>Larceny of traps. Any person stealing, or taking traps, cable restraints, snares, animals or the contents of any lawfully placed trap, cable restraint or snare shall be subject to a Class C misdemeanor plus ordered to pay restitution to the owner.</text>
+    </para>
+    <para>
+      <num>W.</num>
+      <text>Taking game in defense of life or property.</text>
+      <para>
+        <num>(1)</num>
+        <text>Nothing in this section prohibits a person from taking game in defense of life or property if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The necessity for the taking is not brought about by harassment or provocation of the animal, or by an unreasonable invasion of the animal's habitat;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The necessity for taking is not brought by the improper disposal of garbage or similar attractive nuisance; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All other practicable means to protect life or property are exhausted before the game is taken.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Game taken in defense of life or property is the property of the Tribe. A person taking such game shall immediately contact the Menominee Dispatch and within 24 hours after the taking shall submit to the department a completed questionnaire concerning the circumstances of the taking.</text>
+        <para>
+          <num>(a)</num>
+          <text>Animals taken in defense of life or property should be left where they were taken for investigative purposes until Menominee Conservation or law enforcement arrive on scene.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a Conservation Warden, or other designated law enforcement officer, cannot respond before the waste of game for deer or bear, a person taking such game shall salvage the meat and surrender the meat to the Conservation Department, as soon as possible, or as otherwise designated. All other animals shot in defense of life or property shall not be moved.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Persons taking game in defense of life or property must exercise reasonable care in assuring the meat is delivered in an edible condition.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In the case of a black bear, a surrendered bear must also have the skull, the hide with attached claws, and gall bladder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>As used in this section, "property" means</text>
+        <para>
+          <num>(a)</num>
+          <text>A dwelling, permanent or temporary;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An aircraft, boat, automobile, or other conveyance;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A domesticated animal; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other property of substantial value necessary for the livelihood of survival of the owner.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Violation of this section is a Class C Misdemeanor.</text>
+      </para>
+    </para>
+    <para>
+      <num>X.</num>
+      <text>(Reserved)<fn path="|II|§287-9|footnotes|4">4</fn></text>
+    </para>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Former <cite path="§287-9|F">Subsection F</cite>, Use of lead ammunition, was repealed 4-21-2022 by Ord. No. 22-04.</text>
+      </footnote>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Former <cite path="§287-9|X">Subsection X</cite>, regarding lead fishing sinkers, was repealed 4-21-2022 by Ord. No. 22-04.</text>
+      </footnote>
+    </footnotes>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-10</num>
+    <heading>Classification of misdemeanors and forfeitures.</heading>
+    <para>
+      <num>A.</num>
+      <text>Classification of misdemeanors. Misdemeanors in <cite path="|II|287">this chapter</cite> are criminal acts which are classified as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Class A misdemeanor. The penalty for a Class A misdemeanor is a fine not less than $2,501 nor an amount to exceed $5,000 and/or imprisonment not less than nine months nor to exceed one year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Class B misdemeanor. The penalty for a Class B misdemeanor is a fine not less than $1,000 nor an amount to exceed $2,500 and/or imprisonment not less than six months nor to exceed nine months.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Class C misdemeanor. The penalty for a Class C misdemeanor is a fine not less than $501 nor an amount to exceed $1,000 and/or imprisonment not less than 30 days nor to exceed six months.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Class D misdemeanor. The penalty for a Class D misdemeanor is a fine not less than $100 nor an amount to exceed $500 or imprisonment not to exceed three months, or both.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Class E misdemeanor. The penalty for a Class E misdemeanor is a fine not to exceed $100 and/ or imprisonment not to exceed 10 days.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Classification of forfeitures. Forfeitures in <cite path="|II|287">this chapter</cite> are civil offenses which are classified as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Class A forfeiture. The penalty for a Class A forfeiture is a forfeiture not less than $2,500 nor to exceed $5,000.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Class B forfeiture. The penalty for a Class B forfeiture is a forfeiture not less than $1,000 nor to exceed $2,500.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Class C forfeiture. The penalty for a Class C forfeiture is a forfeiture not less than $500 nor to exceed $1,000.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Class D forfeiture. The penalty for a Class D forfeiture is a forfeiture not less than $100 nor to exceed $500.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Class E forfeiture. The penalty for a Class E forfeiture is a forfeiture not less than $10 nor to exceed $100.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Penalty when none expressed. If any person commits any act which is prohibited by <cite path="|II|287">this chapter</cite> or regulations for which no penalty is expressed, the person shall be subject to a forfeiture not to exceed $1,000.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Effect on seizure of evidence. Nothing in <cite path="|II|287">this chapter</cite> shall affect or limit the power of enforcing officers to execute search warrants or seize and hold property which constitutes evidence in any violation of <cite path="|II|287">this chapter</cite>. Such property shall not be forfeited, however, except in compliance with <cite path="|II|287">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-11</num>
+    <heading>Suspension or revocation of license; community service; repeat offenders.</heading>
+    <para>
+      <num>A.</num>
+      <text>License suspension. Any person charged with or cited for violating <cite path="|II|287">this chapter</cite> shall have all his or her licenses suspended until the charge or citation is disposed of by the court or 180 days from the date of the charge or citation, whichever occurs first.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Revocation of license. In addition to any other penalty imposed for the violation of <cite path="|II|287">this chapter</cite> or any other Commission rule, the court shall revoke all licenses granted under <cite path="|II|287">this chapter</cite> for a period of not less than one year and not to exceed three years.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Community service. In addition to other penalties that may apply to a crime under <cite path="|II|287">this chapter</cite>, the court may require that a convicted defendant perform 100 hours of community service work for an individual, a public agency or a nonprofit charitable organization. The court may order community service work that is designed to show the defendant the impact of his or her wrongdoing. If the court orders community service work, the court shall ensure that the defendant receives a written statement of the community service order and that the community service order is monitored. Any order requiring a defendant to perform community service shall specify the method of monitoring the defendant's compliance with <cite path="§287-11|C.">this subsection</cite> and the deadline for completing the work that is ordered. Any individual, organization or agency acting in good faith to whom or to which a defendant is assigned pursuant to an order under <cite path="§287-11|C.">this subsection</cite> has immunity from any civil liability in excess of $25,000 for acts or omissions by or impacting on the defendant.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Increased penalty for repeat offenders.</text>
+      <para>
+        <num>(1)</num>
+        <text>Forfeiture repeat offenses for the same violation within a period of 12 months shall be subject to an increased penalty of the next class of forfeiture under <cite path="§287-10|B">§ 287-10B</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When any person is convicted of a misdemeanor and it is alleged in the indictment, information or complaint and proved or admitted on trial or ascertained by the court after conviction that the person was previously convicted three times within a period of three years for a misdemeanor under <cite path="|II|287">this chapter</cite>, or of any penalty under another chapter for a similar offense, he/she shall be subject to an increased penalty not to exceed $5,000 and/or one year in jail, and shall have his or her hunting, fishing and gathering license(s) suspended for three years.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-12</num>
+    <heading>Endangered and threatened species.</heading>
+    <para>
+      <num>A.</num>
+      <text>Endangered and threatened species list. The Commission shall, by rule, establish an endangered and threatened species list. The list shall consist of the following three parts: wild animals and wild plants on the U.S. list of endangered and threatened foreign species; wild animals and wild plants on the U.S. list of endangered and threatened native species; and a list of endangered and threatened Reservation-wide species. Reservation-wide species shall be compiled by issuing a proposed list of species approaching Reservation-wide extirpation. Reservation-wide threatened species shall be compiled by issuing a proposed list of species which appear likely, within the foreseeable future, to become endangered. Issuance of the proposed lists shall be followed by solicitation of comments and public hearing. Wild animals and wild plants shall be deemed approaching Reservation-wide extirpation if the Commission determines, based upon the best scientific and commercial data available to it and after consultation with Conservation Wardens and other interested persons and organizations, that the continued existence of such wild animals and wild plants on the Reservation is in jeopardy.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Review and report list. The Commission shall periodically review and, following a public hearing, may revise its endangered and threatened species list. A summary report of the scientific data used to support all amendments to the Tribe's endangered and threatened species list shall be maintained by the Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Petition for review. The Commission may, upon the petition of three persons, review any listed or unlisted wild animal or wild plant, if the persons' presentation warrants such review, after which the Commission may by hearing and rule amend the Reservation-wide list.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>List to be published. The Commission shall annually publish the list specified in <cite path="§287-12|A">Subsection A of this section</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-13</num>
+    <heading>Scientific investigations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Investigations. The Departments of Conversation, Fish and Wildlife, Environmental Services, and Natural Resources Program of the College of the Menominee Nation may conduct investigations of fish, wildlife and plants in order to obtain and develop scientific information relating to populations, distribution, habitat needs and other biological data in order to advise the Tribe and Commission and conservation measures designed to ensure the continued ability of fish, wildlife or plants to perpetuate themselves.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Harvesting. The Department of Conservation, Fish and Wildlife, Environmental Services, and Natural Resource Program of the College of the Menominee Nation may, for scientific purposes, engage in or authorize the harvest of protected species by the use of methods, at times or at locations not authorized by <cite path="|II|287">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-14</num>
+    <heading>Duties of enforcement agencies.</heading>
+    <para>
+      <num>A.</num>
+      <text>Assistance of police officers. All tribal police officers shall assist the Conservation Department and its wardens in the enforcement of <cite path="|II|287">this chapter</cite> whenever notice of a violation thereof is given to either of them by the Conservation Department or its wardens.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Fish and gaming law violation hotline. All law enforcement agencies responsible for enforcing the provisions of <cite path="|II|287">this chapter</cite> shall maintain a telephone line during normal business hours to receive reports of violations of <cite path="|II|287">this chapter</cite>. Said reports shall be relayed to the appropriate warden or officer for investigation and enforcement action. Said enforcement agency shall maintain records which permit the release of information provided by informants while protecting the identity of the informant. Any records maintained by the enforcement agency shall be only for the confidential use of the agency in the administration of this section, unless the informant expressly agrees to release the records. Appearance in court as a witness shall not be considered consent by an informant to release confidential records maintained by the agency.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-15</num>
+    <heading>Seizure and confiscation of motor vehicles and boats.</heading>
+    <para>
+      <num>A.</num>
+      <text>An enforcement officer must immediately seize all motor vehicles, boats and motors with their trailers that are used to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shine wild animals in violation of <cite path="§287-10|B">§ 287-10B</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Kill a federally or tribally listed threatened or endangered species in violation of <cite path="§287-10|A">§ 287-10A</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An enforcement officer may immediately seize all motor vehicles, boats and motors with their trailers that are used to illegally take, possess, or transport wild animals when the restitution value of the wild animals exceeds $500.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Procedure for confiscation of property seized under <cite path="§287-15|C.">this subsection</cite> shall follow tribal law of civil remedial forfeiture of property under <cite path="|I|132">Chapter 132</cite>, except when property has been seized prior to the issuance of an order to seize, a hearing on the order to seize shall be held within 10 working days after the seizure. If a complaint is filed per <cite path="|I|132">Chapter 132</cite> within the 10 working days described above, the hearing shall be held in accordance with <cite path="§132-28">§ 132-28</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Proceeds of sale. Any remaining proceeds from a sale of forfeited property shall be deposited in the Tribal General fund and credited to the Conservation Department.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Reporting. The appropriate department and prosecuting authority shall report on forfeitures occurring under this section to the Enforcement and Resources Protection Committee.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>287-16</num>
+    <heading>When effective.</heading>
+    <para>
+      <num>A.</num>
+      <text><cite path="|II|287">This chapter</cite> shall take effect immediately upon final approval by the Menominee Tribal Legislature.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 4-21-2022 by Ord. No. 22-04</annotation>
+    </annotations>
+  </section>
+</container>

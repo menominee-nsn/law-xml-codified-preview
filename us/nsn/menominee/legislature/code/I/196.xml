@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|196">
+  <prefix>Chapter</prefix>
+  <num>196</num>
+  <heading>STATE OF EMERGENCY, DECLARATION OF</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-32; amended in its entirety 11-6-2014 by Ord. No. 14-25. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Posting procedures — See <cite path="|I|177">Ch. 177</cite>.</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>196-1</num>
+    <heading>Title.</heading>
+    <text><cite path="|I|196">This chapter</cite> shall be entitled the "Declaration of a State of Emergency Ordinance."</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-2</num>
+    <heading>Legislative authority.</heading>
+    <text><cite path="|I|196">This chapter</cite> is adopted pursuant to the authority granted to the Legislature by Article III, Section 1, and Bylaw II, Section 2, of the Menominee Constitution and Bylaws.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-3</num>
+    <heading>Procedure to declare state of emergency.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Chairperson of the Legislature, or in the Chair's absence, in succession, the Chief of Police, the Vice Chair, the Emergency Management Coordinator or a majority of the Tribal Legislature, may declare a state of emergency and as such shall issue all necessary proclamations relating to the existence of a state of emergency and shall issue such disaster warnings or alerts as shall be required in the tribal emergency response plan.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Chairperson of the Legislature shall have the authority to take the following emergency actions upon his or her declaration of a state of emergency:</text>
+      <para>
+        <num>(1)</num>
+        <text>Redirect up to $250,000 in appropriated tribal funds for emergency use.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Suspend standard procurement procedures.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Redirect tribal employees to assist with a state of emergency.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribal Emergency Management Coordinator shall take action in accordance with the tribal emergency response plan only after the declaration of an emergency and the issuance of official disaster warnings.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any declaration of a state of emergency shall be subject to review for ratification or other action that the Legislature deems appropriate at an emergency meeting called as soon as practicable after the declaration of a state of emergency, or if convening an emergency meeting is impracticable, at the next regular meeting of the Legislature.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Legislature may, by resolution or emergency ordinance, establish necessary procedures to prepare for and carry out any activity designed to prevent, minimize, respond to or recover from a state of emergency. The resolution or emergency ordinance may provide for coordination with the County of Menominee, the State of Wisconsin, the United States of America, or any other state or federal agency.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any declaration of a state of emergency, including any emergency action or regulation promulgated under <cite path="|I|196">this chapter</cite> by the Chairperson or the Legislature shall, to the greatest extent possible, be posted in as many areas as required by <cite path="|I|177">Chapter 177</cite>, subject to any limitations or restrictions as may be imposed by the state of emergency, and in such other areas as may be deemed necessary by the Legislature, the Chairperson, or bona fide law enforcement personnel.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A declaration of a state of emergency shall only be terminated by the Legislature when it deems that a state of emergency ceases to exist.</text>
+    </para>
+    <annotations>
+      <annotation type="History">Amended 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-4</num>
+    <heading>Supplemental appropriations.</heading>
+    <text>Where at all possible, the Legislature shall appropriate supplemental funds to any departments, programs, or other cost objectives from which tribal funds have been redirected by the Chairperson or the Legislature for use in the direction of state of emergency functions and activities.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-5</num>
+    <heading>Conflicts; superseding effect.</heading>
+    <text>In the event of a conflict between the provisions of <cite path="|I|196">this chapter</cite> and any other ordinance of the Tribe, the provisions of <cite path="|I|196">this chapter</cite> shall control.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-6</num>
+    <heading>Emergency Management Coordinator.</heading>
+    <para>
+      <num>A.</num>
+      <text>Duties during a declared state of emergency.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Emergency Management Coordinator shall be responsible for planning, activating, coordinating and conducting emergency management operations within the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Wherever, in the opinion of the Emergency Management Coordinator, a disaster has occurred or has potential to occur, the Emergency Management Coordinator shall consult with the Tribal Chairman to determine if a proclamation for a state of emergency is warranted within the reservation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>During a declared emergency, the Emergency Management Coordinator shall be empowered to issue and enforce such orders as may be necessary to implement and carry out emergency management operations to protect the health, safety and resources of the residents of the Menominee Indian Reservation. The orders referenced above include, but are not limited to, the issuance of social distancing orders restricting or prohibiting gatherings, the conduct of business, travel, instituting curfews, and other similar social distancing requirements. When the declared emergency constitutes a "public health emergency" as that term is defined in <cite path="§368-60">§ 368-60</cite>, then the orders referenced above may include a requirement that the public provide their identity, resident address, areas of travel and other information reasonably related to the stopping the spread of communicable/pandemic diseases. <strong>[Amended 4-23-2020 by Ord. No. 20-07]</strong></text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Serve as the Tribe's primary authority for disaster response and service coordination.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Emergency Management Coordinator shall immediately notify Menominee County's Emergency Management Director and the State of Wisconsin Northeast Region Emergency Management Director upon the declaration of a state of emergency by the Tribal Chairperson.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Nothing in <cite path="|I|196">this Chapter 196</cite> grants the Emergency Management Coordinator any power to require vaccination, quarantine, or isolation that are granted to the Community Health Nurse Services Director pursuant to Article XII of <cite path="|II|368">Chapter 368</cite> of this Code. <strong>[Added 4-23-2020 by Ord. No. 20-07]</strong></text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>General duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>Insure that the emergency management functions of the Tribe are available on a twenty-four-hour basis.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Supervise and manage the day-to-day functions of the Tribe's emergency management program.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Carry out all duties and responsibilities as listed on the most recent version of the position description for the Emergency Management Coordinator.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-7</num>
+    <heading>Violations and penalties. [Added 4-23-2020 by Ord. No. 20-07]</heading>
+    <text>Any person who willfully violates or obstructs the execution or enforcement of any tribal ordinance or Emergency Management Coordinator order issued under <cite path="|I|196">this chapter</cite> for which no other penalty is prescribed shall be subject to a civil forfeiture not to exceed $ 500.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>196-8</num>
+    <heading>Enforcement. [Added 4-23-2020 by Ord. No. 20-07]</heading>
+    <para>
+      <num>A.</num>
+      <text>Menominee tribal police officers and conservation wardens are authorized to enforce any order issued by the Emergency Management Coordinator pursuant to <cite path="|I|196">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The arrest and detention authority of the Menominee tribal police officers and conservation wardens in enforcing an order pursuant to <cite path="§196-8|A">§ 196-8A</cite> includes a police officer or conservation warden stopping and questioning individuals in compliance with an approved checkpoint conducted under a checkpoint plan and guidelines regulating officer discretion. The checkpoint plan and guidelines must, at a minimum, comply with the requirements of <cite path="§120-3">§ 120-3</cite> regarding administrative searches. Notice of checkpoint plan and guidelines must be submitted to the Tribal Chairman's office by law enforcement for review and approval prior to the implementation of any checkpoint under <cite path="|I|196">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

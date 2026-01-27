@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Part</prefix>
+  <num>IV</num>
+  <heading>Charters</heading>
+  <xi:include href="./630.xml"/>
+  <xi:include href="./637.xml"/>
+  <xi:include href="./641.xml"/>
+  <xi:include href="./650.xml"/>
+  <xi:include href="./652.xml"/>
+  <xi:include href="./656.xml"/>
+  <xi:include href="./660.xml"/>
+  <xi:include href="./663.xml"/>
+  <xi:include href="./667.xml"/>
+  <xi:include href="./688.xml"/>
+  <xi:include href="./690.xml"/>
+  <xi:include href="./691.xml"/>
+  <xi:include href="./692.xml"/>
+  <xi:include href="./704.xml"/>
+  <xi:include href="./715.xml"/>
+  <xi:include href="./723.xml"/>
+  <xi:include href="./725.xml"/>
+  <xi:include href="./727.xml"/>
+  <xi:include href="./729.xml"/>
+  <xi:include href="./730.xml"/>
+  <xi:include href="./731.xml"/>
+  <xi:include href="./740.xml"/>
+</container>

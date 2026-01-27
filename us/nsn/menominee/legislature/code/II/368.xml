@@ -1,0 +1,1767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|368">
+  <prefix>Chapter</prefix>
+  <num>368</num>
+  <heading>HEALTH AND FAMILY</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="II|368|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>(Reserved)<fn proof="needed" path="|II|368|I|footnotes|1">1</fn></heading>
+    <section>
+      <prefix>§§</prefix>
+      <num>368-1 through 368-7</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Former Art. I, Group Foster Homes, adopted 2-5-1981 by Ord. No. 81-3, as amended, was repealed 6-21-2018 by Ord. No. 18-11. See now <cite path="|II|278">Ch. 278</cite>, Children's Code.</text>
+      </footnote>
+    </footnotes>
+  </container>
+  <container cache:ref-path="II|368|II">
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Public Assistance Fraud [Adopted 2-4-1982 by Ord. No. 81-27]</heading>
+    <section cache:ref-path="II|§368-8">
+      <prefix>§</prefix>
+      <num>368-8</num>
+      <heading>Adoption and modification of statute.</heading>
+      <text>The Menominee Tribal Legislature adopts as Menominee law <cite doc="Wis. Stat." path="§49.12">§ 49.12, Wis. Stats.</cite>,<fn path="|II|§368-8|footnotes|2">2</fn> modified as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>Any person who, with intent to secure public assistance under the Relief to Needy Indian Persons (RNIP) Program, whether for himself or for some other person, wilfully makes any false representations may, if the value of such assistance so secured does not exceed $500, be required to repay to the program the amount so secured.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person who wilfully does any act designed to interfere with the proper administration of the RNIP Program shall be fined not less than $10 nor more than $100. The acceptance of any supplies or articles furnished to any person as RNIP benefits in exchange for or in payment for any intoxicating liquor or fermented malt beverage shall be deemed to be a violation of <cite path="§368-8|B.">this subsection</cite>, but violations of <cite path="§368-8|B.">this subsection</cite> shall not be limited to such acts.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any dependent person who sells or exchanges supplies or articles furnished him as assistance or who disposes of such supplies or articles in any other way than as directed, with intent thereby to defraud the Tribe furnishing him assistance, and any person who purchases any article knowing it to have been furnished to another person as assistance shall be punished as provided in <cite path="§368-8|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Where a person is originally eligible for assistance and receives any income or assets or both thereafter and fails to notify the officer or agency granting such assistance of the receipt of such assets within 10 days after such receipt and continues to receive aid, such failure to so notify the proper officer or agency of receipt of such assets or income or both shall be considered a fraud, and the penalties in <cite path="§368-8|A">Subsection A</cite> shall apply.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any dependent person who uses money, checks, vouchers or any other thing of value furnished him as relief for purposes other than as directed by the Tribe furnishing such relief shall be punished as provided in <cite path="§368-8|B">Subsection B</cite>.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any person who makes any statement in a written application for aid under RNIP shall be considered to have made an admission as to the existence, correctness or validity of any fact stated, which shall be taken as prima facie evidence against the party making it in any complaint, information or indictment and in any action or proceeding brought for the enforcement of any provision of RNIP.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>If any person obtains for himself or any other person or dependents, or both, assistance under RNIP on the basis of facts stated to the authorities charged with the responsibility of furnishing assistance and fails to notify said authorities within 10 days of any change in the facts as originally stated and continues to receive assistance based on the originally stated facts, such failure to notify shall be considered a fraud and the penalties in <cite path="§368-8|A">Subsection A</cite> shall apply. The negotiation of a check received in payment of such assistance by the recipient after any change in such facts which would render him ineligible for such assistance shall be prima facie evidence of fraud in any such case.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Any person who accepts a relief voucher granted as relief and fails to tender the commodities authorized by the relief authorities to the relief recipient but in lieu thereof refunds to the relief recipient cash or substitutes any intoxicating liquor or malt beverage or cigarettes not authorized by the relief voucher shall be considered to have committed a fraud, and the penalties provided in <cite path="§368-8|A">Subsection A</cite> shall apply to said person.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Section 49.12 was renumbered and amended in part and repealed in part by 1995 Act 27. See now § 49.95.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-9</num>
+      <heading>Applicability. [Added 6-10-1985]</heading>
+      <text>The provisions of <cite path="|II|368|II">this article</cite>, <cite path="§368-8|A">§ 368-8A</cite> through H, are hereby made applicable to recipients of the Food Distribution Program, Aid to Families with Dependent Children (AFDC), food stamps, general relief, and veterans service benefits and any other welfare assistance programs.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|III">
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Financial Support of Children</heading>
+    <annotations>
+      <annotation type="History">Adopted 12-19-1985 by Ord. No. 85-22; amended in its entirety 6-17-1999</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>368-10</num>
+      <heading>Purpose and definitions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purposes. It is the purpose of <cite path="|II|368|III">this article</cite> to assert tribal sovereignty to its fullest by incorporating Menominee traditions, values and customs which will facilitate the stability of families and the community by:</text>
+        <para>
+          <num>(1)</num>
+          <text>Providing a measure of financial security for children through clarification of the legal obligation of their parents to contribute to their financial support;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Ensuring that the father of each child is identified and has all rights and responsibilities arising from that identification;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Establishing procedures by which child support is determined;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Creating a tribal agency to recommend appropriate amounts of financial support, collect amounts ordered to be paid, institute proceedings to enforce payment of support orders and to administer all agreements with other jurisdictions concerning child support; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Establish procedures by which any person on the Reservation of the Menominee Nation shall acquire the benefits and/or the obligations of <cite path="|II|368|III">this article</cite>, as appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Definitions. As used in <cite path="|II|368|III">this article</cite>, the following terms have the meanings prescribed herein:</text>
+        <text>CHILD — Any unmarried person under the age of 18 years, including persons who have "independent living" status under the laws of the State of Wisconsin, or an unmarried person who is attending high school after attaining the age of 18 who has not reached the age of 19.</text>
+        <text>CHILD SUPPORT AGENCY or AGENCY — The Menominee Tribal Child Support Agency.</text>
+        <text>LEGAL CUSTODY — The legally acknowledged right and responsibility to make major decisions concerning a child, such as consent to marry, consent to enter military service, consent to obtain a motor vehicle operator's license, authorization for nonemergency medical care, and the choice of school and religion.</text>
+        <text>NONLEGALLY RESPONSIBLE RELATIVE — A relative who assumes responsibility for the care of a child, excepting a relative who has physical custody during a court-order visitation period.</text>
+        <text>PHYSICAL PLACEMENT — The condition under which a person has a right to have a child physically placed with that person and has the right and responsibility to make, during that placement, routine daily decisions regarding the child's care, consistent with the major decisions made by a person having legal custody.</text>
+        <text>SUPPORT — Payment of the expenses of necessary shelter, food, care, clothing, medical and dental care, child care and education.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-11</num>
+      <heading>Jurisdiction.</heading>
+      <para>
+        <num>A.</num>
+        <text>Exclusive jurisdiction. The Menominee Tribal Court shall have exclusive jurisdiction in the following proceedings:</text>
+        <para>
+          <num>(1)</num>
+          <text>Actions establishing paternity in which the alleged father resides or is domiciled on the Menominee Reservation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Actions establishing child support in which the children for whom support is sought and the person(s) from whom support is sought reside or are domiciled on the Menominee Reservation.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Actions seeking enforcement of a child support order of a foreign court entered against a person who, at the time filed, resides or is domiciled on the Menominee Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Jurisdiction in all other actions. The Menominee Tribal Court shall have jurisdiction over any action brought under <cite path="|II|368|III">this article</cite> to the extent not prohibited by other tribal law or federal law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§368-12">
+      <prefix>§</prefix>
+      <num>368-12</num>
+      <heading>Child support.</heading>
+      <para>
+        <num>A.</num>
+        <text>Legal obligation to support children. It is the legal, as well as moral, responsibility of parents to provide financially for their children's food, clothing, shelter, medical care and general well-being. A parent with legal custody or with whom the child resides at least 60% of the time is presumed to be carrying out this obligation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Child support actions. In addition to any criminal charge which may be instituted against a parent for failure to support his/her child, an action to compel payment of support may be brought by:</text>
+        <para>
+          <num>(1)</num>
+          <text>The custodial parent;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A nonlegally responsible relative; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Child Support Agency.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Procedure for child support actions. A child support action is a civil proceeding, subject to the provisions of the Tribal Judiciary and Interim Law and Order Code for the appropriate notice and hearing requirements.<fn path="|II|§368-12|footnotes|3">3</fn></text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Amount of child support; state percentage standard. After hearing, the Court shall order either or both parents to pay an amount reasonable and necessary to carry out the obligation of supporting the children. It is a rebuttable presumption that the amount of support ordered utilizing the percentage standard established by the Wisconsin Department of Workforce Development, as that may from time to time be amended, is the reasonable and necessary amount required, unless a party requests a modification of that standard.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Factors for modification of standard. The party requesting modification of the Wisconsin standard shall demonstrate that its application is unfair to the child or any of the parties. Such demonstration shall be based on the following factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>The financial resources of the child;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The financial resources of both parents, including property received pursuant to a divorce decree;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Maintenance/alimony received by either parent;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The needs of each parent in order to support him/herself at a level equal to or greater than the federal poverty income standards;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The needs of any person, other than the child, whom either parent is legally obligated to support;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The desirability that the custodian remain in the home as a full-time parent;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The cost of day care if the custodian works outside the home or the value of custodial services performed by the custodian if the custodian remains in the home;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The award of substantial periods of physical placement to both parents;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Extraordinary travel expenses incurred in exercising the right to visitation;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The physical, mental and emotional health needs of the child, including any costs for health insurance;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The child's educational needs;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The tax consequences to each parent;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>The best interests of the child;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>The earning capacity of each parent, based on each parent's education, training and work experience and the availability of work in or near the parent's community of residence;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>The recommendation, if any, of the Child Support Agency;</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>The cost of substitute care ordered by a court of competent jurisdiction; and</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Any other factors deemed relevant by the Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Order deviating from standard for support. Upon determination that the application of the standard for support would be unfair to the child or a parent, the Court may enter an order of support which establishes an amount which differs from said standard, which includes findings of fact supporting its determination.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Payment of support orders; administrative fee. The order of support shall provide that all payments made thereunder shall be made to the Child Support Agency. The first such payment shall include an administrative fee of $35; said administration fee shall be included for each 12 months for which the support order is in effect, including any modification to the initial order.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Health insurance as component of support. In addition to a monthly payment of support, the Court may require one or both parents to obtain and maintain health care coverage that is available to them, as a benefit of employment, for the benefit of the minor children until each has graduated from high school.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Child Support Agency notification. Each order for support shall be transmitted to the Child Support Agency by the Clerk and shall include a requirement that the parties keep said Agency informed of and provide notice within 10 days of any change in any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Current address;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Current source of income and any change in income source or amount;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any change in availability of health insurance coverage through employment, including the name of the insurance company, health care organization or health maintenance organization, the policy or certificate or contract number, and the names and birth dates of the persons for whom health care coverage is maintained; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any change in custody of the child for whom support is ordered.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Order for parent determined unable to pay support. In any case in which child support is sought or enforcement of an existing child support order is requested, the Court may, if the parent is found to be unemployed and financially unable to pay support, order said parent to do any or all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Register for work at a public employment office operated by the Tribe or the State of Wisconsin;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Apply for work;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Participate in job training programs; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Pursue an accredited course of instruction leading to the acquisition of a high school diploma or its equivalent; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Authorize a parent determined unable to pay support in cash to provide in lieu thereof goods and/or services, the value of which is validated by the Child Support Agency and the usefulness of which is affirmed in writing by the child's custodian. The continued appropriateness of an authorized in lieu contribution shall be reviewed by the Tribal Court every 90 days that such an order is in effect.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Order for income withholding. In the absence of a finding of good cause not to issue an order for income withholding, the Court shall issue, in addition to its order of support, an order directed and served on the payer's employer to withhold from the payer's wages and salary and pay to the Child Support Agency as child support an amount which is the lesser total of the following: the child support amount ordered by the Court or the amount allowed under Section 303(b) of Title III of the Consumer Credit Protection Act, P.L. 90-321, 15 U.S.C. § 1673(b). The Child Support Agency shall provide the employer with the notification of income withholding and the forms necessary to comply with the order of withholding.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Modification of child support order. The Court may, upon application by the parties, the Child Support Agency, or Department of Social Services and due notice to the opposite party, revise and alter any judgment or order respecting the amount of child support which is subject to enforcement by the Court, upon a finding of substantial change of circumstances.</text>
+        <para>
+          <num>(1)</num>
+          <text>Circumstances presumed to be substantial. Any of the following constitute a rebuttable presumption of a substantial change of circumstances sufficient to justify a revision of the support judgement or order:</text>
+          <para>
+            <num>(a)</num>
+            <text>Commencement of receipt of temporary assistance for needy families by either parent since the entry of the last child support order.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The expiration of 33 months after the date of entry of the last child support order, unless the amount of child support was expressed as a percentage of parental income.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Failure of the payer to furnish a timely disclosure of assets.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Circumstances which may be substantial. Any of the following may constitute a substantial change in circumstances sufficient to justify a revision of the support judgment or order:</text>
+          <para>
+            <num>(a)</num>
+            <text>Unless the amount of child support was expressed as a percentage of parental income, a change in the payer's income.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Change in the needs of the child.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Change in the payer's earning capacity.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any other factor determined relevant by the Court.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Circumstances not a basis for modification. Violation of physical placement rights by the custodian does not constitute reason for modification of child support obligations.</text>
+        </para>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Enforcement of child support order. An order for child support by the Menominee Tribal Court, or an order of any other Court with personal and subject matter jurisdiction, may be enforced by the Tribal Court by any of the following proceedings:</text>
+        <para>
+          <num>(1)</num>
+          <text>An order to show cause requiring the payer to demonstrate at a reasonable time therein specified why the payer should not be held in contempt and subject to:</text>
+          <para>
+            <num>(a)</num>
+            <text>A finding of civil contempt, with a forfeiture of not less than $50 and not in excess of $5,000 for each contempt.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A finding of criminal contempt, which shall subject any Indian so found to incarceration for a term of one year or less.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issuance of an order for income withholding, requiring assignment to the Child Support Agency of all commissions, earning, salaries, wages, pension benefits, lottery prizes that are paid in installments, per capita payments made to adult members by the Menominee Indian Tribe of Wisconsin, and any other money due or to be due in the future. Said amount shall be sufficient to pay any arrearages due at a periodic rate not to exceed 50% of the amount of support due under the order, subject to the maximum specified in <cite path="§368-12|K">Subsection K</cite> above.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Execution of the order or judgment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Attachment of assets.</text>
+        </para>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Credits against child support amount. It is not a valid basis for failure to pay ordered support that the custodian violates the rights of the payer to visitation and/or physical placement; however, any financial expense incurred by the payer to correct such violation may be credited to the support obligation upon order of the Court.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Employer provisions. Employers may not use an assignment of income for the purposes of <cite path="|II|368|III">this article</cite> as a basis for discharge or refusal to employ a person or for taking a disciplinary action against an employee payer. An employer who takes any of these prohibited actions against a person or employee will be subject to a fine of up to $5,000 and may be responsible for full restitution to the person, including reinstatement and back pay. An injured party or the Agency may request an action for enforcement from the Tribal Prosecutor. <strong>[Added 6-6-2002]</strong></text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-13</num>
+      <heading>Child Support Agency.</heading>
+      <para>
+        <num>A.</num>
+        <text>Creation. The Child Support Agency established by <cite path="|II|368|III">this article</cite> shall carry out all responsibilities and duties under the supervision of the Menominee Department of Social Services.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Initiation of child support action. The Child Support Agency shall file a petition for an order for child support when:</text>
+        <para>
+          <num>(1)</num>
+          <text>Upon request of the custodial parent or nonlegally responsible relative and the request is based upon the failure or refusal of a parent to provide for the support of his/her child.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon notification by the Department of Social Services or any other public agency providing public aid to a spouse or minor child and the notice is based on the:</text>
+          <para>
+            <num>(a)</num>
+            <text>Failure or refusal of a parent to provide for the support of his/her child; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A person is alleged to be the father of a minor child and does not admit paternity.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Recommendation to Court on child support amount. At the Court's request, the Child Support Agency shall investigate all relevant facts and make a written report and recommendation to the parties and the Court regarding child support. Any such report shall utilize the support standard of the Wisconsin Department of Workforce Development, as it may from time to time be amended, as a basis; any deviation from that standard shall be founded on the factors enunciated in <cite path="§368-12|E">§ 368-12E</cite> above.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Agency disbursement of support payments. After a support order is entered, the Child Support Agency shall receive all payments of support orders. Not less than once each month, the Agency shall record the support payments due, paid, and past due. All monies received, excluding administrative fees, shall be disbursed to the recipient of support within 10 days of receipt.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Disbursement to social service agency. In any case in which support payments have been assigned to a social service agency as a result of receipt of temporary assistance for needy families or as a result of placement of the child in substitute care by a social service agency, the Agency shall transmit support payment to the assignee agency as required by federal law. Said payment shall not be made to a licensed foster parent of the child.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Application of payments received. The Child Support Agency shall apply all payments received for child support as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>First, to payment of child support due within the calendar month during which payment is received. For payments made pursuant to an income withholding order, no interest will be assessed for a payment received subsequent to the calendar month during which payment is withheld.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second, to payment of unpaid child support due before the payment is received.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Annual statement of payments. The Child Support Agency shall provide annually to each party, without charge, one statement of account upon request. Additional statements may be provided upon payment of a fee to cover the costs of reproduction.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Child support order enforcement. Any action to enforce an order of support in the Menominee Tribal Court shall be initiated by the Child Support Agency.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Criteria for initiating enforcement action. The Child Support Agency shall initiate enforcement of the support order when the arrearage in the payer's support payment account is equal to the amount of support payable for one month under the order. The Agency shall not initiate enforcement if the support order was entered ex parte and the Agency has not received a copy of proof of service of the order.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Notice to alleged violator required. The Child Support Agency shall provide to the Court as part of its enforcement action request a copy of the enclosed notice, sent by ordinary mail to the alleged violator, which states: "Failure to respond to the Child Support Agency within 10 days of the date of this notice to work out a satisfactory arrangement may result in contempt of court proceedings being brought against you."</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Child Support Agency as petitioner. In any proceeding in the Menominee Tribal Court to enforce an order of support, the Child Support Agency shall act on behalf of the child for whom support is ordered and file as petitioner for enforcement of the order.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Administrative adjustment of support prohibited. The Child Support Agency is without power and authority to amend any order of support or to abolish any arrearage. All support order modifications must be made by the Menominee Tribal Court.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Agency petition for support modification. The Child Support Agency shall periodically review each support payment account to determine whether the amount should be increased or decreased due to a change in circumstances. The basis for modification shall be those detailed in <cite path="§368-12|L">§ 368-12L</cite> above. These reviews shall occur not less than each 33 months, and may result in a petition for modification, which includes a report enunciating the change of circumstances.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Agency assistance to interested parties. The Child Support Agency shall make available to support payers and payees from motions, responses and orders for use by them in requesting the Court to modify their support order or in responding to a motion for support modification without the assistance of counsel. The Agency shall also provide instructions on scheduling a support modification hearing.</text>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Authority to enforce tribal support orders in other forums. The Child Support Agency may seek enforcement of any order for support entered by the Menominee Tribal Court through any other forum, including the courts of the state in which the payer resides, the utilization of interstate support collection agreements, the attachment of any income tax refunds due the payer, and any other mechanism approved by the Tribal Legislature.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-14</num>
+      <heading>Paternity.</heading>
+      <para>
+        <num>A.</num>
+        <text>Acknowledgement of paternity. The paternity of any child may be established through the signing of a statement by the father and mother of the child before the Clerk of Tribal Court. The acknowledgement statement shall identify the father and mother by birth date, social security number, and residence and shall likewise so identify the child. Upon receipt of such statement, witnessed by the Clerk, a Judge of the Menominee Tribal Court may enter an order of filiation and refer the matter to the Child Support Agency for a recommendation as to child support and the initiation of a child support proceeding. If the child is an Indian child who may qualify for enrollment in the Menominee Tribe of Wisconsin, the Menominee Tribal Court shall be further required to conduct a hearing pursuant to <cite path="|I|69">Chapter 69</cite>, Enrollment, of this Code, and the Court may then enter an order of filiation and refer the matter to the Child Support Agency for a recommendation as to child support and the initiation of a child support proceeding.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Initiation of paternity determination. The Menominee Tribal Court may entertain a petition to determine the paternity of a child filed by:</text>
+        <para>
+          <num>(1)</num>
+          <text>The child;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The child's biological mother;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A man alleged or alleging himself to be the child's father;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The custodian of the child; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Child Support Agency.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Time for filing paternity action. If a petition to determine paternity is brought before the birth of the child, no hearing shall be conducted until after the birth, unless the Court shall determine that any action is necessary in order to preserve testimony. If a petition to determine paternity is brought more than 20 years after the birth of the child and the alleged father is deceased, the Court may dismiss the petition.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Content of petition. A petition to determine paternity may be joined with a request to order child support under <cite path="§368-12|B">§ 368-12B</cite> above. It shall state the name and date of birth of the child if born, or that the mother is pregnant if the child is unborn, the name of any alleged father, whether any party has filed an action to determine paternity in any other court, and if a judgment of paternity has been rendered by any other court. The petition shall also give notice of a party's right to request a genetic test under <cite path="§368-14|N">Subsection N</cite> herein.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Paternity adjudication necessary for determination of father's rights. The Menominee Tribal Court shall decline to issue an order for child support, physical placement or legal custody unless the man has been adjudicated or has acknowledged paternity.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Summons. The summons to be served, along with the petition, shall include the following notice, in addition to providing a time and date for appearance:</text>
+        <text>Notice to Respondent</text>
+        <para>
+          <num>1.</num>
+          <text>You have been named in a petition alleging paternity. A judgment of paternity would legally designate the child as your child, grant parental rights to you, create the right of inheritance for the child, obligate you to pay child support until the child reaches the age of 18 or until the child graduates from high school or its equivalent up to age 19, and make your failure to pay child support punishable by contempt of court.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>You may request genetic tests which will indicate the probability that you are or are not the father of the child. The Court will order genetic tests on request by you, the Child Support Agency, or any other party. Any person who refuses to take Court-ordered genetic tests may be punished for contempt of court.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The petitioner has the burden of proving by clear and convincing evidence that you are the father. If genetic tests show that you are not excluded as the father and that the statistical probability of your being the father is 99.0% or higher, you are rebuttably presumed to be the father.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The following defenses are available to you:</text>
+          <para>
+            <num>(a)</num>
+            <text>That you were sterile or impotent at the time of conception;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>That you did not have sexual intercourse with the mother of the child during the conceptive period; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>That another man did have sexual intercourse with the mother of the child during the conceptive period.</text>
+          </para>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If you fail to appear at any stage of the proceeding, including a scheduled genetic test, the Court may enter a default judgment finding you to be the father. A default judgment will take effect 30 days after it is served on or mailed to you, unless within those 30 days you present to the Court good cause for your failure to appear or present yourself for the genetic test. You need not appear at the time and place specified in the summons if you complete the enclosed waiver of first appearance statement and deliver it to the Court by the date specified in the waiver statement.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Time of first appearance. The first appearance may not be held any sooner than 30 days after service or receipt of the summons and petition, unless the parties agree that first appearance may be held in less time.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Waiver of first appearance. The respondent may waive first appearance if he signs a statement which reads substantially as follows:</text>
+        <text>Waiver of First Appearance</text>
+        <para>
+          <num>1.</num>
+          <text>I understand that by signing this waiver and agreeing to its terms I am not required to appear at the time and place specified in the summons. If I do not sign this statement, I am required to appear at the time and place specified.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>I understand that I will be notified by the Court of all future stages of the proceeding and agree to appear at those stages. If I fail to appear at any stage, including a scheduled genetic test, the Court may enter a default judgment against me.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>I enter the following plea:</text>
+          <text>I agree that I am the child's father.</text>
+          <text>I deny that I am the child's father.</text>
+          <text>I agree that I am the child's father, subject to the confirmation by a genetic test.</text>
+          <text>If I enter a plea agreeing that I am the child's father, a judgment of paternity will be entered against me. If I enter a plea denying that I am the child's father, or a plea agreeing that I am the child's father subject to a genetic test, I agree to undergo a genetic test.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>This waiver of first appearance is valid only if delivered	to	the	Court	on	or	before</text>
+          <text>.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>I will keep the Menominee Tribal Child Support Agency informed of my address at all times. The following is my current address:</text>
+          <text>Respondent</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>First appearance. At the first appearance, the Court shall inform the parties of the legal consequences of paternity, as described in the summons contents in <cite path="§368-14|F">Subsection F</cite>, and shall order all parties to submit to genetic tests and/or enter a judgment of paternity if admitted by the alleged father on the waiver of first appearance statement. In the event that a judgment is entered, the Court shall schedule a hearing on child support.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Hearings on contested paternity. When the alleged father denies paternity, the Court shall determine whether the case should proceed formally or informally.</text>
+        <para>
+          <num>(1)</num>
+          <text>Informal hearing. At an informal hearing, the Court may hear witnesses presented by the parties and, based upon that evidence, recommend that the action be dismissed, that the alleged father voluntarily admit paternity, and that the alleged father agree to provide support and have granted reasonable and liberal rights of visitation and/or physical placement and, if the parties agree to the recommendations, enter an order of paternity and support.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Formal hearing. The petitioner must demonstrate, by clear and convincing evidence, that the alleged father is in fact the child's father. Upon a determination that the petitioner has met this burden, the Court shall then determine child support, legal custody, periods of physical placement and like matters.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Testimony relating to paternity.</text>
+        <para>
+          <num>(1)</num>
+          <text>In any hearing relating to paternity, evidence may include, but is not limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Evidence of sexual intercourse between the mother and alleged father at any possible time of conception or evidence of a relationship between the mother and alleged father at any time.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An expert's opinion concerning the statistical probability of the alleged father's paternity based upon the duration of the mother's pregnancy.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Genetic test results.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The statistical probability of the alleged father's paternity based upon the genetic tests.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Medical, scientific or genetic evidence relating to the alleged father's paternity of the child based on tests performed by experts.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>A copy of the child's birth certificate, if born in the State of Wisconsin, to indicate the existence of any name inserted as the child's father and the date on which insertion occurred.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Evidence offered by the alleged father that another identified man who is not subject to the Court's jurisdiction had sexual intercourse with the mother may be admitted only after the alleged father has submitted to the ordered genetic tests.</text>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Judgment of paternity after failure to appear. If a respondent is the alleged father and fails to appear at any time not waived by the Court, the Court may, if there is no good cause to contrary, enter an order adjudicating the respondent to be the father and enter appropriate orders for support, legal custody and physical placement, which shall be served on the respondent or mailed by registered or certified mail to his last known address. Such order shall take effect 30 days after service unless, with that time, the respondent presents to the Court evidence of good cause for his failure to appear or to undergo a genetic test.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Reopening default judgment of paternity. A default judgment adjudicating a person to be the father of a child may be reopened upon petition for good cause shown.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Genetic tests in paternity actions. Any genetic test ordered by the Court in a paternity action is subject to this section. A genetic test must be ordered in any action in which the petitioner is an adult and seeks to establish the identity of his/her father.</text>
+        <para>
+          <num>(1)</num>
+          <text>Persons to be tested. The Court may, and upon request of any party shall, require the child, mother, any male for whom there is probable cause to believe that he had sexual intercourse with the mother during a possible time for the child's conception, or any male witness who will testify or testifies as to his sexual relations with the mother to submit to genetic tests. Probable cause may be established by the petition of an affidavit from the child's mother or after examination under oath of a complainant or witness.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Genetic test administration and evidence. Any ordered genetic test shall be performed by an expert qualified as an examiner of genetic markers present on blood cells and components appointed by the Court. A report completed and certified by the expert stating genetic test results and the statistical probability of the alleged father's paternity based upon the genetic tests is admissible as evidence without expert testimony and may be entered into the record at any hearing if, at least 10 days prior to the hearing, the party offering the report files it with the Court, with notice to the other parties.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Genetic test results; presumption. If the ordered genetic tests show that the alleged father is not excluded and that the statistical probability of the alleged father's paternity is 99.0% or greater, the alleged father is rebuttably presumed to be the child's parent.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Genetic test exclusion. Whenever the results of the genetic tests exclude the alleged father as the father of the child, this evidence shall be conclusive evidence of nonpaternity, and the Court shall dismiss the action. Whenever the results of the tests exclude any male witness from possible paternity, the tests shall be conclusive evidence of nonpaternity of the male witness.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Costs of genetic tests. The fees and costs of genetic tests shall be paid by the Child Support Agency, which may seek federal reimbursement through the Wisconsin Department of Workforce Development, Menominee County, or from either the mother or father, if one or both have sufficient resources to pay the costs of genetic test. Fees and costs of such tests shall be paid by the child seeking to establish the identity of his/her father when such child is 18 years of age or older.</text>
+        </para>
+      </para>
+      <para>
+        <num>O.</num>
+        <text>Judgment of paternity. The judgment or order of the Court determining the existence or nonexistence of paternity is determinative for all purposes. If paternity is found to exist, the order may contain any other provision appropriate, including the duty of support, the legal custody and guardianship of the child, periods of physical placement, or any other matter in the best interests of the child. Unless the Court specifically orders otherwise, the mother shall have sole legal custody of the child. Any order of support shall comply with the provisions of <cite path="§368-12">§ 368-12</cite> of <cite path="|II|368|III">this article</cite>.</text>
+      </para>
+      <para>
+        <num>P.</num>
+        <text>Confidentiality. Upon the request of any interested party, the Tribal Court proceedings and records under this section shall be closed to the public.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Harboring Children [Adopted 7-28-1988 by Ord. No. 88-9]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-15</num>
+      <heading>Prohibited acts.</heading>
+      <text>Any person who knowingly harbors, hides, secrets, shelters or otherwise keeps a juvenile away from the parental or legal guardian's home without that parent's or legal guardian's permission shall be found guilty of harboring juveniles.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-16</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person found guilty of harboring juveniles shall be assessed a fine not to exceed $1,000 or imprisoned not to exceed 90 days, or both.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|V">
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Abuse of Individuals at Risk</heading>
+    <annotations>
+      <annotation type="History">Adopted 3-1-1990 by Ord. No. 89-26; amended in its entirety 12-18-2008</annotation>
+    </annotations>
+    <section cache:ref-path="II|§368-17">
+      <prefix>§</prefix>
+      <num>368-17</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|V">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>ABUSE — Physical abuse, emotional abuse, sexual abuse, treatment without consent, unreasonable confinement or restraint, financial exploitation, or deprivation of a basic need for food, shelter, clothing or personal or health care, including deprivation resulting from the failure to provide or arrange for a basic need by a person who has assumed responsibility for meeting the need voluntarily or by contract, agreement or court order.</text>
+      <text>ADULT AT RISK — Any person age 18 or older who has a physical or mental condition that substantially impairs his or her ability to care for his or her needs and who has experienced, is currently experiencing, or is at risk of experiencing abuse, neglect, self-neglect, or financial exploitation.</text>
+      <text>ELDER ADULT AT RISK — Any person age 55 or older who has experienced, is currently experiencing, or is at risk of experiencing abuse, neglect, self-neglect, or financial exploitation.</text>
+      <text>EMOTIONAL ABUSE — Language or behavior that serves no legitimate purpose and is intended to be intimidating, humiliating, threatening, frightening, or otherwise harassing and that does or reasonably could intimidate, humiliate, threaten, frighten, or otherwise harass the individual to whom the conduct or language is directed.</text>
+      <text>FINANCIAL EXPLOITATION — Any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Obtaining an individual's money or property by deceiving or enticing the individual or by forcing, compelling, or coercing the individual to give, sell at less than fair market value, or in other ways convey money or property against his or her will without his or her informed consent.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Theft as defined by the Menominee Tribal Judiciary and Law and Order Code adopting 25 CFR 11.42, Theft.<fn path="|II|§368-17|footnotes|4">4</fn></text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Unauthorized use of an individual's personal identifying information or documents.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Forgery as defined by <cite path="|II|290">Chapter 290</cite>, Article XVIII, Theft, Embezzlement, Fraud and Forgery, of this Code.</text>
+        <text>INDIVIDUAL AT RISK — Either an elder adult at risk or an adult at risk.</text>
+        <text>INFIRMITIES OF AGING — Organic brain damage caused by advanced age or other physical degeneration in connection therewith to the extent that the person so afflicted is substantially impaired in his ability to adequately provide for his own care or custody.</text>
+        <text>INTENTIONALLY — An act or failure to act that does result in subjecting an individual at risk to abuse, or an act or failure to act that could have been reasonably expected to subject an individual at risk to abuse.</text>
+        <text>MENTAL ILLNESS — Mental disease to the extent that an afflicted person requires care, treatment or custody for his or her own welfare or the welfare of others or of the community.</text>
+        <text>NEGLIGENTLY — The failure to exercise the standard of care that a reasonably prudent person would have exercised in a similar situation to protect others against an unreasonable risk of harm.</text>
+        <text>OTHER LIKE INCAPACITIES — Those conditions incurred at any age which are the result of accident, organic brain damage, mental or physical disability or continued consumption or absorption of substances, producing a condition which substantially impairs an individual from adequately providing for his own care or custody.</text>
+        <text>PHYSICAL ABUSE — The intentional or reckless infliction of bodily harm.</text>
+        <text>RECKLESSLY — Conduct that creates a situation of unreasonable risk of harm and demonstrates a conscious disregard for the safety of an individual at risk.</text>
+        <text>SEXUAL ABUSE — A violation of <cite path="|II|290">Chapter 290</cite>, Article XV, Sexual Assault, of this Code.</text>
+        <text>TREATMENT WITHOUT CONSENT — Any medical care that is given, or not given, to an individual at risk patient, without the permission of the individual at risk patient, if the individual at risk patient is able to make a decision regarding his/her own medical care. "Treatment without consent" does not include situations where medical treatment decisions are made on behalf of an individual at risk by a legal guardian, person appointed in a living will, or a person appointed power of attorney for health care who is acting within the scope of his/her duties.</text>
+      </para>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-18</num>
+      <heading>Abuse prohibited.</heading>
+      <text>It shall be a crime under Menominee tribal law for any person to do any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Intentionally subject an individual at risk to abuse.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Recklessly subject an individual at risk to abuse.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Negligently subject an individual at risk to abuse.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-19</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Indian Tribe hereby establishes the following penalties, per count:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person who violates <cite path="§368-18|A">§ 368-18A</cite>, B or C who causes great bodily harm shall be sentenced by the Court to a jail term not less than eight months nor more than one year in jail plus a fine not less than $1,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who violates <cite path="§368-18|A">§ 368-18A</cite>, B or C under circumstances that are likely to cause great bodily harm shall be sentenced by the Court to a jail term not less than six months nor more than one year in jail plus a fine not less than $1,000 nor more than $2,500.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who violates <cite path="§368-18|A">§ 368-18A</cite>, B or C who causes bodily harm shall be sentenced by the Court to a jail term not less than four months nor more than eight months in jail plus a fine not less than $500 nor more than $1,500.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who violates <cite path="§368-18|A">§ 368-18A</cite>, B or C under circumstances that are likely to cause bodily harm shall be sentenced by the Court to a jail term not less than two months nor more than six months in jail plus a fine not less than $250 nor more than $1,000.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any person who violates <cite path="§368-18|A">§ 368-18A</cite> under circumstances that cause an intentional financial exploitation of an individual at risk shall be sentenced by the Court to a jail term not less than four months nor more than one year and a fine not less than $1,000 nor more than $5,000, plus restitution for any loss of property, money or other financial interest arising out of the financial exploitation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to the penalties listed above, the Court shall order restitution, if any, for damage(s) to the victim(s).</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court may, in its discretion, stay 1/2 of the jail term to a period of probation with appropriate conditions, not exceeding one year.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|VI">
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Compulsory School Attendance [Adopted 12-6-1990 by Ord. No. 90-12]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-20</num>
+      <heading>Findings.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Menominee Tribal Legislature has learned that Tribal Ordinance No. 81-29, as amended, Compulsory School Attendance, has been challenged in the Tribal Court and Tribal Supreme Court on the constitutionality of all of its provisions. This leaves the Menominee Nation, the Menominee Indian School District and the various enforcement agencies of the Reservation without any mechanism to control or enforce regular school attendance of school age children on the Menominee Indian Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Menominee Tribal Legislature/Tribe has always placed the importance of an education for our school age children by requiring their regular attendance in elementary and secondary schools and places the age limit of 18 years of age for compulsory school attendance.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§368-21">
+      <prefix>§</prefix>
+      <num>368-21</num>
+      <heading>Adoption of statute.</heading>
+      <text>Pursuant to the Bylaws of the Menominee Constitution, Article II, Section 2, <cite path="§368-21|(i)">Subsection (i)</cite>, <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, Compulsory school attendance, and any amendments or references to other provisions of the Wisconsin Statutes which may be adopted into law from time to time, attached hereto and incorporated herein, is enacted into Menominee law. Where the term "school attendance officer" appears in <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, it shall be construed to include any police school liaison officer or any other duly authorized law enforcement person.</text>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 10-3-2002<fn proof="needed" path="|II|§368-21|footnotes|5">5</fn></annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-22</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be a violation for any parent, person or student to violate the provisions of <cite path="|II|368|VI">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Tribal Court shall have broad discretion in determining any other sentencing alternatives for the violation of <cite path="|II|368|VI">this article</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Other than the specific remedies outlined by the provisions of <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, the Court may include but is not limited to considering:</text>
+        <para>
+          <num>(1)</num>
+          <text>The suspension of any driving privileges;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fines or forfeitures;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Alcohol or drug counseling;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Supervised work programs;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Uncompensated community service; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The utilization of any tribal, state, county, or federal programs for services to promote the rehabilitation of the child.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§368-23">
+      <prefix>§</prefix>
+      <num>368-23</num>
+      <heading>Copy on file.<fn proof="needed" path="|II|§368-23|footnotes|6">6</fn></heading>
+      <text>Copies of the attached incorporated <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, as adopted into Menominee law are available for inspection at the office of the Tribal Chairperson, Tribal Courts, or the Administrative Offices of the Menominee Indian School District.</text>
+      <footnotes>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|VII">
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Domestic Violence</heading>
+    <annotations>
+      <annotation type="History">Adopted 10-14-1993 by Ord. No. 93-21; amended in its entirety 5-1-2008</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>368-24</num>
+      <heading>Purpose.</heading>
+      <text>The Menominee Indian Tribe of Wisconsin, recognizing the fact that domestic violence is not a part of our traditional values and culture, enacts <cite path="|II|368|VII">this article</cite> for the purpose of combating domestic violence on the Menominee Indian Reservation. <cite path="|II|368|VII">This article</cite> is both a penalty enhancer which attaches to an underlying crime committed under domestic violence conditions and designed to provide increased protections for the victims.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-25</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|368|VII">This article</cite> shall be titled "Domestic Violence."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-26</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|VII">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>DATING RELATIONSHIP — A romantic or intimate social relationship between two individuals 17 years of age or older, but "dating relationship" does not include a casual relationship or an ordinary fraternization between two individuals in a business or social context. A court shall determine if a dating relationship existed by considering the length of the relationship, the type of the relationship, and the frequency of the interaction between the individuals involved in the relationship.</text>
+      <text>DOMESTIC VIOLENCE or DOMESTIC ABUSE — Any one or more of the following engaged in by a person 17 or older against his or her spouse or former spouse, against a person 17 or older whom the person resides with or formerly resided with, against a person 17 or older whom the person has created a child with or against a person age 17 and older whom the individual has been involved with in an intimate or dating relationship:</text>
+      <para>
+        <num>A.</num>
+        <text>Intentional infliction of physical pain, physical injury, or illness.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Intentional impairment of physical condition.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any action and/or statement that may cause the other person reasonably to fear imminent engagement in the conduct described in this section.</text>
+        <text>FIREARM — A weapon that acts by force of gunpowder to fire a projectile, regardless of whether it is inoperable due to disassembly, and includes but is not limited to any rifle, shotgun, or handgun.</text>
+        <text>HANDGUN — Any weapon designed or redesigned, or made or remade, and intended to be fired while held in one hand and to use the energy of an explosive to expel a projectile through a smooth or rifled bore.</text>
+        <text>LAW ENFORCEMENT OFFICER — Any member of the Menominee Tribal Police Department, the Menominee Tribal Conservation Warden, or other bona fide peace officer acting within his official capacity.</text>
+        <text>PREDOMINATE AGGRESSOR — In a domestic violence incident, when the responding law enforcement officer receives complaints from two or more opposing persons, the officer shall use the following factors to evaluate each complaint separately and determine who the predominate aggressor is: the injuries to the parties involved, the presence of defensive injuries to the parties involved, past history of domestic abuse by either party, the severity of harm/violence in the incident, and the difference in power maintained by either party during the incident.</text>
+        <text>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
+        <text>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth or rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-27</num>
+      <heading>Circumstances requiring arrest.</heading>
+      <para>
+        <num>A.</num>
+        <text>Law enforcement officers shall arrest the apparent predominate aggressor involved in an incident of domestic violence if the law enforcement officer has:</text>
+        <para>
+          <num>(1)</num>
+          <text>Reasonable suspicion that the person has committed domestic violence; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Probable cause to believe that the person's actions constitute violation of a criminal ordinance and any one or more of the following circumstances are present:</text>
+          <para>
+            <num>(a)</num>
+            <text>The law enforcement officer has a reasonable belief that continued domestic violence against the alleged victim is likely;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Evidence exists of physical injury to the victim; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Evidence exists of damage or disruption to physical property at the scene of the domestic violence.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Law enforcement officers will avoid multiple arrests and arrest only the predominate aggressor unless there is probable cause to arrest multiple persons.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Law enforcement officers shall notify the on-call domestic violence advocate immediately once an arrest is made under <cite path="|II|368|VII">this article</cite> and the scene is secure.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If children are present during the domestic violence episode at which both parents or legal guardians are arrested, the Menominee County Department of Human Services will be contacted immediately.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Upon arrest for any crime under domestic violence conditions which involved the use of or threatened use of a firearm, law enforcement shall confiscate any and all firearms and ammunition on the suspect's person or in the suspect's vehicle or residence. The firearms and ammunition will remain in the custody of law enforcement pending the outcome of the criminal case. The firearm and ammunition will be returned to the accused if found not guilty of committing the crime(s) as charged. If the accused is found guilty, the Court will order the firearm(s) sold at public auction with the proceeds deposited with the Menominee Indian Tribe of Wisconsin.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-28</num>
+      <heading>Report required when no arrest takes place.</heading>
+      <para>
+        <num>A.</num>
+        <text>If a law enforcement officer does not make an arrest under <cite path="|II|368|VII">this article</cite> when the officer has reasonable grounds to believe that a person is committing or has committed domestic violence and the person's acts constitute a violation of a criminal ordinance, the law enforcement officer shall prepare a written report stating why the person was not arrested. The report shall be sent to the Tribal Prosecutor's office within 24 hours of the report of the incident to law enforcement. The Tribal Prosecutor shall review the report to determine whether the person involved in the incident should be charged with the commission of a crime.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the Prosecutor finds in the officer's report that sufficient evidence exists suggesting that the commission of a crime under domestic violence conditions did take place, the Prosecutor may issue a motion with a supporting affidavit to the Court requesting an arrest warrant on the person(s) believed to have committed the crime.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-29</num>
+      <heading>Incarceration procedure.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person arrested pursuant to <cite path="|II|368|VII">this article</cite> shall be held in jail for a period not to exceed 36 hours, excluding Saturdays, Sundays, official holidays and court closings.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A jailed party can be released from jail if the accused agrees to apply for and comply with a judge's order restraining him or her from interfering with the other party. The restraining order shall be in effect for the following time periods:</text>
+        <para>
+          <num>(1)</num>
+          <text>Until a Menominee Tribal Judge vacates or modifies said order.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A hearing before a Tribal Judge on said restraining order shall be had within 10 days of its issuance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A Tribal Judge may issue a permanent restraining order for a maximum period of time not to exceed five years and for a minimum period of time not less than one year unless the victim requests a shorter period of time.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-30</num>
+      <heading>Fee for restraining order.</heading>
+      <text>The fee for obtaining a restraining order under <cite path="§368-29|B">§ 368-29B</cite> shall be waived by the Court or assessed to the accused.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-31</num>
+      <heading>Penalties for violation of restraining order.</heading>
+      <text>The penalties for violating the provisions of a restraining order imposed as a result of an action arising out of <cite path="|II|368|VII">this article</cite> shall be in accordance with <cite path="|II|290">Chapter 290</cite>, Article VI, Harassment, <cite path="§290-20">§ 290-20</cite>, Violations and penalties, of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-32</num>
+      <heading>Notification of on-call domestic violence advocate.</heading>
+      <text>The Menominee tribal jail shall notify the on-call domestic violence advocate prior to the release of any person arrested under <cite path="|II|368|VII">this article</cite>. The on-call advocate shall make reasonable outreach to the victim as soon as he or she is notified of the release of the person arrested in order to assess the safety of the victim and children and provide emergency shelter if needed.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-33</num>
+      <heading>Required treatment.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person convicted of a crime under domestic violence conditions shall submit to a domestic violence abuser assessment performed by a batterer's treatment provider utilizing Menominee Batterers Treatment Standards or certified by Wisconsin Batterers Treatment Provider Association within 15 business days of his conviction or release from jail unless ordered earlier by the Court and follow all recommendations for batterer's treatment. A person convicted of a crime under domestic violence conditions may also be required, if alcohol or drugs were a contributing factor in the incident, to submit to an alcohol or drug addiction assessment and follow all recommendations of the assessment. The Menominee Batterer's Treatment Standards will be approved through the process of general policies as per <cite path="§98-7">§ 98-7</cite>B(1) (b). <strong>[Amended 5-17-2018 by Ord. No. 18-12]</strong></text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person convicted of any crime under domestic violence conditions shall be ordered not to interfere with and shall cooperate with any counseling or mental health treatment sought out by the victim in relation to the domestic violence. The entire uninsured costs of any such counseling or mental health treatment related to the domestic violence shall be the responsibility of the person convicted.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A person convicted of any crime under domestic violence conditions shall be ordered to obtain counseling or mental health treatment for his or her children in relation to the family and domestic violence, except where an underlying Family Court order or protective order/injunction does not permit the defendant to have contact with the children or make decisions regarding such counseling or treatment. The person convicted shall not interfere with and shall cooperate with all appointments and recommendations of the mental health professional. The entire uninsured costs of any such counseling or mental health treatment related to the domestic violence shall be the responsibility of the person convicted, whether such counseling is arranged by the defendant or the victim.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-34</num>
+      <heading>Penalty enhancers.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person convicted of battery under domestic violence conditions shall be sentenced to 12 months in jail with a minimum of six months imposed and the remainder stayed to probation under the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>The victim was pregnant at the time of the battery and the perpetrator knew the victim was pregnant; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The battery incident occurred in the presence of anyone under the age of 17.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person convicted for a third or subsequent battery offense under domestic violence conditions shall be sentenced to a minimum of three months in jail which must be imposed and not stayed to probation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-35</num>
+      <heading>Firearms prohibition.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be unlawful for any person who has been convicted in Tribal Court of battery under domestic violence conditions, assault with the threatened use of a firearm under domestic violence conditions, or a third conviction or more for any crime under domestic violence conditions to ship, receive, possess, conceal, store, barter, sell, dispose of or transfer in any way, except in surrendering to law enforcement, any firearm or ammunition for a period of three years to life from the date of conviction.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The length of the firearms prohibition shall be determined by the Court and may be from a minimum of three years to a maximum of a lifetime. The length of the firearms prohibition shall be included within the sentencing order of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court shall consider the following factors in determining the length of the firearms prohibition:</text>
+        <para>
+          <num>(1)</num>
+          <text>Whether a firearm was used or threatened to be used in the underlying conviction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prior criminal convictions in tribal, state, or federal court for other violent crimes or firearms convictions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>History of homicide threats towards the victim(s) or family and friends of the victim(s) or suicide threats.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>History of mental illness and the defendant's compliance or noncompliance with the treatment protocol of the treating physician or licensed mental health professional.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Documentation of the use of alcohol or illicit drugs during criminal activity.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>History of compliance or noncompliance with Court-ordered counseling and treatment and probation.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Severity of the injury to the victim in the underlying conviction.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Information contained within a pre-sentence investigation, if any.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any other factors which the Court deems relevant to such determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Defendants subject to the firearms prohibition may motion the Court to reduce or remove the firearms prohibition, for the purpose of hunting only, with proof of successful completion of all sentencing terms and rehabilitative programs. The Court will consider all of the factors in <cite path="§368-35|C">Subsection C</cite> when making its decision.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|VIII">
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Prescription of Contraceptives to Minors [Adopted 10-31-1994 by Ord. No. 94-19]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-36</num>
+      <heading>Title.</heading>
+      <text><cite path="|II|368|VIII">This article</cite> shall be titled "Limitation of Liability for Prescription of Contraceptives to Minors."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-37</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|VIII">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>CONTRACEPTIVE — Any drug, medicine, mixture, preparation, instrument, article or device of any nature used or intended or represented to be used to prevent a pregnancy. Contraceptives include but are not limited to all foams, barriers, spermacides and hormonal methods. The hormonal methods include but are not limited to oral contraceptives, injectables (e.g., Depo-Provera®), and implantables (e.g., Norplant®).</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-38</num>
+      <heading>Prescription; insertion of contraceptives.</heading>
+      <text>A physician with privileges to practice at the Menominee Tribal Clinic or other licensed physicians may examine, insert, counsel and prescribe contraceptives to minor children without the consent of the minor's parents or guardian.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-39</num>
+      <heading>Limitation of liability.</heading>
+      <text>A physician shall not incur any civil or criminal liability for prescribing contraceptives, inserting contraceptives or performing minor surgery in the case of a contraceptive placed under the skin (e.g., Norplant®) for reason of lack of consent of the minor's parents or guardian. In the case of a contraceptive placed under the skin (e.g., Norplant®), this limitation of liability shall only apply to children 16 years of age or older.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|IX">
+    <prefix>Article</prefix>
+    <num>IX</num>
+    <heading>Child Neglect</heading>
+    <annotations>
+      <annotation type="History">Adopted 8-5-1999 by Ord. No. 99-15</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>368-40</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the preservation of tribal welfare, peace and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-41</num>
+      <heading>Purpose.</heading>
+      <text>The Menominee Tribal Legislature has determined that individuals responsible for a child's welfare should be held criminally liable when their acts or failure to act intentionally contributes to the neglect of a child or places the child in probable danger of neglect.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§368-42">
+      <prefix>§</prefix>
+      <num>368-42</num>
+      <heading>Definitions.</heading>
+      <text>In <cite path="|II|368|IX">this article</cite>, the following words and phrases have the designated meanings, unless the context of a specific section manifestly requires a different construction:</text>
+      <text>CHILD — A person who has not attained the age of 18 years.</text>
+      <text>CHILD CARING INSTITUTION — A facility operated and licensed by the Tribe or child welfare agency under <cite doc="Wis. Stat." path="§48.60">§ 48.60, Wis. Stats.</cite>, for the care and maintenance of children residing in that facility.</text>
+      <text>FOSTER HOME — Any facility operated by a person required to be licensed by the Tribe or by <cite doc="Wis. Stat." path="§48.62|(1)|(a)">§ 48.62(1)(a), Wis. Stats.</cite>, and that provides care and maintenance for no more than four children unless all of the children are siblings.</text>
+      <text>GROUP HOME — Any facility operated by a person required to be licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.625">§ 48.625, Wis. Stats.</cite>, for the care and maintenance of five to eight children.<fn path="|II|§368-42|footnotes|7">7</fn></text>
+      <text>NEGLECT — Includes but not limited to negligent treatment, care or supervision of a child, by a person responsible for the child's welfare, under circumstances which indicate that the child's health or welfare is harmed or threatened for reasons other than poverty.</text>
+      <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
+      <text>SHELTER CARE FACILITY — A nonsecure place of temporary care and physical custody for children, including a holdover room, licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.66|(1)">§ 48.66(1), Wis. Stats.</cite><fn path="|II|§368-42|footnotes|8">8</fn></text>
+      <text>TREATMENT FOSTER HOME — Any facility that is operated by a person required to be licensed by the Tribe or <cite doc="Wis. Stat." path="§48.62|(1)|(b)">§ 48.62(1)(b), Wis. Stats.</cite>, that is operated under the supervision of the Wisconsin Department of Children and Families, a county department, a licensed child welfare agency or the Menominee Department of Social Services and that provides to no more than four children care, maintenance and structured, professional treatment by trained individuals, including the treatment foster parents.<fn path="|II|§368-42|footnotes|9">9</fn></text>
+      <footnotes>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-43</num>
+      <heading>Violations and penalties.</heading>
+      <text>Any person who is responsible for a child's welfare who, through his actions or failure to take action, intentionally contributes to the neglect of the child is guilty of a crime punishable pursuant to <cite path="§368-43|A">Subsection A</cite> or B; if the death of a child occurs through neglect and guilt is found, the crime is punishable pursuant to Subsection C:</text>
+      <para>
+        <num>A.</num>
+        <text>A fine of not less than $250 nor more than $1,000 or a jail term not to exceed six months, or both.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Court may, in its discretion, stay any part of a jail term or fine to a period of probation not exceeding one year.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A fine of not less than $1,000 nor more than $5,000 or a jail term not to exceed one year, or both.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|X">
+    <prefix>Article</prefix>
+    <num>X</num>
+    <heading>Physical Abuse of a Child [Adopted 9-2-1999 by Ord. No. 99-18]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-44</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the preservation of tribal welfare, peace, and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-45</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|X">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>BODILY HARM — Physical pain or injury, illness or any impairment of physical condition.</text>
+      <text>GREAT BODILY HARM — Bodily injury which creates a substantial risk of death or which causes serious permanent disfigurement or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.</text>
+      <text>PARENT — Either a biological parent, person adjudicated to be the biological parent or a parent by adoption.</text>
+      <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
+      <text>RECKLESSLY — Conduct which creates a situation of unreasonable risk of harm and demonstrates conscious disregard for safety of a child.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-46</num>
+      <heading>Intentional causation of bodily harm.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever intentionally causes great bodily harm to a child is guilty of the crime of first degree child abuse.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whoever intentionally causes bodily harm to a child by conduct which creates a high probability of great bodily harm is guilty of the crime of second degree child abuse.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whoever intentionally causes bodily harm to a child is guilty of the crime of third degree child abuse.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-47</num>
+      <heading>Reckless causation of bodily harm.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever recklessly causes great bodily harm to a child is guilty of the crime of second degree child abuse.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whoever recklessly causes bodily harm to a child by conduct which creates a high probability of great bodily harm is guilty of the crime of third degree child abuse.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whoever recklessly causes bodily harm to a child is guilty of the crime of fourth degree child abuse.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-48</num>
+      <heading>Failure to act to prevent bodily harm.</heading>
+      <para>
+        <num>A.</num>
+        <text>A person responsible for the child's welfare who has knowledge that another person intends to cause, is causing, or has intentionally or recklessly caused great bodily harm to the child and is physically and emotionally capable of taking action which will prevent the bodily harm from occurring or being repeated and fails to take that action and the failure to act exposes the child to unreasonable risk of great bodily harm or facilitates great bodily harm is guilty of the crime of second degree child abuse.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person responsible for the child's welfare who has knowledge that another person intends to cause, is causing, or has intentionally or recklessly caused bodily harm to the child and is physically and emotionally capable of taking action which will prevent the bodily harm from occurring or being repeated and fails to take that action and the failure to act exposes the child to unreasonable risk of bodily harm or facilitates the bodily harm is guilty of the crime of third degree child abuse.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-49</num>
+      <heading>Conditional right of parents to discipline.</heading>
+      <para>
+        <num>A.</num>
+        <text>A lawful parent of a child does not violate <cite path="|II|368|X">this article</cite> if that parent uses reasonable physical discipline and that discipline does not cause scarring, burning, serious bruising, welting, or physical injury.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A spanking on the buttocks with an open hand does not violate <cite path="|II|368|X">this article</cite> if reasonable force is used, appropriate with the age of the child, and the discipline does not cause injuries as defined above.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-50</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon conviction, the Court shall impose the following penalties:</text>
+        <para>
+          <num>(1)</num>
+          <text>First degree child abuse: a jail term of not less than eight months nor more than one year and a fine not less than $1,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second degree child abuse: a jail term of not less than four months nor more than six months and a fine not less than $500 nor more than $2,500.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Third degree child abuse: a jail term of not less than two months nor more than three months and a fine not less than $250 nor more than $1,500.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fourth degree child abuse: a jail term of not less than 30 days nor more than two months and a fine not less than $150 nor more than $1,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalty enhancement; abuse by certain persons. If a person violates <cite path="§368-46">§ 368-46</cite>, 368-47 or 368-48 and the person is responsible for the welfare of the child who is the victim of the violations, the maximum term of jail may be increased by not more than one year plus a fine not to exceed $5,000.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Court may, in its discretion, stay any part of a jail term or fine to a period of probation with appropriate conditions not exceeding one year.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|XI">
+    <prefix>Article</prefix>
+    <num>XI</num>
+    <heading>Sexual Assault of a Child</heading>
+    <annotations>
+      <annotation type="History">Adopted 9-2-1999 by Ord. No. 99-19; amended in its entirety 1-8-2009</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>368-51</num>
+      <heading>Authority.</heading>
+      <text>The Menominee Tribal Legislature is empowered by the Menominee Constitution and Bylaws to enact ordinances for the preservation of tribal welfare, peace, and safety.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-52</num>
+      <heading>Purpose.</heading>
+      <text>The prohibitions and penalties of <cite path="|II|368|XI">this article</cite> are in addition to the prohibitions and penalties defined within <cite path="|II|290">Chapter 290</cite>, Article XV, Sexual Assault, of this Code.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-53</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|XI">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
+      <text>SEXUAL CONTACT — Any of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Intentional touching by the defendant either directly or through clothing by the use of any body part or object of the child's or defendant's intimate parts if that intentional touching is either for the purpose of sexually degrading or for the purpose of sexually humiliating the child or sexually arousing or gratifying the defendant.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Intentional penile ejaculation of ejaculate or intentional emission of urine or feces by the defendant upon any part of the body, clothed or unclothed, of the child, if that ejaculation or emission is either for the purpose of sexually degrading or sexually humiliating the complainant or for the purpose of sexually arousing or gratifying the defendant.</text>
+        <text>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-54</num>
+      <heading>Sexual assault of a child.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whoever has sexual contact or sexual intercourse with a person who has not attained the age of 14 years is guilty of the crime of first degree sexual assault of a child.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whoever has sexual contact or sexual intercourse with a person who has not attained the age of 16 years is guilty of the crime of second degree sexual assault of a child.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whoever has at least attained the age of 18 years and has sexual contact or sexual intercourse with a person who has attained the age of 16 years but has not attained the age of 18 years is guilty of the crime of third degree sexual assault of a child.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Whoever has sexual contact with a person under the age of 18 years is guilty of the crime of fourth degree sexual assault of a child.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-55</num>
+      <heading>Failure to act to prevent sexual assault of a child.</heading>
+      <text>A person responsible for the welfare for a child who has not attained the age of 16 years is guilty of failure to act to prevent sexual assault of a child if that person has knowledge that another person intends to have, is having or has had sexual intercourse or sexual contact with the child, is physically and emotionally capable of taking action which will prevent the intercourse or contact from taking place or being repeated, fails to take that action and the failure to act exposes the child to an unreasonable risk that intercourse or contact may occur between the child and the other person or facilitates the intercourse or contact that does occur between the child and the other person.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-56</num>
+      <heading>Marriage not a bar to prosecution.</heading>
+      <text>A defendant shall not be presumed to be incapable of violating <cite path="|II|368|XI">this article</cite> because of marriage to the complainant.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-57</num>
+      <heading>HIV testing requirement.</heading>
+      <text>Upon request by a victim, the Court may order the following:</text>
+      <para>
+        <num>A.</num>
+        <text>To administer to a defendant, against whom an information or criminal complaint is presented for a crime in which the perpetrator compels the victim to engage in sexual activity, testing for the immunodeficiency virus (HIV) not later than 48 hours after the date on which the information or criminal complaint is presented.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As soon as practicable, notification to the victim, or parent and guardian of the victim, and defendant of the testing results; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Follow-up tests for HIV as may be medically appropriate, and that as soon as practicable after each such test the results be made available to the victim, or parent and guardian of the victim, and the defendant.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-58</num>
+      <heading>Violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Upon conviction, the Court shall impose the following penalties:</text>
+        <para>
+          <num>(1)</num>
+          <text>First degree sexual assault of a child: a jail term of one year and a fine of $5,000.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Second degree sexual assault of a child: a jail term of not less than 10 months nor more than one year and a fine of not less than $4,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Third degree sexual assault of a child: a jail term of not less than eight months nor more than one year and a fine of not less than $3,000 nor more than $5,000.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Fourth degree sexual assault of a child: a jail term of not less than six months nor more than nine months and a fine of not less than $1,000 nor more than $3,000.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Failure to act to prevent sexual assault of a child: a jail term of not less than four months nor more than six months and a fine of not less than $500 nor more than $2,500</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Penalty enhancement; sexual assault by certain persons. If the person who assaults the child is responsible for the welfare of the child who is assaulted the jail term shall be increased to a jail term of one year and a fine of $5,000.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>In addition to the penalties listed above, if a person is convicted of a sexual assault crime under <cite path="|II|368|XI">this article</cite>, the person shall be required to complete a sex offender treatment program.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If a victim of a sexual assault crime under <cite path="|II|368|XI">this article</cite> seeks counseling or mental health treatment, the entire uninsured costs of any such counseling or mental health treatment related to the sexual assault shall be the responsibility of the person convicted.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Court may, in its discretion, stay 1/2 of the jail term to a period of probation with appropriate conditions; however, the convicted defendant must actually serve 1/2 of the jail term before he or she is eligible for probation.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-59</num>
+      <heading>Sex offender registration.</heading>
+      <text>Any person convicted of first, second, or third degree sexual assault under <cite path="|II|368|XI">this article</cite> shall comply with all rules of <cite path="|II|290">Chapter 290</cite>, Article XVI, Sex Offender Registration, of this Code.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|XII">
+    <prefix>Article</prefix>
+    <num>XII</num>
+    <heading>Communicable Diseases [Adopted 11-22-2004 by Ord. No. 04-40]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-60</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|XII">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>COMMUNICABLE DISEASE — Any disease transmitted from one person or animal to another directly, by contact with excreta or other discharges from the body, or indirectly via substances or inanimate objects; may be bacteria, fungi, parasites, or viruses.</text>
+      <text>PUBLIC HEALTH EMERGENCY — The occurrence or imminent threat of an illness or health condition that meets all of the following criteria:</text>
+      <para>
+        <num>A.</num>
+        <text>It is believed to be caused by bioterrorism or a novel or previously controlled or eradicated biological agent.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>It poses a high probability of any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A large number of deaths or serious or long-term disability among humans.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A high probability of widespread exposure to a biological, chemical, or radiological agent that creates a significant risk of substantial future harm to a large number of people.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="II|§368-61">
+      <prefix>§</prefix>
+      <num>368-61</num>
+      <heading>Communicable diseases not covered.</heading>
+      <text><cite path="|II|368|XII">This article</cite> is not applicable to the diseases on Attachment A, Nonquarantinable Diseases.<fn path="|II|§368-61|footnotes|10">10</fn></text>
+      <footnotes>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Attachment A is included at the end of <cite path="|II|368">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-62</num>
+      <heading>Compulsory vaccination during state of emergency.</heading>
+      <text>The Community Health Nurse Services (CHNS) Director (Director) may do all of the following as necessary to address a public health emergency:</text>
+      <para>
+        <num>A.</num>
+        <text>Order any individual to receive a vaccination unless the vaccination is reasonably likely to lead to serious harm to the individual or unless the individual, for reasons of religion or conscience, refuses to obtain the vaccination.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Isolate or quarantine any individual who is unable or unwilling for reasons of religion or conscience to receive the vaccination under <cite path="§368-62|A">Subsection A</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-63</num>
+      <heading>Isolation and quarantine.</heading>
+      <para>
+        <num>A.</num>
+        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§368-62|B">§ 368-62B</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the Director suspects or is informed of the existence of any communicable disease, the Director shall at once investigate and make or cause such examinations to be made as are necessary. The diagnostic report of a physician, the notification or confirmatory report of a parent or caretaker of the patient, or a reasonable belief in the existence of a communicable disease shall require the Director immediately to quarantine, isolate, require restrictions or take other communicable disease control measures in a manner upon the persons. The Director shall consult a physician as speedily as possible where there is reasonable doubt or disagreement in diagnosis and where advice is needed. The Director shall act as necessary to protect the public.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If deemed necessary by the Director for a particular communicable disease, all persons except the Director, his or her representative, attending physicians and nurses, members of the clergy, the members of the immediate family and any other persons having a special written permit from the Director are forbidden to be in direct contact with the patient.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>In a state of emergency, no person, other than a person authorized by the Director or agent of the Director, may enter an isolation or quarantine premises.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Director shall designate the tribal police to execute his or her orders and properly guard any place if quarantine or other restrictions on communicable disease are violated or intent to violate is manifested. The tribal police shall use all necessary means to enforce the quarantine, for the prevention and control of communicable diseases, or the orders of the Director.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>When the Director deems it necessary that a person be quarantined or otherwise restricted in a separate place, the Director or designee shall remove the person, if it can be done without danger to the person's health, to such a designated place.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Expenses.</text>
+        <para>
+          <num>(1)</num>
+          <text>Expenses for necessary medical care, food and other articles needed for the care of the infected person shall be charged against the person or whoever is liable for the person's support.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Menominee Tribe/Clinic is responsible for the following costs accruing under this section unless the costs are payable through third party liability or through any benefit system:</text>
+          <para>
+            <num>(a)</num>
+            <text>The expense of employing guards under <cite path="§368-63|E">Subsection E</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The expense of maintaining quarantine and enforcing isolation of the quarantined area.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The expense of conducting examinations and tests for disease carriers made under the direction of the Director.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The expense of care for dependent persons.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Enforcement.</text>
+        <para>
+          <num>(1)</num>
+          <text>A violation of <cite path="§368-63|D">Subsection D of this section</cite> is subject to a fine not to exceed $100 or imprisonment not to exceed three months.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person, whether authorized under <cite path="§368-63|C">Subsection C</cite> or D or not, who enters an isolation or quarantine premises may be subject to isolation or quarantine under this section.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|368|XIII">
+    <prefix>Article</prefix>
+    <num>XIII</num>
+    <heading>Sex Trafficking Prevention [Adopted 9-21-2023 by Ord. No. 23-32]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>368-64</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|368|XIII">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>DEPARTMENT — Menominee Indian Tribe of Wisconsin Department of Advocacy and Support.</text>
+      <text>DESIGNATED BUSINESS — Any person, firm, corporation, tribally chartered business, limited-liability company, limited partnership, partnership that operates a gaming business, hotel or motel, or business that is licensed to sell beer or alcohol located on the Menominee Reservation.</text>
+      <text>SEX TRAFFICKING — Receiving, recruiting, enticing, harboring, providing, or obtaining by any means an individual to aid in the prostitution of the individual; or receiving profit or anything of value, knowing or having reason to know it is derived from an act described above.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-65</num>
+      <heading>Prevention training required.</heading>
+      <para>
+        <num>A.</num>
+        <text>Following initial approval of a training program pursuant to <cite path="§368-65|C">Subsection C</cite>, every Designated Business shall ensure that each employee who works on site, including but not limited to any owner, operator, or manager, receives the training described in <cite path="§368-65|C">Subsection C</cite> within the later of 90 days of the time of hire or 120 days of December 1, 2023, and annually thereafter. The operator of each Designated Business shall annually certify, in an employee roster or in each employee's personnel file, that each employee has received the training approved by the Department.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to the training required under <cite path="§368-65|A">Subsection A</cite>, the operator of each Designated Business shall conduct an ongoing awareness campaign for employees that addresses the components described in <cite path="§368-65|C">Subsection C</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No later than December 1, 2023, the Department shall, in consultation with the Menominee Tribal Police Department, approve an educational training program that focuses on the accurate and prompt identification and reporting of, or response to, suspected sex trafficking. The Department shall allow the use of existing training modules and materials, to the extent possible. Training must include, at a minimum, instruction on:</text>
+        <para>
+          <num>(1)</num>
+          <text>What sex trafficking is in order to raise awareness of it;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>How to recognize potential victims of sex trafficking;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>How to identify activities commonly associated with sex trafficking; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Effective responses to trafficking situations including, but not limited to, how to report suspected sex trafficking to proper law enforcement officials.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Each operator must post and maintain a poster, written or approved by the Department and containing information described in <cite path="§368-65|C">Subsection C</cite>, in a place readily accessible to each employee who works on site. Any cost incurred for the training program shall be the responsibility of the Designated Business.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-66</num>
+      <heading>Immunity.</heading>
+      <text>An operator or employee of a Designated Business who acts in good faith is immune from liability in any civil action for reporting suspected sex trafficking activities.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>368-67</num>
+      <heading>Enforcement and penalty.</heading>
+      <para>
+        <num>A.</num>
+        <text>When, upon inspection, it is found that the Designated Business is not in compliance with <cite path="|II|368|XIII">this article</cite>, it is the duty of the Department to notify the person in charge of the Designated Entity, or the owner or agent of the Designated Business, of the non-compliance and issue an order for correction of the violations. A reasonable time may be granted by the Department for compliance with the provisions of <cite path="|II|368|XIII">this article</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When, after a Designated Entity has received an order pursuant to Paragraph A above, and has failed to comply with said order within the period permitted for its correction stated, any owner, operator, or manager of the Designated Business may be assessed a civil penalty of not more than $100 for each day during which such failure or violation continues.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whenever the Department has reasonable cause to believe that any person has committed an act which subjects him or her to a penalty under this section, the Department shall cause a record of such alleged violation to be prepared, a copy of which shall be referred to the Tribal Prosecutor, and the Tribal Prosecutor shall, in writing, advise the Department of the disposition he shall make of the alleged violation.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>If the person committing the act subject to penalty under this section is an employee of an employer, the employer shall be jointly and severally liable with that person for all penalties imposed under <cite path="|II|368">this chapter</cite>.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

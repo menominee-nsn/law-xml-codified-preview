@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|98">
+  <prefix>Chapter</prefix>
+  <num>98</num>
+  <heading>GOVERNMENT PLAN</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-1995 by Ord. No. 95-04; amended in its entirety 9-17-2020 by Ord. No. 20-22. Subsequent amendments noted where applicable</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>98-1</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|98">This chapter</cite> shall be titled "Tribal Government Plan."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-2</num>
+      <heading>Repealer.</heading>
+      <text>Menominee Tribal Ordinance No. 79-16, titled "Tribal Government Plan," its amendments and motions thereto pertaining are hereby repealed and replaced by <cite path="|I|98">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-3</num>
+      <heading>References.</heading>
+      <text>Any reference in a law, regulation, document, paper, or other record of the Menominee Indian Tribe to the ordinance referred to in <cite path="§98-2">§ 98-2</cite> of <cite path="|I|98">this chapter</cite> shall be deemed to be a reference to <cite path="|I|98">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-4</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|98">this chapter</cite> is twofold: to provide for the administrative structure of the Tribe and to establish committees deemed appropriate to provide research, investigation and advisory assistance to the Menominee Tribal Legislature in the exercise of its power.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-5</num>
+      <heading>Authority; term of legislative committees.</heading>
+      <para>
+        <num>A.</num>
+        <text>This plan for the administration of the tribal government is adopted pursuant to Article IV, Section 7 of the Tribal Constitution and Bylaws. This plan for the establishment of community and legislative committees of the Tribal Legislature is adopted pursuant to Article IV, Section 6 and Bylaw I, Section 2 of the Constitution and Bylaws, respectively.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Legislative committees shall be established for a period of one year; provided, however, that committees shall continue to serve until the Tribal Legislature restructures such committees each year.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-6</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|98">this chapter</cite>, the following terms shall have the meanings indicated: CHAIRPERSON — The person of the Menominee Tribal Legislation.</text>
+      <text>LEGISLATURE — The Menominee Tribal Legislature, the duly elected governing body of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBAL MEMBER — Any enrolled member of the Menominee Indian Tribe of Wisconsin. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Legislative Committees</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>98-7</num>
+      <heading>Main committees.</heading>
+      <para>
+        <num>A.</num>
+        <text>Creation of committees; defining responsibility and membership. The Legislature hereby establishes the following main committees of the Legislature:</text>
+        <para>
+          <num>(1)</num>
+          <text>Housing Committee, whose responsibility shall include all matters concerning housing and people who are homeless. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Supervisor of Tribal Utilities, Land Management Director, and Housing Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Governmental Affairs Committee, whose responsibility shall include all matters concerning the governmental organization of the Tribe. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Administrator, Human Resources Director, Financial Manager, and Information Technology Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Community Development Committee, whose responsibility shall include the development of the Tribe's infrastructure and the local economy. The Committee shall have, among other responsibilities, responsibility to review and approve requests for use of tribally owned outdoor venues, and assess or waive fees related to the use of those venues. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Community Development Director, Housing Director, Transportation Director, Director of Historic Preservation, Director of Environmental Services, Land Management Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Law Enforcement Committee, whose responsibility shall include all matters concerning law enforcement. The Committee shall have, among other responsibilities, the responsibility to set Reservation-wide trick-or-treat hours. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Prosecutor, Probation Director, Conservation Director, Public Defender Director, Jail Administrator and a member of the Law Enforcement Department (for informational purposes); and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Health and Family Services Committee, whose responsibility shall include all matters concerning health and family services programming. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director of Family Services, Maehnowesekiyah Wellness Center Coordinator, Clinic Administrator, Aging and Long-Term Care Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Labor, Education and Training Committee, whose responsibility shall include all matters concerning labor, education and training programming. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director of Early Childhood Services, Tribal School Administrator/Principal, Education Director, Community Resource Center Director, and Youth Services Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Budget and Finance Committee, whose responsibility shall include the monitoring and development of the tribal budget. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Three legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Financial Manager, Tribal Administrator, Director of Lending and Tribal Tax; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Agriculture and Environmental Committee, whose responsibility shall include all matters concerning agricultural management and all forest and environmental resource concerns. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Conservation Director, Environmental Services Director, Director of Historic Preservation, the Director of Agriculture and Food Systems, an MTE Board of Director member or staff member as appointed by the MTE Board of Directors; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties of committee.</text>
+        <para>
+          <num>(1)</num>
+          <text>A committee of the Legislature may:</text>
+          <para>
+            <num>(a)</num>
+            <text>Investigate and research any issue assigned to it by the Tribal Chairperson or the Legislature;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Review and approve, without the need for legislative concurrence, general policies implemented by programs or departments within said committee's subject area, provided those policies have also been reviewed and approved for contract and tribal policy compliance by the Tribe's Administrative Committee.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Research and investigate potential funding sources for tribal programs or departments;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Report any findings to the Tribal Chairperson;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Set dates, without the need for legislative concurrence, for community-wide events sponsored by departments who report to the committee;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Recommend to the Administrative Committee the granting of administrative leave, for employees or select groups of employees, to participate in community events;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Perform any function granted to it pursuant to a tribal ordinance or policy; and</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Organize subcommittees for special tasks, subject to approval by the Tribal Legislature. Payments for subcommittee meetings shall be made in conformance with all committee payment policies at the committee payment rate, provided that scheduled meetings were approved by the Tribal Chairperson.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The committee and its members shall perform these functions in accordance with all applicable tribal and federal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Bylaws. Committees of the Legislature shall be governed by the bylaws which will identify how often the committee will meet on an annual basis.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Limitation on powers. Pursuant to Bylaw I, Section 2 of the Menominee Tribal Constitution and Bylaws, legislative committees shall only have the power to advise the Legislature. Legislative committees shall not interfere with the day-to-day management of any tribal program or department within their subject area. Legislative committees, except as provided in <cite path="§98-7|F">Subsection F</cite> below, do not have the authority to direct any employee of the Menominee Indian Tribe in regard to the performance of his or her duties.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Relationship with Tribal programs or departments. The Legislature may assign departments or programs to present matters to a certain committee first prior to bringing the matter before the entire Legislature or to report regularly to an assigned committee at such intervals prescribed by the committee chairperson. Such department or program assignments shall be reflected in the committee flowchart established pursuant to <cite path="§98-10">§ 98-10</cite> of <cite path="|I|98">this chapter</cite>. Employees of tribal programs and departments shall cooperate with all such requests unless the Tribal Chairperson determines the request to be unreasonably burdensome.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Limitation on committee membership. An employee whose position requires him/her to serve on a committee and the person is not enrolled in the Menominee Tribe may not serve on a main committee. In the event that an employee identified as a member of the committee is not enrolled with the Menominee Tribe, the Chairperson may nominate an alternate employee who is enrolled in the Tribe, or may leave the seat vacant.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Amended 7-6-2023 by Ord. No. 23-21</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-8</num>
+      <heading>Community committees.</heading>
+      <text>Pursuant to Article IV, Section 6 of the Constitution and Bylaws of the Tribe, the Legislature is authorized to establish community committees in order to determine the needs and concerns of the community to which it is assigned. Each community committee established hereunder shall be composed of three members of the Legislature. On-reservation community committees (<cite>Subsections A through E</cite> below) shall hold not fewer than four meetings per year. Off-reservation community committees (<cite>Subsections F and G</cite> below) shall hold two meetings per year. All community committee meetings shall be posted in accordance with <cite path="|I|177">Chapter 177</cite>, Posting Procedures, of this Code. The official minutes of all community committees shall be forwarded to the Legislature for action and/or consideration by the Legislature. The following community committees are hereby established:</text>
+      <para>
+        <num>A.</num>
+        <text>Keshena Community Committee;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Neopit Community Committee;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>South Branch Community Committee;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Zoar Community Committee;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Nanaweyah Ominihekan (Middle Village) Committee;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Chicago Community Committee; and</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Milwaukee Community Committee.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-9</num>
+      <heading>Joint committees.</heading>
+      <text>The Tribal Legislature may establish annually or as they deem necessary joint committees that are made up of members from the Legislature and another entity's governing body, where there are matters of joint interest. These joint committees will provide for a means of communication between the Tribe and other entities. They are established to provide research, investigating and advisory assistance to the Legislature when dealing with matters of joint interest.</text>
+      <para>
+        <num>A.</num>
+        <text>Menominee Tribal Legislature/Menominee County;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Menominee Tribal Legislature/Menominee Indian School District; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Menominee Tribal Legislature/Menominee Tribal Enterprises.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§98-10">
+      <prefix>§</prefix>
+      <num>98-10</num>
+      <heading>Official committee structure of Tribal government.</heading>
+      <text>The attached flowchart titled "MITW-Committee Flowchart" shall be the official committee flowchart of the Tribe.<fn path="|I|§98-10|footnotes|1">1</fn></text>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: The MITW-Committee Flowchart is included as an attachment to <cite path="|I|98">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Official Administrative Structure</heading>
+    <annotations>
+      <annotation type="History">Amended 2-18-2021 by Ord. No. 20-47; 6-3-2021 by Ord. No. 21-48; 9-16-2021 by Ord. No. 21-78; 4-7-2022 by Ord. No. 22-05; 6-16-2022 by Ord. No. 22-27; 9-15-2022 by Ord. No. 22-44</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>98-11</num>
+      <heading>Purpose.</heading>
+      <text>The official administrative structure of the Tribe shall consist of the following departments and teams, and each department or team shall perform those duties, fulfill those purposes, and exercise that authority assigned to it. For the purpose of this section, the term "director" includes the director, administrator, or lead officer or employee of each department, regardless of the title contained in his or her job description. The purposes of each department are only described in general terms; the full range of services offered by each department is more fully described in each department's approved proposals and budgets.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-12</num>
+      <heading>Tribal Chairperson's office.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose and duties. The office of the Tribal Chairperson shall be responsible for providing the Tribal Chairperson with those administrative support services that are necessary for him or her to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Carry out his or her duties described in the Constitution and Bylaws;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Develop the agenda for the Legislature;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Serve as the official spokesperson for the Tribe; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Perform such other duties as may be requested by the Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Authority. Notwithstanding the constitutional authority vested in the Tribal Chairperson by the Constitution and Bylaws of the Tribe, or by any ordinances or resolutions adopted by the Legislature, the Tribal Chairperson shall have the authority under this plan of government to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue proclamations; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Review and sign all contracts for alternative sources of funding (i.e., public and private sector contracts and grants), construction and consulting contracts, vehicle lease and sale contracts, and any other agreements that the Legislature may authorize the Chairperson to sign from time to time.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-13</num>
+      <heading>Administrative Committee.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Administrative Committee shall be comprised of the Tribal Administrator, Financial Manager, Chairman's Office Executive Director and Human Resources Director, with the Legal Division Director providing guidance to the Committee, and shall be responsible for utilizing a team-based approach to managing the organization, problem-solving, and conducting short- and long-term planning.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Administrative Committee shall be to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Review, revise, and/or promulgate organization-wide policies, standards, practices, and/or procedures, subject to any approval requirements of the Legislature;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue guidance to individual Administrative Committee members, the Department of Administration, or to other departments of the Tribe;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Issue reports to the Legislature or Chairperson as may be necessary or requested from time to time;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Perform such other duties as may be prescribed by this plan of government or other ordinances or resolutions of the Legislature or required of the Administrative Committee by the Chairperson;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Review general policies proposed for implementation by departments prior to those policies being reviewed and approved by main committees; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Approve the granting of administrative leave for tribal employees or select groups of tribal employees to attend community events or specific events sponsored by tribal programs.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Administrative Committee shall have the authority under this plan of government to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Develop appropriate rules of procedure with respect to the manner in which it calls and conducts its business;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Require such reports from any department which the Administrative Committee deems necessary; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Collectively issue directives to individual Administrative Committee members, and Department of Administration.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-14</num>
+      <heading>Tribal administrator.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Tribal Administrator shall be responsible for providing the Legislature and Tribal Chairperson with professional and technical advice and assistance on matters relating to the administration of government.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Tribal Administrator shall be to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enforce or implement directives or initiatives he or she has received from the Chairperson or Administrative Committee, or communicate said directives or initiatives to the Department of Administration, if appropriate;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Develop a budgetary process, including the indirect cost budget, in close consultation with the Budget and Finance Committee and Administrative Committee;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide technical and professional assistance to the Legislature, Chairperson, and Administrative Committee in the development and implementation of government-wide policies and initiatives;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Review all applications for alternative funding, including any assurances and certifications required thereunder, and review any renewing contracts or grants for alternative funding;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Review contract or grant amendments, modifications, and drawdowns and review any sales tax exemption certificates issued by the State of Wisconsin or any other state;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Develop and maintain an Administrative Policies and Procedures Manual, subject to review of the Administrative Committee and Governmental Affairs Committee and any approval requirement of the Legislature; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Receive, distribute, and deposit all official contracts and grants for alternative sources of funding.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Tribal Administrator shall have the authority under this plan of government to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sign any sales tax exemption certificates issued by the State of Wisconsin or any other state;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Delegate such authority and tasks to the Tribal Administrator's immediate, subordinate employees as may be necessary for the Tribal Administrator to carry out his or her duties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-15</num>
+      <heading>Department of finance.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Department of Finance shall be responsible for enforcing <cite path="|I|7">Chapter 7</cite>, Accounting System, of this Code, which establishes the accounting system and internal controls and authorizes that Department to develop an Accounting Procedures Manual and cause an audit of tribal accounts to be conducted annually.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The Department of Finance shall be responsible for providing the Financial Manager with those administrative and financial support services that are necessary for him or her to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enforce or implement directives or initiatives he or she has received from the Chairperson or Administrative Committee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide technical and professional assistance to the Legislature, Chairperson, and Administrative Committee in the development and implementation of government-wide policies and initiatives;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide and coordinate periodic training to directors and program managers with respect to financial administration and provide such other training as directed by the Chairperson or the Administrative Committee; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Develop and maintain an Accounting Procedures Manual, subject to review by the Administrative Committee and Governmental Affairs Committee and any approval requirements of the Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Financial Manager shall have the authority under this plan of government to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sign purchase orders, requests for payment or reimbursement, reports of expenditures, and any certifications or assurances required thereunder;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Delegate such authority and tasks to his or her assistants and employees as may be necessary for the Financial Manager to carry out his or her duties; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Implement procedures designed to safeguard the assets of the Tribe.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-16</num>
+      <heading>Human Resources Department.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Human Resources Department shall be responsible for providing recruitment and selection, benefit administration, labor relations, salary administration, training and development, and payroll services to the employees, officials, and departments of the Tribe.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Human Resources Director shall be to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enforce or implement directives or initiatives he or she has received from the Chairperson or Administrative Committee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide technical and professional assistance to the Legislature, Chairperson, and Administrative Committee in the development and implementation of government-wide policies and initiatives;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Perform individual and departmental training assessments to determine training and development needs of employees and the departments and, from the data obtained within those assessments, design and conduct training sessions in a timely manner;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Develop and maintain a Personnel Policies and Procedures Manual, subject to review of the Administrative Committee and Governmental Affairs Committee and any approval requirements of the Legislature;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Review and regularly monitor budgets and staffing plans to ensure adequacy of funding to maintain said staffing;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Call or participate in hearings or negotiations involving unemployment compensation claims and employment contracts; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Review employment applications and records to determine employee eligibility for benefits.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Human Resources Director shall have the authority to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Approve or deny unemployment compensation claims and applications for employee benefits; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Delegate such authority and tasks to his or her assistants and employees as may be necessary for the Human Resources Director to carry out his or her duties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-17</num>
+      <heading>Department of administration.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Department of Administration shall be responsible for the day-to-day supervision of department directors directly assigned to it, conduct periodic monitoring of departmental goals and objectives, and conduct periodic performance and compliance reviews to ensure that departments and programs are meeting their stated goals and objectives.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Department of Administration shall be to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enforce or implement directives or initiatives issued by the Tribal Administrator or Administrative Committee;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide technical and professional assistance to departments and communicate the directives and initiatives of the Tribe to departments and programs to assure proper compliance and implementation;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Assist the Tribal Administrator in the development of a budgetary process;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Review any sales tax exemption certificates issued by the State of Wisconsin or any other state;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Respond to funding agency inquiries;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Assist the Tribal Administrator in the development and maintenance of an Administrative Policies and Procedures Manual;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Assess the staffing, equipment, and supply needs of the departments and report those needs to the Tribal Administrator;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Monitor department implementation and compliance with directives and policies and conduct followup reviews as necessary; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Provide periodic training to directors and program managers with respect to proper contract or grant administration and provide such other training as directed by the Tribal Administrator or Administrative Committee.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Assistant Tribal Administrators shall jointly have the authority to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Issue directives to any department or program not assigned to its immediate supervision which is required for that department or program to maintain or achieve compliance with an applicable law, regulation, policy, or contractual requirement;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Sign any sales tax exemption certificates issued by the State of Wisconsin or any other state; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Delegate such authority and tasks to their assistants and employees as may be necessary for the Assistant Tribal Administrators to carry out their duties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-18</num>
+      <heading>General duties and responsibilities.</heading>
+      <text>Each director to whom this provision is made applicable shall:</text>
+      <para>
+        <num>A.</num>
+        <text>Perform, deliver, or fulfill the services, goods, or contractual requirements described in his or her annual tribal budget proposal, indirect cost proposal, contract for public or private funding, or requirements under any policy or ordinance governing the conduct of the department's operation;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Properly monitor and manage funds allocated or appropriated to the department for use in carrying out departmental goals and objectives;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Carry out the duties and responsibilities described in his or her job description or any other duty properly assigned by his or her immediate supervisor;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Adhere to the Personnel Policies and Procedures Manual, Accounting Procedures Manual, and Administrative Policies and Procedures Manual; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Promptly respond to all requests for information (e.g., detail budgets and breakdowns, budget modifications, grant documents, employee requisitions, employee change of status forms, cash or inkind contribution information, coding/recoding information, etc.) made by the Human Resources Director or Financial Manager.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-19</num>
+      <heading>General authority.</heading>
+      <text>Each director to whom this provision is made applicable shall have the general authority to:</text>
+      <para>
+        <num>A.</num>
+        <text>Supervise, direct, train, discipline, and evaluate the performance of employees assigned to his or her department;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Supervise, direct, train, discipline, and evaluate the performance of directors assigned to his or her supervision pursuant to <cite path="§98-20">§ 98-20</cite> of <cite path="|I|98">this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Delegate such authority and tasks to his or her immediate, subordinate employees as may be necessary and appropriate for him or her to carry out his or her duties and responsibilities;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Timely and properly review and approve expenses relating to the delivery of goods or services provided to his or her department and timely and properly issue invoices to creditors; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Exercise any other powers granted by this plan of government, other ordinances or resolutions of the Tribe, policies approved by the Legislature, or the Constitution and Bylaws of the Tribe.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§98-20">
+      <prefix>§</prefix>
+      <num>98-20</num>
+      <heading>Official administrative flowchart.</heading>
+      <text>The attached flowchart titled "MITW-Administrative Flowchart" shall be the official administrative flowchart of the Tribe.<fn path="|I|§98-20|footnotes|2">2</fn></text>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: The flow chart is included as an attachment to <cite path="|I|98">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-21</num>
+      <heading>References to Program Coordinator or Administrative Manager.</heading>
+      <text>Any reference in a law, regulation, document, paper, or other record of the Tribe to the Program Coordinator's Office or to the Administrative Manager's Office shall be deemed to be a reference to the Tribal Administrator.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-22</num>
+      <heading>Legal Division.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Legal Division shall be responsible for the day-to-day supervision of attorneys and staff working in the criminal and civil functions of the Division.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Legal Division Director shall be to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Represent the Tribal Legislature and tribal programs in civil matters;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide legal guidance and advice to the Tribal Legislature and tribal programs;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Prosecute crimes as provided in Tribal Law;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Hire and supervise staff attorneys in both criminal and civil practice areas as necessary and as approved in the department budget;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Draft ordinances, laws, policies as needed;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Support the work of outside counsel hired by the Tribe as needed; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Develop and enforce tribal-specific guidelines for the practice of law in both criminal and civil practice areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Effective date. Amendments to <cite path="|I|98">this chapter</cite>, <cite path="§98-22">§ 98-22</cite>, shall take effect upon final approval by the Menominee Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Repeal. Upon the effective date of these amendments, <cite path="|I|120">Chapter 120, § 120-17</cite>, shall be repealed and the section number shall be reserved.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-23</num>
+      <heading>Internal Audit Department.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Internal Audit Department shall be responsible to provide independent, objective assurance and consulting services to the Menominee Tribal Legislature that are designed to add value and improve the operations of the Tribe. It helps the Tribe accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of governance, risk management and control processes.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The duties of the Internal Audit Department shall be responsible for providing the Internal Audit Director with those support services that are necessary for him or her to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18">§ 98-18</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Develop a flexible, risk-based annual plan of Internal Audit Department work; consider input of management, and submit plan to Menominee Tribal Legislature for review and approval;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Implement approved annual plan, including, as appropriate, any special projects requested by Menominee Tribal Legislature;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide consulting services regarding governance as agreed upon with management;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Report significant issues related to governance, risk management, and control of the Tribe to the Menominee Tribal Legislature, including potential improvements, and provide information concerning such issues through resolution;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Investigate and assist in the investigation of significant fraudulent activities within the Tribe and notify the Menominee Tribal Legislature of the results;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Maintain departmental policies and procedures, subject to review by the Administrative Committee and Menominee Tribal Legislature;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Coordinate with and provide oversight of other control and monitoring functions; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Report to the Menominee Tribal Legislature, with Chairperson supervising day-to-day administrative functions only, such as approving timecards and leave requests.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The Internal Audit Director shall have the authority to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19">§ 98-19</cite> of <cite path="|I|98">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Have unrestricted access to all tribal and chartered organization's activities, functions, records, property, and personnel for purposes of fulfilling duties;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Have full access to the Menominee Tribal Legislature;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Allocate resources, set frequencies, select subjects, determine scopes and timing of work, and apply the techniques required to fulfill its purpose and responsibilities;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Obtain the necessary assistance of personnel in departments, entities, and affiliated organizations of Tribe where services are provided, and obtain other specialized services from within or outside of Tribe; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Delegate such authority to Internal Audit staff as may be necessary for the Internal Audit Director to carry out his or her duties.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-24</num>
+      <heading>References to Enrollment/Licensing and Permits Department.</heading>
+      <text>Any reference in a law, regulation, document, paper, or other record of the Tribe to the Enrollment/ Licensing and Permits Department shall be deemed to be a reference to the Licensing and Member Services Department.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§§</prefix>
+      <num>98-25 through 98-29</num>
+      <reason>Reserved</reason>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Implementation</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>98-30</num>
+      <heading>Authority of Tribal Legislature unchanged.</heading>
+      <text>Nothing in <cite path="|I|98">this chapter</cite> shall be construed to deprive the Legislature of any of the powers or duties conferred upon it by the Tribal Constitution. Any recommendations of a committee to the Legislature shall be advisory in nature. Nothing in <cite path="|I|98">this chapter</cite> shall supersede the applicable requirements of any federally assisted program operated by the Tribe or one of the committees designated herein.</text>
+      <annotations/>
+    </section>
+    <section cache:ref-path="I|§98-31">
+      <prefix>§</prefix>
+      <num>98-31</num>
+      <heading>Bylaws.</heading>
+      <text>Committees of the Legislature shall adopt bylaws containing the provisions of the model bylaws found at the end of <cite path="|I|98">this chapter</cite>.<fn path="|I|§98-31|footnotes|3">3</fn> Committees may amend the model bylaws by majority vote of the committee, subject to the approval of the Tribal Legislature.</text>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Said model bylaws are included as an attachment to <cite path="|I|98">this chapter</cite>.</text>
+        </footnote>
+      </footnotes>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>98-32</num>
+      <heading>References to former committees.</heading>
+      <text>If any ordinance, resolution, motion, policy or other document of the Menominee Indian Tribe references committee of the Legislature which no longer exists, said reference shall be deemed a reference to the committee currently in existence which the Tribal Chairperson deems to be appropriate. If the Tribal Chairperson does not deem any current committee appropriate, the reference shall be deemed a reference to the Menominee Tribal Legislature.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

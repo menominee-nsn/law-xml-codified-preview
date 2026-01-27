@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>25</num>
+  <heading>CONTRACTS</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Enrollment — See <cite path="|I|69">Ch. 69</cite>.</annotation>
+    <annotation type="General References">Occupational safety and health — See <cite path="|II|436">Ch. 436</cite>.</annotation>
+    <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
+  </annotations>
+  <container cache:ref-path="I|25|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Preference in Contracting</heading>
+    <annotations>
+      <annotation type="History">Adopted 11-4-2010 by Ord. No. 10-26; amended in its entirety 2-20-2020 by Ord. No. 19-43</annotation>
+    </annotations>
+    <section>
+      <prefix>§</prefix>
+      <num>25-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|25|I">this article</cite> is to promote business opportunities, economic development and self-sufficiency to Menominee tribal members by providing preference in contracting opportunities provided by the Tribe and its charter entities.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-2</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text><cite path="|I|25|I">This article</cite> applies to all competitive internal funding source contracting opportunities available with the Tribe that are $50,000 and over and which are subject to the normal bidding process of the Tribe. <cite path="|I|25|I">This article</cite> is also applicable to any chartered entities of the Tribe, hereafter described as "covered entities."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The provisions of <cite path="|I|25|I">this article</cite> shall be applicable, to the utmost extent possible, to outside sources of funding for contracts/projects. It is understood, however, that some external funding sources may not allow for Menominee, Indian or any preference at all.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|I|25|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>APPEALS COMMITTEE — This committee is made up of a Tribes' Preference Coordinator, Project Manager and/or Administrative Manager, and Board member or Legislature member (whichever is applicable). This committee reviews decisions made to place contractors on the Menominee Tribal Department list.</text>
+      <text>COMPETITIVE SOLICITATIONS — Solicitations for construction proposals are requested from a number of sources. Competitive solicitations fall under the provisions of <cite path="|I|25|I">this article</cite>.</text>
+      <text>CONTRACT — Any and all written agreements that consist of an offer, consideration and acceptance entered into by a covered entity for the purpose of procuring services, or mixed goods and services, where at least some portion of those services will be provided on the Menominee Indian Reservation. Any agreement for the purchase of goods only is not a contract for the purposes of <cite path="|I|25|I">this article</cite>.</text>
+      <text>CONTRACT OPPORTUNITY — Every instance where a covered entity intends to enter into a contract.</text>
+      <text>CONTRACTOR — Any business, entity, corporation, partnership, joint stock company, joint venture, limited-liability company, limited partnership, tribal instrumentality or individual or sole proprietorship that enters into a contract with a covered entity.</text>
+      <text>COVERED ENTITY — The Menominee Indian Tribe of Wisconsin, Menominee Tribal Enterprises, College of the Menominee Nation, Menominee Indian Gaming Authority and any other business chartered pursuant to Article XII or XIII of the Menominee Constitution.</text>
+      <text>GOVERNING BOARD — The Board that governs a covered entity. For purposes of <cite path="|I|25|I">this article</cite>, "governing board" can also refer to the Legislature when a tribal department is a party in the contract.</text>
+      <text>INDIAN — Any person who is an enrolled member of any Indian tribe, band, group, pueblo or community which is recognized by the federal government as eligible for services from the Bureau of Indian Affairs and any "native" as defined in the Alaska Native Claims Settlement Act.</text>
+      <text>LEGISLATURE — The duly elected governing body of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>MENOMINEE BUSINESS — Any business, entity, corporation, partnership, joint stock company, joint venture, limited-liability company, limited partnership, tribal instrumentality or individual or sole proprietorship which the Preference Coordinator determines to be at least 51% owned, operated, as well as management of daily operations are controlled by a Menominee Tribal member or members who serve a useful business function. The business must demonstrate with clear and convincing evidence that the Menominee Tribal member or members own 51% of the business. The burden of proof lies solely on the business to demonstrate compliance.</text>
+      <text>MENOMINEE MEMBER — A person enrolled with the Menominee Indian Tribe of Wisconsin pursuant to the requirements of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin and applicable tribal ordinances.</text>
+      <text>MENOMINEE TRIBAL DEPARTMENT LIST — List maintained by the Menominee Tribal Lending and Tribal Tax Department that prohibits contractors on the list from conducting business with the Tribe or any covered entity.</text>
+      <text>MENOMINEE WORKFORCE — For any individual contract, the amount of Menominee members employed shall be 20% of the total projected hours throughout the performance of the contract.</text>
+      <text>NONCOMPETITIVE SOLICITATIONS — A solicitation of a proposal from a source in a specialized field. Noncompetitive solicitations do not fall under the provisions of <cite path="|I|25|I">this article</cite>. For the Menominee Indian Gaming Authority, this would include, but not be limited to, Class II or III gaming supplies and equipment.</text>
+      <text>SUBCONTRACTOR — Any business, entity, corporation, partnership, joint stock company, joint venture, limited-liability company, limited partnership, tribal instrumentality or individual or sole proprietorship that enters into a contract with a contractor to provide goods or services related to a contractor's contract with a covered entity.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-4</num>
+      <heading>Preference Coordinator.</heading>
+      <text>The Menominee Tribal Legislature and its covered entities shall each designate a Preference Coordinator who shall have the following duties:</text>
+      <para>
+        <num>A.</num>
+        <text>Shall develop and maintain written procedures in order to monitor the contract/bid process to ensure that the provisions of <cite path="|I|25|I">this article</cite> are being complied with.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Shall ensure that all contracts/bid announcements are posted on each of the covered entities' websites (if applicable), the Tribe's website and at the tribal offices bulletin board.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Shall investigate what obstacles exist that prevent Menominee businesses from contracting and provide information, advice and feedback to Menominee business owners regarding the contract/ bidding process.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Shall perform compliance duties pursuant to <cite path="|I|25|I">this article</cite>.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>May maintain a vendors list of Menominee businesses.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Shall evaluate and make requests for modification of any provisions of <cite path="|I|25|I">this article</cite> to the applicable governing boards.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Shall complete a written report, on an annual basis, providing the number of contracts awarded to Menominee contractors versus those to non-Menominee contractors and include any reporting requirements from <cite path="§25-7|C">§ 25-7C</cite> of <cite path="|I|25|I">this article</cite>. The report is to be provided to the Chairperson's office by October 31 of each year and to the covered entity's governing board and included in its annual report.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Shall provide written reports and notification to involved parties when violations/appeals occur.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-5</num>
+      <heading>Posting of bid announcements.</heading>
+      <text>All contracts with the Tribe and covered entities that have been approved for announcement shall be, at a minimum, posted:</text>
+      <para>
+        <num>A.</num>
+        <text>On the Tribe's website;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>On each covered entity's website (if applicable); and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A paper copy on the bid announcement bulletin board located in the tribal office headquarters.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-6</num>
+      <heading>Menominee business bids.</heading>
+      <para>
+        <num>A.</num>
+        <text>In addition to other requirements listed for submitting bids, Menominee businesses shall clearly mark on the outside of the bid envelope "Menominee Business."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once the bid has closed, the Tribe or its covered entities shall evaluate any bids marked "Menominee Business" first. If any of these bids meet the qualifications and criteria outlined in the bid announcement, they shall be further processed for award of the bid.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If none of the Menominee businesses meet the criteria or if the total estimated cost of the project is greater than $1,000,000, the bid evaluators shall proceed to evaluate the remaining bids.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-7</num>
+      <heading>Contract awardees workforce requirement.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any time the Tribe or the covered entity enters into a contract with a business, the contract, if allowed by the funding source, shall require the contractor to utilize 20% or greater Menominee workforce in the performance of that contract. The contractor must provide the Preference Coordinator a written work plan of how the contractor plans to implement this requirement. The contractor must provide status reports of the Menominee workforce utilized during the performance of the contract. The Preference Coordinator shall monitor and ensure that throughout the contract process this provision is being followed.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The requirements of this section may be modified prior to execution of a contract to reduce or eliminate the 20% requirement if the potential contractor provides adequate proof that:</text>
+        <para>
+          <num>(1)</num>
+          <text>There are not enough qualified Menominee businesses or Menominee members to meet this requirement; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The contractor will perform the contract with no subcontractors and with two or fewer employees.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If, after the execution of a contract, the contractor provides adequate proof to the Preference Coordinator that it will not be able to meet the requirements of its written work plan (See <cite path="§25-7|A">Subsection A</cite> above), for reasons beyond the contractor's control, the Preference Coordinator may approve of a modification of the written work plan, in writing, and the reasons for the modification. This modification and the reasons for it will be reported by the Preference Coordinator in the annual report.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-8</num>
+      <heading>Vendors list.</heading>
+      <text>The Tribe and/or each covered entity may maintain a list of Menominee-owned businesses for the purposes of promoting Menominee businesses that it has already established a good working relationship with. This provision, however, shall not prevent any new businesses from being considered or from all bids from being evaluated fairly.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-9</num>
+      <heading>Enforcement; violations and penalties.</heading>
+      <para>
+        <num>A.</num>
+        <text>Violation by contractor.</text>
+        <para>
+          <num>(1)</num>
+          <text>If at any time the Preference Coordinator is aware that a contractor has allegedly violated the Menominee preference provision of its contract, the Preference Coordinator shall investigate such alleged violation, and upon determination that it appears more likely than not that a violation has occurred, shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Notify the contractor of the nature of the violation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Consult with the applicable legal personnel to determine if a breach of contract has occurred, and what remedies may be available.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If a violation is found, the Preference Coordinator shall then have a meeting with the contractor to discuss remedies to the breach of contract.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>In the event that the violation is not remedied, the Preference Coordinator shall:</text>
+            <para>
+              <num>[1]</num>
+              <text>Prepare a report that will state, with specificity, what violations occurred, the steps taken to remedy the breach, dates and names of persons involved; provide a copy of this report to the contractor, applicable legal counsel and applicable governing board.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Obtain the date from the applicable governing board when the report will be reviewed. This review must occur within 10 days of the filing of the report with the governing entity.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Provide notice of the date to the contractor. The notice will also inform the contractor of the right to appeal the decision and the procedure for appeal.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Consult with the applicable governing board and/or legal counsel regarding contractor consequences and project impact.</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Recommend to the applicable governing board that the contractor be placed on the Menominee Tribal Department List, denying the contractor the ability to conduct further business on the reservation.</text>
+            </para>
+            <para>
+              <num>[6]</num>
+              <text>The governing board can place the contractor on the Menominee Tribal Department List immediately and will not require approval from the Menominee Tribal Legislature. The contractor will remain on the list for three years from the date the violation of contract occurred.</text>
+            </para>
+            <para>
+              <num>[7]</num>
+              <text>The Preference Coordinator will mail a copy of the decision to the contractor of the decision made by the governing board within five days of the decision. The contractor will have the right to appeal the decision according to <cite path="§25-10">§ 25-10</cite> of <cite path="|I|25|I">this article</cite>.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Violation by any others.</text>
+        <para>
+          <num>(1)</num>
+          <text>At any time the Preference Coordinator is aware that any individual or covered entity has violated any provision of <cite path="|I|25|I">this article</cite>, the Coordinator shall investigate such violation, prepare a report and, upon determination that there is a preponderance of evidence to believe such violation occurred, shall provide a copy of the report to the covered entity and notify the Tribe and the covered entity's governing board of the nature of the violation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a violation is found for:</text>
+          <para>
+            <num>(a)</num>
+            <text>An individual, then the governing board or the Tribe may impose disciplinary proceedings according to their policies and procedures. The governing board or individual's supervisor must provide a plan to remedy the violation to the Tribe's Preference Coordinator within 90 days of the decision; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A covered entity, the Tribe shall impose a penalty of $1,000 and/or a public reprimand prepared by the Tribe's Preference Coordinator and printed in the Tribal News at the covered entity's expense. The governing entity must provide a plan to remedy the violation, any time a violation occurs, to the Tribe's Preference Coordinator within 90 days of the decision.</text>
+          </para>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-10</num>
+      <heading>Appeal of decision.</heading>
+      <text>The contractor will have the right to appeal the decision of the governing board and/or placement on the Menominee Tribal Department List by following the following procedure:</text>
+      <para>
+        <num>A.</num>
+        <text>Upon receipt of the mailed decision, the contractor will have five days to file a written request of appeal with the Preference Coordinator. The request will include the reasons why the decision should be reversed. The Preference Coordinator shall immediately file the request with the Contract Appeals Committee.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A hearing shall be set within 15 days of the date that the written request of appeal was filed to the Contract Appeals Committee. The Preference Coordinator shall serve the contractor with notice of the hearing by mail or personal service at least five days before the hearing.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Contract Appeals Committee will conduct the review and allow both the contractor to give a statement and the covered entity or Tribe to give a statement, and the contractor can give an optional final statement. The Contract Appeals Team will have the ability to ask questions of both parties.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A written decision will be made within 15 days of the hearing, and the Contract Appeals Committee will mail or personally deliver to the contractor its written determination along with the reasons for the determination.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-11</num>
+      <heading>Severability.</heading>
+      <text>If any provision of <cite path="|I|25|I">this article</cite> is held invalid by an appropriate court of law, the remainder of <cite path="|I|25|I">this article</cite>, or the application of the provision to other persons or circumstances, is not affected.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>25-12</num>
+      <heading>Grant of greater preference.</heading>
+      <text>The preference requirements listed in <cite path="|I|25|I">this article</cite> constitute the minimum requirements for the Tribe and the covered entities. Nothing in <cite path="|I|25|I">this article</cite> shall prohibit the Tribe and the covered entities from granting greater preference in contracting than what is required by <cite path="|I|25|I">this article</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

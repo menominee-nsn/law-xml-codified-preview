@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>121</num>
+  <heading>JURISDICTION, TRIBAL</heading>
+  <annotations>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+  </annotations>
+  <container cache:ref-path="I|121|I">
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>Rights of Persons Subject to Tribal Jurisdiction [Adopted 2-19-2015 by Ord. No. 14-38]</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>121-1</num>
+      <heading>Authority.</heading>
+      <text>Section 2(d) of Article IX states that "The Menominee Indian Tribe and its officers and agencies in exercising the powers of self-government over persons subject to tribal jurisdiction shall not. . .permit searches and seizures unless a Tribal Court issues a warrant upon a sworn statement presented to the Tribal Court showing reasonable grounds to believe that an offense against tribal law has been committed and that the person or place to be searched holds evidence of the offense or that the persons to be seized committed the offense; or that the thing to be seized is evidence of the offense, and describing specifically the person or place to be searched or the person or thing to be seized; provided that, searches and seizures may be permitted without a warrant where justified by compelling circumstances as shall be defined by ordinance."</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>121-2</num>
+      <heading>Purpose.</heading>
+      <text>The Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin protect persons from unreasonable searches and seizures of their person and property, and the Bill of Rights protects persons from unreasonable searches and seizures of their persons, houses, papers and effects. The Constitution also permits searches and seizures without a warrant where justified by compelling circumstances. The purpose of <cite path="|I|121|I">this article</cite> is to define the compelling circumstances under which searches and seizures without a warrant are justified and permitted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>121-3</num>
+      <heading>Compelling circumstances.</heading>
+      <text>Searches and seizures may be permitted without a warrant where justified by compelling circumstances as listed below:</text>
+      <para>
+        <num>A.</num>
+        <text>Search incident to lawful arrest;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When valid consent is granted. Valid consent requires that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The consent be voluntarily and freely given;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The party granting consent must have or appear to have authority to consent; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The search be limited to the scope of the consent granted.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Pursuant to exigent circumstances. "Exigent circumstances" means for the protection of life or from serious harm, hot pursuit, or preventing the destruction of evidence.</text>
+        <para>
+          <num>(1)</num>
+          <text>Protection of life or from serious harm requires that law enforcement officers reasonably believe that an occupant of a home is seriously injured or imminently threatened with injury or harm and that aid is necessary. This exception includes a "Terry Search," which is a limited, protective search allowed if the officer has an articulable and reasonable suspicion that the suspect is, has, or is about to commit a crime or is armed and dangerous. This exception permits law enforcement officers to conduct a protective sweep, the scope of which must be related to an articulable reason related to the safety of the community, suspect, and officers. The protective sweep shall be limited to a brief inspection for a hiding person in areas that a person could actually be hiding.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Hot pursuit requires law enforcement officers to act without unnecessary delay, in a continuous and uninterrupted manner, and close in time to the commission of offense, commencement of pursuit, and/or the apprehension of suspect.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Preventing the destruction of evidence requires that law enforcement officers believe that contraband, fruits of a crime, or other items illegally possessed will be destroyed or removed before officers can secure a search warrant.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Pursuant to plain view. Plain view is not restricted to items that can be seen, but includes items that can be smelled, touched, heard, or tasted. Under plain view:</text>
+        <para>
+          <num>(1)</num>
+          <text>Law enforcement officers:</text>
+          <para>
+            <num>(a)</num>
+            <text>Must have the lawful right, subject to privacy interests defined by United States Supreme Court caselaw, to be present;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Must immediately realize that the object they observe is evidence.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The incriminating character of the evidence must be immediately apparent.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Pursuant to valid inventory search of person and/or property for the purpose of finding, listing, and securing from loss during detention property belonging to detained person. Law enforcement officers must conduct inventory searches based upon standard policies and procedure of their department that have been approved by the Legislature.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Pursuant to a lawful administrative search for protection of health and safety. A lawful administrative search must be:</text>
+        <para>
+          <num>(1)</num>
+          <text>Clearly necessary to a vital governmental interest;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Limited and no more intrusive than necessary to accomplish the governmental interest;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Reasonably effective in accomplishing its purpose; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Conducted for a purpose other than the gathering of evidence for criminal purposes.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>When authorized by other applicable Menominee tribal law.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>
