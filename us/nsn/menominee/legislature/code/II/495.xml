@@ -579,15 +579,15 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>E.</num>
         <text>Soil evaluation for absorption systems. System sizing and siting for all soil absorption systems shall be based on soil morphological conditions specified in <cite path="§495-9|D">Subsection D</cite> and Table 1<fn path="|II|§495-9|footnotes|1">1</fn> or percolation tests conducted prior to July 1, 1994.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>F.</num>
         <text>Percolation test results for sizing absorption systems. The sizing of soil absorption systems shall be based upon Table 2.<fn path="|II|§495-9|footnotes|2">2</fn></text>
       </para>
       <para>
-        <num>C.</num>
+        <num>G.</num>
         <text>Verification.</text>
         <para>
           <num>(1)</num>
@@ -599,7 +599,7 @@
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>H.</num>
         <text>Winter soil testing.</text>
         <para>
           <num>(1)</num>
@@ -616,10 +616,10 @@
             <num>(b)</num>
             <text>Soil profiles shall only be evaluated between the hours of 10:00 a.m. and 2:00 p.m. Soil profiles shall not be evaluated during times when the sky is completely overcast.</text>
           </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>When soil horizons are frozen, soil material must be thawed for hand texturing.</text>
+          <para>
+            <num>(c)</num>
+            <text>When soil horizons are frozen, soil material must be thawed for hand texturing.</text>
+          </para>
         </para>
       </para>
       <footnotes>
@@ -672,21 +672,21 @@
             <num>(a)</num>
             <text>Bedrock. Sites that have less than 56 inches but at least 30 inches of soil over bedrock, where the original soil texture is sand or loamy sand, may be filled with the same soil texture as the natural soil or coarser material up to and including medium sand in an attempt to overcome the site limitations. The fill material shall not be of a finer texture that the natural soil.</text>
           </para>
+          <para>
+            <num>(b)</num>
+            <text>High groundwater. Sites that have less than 56 inches of soil over high groundwater or estimated high groundwater, where the original soil texture is sand or loamy sand, may be filled following the criteria noted in <cite path="§495-10|F.|(b)">this subsection</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Natural soil. Sites with soils finer than sand or loamy sand shall not be approved for systems in fill.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Inspection of fill. Placement of the fill material shall be inspected by the Department.</text>
+          </para>
         </para>
         <para>
-          <num>(b)</num>
-          <text>High groundwater. Sites that have less than 56 inches of soil over high groundwater or estimated high groundwater, where the original soil texture is sand or loamy sand, may be filled following the criteria noted in <cite path="§495-10|F.|(b)">this subsection</cite>.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Natural soil. Sites with soils finer than sand or loamy sand shall not be approved for systems in fill.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Inspection of fill. Placement of the fill material shall be inspected by the Department.</text>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(3)</num>
           <text>Design requirements.</text>
           <para>
             <num>(a)</num>
@@ -987,15 +987,15 @@
           <text>Pump selection. Pump selection shall be based on the pump performance curve of the model selected. Pumps shall be rated by the manufacturer for use for sewage or effluent. The pump shall be capable of providing a minimum of 2.5 feet of head at all of the perforations in the distribution network.</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(2)</num>
           <text>Discharge rate. Table 8 shall be used to determine pump dosing rate based on the distribution pipe discharge rate and number of distribution pipes.</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(3)</num>
           <text>Friction loss. Table 9 is the friction loss chart for Schedule 40 plastic pipe (C = 150). The diameter of the pipe shall be increased if the velocity falls in the excessive range based upon flow rates in Table 9.</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(4)</num>
           <text>Pump and alarm controls.</text>
           <para>
             <num>(a)</num>
@@ -1024,7 +1024,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>F.</num>
         <text>Dosing. The dosing frequency shall be a maximum of four times daily. To establish the volume per dose, divide the daily wastewater flow by the dosing frequency. In addition, the dosing volume shall be at least 10 times the capacity of the distribution pipe volume. Table 10 provides the void volume for various pipe diameters. Table 11 shall be used to determine minimum dose volume based on distribution pipe diameter, length and number of distribution pipes.</text>
       </para>
       <footnotes>
@@ -1172,7 +1172,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>C.</num>
         <text>Capacity and sizing.</text>
         <para>
           <num>(1)</num>
@@ -1182,21 +1182,21 @@
           <num>(2)</num>
           <text>Multiple tanks. When the required capacity is to be provided by more than one tank, the minimum capacity of any tank shall be 750 gallons. When three or four tanks are installed, approval of the design of the system shall be obtained from the Department. The installation of more than four tanks in series is prohibited.</text>
         </para>
+        <para>
+          <num>(3)</num>
+          <text>Sizing of tank.</text>
+          <para>
+            <num>(a)</num>
+            <text>Residential. The minimum liquid capacity for one- and two-family residences is shown on Table 12.<fn path="|II|§495-14|footnotes|10">10</fn></text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Public buildings. For buildings other than one- and two-family residences the liquid capacity shall be increased above the minimum of 750 gallons as established in Table 13.<fn path="|II|§495-14|footnotes|11">11</fn> For such buildings having kitchen and/or laundry waste, the tank capacity shall be increased to receive the anticipated volume for a twenty-four-hour period from the kitchen and/or laundry. The liquid capacities established in Table 13 do not include employees.</text>
+          </para>
+        </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>Sizing of tank.</text>
-        <para>
-          <num>(a)</num>
-          <text>Residential. The minimum liquid capacity for one- and two-family residences is shown on Table 12.<fn path="|II|§495-14|footnotes|10">10</fn></text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Public buildings. For buildings other than one- and two-family residences the liquid capacity shall be increased above the minimum of 750 gallons as established in Table 13.<fn path="|II|§495-14|footnotes|11">11</fn> For such buildings having kitchen and/or laundry waste, the tank capacity shall be increased to receive the anticipated volume for a twenty-four-hour period from the kitchen and/or laundry. The liquid capacities established in Table 13 do not include employees.</text>
-        </para>
-      </para>
-      <para>
-        <num>B.</num>
+        <num>D.</num>
         <text>Installation.</text>
         <para>
           <num>(1)</num>
@@ -1205,33 +1205,33 @@
             <num>(a)</num>
             <text>The location of sewage treatment tanks and pump and siphon tanks shall be in conformance with the setback distances listed in Table 14.<fn path="|II|§495-14|footnotes|12">12</fn></text>
           </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Location within or under building.</text>
           <para>
-            <num>[1]</num>
-            <text>A sewage treatment tank may not be located within a building or under a building, except as permitted in <cite path="§495-14|D|(1)(b)|[2]">Subsection D(1)(b)[2]</cite>.</text>
+            <num>(b)</num>
+            <text>Location within or under building.</text>
+            <para>
+              <num>[1]</num>
+              <text>A sewage treatment tank may not be located within a building or under a building, except as permitted in <cite path="§495-14|D|(1)(b)|[2]">Subsection D(1)(b)[2]</cite>.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>A sewage treatment tank and pump or siphon tank may be located either under a cantilevered portion of a building or under an unenclosed deck structure, if at least five feet of vertical clearance for servicing purposes is provided between the top of the manhole and the obstruction.</text>
+            </para>
           </para>
           <para>
-            <num>[2]</num>
-            <text>A sewage treatment tank and pump or siphon tank may be located either under a cantilevered portion of a building or under an unenclosed deck structure, if at least five feet of vertical clearance for servicing purposes is provided between the top of the manhole and the obstruction.</text>
+            <num>(c)</num>
+            <text>No structural supports of buildings, portions of buildings, decks or porches may rest upon any portion of a sewage or other treatment tank.</text>
           </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>No structural supports of buildings, portions of buildings, decks or porches may rest upon any portion of a sewage or other treatment tank.</text>
-        </para>
-        <para>
-          <num>(1)</num>
-          <text>Groundwater. If the tank is to be installed in groundwater, adequate anchoring shall be made.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Bedding. A three-inch-thick compacted bedding shall be provided for all septic and other treatment tank installations. The bedding material shall be sand, gravel, granite, limerock or other noncorrosive materials of such size that 100% will pass a one-half-inch screen.</text>
+          <text>Groundwater. If the tank is to be installed in groundwater, adequate anchoring shall be made.</text>
         </para>
         <para>
           <num>(3)</num>
+          <text>Bedding. A three-inch-thick compacted bedding shall be provided for all septic and other treatment tank installations. The bedding material shall be sand, gravel, granite, limerock or other noncorrosive materials of such size that 100% will pass a one-half-inch screen.</text>
+        </para>
+        <para>
+          <num>(4)</num>
           <text>Backfill.</text>
           <para>
             <num>(a)</num>
@@ -1243,7 +1243,7 @@
           </para>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(5)</num>
           <text>Manhole riser joints.</text>
           <para>
             <num>(a)</num>
@@ -1260,7 +1260,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>E.</num>
         <text>Dosing tanks.</text>
         <para>
           <num>(1)</num>
@@ -1469,7 +1469,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>E.</num>
         <text>Sizing.</text>
         <para>
           <num>(1)</num>
@@ -1481,11 +1481,11 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>F.</num>
         <text>Construction. Holding tanks shall be constructed of welded steel, monolithic concrete, glass-fiber reinforced polyester or other materials approved by the Department.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>G.</num>
         <text>Installation.</text>
         <para>
           <num>(1)</num>
@@ -1508,44 +1508,44 @@
           <text>Manholes. Each tank shall be provided with a manhole opening no less than 24 inches inside diameter extending to a minimum of four inches above ground. Finish grade must be sloped away from the manhole to divert surface water from the manhole. Each manhole cover shall have an effective locking device. Manhole covers may have a service port reduced in size to eight inches inside diameter four inches above finish grade level. The reduced opening must have an effective locking cover or a brass cleanout plug. Reduced locking devices or cleanouts must be approved by the Department.</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(4)</num>
           <text>Septic tank. If an approved septic tank is installed to serve as a holding tank, the inlet and outlet baffle may be removed and the outlet shall be sealed.</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(5)</num>
           <text>Vent.</text>
+          <para>
+            <num>(a)</num>
+            <text>A holding tank shall be provided with a vent that:</text>
+            <para>
+              <num>[1]</num>
+              <text>Is not less than two inches in diameter; and</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Is of Schedule 40 PVC or cast iron.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A vent serving a holding tank shall:</text>
+            <para>
+              <num>[1]</num>
+              <text>Terminate at least 12 inches above the adjacent final grade;</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Terminate with a vent cap or return bend; and</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Be located at least 10 feet horizontally from any door, window or fresh air intake.</text>
+            </para>
+          </para>
         </para>
       </para>
       <para>
-        <num>(a)</num>
-        <text>A holding tank shall be provided with a vent that:</text>
-      </para>
-      <para>
-        <num>[1]</num>
-        <text>Is not less than two inches in diameter; and</text>
-        <para>
-          <num>[2]</num>
-          <text>Is of Schedule 40 PVC or cast iron.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A vent serving a holding tank shall:</text>
-          <para>
-            <num>[1]</num>
-            <text>Terminate at least 12 inches above the adjacent final grade;</text>
-          </para>
-          <para>
-            <num>[2]</num>
-            <text>Terminate with a vent cap or return bend; and</text>
-          </para>
-          <para>
-            <num>[3]</num>
-            <text>Be located at least 10 feet horizontally from any door, window or fresh air intake.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>A.</num>
+        <num>H.</num>
         <text>Service suction and discharge lines.</text>
         <para>
           <num>(1)</num>
@@ -1597,7 +1597,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>I.</num>
         <text>Tank in floodplain.</text>
         <para>
           <num>(1)</num>
@@ -1753,18 +1753,18 @@
             <num>(a)</num>
             <text>A mound may not be installed on a slope which is greater than 12% except as permitted under <cite path="§495-21|A|(5)(b)">Subsection A(5)(b)</cite>.</text>
           </para>
+          <para>
+            <num>(b)</num>
+            <text>A mound replacing an existing private sewage system may not be installed on a slope which is greater than 20%.</text>
+          </para>
         </para>
         <para>
-          <num>(b)</num>
-          <text>A mound replacing an existing private sewage system may not be installed on a slope which is greater than 20%.</text>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(6)</num>
           <text>Depth to rock strata or 50% by volume rock fragments. There shall be at least 60 inches of soil over uncreviced impermeable bedrock. If the soil contains 50% coarse fragments by volume in the upper 24 inches, a mound cannot be installed unless there is at least 24 inches of permeable, unsaturated soil that has less than 50% coarse fragments beneath this layer.</text>
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>B.</num>
         <text>Mound design and dimensions.</text>
         <para>
           <num>(1)</num>
@@ -1811,86 +1811,83 @@
             <para>
               <num>[4]</num>
               <text>Trench spacing (C) shall be determined by comparing the estimated wastewater flow, the infiltrative capacity of the natural soil and the trench length (B). The calculated trench spacing (C) shall be measured from center to center of the trenches. Trench spacing (C) shall be calculated as:</text>
+              <text>(C) =	<u>Estimated wastewater flow</u></text>
+              <text>Number of trenches</text>
+              <text>÷ (0.24 gal/ft2/day) ÷ trench length (B)</text>
             </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Beds. A long narrow bed design should be used for permeable soils with high water tables. The bed can be square or rectangular for shallow permeable soils over bedrock. The bed length (B) should be set after determining the longest dimension that is available and that is perpendicular to any slope on the site. The bed width (A) shall be determined by dividing the absorption area required by (B).</text>
           </para>
         </para>
         <para>
-          <num>(C)</num>
-          <text>=	<u>Estimated wastewater flow</u></text>
-          <text>Number of trenches</text>
-        </para>
-        <aftertext>÷ (0.24 gal/ft2/day) ÷ trench length (B)</aftertext>
-        <para>
-          <num>(b)</num>
-          <text>Beds. A long narrow bed design should be used for permeable soils with high water tables. The bed can be square or rectangular for shallow permeable soils over bedrock. The bed length (B) should be set after determining the longest dimension that is available and that is perpendicular to any slope on the site. The bed width (A) shall be determined by dividing the absorption area required by (B).</text>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(4)</num>
           <text>Mound dimensions.</text>
           <para>
             <num>(a)</num>
             <text>Mound height. On sites the mound height shall be calculated using the following equation where D equals sand fill depth, E equals the downslope fill depth, F equals the bed or trench depth, and H equals the cap and topsoil depth:</text>
             <text>Mound height =	<u>(D + E)</u> 2</text>
-          </para>
-          <aftertext>+ F + H</aftertext>
-          <para>
-            <num>[1]</num>
-            <text>For sites having at least 24 inches above estimated high groundwater, bedrock, or slowly permeable soils the minimum sand depth (D) shall be 12 inches, unless otherwise specified in Table 16.<fn path="|II|§495-21|footnotes|18">18</fn> For mounds replacing existing private sewage systems on sites having less that 24 inches above estimated high groundwater, bedrock, or slowly permeable soils, the sand fill depth (D) shall be based on the following calculation: where D = 12 inches + (24 inches - depth in inches to soil or site factor).</text>
-          </para>
-          <para>
-            <num>[2]</num>
-            <text>On a sloping site, the sand fill depth (E) placed at the downslope edge of the bed or trench shall be increased so that the bottom of the bed or trench is level. The downslope sand fill depth (E) shall be increased according to one of the following calculations:</text>
+            <text>+ F + H</text>
             <para>
-              <num>[a]</num>
-              <text>For beds: E = D + [(slope percentage)(A)].</text>
+              <num>[1]</num>
+              <text>For sites having at least 24 inches above estimated high groundwater, bedrock, or slowly permeable soils the minimum sand depth (D) shall be 12 inches, unless otherwise specified in Table 16.<fn path="|II|§495-21|footnotes|18">18</fn> For mounds replacing existing private sewage systems on sites having less that 24 inches above estimated high groundwater, bedrock, or slowly permeable soils, the sand fill depth (D) shall be based on the following calculation: where D = 12 inches + (24 inches - depth in inches to soil or site factor).</text>
             </para>
             <para>
-              <num>[b]</num>
-              <text>For trenches: E = D + [(slope percentage)(C + A)].</text>
+              <num>[2]</num>
+              <text>On a sloping site, the sand fill depth (E) placed at the downslope edge of the bed or trench shall be increased so that the bottom of the bed or trench is level. The downslope sand fill depth (E) shall be increased according to one of the following calculations:</text>
+              <para>
+                <num>[a]</num>
+                <text>For beds: E = D + [(slope percentage)(A)].</text>
+              </para>
+              <para>
+                <num>[b]</num>
+                <text>For trenches: E = D + [(slope percentage)(C + A)].</text>
+              </para>
             </para>
-          </para>
-          <para>
-            <num>[3]</num>
-            <text>The bed or trench depth (F) shall be at least nine inches. At least six inches of aggregate shall be placed under the distribution pipes and at least two inches of aggregate shall be placed over the top of the distribution pipes.</text>
-          </para>
-          <para>
-            <num>[4]</num>
-            <text>The cap and topsoil depth (H) at the center of the mound shall be at least 18 inches which includes one foot of subsoil and six inches of topsoil. At the outer edges of the mound the minimum cap and topsoil depth (G) shall be one foot which includes six inches of subsoil and six inches of topsoil. The soil used for the cap can be topsoil or finer textured subsoil.</text>
+            <para>
+              <num>[3]</num>
+              <text>The bed or trench depth (F) shall be at least nine inches. At least six inches of aggregate shall be placed under the distribution pipes and at least two inches of aggregate shall be placed over the top of the distribution pipes.</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The cap and topsoil depth (H) at the center of the mound shall be at least 18 inches which includes one foot of subsoil and six inches of topsoil. At the outer edges of the mound the minimum cap and topsoil depth (G) shall be one foot which includes six inches of subsoil and six inches of topsoil. The soil used for the cap can be topsoil or finer textured subsoil.</text>
+            </para>
           </para>
           <para>
             <num>(b)</num>
             <text>Mound length. The total mound length (L) is equal to the bed or trench length plus the end slopes (K).</text>
+            <text>The end slope (K) = Mound depth at center x 3:1 slope =</text>
+            <text><u>[(D + E)</u> 2</text>
+            <text>+ F + H]3</text>
+            <text>The total mound length (L) = (bed or trench length B) + 2 (end slope K)</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Mound width. The total width (W) of a mound with a bed design shall be equal to the upslope width (J), the bed width (A) and the downslope width (I). When a trench design is used, the total width (W) shall be equal to the upslope width (J), the trench width or widths (A), the trench spacing (C) and the downslope width (I). On sloping sites the downslope width (I) shall be greater than the upslope width (J). On level sites the upslope width and the downslope width shall be the same.</text>
+            <para>
+              <num>[1]</num>
+              <text>Upslope width (J) = mound depth at upslope edge x 3:1 slope x slope correction factor from Table 17 = (D + F + G) x 3 x correction factor.</text>
+            </para>
+            <para>
+              <num>[2]</num>
+              <text>Downslope width (I) = mound depth at downslope edge x 3:1 slope x slope correction factor from Table 17 = (E + F = G) x 3 x correction factor.</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>The mound width (W) for a bed system = upslope width (J) + bed width (A) + downslope width (I).</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>The mound width (W) for a trench system =</text>
+              <text>upslope width (J) + trench width (A) + [(number or trenches – 1) x</text>
+              <text>(trench spacing (C)] +	<u>trench width (A)</u> 2</text>
+              <text>+ downslope width (I)</text>
+            </para>
           </para>
         </para>
-        <aftertext>The end slope (K) = Mound depth at center x 3:1 slope =</aftertext>
-        <aftertext><u>[(D + E)</u> 2</aftertext>
-        <aftertext>+ F + H]3</aftertext>
-        <aftertext>The total mound length (L) = (bed or trench length B) + 2 (end slope K)</aftertext>
         <para>
-          <num>(c)</num>
-          <text>Mound width. The total width (W) of a mound with a bed design shall be equal to the upslope width (J), the bed width (A) and the downslope width (I). When a trench design is used, the total width (W) shall be equal to the upslope width (J), the trench width or widths (A), the trench spacing (C) and the downslope width (I). On sloping sites the downslope width (I) shall be greater than the upslope width (J). On level sites the upslope width and the downslope width shall be the same.</text>
-          <para>
-            <num>[1]</num>
-            <text>Upslope width (J) = mound depth at upslope edge x 3:1 slope x slope correction factor from Table 17 = (D + F + G) x 3 x correction factor.</text>
-          </para>
-          <para>
-            <num>[2]</num>
-            <text>Downslope width (I) = mound depth at downslope edge x 3:1 slope x slope correction factor from Table 17 = (E + F = G) x 3 x correction factor.</text>
-          </para>
-          <para>
-            <num>[3]</num>
-            <text>The mound width (W) for a bed system = upslope width (J) + bed width (A) + downslope width (I).</text>
-          </para>
-          <para>
-            <num>[4]</num>
-            <text>The mound width (W) for a trench system =</text>
-          </para>
-        </para>
-        <aftertext>upslope width (J) + trench width (A) + [(number or trenches – 1) x</aftertext>
-        <aftertext>(trench spacing (C)] +	<u>trench width (A)</u> 2</aftertext>
-        <aftertext>+ downslope width (I)</aftertext>
-        <para>
-          <num>(1)</num>
+          <num>(5)</num>
           <text>Basal area.</text>
           <para>
             <num>(a)</num>
@@ -1922,15 +1919,15 @@
           </para>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(6)</num>
           <text>Distribution system. The distribution system for mounds for daily flows less than 600 gallons per day may be sized in accord with the applicable criteria in <cite path="§495-21|C">Subsection C</cite> or with <cite path="§495-13|C">§ 495-13C</cite>. For all other buildings, the distribution system shall be designed in accord with <cite path="§495-13|C">§ 495-13C</cite>.</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(7)</num>
           <text>Pump selection. Pump selection shall be based upon the criteria specified in <cite path="§495-13|E">§ 495-13E</cite>.</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(8)</num>
           <text>Dose volume. The dose volume shall be calculated either:</text>
           <para>
             <num>(a)</num>
@@ -1947,7 +1944,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>C.</num>
         <text>Construction techniques. Construction shall not commence if the soil is too wet. The soil is too wet for construction if at any level to a depth of eight inches a soil wire can be formed by rolling the soil between the hands. Installation of mound systems when the soil on the site is frozen is prohibited for new construction.</text>
         <para>
           <num>(1)</num>
@@ -1980,26 +1977,26 @@
             <num>(e)</num>
             <text>Placement of sand fill. The sand fill shall be moved into place from the upslope and side edges of the plowed area. Vehicular traffic is prohibited in the area extending to 25 feet beyond the downslope edge of the mound. The sand fill shall be moved into place with a track-type tractor. A minimum of six inches of sand shall be kept beneath the tracks at all times.</text>
           </para>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Installation of the absorption area. Form the bed or trenches within the sand fill. The bottom of the trenches or bed shall be level. The elevation of the bottom of the trenches or bed shall be checked at the upslope and downslope edges to make certain that the fill has been placed to the proper depth.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Placement of the aggregate. A minimum of six inches of coarse aggregate ranging in size from 1/2 inch to 2 1/2 inches shall be placed in the bed or trench excavation. The top of the aggregate shall be level.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Distribution system. Place the distribution system on the aggregate with the holes on the bottom of the distribution lines.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Cover. The top of the bed or trenches shall be covered with a minimum of two inches of aggregate ranging in size from 1/2 inch to 2 1/2 inches. A minimum of four to five inches of uncompacted straw or marsh hay, or synthetic fabric approved by the Department, shall be placed over the aggregate. The cap and topsoil cover shall be placed. The mound shall be seeded immediately and protected from erosion.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Maintenance. Maintenance shall be performed in accord with <cite path="§495-15|A">§ 495-15A</cite>. When the septic tank is pumped, the pump chamber shall be inspected and shall be pumped to remove any solids if present. Excess traffic in the mound area shall be avoided.</text>
+          <para>
+            <num>(f)</num>
+            <text>Installation of the absorption area. Form the bed or trenches within the sand fill. The bottom of the trenches or bed shall be level. The elevation of the bottom of the trenches or bed shall be checked at the upslope and downslope edges to make certain that the fill has been placed to the proper depth.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Placement of the aggregate. A minimum of six inches of coarse aggregate ranging in size from 1/2 inch to 2 1/2 inches shall be placed in the bed or trench excavation. The top of the aggregate shall be level.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Distribution system. Place the distribution system on the aggregate with the holes on the bottom of the distribution lines.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Cover. The top of the bed or trenches shall be covered with a minimum of two inches of aggregate ranging in size from 1/2 inch to 2 1/2 inches. A minimum of four to five inches of uncompacted straw or marsh hay, or synthetic fabric approved by the Department, shall be placed over the aggregate. The cap and topsoil cover shall be placed. The mound shall be seeded immediately and protected from erosion.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Maintenance. Maintenance shall be performed in accord with <cite path="§495-15|A">§ 495-15A</cite>. When the septic tank is pumped, the pump chamber shall be inspected and shall be pumped to remove any solids if present. Excess traffic in the mound area shall be avoided.</text>
+          </para>
         </para>
       </para>
       <footnotes>
@@ -2332,4 +2329,13 @@
       <annotations/>
     </section>
   </container>
+  <attachments>
+    <heading>Attachments</heading>
+    <attachment name="table-1-maximum-wastewater-infiltration-rates-for-soil-absorption-systems" url="/us/nsn/menominee/legislature/code/attachments/495a.pdf">
+      <heading>Table 1 - Maximum Wastewater Infiltration Rates for Soil Absorption Systems</heading>
+    </attachment>
+    <attachment name="figures-1-through-5" url="/us/nsn/menominee/legislature/code/attachments/495b.pdf">
+      <heading>Figures 1 through 5</heading>
+    </attachment>
+  </attachments>
 </container>

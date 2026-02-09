@@ -300,75 +300,75 @@
               <num>[b]</num>
               <text>Property owner's current address.</text>
             </para>
+            <para>
+              <num>[c]</num>
+              <text>Property owner's current telephone number.</text>
+            </para>
+            <para>
+              <num>[d]</num>
+              <text>Occupant's name (may be the same as above).</text>
+            </para>
+            <para>
+              <num>[e]</num>
+              <text>Occupant's address.</text>
+            </para>
+            <para>
+              <num>[f]</num>
+              <text>Occupant's phone.</text>
+            </para>
+          </para>
+          <para>
+            <num>[2]</num>
+            <text>Driveway and building location information.</text>
+            <para>
+              <num>[a]</num>
+              <text>Road name which property/primary building will be accessed to/from (taken from official road signpost).</text>
+            </para>
+            <para>
+              <num>[b]</num>
+              <text>Side of access road the property/building is located on (north, south, east or west).</text>
+            </para>
+            <para>
+              <num>[c]</num>
+              <text>Whether or not the driveway is shared by other structures.</text>
+            </para>
+            <para>
+              <num>[d]</num>
+              <text>Tax parcel number (PIN) when appropriate.</text>
+            </para>
+            <para>
+              <num>[e]</num>
+              <text>Legal description of property (deed, volume, and page, certified survey map, plat, section, township, range, lot number, etc.).</text>
+            </para>
+            <para>
+              <num>[f]</num>
+              <text>Any other information that may be vital to this application.</text>
+            </para>
+            <para>
+              <num>[g]</num>
+              <text>Signature of owner or agent.</text>
+            </para>
           </para>
         </para>
-      </para>
-      <para>
-        <num>[b]</num>
-        <text>Property owner's current telephone number.</text>
-      </para>
-      <para>
-        <num>[c]</num>
-        <text>Occupant's name (may be the same as above).</text>
-      </para>
-      <para>
-        <num>[d]</num>
-        <text>Occupant's address.</text>
-      </para>
-      <para>
-        <num>[e]</num>
-        <text>Occupant's phone.</text>
-      </para>
-      <para>
-        <num>[2]</num>
-        <text>Driveway and building location information.</text>
         <para>
-          <num>[a]</num>
-          <text>Road name which property/primary building will be accessed to/from (taken from official road signpost).</text>
+          <num>(b)</num>
+          <text>The property owner shall return the completed physical property address application form to the Menominee Tribal Community Development Department or Menominee County Land Information Office, as appropriate, at which time the application will be reviewed to determine if all the required information is contained therein.</text>
         </para>
         <para>
-          <num>[b]</num>
-          <text>Side of access road the property/building is located on (north, south, east or west).</text>
+          <num>(c)</num>
+          <text>The MITW Community Development Department and Menominee County Zoning Department will issue no building permits for unimproved lots until the parcel for which the permit is intended has been assigned a physical property address.</text>
         </para>
         <para>
-          <num>[c]</num>
-          <text>Whether or not the driveway is shared by other structures.</text>
+          <num>(d)</num>
+          <text>The Community Development Department of MITW or the Menominee County Land Information Office, as appropriate, may issue additional numerals in accord with the official uniform property address numbering system whenever a property has been subdivided or vandalized or some other event has destroyed the original numerals. The first signs and posts will be purchased one time only by the Tribe and county. The property owner/lessee is responsible for the maintenance and replacement of the sign and post once provided.</text>
         </para>
         <para>
-          <num>[d]</num>
-          <text>Tax parcel number (PIN) when appropriate.</text>
-        </para>
-        <para>
-          <num>[e]</num>
-          <text>Legal description of property (deed, volume, and page, certified survey map, plat, section, township, range, lot number, etc.).</text>
-        </para>
-        <para>
-          <num>[f]</num>
-          <text>Any other information that may be vital to this application.</text>
-        </para>
-        <para>
-          <num>[g]</num>
-          <text>Signature of owner or agent.</text>
+          <num>(e)</num>
+          <text>The numeric sign shall be posted within 30 days of the date the number was assigned by the Menominee Tribal Community Development Department or by the Menominee County Land Information Office.</text>
         </para>
       </para>
       <para>
-        <num>(b)</num>
-        <text>The property owner shall return the completed physical property address application form to the Menominee Tribal Community Development Department or Menominee County Land Information Office, as appropriate, at which time the application will be reviewed to determine if all the required information is contained therein.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The MITW Community Development Department and Menominee County Zoning Department will issue no building permits for unimproved lots until the parcel for which the permit is intended has been assigned a physical property address.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>The Community Development Department of MITW or the Menominee County Land Information Office, as appropriate, may issue additional numerals in accord with the official uniform property address numbering system whenever a property has been subdivided or vandalized or some other event has destroyed the original numerals. The first signs and posts will be purchased one time only by the Tribe and county. The property owner/lessee is responsible for the maintenance and replacement of the sign and post once provided.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>The numeric sign shall be posted within 30 days of the date the number was assigned by the Menominee Tribal Community Development Department or by the Menominee County Land Information Office.</text>
-      </para>
-      <para>
-        <num>(1)</num>
+        <num>(2)</num>
         <text>Notification. Notification is the responsibility of the Community Development Department of MITW for all trust parcels and the Menominee County Land Information Office for all fee parcels. Notification must include the correct number to use and the correct spelling of the road name. The following shall be notified of a new address, address change or correction:</text>
         <para>
           <num>(a)</num>
@@ -433,7 +433,7 @@
       </para>
     </para>
     <para>
-      <num>A.</num>
+      <num>F.</num>
       <text>Process for new road name assignment or existing road name change. Road naming is the responsibility of the Menominee Tribal Historic Preservation and Community Development Departments and Menominee County Land Information Office. When a new road is proposed/ constructed or an existing road name must be changed:</text>
       <para>
         <num>(1)</num>

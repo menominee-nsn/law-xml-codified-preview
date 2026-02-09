@@ -148,7 +148,7 @@
         <aftertext>DE MINIMUS — Distinct complimentary items that are less than $10 in value and that in the aggregate do not exceed $100 in value annually.</aftertext>
         <aftertext>GAMING ACTIVITY — Any of the following acts by an employee of the gaming operation:<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>Operating, maintaining or servicing any Class I, Class II, or Class III gaming.</text>
         </para>
         <para>
@@ -186,21 +186,21 @@
         <aftertext>MANAGEMENT FEE — The amount paid pursuant to a management contract as determined within such contracts.</aftertext>
         <aftertext>NET REVENUES — Gross gaming revenues of an Indian gaming operation less:</aftertext>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>Amounts paid out as, or paid for, prizes; and</text>
         </para>
         <para>
           <num>(2)</num>
           <text>Total gaming-related operating expenses, excluding management fees.</text>
-          <text>NONGAMING ACTIVITY — All activities of the gaming operation, and its employees, that do not constitute gaming activity.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
-          <text>NONGAMING EMPLOYEE — Any employee of the gaming operation who is not a gaming employee.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
-          <text>PRIMARY MANAGEMENT OFFICIAL — Has the same meaning as used in Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite>.</text>
-          <text>REGULATION — Regulations promulgated by the Commission pursuant to <cite path="|II|347|III">this article</cite>.</text>
-          <text>TRIBAL COURT — The Tribal Court of the Menominee Indian Tribe of Wisconsin created pursuant to the Menominee Indian Tribe of Wisconsin Constitution and Bylaws and the Judiciary and Law and Order Code<fn path="|II|§347-18|footnotes|4">4</fn> and physically located on the Menominee Indian Reservation or, for the purposes of regulating any gaming conducted outside the boundaries of the Menominee Indian Reservation, a tribunal created by the Menominee Tribal Legislature for the purpose of performing the role of the Tribal Court under <cite path="|II|347|III">this article</cite>.</text>
-          <text>TRIBAL-STATE COMPACT or COMPACT or GAMING COMPACT — A written document, either negotiated and agreed to by the Tribe and an official or agent of the State of Wisconsin or prescribed by the Secretary pursuant to 25 U.S.C. § 2710(d)(7)(B)(vii), governing the conduct of Class III gaming activities on Indian lands.</text>
-          <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe; also may be referred to as "Menominee Nation."</text>
-          <text>WORKING DAYS — Monday through Friday with the exception of Menominee tribal holidays and administrative leave.</text>
         </para>
+        <aftertext>NONGAMING ACTIVITY — All activities of the gaming operation, and its employees, that do not constitute gaming activity.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        <aftertext>NONGAMING EMPLOYEE — Any employee of the gaming operation who is not a gaming employee.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        <aftertext>PRIMARY MANAGEMENT OFFICIAL — Has the same meaning as used in Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite>.</aftertext>
+        <aftertext>REGULATION — Regulations promulgated by the Commission pursuant to <cite path="|II|347|III">this article</cite>.</aftertext>
+        <aftertext>TRIBAL COURT — The Tribal Court of the Menominee Indian Tribe of Wisconsin created pursuant to the Menominee Indian Tribe of Wisconsin Constitution and Bylaws and the Judiciary and Law and Order Code<fn path="|II|§347-18|footnotes|4">4</fn> and physically located on the Menominee Indian Reservation or, for the purposes of regulating any gaming conducted outside the boundaries of the Menominee Indian Reservation, a tribunal created by the Menominee Tribal Legislature for the purpose of performing the role of the Tribal Court under <cite path="|II|347|III">this article</cite>.</aftertext>
+        <aftertext>TRIBAL-STATE COMPACT or COMPACT or GAMING COMPACT — A written document, either negotiated and agreed to by the Tribe and an official or agent of the State of Wisconsin or prescribed by the Secretary pursuant to 25 U.S.C. § 2710(d)(7)(B)(vii), governing the conduct of Class III gaming activities on Indian lands.</aftertext>
+        <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe; also may be referred to as "Menominee Nation."</aftertext>
+        <aftertext>WORKING DAYS — Monday through Friday with the exception of Menominee tribal holidays and administrative leave.</aftertext>
       </para>
       <footnotes>
         <footnote>
@@ -389,23 +389,23 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>E.</num>
         <text>Compensation for Commissioners. Commissioners shall be compensated at a rate to be established annually by the Commission and approved by the Tribal Legislature. Commissioners shall be reimbursed for actual expenses incurred on Commissioner business, including necessary travel expenses. In no event shall any individual Commissioner be compensated based on a percentage of net profits from gaming operations of the Tribe.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>F.</num>
         <text>Meetings open to public. General meetings of the Commission may be open to the general membership of the Tribe. All meetings shall be governed by Robert's Rules of Order. Upon a majority vote as defined in <cite path="§347-19|G">Subsection G</cite>, matters dealing with personnel, security or the fiscal integrity of the gaming operations shall be conducted in executive session and not be open to the public.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>G.</num>
         <text>Quorum; majority vote. A quorum shall consist of three members of the Commission. All decisions shall be made by a majority vote of the Commissioners present, unless indicated otherwise in this code.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>H.</num>
         <text>Monthly report. The Commission shall make or cause to be made monthly reports to the Legislature. The report shall include a full and complete statement of gaming revenues paid to the Tribe, expenses and all other financial transactions of the Commission and a summary of all licensing and enforcement actions.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>I.</num>
         <text>Powers and duties. The purpose of the Tribal Gaming Commission is regulatory, not managerial. The Tribal Gaming Commission shall have the following powers and duties:</text>
         <para>
           <num>(1)</num>
@@ -476,7 +476,7 @@
           </para>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(7)</num>
           <text>The Commission shall promulgate and issue:</text>
           <para>
             <num>(a)</num>
@@ -512,7 +512,7 @@
           </para>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(8)</num>
           <text>The Commission shall:</text>
           <para>
             <num>(a)</num>
@@ -538,74 +538,74 @@
             <num>(f)</num>
             <text>Make suitability determinations.</text>
           </para>
+          <para>
+            <num>(g)</num>
+            <text>Issue gaming licenses to management officials and employees of the operation and service suppliers consistent with the suitability determinations.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Inspect, examine and monitor all gaming activities and have immediate access to review, inspect, examine, photocopy and audit all records of the gaming establishment.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Ensure compliance with the Compact and all tribal, state and federal laws, rules and regulations regarding Indian gaming.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Investigate any suspicious wrongdoing associated with any gaming activities (reserving to the Board and/or any management contractor its right also to investigate as appropriate).</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Hold hearings on patron and/or employee complaints in compliance with procedures established in the Compact, the management agreement, <cite path="|II|347|III">this article</cite> and other tribal gaming regulations.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Comply with any and all reporting requirements under IGRA, the Compact to which the Tribe is a party and any other applicable law.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>Employ such persons as are necessary to carry out the duties of the Gaming Commission, including but not limited to gaming inspectors.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>Seize and impound any patron's winnings which the Commission may have reason to believe may have been won or obtained in violation of <cite path="|II|347|III">this article</cite> pending a civil forfeiture hearing on such seizure.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>Establish its own budget for operations in accordance with its bylaws, including a budget for the Director, and acquire such furnishings, equipment, supplies, stationery, books, motor vehicles and other things as it may deem necessary or desirable in carrying out its functions and incur such other expenses within the limit of funds available to it as it may deem necessary.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>Perform such other duties the Commission deems appropriate for the proper regulation of the Tribal gaming operation.</text>
+          </para>
         </para>
         <para>
-          <num>(g)</num>
-          <text>Issue gaming licenses to management officials and employees of the operation and service suppliers consistent with the suitability determinations.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Inspect, examine and monitor all gaming activities and have immediate access to review, inspect, examine, photocopy and audit all records of the gaming establishment.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Ensure compliance with the Compact and all tribal, state and federal laws, rules and regulations regarding Indian gaming.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Investigate any suspicious wrongdoing associated with any gaming activities (reserving to the Board and/or any management contractor its right also to investigate as appropriate).</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Hold hearings on patron and/or employee complaints in compliance with procedures established in the Compact, the management agreement, <cite path="|II|347|III">this article</cite> and other tribal gaming regulations.</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Comply with any and all reporting requirements under IGRA, the Compact to which the Tribe is a party and any other applicable law.</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Employ such persons as are necessary to carry out the duties of the Gaming Commission, including but not limited to gaming inspectors.</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Seize and impound any patron's winnings which the Commission may have reason to believe may have been won or obtained in violation of <cite path="|II|347|III">this article</cite> pending a civil forfeiture hearing on such seizure.</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Establish its own budget for operations in accordance with its bylaws, including a budget for the Director, and acquire such furnishings, equipment, supplies, stationery, books, motor vehicles and other things as it may deem necessary or desirable in carrying out its functions and incur such other expenses within the limit of funds available to it as it may deem necessary.</text>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>Perform such other duties the Commission deems appropriate for the proper regulation of the Tribal gaming operation.</text>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(9)</num>
           <text>The Commission shall have the authority to develop memoranda of understanding with law enforcement agencies to perform services reasonably necessary to assure compliance with <cite path="|II|347|III">this article</cite>.</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(10)</num>
           <text>Although not required by the Indian Gaming Regulatory Act,<fn path="|II|§347-19|footnotes|6">6</fn> the Commission shall direct the Executive Director of the Tribal Gaming Commission to require all Commission staff to be licensed by the Commission pursuant to procedures in effect for such licensing in order to set an example for all licensees.</text>
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>J.</num>
         <text>Independence. The Tribe recognizes the importance of an independent Tribal Gaming Commission in maintaining a well-regulated gaming operation. The Commission shall act independently and autonomously from the Tribal Legislature in all matters within its purview. No prior or subsequent review by the Tribal Legislature of any actions of the Commission shall be required or permitted except as otherwise explicitly provided in <cite path="|II|347|III">this article</cite>.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>K.</num>
         <text>Prior notice of actions. In adopting, amending, and repealing regulations, the Commission shall give prior notice of the proposed action to all licensees and other persons whom the Commission or Director has reason to believe have a legitimate and bona fide interest in such proposed action. Said notice shall inform such persons as to the general nature of the proposed action and advise them as to the manner in which comments on said proposed action shall be received by the Commission. In emergencies, the Commission may summarily adopt, amend or repeal any regulation if at the time the Commission determines such action is necessary for the immediate preservation of the public peace, health, safety, morals, and good order or general welfare, together with a statement of facts constituting the emergency; provided that the Commission shall schedule such emergency action for a regular hearing within 60 days after any such emergency meeting. The Commission shall set forth or cause to be set forth procedures for purposes stated herein.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>L.</num>
         <text>Request for Commission action. Any person who is determined by the Commission or Director to be a bona fide interested party may file a petition in a manner and form approved by the Commission requesting the adoption, amendment or repeal of a regulation. Upon receipt of the petition, the Commission shall, within 30 working days, deny the request in writing or schedule the matter for action pursuant to this section.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>M.</num>
         <text>Voting on licensing. Any Commission vote resulting in approving, disapproving, revoking, suspending, limiting or conditioning a license under <cite path="|II|347|III">this article</cite> shall be by ballot only.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>N.</num>
         <text>Reconsideration. If an individual, within 10 working days of receiving written notice of a Commission determination, files written objections to that determination, the Commission shall hold a hearing to review its decision at the next scheduled meeting. At the hearing, the burden shall be on the applicant to show cause why the Commission's determination was incorrect. Following such hearing, the Commission shall, within 10 working days, reach a determination concerning:</text>
         <para>
           <num>(1)</num>
@@ -621,23 +621,23 @@
         </para>
       </para>
       <para>
-        <num>F.</num>
+        <num>O.</num>
         <text>Right to appeal. Unless otherwise contractually agreed to, the subject shall have the right to appeal the determination of the Commission to the Tribal Court, in written form, on or before the 10th day following receipt of the written determination of the Commission. A determination of such appeal by the Court shall be made by the Court without a jury. The Court shall make its determination on the record provided, unless it deems further testimony or evidence necessary. In its review the Court shall not substitute its judgment for that of the Commission as to weight of the evidence on any disputed finding of fact. Due weight shall be accorded the experience and specialized knowledge of the Commission as well as discretionary authority conferred on the Commission by <cite path="|II|347|III">this article</cite>.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>P.</num>
         <text>Employment of Director. The Tribe shall employ a Director who shall be supervised by the Gaming Commission. The Gaming Commission shall hire the Director pursuant to the Tribe's Personnel Policies and Procedures (Ordinance No. 83-6).<fn path="|II|§347-19|footnotes|7">7</fn></text>
       </para>
       <para>
-        <num>H.</num>
+        <num>Q.</num>
         <text>Termination of Director. Termination will be the decision of the Gaming Commission pursuant to the Tribe's Personnel Policies and Procedures (Ordinance 83-6).</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>R.</num>
         <text>Duties of Director. The Director shall, subject to the approval of the Commission, perform all duties, exercise all powers, assume and discharge all responsibilities, and carry out and effect all purposes of <cite path="|II|347|III">this article</cite> relating to the regulation of all gaming activity. In all decisions, the Director shall act to promote and ensure integrity, security, honesty and fairness of the operation and administration of all gaming activity. It will be the responsibility of the Tribal Gaming Commission to develop and maintain job description(s) for the Director(s) positions in accordance with <cite path="|II|347|III">this article</cite> and subject to Ordinance No. 83-6, Personnel Policies and Procedures.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>S.</num>
         <text>Right of inspection; enforcement.</text>
         <para>
           <num>(1)</num>
@@ -673,15 +673,15 @@
         </para>
       </para>
       <para>
-        <num>K.</num>
+        <num>T.</num>
         <text>Confidentiality. The Gaming Commission shall ensure that all records and information obtained as a result of an employee background investigation shall remain confidential and shall not be disclosed to persons who are not directly involved in the licensing process. Under no circumstances shall information obtained during the course of an employee background investigation be disclosed to members of management, human resources personnel or others employed by the Tribal gaming operation. <cite path="§347-19|K.">This subsection</cite> does not apply to requests from or the furnishing of such information or records to any tribal, federal or state law enforcement, regulatory or judicial agency or to the use of such information or records by the Commission and staff in performance of their official duties.</text>
       </para>
       <para>
-        <num>L.</num>
+        <num>U.</num>
         <text>Violations of code; punishment. Any violation of this code shall be punished by a fine of no more than $5,000 for each separate count or violation or one year in jail, or both. Each day of violation shall constitute a separate count or violation under this code. A violator may also be required to pay court costs, storage fees, and auction or sales fees. All property used or which may be used in activities in each and every separate violation of this code may become the property of the Tribe; persons may be prohibited from trespassing on premises licensed under this code, licenses may be suspended, revoked, or limited and/or establishments may be forcibly closed. All such action shall be taken at the discretion of the Commission, subject to the right of appeal to the Tribal Court. Winnings found to have been received in violation of this code are forfeited and become the property of the Tribe.</text>
       </para>
       <para>
-        <num>M.</num>
+        <num>V.</num>
         <text>Due process regarding enforcement actions. The Commission shall promulgate regulations protecting due process rights of all individuals subject to <cite path="|II|347|III">this article</cite>.</text>
       </para>
       <footnotes>
@@ -855,10 +855,10 @@
         <para>
           <num>(1)</num>
           <text>Adequate accounting procedures that are maintained and verifiable financial reports that are prepared by or for the Legislature on a monthly basis;</text>
-          <para>
-            <num>(2)</num>
-            <text class="center">Access to the daily operations of the gaming by appropriate tribal officials, who shall also have a right to verify the daily gross revenues and income made from any such tribal gaming activity;</text>
-          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Access to the daily operations of the gaming by appropriate tribal officials, who shall also have a right to verify the daily gross revenues and income made from any such tribal gaming activity;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1250,7 +1250,7 @@
           <text>PRIMARY MANAGEMENT OFFICIAL —</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>The person having management responsibility for a management contract;</text>
         </para>
         <para>
@@ -1271,7 +1271,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>B.</num>
         <text>Application forms.</text>
         <para>
           <num>(1)</num>
@@ -1308,7 +1308,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>C.</num>
         <text>Background investigations.</text>
         <para>
           <num>(1)</num>
@@ -1384,11 +1384,11 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>D.</num>
         <text>Eligibility determination. The Tribe shall review a person's prior activities, criminal record, if any, and reputation, habits and associates to make a finding concerning the eligibility of a key employee or primary management official for employment in a gaming operation. If the authorized tribal official, in applying the standards adopted in <cite path="|II|347">this chapter</cite>, determines that the licensing of the person poses a threat to the public interest or to the effective regulation of gaming or creates or enhances dangers of unsuitable, unfair, or illegal practices and methods and activities in the conduct of gaming, an authorizing tribal official shall not license that person in a key employee or primary management official position.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>E.</num>
         <text>Report to the National Indian Gaming Commission. All reports required to be made to the National Indian Gaming Commission shall be made through the appropriate regional office. Should the Tribe wish to submit notices electronically, it shall contact the appropriate regional office for guidance on acceptable document formats and means of transmission.</text>
         <para>
           <num>(1)</num>
@@ -1456,7 +1456,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>F.</num>
         <text>Granting a gaming license.</text>
         <para>
           <num>(1)</num>
@@ -1508,7 +1508,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>G.</num>
         <text>License suspension.</text>
         <para>
           <num>(1)</num>

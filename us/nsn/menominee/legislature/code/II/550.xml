@@ -966,12 +966,12 @@
       <para>
         <num>B.</num>
         <text>A Type 1 motorcycle with an automatic transmission and an engine certified by the manufacturer at not more than 50 cubic centimeters or an equivalent power unit.</text>
-        <text>MOTOR HOME — A motor vehicle designed to be operated upon a highway for use as a temporary or recreational dwelling and having the same internal characteristics and equipment as a mobile home.</text>
-        <text>MOTOR VEHICLE — Every device in, upon, or which any person or property is or may be transported or drawn upon a highway, except railroad trains. A snowmobile shall not be considered a motor vehicle.</text>
-        <text>MOTORCYCLE — A motor vehicle, excluding a tractor, all-terrain vehicle, or a utility terrain vehicle, which is capable of speeds in excess of 30 miles per hour with a 150-pound rider on a dry, level, hard surface with no wind, with a power source as an integral part of the vehicle, and which meets any of the following conditions:</text>
       </para>
+      <aftertext>MOTOR HOME — A motor vehicle designed to be operated upon a highway for use as a temporary or recreational dwelling and having the same internal characteristics and equipment as a mobile home.</aftertext>
+      <aftertext>MOTOR VEHICLE — Every device in, upon, or which any person or property is or may be transported or drawn upon a highway, except railroad trains. A snowmobile shall not be considered a motor vehicle.</aftertext>
+      <aftertext>MOTORCYCLE — A motor vehicle, excluding a tractor, all-terrain vehicle, or a utility terrain vehicle, which is capable of speeds in excess of 30 miles per hour with a 150-pound rider on a dry, level, hard surface with no wind, with a power source as an integral part of the vehicle, and which meets any of the following conditions:</aftertext>
       <para>
-        <num>A.</num>
+        <num proof="done">A.</num>
         <text>Type 1 is a motor vehicle, which meets either of the following conditions:</text>
         <para>
           <num>(1)</num>
@@ -985,13 +985,13 @@
       <para>
         <num>B.</num>
         <text>Type 2 is a motor vehicle designed and built to have at least three wheels in contact with the ground, a curb weight of less than 1,500 pounds, and a passenger and operator area with sides permanently enclosed with rigid construction and a top which may be convertible.</text>
-        <text>NONMOVING TRAFFIC VIOLATION — A citation for parking a motor vehicle in violation of a statute, ordinance, or resolution of the Tribe or the State of Wisconsin.</text>
-        <text>OTHER JURISDICTION or ANOTHER JURISDICTION — Territory other than all lands within the exterior boundaries of the Menominee Indian Tribe of Wisconsin Reservation, including the State of Wisconsin, and any state or tribal nation.</text>
-        <text>OWNER — A person who holds the legal title of a motor vehicle, except that if legal title is held by a secured party with the immediate right of possession of the motor vehicle vested in the debtor, the debtor is the owner for the purposes of <cite path="|II|550|VII">this article</cite>.</text>
-        <text>PERSON WITH A DISABILITY THAT LIMITS OR IMPAIRS THE ABILITY TO WALK — Any person with a disability as defined by the Americans with Disabilities Act of 1990, 42 USC 12101 et seq., so far as applicable, or any persons who meet the following conditions:</text>
       </para>
+      <aftertext>NONMOVING TRAFFIC VIOLATION — A citation for parking a motor vehicle in violation of a statute, ordinance, or resolution of the Tribe or the State of Wisconsin.</aftertext>
+      <aftertext>OTHER JURISDICTION or ANOTHER JURISDICTION — Territory other than all lands within the exterior boundaries of the Menominee Indian Tribe of Wisconsin Reservation, including the State of Wisconsin, and any state or tribal nation.</aftertext>
+      <aftertext>OWNER — A person who holds the legal title of a motor vehicle, except that if legal title is held by a secured party with the immediate right of possession of the motor vehicle vested in the debtor, the debtor is the owner for the purposes of <cite path="|II|550|VII">this article</cite>.</aftertext>
+      <aftertext>PERSON WITH A DISABILITY THAT LIMITS OR IMPAIRS THE ABILITY TO WALK — Any person with a disability as defined by the Americans with Disabilities Act of 1990, 42 USC 12101 et seq., so far as applicable, or any persons who meet the following conditions:</aftertext>
       <para>
-        <num>A.</num>
+        <num proof="done">A.</num>
         <text>Cannot walk 200 feet or more without stopping to rest.</text>
       </para>
       <para>
@@ -1017,14 +1017,14 @@
       <para>
         <num>G.</num>
         <text>Has a degree of disability equal to that specified in <cite path="§550-35|A">Subsection A</cite> to F above.</text>
-        <text>PERSONAL IDENTIFIER — A name, street address, post office box number, or nine-digit extended zip code.</text>
-        <text>PERSONALIZED REGISTRATION PLATES — Registration plates for a motor vehicle registered under <cite path="|II|550|VII">this article</cite>, which display a registration composed of letters, numbers, or both, requested by the applicant.</text>
-        <text>REGISTRANT — A person who has applied for and received registration plates for a motor vehicle under <cite path="|II|550|VII">this article</cite>.</text>
-        <text>RESERVATION — All lands within the exterior boundaries of the Reservation of the Menominee Indian Tribe of Wisconsin, as created pursuant to the Menominee Tribe of Wisconsin Restoration of Federal Supervision Act, and any lands added thereto pursuant to federal law.</text>
-        <text>SPECIAL-INTEREST VEHICLE — A motor vehicle of any age, which has not been altered or modified from original manufacturing specifications and, because of its historic interest, is being preserved by hobbyists.</text>
-        <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
-        <text>TRUCK — Every motor vehicle 80,000 pounds or less designed, used, or maintained primarily for the transportation of property.</text>
       </para>
+      <aftertext>PERSONAL IDENTIFIER — A name, street address, post office box number, or nine-digit extended zip code.</aftertext>
+      <aftertext>PERSONALIZED REGISTRATION PLATES — Registration plates for a motor vehicle registered under <cite path="|II|550|VII">this article</cite>, which display a registration composed of letters, numbers, or both, requested by the applicant.</aftertext>
+      <aftertext>REGISTRANT — A person who has applied for and received registration plates for a motor vehicle under <cite path="|II|550|VII">this article</cite>.</aftertext>
+      <aftertext>RESERVATION — All lands within the exterior boundaries of the Reservation of the Menominee Indian Tribe of Wisconsin, as created pursuant to the Menominee Tribe of Wisconsin Restoration of Federal Supervision Act, and any lands added thereto pursuant to federal law.</aftertext>
+      <aftertext>SPECIAL-INTEREST VEHICLE — A motor vehicle of any age, which has not been altered or modified from original manufacturing specifications and, because of its historic interest, is being preserved by hobbyists.</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin.</aftertext>
+      <aftertext>TRUCK — Every motor vehicle 80,000 pounds or less designed, used, or maintained primarily for the transportation of property.</aftertext>
       <annotations/>
     </section>
     <section>

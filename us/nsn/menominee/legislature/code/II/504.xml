@@ -272,7 +272,7 @@
           <text>A letter detailing the desired tribal action or response.</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(3)</num>
           <text>Three copies of the plan or report prepared pursuant to the appropriate section of <cite path="|II|504|II">this article</cite>. All copies shall be submitted to the Tribe. The plans and reports and all methods and procedures used to prepare them shall conform to the following:</text>
           <para>
             <num>(a)</num>
@@ -333,7 +333,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>B.</num>
         <text>A submittal for initial licensing or relicensing of any solid waste disposal facility shall include:</text>
         <para>
           <num>(1)</num>
@@ -533,25 +533,25 @@
             <text>Method of screening the facility from the surrounding areas.</text>
           </para>
         </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Buildings and equipment plans and drawings, including:</text>
         <para>
-          <num>(a)</num>
-          <text>Plans of all structures proposed at the facility, including foundations, walls, floor elevations, and other construction items.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Cross-section drawings through the facility indicating process flow lines.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Cross-section drawings of each major piece of mechanical equipment.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Plans and drawings of supplemental construction areas, fixed or moveable equipment, electrical systems, and any other drawings necessary to fully describe the facility.</text>
+          <num>(4)</num>
+          <text>Buildings and equipment plans and drawings, including:</text>
+          <para>
+            <num>(a)</num>
+            <text>Plans of all structures proposed at the facility, including foundations, walls, floor elevations, and other construction items.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Cross-section drawings through the facility indicating process flow lines.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Cross-section drawings of each major piece of mechanical equipment.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Plans and drawings of supplemental construction areas, fixed or moveable equipment, electrical systems, and any other drawings necessary to fully describe the facility.</text>
+          </para>
         </para>
         <para>
           <num>(5)</num>
@@ -580,50 +580,50 @@
             <num>(f)</num>
             <text>Vehicle traffic routing at the facility and provisions for access to connecting roadways.</text>
           </para>
+          <para>
+            <num>(g)</num>
+            <text>Methods of water supply and wastewater treatment.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Methods of volume reduction, such as compacting, grinding, compression or tamping.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Design criteria used to select equipment capacity and building configuration and sizing.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Daily cleanup procedures.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Names and locations of all solid waste disposal operations to which waste from the transfer station may be hauled.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Procedures for alternate routing of waste during inoperable periods at the facility.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>Appurtenances and procedures to handle heavy or bulky items and store solid waste beyond the end of the working day.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>Equipment and procedures designed to control dust, odors, noise, and windblown paper.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>Equipment and procedures designed to prevent and control fire, including heat and/or smoke sensors; fire extinguishers; two-inch diameter fire hose of sufficient length to access the entire facility; and an adequately sized well for indoor facilities.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>(g)</num>
-        <text>Methods of water supply and wastewater treatment.</text>
-        <para>
-          <num>(h)</num>
-          <text>Methods of volume reduction, such as compacting, grinding, compression or tamping.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Design criteria used to select equipment capacity and building configuration and sizing.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Daily cleanup procedures.</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Names and locations of all solid waste disposal operations to which waste from the transfer station may be hauled.</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Procedures for alternate routing of waste during inoperable periods at the facility.</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Appurtenances and procedures to handle heavy or bulky items and store solid waste beyond the end of the working day.</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Equipment and procedures designed to control dust, odors, noise, and windblown paper.</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Equipment and procedures designed to prevent and control fire, including heat and/or smoke sensors; fire extinguishers; two-inch diameter fire hose of sufficient length to access the entire facility; and an adequately sized well for indoor facilities.</text>
-        </para>
-      </para>
-      <para>
-        <num>A.</num>
+        <num>D.</num>
         <text>Locational criteria. No person shall establish, construct, operate, maintain or permit the use of property for a transfer site or facility in wetlands.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>E.</num>
         <text>Operational requirements. No person shall operate or maintain a transfer site or facility except in conformance with the approved plan of operation and the following minimum requirements:</text>
         <para>
           <num>(1)</num>
@@ -703,7 +703,7 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>F.</num>
         <text>Closure. Any person who operates or maintains a transfer site or facility or who permits the use of property for such purpose shall close the facility in accordance with any plan approval issued by the Tribe and the following minimum practices:</text>
         <para>
           <num>(1)</num>
@@ -937,7 +937,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>F.</num>
         <text>Feasibility report.</text>
         <para>
           <num>(1)</num>
@@ -1116,16 +1116,16 @@
           </para>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(4)</num>
           <text>Within 60 days after a feasibility report is submitted, the Tribe shall notify the applicant in writing whether the report is complete. If the report is not complete, the Tribe will specify the information which must be submitted before the report is deemed complete. The Tribe will determine whether or not the feasibility report is complete by determining whether or not the minimum requirements of <cite path="§504-20|A.|(1)">this subsection</cite> have been met. Additional feasibility information may be required of the applicant after a determination that the feasibility report is complete only if the Tribe establishes that a detailed review of the feasibility report indicates that site feasibility cannot be determined in the absence of such additional information.</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(5)</num>
           <text>The Tribe may by order require the submittal of any of the information specified in this section for any existing landfill.</text>
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>G.</num>
         <text>Plan of operation.</text>
         <para>
           <num>(1)</num>
@@ -1317,15 +1317,15 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>H.</num>
         <text>The Tribe may require that a registered professional engineer document site construction and render an opinion as to whether the site has been constructed and/or operated in substantial conformance with the plan of operation.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>I.</num>
         <text>Prior to licensing, the owner or operator shall submit proof that a notation of the existence of the site has been recorded in the office of the Menominee County Register of Deeds.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>J.</num>
         <text>Minimum requirements for land disposal site or facility design and operation. No person shall operate or maintain a new or existing land disposal site or facility except in conformance with any approved plan of operation and the following minimum requirements:</text>
         <para>
           <num>(1)</num>
@@ -1497,7 +1497,7 @@
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>K.</num>
         <text>Monitoring. The Tribe shall require the owner or operator of any land disposal site or facility, or any person who permits the use of property for such purpose, to conduct monitoring of groundwater, leachate, gas, surface water, or other physical features.</text>
         <para>
           <num>(1)</num>
@@ -1553,7 +1553,7 @@
         </para>
       </para>
       <para>
-        <num>E.</num>
+        <num>L.</num>
         <text>Closure. Any person who maintains or operates a land disposal site or facility or who permits use of property for such purpose shall, when the fill area or a portion thereof reaches final grade, or when the Tribe determines that closure is required, cease to accept waste and close the site or portion thereof in accordance with any plan approval issued by the Tribe and the following minimum practices:</text>
         <para>
           <num>(1)</num>
@@ -1745,21 +1745,21 @@
             <num>(c)</num>
             <text>The insurance policy shall provide that, as long as any obligation of the owner for closure remains, the insurance policy shall not be cancelled by the insurer, unless a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(6)|(c)">this subsection</cite> is provided to the Tribe by the owner. If the insurer proposes to cancel such an insurance policy, the insurer shall provide notice to the Tribe in writing by registered or certified mail not less than 90 days prior to the proposed cancellation date. Not less than 30 days prior to the expiration of the ninety-day notice period, the owner shall deliver to the Tribe a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(6)|(c)">this subsection</cite>, in the absence of which all landfilling operations shall immediately cease, and the policy shall remain in effect as long as any obligation of the owner remains for closure.</text>
           </para>
+          <para>
+            <num>(d)</num>
+            <text>If the insurance company becomes bankrupt or insolvent the owner shall, within 30 days after receiving written notice thereof, deliver to the Tribe a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(d)">this subsection</cite>, in the absence of which all operations shall immediately cease, and the policy shall remain in effect as long as any obligation of the owner remains for closure.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The insurance policy shall further provide that funds, up to an amount equal to the maximum risk limit of the policy, will be available to the Tribe to carry out the closure requirements of the approved plan of operation or, if no approved plan of operation exists, all applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use the funds for that purpose to the last known address of the owner.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Each insurance policy shall contain a provision allowing assignment of the policy to a successor owner or operator. Such assignment may be conditioned upon the consent of the insurer, provided that such consent is not unreasonably refused.</text>
+          </para>
         </para>
         <para>
-          <num>(d)</num>
-          <text>If the insurance company becomes bankrupt or insolvent the owner shall, within 30 days after receiving written notice thereof, deliver to the Tribe a replacement insurance policy or other proof of financial responsibility under <cite path="§504-22|C.|(d)">this subsection</cite>, in the absence of which all operations shall immediately cease, and the policy shall remain in effect as long as any obligation of the owner remains for closure.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The insurance policy shall further provide that funds, up to an amount equal to the maximum risk limit of the policy, will be available to the Tribe to carry out the closure requirements of the approved plan of operation or, if no approved plan of operation exists, all applicable requirements in <cite path="§504-20|L">§ 504-20L</cite> if the owner fails to do so. The Tribe shall mail notification of its intent to use the funds for that purpose to the last known address of the owner.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Each insurance policy shall contain a provision allowing assignment of the policy to a successor owner or operator. Such assignment may be conditioned upon the consent of the insurer, provided that such consent is not unreasonably refused.</text>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(7)</num>
           <text>Other methods. The Tribe shall consider other financial commitments made payable to or established for the benefit of the Tribe to ensure that the owner or operator will comply with the closure requirements for the approved plan of operation or, if no approved plan of operation exists for the facility, the applicable requirements in <cite path="§504-20|L">§ 504-20L</cite>. The Tribe shall review the request of any owner or operator to establish proof of financial responsibility under <cite path="§504-22|C.|(2)">this subsection</cite>. The owner shall submit the request and all supporting information as part of the plan of operation.</text>
         </para>
       </para>
@@ -1982,10 +1982,10 @@
       <para>
         <num>G.</num>
         <text>Any waste which is nonhazardous as a result of treatment pursuant to RCRA Subtitle C.</text>
-        <text>TYPE "B" SPECIAL WASTE — Any waste from a commercial or industrial activity meeting the following descriptions:</text>
       </para>
+      <aftertext>TYPE "B" SPECIAL WASTE — Any waste from a commercial or industrial activity meeting the following descriptions:</aftertext>
       <para>
-        <num>A.</num>
+        <num proof="done">A.</num>
         <text>Friable asbestos waste from building demolition or cleaning. Nonfriable asbestos is a special waste if it has been processed, handled or used in such a way that asbestos fibers may be freely released. Asbestos-bearing industrial process waste is a Type "A" special waste.</text>
       </para>
       <para>
@@ -2168,4 +2168,16 @@
       <annotations/>
     </section>
   </container>
+  <attachments>
+    <heading>Attachments</heading>
+    <attachment name="table-1-menominee-tribal-solid-waste-fee-schedule" url="/us/nsn/menominee/legislature/code/attachments/504a.pdf">
+      <heading>Table 1 - Menominee Tribal Solid Waste Fee Schedule</heading>
+    </attachment>
+    <attachment name="table-2-minimum-measurements-and-sampling-frequency" url="/us/nsn/menominee/legislature/code/attachments/504b.pdf">
+      <heading>Table 2 - Minimum Measurements and Sampling Frequency</heading>
+    </attachment>
+    <attachment name="table-3-sampling-parameters" url="/us/nsn/menominee/legislature/code/attachments/504c.pdf">
+      <heading>Table 3 - Sampling Parameters</heading>
+    </attachment>
+  </attachments>
 </container>

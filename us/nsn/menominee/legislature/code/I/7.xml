@@ -174,7 +174,7 @@
       <text>APPROPRIATION (APPROPN) — An authorization granted by the Tribal Legislature to make expenditures and incur obligations for specific purposes. (Note: Appropriations are specified as to the amount and the time in which they must be expended.)</text>
       <text>BUDGET (BUDGT) — A plan of financial operation embodying proposed expenditures for a given period and the proposed means of financing them. Used without any modifier, the term indicates a financial plan for a single year.</text>
       <text>BUDGETARY ACCOUNTING (BUDGT ACCTG) — The element of the standard governmental accounting system which is directed toward satisfying legal requirements for budgetary control and reflecting budgetary operations and conditions. Funds, budget units and budgetary accounts, such as estimated revenues and appropriations, are components of the element of the accounting system.</text>
-      <text>BUDGETARY CONTROL (BUDGT CNTRL) — The control or management of a government unit or enterprise in accordance with the approved budget for the purpose of keeping expenditures within the limitations of available appropriations and available revenues.</text>
+      <text>BUDGETARY CONTROL (BUDGT CNTRL) — The control or management of a government unit or enterprise in accordance with the approved budget for the purpose of keeping expenditures within the limitations of available appropriations and available revenues. <strong>[Amended 5-23-1997]</strong></text>
       <text>BUDGET UNIT (BUDGT UNIT) — The basic accounting entity within the operating funds. The level to which budget appropriations are made by the Tribal Legislature and to which, in most instances, appropriations are controlled.</text>
       <text>CASH MANAGEMENT (CASH MNGT) — Allocating, spending, investing, conserving, safeguarding, and otherwise handling cash or its equivalent in a manner intended to result in its most efficient use.</text>
       <text>CODING (COD) — A system of numbering or otherwise designating accounts, entries, invoices, vouchers, etc., in such a manner that the symbol used reveals quickly certain required information.</text>
@@ -184,7 +184,7 @@
       <text>appropriation is obligated. They cease to be encumbrances when paid or when the actual liability is recorded.</text>
       <text>EXPENDITURE (EXPEND) — Where the accounts are kept on the cash basis, this term designates only actual cash disbursements for these purposes. Where the accounts are kept on the accrual basis or the modified accrual basis, this term designates the cost of goods delivered or services rendered, whether paid or unpaid, including expenses, provision of debt retirement and capital outlays.</text>
       <text>EXPENSE APPROVAL AUTHORITY (EXP APP ATHY) — An individual or a position that has been authorized by the Tribal Legislature to approve purchase orders, contracts, time cards, etc., that are consistent with all underlying agreements and program objectives, to the level of appropriations approved by the Tribal Legislature.</text>
-      <text>FINANCIAL MANAGER (FI MAN) — The individual responsible for the implementation and maintenance of the accounting system, in conformity with generally accepted accounting principles applied on a consistent basis. The Financial Manager reports to the Tribal Legislature or its officers the progress of all budget units and the compliance of requirements for management of state or federal grants and contracts.</text>
+      <text>FINANCIAL MANAGER (FI MAN) — The individual responsible for the implementation and maintenance of the accounting system, in conformity with generally accepted accounting principles applied on a consistent basis. The Financial Manager reports to the Tribal Legislature or its officers the progress of all budget units and the compliance of requirements for management of state or federal grants and contracts. <strong>[Amended 5-23-1997]</strong></text>
       <text>FUNCTION (FN) — A class of related services established to accomplish broad community goals or an authorized group of programs having related purposes. In the government field, the classification of expenditures by functions permits the use of expenditure data in preparation of performance budgets in which the main emphasis is on activities rather than organizational units and objects.</text>
       <text>FUND (FD) — An independent fiscal and accounting entity with a self-balancing set of accounts recording cash and/or other resources together with all related liabilities, obligations, reserves and equities which are segregated for the purpose of carrying on specific activities or attaining certain objectives in accordance with special regulations, restrictions or limitations.</text>
       <text>FUND TRANSFER (FD TRNS) — A contribution of fund capital to fund capital of another intra-governmental unit. This does not represent loans to or from intra-governmental units.</text>
@@ -207,9 +207,7 @@
         <text>SYSTEM (SYS) — A set of elements forming an activity or processing procedure, seeking common goals, by operating on data in a time reference to yield information, e.g., payroll system.</text>
       </para>
     </para>
-    <annotations>
-      <annotation type="History">Amended 5-23-1997</annotation>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>§</prefix>

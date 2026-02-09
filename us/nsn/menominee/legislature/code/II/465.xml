@@ -74,7 +74,7 @@
       <text>SOLID WASTE — Any garbage, refuse, sludge from a waste treatment plant, or air pollution control facility, and other discarded or salvageable materials, including solid, liquid, semisolid, or contained gaseous materials resulting from industrial, commercial, mining, and agricultural operations, and from community activities. Solid waste does not include:</text>
     </para>
     <para>
-      <num>A.</num>
+      <num proof="done">A.</num>
       <text>Solids or dissolved materials in domestic sewage;</text>
     </para>
     <para>
@@ -112,10 +112,10 @@
     <para>
       <num>H.</num>
       <text>Post-use plastics or nonrecycled feedstock that are processed at a pyrolysis or gasification facility; that are held at a pyrolysis or gasification facility, prior to processing at the facility where they are being held, to ensure that production is not interrupted; or that are held off site before delivery to a pyrolysis or gasification facility with the intent that they will be processed at a pyrolysis or gasification facility.</text>
-      <text>SOLID WASTE FACILITY — A facility for solid waste treatment, solid waste storage, or solid waste disposal, and includes commercial, industrial, municipal, state, and federal establishments or operations such as, without limitation, because of enumeration, sanitary landfills, dumps, land disposal sites, incinerators, transfer stations, storage facilities, collection and transportation services, and processing, treatment, and recovery facilities. Solid waste facility includes the land where the facility is located. Solid waste facility does not include:</text>
     </para>
+    <aftertext>SOLID WASTE FACILITY — A facility for solid waste treatment, solid waste storage, or solid waste disposal, and includes commercial, industrial, municipal, state, and federal establishments or operations such as, without limitation, because of enumeration, sanitary landfills, dumps, land disposal sites, incinerators, transfer stations, storage facilities, collection and transportation services, and processing, treatment, and recovery facilities. Solid waste facility includes the land where the facility is located. Solid waste facility does not include:</aftertext>
     <para>
-      <num>A.</num>
+      <num proof="done">A.</num>
       <text>A facility for the processing of scrap iron, steel, or nonferrous metal using large machines to produce a principal product of scrap metal for sale or use for remelting purposes;</text>
     </para>
     <para>
@@ -129,13 +129,13 @@
     <para>
       <num>D.</num>
       <text>A pyrolysis facility or a gasification facility.</text>
-      <text>SOLID WASTE TREATMENT — Any method, technique or process which is designed to change the physical, chemical or biological character or composition of solid waste. Treatment includes incineration.</text>
-      <text>TOTE — A container on wheels meant for the purpose of holding solid waste or recyclable materials for curbside pickup.</text>
-      <text>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of the solid waste from one vehicle or container to another, generally of the larger capacity, occurs prior to the point of processing or disposal.</text>
-      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
-      <text>WASTE TIRE — A tire that is no longer suitable for its original purpose because of wear, damage or defect.</text>
-      <text>YARD WASTE — Leaves, grass clippings, yard and garden debris and brush, including clean woody vegetative material no greater than six inches in diameter. This term does not include stumps, roots or shrubs with intact root balls.</text>
     </para>
+    <aftertext>SOLID WASTE TREATMENT — Any method, technique or process which is designed to change the physical, chemical or biological character or composition of solid waste. Treatment includes incineration.</aftertext>
+    <aftertext>TOTE — A container on wheels meant for the purpose of holding solid waste or recyclable materials for curbside pickup.</aftertext>
+    <aftertext>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of the solid waste from one vehicle or container to another, generally of the larger capacity, occurs prior to the point of processing or disposal.</aftertext>
+    <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin.</aftertext>
+    <aftertext>WASTE TIRE — A tire that is no longer suitable for its original purpose because of wear, damage or defect.</aftertext>
+    <aftertext>YARD WASTE — Leaves, grass clippings, yard and garden debris and brush, including clean woody vegetative material no greater than six inches in diameter. This term does not include stumps, roots or shrubs with intact root balls.</aftertext>
     <annotations/>
   </section>
   <section>

@@ -128,7 +128,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>B.</num>
         <text>Notice to rafters/kayakers. Seasonal permit vendors shall post signs notifying rafters of upcoming whitewater areas.</text>
       </para>
       <annotations/>
@@ -171,10 +171,10 @@
       <para>
         <num>D.</num>
         <text>Eligibility. In order to be eligible to receive a rafting/kayaking license, the applicant must show the following:</text>
-      </para>
-      <para>
-        <num>(1)</num>
-        <text>That he is an enrolled member of the Menominee Indian Tribe.</text>
+        <para>
+          <num>(1)</num>
+          <text>That he is an enrolled member of the Menominee Indian Tribe.</text>
+        </para>
         <para>
           <num>(2)</num>
           <text>That the Menominee Tribal Tax Commissioner certifies that he has no outstanding taxes or fees due the Menominee Indian Tribe.</text>
@@ -214,14 +214,14 @@
         <para>
           <num>(3)</num>
           <text>Licenses shall be issued to those persons who meet all the requirements of <cite path="§268-7|D">Subsection D</cite> above. If there are more than two eligible applicants, the decision as to who will receive the rafting/ kayaking licenses shall be made by the Menominee Tribal Legislature. The Legislature shall base its decision on factors including, but not limited to, the following:</text>
-        </para>
-      </para>
-      <para>
-        <num>(a)</num>
-        <text>Ability of applicant to conduct rafting/kayaking business.</text>
-        <para>
-          <num>(b)</num>
-          <text>Applicant's compliance history of running business.</text>
+          <para>
+            <num>(a)</num>
+            <text>Ability of applicant to conduct rafting/kayaking business.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Applicant's compliance history of running business.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -439,7 +439,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>G.</num>
         <text>Injury reports.</text>
         <para>
           <num>(1)</num>
@@ -447,7 +447,7 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>H.</num>
         <text>Liability.</text>
         <para>
           <num>(1)</num>
@@ -619,11 +619,11 @@
             <num>(e)</num>
             <text>Fine for violations(s) of <cite path="§268-11">§ 268-11</cite>B(1) when rafters/kayakers under the age of 18 are present in the raft: $500.</text>
           </para>
+          <para>
+            <num>(f)</num>
+            <text>For a third and subsequent violations, the designated fines shall double.</text>
+          </para>
         </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>For a third and subsequent violations, the designated fines shall double.</text>
         <para>
           <num>(2)</num>
           <text>Violations of <cite path="§268-11|A">§ 268-11A</cite>, B(1), and G, shall result in the immediate termination of the rafting/ kayaking trip.</text>
@@ -632,10 +632,10 @@
           <num>(3)</num>
           <text>Transportation penalty. A transportation penalty shall be added to all citation(s) resulting in a terminated trip where the rafters/kayakers had to use Tribal law enforcement vehicles to be returned to their vehicle(s). Transportation cost shall be at a rate of $0.75 per mile, per vehicle and/or per trip, round trip to be calculated from the Tribal Law Enforcement Center at W3293 Tribal Office Loop Road to where the regulated trip was terminated and then from the termination spot to the rafter(s)/kayaker(s) vehicle.</text>
         </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Standard court costs determined by the court shall be applied to all violations.</text>
+        <para>
+          <num>(4)</num>
+          <text>Standard court costs determined by the court shall be applied to all violations.</text>
+        </para>
       </para>
       <annotations/>
     </section>

@@ -195,37 +195,37 @@
         <num>(2)</num>
         <text>The Commission shall not issue nomination petitions to any person other than an individual seeking to become a certified candidate for the Legislature.</text>
       </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The nomination petition issued by the Commission shall include the following information:</text>
-    </para>
-    <para>
-      <num>(a)</num>
-      <text>Name of the tribal member seeking to become a certified candidate for the Legislature;</text>
       <para>
-        <num>(b)</num>
-        <text>Whether the tribal member will be running as an on-Reservation or off-Reservation candidate;</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Year of the regular or special election;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Signature and date lines for no fewer than 100 tribal members who are 18 years of age or older willing to nominate the individual as a candidate;</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>The deadline date and time specified in <cite path="§63-17">§ 63-17</cite> of <cite path="|I|63">this chapter</cite> for the individual seeking to become a certified candidate to return the nomination petition to the Commission;</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>The following certification statement at the bottom of each petition: "I, the undersigned, hereby certify that I meet the requirements of Article IV, Section 4(a), of the Menominee Constitution and Bylaws, have read and will abide by the Legislature Election Ordinance (Ordinance No. 07-17), and that I have personally circulated and obtained the original signatures of the enrolled tribal members who are 18 years of age or older appearing above."</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Such other information as the Commission may deem necessary and appropriate.</text>
+        <num>(3)</num>
+        <text>The nomination petition issued by the Commission shall include the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name of the tribal member seeking to become a certified candidate for the Legislature;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Whether the tribal member will be running as an on-Reservation or off-Reservation candidate;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Year of the regular or special election;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Signature and date lines for no fewer than 100 tribal members who are 18 years of age or older willing to nominate the individual as a candidate;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The deadline date and time specified in <cite path="§63-17">§ 63-17</cite> of <cite path="|I|63">this chapter</cite> for the individual seeking to become a certified candidate to return the nomination petition to the Commission;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The following certification statement at the bottom of each petition: "I, the undersigned, hereby certify that I meet the requirements of Article IV, Section 4(a), of the Menominee Constitution and Bylaws, have read and will abide by the Legislature Election Ordinance (Ordinance No. 07-17), and that I have personally circulated and obtained the original signatures of the enrolled tribal members who are 18 years of age or older appearing above."</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Such other information as the Commission may deem necessary and appropriate.</text>
+        </para>
       </para>
       <para>
         <num>(4)</num>
@@ -341,16 +341,15 @@
       <text>Commission report on write-in candidates.</text>
       <para>
         <num>(1)</num>
-        <text>The Commission shall issue a report to the Chairperson's office and the Chief Justice of the</text>
-      </para>
-      <aftertext>Tribal Judiciary within five working days following the deadline date for providing written notice of a tribal member's intention to run as a write-in candidate. The report shall include the following information:</aftertext>
-      <para>
-        <num>(a)</num>
-        <text>A list of all candidates that will be running as a write-in candidate and which among them will be running as on-Reservation candidates and off-Reservation candidates; and</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Such other information as the Commission may determine.</text>
+        <text>The Commission shall issue a report to the Chairperson's office and the Chief Justice of the Tribal Judiciary within five working days following the deadline date for providing written notice of a tribal member's intention to run as a write-in candidate. The report shall include the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>A list of all candidates that will be running as a write-in candidate and which among them will be running as on-Reservation candidates and off-Reservation candidates; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Such other information as the Commission may determine.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -433,22 +432,22 @@
       <para>
         <num>(1)</num>
         <text>No certified candidate, write-in candidate, person or group shall:</text>
-      </para>
-      <para>
-        <num>(a)</num>
-        <text>Offer or provide an elector any money, any alcoholic beverage or any good or service valued in excess of $1 in exchange for the tribal member's vote prior to the day of an election.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Offer or provide an elector any money, any alcoholic beverage or any good or service, including transportation services, in exchange for the tribal member's vote on the day of an election.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Screw, nail, staple or otherwise affix a poster, sign, banner or other campaign notice to any standing green timber.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Mutilate, deface or destroy another candidate's signs, posters, banners or billboards.</text>
+        <para>
+          <num>(a)</num>
+          <text>Offer or provide an elector any money, any alcoholic beverage or any good or service valued in excess of $1 in exchange for the tribal member's vote prior to the day of an election.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Offer or provide an elector any money, any alcoholic beverage or any good or service, including transportation services, in exchange for the tribal member's vote on the day of an election.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Screw, nail, staple or otherwise affix a poster, sign, banner or other campaign notice to any standing green timber.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Mutilate, deface or destroy another candidate's signs, posters, banners or billboards.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -544,7 +543,7 @@
       </para>
     </para>
     <para>
-      <num>A.</num>
+      <num>C.</num>
       <text>Enforcement.</text>
       <para>
         <num>(1)</num>
@@ -723,7 +722,7 @@
       </para>
     </para>
     <para>
-      <num>A.</num>
+      <num>E.</num>
       <text>Procedure for casting absentee ballots.</text>
       <para>
         <num>(1)</num>
@@ -771,7 +770,7 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>F.</num>
       <text>Receipt of absentee ballots.</text>
       <para>
         <num>(1)</num>
@@ -815,7 +814,7 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
+      <num>G.</num>
       <text>Inconsistencies in absentee ballot requests.</text>
       <para>
         <num>(1)</num>
@@ -843,7 +842,7 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
+      <num>H.</num>
       <text>Commission report on absentee ballots.</text>
       <para>
         <num>(1)</num>
@@ -1003,7 +1002,7 @@
       </para>
     </para>
     <para>
-      <num>A.</num>
+      <num>E.</num>
       <text>Election poll monitors.</text>
       <para>
         <num>(1)</num>
@@ -1488,4 +1487,10 @@
     <text>Ordinance No. 79-20, entitled "Legislature Elections," is hereby repealed in its entirety. Any reference in any law, regulation, or other document of the Tribe to Ordinance No. 79-20 is hereby deemed to be a reference to this document.</text>
     <annotations/>
   </section>
+  <attachments>
+    <heading>Attachments</heading>
+    <attachment name="election-milestones" url="/us/nsn/menominee/legislature/code/attachments/063a.pdf">
+      <heading>Election Milestones</heading>
+    </attachment>
+  </attachments>
 </container>

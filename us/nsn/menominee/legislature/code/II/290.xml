@@ -854,7 +854,7 @@
         <text>SEXUAL CONTACT — Any of the following:</text>
       </para>
       <para>
-        <num>A.</num>
+        <num proof="done">A.</num>
         <text>Intentional touching by the complainant or defendant, either directly or through clothing, by the use of any body part or object, of the complainant's or defendant's intimate parts if that intentional touching is either for the purpose of sexually degrading or for the purpose of sexually humiliating the complainant or sexually arousing or gratifying the defendant or if the touching contains the elements of actual or attempted battery under Article I, Assault and Battery, of <cite path="|II|290">this chapter</cite>.</text>
       </para>
       <para>
@@ -1078,7 +1078,7 @@
         <aftertext>NATIONAL SEX OFFENDER REGISTRY (NSOR) — The national database maintained by the Attorney General of the United States pursuant to 42 U.S.C. § 16919.</aftertext>
         <aftertext>REGISTRATION AND NOTIFICATION COMMISSION — The group of persons designated to make decisions regarding the holding of public meetings and shall consist of the following:</aftertext>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>Director of Menominee Tribal Social Services or a social worker from the Department designated by the Director.</text>
         </para>
         <para>
@@ -1098,7 +1098,7 @@
           <text>SEX OFFENSE — Except as limited by Subsection (6) or (7) of this definition:</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>A criminal offense that has an element involving a sexual act or sexual contact with another.</text>
         </para>
         <para>
@@ -1171,7 +1171,7 @@
           <aftertext>SEXUAL ACT —</aftertext>
         </para>
         <para>
-          <num>(1)</num>
+          <num proof="done">(1)</num>
           <text>Contact between the penis and the vulva or the penis and the anus, and for purposes of this definition, contact involving the penis occurs upon penetration, however slight;</text>
         </para>
         <para>
@@ -1195,7 +1195,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num proof="done">A.</num>
         <text>Covered offenses. Individuals who reside within the exterior boundaries of the reservation or otherwise reside on property owned by the Tribe in fee or trust, regardless of location, who are employed within the exterior boundaries of the Reservation or on property owned by the Tribe in fee or trust, regardless of location, or who attend school within the exterior boundaries of the Reservation or on property owned by the Tribe in fee or trust, regardless of location, that have been convicted of any of the following offenses, or convicted of an attempt or conspiracy to commit any of the following offenses, are subject to the requirements of <cite path="|II|290|XVI">this article</cite>:</text>
         <para>
           <num>(1)</num>
@@ -1351,12 +1351,22 @@
           <para>
             <num>(aa)</num>
             <heading>980.01:</heading>
-            <text>sexually violent person commitment. (bb) 944.01: rape (old statute).</text>
+            <text>sexually violent person commitment.</text>
+          </para>
+          <para>
+            <num>(bb)</num>
+            <heading>944.01:</heading>
+            <text>rape (old statute).</text>
           </para>
           <para>
             <num>(cc)</num>
             <heading>944.10:</heading>
-            <text>sexual intercourse with a child (old statute). (dd) 944.11: indecent behavior with a child (old statute).</text>
+            <text>sexual intercourse with a child (old statute).</text>
+          </para>
+          <para>
+            <num>(dd)</num>
+            <heading>944.11:</heading>
+            <text>indecent behavior with a child (old statute).</text>
           </para>
           <para>
             <num>(ee)</num>
@@ -2425,23 +2435,23 @@
               <num>[1]</num>
               <text>Update the registry to reflect the sex offender has absconded or is otherwise not capable of being located;</text>
             </para>
+            <para>
+              <num>[2]</num>
+              <text>Notify the U.S. Marshals Service;</text>
+            </para>
+            <para>
+              <num>[3]</num>
+              <text>Seek a warrant for the sex offender's arrest. The U.S. Marshals Service or FBI may be contacted in an attempt to obtain a federal warrant for the sex offender's arrest;</text>
+            </para>
+            <para>
+              <num>[4]</num>
+              <text>Update the NSOR to reflect the sex offender's status as an absconder, or as otherwise not capable of being located; and</text>
+            </para>
+            <para>
+              <num>[5]</num>
+              <text>Enter the sex offender into the National Crime Information Center Wanted Person File.</text>
+            </para>
           </para>
-        </para>
-      </para>
-      <para>
-        <num>[2]</num>
-        <text>Notify the U.S. Marshals Service;</text>
-        <para>
-          <num>[3]</num>
-          <text>Seek a warrant for the sex offender's arrest. The U.S. Marshals Service or FBI may be contacted in an attempt to obtain a federal warrant for the sex offender's arrest;</text>
-        </para>
-        <para>
-          <num>[4]</num>
-          <text>Update the NSOR to reflect the sex offender's status as an absconder, or as otherwise not capable of being located; and</text>
-        </para>
-        <para>
-          <num>[5]</num>
-          <text>Enter the sex offender into the National Crime Information Center Wanted Person File.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2449,7 +2459,7 @@
         </para>
       </para>
       <para>
-        <num>A.</num>
+        <num>F.</num>
         <text>Verification process. The registration verification and monitoring program is designed to ensure information contained in the registry is accurate, and to track the registrant compliance with the registry requirements.</text>
         <para>
           <num>(1)</num>
@@ -2509,11 +2519,11 @@
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>G.</num>
         <text>Sharing information among agencies. The Menominee Tribal Police Department Chief of Police, or designee, is authorized to share any registration information received pursuant to <cite path="|II|290|XVI">this article</cite> with any law enforcement agency or sex offender registry agency.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>H.</num>
         <text>Sex offender name changes prohibited.</text>
         <para>
           <num>(1)</num>
@@ -2533,7 +2543,7 @@
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>I.</num>
         <text>Removal from registry.</text>
         <para>
           <num>(1)</num>

@@ -345,15 +345,15 @@
           <text>Maintain a record of all tribal forest material used in any way by MTE, including every tree cut, whether by MTE personnel or by contracted personnel.</text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(2)</num>
           <text>Apply the stumpage fee provided for above when it is assessed.</text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(3)</num>
           <text>Transfer the stumpage assessed and collected to the Tribal Legislature Department of Finance on or before the fifth day of every month.</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(4)</num>
           <text>Submit records of all trees cut on a monthly basis to the Tribal Legislature.</text>
         </para>
       </para>
@@ -643,18 +643,18 @@
             <num>(g)</num>
             <text>A statement of compliance on how the proposed treatment will meet the goals of an approved Menominee Forest Management Plan.</text>
           </para>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Documentation that shows meaningful consultation with applicable tribal, federal and state agencies (Appendix A<fn path="|II|§340-20|footnotes|7">7</fn>) during development of the proposed treatment to ensure implementation of a multidisciplinary approach to forest management.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Documentation that shows all required tribal and federal signatures have been provided. For the purposes of <cite path="|II|340|III">this article</cite>, Historic Preservation and Environmental Services are required signatures for environmental checklist reviews, prior to silviculture prescription submission.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>A statement of compliance and description of management considerations to show adherence to all applicable tribal and federal regulations and requirements (i.e., riparian and cultural buffer provisions of <cite path="|II|340|III">this article</cite>).</text>
+          <para>
+            <num>(h)</num>
+            <text>Documentation that shows meaningful consultation with applicable tribal, federal and state agencies (Appendix A<fn path="|II|§340-20|footnotes|7">7</fn>) during development of the proposed treatment to ensure implementation of a multidisciplinary approach to forest management.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Documentation that shows all required tribal and federal signatures have been provided. For the purposes of <cite path="|II|340|III">this article</cite>, Historic Preservation and Environmental Services are required signatures for environmental checklist reviews, prior to silviculture prescription submission.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>A statement of compliance and description of management considerations to show adherence to all applicable tribal and federal regulations and requirements (i.e., riparian and cultural buffer provisions of <cite path="|II|340|III">this article</cite>).</text>
+          </para>
         </para>
       </para>
       <para>
@@ -764,4 +764,10 @@
       <annotations/>
     </section>
   </container>
+  <attachments>
+    <heading>Attachments</heading>
+    <attachment name="appendix-a-silviculture-prescription-review-approval-requirements" url="/us/nsn/menominee/legislature/code/attachments/340a.pdf">
+      <heading>APPENDIX A - SILVICULTURE PRESCRIPTION REVIEW &amp; APPROVAL REQUIREMENTS</heading>
+    </attachment>
+  </attachments>
 </container>
