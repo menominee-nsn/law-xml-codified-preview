@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="menominee-nsn/law-xml" commit="5860ee09b0ffca54f4e1dfe6758bbc92bb674994"/>
+        <repository name="menominee-nsn/law-xml" commit="adde816514ddd2716517dc55cf87b94988207a0b"/>
       </repositories>
-      <platform version="2.19.0" reproducible="false"/>
-      <build-date>2026-02-09</build-date>
+      <platform version="2.19.4.dev214" reproducible="false"/>
+      <build-date>2026-04-06</build-date>
       <codified-date>0001-01-01</codified-date>
     </build>
   </meta>
