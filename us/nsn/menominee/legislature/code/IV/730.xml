@@ -4,7 +4,8 @@
   <num>730</num>
   <heading>TRIBAL HOUSING LIMITED PARTNERSHIP NO. 5</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-17-2009 by Ord. No. 09-14. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 09-14" type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-17-2009 by Ord. No. 09-14</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -30,7 +31,7 @@
   <section cache:ref-path="IV|§730-4">
     <prefix>§</prefix>
     <num>730-4</num>
-    <heading>General partner.<fn proof="needed" path="|IV|§730-4|footnotes|1">1</fn></heading>
+    <heading>General partner.<fn path="|IV|§730-4|footnotes|1">1</fn></heading>
     <text>The general partner of this limited partnership shall be the Wolf River Development Company, a business chartered by the Menominee Indian Tribe of Wisconsin.<fn path="|IV|§730-4|footnotes|2">2</fn></text>
     <footnotes>
       <footnote>

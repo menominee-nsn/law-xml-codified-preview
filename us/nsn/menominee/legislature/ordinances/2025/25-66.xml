@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Menominee Tribal Legislature Ord. No. 25-66" codify:doc="Code of the Menominee Indian Tribe">
+  <num>25-66</num>
+  <heading>Amendment to the Code of Menominee Indian Tribe of Wisconsin Chapter 170 — “Personnel”</heading>
+  <meta>
+    <stub/>
+    <effective>2026-04-06</effective>
+    <citations>
+      <citation type="ord" url="./adopted/25-66.pdf">Ord. 25-66</citation>
+    </citations>
+    <history>
+      <adopted>2026-02-05</adopted>
+    </history>
+  </meta>
+  <codify:insert path="|I|170" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§170-17|annos">
+    <container>
+      <prefix>Article</prefix>
+      <num>III</num>
+      <heading>Prohibited Discrimination Related to Drug Testing</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>170-17</num>
+        <heading>Title.</heading>
+        <text><cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">This article</cite> shall be titled "Prohibited Discrimination Related to Drug Testing".</text>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>170-18</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of <cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">this article</cite> is to prohibit employers or licensing entities, as those terms are defined herein, from taking adverse actions against employees based on a positive drug test for cannabis except as allowed for in this Article.</text>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>170-19</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>A.</num>
+          <text>"Adverse action" means refusing to hire, refusing to license, suspending or terminating employment, suspending or revoking a license, placing conditions on hiring or licensing.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>"Cannabis" means all cannabinoids from the plant Cannabis sativa L. including delta-9 tetrahydrocannabinol.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>"Employee" means</text>
+          <para>
+            <num>(1)</num>
+            <text>A person who performs work for an employer for monetary compensation who is not an independent contractor or an appointed or elected official;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An applicant seeking to become an employee of an employer;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A person licensed by a licensing entity;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An applicant for a license with a licensing entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>"Employer" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Menominee Indian Tribe of Wisconsin;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The businesses of the Tribe chartered pursuant to Article XIII of the Tribal Constitution;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Menominee Tribal Enterprises; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>College of Menominee Nation.</text>
+          </para>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>"Licensing entity" means any commission, agency, or employee of the Menominee Indian Tribe that issues licenses to persons required for a person's employment by an Employer.</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>"Reasonable suspicion" means a good-faith, objective belief—based on specific, articulable facts and observations—that an employee while on duty may be under the influence of drugs in a way that could impair their ability to perform their job safely or effectively.</text>
+        </para>
+        <para>
+          <num>G.</num>
+          <text>"Safety-sensitive position" means: a position requiring a commercial driver’s license or requiring an employee to operate a motor vehicle for which state or federal law requires drug or alcohol testing of a job applicant or an employee; a position where the person is authorized to enforce the laws of the Tribe pursuant to <cite path="|I|132" doc="Menominee Tribal Legislature Ord. No. 25-66">Chapter 132</cite> of the Menominee Tribal Code; any other position which an employer deems to be safety-sensitive pursuant to a written policy if such written policy has been:</text>
+          <para>
+            <num>(1)</num>
+            <text>Implemented after the effective date of final approval of this Article III; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Approved by the Menominee Tribal Legislature.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>170-20</num>
+        <heading>Prohibition.</heading>
+        <text>No employer or licensing entity shall take any adverse action against any employee due to a positive drug test showing the presence of cannabis in the employee unless:</text>
+        <para>
+          <num>A.</num>
+          <text>Said test is required by the employer or licensing entity upon good faith belief of an employee's usage of cannabis while engaged in the performance of the employee's work responsibilities; or</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Said test is required by the employer or licensing entity upon finding Reasonable suspicion; or</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Said test is required by the employer following a work-related accident subject to investigation by the employer; or</text>
+        </para>
+        <para>
+          <num>D.</num>
+          <text>Said test is specifically required pursuant to a funding agreement entered into by employer; or</text>
+        </para>
+        <para>
+          <num>E.</num>
+          <text>The employee subject to testing is employed in a safety-sensitive position; or</text>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Said test is required by applicable federal or state law.</text>
+        </para>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>170-21</num>
+        <heading>Superseding Effect</heading>
+        <text>If any provision of this Article is inconsistent with or in conflict with any other law, regulation, or policy of the Tribe the provisions of this Article shall supersede and govern to the extent of such inconsistency or conflict.</text>
+      </section>
+    </container>
+  </codify:insert>
+</document>

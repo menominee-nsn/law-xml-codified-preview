@@ -4,7 +4,8 @@
   <num>7</num>
   <heading>ACCOUNTING SYSTEM</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-17-1980 by Ord. No. 80-7. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 80-7" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-17-1980 by Ord. No. 80-7</annotation>
     <annotation type="General References">Administrative procedures — See <cite path="|I|12">Ch. 12</cite>. Debt collection — See <cite path="|I|44">Ch. 44</cite>.</annotation>
     <annotation type="General References">Investment Plan — See <cite path="|I|111">Ch. 111</cite>.</annotation>
     <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>. Taxation — See <cite path="|I|200">Ch. 200</cite>.</annotation>
@@ -66,7 +67,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The Tribal Legislature shall make additions to <cite path="I|§7-2">Subsections A and B of this section</cite> by resolution.</text>
+      <text>The Tribal Legislature shall make additions to <cite path="|I|§7-2">Subsections A and B of this section</cite> by resolution.</text>
     </para>
     <para>
       <num>D.</num>
@@ -112,15 +113,21 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Reports to the Tribal Legislature, its officers and budget units. The Financial Manager (as defined in the glossary of terms in <cite path="§7-7">§ 7-7</cite> of <cite path="|I|7">this chapter</cite>) shall report as needed through balance sheets and statements of fund transfers, support, revenue and expenses (as defined in the financial and management reports in <cite path="§7-8">§ 7-8</cite> of <cite path="|I|7">this chapter</cite>). <strong>[Amended 5-23-1997]</strong></text>
+      <text>Reports to the Tribal Legislature, its officers and budget units. The Financial Manager (as defined in the glossary of terms in <cite path="§7-7">§ 7-7</cite> of <cite path="|I|7">this chapter</cite>) shall report as needed through balance sheets and statements of fund transfers, support, revenue and expenses (as defined in the financial and management reports in <cite path="§7-8">§ 7-8</cite> of <cite path="|I|7">this chapter</cite>).<fn path="|I|§7-3|footnotes|2">2</fn></text>
     </para>
     <footnotes>
       <footnote>
         <num>1</num>
         <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
       </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended 5-23-1997</text>
+      </footnote>
     </footnotes>
-    <annotations/>
+    <annotations>
+      <annotation type="History">Amended 5-23-1997</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -174,17 +181,16 @@
       <text>APPROPRIATION (APPROPN) — An authorization granted by the Tribal Legislature to make expenditures and incur obligations for specific purposes. (Note: Appropriations are specified as to the amount and the time in which they must be expended.)</text>
       <text>BUDGET (BUDGT) — A plan of financial operation embodying proposed expenditures for a given period and the proposed means of financing them. Used without any modifier, the term indicates a financial plan for a single year.</text>
       <text>BUDGETARY ACCOUNTING (BUDGT ACCTG) — The element of the standard governmental accounting system which is directed toward satisfying legal requirements for budgetary control and reflecting budgetary operations and conditions. Funds, budget units and budgetary accounts, such as estimated revenues and appropriations, are components of the element of the accounting system.</text>
-      <text>BUDGETARY CONTROL (BUDGT CNTRL) — The control or management of a government unit or enterprise in accordance with the approved budget for the purpose of keeping expenditures within the limitations of available appropriations and available revenues. <strong>[Amended 5-23-1997]</strong></text>
+      <text>BUDGETARY CONTROL (BUDGT CNTRL) — The control or management of a government unit or enterprise in accordance with the approved budget for the purpose of keeping expenditures within the limitations of available appropriations and available revenues.<fn path="|I|§7-7|footnotes|3">3</fn></text>
       <text>BUDGET UNIT (BUDGT UNIT) — The basic accounting entity within the operating funds. The level to which budget appropriations are made by the Tribal Legislature and to which, in most instances, appropriations are controlled.</text>
       <text>CASH MANAGEMENT (CASH MNGT) — Allocating, spending, investing, conserving, safeguarding, and otherwise handling cash or its equivalent in a manner intended to result in its most efficient use.</text>
       <text>CODING (COD) — A system of numbering or otherwise designating accounts, entries, invoices, vouchers, etc., in such a manner that the symbol used reveals quickly certain required information.</text>
       <text>COMPUTER PROGRAM (COMP PROG) — A plan or method for collection and transcription of data to a computer, coding for operation of the computer and related equipment, printing of reports and other output, and absorption of the resulting data into the system. (A list of coded instructions for the computer is called a "routine.")</text>
       <text>EDIT (ED) — To verify the completeness and correctness of documents which are input to the data processing and accounting systems, either manually or by machine processes.</text>
-      <text>ENCUMBRANCES (ENCUMBR) — Contingent liabilities in the form of purchase orders, contracts, or auditor's encumbrance which are chargeable to an appropriation and for which a part of the</text>
-      <text>appropriation is obligated. They cease to be encumbrances when paid or when the actual liability is recorded.</text>
+      <text>ENCUMBRANCES (ENCUMBR) — Contingent liabilities in the form of purchase orders, contracts, or auditor's encumbrance which are chargeable to an appropriation and for which a part of the appropriation is obligated. They cease to be encumbrances when paid or when the actual liability is recorded.</text>
       <text>EXPENDITURE (EXPEND) — Where the accounts are kept on the cash basis, this term designates only actual cash disbursements for these purposes. Where the accounts are kept on the accrual basis or the modified accrual basis, this term designates the cost of goods delivered or services rendered, whether paid or unpaid, including expenses, provision of debt retirement and capital outlays.</text>
       <text>EXPENSE APPROVAL AUTHORITY (EXP APP ATHY) — An individual or a position that has been authorized by the Tribal Legislature to approve purchase orders, contracts, time cards, etc., that are consistent with all underlying agreements and program objectives, to the level of appropriations approved by the Tribal Legislature.</text>
-      <text>FINANCIAL MANAGER (FI MAN) — The individual responsible for the implementation and maintenance of the accounting system, in conformity with generally accepted accounting principles applied on a consistent basis. The Financial Manager reports to the Tribal Legislature or its officers the progress of all budget units and the compliance of requirements for management of state or federal grants and contracts. <strong>[Amended 5-23-1997]</strong></text>
+      <text>FINANCIAL MANAGER (FI MAN) — The individual responsible for the implementation and maintenance of the accounting system, in conformity with generally accepted accounting principles applied on a consistent basis. The Financial Manager reports to the Tribal Legislature or its officers the progress of all budget units and the compliance of requirements for management of state or federal grants and contracts.<fn path="|I|§7-7|footnotes|4">4</fn></text>
       <text>FUNCTION (FN) — A class of related services established to accomplish broad community goals or an authorized group of programs having related purposes. In the government field, the classification of expenditures by functions permits the use of expenditure data in preparation of performance budgets in which the main emphasis is on activities rather than organizational units and objects.</text>
       <text>FUND (FD) — An independent fiscal and accounting entity with a self-balancing set of accounts recording cash and/or other resources together with all related liabilities, obligations, reserves and equities which are segregated for the purpose of carrying on specific activities or attaining certain objectives in accordance with special regulations, restrictions or limitations.</text>
       <text>FUND TRANSFER (FD TRNS) — A contribution of fund capital to fund capital of another intra-governmental unit. This does not represent loans to or from intra-governmental units.</text>
@@ -198,16 +204,31 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>(Noun) The point at which the two entities form a common unit. <strong>[Amended 5-23-1997]</strong></text>
-        <text>MODIFIED ACCRUAL BASIS (MOD ACCR BASIS) — The accrual basis, as recommended for government units, does not require that uncollected revenues, if the option to accrue is exercised, and unpaid expenditures be recorded in the books of account on a day-to-day basis; it is sufficient that they be recorded at the close of the fiscal year.</text>
-        <text>REVENUE (REV) — For those revenues which are recorded on the accrual basis, this term</text>
-        <text>designates additions to assets which do not increase any liability, do not represent the recovery of an expenditure, do represent the cancellation of certain liabilities with a corresponding increase in assets, and do not represent contributions of fund capital to fund capital of another intra-governmental unit. The same definition applies to those cases where revenues are recorded on the modified accrual or cash basis, except that additions would be partially or entirely to cash.</text>
-        <text>STRUCTURE LEVEL ACCOUNT (STR LV ACCT) — A number included in the chart of accounts published by the Department of Finance. The structure level account classifies account numbers by functions, fund, subfund, program/contract and cost centers.</text>
-        <text>SUBSYSTEM (SUBSYS) — A smaller system nested within a large system, e.g., general ledger subsystem is a member of the budgetary accounting system.</text>
-        <text>SYSTEM (SYS) — A set of elements forming an activity or processing procedure, seeking common goals, by operating on data in a time reference to yield information, e.g., payroll system.</text>
+        <text>(Noun) The point at which the two entities form a common unit.<fn path="|I|§7-7|footnotes|5">5</fn></text>
       </para>
+      <aftertext>MODIFIED ACCRUAL BASIS (MOD ACCR BASIS) — The accrual basis, as recommended for government units, does not require that uncollected revenues, if the option to accrue is exercised, and unpaid expenditures be recorded in the books of account on a day-to-day basis; it is sufficient that they be recorded at the close of the fiscal year.</aftertext>
+      <aftertext>REVENUE (REV) — For those revenues which are recorded on the accrual basis, this term designates additions to assets which do not increase any liability, do not represent the recovery of an expenditure, do represent the cancellation of certain liabilities with a corresponding increase in assets, and do not represent contributions of fund capital to fund capital of another intra-governmental unit. The same definition applies to those cases where revenues are recorded on the modified accrual or cash basis, except that additions would be partially or entirely to cash.</aftertext>
+      <aftertext>STRUCTURE LEVEL ACCOUNT (STR LV ACCT) — A number included in the chart of accounts published by the Department of Finance. The structure level account classifies account numbers by functions, fund, subfund, program/contract and cost centers.</aftertext>
+      <aftertext>SUBSYSTEM (SUBSYS) — A smaller system nested within a large system, e.g., general ledger subsystem is a member of the budgetary accounting system.</aftertext>
+      <aftertext>SYSTEM (SYS) — A set of elements forming an activity or processing procedure, seeking common goals, by operating on data in a time reference to yield information, e.g., payroll system.</aftertext>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended 5-23-1997</text>
+      </footnote>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended 5-23-1997</text>
+      </footnote>
+      <footnote>
+        <num>5</num>
+        <text>Editor's Note: Amended 5-23-1997</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation type="History">Amended 5-23-1997</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

@@ -4,7 +4,9 @@
   <num>740</num>
   <heading>WOLF RIVER DEVELOPMENT COMPANY</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-5-1998 by Ord. No. 98-23; amended in its entirety 1-15-2015 by Ord. No. 14-33. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 14-33" type="History">Amended in its entirety 1-15-2015 by Ord. No. 14-33</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 98-23" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-5-1998 by Ord. No. 98-23</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -19,7 +21,7 @@
     <heading>Purpose.</heading>
     <text>The purpose of the Wolf River Development Company ("WRDC") is to investigate, review, consider, pursue and conduct any nongaming commercial activity of the Menominee Indian Tribe of Wisconsin ("Tribe") deemed advisable by the Board of Directors in order to generate profit, whether on or off the Menominee Reservation. The commercial activity may include for profit rental properties, retail business, manufacturing, consulting or any other lawful profit producing activity. In addition, the WRDC shall promote, support and foster the establishment of tribally owned businesses, and privately owned businesses on the Menominee Indian Reservation using outreach, land acquisition, financing, business planning support and other means as decided by the WRDC.</text>
     <annotations>
-      <annotation type="History">Amended 10-15-2015 by Ord. No. 15-26</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 15-26" type="History">Amended 10-15-2015 by Ord. No. 15-26</annotation>
     </annotations>
   </section>
   <section>
@@ -97,7 +99,8 @@
     <text>GAAP — Generally accepted accounting principles.</text>
     <text>JOINT VENTURE — Any agreement by contract, partnership, joint venture, or membership in a limited-liability company, limited-liability partnership or limited partnership between WRDC and another person or business, the purpose of which is to generate a profit.</text>
     <text>MTL — The Menominee Tribal Legislature, the tribal governing body elected pursuant to Section 3, Article IV of the Constitution, and their successors.</text>
-    <text>NET REVENUE — All revenues of WRDC from whatever source after subtracting the cost of sales. TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
+    <text>NET REVENUE — All revenues of WRDC from whatever source after subtracting the cost of sales.</text>
+    <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
     <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior or land that is not held in trust but is owned by the Menominee Indian Tribe of Wisconsin.</text>
     <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <text>WRDC — Wolf River Development Company, a tribal business enterprise chartered by the MTL.</text>
@@ -108,7 +111,7 @@
     <prefix>§</prefix>
     <num>740-5</num>
     <heading>Powers.</heading>
-    <text>WRDC shall have all the powers of a chartered tribal business pursuant to Article XIII of the Constitution and all powers necessary to conduct, manage, oversee, and operate any nongaming commercial activity for the purposes listed in <cite doc="Charter of the Menominee Indian Tribe" path="|740|§740-2">§ 740-2 of this Charter</cite>. WRDC is specifically authorized and empowered to:</text>
+    <text>WRDC shall have all the powers of a chartered tribal business pursuant to Article XIII of the Constitution and all powers necessary to conduct, manage, oversee, and operate any nongaming commercial activity for the purposes listed in <cite doc="Charter of the Menominee Indian Tribe" path="|IV|740|§740-2">§ 740-2 of this Charter</cite>. WRDC is specifically authorized and empowered to:</text>
     <para>
       <num>A.</num>
       <text>Acquire property in its own name and to pledge, mortgage, lease, or otherwise encumber interests in such property as security for debts, and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein;</text>
@@ -165,7 +168,7 @@
       <text>Board of Directors.</text>
       <para>
         <num>(1)</num>
-        <text>Number of Directors and terms of Board of Directors. There shall be five members of the Board of Directors. The terms of the Board members appointed by the MTL shall be three years, except as provided for in <cite path="§740-6|A|(5)">Subsection A(5)</cite> below. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+        <text>Number of Directors and terms of Board of Directors. There shall be five members of the Board of Directors. The terms of the Board members appointed by the MTL shall be three years, except as provided for in <cite path="§740-6|A|(5)">Subsection A(5)</cite> below.<fn path="|IV|§740-6|footnotes|1">1</fn></text>
       </para>
       <para>
         <num>(2)</num>
@@ -180,7 +183,7 @@
         <text>Qualifications.</text>
         <para>
           <num>(a)</num>
-          <text>At least two members of the Board of Directors shall be members of the MTL. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+          <text>At least two members of the Board of Directors shall be members of the MTL.<fn path="|IV|§740-6|footnotes|2">2</fn></text>
         </para>
         <para>
           <num>(b)</num>
@@ -213,11 +216,11 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Term. Directors who are Tribal Legislators shall serve a term that coincides with their term of office on the MTL, or for three years, whichever is less. All other Directors shall serve three-year terms. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+        <text>Term. Directors who are Tribal Legislators shall serve a term that coincides with their term of office on the MTL, or for three years, whichever is less. All other Directors shall serve three-year terms.<fn path="|IV|§740-6|footnotes|3">3</fn></text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Quorum. The presence of not less than three Directors shall be necessary to constitute a quorum of the Board of Directors for the transaction of business of WRDC, and the act of a majority of those members present and voting at a meeting at which a quorum is present shall be the act of WRDC. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+        <text>Quorum. The presence of not less than three Directors shall be necessary to constitute a quorum of the Board of Directors for the transaction of business of WRDC, and the act of a majority of those members present and voting at a meeting at which a quorum is present shall be the act of WRDC.<fn path="|IV|§740-6|footnotes|4">4</fn></text>
       </para>
       <para>
         <num>(7)</num>
@@ -245,11 +248,11 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Removal. The Tribal Legislature may remove any member of the Board of Directors for violating the code of conduct of WRDC or the Tribe, or for the purpose of ensuring that the composition of the Board is compliant with <cite path="§740-6|A|(1)">Subsection A(1)</cite> above. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+        <text>Removal. The Tribal Legislature may remove any member of the Board of Directors for violating the code of conduct of WRDC or the Tribe, or for the purpose of ensuring that the composition of the Board is compliant with <cite path="§740-6|A|(1)">Subsection A(1)</cite> above.<fn path="|IV|§740-6|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>(9)</num>
-        <text>Replacement of a member of the Board of Directors. Upon resignation, death, or removal of a member of the Board of Directors, the MTL shall appoint a new Director to fill the remainder of that Director's term of office, unless such appointment would cause the composition of the Board to be out of compliance with <cite path="§740-6|A|(1)">Subsection A(1)</cite> above. <strong>[Amended 1-18-2018 by Ord. No. 17-27]</strong></text>
+        <text>Replacement of a member of the Board of Directors. Upon resignation, death, or removal of a member of the Board of Directors, the MTL shall appoint a new Director to fill the remainder of that Director's term of office, unless such appointment would cause the composition of the Board to be out of compliance with <cite path="§740-6|A|(1)">Subsection A(1)</cite> above.<fn path="|IV|§740-6|footnotes|6">6</fn></text>
       </para>
       <para>
         <num>(10)</num>
@@ -265,7 +268,7 @@
       <text>Reporting requirements.</text>
       <para>
         <num>(1)</num>
-        <text>The Board of Directors, and any agent or employee of WRDC designated by the board, shall submit monthly reports to the MTL by the last Thursday of each month for the previous month. The report shall include, at a minimum: a current detailed balance sheet; an income statement that includes a comparison with the same month for the previous fiscal year, a comparative income statement for the current to date and previous fiscal year, an aged accounts receivable report; an aged accounts payable report and a narrative report on the activities of WRDC. <strong>[Amended 9-17-2015 by Ord. No. 15-23]</strong></text>
+        <text>The Board of Directors, and any agent or employee of WRDC designated by the board, shall submit monthly reports to the MTL by the last Thursday of each month for the previous month. The report shall include, at a minimum: a current detailed balance sheet; an income statement that includes a comparison with the same month for the previous fiscal year, a comparative income statement for the current to date and previous fiscal year, an aged accounts receivable report; an aged accounts payable report and a narrative report on the activities of WRDC.<fn path="|IV|§740-6|footnotes|7">7</fn></text>
       </para>
       <para>
         <num>(2)</num>
@@ -332,7 +335,40 @@
       <num>F.</num>
       <text>Indemnification. Each present, former, and future member of the Board of Directors shall be entitled to be reimbursed and indemnified from assets of WRDC for all legal and other expenses reasonably incurred by him in connection with any claim, action, suit or proceeding of whatever nature in which he may be involved as a party or otherwise by reason of his having served as a member of the Board of Directors or by reason of any action alleged to have been taken or omitted by him as a member of the Board of Directors (including settlement amounts approved by a majority of the Board of Directors then in office other than those involved), provided that WRDC need reimburse such Board member's legal fees and expenses only if they are incurred after the Board of Directors has refused to provide legal representation to the member at WRDC's expense. No such reimbursement or indemnification shall be made in connection with any matter arising out of the negligence or misconduct of such Board of Directors members. Neither this section nor any action or inaction by the Board under this section shall create any liability against the Board of Directors or WRDC.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>5</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>6</num>
+        <text>Editor's Note: Amended 1-18-2018 by Ord. No. 17-27</text>
+      </footnote>
+      <footnote>
+        <num>7</num>
+        <text>Editor's Note: Amended 9-17-2015 by Ord. No. 15-23</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 17-27" type="History">Amended 1-18-2018 by Ord. No. 17-27</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 15-23" type="History">Amended 9-17-2015 by Ord. No. 15-23</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

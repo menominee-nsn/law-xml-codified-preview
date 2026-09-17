@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Menominee Tribal Legislature Ord. No. 25-63" codify:doc="Code of the Menominee Indian Tribe">
+  <num>25-63</num>
+  <heading>Amendment in Part to the Code of Menominee Indian Tribe of Wisconsin Chapter 98 — “Government Plan”</heading>
+  <meta>
+    <stub/>
+    <effective>2026-01-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/25-63.pdf">Ord. 25-63</citation>
+    </citations>
+    <history>
+      <adopted>2026-01-15</adopted>
+    </history>
+  </meta>
+  <codify:replace path="|I|98|attachments" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|98">
+    <attachments>
+      <heading>Attachments</heading>
+      <attachment name="committee-of-the-menominee-tribal-legislature-bylaws" url="/us/nsn/menominee/legislature/code/attachments/098a.pdf">
+        <heading>Committee of the Menominee Tribal Legislature Bylaws</heading>
+      </attachment>
+      <attachment name="mitw-administrative-flowchart" url="/us/nsn/menominee/legislature/ordinances/2025/adopted/25-63/attachments/098b.pdf">
+        <heading>MITW-Administrative Flowchart</heading>
+      </attachment>
+      <attachment name="mitw-committee-flowchart" url="/us/nsn/menominee/legislature/ordinances/2025/adopted/25-63/attachments/098c.pdf">
+        <heading>MITW-Committee Flowchart</heading>
+      </attachment>
+    </attachments>
+  </codify:replace>
+</document>

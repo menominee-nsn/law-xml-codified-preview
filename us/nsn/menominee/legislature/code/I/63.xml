@@ -4,7 +4,9 @@
   <num>63</num>
   <heading>ELECTIONS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-20-2007 by Ord. No. 07-17; amended in its entirety 8-5-2010. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Amended in its entirety 8-5-2010</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 07-17" type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-20-2007 by Ord. No. 07-17</annotation>
     <annotation type="General References">Government Plan — See <cite path="|I|98">Ch. 98</cite>.</annotation>
   </annotations>
   <section>
@@ -39,9 +41,11 @@
     <text>CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
     <text>ELECTION POLL — Any one of the locations where members cast their official ballots in the presence of the Commission.</text>
     <text>ELECTOR — A member who will be 18 years of age or older at the time of a primary, main or special election.</text>
-    <text>LEGISLATOR — A member of the Menominee Tribal Legislature. LEGISLATURE — The Menominee Tribal Legislature.</text>
+    <text>LEGISLATOR — A member of the Menominee Tribal Legislature.</text>
+    <text>LEGISLATURE — The Menominee Tribal Legislature.</text>
     <text>MAJOR CRIME — Any crime included in 18 U.S.C. § 1153 and any equivalent crime defined under any state law.</text>
-    <text>TRIBAL MEMBER — A person whose name appears on the official tribal roll of the Tribe. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>TRIBAL MEMBER — A person whose name appears on the official tribal roll of the Tribe.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section>
@@ -700,7 +704,7 @@
           </para>
           <para>
             <num>[3]</num>
-            <text>The following printed statement on the reverse side of the mailing envelope: "I, 	 (signature), certify, subject to the penalties of the Menominee Indian Tribe for misrepresenting one's own identity, fraud and other crimes, that I am a member of the Menominee Indian Tribe of Wisconsin and am entitled to vote in the election of   (date), as an absentee voter, and that I am not voting at any other location in this election."</text>
+            <text>The following printed statement on the reverse side of the mailing envelope: "I, __________ (signature), certify, subject to the penalties of the Menominee Indian Tribe for misrepresenting one's own identity, fraud and other crimes, that I am a member of the Menominee Indian Tribe of Wisconsin and am entitled to vote in the election of _____ (date), as an absentee voter, and that I am not voting at any other location in this election."</text>
           </para>
         </para>
         <para>
@@ -1304,7 +1308,7 @@
     <prefix>§</prefix>
     <num>63-18</num>
     <heading>Oath of office.</heading>
-    <text>In accordance with Bylaw IV of the Constitution, every newly elected Legislator shall take the following Oath of Office on the date and at the time provided for in <cite path="§63-17">§ 63-17</cite> of <cite path="|I|63">this chapter</cite>: "I, 	, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability; and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
+    <text>In accordance with Bylaw IV of the Constitution, every newly elected Legislator shall take the following Oath of Office on the date and at the time provided for in <cite path="§63-17">§ 63-17</cite> of <cite path="|I|63">this chapter</cite>: "I, __________, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability; and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
     <annotations/>
   </section>
   <section>

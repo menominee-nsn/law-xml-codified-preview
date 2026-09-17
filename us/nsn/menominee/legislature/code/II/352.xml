@@ -4,7 +4,8 @@
   <num>352</num>
   <heading>GRANDPARENTS VISITATION RIGHTS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-5-2015 by Ord. No. 15-28. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 15-28" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-5-2015 by Ord. No. 15-28</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -21,7 +22,9 @@
     <text>CHILD — Any person under the age of 18 years who is a member of the Tribe, eligible for membership in the Tribe, or a first- or second-generation descendant of a member of the Tribe, whether or not domiciled or resident on the Menominee Indian Reservation.</text>
     <text>COURT — The Menominee Tribal Court.</text>
     <text>GRANDPARENT(S) — The legal or biological grandparent(s), great-grandparent(s) or great-great-grandparent(s) or the legal step-grandparent(s) of a child. Proof of relationship would need to be provided to the Court.</text>
-    <text>GUARDIAN — The legal guardian of the child. PARENT — The legal or biological parent of the child. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>GUARDIAN — The legal guardian of the child.</text>
+    <text>PARENT — The legal or biological parent of the child.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section>
@@ -55,8 +58,7 @@
     <prefix>§</prefix>
     <num>352-4</num>
     <heading>Procedure for hearing.</heading>
-    <text>The clerk of court shall schedule a hearing on the petition within 60 days of its filing. A copy of any petition filed under <cite path="|II|352">this chapter</cite> shall be served on each of the child's parents, and any guardian other than a parent, together with a notice of hearing which specifies that the hearing shall be on the merits of the</text>
-    <text>petition and that the court may make a visitation award at the close of the hearing. A guardian ad litem shall be appointed in all cases upon the filing of a petition under <cite path="|II|352">this chapter</cite>, unless the visitation order is stipulated to by the petitioner, the child's parents, and any other guardian.</text>
+    <text>The clerk of court shall schedule a hearing on the petition within 60 days of its filing. A copy of any petition filed under <cite path="|II|352">this chapter</cite> shall be served on each of the child's parents, and any guardian other than a parent, together with a notice of hearing which specifies that the hearing shall be on the merits of the petition and that the court may make a visitation award at the close of the hearing. A guardian ad litem shall be appointed in all cases upon the filing of a petition under <cite path="|II|352">this chapter</cite>, unless the visitation order is stipulated to by the petitioner, the child's parents, and any other guardian.</text>
     <annotations/>
   </section>
   <section>

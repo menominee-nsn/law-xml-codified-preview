@@ -14,7 +14,7 @@
     <num>1</num>
     <heading>Controlled Substances</heading>
     <annotations>
-      <annotation type="History">Adopted 12-5-2013 By Ord. No. 13-47<fn path="|II|306|1|footnotes|1">1</fn></annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 13-47" type="History">Adopted 12-5-2013 by Ord. No. 13-47<fn path="|II|306|1|footnotes|1">1</fn></annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -72,7 +72,7 @@
         <text>AGENT — An authorized person who acts on behalf of or at the direction of a manufacturer, distributor, or dispenser; except that such term does not include a common or contract carrier, public warehouseman, or employee of the carrier or warehouseman, when acting in the usual and lawful course of the carrier's or warehouseman's business.</text>
         <text>ANABOLIC STEROID — Any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes:</text>
         <para>
-          <num proof="done">A.</num>
+          <num>A.</num>
           <text>Androstanediol:</text>
           <para>
             <num>(1)</num>
@@ -237,14 +237,15 @@
         </para>
         <para>
           <num>GG.</num>
-          <text>17α-methyl-Δ	1-dihydrotestosterone	(17β-hydroxy-17α-methyl-5α-androst-1-en-3-one)	(a.k.a. "17-α-methyl-1-testosterone");</text>
+          <text>17α-methyl-Δ 1-dihydrotestosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one) (a.k.a. "17-α-methyl-1-testosterone");</text>
         </para>
         <para>
           <num>HH.</num>
-          <text>Nandrolone(17β-hydroxyestr-4-en-3-one); Norandrostenediol:</text>
+          <text>Nandrolone(17β-hydroxyestr-4-en-3-one);</text>
         </para>
         <para>
           <num>II.</num>
+          <text>Norandrostenediol:</text>
           <para>
             <num>(1)</num>
             <text>19-nor-4-androstenediol (3β, 17β-dihydroxyestr-4-ene);</text>
@@ -506,11 +507,11 @@
         <para>
           <num>M.</num>
           <text>"Primarily" means chiefly or mainly.</text>
-          <text>EPHEDRINE PRODUCT — Any material, compound, mixture, or preparation that contains any quantity of ephedrine or any of its salts, isomers, and salts of isomers.</text>
-          <text>GAMMA-BUTYROLACTONE — Gamma-butyolactone as packaged, marketed, manufactured, or promoted for human consumption, but does not include gamma-butyrolactone intended for use or consumption in or for mechanical, industrial, manufacturing, or scientific applications or purposes.</text>
-          <text>IMMEDIATE PRECURSOR — A substance which the Menominee Tribal Legislature has found to be and by rule designates as being the principal compound commonly used or produced primarily for use, and which is an immediate chemical intermediary used or likely to be used in the manufacture of a controlled substance, the control of which is necessary to prevent, curtail or limit manufacture.</text>
-          <text>ISOMER — The optical isomer, geometric, or positional isomer.</text>
         </para>
+        <aftertext>EPHEDRINE PRODUCT — Any material, compound, mixture, or preparation that contains any quantity of ephedrine or any of its salts, isomers, and salts of isomers.</aftertext>
+        <aftertext>GAMMA-BUTYROLACTONE — Gamma-butyolactone as packaged, marketed, manufactured, or promoted for human consumption, but does not include gamma-butyrolactone intended for use or consumption in or for mechanical, industrial, manufacturing, or scientific applications or purposes.</aftertext>
+        <aftertext>IMMEDIATE PRECURSOR — A substance which the Menominee Tribal Legislature has found to be and by rule designates as being the principal compound commonly used or produced primarily for use, and which is an immediate chemical intermediary used or likely to be used in the manufacture of a controlled substance, the control of which is necessary to prevent, curtail or limit manufacture.</aftertext>
+        <aftertext>ISOMER — The optical isomer, geometric, or positional isomer.</aftertext>
         <aftertext>MANUFACTURE — The production (See definition.), preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable federal, state, or tribal law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice.</aftertext>
         <aftertext>MANUFACTURER — A person who manufactures a drug or other substance.</aftertext>
         <aftertext>MARIJUANA — All parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.</aftertext>
@@ -537,7 +538,7 @@
         </para>
         <para>
           <num>F.</num>
-          <text>Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in <cite>Subsections A through E</cite>.</text>
+          <text>Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in Subsections A through E.</text>
         </para>
         <aftertext>OPIATE — Any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.</aftertext>
         <aftertext>OPIUM POPPY — The plant of the species Papaver somniferum L., except the seed thereof.</aftertext>
@@ -553,12 +554,12 @@
         <para>
           <num>B.</num>
           <text>The Menominee Tribal Legislature determined that the product cannot be used in the manufacture of methamphetamine.</text>
-          <text>PSEUDOEPHEDRINE LIQUID — A product that is intended to be sold at retail, that is liquid at room temperature, and that contains pseudoephedrine or any of its salts, isomers, or salts of its isomers.</text>
-          <text>STIMULANT SUBSTANCE — A drug which contains any quantity of amphetamine or any of its optical isomers; any salt of amphetamine or any salt of an optical isomer of amphetamine; or any substance which the Menominee Tribal Legislature has found to be, and by regulation designated as, habit forming or having a potential for abuse because of its stimulant effect on the central nervous system or its hallucinogenic effect.</text>
-          <text>TRAFFICKING/TRAFFIC — The actual or constructive transfer of a controlled substance from one person to another.</text>
-          <text>TREATMENT PROGRAM — An agency, hospital, or other institution licensed, certified, registered, or recognized by the Menominee Tribal Legislature to provide outpatient or inpatient treatment for drug use and/or abuse.</text>
-          <text>ULTIMATE USER — A person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.</text>
         </para>
+        <aftertext>PSEUDOEPHEDRINE LIQUID — A product that is intended to be sold at retail, that is liquid at room temperature, and that contains pseudoephedrine or any of its salts, isomers, or salts of its isomers.</aftertext>
+        <aftertext>STIMULANT SUBSTANCE — A drug which contains any quantity of amphetamine or any of its optical isomers; any salt of amphetamine or any salt of an optical isomer of amphetamine; or any substance which the Menominee Tribal Legislature has found to be, and by regulation designated as, habit forming or having a potential for abuse because of its stimulant effect on the central nervous system or its hallucinogenic effect.</aftertext>
+        <aftertext>TRAFFICKING/TRAFFIC — The actual or constructive transfer of a controlled substance from one person to another.</aftertext>
+        <aftertext>TREATMENT PROGRAM — An agency, hospital, or other institution licensed, certified, registered, or recognized by the Menominee Tribal Legislature to provide outpatient or inpatient treatment for drug use and/or abuse.</aftertext>
+        <aftertext>ULTIMATE USER — A person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.</aftertext>
         <annotations/>
       </section>
     </container>
@@ -569,21 +570,23 @@
       <section>
         <prefix>§</prefix>
         <num>306-3.1</num>
-        <heading>Industrial hemp excluded. [Added 5-7-2015 by Ord. No. 15-06]</heading>
+        <heading>Industrial hemp excluded.</heading>
         <text>Industrial hemp, as defined under <cite path="|II|307">Chapter 307 of the Menominee Tribal Code</cite>, is excluded from the categories of controlled substances identified under <cite path="|II|306">this chapter</cite>.</text>
-        <annotations/>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 15-06" type="History">Added 5-7-2015 by Ord. No. 15-06</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-3.2</num>
-        <heading>Personal possession and use of marijuana. [Added 2-4-2016 by Ord. No. 15-35]</heading>
+        <heading>Personal possession and use of marijuana.</heading>
         <para>
           <num>A.</num>
           <text>Notwithstanding any other provision of <cite path="|II|306">Chapter 306</cite> or any other tribal law, any person 21 years of age or older who uses or possesses 25 grams or less of marijuana shall be assessed a civil penalty of $20 for a first offense; $30 for a second offense; and $40 for a third or any additional offense, in addition to such routine assessments necessary for the administration of civil violations, and such marijuana shall be subject to confiscation. The person shall not be subject to any other form of criminal or civil punishment related solely to such use or possession.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>Notwithstanding any other provision of <cite path="|II|306">Chapter 306</cite> or any other tribal law, any person under the age of 21 who uses or possesses 25 grams or less of marijuana shall be subject to the penalties listed in <cite>Subsections E through G</cite>. The marijuana in question shall be subject to confiscation, and the person shall not be subject to any other form of criminal or civil punishment solely related to such use or possession.</text>
+          <text>Notwithstanding any other provision of <cite path="|II|306">Chapter 306</cite> or any other tribal law, any person under the age of 21 who uses or possesses 25 grams or less of marijuana shall be subject to the penalties listed in Subsections E through G. The marijuana in question shall be subject to confiscation, and the person shall not be subject to any other form of criminal or civil punishment solely related to such use or possession.</text>
         </para>
         <para>
           <num>C.</num>
@@ -671,14 +674,16 @@
         </para>
         <para>
           <num>H.</num>
-          <text>Any actions taken to enforce such laws, policies, regulations, or agreements shall not be deemed a punishment prohibited by <cite>Subsections A through C</cite>.</text>
+          <text>Any actions taken to enforce such laws, policies, regulations, or agreements shall not be deemed a punishment prohibited by Subsections A through C.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 15-35" type="History">Added 2-4-2016 by Ord. No. 15-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-3.3</num>
-        <heading>Public use or consumption of marijuana prohibited. [Added 2-4-2016 by Ord. No. 15-36]</heading>
+        <heading>Public use or consumption of marijuana prohibited.</heading>
         <para>
           <num>A.</num>
           <text>The following words and terms shall have the following meanings for the purposes of this section:</text>
@@ -719,12 +724,14 @@
           <num>C.</num>
           <text>The penalty for violation of <cite path="§306-3.3|B">Subsection B</cite> shall be a forfeiture of not less than $50 nor more than $100. The Court may, upon a second or subsequent conviction, order the offender to obtain an alcohol and other drug abuse (AODA) assessment and to follow the recommendations resulting from said assessment.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 15-36" type="History">Added 2-4-2016 by Ord. No. 15-36</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-3.4</num>
-        <heading>Medical use or possession of marijuana. [Added 1-21-2016 by Ord. No. 15-37; amended 6-20-2024 by Ord. No. 24-29]</heading>
+        <heading>Medical use or possession of marijuana.</heading>
         <para>
           <num>A.</num>
           <text>Notwithstanding any other provision of <cite path="|II|306">Chapter 306</cite> or any other tribal law, the possession or use of 50 grams or less of marijuana shall not subject any person who has been issued a current valid Medical Registration Card by the Tribe pursuant to this <cite path="§306-3">§ 306-3</cite>.4 to any form of criminal or civil punishment under the laws of the Menominee Indian Tribe of Wisconsin related to such use or possession.</text>
@@ -742,15 +749,23 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The name, address, and date of birth of the applicant, except that if the applicant is homeless, no address is required;</text>
+            <text>The name, address, and date of birth of the applicant, except that if the applicant is homeless, no address is required; and</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>The name, address, and date of birth of the person making medical decisions for the applicant as stated in <cite path="§306-3.4|D">subsection D</cite> below (if any) and proof of said persons authority to make such decisions;</text>
+            <text>The name, address, and date of birth of the person making medical decisions for the applicant as stated in <cite path="§306-3.4|D">Subsection D</cite> below (if any) and proof of said persons authority to make such decisions; and</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>The application or renewal fee for a Medical Marijuana Registration Card determined by the Department;</text>
+            <text>The application or renewal fee for a Medical Marijuana Registration Card determined by the Department; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Proof acceptable to the Department that the applicant is a member of the Menominee Indian Tribe of Wisconsin, or is a qualified descendant of a member of the Menominee Indian Tribe of Wisconsin as that term is defined in <cite path="|II|525">Chapter 525 of the Menominee Tribal Code</cite>, unless this provision has been waived by <cite path="§306-3.4|C|(6)">Subsection C(6)</cite> below.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The requirement contained in <cite path="§306-3.4|C|(5)">Subsection C(5)</cite> above may be waived or modified by a department, board, or entity authorized by future ordinance to license, regulate, and make rules regarding the cultivation and sale of marijuana.</text>
           </para>
         </para>
         <para>
@@ -759,7 +774,7 @@
         </para>
         <para>
           <num>E.</num>
-          <text>A Qualifying Condition for the purposes of this <cite path="§306-3">§ 306-3</cite>.4(1) is a condition or its treatment that produces one or more of the following: cachexia or wasting syndrome; pain; nausea; seizures; muscle spasms; depression; anxiety; or any other condition that, in the opinion of the applicant would benefit from the use of Marijuana.</text>
+          <text>A Qualifying Condition for the purposes of this <cite path="§306-3">§ 306-3</cite>.4 is a condition or its treatment that produces one or more of the following: cachexia or wasting syndrome; pain; nausea; seizures; muscle spasms; depression; anxiety; or any other condition that, in the opinion of the applicant would benefit from the use of Marijuana.</text>
         </para>
         <para>
           <num>F.</num>
@@ -807,9 +822,13 @@
         </para>
         <para>
           <num>J.</num>
-          <text>Any actions taken to enforce such laws, policies, regulations, or agreements shall not be deemed a punishment prohibited by <cite path="§306-3.4|B">Subsection B</cite>."</text>
+          <text>Any actions taken to enforce such laws, policies, regulations, or agreements shall not be deemed a punishment prohibited by <cite path="§306-3.4|B">Subsection B</cite>.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 24-38" type="History">Amended 8-15-2024 by Ord. No. 24-38</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 24-29" type="History">Amended 6-20-2024 by Ord. No. 24-29</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 15-37" type="History">Added 1-21-2016 by Ord. No. 15-37</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -985,7 +1004,7 @@
           <text>Opiates. Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation:</text>
           <para>
             <num>(1)</num>
-            <text>Acetyl-alpha-methylfentanyl	[N-(1-[1-methyl-2-phenethyl)-4-piperidinyl)-N-phenylacetamide].</text>
+            <text>Acetyl-alpha-methylfentanyl [N-(1-[1-methyl-2-phenethyl)-4-piperidinyl)-N-phenylacetamide].</text>
           </para>
           <para>
             <num>(2)</num>
@@ -997,7 +1016,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Alphacetylmethadol	(except	levo-alphacetylmethadol,	also	known	as	levo-alpha-acetylmethadol, levomethadyl acetate, or LAAM).</text>
+            <text>Alphacetylmethadol (except levo-alphacetylmethadol, also known as levo-alpha-acetylmethadol, levomethadyl acetate, or LAAM).</text>
           </para>
           <para>
             <num>(5)</num>
@@ -1013,7 +1032,7 @@
           </para>
           <para>
             <num>(8)</num>
-            <text>Alpha-methylthiofentanyl	[N-(1-methyl-2-[2-thienyl]ethyl-4-piperidinyl)-N-phenyl-propanamide].</text>
+            <text>Alpha-methylthiofentanyl [N-(1-methyl-2-[2-thienyl]ethyl-4-piperidinyl)-N-phenyl-propanamide].</text>
           </para>
           <para>
             <num>(9)</num>
@@ -1313,7 +1332,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>4-Bromo-2,5-dimethoxyphenethylamine  [some  trade  or  other  names:  2-(4-bromo-2, 5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB; 2C-B, Nexus].</text>
+            <text>4-Bromo-2,5-dimethoxyphenethylamine  [some trade or other names: 2-(4-bromo-2, 5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB; 2C-B, Nexus].</text>
           </para>
           <para>
             <num>(4)</num>
@@ -1361,7 +1380,7 @@
           </para>
           <para>
             <num>(15)</num>
-            <text>5-methoxy-N,N-dimethyltryptamine  [some  trade  or  other  names:  5-methoxy-3-(2-[dimethylamino]ethyl) indole; 5-MeO-DMT].</text>
+            <text>5-methoxy-N,N-dimethyltryptamine  [some trade or other names: 5-methoxy-3-(2-[dimethylamino]ethyl) indole; 5-MeO-DMT].</text>
           </para>
           <para>
             <num>(16)</num>
@@ -1369,7 +1388,7 @@
           </para>
           <para>
             <num>(17)</num>
-            <text>Bufotenine [some trade and other names: 3-(β-Dimethylaminoethyl) -5-hydroxyindole; 3-(2-dimethylaminoethyl)-5-indolol;	N,N-dimethylserotonin;	5-hydroxy-N,N-dimethyltryptamine; mappine].</text>
+            <text>Bufotenine [some trade and other names: 3-(β-Dimethylaminoethyl) -5-hydroxyindole; 3-(2-dimethylaminoethyl)-5-indolol; N,N-dimethylserotonin; 5-hydroxy-N,N-dimethyltryptamine; mappine].</text>
           </para>
           <para>
             <num>(18)</num>
@@ -1385,7 +1404,7 @@
           </para>
           <para>
             <num>(21)</num>
-            <text>Ibogaine  [some  trade  and  other  names:  7-Ethyl-6;6β,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido (1', 2':1,2) azepino (5,4-b) indole; Tabernanthe iboga].</text>
+            <text>Ibogaine  [some trade and other names: 7-Ethyl-6;6β,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido (1', 2':1,2) azepino (5,4-b) indole; Tabernanthe iboga].</text>
           </para>
           <para>
             <num>(22)</num>
@@ -1401,7 +1420,7 @@
           </para>
           <para>
             <num>(25)</num>
-            <text>Parahexyl;  some  trade  or  other  names:  3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6, 6,9-trimethyl-6H-dibenzo(b,d)pyran; Synhexyl.</text>
+            <text>Parahexyl; some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6, 6,9-trimethyl-6H-dibenzo(b,d)pyran; Synhexyl.</text>
           </para>
           <para>
             <num>(26)</num>
@@ -1444,7 +1463,7 @@
             </para>
             <para>
               <num>(e)</num>
-              <text>Ethylamine  analog  of  phencyclidine  [some  trade  or  other  names:  N-ethyl-1-phenylcyclohexylamine,	(1-phenylcyclohexyl)ethylamine,	N-(1-phenylcyclohexyl)ethylamine, cyclohexamine, PCE].</text>
+              <text>Ethylamine analog of phencyclidine [some trade or other names: N-ethyl-1-phenylcyclohexylamine, (1-phenylcyclohexyl)ethylamine, N-(1-phenylcyclohexyl)ethylamine, cyclohexamine, PCE].</text>
             </para>
             <para>
               <num>(f)</num>
@@ -1629,7 +1648,7 @@
           <text>Stimulants. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers, and salts of isomers:</text>
           <para>
             <num>(1)</num>
-            <text>Aminorex  (some  other  names:  aminoxaphen;  2-amino-5-phenyl-2-oxazoline;  or 4,5-dihydro-5-phenly-2-oxazolamine).</text>
+            <text>Aminorex  (some other names: aminoxaphen; 2-amino-5-phenyl-2-oxazoline; or 4,5-dihydro-5-phenly-2-oxazolamine).</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2196,7 +2215,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Dextropropoxyphene	[alpha-(+)-4-dimethylamino-1,2-diphenyl-3-methyl-2-propionoxybutane].</text>
+            <text>Dextropropoxyphene [alpha-(+)-4-dimethylamino-1,2-diphenyl-3-methyl-2-propionoxybutane].</text>
           </para>
         </para>
         <para>
@@ -2555,10 +2574,18 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Gabapentin [241-(aminomethyl) cyclohexyl] acetic acid]. <strong>[Added 2-6-2020 by Ord. No. 19-40]</strong></text>
+            <text>Gabapentin [241-(aminomethyl) cyclohexyl] acetic acid].<fn path="|II|§306-10|footnotes|3">3</fn></text>
           </para>
         </para>
-        <annotations/>
+        <footnotes>
+          <footnote>
+            <num>3</num>
+            <text>Editor's Note: Added 2-6-2020 by Ord. No. 19-40</text>
+          </footnote>
+        </footnotes>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 19-40" type="History">Added 2-6-2020 by Ord. No. 19-40</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -2577,7 +2604,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Businesses and persons licensed under Tribal Law to manufacture, distribute, dispense or conduct research with marijuana or cannabis may possess, manufacture, distribute, dispense or conduct research with marijuana or cannabis on this Reservation to the extent authorized by their Tribal license. The provisions of <cite path="§306-13">§ 306-13</cite> are not applicable to such licensed businesses.</text>
+          <text>Businesses and persons licensed under Tribal Law to manufacture, distribute, dispense or conduct research with Marijuana or Cannabis may possess, manufacture, distribute, dispense or conduct research with Marijuana or Cannabis on this Reservation to the extent authorized by their Tribal license. The provisions of <cite path="§306-13">§ 306-13</cite> are not applicable to such licensed businesses.</text>
         </para>
         <para>
           <num>C.</num>
@@ -2600,15 +2627,16 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>A licensed agent or employee of a business licensed to manufacture, distribute, dispense or conduct research with marijuana or cannabis under Tribal Law if the agent or employee is acting in the usual course of the agent or employee's business or employment.</text>
+            <text>A licensed agent or employee of a business licensed to manufacture, distribute, dispense or conduct research with marijuana or cannabis under Tribal law if the agent or employee is acting in the usual course of the agent or employee's business or employment.</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>Any employee or agent of the Menominee Indian Tribe of Wisconsin acting within the scope of their duties in regard to regulation of businesses licensed to manufacture, distribute, dispense or conduct research with marijuana or cannabis under Tribal Law, and any person or entity performing tests on marijuana or cannabis pursuant to an agreement with such a licensed business.</text>
+            <text>Any employee or agent of the Menominee Indian Tribe of Wisconsin acting within the scope of their duties in regard to regulation of businesses licensed to manufacture, distribute, dispense or conduct research with marijuana or cannabis under Tribal law, and any person or entity performing tests on marijuana or cannabis pursuant to an agreement with such a licensed business.</text>
           </para>
         </para>
         <annotations>
-          <annotation type="History">Amended 6-20-2024 by Ord. No. 24-29</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 24-38" type="History">Amended 8-15-2024 by Ord. No. 24-38</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 24-29" type="History">Amended 6-20-2024 by Ord. No. 24-29</annotation>
         </annotations>
       </section>
       <section>
@@ -2752,7 +2780,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Causing death enhancer. If a person violates <cite path="§306-16|A">§ 306-16A</cite> by distributing, selling, or delivering a controlled substance or a controlled substance analog and such violation results in or causes a <cite>part i</cite>n the overdose death of the receiver of the controlled substance, the maximum term of a Class A misdemeanor shall be imposed and the person shall be referred to the Tribal Legislature for lifetime banishment pursuant to <cite path="|I|80">Chapter 80</cite>.</text>
+            <text>Causing death enhancer. If a person violates <cite path="§306-16|A">§ 306-16A</cite> by distributing, selling, or delivering a controlled substance or a controlled substance analog and such violation results in or causes a part in the overdose death of the receiver of the controlled substance, the maximum term of a Class A misdemeanor shall be imposed and the person shall be referred to the Tribal Legislature for lifetime banishment pursuant to <cite path="|I|80">Chapter 80</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -2764,7 +2792,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution. If the Tribal prosecution is dismissed due to federal prosecution, the federal conviction(s) may be used by the Tribal Legislature for banishment pursuant to <cite path="|I|80">Chapter 80</cite>. Nothing in <cite path="|II|306">this chapter</cite> restricts or limits the ability of the Tribal Legislature to assert their inherent, sovereign right of exclusion or banishment under tribal law.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -2800,7 +2828,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -2836,7 +2864,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -2900,7 +2928,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -2944,7 +2972,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -2980,7 +3008,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3024,7 +3052,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3044,7 +3072,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3072,7 +3100,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3117,7 +3145,7 @@
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3126,7 +3154,7 @@
         <heading>Attempt or conspiracy.</heading>
         <text>Prohibited act. Any person who attempts or conspires to commit any offense defined in <cite path="|II|306|1|III">this article</cite> shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.</text>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3146,7 +3174,7 @@
           <text>The third or subsequent offense shall be calculated within the 10 years by counting the prior offense(s) date(s) from date of conviction or release from incarceration or whichever is less, except that years banished shall not be counted.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3210,7 +3238,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3350,7 +3378,7 @@
           <text>Offenses in the article may be subject to federal prosecution in addition to Tribal prosecution. If the Tribal prosecution is dismissed due to federal prosecution, the federal conviction(s) may be used by the Tribal Legislature for banishment pursuant to <cite path="|I|80">Chapter 80</cite>. Nothing in <cite path="|II|306">this chapter</cite> restricts or limits the ability of the Tribal Legislature to assert their inherent, sovereign right of exclusion or banishment under tribal law.</text>
         </para>
         <annotations>
-          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 20-35" type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
         </annotations>
       </section>
       <section>
@@ -3645,7 +3673,7 @@
         <text>CHEMICAL INVESTIGATION SITE — A clandestine drug lab site that is under notice and order for cleanup and/or remediation as a public health nuisance, as authorized by the Menominee Indian Tribe and/ or <cite path="|II|306|1|IV">this article</cite>.</text>
         <text>CHILD — Any person less than 18 years of age.</text>
         <text>CLANDESTINE DRUG LAB GENERAL CLEANUP GUIDANCE (CDLGCG) — Clandestine Drub Lab</text>
-        <text>General Cleanup Guidance standard operating procedure guide adopted by the Menominee Indian Tribe and attached hereto.<fn path="|II|§306-38|footnotes|3">3</fn></text>
+        <text>General Cleanup Guidance standard operating procedure guide adopted by the Menominee Indian Tribe and attached hereto.<fn path="|II|§306-38|footnotes|4">4</fn></text>
         <text>CLANDESTINE DRUG LAB SITE — Any parts of a structure, such as a dwelling, building, motor vehicle, trailer, or appliance, occupied or affected by conditions and/or chemicals typically associated with a clandestine drug lab operation.</text>
         <text>CLEANUP — Proper removal and/or containment of substances hazardous to humans and/or the environment at a chemical investigation site. Cleanup is a part of remediation.</text>
         <text>CONTROLLED SUBSTANCE — See <cite path="§306-3">§ 306-3</cite> of <cite path="|II|306|1">this Part</cite> 1.</text>
@@ -3656,7 +3684,7 @@
         <text>STRUCTURE — A dwelling, building, motor vehicle, trailer, boat or other appliance.</text>
         <footnotes>
           <footnote>
-            <num>3</num>
+            <num>4</num>
             <text>Editor's Note: A copy of the guide is on file at the office of the Administrative Manager.</text>
           </footnote>
         </footnotes>
@@ -3732,7 +3760,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>The Public Health Authority shall notify and order the property owner and occupant to have the public health nuisance removed or abated as provided by Menominee tribal law, Menominee Indian Tribe of Wisconsin Clandestine Drug Lab General Cleanup Guidance incorporated by reference as attached hereto.<fn path="|II|§306-41|footnotes|4">4</fn> and <cite path="|II|306|1|IV">this article</cite>. The Public Health Authority shall include the following as part of the notice and order:</text>
+          <text>The Public Health Authority shall notify and order the property owner and occupant to have the public health nuisance removed or abated as provided by Menominee tribal law, Menominee Indian Tribe of Wisconsin Clandestine Drug Lab General Cleanup Guidance incorporated by reference as attached hereto.<fn path="|II|§306-41|footnotes|5">5</fn> and <cite path="|II|306|1|IV">this article</cite>. The Public Health Authority shall include the following as part of the notice and order:</text>
           <para>
             <num>(1)</num>
             <text>A replica of the chemical investigation site public health nuisance declaration that is posted at the site's entrance(s).</text>
@@ -3800,7 +3828,7 @@
         </para>
         <footnotes>
           <footnote>
-            <num>4</num>
+            <num>5</num>
             <text>Editor's Note: A copy of the guide is on file at the office of the Administrative Manager.</text>
           </footnote>
         </footnotes>

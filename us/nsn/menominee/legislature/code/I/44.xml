@@ -4,7 +4,9 @@
   <num>44</num>
   <heading>DEBT COLLECTION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-2-2003 by Ord. No. 03-17; amended in its entirety 12-4-2014 by Ord. No. 14-26. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 14-26" type="History">Amended in its entirety 12-4-2014 by Ord. No. 14-26</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 03-17" type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-2-2003 by Ord. No. 03-17</annotation>
     <annotation type="General References">Accounting system — See <cite path="|I|7">Ch. 7</cite>.</annotation>
     <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>.</annotation>
   </annotations>
@@ -49,7 +51,8 @@
       <text>The person has not disputed the debt, in writing, within 35 days of the date the letter in <cite path="§44-3|C">Subsection C</cite> above was mailed, or paid the debt in full, or made acceptable arrangements to pay the debt, or the person has disputed the debt but has been determined to owe money to the Tribe pursuant to <cite path="§44-4">§ 44-4</cite> of this chapter.</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 8-4-2016 by Ord. No. 16-21; 1-18-2024 by Ord. No. 23-70</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 23-70" type="History">Amended 1-18-2024 by Ord. No. 23-70</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 16-21" type="History">Amended 8-4-2016 by Ord. No. 16-21</annotation>
     </annotations>
   </section>
   <section>
@@ -58,7 +61,7 @@
     <heading>Review of disputed amounts.</heading>
     <text>Any person who disputes the amount of money alleged to be owed to the Tribe pursuant to <cite path="§44-3|B">§ 44-3B</cite> through D of <cite path="|I|44">this chapter</cite> may ask the Loan Fund Committee to review the disputed amount and make a determination as to the amount of money owed the Tribe, if any. The person disputing the debt may bring any relevant evidence to the attention of the Loan Fund Committee and may request a hearing before the Loan Fund Committee for the purpose of presenting his or her argument. The employee or agent of the Tribe who signed the statement in regard to the debt, or any Tribal employee familiar with the issues surrounding the outstanding debt, shall attend this hearing.</text>
     <annotations>
-      <annotation type="History">Amended 1-18-2024 by Ord. No. 23-70</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 23-70" type="History">Amended 1-18-2024 by Ord. No. 23-70</annotation>
     </annotations>
   </section>
   <section>
@@ -79,13 +82,21 @@
     </para>
     <para>
       <num>B.</num>
-      <text>In regard to a contract where the Tribe is paying the debtor for services performed, agreed to a clause in said contract authorizing the Tribe to withhold the lesser of the total amount due the Tribe, or 25% of the cost of the contract that is related to services performed; or <strong>[Amended 8-4-2016 by Ord. No. 16-21]</strong></text>
+      <text>In regard to a contract where the Tribe is paying the debtor for services performed, agreed to a clause in said contract authorizing the Tribe to withhold the lesser of the total amount due the Tribe, or 25% of the cost of the contract that is related to services performed; or<fn path="|I|§44-6|footnotes|1">1</fn></text>
     </para>
     <para>
       <num>C.</num>
       <text>In regard to any other contract, has signed a pay back agreement or wage assignment on terms acceptable to the tribal department or division.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 8-4-2016 by Ord. No. 16-21</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 16-21" type="History">Amended 8-4-2016 by Ord. No. 16-21</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -141,10 +152,10 @@
     <prefix>§</prefix>
     <num>44-13</num>
     <heading>Conflicting provisions.</heading>
-    <text>In any case where the terms of <cite path="|I|44">this chapter</cite> conflict with the terms of <cite path="|I|7">Chapter 7</cite>, Accounting System, <cite path="|I|170">Chapter 170</cite>, Personnel, Article I, Tribal Preference, or Ordinance No. 83-6, Personnel Policies and Procedures Manual,<fn path="|I|§44-13|footnotes|1">1</fn> the terms of <cite path="|I|44">this chapter</cite> shall govern.</text>
+    <text>In any case where the terms of <cite path="|I|44">this chapter</cite> conflict with the terms of <cite path="|I|7">Chapter 7</cite>, Accounting System, <cite path="|I|170">Chapter 170</cite>, Personnel, Article I, Tribal Preference, or Ordinance No. 83-6, Personnel Policies and Procedures Manual,<fn path="|I|§44-13|footnotes|2">2</fn> the terms of <cite path="|I|44">this chapter</cite> shall govern.</text>
     <footnotes>
       <footnote>
-        <num>1</num>
+        <num>2</num>
         <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
       </footnote>
     </footnotes>
@@ -153,9 +164,10 @@
   <section>
     <prefix>§</prefix>
     <num>44-14</num>
-    <heading>Tax refund interception. [Added 1-18-2024 by Ord. No. 23-70]</heading>
-    <text>A department or division of the Tribe, or Tribal Court, may seek repayment of a debt from any person on the list of debtors through interception of debtor's State of Wisconsin tax refund if the Tribe has entered into an agreement with the State of Wisconsin regarding the interception of tax refunds. At least 30 days</text>
-    <text>prior to seeking repayment through interception of debtor's State of Wisconsin tax refund, the debtor must be notified of the intent to seek such interception. Such notice shall be mailed with first-class postage to debtor's(s') last known address and shall contain the information related to the debt consistent with <cite path="§44-3|A">§ 44-3A</cite> along with notice that debtor may appeal the decision to seek such intercept to the Loan Fund Committee pursuant to <cite path="§44-4">§ 44-4</cite>.</text>
-    <annotations/>
+    <heading>Tax refund interception.</heading>
+    <text>A department or division of the Tribe, or Tribal Court, may seek repayment of a debt from any person on the list of debtors through interception of debtor's State of Wisconsin tax refund if the Tribe has entered into an agreement with the State of Wisconsin regarding the interception of tax refunds. At least 30 days prior to seeking repayment through interception of debtor's State of Wisconsin tax refund, the debtor must be notified of the intent to seek such interception. Such notice shall be mailed with first-class postage to debtor's(s') last known address and shall contain the information related to the debt consistent with <cite path="§44-3|A">§ 44-3A</cite> along with notice that debtor may appeal the decision to seek such intercept to the Loan Fund Committee pursuant to <cite path="§44-4">§ 44-4</cite>.</text>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 23-70" type="History">Added 1-18-2024 by Ord. No. 23-70</annotation>
+    </annotations>
   </section>
 </container>

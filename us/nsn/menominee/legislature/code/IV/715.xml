@@ -4,7 +4,11 @@
   <num>715</num>
   <heading>SUPERMARKET</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 8-13-1987 by Ord. No. 87-11; amended 10-6-1988; 2-16-1989; 11-2-1989. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Amended 11-2-1989</annotation>
+    <annotation type="History">Amended 2-16-1989</annotation>
+    <annotation type="History">Amended 10-6-1988</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 87-11" type="History">Adopted by the Legislature of the Menominee Indian Tribe 8-13-1987 by Ord. No. 87-11</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -30,7 +34,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The Board shall consist of five enrolled members appointed by majority vote of the Tribal Legislature. The Board shall choose among themselves, by lot, the length of each member's first term after passage of this amendment. The first term of one member shall be for one year. The first term of another member shall be for two years. The first term of the remaining members shall be for three years. This shall accomplish the staggering of terms, and all further terms shall be of three years' length. All members of the Board shall possess voting privileges, with one member to be selected by the Board as Chairperson. <strong>[Amended 5-15-1993]</strong></text>
+      <text>The Board shall consist of five enrolled members appointed by majority vote of the Tribal Legislature. The Board shall choose among themselves, by lot, the length of each member's first term after passage of this amendment. The first term of one member shall be for one year. The first term of another member shall be for two years. The first term of the remaining members shall be for three years. This shall accomplish the staggering of terms, and all further terms shall be of three years' length. All members of the Board shall possess voting privileges, with one member to be selected by the Board as Chairperson.<fn path="|IV|§715-3|footnotes|1">1</fn></text>
     </para>
     <para>
       <num>C.</num>
@@ -60,7 +64,15 @@
       <num>E.</num>
       <text>Vacancies. A vacancy on the Board shall be filled by the Tribal Legislature for the unexpired term.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 5-15-1993</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation type="History">Amended 5-15-1993</annotation>
+    </annotations>
   </section>
   <section cache:ref-path="IV|§715-4">
     <prefix>§</prefix>
@@ -88,7 +100,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The Menominee Tribal Supermarket shall comply with all applicable tribal/federal laws, with the express exception that Tribal Ordinance Nos. 80-7, 82-11 and 83-6 shall not apply to the chartered Menominee Tribal Supermarket.<fn path="|IV|§715-4|footnotes|1">1</fn></text>
+      <text>The Menominee Tribal Supermarket shall comply with all applicable tribal/federal laws, with the express exception that Tribal Ordinance Nos. 80-7, 82-11 and 83-6 shall not apply to the chartered Menominee Tribal Supermarket.<fn path="|IV|§715-4|footnotes|2">2</fn></text>
     </para>
     <para>
       <num>G.</num>
@@ -108,7 +120,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>1</num>
+        <num>2</num>
         <text>Editor's Note: For Ord. No. 80-7 see <cite path="|I|7">Ch. 7</cite>, Accounting System; for Ord. No. 82-11 see <cite path="|I|77|I">Ch. 77, Art. I</cite>, Conflict of Interest. Ordinance No. 83-6 adopted the Personnel Policies and Procedures Manual which is on file at the office of the Administrative Manager.</text>
       </footnote>
     </footnotes>

@@ -11,7 +11,10 @@
   <container cache:ref-path="II|374|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Liability of Hotelkeeper [Adopted 9-16-1994 by Ord. No. 94-16]</heading>
+    <heading>Liability of Hotelkeeper</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-16" type="History">Adopted 9-16-1994 by Ord. No. 94-16</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>374-1</num>
@@ -30,7 +33,8 @@
       <prefix>§</prefix>
       <num>374-3</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="|II|374|I">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Gaming Corporation Hotel.</text>
+      <text>As used in <cite path="|II|374|I">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>HOTEL — The Menominee Gaming Corporation Hotel.</text>
       <text>HOTELKEEPER — The hotelkeeper at the Menominee Gaming Corporation Hotel.</text>
       <annotations/>
     </section>
@@ -81,7 +85,10 @@
   <container cache:ref-path="II|374|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Fraud on Hotel or Restaurant Keeper [Adopted 9-16-1994 by Ord. No. 94-17]</heading>
+    <heading>Fraud on Hotel or Restaurant Keeper</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-17" type="History">Adopted 9-16-1994 by Ord. No. 94-17</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>374-5</num>
@@ -100,8 +107,10 @@
       <prefix>§</prefix>
       <num>374-7</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="|II|374|II">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Gaming Corporation Hotel.</text>
-      <text>HOTELKEEPER — The hotelkeeper at the Menominee Gaming Corporation Hotel. RESTAURANT — The Menominee Gaming Corporation Restaurant.</text>
+      <text>As used in <cite path="|II|374|II">this article</cite>, the following terms shall have the meanings indicated:</text>
+      <text>HOTEL — The Menominee Gaming Corporation Hotel.</text>
+      <text>HOTELKEEPER — The hotelkeeper at the Menominee Gaming Corporation Hotel.</text>
+      <text>RESTAURANT — The Menominee Gaming Corporation Restaurant.</text>
       <text>RESTAURANT KEEPER — The restaurant keeper at the Menominee Gaming Corporation Restaurant.</text>
       <annotations/>
     </section>

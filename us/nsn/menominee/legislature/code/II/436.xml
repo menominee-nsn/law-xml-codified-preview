@@ -4,8 +4,9 @@
   <num>436</num>
   <heading>OCCUPATIONAL SAFETY AND HEALTH</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-21. Amendments noted where applicable</annotation>
-    <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 09-21" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-21</annotation>
+    <annotation type="General References">Charters — See Part IV.</annotation>
   </annotations>
   <section cache:ref-path="II|§436-1">
     <prefix>§</prefix>
@@ -32,16 +33,22 @@
     <num>436-2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <cite path="|II|436">this chapter</cite>:</text>
-    <text>ADVISORY BOARD — A board which shall consist of the Insurance Director, Environmental Services Director, Community Development Director, Housing Director, designee from the Menominee Casino and designee from the College of the Menominee Nation. In the event that one of the above-listed positions is filled by a nontribal member, that director shall designate a tribal member employee of that department to serve on the Board.</text>
-    <text>AUTHORIZED REPRESENTATIVE — An employee, agent, or officer of the Department. DEPARTMENT — The Menominee Indian Tribe of Wisconsin Environmental Services Department.</text>
+    <text>ADVISORY BOARD — A board which shall consist of the Insurance Director, Environmental Services Director, Community Development Director, Housing Director, designee from the Menominee Casino and designee from the College of the Menominee Nation. In the event that one of the above-listed positions is filled by a nontribal member, that director shall designate a tribal member employee of that department to serve on the Board.<fn path="|II|§436-2|footnotes|2">2</fn></text>
+    <text>AUTHORIZED REPRESENTATIVE — An employee, agent, or officer of the Department.</text>
+    <text>DEPARTMENT — The Menominee Indian Tribe of Wisconsin Environmental Services Department.</text>
     <text>DIRECTOR — The Director of the Menominee Indian Tribe of Wisconsin Environmental Services Department, or a designated representative of that Director.</text>
     <text>EMPLOYEE — An employee of an employer.</text>
-    <text>EMPLOYER — Menominee Tribal Enterprises, the Menominee Indian Gaming Authority and any</text>
-    <text>business chartered by the Tribe pursuant to Article XII or XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>EMPLOYER — Menominee Tribal Enterprises, the Menominee Indian Gaming Authority and any business chartered by the Tribe pursuant to Article XII or XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
     <text>SAFETY AND HEALTH STANDARD — A standard which requires the adoption or use of one or more practices, means, methods, operations, or processes reasonably necessary or appropriate to provide safe or healthful employment and places of employment, and any rules, regulations, or procedures necessary to effectively implement <cite path="|II|436">this chapter</cite>.</text>
     <text>TRIBAL COURT — The Menominee Tribal Court.</text>
     <text>WORKING DAY — For the purpose of computing time, a calendar day, except Saturdays, Sundays, and all tribal governmental legal holidays, as now or hereafter amended, and for the purposes of the computation of time within which an act is to be done under the provisions of <cite path="|II|436">this chapter</cite>, shall be computed by excluding the first working day and including the last working day.</text>
     <text>WORK PLACE — Any plant, yard, premises, room, or other place where an employee or employees are employed for the performance of labor or service over which the employer has the right of access or control.</text>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended 12-15-2011</text>
+      </footnote>
+    </footnotes>
     <annotations>
       <annotation type="History">Amended 12-15-2011</annotation>
     </annotations>
@@ -56,7 +63,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Within one year of enactment of <cite path="|II|436">this chapter</cite>, the Advisory Board shall recommend to the Menominee Tribal Legislature the adoption of safety and health standards governing the conditions of employment of general and special application in all work places. The Director shall post these recommendations in accordance with Ordinance No. 80-6<fn path="|II|§436-3|footnotes|2">2</fn> at least 30 days prior to any adoption of such recommendations pursuant to <cite path="§436-3|A">Subsection A</cite> above. Such posting shall invite public comment. The Director may present such rules at a public hearing where the Director determines or is required by law to hold such a hearing to provide for notice and comment. The Menominee Tribal Legislature may extend the time period for the Advisory Board to provide its initial recommendation for up to 60 days, upon request from the Advisory Board.</text>
+      <text>Within one year of enactment of <cite path="|II|436">this chapter</cite>, the Advisory Board shall recommend to the Menominee Tribal Legislature the adoption of safety and health standards governing the conditions of employment of general and special application in all work places. The Director shall post these recommendations in accordance with Ordinance No. 80-6<fn path="|II|§436-3|footnotes|3">3</fn> at least 30 days prior to any adoption of such recommendations pursuant to <cite path="§436-3|A">Subsection A</cite> above. Such posting shall invite public comment. The Director may present such rules at a public hearing where the Director determines or is required by law to hold such a hearing to provide for notice and comment. The Menominee Tribal Legislature may extend the time period for the Advisory Board to provide its initial recommendation for up to 60 days, upon request from the Advisory Board.</text>
     </para>
     <para>
       <num>C.</num>
@@ -67,7 +74,7 @@
       <text>In the recommendation of safety and health standards under the authority of <cite path="|II|436">this chapter</cite>, the Advisory Board shall:</text>
       <para>
         <num>(1)</num>
-        <text>Provide for the adoption of occupational health and safety standards which are at least as effective as those adopted or recognized by the United States Secretary of Labor under the authority of the Occupational Safety and Health Act of 1970 (Public Law 91-596, 84 Stat. 1590);<fn path="|II|§436-3|footnotes|3">3</fn> and</text>
+        <text>Provide for the adoption of occupational health and safety standards which are at least as effective as those adopted or recognized by the United States Secretary of Labor under the authority of the Occupational Safety and Health Act of 1970 (Public Law 91-596, 84 Stat. 1590);<fn path="|II|§436-3|footnotes|4">4</fn> and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -96,11 +103,11 @@
     </para>
     <footnotes>
       <footnote>
-        <num>2</num>
+        <num>3</num>
         <text>Editor's Note: See <cite path="|I|177">Ch. 177</cite>, Posting Procedures.</text>
       </footnote>
       <footnote>
-        <num>3</num>
+        <num>4</num>
         <text>Editor's Note: See 29 U.S.C. § 651 et seq.</text>
       </footnote>
     </footnotes>
@@ -326,10 +333,10 @@
     <prefix>§</prefix>
     <num>436-17</num>
     <heading>Enforcement of other standards.</heading>
-    <text>In order to ensure the effectiveness of <cite path="|II|436">this chapter</cite>, if any employer is contacted by the United States Department of Labor regarding compliance with the federal Occupational Safety and Health Act,<fn path="|II|§436-17|footnotes|4">4</fn> that employer shall request that the Department of Labor address itself to the Chairperson of the Menominee Tribal Legislature, and employers shall promptly notify the Office of the Chairperson of the Menominee Tribal Legislature of any such contact.</text>
+    <text>In order to ensure the effectiveness of <cite path="|II|436">this chapter</cite>, if any employer is contacted by the United States Department of Labor regarding compliance with the federal Occupational Safety and Health Act,<fn path="|II|§436-17|footnotes|5">5</fn> that employer shall request that the Department of Labor address itself to the Chairperson of the Menominee Tribal Legislature, and employers shall promptly notify the Office of the Chairperson of the Menominee Tribal Legislature of any such contact.</text>
     <footnotes>
       <footnote>
-        <num>4</num>
+        <num>5</num>
         <text>Editor's Note: See 29 U.S.C. § 651 et seq.</text>
       </footnote>
     </footnotes>

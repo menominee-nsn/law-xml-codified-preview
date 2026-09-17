@@ -4,7 +4,9 @@
   <num>278</num>
   <heading>CHILDREN'S CODE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-21-2018 by Ord. No. 18-11; amended in its entirety 7-16-2020 by Ord. No. 20-16. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 20-16" type="History">Amended in its entirety 7-16-2020 by Ord. No. 20-16</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 18-11" type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-21-2018 by Ord. No. 18-11</annotation>
   </annotations>
   <container>
     <prefix>Article</prefix>
@@ -86,7 +88,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The Court shall have exclusive jurisdiction over Indian children and families and all proceedings under <cite path="|II|278">this chapter</cite>, including but not limited to the following: <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>The Court shall have exclusive jurisdiction over Indian children and families and all proceedings under <cite path="|II|278">this chapter</cite>, including but not limited to the following:<fn path="|II|§278-3|footnotes|1">1</fn></text>
         <para>
           <num>(1)</num>
           <text>Proceedings in which a child is alleged to be a child in need of protection and services, a juvenile in need of protection and services, or a delinquent child;</text>
@@ -130,7 +132,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Personal jurisdiction. The Court shall have personal jurisdiction for all matters in the chapter over the following individuals: <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Personal jurisdiction. The Court shall have personal jurisdiction for all matters in the chapter over the following individuals:<fn path="|II|§278-3|footnotes|2">2</fn></text>
         <para>
           <num>(1)</num>
           <text>Jurisdiction over a Menominee child. The Court shall have personal jurisdiction over any child who is present, resides, or is domiciled within the boundaries of the Menominee Indian Reservation and is an enrolled member, eligible for enrollment, or a descendant of the Menominee Indian Tribe of Wisconsin.</text>
@@ -204,7 +206,20 @@
         <num>H.</num>
         <text>An order accepting or denying jurisdiction is a final order for purpose of appeal.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -358,7 +373,7 @@
       <text>The Prosecutor shall:</text>
       <para>
         <num>A.</num>
-        <text>Represent the Menominee Tribe in all proceedings under <cite path="|II|278">this chapter</cite>. Represent the interest of the public in all proceedings under <cite path="|II|278">this chapter</cite>. <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Represent the Menominee Tribe in all proceedings under <cite path="|II|278">this chapter</cite>. Represent the interest of the public in all proceedings under <cite path="|II|278">this chapter</cite>.<fn path="|II|§278-8|footnotes|3">3</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -390,9 +405,22 @@
       </para>
       <para>
         <num>I.</num>
-        <text>Make available upon request all copies of law enforcement officer reports, including witness statements, to counsel or guardian ad litem for any party and to the court-appointed special advocate prior to a plea hearing. The identity of a confidential informant may be withheld. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Make available upon request all copies of law enforcement officer reports, including witness statements, to counsel or guardian ad litem for any party and to the court-appointed special advocate prior to a plea hearing. The identity of a confidential informant may be withheld.<fn path="|II|§278-8|footnotes|4">4</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -400,7 +428,7 @@
       <heading>Guardian ad litem and other appointed persons.</heading>
       <para>
         <num>A.</num>
-        <text>The Court shall establish by rule the appointment guidelines, additional qualifications, and compensation for guardians ad litem ("GAL"), defense counsel, special advocates or other appointed persons. <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>The Court shall establish by rule the appointment guidelines, additional qualifications, and compensation for guardians ad litem ("GAL"), defense counsel, special advocates or other appointed persons.<fn path="|II|§278-9|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -408,7 +436,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Guardian ad litem. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Guardian ad litem.<fn path="|II|§278-9|footnotes|6">6</fn></text>
         <para>
           <num>(1)</num>
           <text>A guardian ad litem may be certified by the Court if he or she has completed guardian ad litem training or training requirements provided by the Court.</text>
@@ -594,7 +622,20 @@
         <num>F.</num>
         <text>The Court shall appoint counsel to a child in all matters where the child is the petitioning party.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1064,7 +1105,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Paternity. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Paternity.<fn path="|II|§278-19|footnotes|7">7</fn></text>
         <para>
           <num>(1)</num>
           <text>If a man who has been given notice under <cite path="|II|278">this chapter</cite>, or appears as a party at any hearings for which he received notice, alleges that he is the father of the child, and states that he wishes to establish the paternity of the child, all of the following apply:</text>
@@ -1084,11 +1125,11 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Civil rules of procedure. The Menominee Tribal Court Civil Rules of Procedure shall apply unless other procedures are provided within <cite path="|II|278">this chapter</cite>. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Civil rules of procedure. The Menominee Tribal Court Civil Rules of Procedure shall apply unless other procedures are provided within <cite path="|II|278">this chapter</cite>.<fn path="|II|§278-19|footnotes|8">8</fn></text>
       </para>
       <para>
         <num>H.</num>
-        <text>Contempt; general. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Contempt; general.<fn path="|II|§278-19|footnotes|9">9</fn></text>
         <para>
           <num>(1)</num>
           <text>Any person who fails to obey a court order or subpoena may be cited by the Court to appear and show cause why s/he should not be held in contempt of court. If the Court finds contempt of court, the person may be subject to appropriate sanctions.</text>
@@ -1100,7 +1141,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>Discovery. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Discovery.<fn path="|II|§278-19|footnotes|10">10</fn></text>
         <para>
           <num>(1)</num>
           <text>Copies of all law enforcement reports, including witness statements, shall be made available upon request to counsel or guardian ad litem for any party and to Court-appointed special advocate for the child prior to a plea hearing. Discovery request shall be made to the Tribal Prosecutor's department.</text>
@@ -1118,7 +1159,27 @@
           <text>Upon request, prior to the fact-finding hearing, the Tribal Prosecutor shall disclose to the child, through his or her counsel or guardian ad litem, or to the unborn child's guardian ad litem, the existence of any audiovisual recording of an oral statement of a child that is within the possession, custody, or control of the Tribe and shall make reasonable arrangements for the requesting person to view the statement. If, after compliance with <cite path="§278-19|I.|(4)">this subsection</cite>, the Tribe obtains possession, custody, or control of such a statement, the Tribal Prosecutor shall promptly notify the requesting person of that fact and make reasonable arrangements for the requesting person to view the statement.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1333,7 +1394,7 @@
         <text>If the parties served fail to obey a summons or order of appearance, a capias may be issued for the parent or guardian or for the child.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
       </annotations>
     </section>
     <section>
@@ -1350,7 +1411,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>In any placement, a preference shall be given, in the absence of good cause to the contrary, to a placement with: <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>In any placement, a preference shall be given, in the absence of good cause to the contrary, to a placement with:<fn path="|II|§278-23|footnotes|11">11</fn></text>
         <para>
           <num>(1)</num>
           <text>A member of the Indian child's immediate or extended family;</text>
@@ -1436,7 +1497,15 @@
           <text>The unavailability of a suitable placement after a determination by the Court that a diligent search was conducted to find suitable placements meeting the preference criteria, but none has been located.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>11</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1723,7 +1792,8 @@
         <text>Notwithstanding any other provision of this section, a delegation for the purposes listed in <cite path="§278-28|C|(1)">Subsection C(1)</cite> related to hospital admissions, or any delegation for the purposes listed in <cite path="§278-28|C|(2)">Subsection C(2)</cite> above, may be made in any form acceptable to the provider of such services, and the duration restrictions stated in <cite path="§278-28|E">Subsection E</cite> above are not applicable to such a delegation.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 5-20-2021 by Ord. No. 21-42; 7-20-2023 by Ord. No. 23-19</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 23-19" type="History">Amended 7-20-2023 by Ord. No. 23-19</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
       </annotations>
     </section>
   </container>
@@ -2362,11 +2432,11 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>A Uniform Child Custody Jurisdiction and Enforcement Act affidavit. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+          <text>A Uniform Child Custody Jurisdiction and Enforcement Act affidavit.<fn path="|II|§278-36|footnotes|12">12</fn></text>
         </para>
         <para>
           <num>(12)</num>
-          <text>Any other information as deemed necessary by the Court. <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+          <text>Any other information as deemed necessary by the Court.<fn path="|II|§278-36|footnotes|13">13</fn></text>
         </para>
       </para>
       <para>
@@ -2378,10 +2448,27 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>With reasonable notification to the interested parties and prior to the taking of a plea, the petition may be amended by person who filed the petition at the discretion of the court. After the taking of a plea, the petition may be amended provided any objecting party is allowed a continuance for a reasonable time. An amended petition may be given to the parties directly by the Tribal Prosecutor or the department worker or served on the parties pursuant to the section below, Service of the petition and summons. <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+          <text>With reasonable notification to the interested parties and prior to the taking of a plea, the petition may be amended by person who filed the petition at the discretion of the court. After the taking of a plea, the petition may be amended provided any objecting party is allowed a continuance for a reasonable time. An amended petition may be given to the parties directly by the Tribal Prosecutor or the department worker or served on the parties pursuant to the section below, Service of the petition and summons.<fn path="|II|§278-36|footnotes|14">14</fn></text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2655,9 +2742,17 @@
       </para>
       <para>
         <num>J.</num>
-        <text>At the close of the fact-finding hearing in which the Court does not immediately proceed with disposition, the Court shall set a date for the dispositional hearing which allows reasonable time for the parties to prepare but is no more than 30 calendar days after the fact-finding hearing, unless the Court enters an order finding good cause to go outside the time limits. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>At the close of the fact-finding hearing in which the Court does not immediately proceed with disposition, the Court shall set a date for the dispositional hearing which allows reasonable time for the parties to prepare but is no more than 30 calendar days after the fact-finding hearing, unless the Court enters an order finding good cause to go outside the time limits.<fn path="|II|§278-40|footnotes|15">15</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2874,7 +2969,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The Court must make the initial findings described above in <cite path="§278-42|C|(3)">Subsection C(3)</cite> within 60 days after the child was removed from home. <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+          <text>The Court must make the initial findings described above in <cite path="§278-42|C|(3)">Subsection C(3)</cite> within 60 days after the child was removed from home.<fn path="|II|§278-42|footnotes|16">16</fn></text>
         </para>
         <para>
           <num>(5)</num>
@@ -3147,7 +3242,7 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Trial reunification. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>Trial reunification.<fn path="|II|§278-42|footnotes|17">17</fn></text>
         <para>
           <num>(1)</num>
           <text>The Department or the Tribal Prosecutor may request the Court to order a trial reunification. A trial reunification occurs when a child placed in an out-of-home placement resides in the home of a parent, guardian, or legal custodian from which the child was removed for a period of seven consecutive days or longer, but not exceeding 150 days, for the purpose of determining the appropriateness of changing the placement of the child to that home. A trial reunification is not a change of placement under <cite path="§278-42|E|(1)">Subsection E(1)</cite> or (2) above.</text>
@@ -3301,7 +3396,20 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>16</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+        <footnote>
+          <num>17</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -4474,7 +4582,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Form and content. A petition initiating any proceeding under <cite path="|II|278|III">this article</cite> shall be captioned "Menominee Tribal Court," "Menominee Indian Reservation" and entitled, "In the interest of  , DOB:   , and shall set forth with specificity:</text>
+        <text>Form and content. A petition initiating any proceeding under <cite path="|II|278|III">this article</cite> shall be captioned "Menominee Tribal Court," "Menominee Indian Reservation" and entitled, "In the interest of _____, DOB:_____, and shall set forth with specificity:</text>
         <para>
           <num>(1)</num>
           <text>The facts necessary to invoke the jurisdiction of the Court.</text>
@@ -4776,9 +4884,17 @@
       </para>
       <para>
         <num>J.</num>
-        <text>At the close of the fact-finding hearing in which the Court does not immediately proceed with disposition, the Court shall set a date for the dispositional hearing which allows reasonable time for the parties to prepare but is no more than 30 days after the fact-finding hearing, unless the Court enters an order finding good cause to go outside the time limits. <strong>[Added 5-20-2021 by Ord. No. 21-42]</strong></text>
+        <text>At the close of the fact-finding hearing in which the Court does not immediately proceed with disposition, the Court shall set a date for the dispositional hearing which allows reasonable time for the parties to prepare but is no more than 30 days after the fact-finding hearing, unless the Court enters an order finding good cause to go outside the time limits.<fn path="|II|§278-60|footnotes|18">18</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>18</num>
+          <text>Editor's Note: Added 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Added 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -6751,8 +6867,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If a recipient requests a hearing within 10 days after the date of notice that his or her</text>
-            <text>payments are being decreased or discontinued, those payments may not be decreased or discontinued until a decision is rendered after the hearing but payments made pending the hearing decision may be recovered by the Department if the contested action or failure to act is upheld. The Department shall promptly notify the department whose action is the subject of the hearing that the recipient has requested a hearing. Payments shall be decreased or discontinued if the recipient is contesting a rule or law or a change in rule or law and not the determination of the payment made on the recipient's behalf.</text>
+            <text>If a recipient requests a hearing within 10 days after the date of notice that his or her payments are being decreased or discontinued, those payments may not be decreased or discontinued until a decision is rendered after the hearing but payments made pending the hearing decision may be recovered by the Department if the contested action or failure to act is upheld. The Department shall promptly notify the department whose action is the subject of the hearing that the recipient has requested a hearing. Payments shall be decreased or discontinued if the recipient is contesting a rule or law or a change in rule or law and not the determination of the payment made on the recipient's behalf.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -8023,7 +8138,7 @@
     <num>XII</num>
     <heading>Child Delinquency Proceedings</heading>
     <annotations>
-      <annotation type="History">Amended 10-29-2020 by Ord. No. 20-29</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-29" type="History">Amended 10-29-2020 by Ord. No. 20-29</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -9319,7 +9434,7 @@
       <heading>Petition; form and content; service.</heading>
       <para>
         <num>A.</num>
-        <text>Form and content. A petition initiating any proceeding under <cite path="|II|278|XII">this article</cite> shall be captioned "Menominee Tribal Court" "Menominee Indian Reservation" and entitled, "In the Interest of   , DOB:    " and shall set forth with specificity:</text>
+        <text>Form and content. A petition initiating any proceeding under <cite path="|II|278|XII">this article</cite> shall be captioned "Menominee Tribal Court" "Menominee Indian Reservation" and entitled, "In the Interest of _____, DOB: _____," and shall set forth with specificity:</text>
         <para>
           <num>(1)</num>
           <text>The facts necessary to invoke the jurisdiction of the Court under <cite path="|II|278|XII">this article</cite>.</text>
@@ -9590,7 +9705,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Eligibility. A child deemed to have committed a violent or serious act, or is a habitual offender, shall not be eligible for the deferred prosecution and/or diversion program unless the Department recommends participation following a complete review of the child's records and past conduct with law enforcement, school behavioral records, past status offenses or delinquencies, discussion with the victim and victim's family if the victim is a child if they are willing, and the completion of a juvenile risk assessment by the Department. <strong>[Amended 12-21-2021 by Ord. No. 21-88]</strong></text>
+        <text>Eligibility. A child deemed to have committed a violent or serious act, or is a habitual offender, shall not be eligible for the deferred prosecution and/or diversion program unless the Department recommends participation following a complete review of the child's records and past conduct with law enforcement, school behavioral records, past status offenses or delinquencies, discussion with the victim and victim's family if the victim is a child if they are willing, and the completion of a juvenile risk assessment by the Department.<fn path="|II|§278-176|footnotes|19">19</fn></text>
       </para>
       <para>
         <num>E.</num>
@@ -9632,7 +9747,15 @@
           <text>Upon a finding by a preponderance of the evidence that a child have fulfilled the conditions of a deferred prosecution agreement the Court shall dismiss with prejudice any subsequent delinquency petition arising out of the alleged incident.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>19</num>
+          <text>Editor's Note: Amended 12-21-2021 by Ord. No. 21-88</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-88" type="History">Amended 12-21-2021 by Ord. No. 21-88</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -10414,7 +10537,7 @@
       </para>
       <para>
         <num>J.</num>
-        <text>Disposition orders; violations. <strong>[Amended 12-21-2021 by Ord. No. 21-88]</strong></text>
+        <text>Disposition orders; violations.<fn path="|II|§278-182|footnotes|20">20</fn></text>
         <para>
           <num>(1)</num>
           <text>The violation of a disposition order shall be reported to the Prosecutor, who may:</text>
@@ -10452,7 +10575,15 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>20</num>
+          <text>Editor's Note: Amended 12-21-2021 by Ord. No. 21-88</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-88" type="History">Amended 12-21-2021 by Ord. No. 21-88</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -10868,7 +10999,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Amended 12-21-2021 by Ord. No. 21-88</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-88" type="History">Amended 12-21-2021 by Ord. No. 21-88</annotation>
       </annotations>
     </section>
     <section>
@@ -11357,7 +11488,7 @@
         <text>"Indian child" for the purpose of <cite path="|II|278">this chapter</cite> shall mean any unmarried person who is under age 18 and either:</text>
         <para>
           <num>(1)</num>
-          <text>Is a member or citizen of an Indian Tribe; or <strong>[Amended 5-20-2021 by Ord. No. 21-42]</strong></text>
+          <text>Is a member or citizen of an Indian Tribe; or<fn path="|II|§278-193|footnotes|21">21</fn></text>
         </para>
         <para>
           <num>(2)</num>
@@ -11712,7 +11843,15 @@
           <text>If a parent refuses to consent the proceeding is involuntary. Consent of one parent does not eliminate the rights and protections under <cite path="|II|278">this chapter</cite> to a nonconsenting parent.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>21</num>
+          <text>Editor's Note: Amended 5-20-2021 by Ord. No. 21-42</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 21-42" type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -11732,7 +11871,7 @@
       <heading>Repeal.</heading>
       <para>
         <num>A.</num>
-        <text>History. As a result of the Menominee Restoration Act, 25 U.S.C. §<cite path="§903-903|f">§ 903-903f</cite>,<fn path="|II|§278-195|footnotes|1">1</fn> and the work of the Menominee Restoration Committee, Menominee specific provisions were added to 25 CFR Part 11 and made applicable to the Menominee Reservation Court of Indian Offenses by 43 Fed. 40804 (September 13, 1978). Section 11.97ME read, "[u]ntil such time as the Menominee Tribe enacts its own juvenile code, the provisions of the Wisconsin State laws relating to juveniles, Wisconsin Statutes §§ 48.12-48.47, 48.78, 48.81-48.97, and <cite>Chapter 54</cite>. " While all of the child and juvenile cases have been under Tribal law, <cite path="|II|278">this chapter</cite> is the enactment of the Menominee Indian Tribe of Wisconsin's own Code.</text>
+        <text>History. As a result of the Menominee Restoration Act, 25 U.S.C. §<cite path="§903-903|f">§ 903-903f</cite>,<fn path="|II|§278-195|footnotes|22">22</fn> and the work of the Menominee Restoration Committee, Menominee specific provisions were added to 25 CFR Part 11 and made applicable to the Menominee Reservation Court of Indian Offenses by 43 Fed. 40804 (September 13, 1978). Section 11.97ME read, "[u]ntil such time as the Menominee Tribe enacts its own juvenile code, the provisions of the Wisconsin State laws relating to juveniles, Wisconsin Statutes §§ 48.12-48.47, 48.78, 48.81-48.97, and Chapter 54. " While all of the child and juvenile cases have been under Tribal law, <cite path="|II|278">this chapter</cite> is the enactment of the Menominee Indian Tribe of Wisconsin's own Code.</text>
       </para>
       <para>
         <num>B.</num>
@@ -11744,7 +11883,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>1</num>
+          <num>22</num>
           <text>Editor's Note: 25 U.S.C. § 903 et seq. was omitted pursuant to editorial reclassification of provisions of Title 25, Chapters 14 and 19, United States Code.</text>
         </footnote>
       </footnotes>

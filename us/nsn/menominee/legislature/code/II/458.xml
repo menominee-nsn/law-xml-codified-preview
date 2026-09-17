@@ -4,7 +4,8 @@
   <num>458</num>
   <heading>PROPERTY ADDRESS NUMBERING AND ROAD NAMING</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-2000 by Ord. No. 00-05. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 00-05" type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-2000 by Ord. No. 00-05</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -50,24 +51,34 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Definition of terms. For the purpose of <cite path="|II|458">this chapter</cite>, the following terms are defined: ACCESSORY OR INSUBSTANTIAL STRUCTURE — In supplement of a principal structure.</text>
+      <text>Definition of terms. For the purpose of <cite path="|II|458">this chapter</cite>, the following terms are defined:</text>
+      <text>ACCESSORY OR INSUBSTANTIAL STRUCTURE — In supplement of a principal structure.</text>
       <text>ACCESS ROAD — A road designed to provide vehicular access to abutting property and to discourage, if not prevent, through traffic.</text>
       <text>ADDRESS — The element that designates a specific, situs location, such as a home or office.</text>
       <text>AFFIX — Any word attached to the road name. Term applies to both the beginning and end of the road name.</text>
       <text>ALLEY — A public way used as a secondary access to the side or rear of abutting property.</text>
       <text>APARTMENT — A room(s) in a multiple-dwelling structure or multiple-use structure intended to be used as a separate housing unit.</text>
-      <text>AXIS — A linear point of reference from which to start measurement. BULB — The circular end of a cul-de-sac.</text>
+      <text>AXIS — A linear point of reference from which to start measurement.</text>
+      <text>BULB — The circular end of a cul-de-sac.</text>
       <text>CIRCLE — A curving side street.</text>
       <text>CUL-DE-SAC — A small portion of a road that is circular in form. Typically found at the end of a road segment.</text>
       <text>CURVILINEAR ROAD — A road that meanders and, therefore, is not straight.</text>
-      <text>DRIVEWAY — A private road giving access from a public way to a building on abutting grounds. HABITABLE STRUCTURE — A fixed place of residence.</text>
+      <text>DRIVEWAY — A private road giving access from a public way to a building on abutting grounds.</text>
+      <text>HABITABLE STRUCTURE — A fixed place of residence.</text>
       <text>IMPROVED PROPERTY — Any permanent changes placed upon or otherwise affixed to real estate, including but not limited to structures, landscaping, septic systems and wells.</text>
-      <text>INTERVAL — A fixed distance in which a number is assigned for any building within that space. LOOP — The road separates to form a loop.</text>
-      <text>MAIN ENTRANCE — The driveway to the front of the primary structure. ORIGIN — Place of beginning.</text>
-      <text>PARCEL — Land location within a prescribed description. PRIMARY STRUCTURE — Place of residence.</text>
-      <text>RECREATION LOT — Used exclusively for nonresidential purposes. ROAD — Any paved or gravel surface designed to carry vehicular traffic. ROAD SEGMENT — A portion of a road.</text>
-      <text>THROUGH ROAD — A road with a greater traffic volume in relation to an intersecting road. UNIMPROVED PROPERTY — Devoid of any man-made improvements.</text>
-      <text>U-SHAPED ROAD — A road in the shape of a horseshoe. VACANT LOT — Without content or improvement.</text>
+      <text>INTERVAL — A fixed distance in which a number is assigned for any building within that space.</text>
+      <text>LOOP — The road separates to form a loop.</text>
+      <text>MAIN ENTRANCE — The driveway to the front of the primary structure.</text>
+      <text>ORIGIN — Place of beginning.</text>
+      <text>PARCEL — Land location within a prescribed description.</text>
+      <text>PRIMARY STRUCTURE — Place of residence.</text>
+      <text>RECREATION LOT — Used exclusively for nonresidential purposes.</text>
+      <text>ROAD — Any paved or gravel surface designed to carry vehicular traffic.</text>
+      <text>ROAD SEGMENT — A portion of a road.</text>
+      <text>THROUGH ROAD — A road with a greater traffic volume in relation to an intersecting road.</text>
+      <text>UNIMPROVED PROPERTY — Devoid of any man-made improvements.</text>
+      <text>U-SHAPED ROAD — A road in the shape of a horseshoe.</text>
+      <text>VACANT LOT — Without content or improvement.</text>
     </para>
     <annotations/>
   </section>
@@ -77,7 +88,7 @@
     <heading>Uniform property address numbering and road naming maps.</heading>
     <para>
       <num>A.</num>
-      <text>Establishing the uniform property address numbering and road naming maps. The set of property address numbering and road naming maps titled "Uniform Property Address Numbering and Road Naming Maps" dated April 2000 shall be the official maps to be used with <cite path="|II|458">this chapter</cite>. These maps may be amended from time to time by the Community Development Department, and once any map amendment is approved by the Menominee Tribal Legislature by motion, the amended map shall be the official map to be used with <cite path="|II|458">this chapter</cite>. Copies of the official property address numbering and road naming maps shall be kept on file both at the Community Development Department of MITW and at the Menominee County Land Information Office. <strong>[Amended 10-24-2000]</strong></text>
+      <text>Establishing the uniform property address numbering and road naming maps. The set of property address numbering and road naming maps titled "Uniform Property Address Numbering and Road Naming Maps" dated April 2000 shall be the official maps to be used with <cite path="|II|458">this chapter</cite>. These maps may be amended from time to time by the Community Development Department, and once any map amendment is approved by the Menominee Tribal Legislature by motion, the amended map shall be the official map to be used with <cite path="|II|458">this chapter</cite>. Copies of the official property address numbering and road naming maps shall be kept on file both at the Community Development Department of MITW and at the Menominee County Land Information Office.<fn path="|II|§458-3|footnotes|1">1</fn></text>
     </para>
     <para>
       <num>B.</num>
@@ -87,7 +98,15 @@
       <num>C.</num>
       <text>Establishing the road names. All road names designated on these maps shall be assigned in accordance with these road naming maps, and no other road names shall be used or displayed within the Menominee Reservation and county.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 10-24-2000</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation type="History">Amended 10-24-2000</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -270,7 +289,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Record maintenance. The Community Development Department of MITW and the Menominee County LIO shall be responsible for maintaining a record of all property address numbers and road names (Appendix A)<fn path="|II|§458-11|footnotes|1">1</fn> assigned under <cite path="|II|458">this chapter</cite> both in digital and hardcopy format. The Menominee Tribal Community Development Department shall be responsible for all updates to these records concerning trust parcels; similarly, the Menominee County LIO shall be responsible for all updates to these records concerning fee parcels. Both departments are responsible for providing the other with digital copies of all updates made to these records.</text>
+      <text>Record maintenance. The Community Development Department of MITW and the Menominee County LIO shall be responsible for maintaining a record of all property address numbers and road names (Appendix A)<fn path="|II|§458-11|footnotes|2">2</fn> assigned under <cite path="|II|458">this chapter</cite> both in digital and hardcopy format. The Menominee Tribal Community Development Department shall be responsible for all updates to these records concerning trust parcels; similarly, the Menominee County LIO shall be responsible for all updates to these records concerning fee parcels. Both departments are responsible for providing the other with digital copies of all updates made to these records.</text>
     </para>
     <para>
       <num>C.</num>
@@ -482,7 +501,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>1</num>
+        <num>2</num>
         <text>Editor's Note: Appendix A is on file at the office of the Administrative Manager.</text>
       </footnote>
     </footnotes>

@@ -12,7 +12,8 @@
     <num>I</num>
     <heading>Employment Preference</heading>
     <annotations>
-      <annotation type="History">Adopted 10-21-1982 by Ord. No. 82-10; amended in its entirety 11-5-2015 by Ord. No. 15-27</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 15-27" type="History">Amended in its entirety 11-5-2015 by Ord. No. 15-27</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 82-10" type="History">Adopted 10-21-1982 by Ord. No. 82-10</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -127,11 +128,11 @@
       <para>
         <num>F.</num>
         <text>For a veteran, a copy of the discharge records.</text>
-        <text>BUSINESS DAY — Any day other than Saturdays and Sundays for all employers and for each particular employer, any day recognized by that employer as a holiday.</text>
-        <text>EMPLOYEE — Any person who performs work for an employer for monetary compensation who is not an independent contractor.</text>
-        <text>EMPLOYER — Those entities listed in <cite path="§170-3|A">§ 170-3A</cite>.</text>
-        <text>EMPLOYMENT — Work performed by an employee for an employer subject to the following exceptions:</text>
       </para>
+      <aftertext>BUSINESS DAY — Any day other than Saturdays and Sundays for all employers and for each particular employer, any day recognized by that employer as a holiday.</aftertext>
+      <aftertext>EMPLOYEE — Any person who performs work for an employer for monetary compensation who is not an independent contractor.</aftertext>
+      <aftertext>EMPLOYER — Those entities listed in <cite path="§170-3|A">§ 170-3A</cite>.</aftertext>
+      <aftertext>EMPLOYMENT — Work performed by an employee for an employer subject to the following exceptions:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Elected tribal officials;</text>
@@ -151,12 +152,11 @@
       <para>
         <num>E.</num>
         <text>Highly specialized professional positions as classified by Human Resources Department.</text>
-        <text>HUMAN RESOURCES DEPARTMENT AND/OR HR DEPARTMENT — For the Menominee Indian</text>
-        <text>Tribe of Wisconsin as an employer, its Human Resources Department. Said terms mean for all other employers covered by <cite path="|I|170|I">this article</cite>, the human resources department of said employer or any other person or department of such other employer as designated by the governing board of such employer.</text>
-        <text>MOST QUALIFIED — The applicant who received/receives the highest combined average score in the selection process and is the person who shall be selected for the position. This is conditional on the applicant passing a background check and in current compliance with any other conditions listed in the job description.</text>
-        <text>QUALIFIED — The applicant meets the requirements for a position as they are written and posted in the job description.</text>
-        <text>SEASONAL/LIMITED TERM/STUDENT EMPLOYEE — A tribal government employee whose employment is not to exceed 20 weeks, and is hired to temporarily supplement the work force or to assist in the completion of a specific project. Seasonal/limited term/student employees are in no way guaranteed permanent employment. Seasonal/limited term/student employees are not eligible for transfer or promotion. Chartered entities and tribally owned businesses shall by policy determine the definition of seasonal, limited term, or student employee, provided the employment of these positions do not exceed 48 weeks.</text>
       </para>
+      <aftertext>HUMAN RESOURCES DEPARTMENT AND/OR HR DEPARTMENT — For the Menominee Indian Tribe of Wisconsin as an employer, its Human Resources Department. Said terms mean for all other employers covered by <cite path="|I|170|I">this article</cite>, the human resources department of said employer or any other person or department of such other employer as designated by the governing board of such employer.</aftertext>
+      <aftertext>MOST QUALIFIED — The applicant who received/receives the highest combined average score in the selection process and is the person who shall be selected for the position. This is conditional on the applicant passing a background check and in current compliance with any other conditions listed in the job description.</aftertext>
+      <aftertext>QUALIFIED — The applicant meets the requirements for a position as they are written and posted in the job description.</aftertext>
+      <aftertext>SEASONAL/LIMITED TERM/STUDENT EMPLOYEE — A tribal government employee whose employment is not to exceed 20 weeks, and is hired to temporarily supplement the work force or to assist in the completion of a specific project. Seasonal/limited term/student employees are in no way guaranteed permanent employment. Seasonal/limited term/student employees are not eligible for transfer or promotion. Chartered entities and tribally owned businesses shall by policy determine the definition of seasonal, limited term, or student employee, provided the employment of these positions do not exceed 48 weeks.</aftertext>
       <annotations/>
     </section>
     <section>
@@ -478,7 +478,10 @@
   <container cache:ref-path="I|170|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Policies and Procedures [Adopted 8-21-2014 by Ord. No. 14-15]</heading>
+    <heading>Policies and Procedures</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 14-15" type="History">Adopted 8-21-2014 by Ord. No. 14-15</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>170-11</num>
@@ -590,5 +593,147 @@
       </para>
       <annotations/>
     </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Prohibited Discrimination Related to Drug Testing</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>170-17</num>
+      <heading>Title.</heading>
+      <text><cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">This article</cite> shall be titled "Prohibited Discrimination Related to Drug Testing".</text>
+      <annotations>
+        <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-18</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|I|170|III" doc="Menominee Tribal Legislature Ord. No. 25-66">this article</cite> is to prohibit employers or licensing entities, as those terms are defined herein, from taking adverse actions against employees based on a positive drug test for cannabis except as allowed for in this Article.</text>
+      <annotations>
+        <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-19</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>A.</num>
+        <text>"Adverse action" means refusing to hire, refusing to license, suspending or terminating employment, suspending or revoking a license, placing conditions on hiring or licensing.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Cannabis" means all cannabinoids from the plant Cannabis sativa L. including delta-9 tetrahydrocannabinol.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Employee" means</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who performs work for an employer for monetary compensation who is not an independent contractor or an appointed or elected official;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An applicant seeking to become an employee of an employer;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person licensed by a licensing entity;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An applicant for a license with a licensing entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Employer" means:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Menominee Indian Tribe of Wisconsin;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The businesses of the Tribe chartered pursuant to Article XIII of the Tribal Constitution;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Menominee Tribal Enterprises; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>College of Menominee Nation.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>"Licensing entity" means any commission, agency, or employee of the Menominee Indian Tribe that issues licenses to persons required for a person's employment by an Employer.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>"Reasonable suspicion" means a good-faith, objective belief—based on specific, articulable facts and observations—that an employee while on duty may be under the influence of drugs in a way that could impair their ability to perform their job safely or effectively.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>"Safety-sensitive position" means: a position requiring a commercial driver’s license or requiring an employee to operate a motor vehicle for which state or federal law requires drug or alcohol testing of a job applicant or an employee; a position where the person is authorized to enforce the laws of the Tribe pursuant to <cite path="|I|132" doc="Menominee Tribal Legislature Ord. No. 25-66">Chapter 132</cite> of the Menominee Tribal Code; any other position which an employer deems to be safety-sensitive pursuant to a written policy if such written policy has been:</text>
+        <para>
+          <num>(1)</num>
+          <text>Implemented after the effective date of final approval of this Article III; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Approved by the Menominee Tribal Legislature.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-20</num>
+      <heading>Prohibition.</heading>
+      <text>No employer or licensing entity shall take any adverse action against any employee due to a positive drug test showing the presence of cannabis in the employee unless:</text>
+      <para>
+        <num>A.</num>
+        <text>Said test is required by the employer or licensing entity upon good faith belief of an employee's usage of cannabis while engaged in the performance of the employee's work responsibilities; or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Said test is required by the employer or licensing entity upon finding Reasonable suspicion; or</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Said test is required by the employer following a work-related accident subject to investigation by the employer; or</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Said test is specifically required pursuant to a funding agreement entered into by employer; or</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The employee subject to testing is employed in a safety-sensitive position; or</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Said test is required by applicable federal or state law.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>170-21</num>
+      <heading>Superseding Effect</heading>
+      <text>If any provision of this Article is inconsistent with or in conflict with any other law, regulation, or policy of the Tribe the provisions of this Article shall supersede and govern to the extent of such inconsistency or conflict.</text>
+      <annotations>
+        <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
+      </annotations>
+    </section>
+    <annotation app="2026-04-06" doc="Menominee Tribal Legislature Ord. No. 25-66" eff="2026-04-06" path="" target-path="|I|170" type="History"/>
   </container>
 </container>

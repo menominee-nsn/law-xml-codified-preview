@@ -15,7 +15,8 @@
     <num>1</num>
     <heading>Judiciary And Law And Order Code</heading>
     <annotations>
-      <annotation type="History">Adopted 8-2-1979 By Ord. No. 79-14,<fn path="|I|120|1|footnotes|1">1</fn> As Amended Through 11-2-1989</annotation>
+      <annotation type="History">Amended through 11-2-1989</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 79-14" type="History">Adopted 8-2-1979 by Ord. No. 79-14<fn path="|I|120|1|footnotes|1">1</fn></annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -232,7 +233,7 @@
         <heading>Oath of office of Judge.</heading>
         <para>
           <num>A.</num>
-          <text>Every  Judge  prior  to  taking  office  shall  take  the  following  oath  of  affirmation:  "I 	, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
+          <text>Every Judge prior to taking office shall take the following oath of affirmation:  "I __________________, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
         </para>
         <para>
           <num>B.</num>
@@ -260,7 +261,7 @@
         <heading>Oath of Clerks.</heading>
         <para>
           <num>A.</num>
-          <text>Every Clerk shall take the following oath upon assuming office: "I, 	, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
+          <text>Every Clerk shall take the following oath upon assuming office: "I, __________________, do hereby solemnly swear that I will support and defend the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, that I will carry out faithfully and impartially the duties of my office to the best of my ability, and that I will promote and protect the best interests of the people of the Menominee Indian Tribe of Wisconsin."</text>
         </para>
         <para>
           <num>B.</num>
@@ -609,7 +610,7 @@
       <section cache:ref-path="I|§120-35">
         <prefix>§</prefix>
         <num>120-35</num>
-        <heading>General subject matter jurisdiction; limitations.<fn proof="needed" path="|I|§120-35|footnotes|4">4</fn></heading>
+        <heading>General subject matter jurisdiction; limitations.<fn path="|I|§120-35|footnotes|4">4</fn></heading>
         <text>Subject to any contrary provisions, exceptions, or limitations contained in either federal law or the Tribal Constitution, the Courts of the Menominee Indian Tribe shall have jurisdiction over all civil causes of action and over all offenses prohibited by this code, except the Courts of the Menominee Indian Tribe shall not assume jurisdiction over any civil or criminal matter which does not involve either the Tribe, its officers, agents, employees, property or enterprises, or a member of the Tribe, or a member of a federally recognized tribe, if some other forum exists for the handling of the matter and if the matter is not one in which the rights of the Tribe or its members may be directly or indirectly affected.</text>
         <footnotes>
           <footnote>
@@ -775,7 +776,7 @@
         <heading>Records open to public inspection; exceptions.</heading>
         <text>The files and records of the Courts of the Menominee Indian Tribe shall be open for public inspection, except that the files and records of adoptions, incompetency proceedings, and proceedings involving juveniles shall not be open to public inspection and may be inspected only pursuant to the provisions regarding sharing of information regarding delinquencies in conformance with <cite path="|I|124">Chapter 124 of the Menominee Tribal Code</cite>, or with prior specific judicial authorization.</text>
         <annotations>
-          <annotation type="History">Amended 8-17-2017 by Ord. No. 17-17</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 17-17" type="History">Amended 8-17-2017 by Ord. No. 17-17</annotation>
         </annotations>
       </section>
       <section>
@@ -819,8 +820,7 @@
         <heading>Definitions.</heading>
         <text>The following definitions will apply to this Law and Order Code:</text>
         <text>AGE OF MAJORITY — Eighteen years of age unless otherwise provided for in this Law and Order Code or the Tribal Constitution.</text>
-        <text>INDIAN or INDIAN PERSON — Includes all persons of Indian descent who are members of any</text>
-        <text>recognized tribe under federal jurisdiction or a person who is recognized by the Menominee Indian Community as an Indian.</text>
+        <text>INDIAN or INDIAN PERSON — Includes all persons of Indian descent who are members of any recognized tribe under federal jurisdiction or a person who is recognized by the Menominee Indian Community as an Indian.</text>
         <text>LEGISLATURE or TRIBAL LEGISLATURE — The Menominee Tribal Legislature as specified in Article III, Section 1, of the Constitution of the Menominee Indian Tribe of the Menominee Reservation.</text>
         <text>MEMBER — Includes a person whose name appears on the membership roll of the Menominee Indian Tribe of the Menominee Reservation.</text>
         <text>RESERVATION — Include all lands within the exterior boundaries of the Menominee Reservation as defined in Article I of the Constitution of the Menominee Indian Tribe of the Menominee Reservation.</text>
@@ -840,7 +840,8 @@
       <num>X</num>
       <heading>Rules of Civil Procedure</heading>
       <annotations>
-        <annotation type="History">Added 1-5-2012 by Ord. No. 11-32; 5-3-2012 by Ord. No. 12-04</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 12-04" type="History">Added 5-3-2012 by Ord. No. 12-04</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Added 1-5-2012 by Ord. No. 11-32</annotation>
       </annotations>
       <section>
         <prefix>§</prefix>
@@ -1004,7 +1005,7 @@
           </footnote>
         </footnotes>
         <annotations>
-          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
         </annotations>
       </section>
     </container>
@@ -1014,12 +1015,15 @@
     <num>2</num>
     <heading>Court Procedures</heading>
     <annotations>
-      <annotation type="History">Adopted As Indicated In Article Histories</annotation>
+      <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     </annotations>
     <container cache:ref-path="I|120|2|XII">
       <prefix>Article</prefix>
       <num>XII</num>
-      <heading>Wisconsin Documents [Adopted 3-17-1983 by Ord. No. 83-2]</heading>
+      <heading>Wisconsin Documents</heading>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 83-2" type="History">Adopted 3-17-1983 by Ord. No. 83-2</annotation>
+      </annotations>
       <section>
         <prefix>§</prefix>
         <num>120-51</num>
@@ -1110,7 +1114,10 @@
     <container cache:ref-path="I|120|2|XIII">
       <prefix>Article</prefix>
       <num>XIII</num>
-      <heading>Expungement of Records [Adopted 7-29-1993 by Ord. No. 93-13]</heading>
+      <heading>Expungement of Records</heading>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 93-13" type="History">Adopted 7-29-1993 by Ord. No. 93-13</annotation>
+      </annotations>
       <section>
         <prefix>§</prefix>
         <num>120-57</num>
@@ -1132,13 +1139,21 @@
         <heading>Successful completion of sentence.</heading>
         <para>
           <num>A.</num>
-          <text>Any person convicted of an offense by the Menominee Tribal Court, upon showing successful completion of sentence, shall have his or her record expunged by the Court. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+          <text>Any person convicted of an offense by the Menominee Tribal Court, upon showing successful completion of sentence, shall have his or her record expunged by the Court.<fn path="|I|§120-59|footnotes|8">8</fn></text>
         </para>
         <para>
           <num>B.</num>
           <text>A person has successfully completed the sentence if the person has not been convicted of a subsequent offense and, if on probation, the probation has not been revoked and the probationer has satisfied the conditions of probation.</text>
         </para>
-        <annotations/>
+        <footnotes>
+          <footnote>
+            <num>8</num>
+            <text>Editor's Note: Amended 1-5-2012 by Ord. No. 11-32</text>
+          </footnote>
+        </footnotes>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -1164,7 +1179,8 @@
       <num>XIV</num>
       <heading>Tribal Judge Selection</heading>
       <annotations>
-        <annotation type="History">Adopted 7-7-1994 by Ord. No. 94-08; amended in its entirety 6-19-1997</annotation>
+        <annotation type="History">Amended in its entirety 6-19-1997</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 94-08" type="History">Adopted 7-7-1994 by Ord. No. 94-08</annotation>
       </annotations>
       <section>
         <prefix>§</prefix>
@@ -1178,11 +1194,17 @@
         <num>120-62</num>
         <heading>Definitions.</heading>
         <text>As used in <cite path="|I|120|2|XIV">this article</cite>, the following terms shall have the meanings indicated:</text>
-        <text>CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.</text>
+        <text>CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.<fn path="|I|§120-62|footnotes|9">9</fn></text>
         <text>TRIBAL JUDGE — The person appointed to the office of Tribal Judge by a majority of no fewer than six votes of the Tribal Legislature for a term of years set forth in Article V, Section 2(c) and (d) of the Menominee Constitution and Bylaws.</text>
         <text>TRIBAL LEGISLATURE — The governing body of the Menominee Tribe elected/appointed pursuant to the Menominee Constitution and Bylaws.</text>
+        <footnotes>
+          <footnote>
+            <num>9</num>
+            <text>Editor's Note: Amended 1-5-2012 by Ord. No. 11-32</text>
+          </footnote>
+        </footnotes>
         <annotations>
-          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
         </annotations>
       </section>
       <section>
@@ -1191,7 +1213,7 @@
         <heading>Eligibility requirements.</heading>
         <text>To hold the office of Tribal Judge, a person shall meet the eligibility requirements of Article V, Section 4(a) of the Menominee Constitution and Bylaws.</text>
         <annotations>
-          <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
         </annotations>
       </section>
       <section>
@@ -1238,7 +1260,7 @@
       <num>XV</num>
       <heading>Speedy Trial</heading>
       <annotations>
-        <annotation type="History">Adopted 12-20-1996 by Ord. No. 96-29</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 96-29" type="History">Adopted 12-20-1996 by Ord. No. 96-29</annotation>
       </annotations>
       <section>
         <prefix>§</prefix>
@@ -1304,7 +1326,7 @@
         <heading>Statute of limitations.</heading>
         <para>
           <num>A.</num>
-          <text>Except as provided in <cite path="§120-66|B">Subsection B of this section</cite>, prosecution for a traffic offense shall be commenced within nine months after the commission thereof, and prosecution for all other offenses shall be commenced within three years after the commission thereof. Within the meaning of this section a prosecution is commenced when a citation, warrant or summons is issued, or the person is arrested, or a criminal complaint is filed. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+          <text>Except as provided in <cite path="§120-66|B">Subsection B of this section</cite>, prosecution for a traffic offense shall be commenced within nine months after the commission thereof, and prosecution for all other offenses shall be commenced within three years after the commission thereof. Within the meaning of this section a prosecution is commenced when a citation, warrant or summons is issued, or the person is arrested, or a criminal complaint is filed.<fn path="|I|§120-66|footnotes|10">10</fn></text>
         </para>
         <para>
           <num>B.</num>
@@ -1322,13 +1344,24 @@
           <num>C.</num>
           <text>In computing the time limited by this section, the time during which the person was not publicly a resident of the Menominee Reservation or during which a prosecution against the person for the same act was pending shall not be included. A prosecution is pending when a warrant, summons, or citation has been issued, an indictment has been found, or an information or criminal complaint has been filed.</text>
         </para>
-        <annotations/>
+        <footnotes>
+          <footnote>
+            <num>10</num>
+            <text>Editor's Note: Amended 1-5-2012 by Ord. No. 11-32</text>
+          </footnote>
+        </footnotes>
+        <annotations>
+          <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        </annotations>
       </section>
     </container>
     <container cache:ref-path="I|120|2|XVI">
       <prefix>Article</prefix>
       <num>XVI</num>
-      <heading>Jury, Witness and Victim Tampering [Adopted 2-5-2009 by Ord. No. 08-30]</heading>
+      <heading>Jury, Witness and Victim Tampering</heading>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 08-30" type="History">Adopted 2-5-2009 by Ord. No. 08-30</annotation>
+      </annotations>
       <section>
         <prefix>§</prefix>
         <num>120-67</num>
@@ -1410,8 +1443,7 @@
         <prefix>§</prefix>
         <num>120-72</num>
         <heading>Repeat offenses.</heading>
-        <text>For any defendant who is convicted three or more times for any offense under <cite path="|I|120|2|XVI">this article</cite>, the maximum penalty may be increased, per offense, to incarceration for not more than one year and/or a fine up to</text>
-        <text>$5,000.</text>
+        <text>For any defendant who is convicted three or more times for any offense under <cite path="|I|120|2|XVI">this article</cite>, the maximum penalty may be increased, per offense, to incarceration for not more than one year and/or a fine up to $5,000.</text>
         <annotations/>
       </section>
     </container>

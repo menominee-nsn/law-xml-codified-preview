@@ -9,7 +9,10 @@
   <container cache:ref-path="II|402|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Theft of Library Materials [Adopted 10-14-1993 by Ord. No. 93-19]</heading>
+    <heading>Theft of Library Materials</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-19" type="History">Adopted 10-14-1993 by Ord. No. 93-19</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>402-1</num>
@@ -45,8 +48,7 @@
       <prefix>§</prefix>
       <num>402-5</num>
       <heading>Detaining suspects.</heading>
-      <text>Any official or adult employee or agent of a library who has probable cause for believing that a person has violated <cite path="|II|402|I">this article</cite> in his or her presence may detain the person in a reasonable manner for a reasonable length of time to deliver the person to a peace officer or to the person's parent or guardian in the case of a minor. The detained person shall be promptly informed of the purpose for the detention and be permitted to make phone calls but shall not be interrogated or searched against his or her will before the arrival of a peace officer who may conduct a lawful interrogation of the accused. Compliance with this section entitles the official, agent or employee effecting detention to the same defense in any action as is available to a</text>
-      <text>peace officer making an arrest in the line of duty.</text>
+      <text>Any official or adult employee or agent of a library who has probable cause for believing that a person has violated <cite path="|II|402|I">this article</cite> in his or her presence may detain the person in a reasonable manner for a reasonable length of time to deliver the person to a peace officer or to the person's parent or guardian in the case of a minor. The detained person shall be promptly informed of the purpose for the detention and be permitted to make phone calls but shall not be interrogated or searched against his or her will before the arrival of a peace officer who may conduct a lawful interrogation of the accused. Compliance with this section entitles the official, agent or employee effecting detention to the same defense in any action as is available to a peace officer making an arrest in the line of duty.</text>
       <annotations/>
     </section>
     <section>

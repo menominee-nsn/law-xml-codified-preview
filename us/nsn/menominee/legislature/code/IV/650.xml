@@ -4,7 +4,8 @@
   <num>650</num>
   <heading>ECONOMIC AFFAIRS, COMMISSION ON</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 1-6-1994 by Ord. No. 93-29. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 93-29" type="History">Adopted by the Legislature of the Menominee Indian Tribe 1-6-1994 by Ord. No. 93-29</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -27,7 +28,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The Tribal Legislature shall appoint each of the five Commissioners and shall designate one Commissioner to serve as Chairperson. Commissioners shall have three-year staggered terms. The Commissioner designated as Chairperson shall serve a three-year term. One other Commissioner shall serve a three-year term, one shall serve a two-year term and two shall serve a one-year term. The length of the term of the initial Commissioners other than the Chairperson shall be determined by lot. <strong>[Amended 6-2-1994]</strong></text>
+      <text>The Tribal Legislature shall appoint each of the five Commissioners and shall designate one Commissioner to serve as Chairperson. Commissioners shall have three-year staggered terms. The Commissioner designated as Chairperson shall serve a three-year term. One other Commissioner shall serve a three-year term, one shall serve a two-year term and two shall serve a one-year term. The length of the term of the initial Commissioners other than the Chairperson shall be determined by lot.<fn path="|IV|§650-2|footnotes|1">1</fn></text>
     </para>
     <para>
       <num>C.</num>
@@ -49,7 +50,15 @@
       <num>G.</num>
       <text>The Director shall employ outside experts and consultants as needed under a budget recommended by the Commission and approved by the Tribal Legislature.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 6-2-1994</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation type="History">Amended 6-2-1994</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -120,7 +129,7 @@
   <section cache:ref-path="IV|§650-5">
     <prefix>§</prefix>
     <num>650-5</num>
-    <heading>Review of business investment proposals.<fn proof="needed" path="|IV|§650-5|footnotes|1">1</fn></heading>
+    <heading>Review of business investment proposals.<fn path="|IV|§650-5|footnotes|2">2</fn></heading>
     <para>
       <num>A.</num>
       <text>Procedures.</text>
@@ -223,7 +232,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>1</num>
+        <num>2</num>
         <text>Editor's Note: Section 4 of Ord. No. 93-29 provided as follows: "Procedures and standards for the review of business or investment proposals, set forth in Article V of the Charter, may be amended by the Commission with the approval by resolution of the Tribal Legislature."</text>
       </footnote>
     </footnotes>

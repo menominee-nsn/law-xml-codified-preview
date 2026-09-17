@@ -13,7 +13,8 @@
     <num>I</num>
     <heading>Menominee Kenosha Gaming Authority</heading>
     <annotations>
-      <annotation type="History">Adopted 6-17-1999 by Ord. No. 99-11; amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-08" type="History">Amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-11" type="History">Adopted 6-17-1999 by Ord. No. 99-11</annotation>
     </annotations>
     <section cache:ref-path="IV|§660-1">
       <prefix>§</prefix>
@@ -23,13 +24,15 @@
       <text>AUTHORITY — The tribally chartered business established by this Charter titled the "Menominee Kenosha Gaming Authority."</text>
       <text>BOARD OF DIRECTORS — The body named in this Charter to provide for the management of the gaming operation defined below.</text>
       <text>COMPACT — The Gaming Compact of 1992 between the Tribe and the State of Wisconsin dated June 3, 1992, and any amendments thereto and/or successor compacts.</text>
-      <text>GAMING CONTROL CODE — <cite path="|II|347">Chapter 347</cite>, Article III, Gaming Code, as it may be amended from time to time, or any superseding ordinance, including any ordinance enacted by the Authority under <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-3">§ 660-3 of this Charter</cite> and approved under IGRA.</text>
+      <text>GAMING CONTROL CODE — <cite path="|II|347">Chapter 347</cite>, Article III, Gaming Code, as it may be amended from time to time, or any superseding ordinance, including any ordinance enacted by the Authority under <cite doc="Charter of the Menominee Indian Tribe" path="|IV|660|§660-3">§ 660-3 of this Charter</cite> and approved under IGRA.</text>
       <text>GAMING OPERATION — The tribal gaming facility in Kenosha, Wisconsin, established by the Menominee Tribal Legislature pursuant to the Indian Gaming Regulatory Act of 1988<fn path="|IV|§660-1|footnotes|1">1</fn> and the Compact with the State of Wisconsin.</text>
       <text>GOVERNMENTAL POWERS — Those powers of the tribal government which it engages in as a federally recognized Indian tribe.</text>
       <text>IGRA — The Indian Gaming Regulatory Act of 1988,<fn path="|IV|§660-1|footnotes|2">2</fn> together with any amendments thereto and any regulations adopted thereunder.</text>
       <text>KENOSHA PROPERTY — Tribal real property in Kenosha, Wisconsin.</text>
       <text>TRIBAL LEGISLATURE AND MTL — The tribal governing body elected pursuant to the Menominee Constitution and Bylaws, Section 3, Article IV, and their successors.</text>
-      <text>TRIBAL MEMBER — Any person included on the official roll of the Menominee Tribe. TRIBAL REAL PROPERTY — Land held in trust for the tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBAL MEMBER — Any person included on the official roll of the Menominee Tribe.</text>
+      <text>TRIBAL REAL PROPERTY — Land held in trust for the tribe by the Secretary of the Interior.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
       <footnotes>
         <footnote>
           <num>1</num>
@@ -56,7 +59,7 @@
       <text>Pursuant to Article XIII, Menominee Constitution, this tribally chartered business shall have as its form of management a Board of Directors.</text>
       <para>
         <num>A.</num>
-        <text>Members. [Amended 2-4-2021 by Ord. No. 20-43]</text>
+        <text>Members.<fn path="|IV|§660-3|footnotes|3">3</fn></text>
         <para>
           <num>(1)</num>
           <text>The Board shall consist of five members. Three members shall be members of the Menominee Tribal Legislature, with no more than one Legislator appointed from each class, unless there are no Legislators in a class willing or eligible to act as a Director, in which case the Legislature may appoint a Legislator from any class. If determined necessary by the Menominee Tribal Gaming Commission, these Legislative members shall maintain a valid gaming license. Membership of Tribal Legislator members on the Board is coterminous with the current legislative term of the appointed Board member. The two other members of the Board must meet the following criteria:</text>
@@ -71,8 +74,8 @@
           <para>
             <num>(c)</num>
             <text>Demonstrated knowledge of and participation in Menominee Tribe's efforts to develop a gaming business in Kenosha, Wisconsin.</text>
-            <text class="center">The term of members who are not current Menominee Legislators shall be three years.</text>
           </para>
+          <aftertext>The term of members who are not current Menominee Legislators shall be three years.</aftertext>
         </para>
         <para>
           <num>(2)</num>
@@ -85,7 +88,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Powers of Board. The Board shall possess powers listed in Article XIII, Menominee Constitution, and shall be governed by limitations listed therein. The Board is hereby delegated all proprietary powers of the Tribe necessary to permit the Authority to discharge its obligations and to enforce its rights under this Charter and the power to enact and from time to time amend a gaming ordinance and implementing regulations to regulate the conduct of gaming on Kenosha property, provided that such ordinance shall not conflict with any agreement referred to in <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-10">§ 660-10 of this Charter</cite>, and provided further that such ordinance shall provide for a regulatory body separate from the Board. Until the Board enacts any such ordinance and it becomes effective, the Gaming Control Code shall apply to the gaming operation. The Board is also authorized to adopt such bylaws as the Board deems reasonable and to conduct all other activities reasonably necessary to implement the powers enumerated above or to further the business needs of the Authority.</text>
+        <text>Powers of Board. The Board shall possess powers listed in Article XIII, Menominee Constitution, and shall be governed by limitations listed therein. The Board is hereby delegated all proprietary powers of the Tribe necessary to permit the Authority to discharge its obligations and to enforce its rights under this Charter and the power to enact and from time to time amend a gaming ordinance and implementing regulations to regulate the conduct of gaming on Kenosha property, provided that such ordinance shall not conflict with any agreement referred to in <cite doc="Charter of the Menominee Indian Tribe" path="|IV|660|§660-10">§ 660-10 of this Charter</cite>, and provided further that such ordinance shall provide for a regulatory body separate from the Board. Until the Board enacts any such ordinance and it becomes effective, the Gaming Control Code shall apply to the gaming operation. The Board is also authorized to adopt such bylaws as the Board deems reasonable and to conduct all other activities reasonably necessary to implement the powers enumerated above or to further the business needs of the Authority.</text>
       </para>
       <para>
         <num>D.</num>
@@ -93,7 +96,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Quorum. The quorum for any meeting of the Board shall be the majority of the Directors then in office. <strong>[Amended 2-4-2021 by Ord. No. 20-43]</strong></text>
+        <text>Quorum. The quorum for any meeting of the Board shall be the majority of the Directors then in office.<fn path="|IV|§660-3|footnotes|4">4</fn></text>
       </para>
       <para>
         <num>F.</num>
@@ -111,7 +114,19 @@
         <num>I.</num>
         <text>Annual business meeting. The Board shall hold an annual business meeting on the second Saturday of April for the purpose of informing tribal members of the operation of the Authority for the past year. This meeting shall be held in Keshena, Wisconsin, at a time and place reasonably accessible to tribal members. In the event of failure, through oversight or other compelling reasons, to hold the annual business meeting as provided for herein, a subsequent meeting shall be held within 30 days of written request from a tribal member. The Board shall cause the management of the gaming operation to be present at the annual business meeting.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended 2-4-2021 by Ord. No. 20-43</text>
+        </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Amended 2-4-2021 by Ord. No. 20-43</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-43" type="History">Amended 2-4-2021 by Ord. No. 20-43</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -232,11 +247,12 @@
     <num>II</num>
     <heading>Menominee Indian Gaming Authority</heading>
     <annotations>
-      <annotation type="History">Adopted 1-3-2008<fn path="|IV|660|II|footnotes|3">3</fn>; amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-08" type="History">Amended in its entirety 6-6-2019 by Ord. No. 19-08</annotation>
+      <annotation type="History">Adopted 1-3-2008<fn path="|IV|660|II|footnotes|5">5</fn></annotation>
     </annotations>
     <footnotes>
       <footnote>
-        <num>3</num>
+        <num>5</num>
         <text>Editor's Note: This Charter was adopted as part of an amendment to Ord. No. 97-06. See <cite path="|I|90|I">Ch. 90, Art. I</cite>, Menominee Indian Gaming Authority.</text>
       </footnote>
     </footnotes>
@@ -280,8 +296,7 @@
       <num>660-16</num>
       <heading>Definitions.</heading>
       <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
-      <text>COMPACT — The Compact between the Menominee Indian Tribe of Wisconsin and the State of</text>
-      <text>Wisconsin dated as of June 3, 1992, as amended from time to time.</text>
+      <text>COMPACT — The Compact between the Menominee Indian Tribe of Wisconsin and the State of Wisconsin dated as of June 3, 1992, as amended from time to time.</text>
       <text>GAAP — Generally accepted accounting principles in the United States as promulgated by the Government Accounting Standards Board, or such other principles as may be approved by a significant segment of the accounting profession in the United States, that are applicable to the circumstances as of the date of determination, consistently applied.</text>
       <text>GAMING — Any and all activities defined as Class II or Class III gaming under IGRA or any other gaming activity authorized under the Compact.</text>
       <text>GAMING ASSETS —</text>
@@ -295,7 +310,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>All proceeds, income and profits from any of the assets referred to in <cite>Subsections A and B</cite> of this definition; provided, however, that gaming assets shall not include:</text>
+        <text>All proceeds, income and profits from any of the assets referred to in Subsections A and B of this definition; provided, however, that gaming assets shall not include:</text>
         <para>
           <num>(1)</num>
           <text>Any real property held in trust in the name of the United States for the benefit of the Tribe or held by the Tribe in fee or restricted fee status wherever located;</text>
@@ -317,20 +332,20 @@
       <para>
         <num>B.</num>
         <text>Any and all other gaming-related development and operations, including but not limited to related retails sales and associated hotel, resort or entertainment facilities, conducted within the Reservation.</text>
-        <text>MIGA — The Menominee Indian Gaming Authority.</text>
-        <text>NET REVENUES — Gross revenues of the gaming operation less amounts paid out as, or paid for, prizes and total operating expenses as determined in accordance with GAAP.</text>
-        <text>RESERVATION — The Menominee Indian Reservation as defined by the 1854 Treaty and the Menominee Restoration Act.</text>
-        <text>RESIDE ON OR NEAR — Having a permanent home on the Reservation or within 20 miles of the exterior boundaries of the Menominee Indian Reservation.</text>
-        <text>TRIBAL GAMING ORDINANCE — Tribal Ordinance No. 93-30, adopted as of March 4, 1999, as amended from time to time and as approved by the National Indian Gaming Commission.</text>
-        <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
       </para>
+      <aftertext>MIGA — The Menominee Indian Gaming Authority.</aftertext>
+      <aftertext>NET REVENUES — Gross revenues of the gaming operation less amounts paid out as, or paid for, prizes and total operating expenses as determined in accordance with GAAP.</aftertext>
+      <aftertext>RESERVATION — The Menominee Indian Reservation as defined by the 1854 Treaty and the Menominee Restoration Act.</aftertext>
+      <aftertext>RESIDE ON OR NEAR — Having a permanent home on the Reservation or within 20 miles of the exterior boundaries of the Menominee Indian Reservation.</aftertext>
+      <aftertext>TRIBAL GAMING ORDINANCE — Tribal Ordinance No. 93-30, adopted as of March 4, 1999, as amended from time to time and as approved by the National Indian Gaming Commission.</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin.</aftertext>
       <annotations/>
     </section>
     <section>
       <prefix>§</prefix>
       <num>660-17</num>
       <heading>Powers.</heading>
-      <text>MIGA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to hold, control, manage and operate the gaming operation for the purpose listed in <cite doc="Charter of the Menominee Indian Tribe" path="|660|§660-13">§ 660-13 of this Charter</cite>. MIGA is specifically authorized and empowered to:</text>
+      <text>MIGA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to hold, control, manage and operate the gaming operation for the purpose listed in <cite doc="Charter of the Menominee Indian Tribe" path="|IV|660|§660-13">§ 660-13 of this Charter</cite>. MIGA is specifically authorized and empowered to:</text>
       <para>
         <num>A.</num>
         <text>Acquire property in its own name and to pledge, mortgage, lease, or otherwise encumber interests in such property as security for debts and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein;</text>
@@ -408,11 +423,32 @@
         <para>
           <num>(2)</num>
           <text>Initial Board of Directors. The initial Board of Directors shall be composed of the following persons who shall serve in that capacity until the date listed after his/her name, unless he/she resigns or is removed prior to that date:</text>
-          <text>Petronell Martin	August 18, 2008</text>
-          <text>Eugene Caldwell	February 8, 2008</text>
-          <text>Betty Jo Wozniak	May 31, 2009</text>
-          <text>Karen Washinawatok	February 8, 2008</text>
-          <text>Richard R. Dodge	May 17, 2010</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>Petronell Martin</td>
+                  <td>August 18, 2008</td>
+                </tr>
+                <tr>
+                  <td>Eugene Caldwell</td>
+                  <td>February 8, 2008</td>
+                </tr>
+                <tr>
+                  <td>Betty Jo Wozniak</td>
+                  <td>May 31, 2009</td>
+                </tr>
+                <tr>
+                  <td>Karen Washinawatok</td>
+                  <td>February 8, 2008</td>
+                </tr>
+                <tr>
+                  <td>Richard R. Dodge</td>
+                  <td>May 17, 2010</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
         <para>
           <num>(3)</num>
@@ -492,8 +528,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>Compensation. Directors may receive a reasonable compensation for service on the Board; provided, however, that such compensation shall not exceed the compensation provided to</text>
-          <text>Tribal Legislators for their service on the Tribal Legislature.</text>
+          <text>Compensation. Directors may receive a reasonable compensation for service on the Board; provided, however, that such compensation shall not exceed the compensation provided to Tribal Legislators for their service on the Tribal Legislature.</text>
         </para>
       </para>
       <para>

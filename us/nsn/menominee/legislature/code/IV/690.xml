@@ -4,7 +4,8 @@
   <num>690</num>
   <heading>MENOMINEE PAYMENT PROCESSING COMPANY</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-16-2017 by Ord. No. 17-26. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 17-26" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-16-2017 by Ord. No. 17-26</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -24,8 +25,10 @@
     <prefix>§</prefix>
     <num>690-3</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of this Charter, the following terms shall have the following meanings: COMPANY — The Menominee Payment Processing Company.</text>
-    <text>CONSTITUTION — The Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin. FINANCE DEPARTMENT — The Finance Department of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
+    <text>COMPANY — The Menominee Payment Processing Company.</text>
+    <text>CONSTITUTION — The Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>FINANCE DEPARTMENT — The Finance Department of the Menominee Indian Tribe of Wisconsin.</text>
     <text>MERCHANT SERVICES COMPANY — A Company who processes electronic payments, provides necessary hardware and electronically transfers funds to be received through electronic payments.</text>
     <text>MTL — The Menominee Tribal Legislature, the tribal governing body elected pursuant to Section 3, Article IV of the Constitution, and their successors.</text>
     <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
@@ -132,7 +135,7 @@
       <text>Reporting and meeting requirements.</text>
       <para>
         <num>(1)</num>
-        <text>The Finance Department of the Tribe, as the fiscal agent for the Company per <cite doc="Charter of the Menominee Indian Tribe" path="|690|§690-8">§ 690-8 of this Charter</cite>, shall prepare a monthly report on the same schedule as the regular finance report, to the Board of Directors and the Menominee Tribal Legislature. The report shall contain the total amount of payments processed for each department of the Tribe, the fees charged by each merchant service Company, and the net payments collected electronically for the Tribe.</text>
+        <text>The Finance Department of the Tribe, as the fiscal agent for the Company per <cite doc="Charter of the Menominee Indian Tribe" path="|IV|690|§690-8">§ 690-8 of this Charter</cite>, shall prepare a monthly report on the same schedule as the regular finance report, to the Board of Directors and the Menominee Tribal Legislature. The report shall contain the total amount of payments processed for each department of the Tribe, the fees charged by each merchant service Company, and the net payments collected electronically for the Tribe.</text>
       </para>
       <para>
         <num>(2)</num>

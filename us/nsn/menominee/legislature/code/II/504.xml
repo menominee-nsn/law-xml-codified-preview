@@ -14,7 +14,8 @@
     <num>I</num>
     <heading>Scavenging and Dumping</heading>
     <annotations>
-      <annotation type="History">Adopted 9-4-1986 by Ord. No. 86-16; amended in its entirety 12-19-2007</annotation>
+      <annotation type="History">Amended in its entirety 12-19-2007</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 86-16" type="History">Adopted 9-4-1986 by Ord. No. 86-16</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -65,7 +66,7 @@
     <section cache:ref-path="II|§504-5">
       <prefix>§</prefix>
       <num>504-5</num>
-      <heading>Enforcement.<fn proof="needed" path="|II|§504-5|footnotes|1">1</fn></heading>
+      <heading>Enforcement.<fn path="|II|§504-5|footnotes|1">1</fn></heading>
       <text>It shall be the duty of the Menominee Tribal Police Department and any of its designated deputies or officers and the Department of Conservation to enforce the provisions of <cite path="|II|504|I">this article</cite>.</text>
       <footnotes>
         <footnote>
@@ -98,7 +99,10 @@
   <container cache:ref-path="II|504|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Solid Waste Management [Adopted 2-4-1988 by Ord. No. 87-26]</heading>
+    <heading>Solid Waste Management</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 87-26" type="History">Adopted 2-4-1988 by Ord. No. 87-26</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>504-7</num>
@@ -124,8 +128,7 @@
       <prefix>§</prefix>
       <num>504-10</num>
       <heading>Interaction with other governments.</heading>
-      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of these rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has responsibility for all matters of tribal policy under <cite path="|II|504|II">this article</cite>. The Wisconsin Department of Natural Resources, acting as a neighboring government whose interests are served by the development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination</text>
-      <text>with each other, as they share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
+      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of these rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has responsibility for all matters of tribal policy under <cite path="|II|504|II">this article</cite>. The Wisconsin Department of Natural Resources, acting as a neighboring government whose interests are served by the development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination with each other, as they share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
       <annotations/>
     </section>
     <section>
@@ -162,7 +165,8 @@
       <text>DETRIMENTAL EFFECT ON GROUND OR SURFACE WATER — Causing a violation of the ground or surface water quality standards established under <cite path="|II|562">Chapter 562</cite>, Article I, Groundwater Quality, and <cite path="|II|512">Chapter 512</cite>, Surface Water, of this Code, respectively.</text>
       <text>DISCARDED MATERIAL — Material that is no longer of use to the generator of the material in the process from which it was generated.</text>
       <text>DISPOSAL — The discharge, deposit, injection, dumping, or placing of any solid waste into or on any land or water so that such solid waste or any constituent thereof may enter the environment or be emitted into the air or discharged into any waters, including groundwater.</text>
-      <text>DREDGE MATERIAL — Any earth material removed from the bed of any surface water. ESTABLISH — To bring a solid waste disposal facility into existence.</text>
+      <text>DREDGE MATERIAL — Any earth material removed from the bed of any surface water.</text>
+      <text>ESTABLISH — To bring a solid waste disposal facility into existence.</text>
       <text>EXPAND AN EXISTING FACILITY — To dispose of solid waste on land not previously covered under the approved plan of operation.</text>
       <text>FEASIBILITY REPORT — A report for a specific solid waste disposal facility that describes the site, surrounding area, and proposed operation in terms of land use, topography, soils geology, groundwater, surface water, proposed waste, quantities and characteristics, and preliminary facility design concepts.</text>
       <text>FILL AREA — The area proposed to receive or which is receiving direct application of solid waste.</text>
@@ -191,8 +195,7 @@
       <text>REGISTERED PROFESSIONAL ENGINEER — A professional engineer registered as such with the Wisconsin Examining Board of Architects, Professional Engineers, Designers and Land Surveyors.</text>
       <text>RESERVATION — The Menominee Indian Reservation.</text>
       <text>SALVAGEABLE MATERIAL — Junk cars, machinery or equipment, scrap metal or other junk or scrap materials which are of further usefulness mainly as a raw material for reprocessing or as imperfect stock from which replacement or spare parts can be extracted.</text>
-      <text>SALVAGE YARD — A solid waste disposal site or facility at which salvageable materials are stored or sold or at which wrecking, dismantling or demolition of salvageable materials is conducted. Salvage yards do not include operations conducted by scrap metal, paper, fiber or plastic processors excluded from the</text>
-      <text>definition of "solid waste management facilities" in this section, nor do salvage yards include small storage areas for equipment such as are normally found adjacent to industrial and commercial establishments.</text>
+      <text>SALVAGE YARD — A solid waste disposal site or facility at which salvageable materials are stored or sold or at which wrecking, dismantling or demolition of salvageable materials is conducted. Salvage yards do not include operations conducted by scrap metal, paper, fiber or plastic processors excluded from the definition of "solid waste management facilities" in this section, nor do salvage yards include small storage areas for equipment such as are normally found adjacent to industrial and commercial establishments.</text>
       <text>SANITARY LANDFILL — A land disposal facility conforming to the applicable requirements of <cite path="|II|504|II">this article</cite>.</text>
       <text>SEPTAGE — Semisolid or liquid human or domestic waste removed from septic tanks, holding tanks, seepage pits, grease traps, or portable or permanent privies.</text>
       <text>SEWERAGE SYSTEMS — All structures, conduits and pipelines by which sewage is collected, treated and disposed of, except plumbing inside and in connection with buildings served, and service pipes from building to street main.</text>
@@ -206,9 +209,9 @@
       <text>STORAGE SITE OR FACILITY — A solid waste disposal site or facility for the storage of solid waste on a temporary basis in such a manner as not to constitute ultimate disposal of solid waste.</text>
       <text>SURFACE IMPOUNDMENT FACILITY — A natural topographic depression, artificial excavation or dike arrangement which is used for storage of waste fluids or semisolids.</text>
       <text>TOPSOIL — Natural loam, sandy loam, silt loam, silt clay loam or clay loam humus-bearing soils or other material that will easily produce and sustain dense growths of vegetation capable of preventing wind and water erosion of the material itself and other materials beneath.</text>
-      <text>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of solid waste from</text>
-      <text>one vehicle or container to another, generally of larger capacity, occurs prior to transporting to the point of processing or disposal.</text>
-      <text>TRIBE — The Menominee Indian Tribe of Wisconsin. USGS — United States Geological Survey.</text>
+      <text>TRANSFER FACILITY — A solid waste disposal site or facility at which transferring of solid waste from one vehicle or container to another, generally of larger capacity, occurs prior to transporting to the point of processing or disposal.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>USGS — United States Geological Survey.</text>
       <text>WATERWORKS — All structures, conduits and appurtenances by means of which water is delivered to consumers, except piping and fixtures inside buildings served, and service pipes from buildings to street main.</text>
       <text>WELL NEST — Two or more wells installed within 10 feet of each other at the ground surface and constructed to varying depths.</text>
       <text>WETLANDS — Those areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas. The permanent channels of streams and rivers and open water of lakes and reservoirs are not included in this definition.</text>
@@ -1794,15 +1797,35 @@
           <num>(1)</num>
           <text>Deposits in escrow, trust or tribal accounts. The formula for closure shall be:</text>
         </para>
-        <aftertext>D = C	<u>(1 + f)</u></aftertext>
+        <aftertext>D = C <u>(1 + f)</u></aftertext>
         <aftertext>(1 + i)</aftertext>
         <aftertext>In which:</aftertext>
-        <aftertext>D	=	The unknown deposit for closure.</aftertext>
-        <aftertext>C	=	The estimated cost of closure.</aftertext>
-        <aftertext>f	=	The estimated</aftertext>
-        <aftertext>annual rate of information.</aftertext>
-        <aftertext>i	=	The estimated</aftertext>
-        <aftertext>annual rate of interest.</aftertext>
+        <aftertext>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td>D</td>
+                <td>=</td>
+                <td>The unknown deposit for closure.</td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>=</td>
+                <td>The estimated cost of closure.</td>
+              </tr>
+              <tr>
+                <td>f</td>
+                <td>=</td>
+                <td>The estimated annual rate of information.</td>
+              </tr>
+              <tr>
+                <td>i</td>
+                <td>=</td>
+                <td>The estimated annual rate of interest.</td>
+              </tr>
+            </tbody>
+          </table>
+        </aftertext>
         <para>
           <num>(2)</num>
           <text>Bonds and letters of credit.</text>
@@ -1813,10 +1836,27 @@
           </para>
         </para>
         <aftertext>In which:</aftertext>
-        <aftertext>CB	=	The unknown amount of the bond or letter of credit for closure.</aftertext>
-        <aftertext>c	=	Estimated</aftertext>
-        <aftertext>closure cost.</aftertext>
-        <aftertext>f	=	The estimated annual rate of inflation.</aftertext>
+        <aftertext>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td>CB</td>
+                <td>=</td>
+                <td>The unknown amount of the bond or letter of credit for closure.</td>
+              </tr>
+              <tr>
+                <td>c</td>
+                <td>=</td>
+                <td>Estimated closure cost.</td>
+              </tr>
+              <tr>
+                <td>f</td>
+                <td>=</td>
+                <td>The estimated annual rate of inflation.</td>
+              </tr>
+            </tbody>
+          </table>
+        </aftertext>
         <para>
           <num>(3)</num>
           <text>Insurance.</text>
@@ -1825,9 +1865,27 @@
             <text>Closure. The formula shall be:</text>
             <text class="center">CI = C (1 + f)</text>
             <text>In which:</text>
-            <text>CI	=	The unknown amount of the closure insurance.</text>
-            <text>C	=	The estimated closure cost.</text>
-            <text>f	=	The estimated annual rate of inflation.</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td>CI</td>
+                    <td>=</td>
+                    <td>The unknown amount of the closure insurance.</td>
+                  </tr>
+                  <tr>
+                    <td>C</td>
+                    <td>=</td>
+                    <td>The estimated closure cost.</td>
+                  </tr>
+                  <tr>
+                    <td>f</td>
+                    <td>=</td>
+                    <td>The estimated annual rate of inflation.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
           </para>
         </para>
       </para>
@@ -1926,7 +1984,8 @@
     <num>III</num>
     <heading>Solid Waste Disposal</heading>
     <annotations>
-      <annotation type="History">Adopted 7-15-1992 by Ord. No. 92-11; amended in its entirety 4-8-1998</annotation>
+      <annotation type="History">Amended in its entirety 4-8-1998</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 92-11" type="History">Adopted 7-15-1992 by Ord. No. 92-11</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -2030,7 +2089,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>It shall be illegal for nonmembers to dispose of solid waste anywhere within the exterior boundaries of the Menominee Indian Reservation. Nonmember residents and nonmembers that own vacation property and are thus temporary residents, however, may use the transfer site for commingled and paper/cardboard recycling purposes only. Nonmembers may use the Keshena transfer site for additional recycling purposes, i.e., tires, scrap metal and waste oil, by paying an annual user fee to the Menominee Indian Tribe of Wisconsin. <strong>[Amended 2-20-2003]</strong></text>
+        <text>It shall be illegal for nonmembers to dispose of solid waste anywhere within the exterior boundaries of the Menominee Indian Reservation. Nonmember residents and nonmembers that own vacation property and are thus temporary residents, however, may use the transfer site for commingled and paper/cardboard recycling purposes only. Nonmembers may use the Keshena transfer site for additional recycling purposes, i.e., tires, scrap metal and waste oil, by paying an annual user fee to the Menominee Indian Tribe of Wisconsin.<fn path="|II|§504-27|footnotes|10">10</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -2038,7 +2097,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>It shall be illegal for any person to: <strong>[Amended 2-20-2003]</strong></text>
+        <text>It shall be illegal for any person to:<fn path="|II|§504-27|footnotes|11">11</fn></text>
         <para>
           <num>(1)</num>
           <text>Dispose of solid waste on any private or public residential property, except as specifically authorized by the Menominee Indian Tribe.</text>
@@ -2052,7 +2111,19 @@
           <text>Deposit brush or leaves onto the ditches or roadway of any state, county, town, or tribal highways, roads, plantation roads or rights-of-way. Brush and leaves should be deposited at a designated yard waste facility or composted in an individual's compost bin.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Amended 2-20-2003</text>
+        </footnote>
+        <footnote>
+          <num>11</num>
+          <text>Editor's Note: Amended 2-20-2003</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 2-20-2003</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2067,7 +2138,7 @@
         <text>Use of sites.</text>
         <para>
           <num>(1)</num>
-          <text>Tribal members shall dispose of their solid waste using curbside collection at their residences. On limited occasions when curbside is not convenient, i.e. funerals and weddings, tribal members may use the Keshena transfer site to dispose of solid waste. <strong>[Amended 2-20-2003]</strong></text>
+          <text>Tribal members shall dispose of their solid waste using curbside collection at their residences. On limited occasions when curbside is not convenient, i.e. funerals and weddings, tribal members may use the Keshena transfer site to dispose of solid waste.<fn path="|II|§504-28|footnotes|12">12</fn></text>
         </para>
         <para>
           <num>(2)</num>
@@ -2075,10 +2146,22 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Nonmember permanent and temporary residents paying the annual fee to the Menominee Indian Tribe of Wisconsin and tribal members may deposit used motor oil, appliances, car batteries, brush and leaves, used construction materials, hazardous or Type "A" or "B" special waste in the above transfer sites in a manner prescribed by the Tribe. <strong>[Amended 2-20-2003]</strong></text>
+          <text>Nonmember permanent and temporary residents paying the annual fee to the Menominee Indian Tribe of Wisconsin and tribal members may deposit used motor oil, appliances, car batteries, brush and leaves, used construction materials, hazardous or Type "A" or "B" special waste in the above transfer sites in a manner prescribed by the Tribe.<fn path="|II|§504-28|footnotes|13">13</fn></text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Amended 2-20-2003</text>
+        </footnote>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Amended 2-20-2003</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 2-20-2003</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2086,7 +2169,7 @@
       <heading>Administration and enforcement.</heading>
       <para>
         <num>A.</num>
-        <text>Enforcement. It shall be the duty of the Director of the Environmental Health Program, the Director of the Community Development Department and law enforcement agencies to monitor and strictly enforce the provisions of <cite path="|II|504|III">this article</cite>. They are authorized to do so by citation. <strong>[Amended 2-20-2003]</strong></text>
+        <text>Enforcement. It shall be the duty of the Director of the Environmental Health Program, the Director of the Community Development Department and law enforcement agencies to monitor and strictly enforce the provisions of <cite path="|II|504|III">this article</cite>. They are authorized to do so by citation.<fn path="|II|§504-29|footnotes|14">14</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -2102,9 +2185,22 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The Menominee Tribal Legislature, by motion, shall approve a fee schedule which states the amount of all fees required by <cite path="|II|504|III">this article</cite>. <strong>[Added 2-20-2003]</strong></text>
+        <text>The Menominee Tribal Legislature, by motion, shall approve a fee schedule which states the amount of all fees required by <cite path="|II|504|III">this article</cite>.<fn path="|II|§504-29|footnotes|15">15</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Amended 2-20-2003</text>
+        </footnote>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Added 2-20-2003</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 2-20-2003</annotation>
+        <annotation type="History">Added 2-20-2003</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2117,7 +2213,10 @@
   <container cache:ref-path="II|504|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Earth Materials and Brush [Adopted 8-17-2023 by Ord. No. 23-27]</heading>
+    <heading>Earth Materials and Brush</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 23-27" type="History">Adopted 8-17-2023 by Ord. No. 23-27</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>504-31</num>
@@ -2128,7 +2227,8 @@
       </para>
       <para>
         <num>B.</num>
-        <text>As used in <cite path="|II|504|IV">this article</cite>, the following terms shall have the meaning indicated: BRUSH — Limbs up to eight inches in diameter.</text>
+        <text>As used in <cite path="|II|504|IV">this article</cite>, the following terms shall have the meaning indicated:</text>
+        <text>BRUSH — Limbs up to eight inches in diameter.</text>
         <text>EARTH MATERIALS — Naturally occurring solid materials found on or below the surface of the Earth that make-up the solid components of the Earth's crust, including, but not limited to soil, rock, sand, gravel, clay, minerals, sediments and other geological materials.</text>
       </para>
       <para>

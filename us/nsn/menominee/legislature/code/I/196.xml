@@ -4,7 +4,9 @@
   <num>196</num>
   <heading>STATE OF EMERGENCY, DECLARATION OF</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-32; amended in its entirety 11-6-2014 by Ord. No. 14-25. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 14-25" type="History">Amended in its entirety 11-6-2014 by Ord. No. 14-25</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 09-32" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-32</annotation>
     <annotation type="General References">Posting procedures — See <cite path="|I|177">Ch. 177</cite>.</annotation>
   </annotations>
   <section>
@@ -66,7 +68,7 @@
       <text>A declaration of a state of emergency shall only be terminated by the Legislature when it deems that a state of emergency ceases to exist.</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 4-23-2020 by Ord. No. 20-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Amended 4-23-2020 by Ord. No. 20-07</annotation>
     </annotations>
   </section>
   <section>
@@ -100,7 +102,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>During a declared emergency, the Emergency Management Coordinator shall be empowered to issue and enforce such orders as may be necessary to implement and carry out emergency management operations to protect the health, safety and resources of the residents of the Menominee Indian Reservation. The orders referenced above include, but are not limited to, the issuance of social distancing orders restricting or prohibiting gatherings, the conduct of business, travel, instituting curfews, and other similar social distancing requirements. When the declared emergency constitutes a "public health emergency" as that term is defined in <cite path="§368-60">§ 368-60</cite>, then the orders referenced above may include a requirement that the public provide their identity, resident address, areas of travel and other information reasonably related to the stopping the spread of communicable/pandemic diseases. <strong>[Amended 4-23-2020 by Ord. No. 20-07]</strong></text>
+        <text>During a declared emergency, the Emergency Management Coordinator shall be empowered to issue and enforce such orders as may be necessary to implement and carry out emergency management operations to protect the health, safety and resources of the residents of the Menominee Indian Reservation. The orders referenced above include, but are not limited to, the issuance of social distancing orders restricting or prohibiting gatherings, the conduct of business, travel, instituting curfews, and other similar social distancing requirements. When the declared emergency constitutes a "public health emergency" as that term is defined in <cite path="§368-60">§ 368-60</cite>, then the orders referenced above may include a requirement that the public provide their identity, resident address, areas of travel and other information reasonably related to the stopping the spread of communicable/pandemic diseases.<fn path="|I|§196-6|footnotes|1">1</fn></text>
       </para>
       <para>
         <num>(4)</num>
@@ -112,7 +114,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Nothing in <cite path="|I|196">this Chapter 196</cite> grants the Emergency Management Coordinator any power to require vaccination, quarantine, or isolation that are granted to the Community Health Nurse Services Director pursuant to Article XII of <cite path="|II|368">Chapter 368</cite> of this Code. <strong>[Added 4-23-2020 by Ord. No. 20-07]</strong></text>
+        <text>Nothing in <cite path="|I|196">this Chapter 196</cite> grants the Emergency Management Coordinator any power to require vaccination, quarantine, or isolation that are granted to the Community Health Nurse Services Director pursuant to Article XII of <cite path="|II|368">Chapter 368</cite> of this Code.<fn path="|I|§196-6|footnotes|2">2</fn></text>
       </para>
     </para>
     <para>
@@ -131,19 +133,34 @@
         <text>Carry out all duties and responsibilities as listed on the most recent version of the position description for the Emergency Management Coordinator.</text>
       </para>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 4-23-2020 by Ord. No. 20-07</text>
+      </footnote>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Added 4-23-2020 by Ord. No. 20-07</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Amended 4-23-2020 by Ord. No. 20-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Added 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
     <num>196-7</num>
-    <heading>Violations and penalties. [Added 4-23-2020 by Ord. No. 20-07]</heading>
+    <heading>Violations and penalties.</heading>
     <text>Any person who willfully violates or obstructs the execution or enforcement of any tribal ordinance or Emergency Management Coordinator order issued under <cite path="|I|196">this chapter</cite> for which no other penalty is prescribed shall be subject to a civil forfeiture not to exceed $ 500.</text>
-    <annotations/>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Added 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
     <num>196-8</num>
-    <heading>Enforcement. [Added 4-23-2020 by Ord. No. 20-07]</heading>
+    <heading>Enforcement.</heading>
     <para>
       <num>A.</num>
       <text>Menominee tribal police officers and conservation wardens are authorized to enforce any order issued by the Emergency Management Coordinator pursuant to <cite path="|I|196">this chapter</cite>.</text>
@@ -152,6 +169,8 @@
       <num>B.</num>
       <text>The arrest and detention authority of the Menominee tribal police officers and conservation wardens in enforcing an order pursuant to <cite path="§196-8|A">§ 196-8A</cite> includes a police officer or conservation warden stopping and questioning individuals in compliance with an approved checkpoint conducted under a checkpoint plan and guidelines regulating officer discretion. The checkpoint plan and guidelines must, at a minimum, comply with the requirements of <cite path="§120-3">§ 120-3</cite> regarding administrative searches. Notice of checkpoint plan and guidelines must be submitted to the Tribal Chairman's office by law enforcement for review and approval prior to the implementation of any checkpoint under <cite path="|I|196">this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Added 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
   </section>
 </container>

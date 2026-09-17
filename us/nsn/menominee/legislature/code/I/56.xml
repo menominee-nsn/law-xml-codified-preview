@@ -4,7 +4,8 @@
   <num>56</num>
   <heading>EDUCATION, BOARD OF</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-18-2004 by Ord. No. 04-03. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 04-03" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-18-2004 by Ord. No. 04-03</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -21,7 +22,8 @@
     <text>MENOMINEE TRIBAL SCHOOL — The school for kindergarten through eighth grade which is located in Neopit, Wisconsin, owned and operated by the Menominee Indian Tribe.</text>
     <text>QUORUM — A minimum of three members of the five-member Board.</text>
     <text>SCHOOL ADMINISTRATOR — The person employed by the Menominee Indian Tribe to run the day-to-day operations of the Menominee Tribal School.</text>
-    <text>SCHOOL BOARD — The Menominee Tribal School Board of Education created by <cite path="|I|56">this chapter</cite>. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>SCHOOL BOARD — The Menominee Tribal School Board of Education created by <cite path="|I|56">this chapter</cite>.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section cache:ref-path="I|§56-3">
@@ -70,14 +72,14 @@
     <heading>Qualifications for appointment.</heading>
     <para>
       <num>A.</num>
-      <text>To be appointed to the Tribal School Board a potential member shall: <strong>[Amended 1-16-2020 by Ord. No. 19-37]</strong></text>
+      <text>To be appointed to the Tribal School Board a potential member shall:<fn path="|I|§56-4|footnotes|2">2</fn></text>
       <para>
         <num>(1)</num>
         <text>Be of good, moral, honest, reputable character and shall not have been convicted for any crimes that would, pursuant to tribal, federal, or applicable state law, prohibit that person from working with children.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Consent to a criminal background investigation and drug screening test which tests for illegal drugs. "Illegal drugs" means a controlled substance as defined in <cite path="|II|306">Chapter 306</cite>, Article I, Controlled Substances, of this Code or listed in Schedule I or II, as defined by Section 802( 6) of Title 21 of the United States Code, the possession of which is unlawful under <cite>Chapter 14</cite> of that title. The term "illegal drugs" does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.</text>
+        <text>Consent to a criminal background investigation and drug screening test which tests for illegal drugs. "Illegal drugs" means a controlled substance as defined in <cite path="|II|306">Chapter 306</cite>, Article I, Controlled Substances, of this Code or listed in Schedule I or II, as defined by Section 802( 6) of Title 21 of the United States Code, the possession of which is unlawful under Chapter 14 of that title. The term "illegal drugs" does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -100,7 +102,15 @@
       <num>D.</num>
       <text>An employee of the Menominee Tribal School shall not be considered for appointment.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Amended 1-16-2020 by Ord. No. 19-37</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-37" type="History">Amended 1-16-2020 by Ord. No. 19-37</annotation>
+    </annotations>
   </section>
   <section cache:ref-path="I|§56-5">
     <prefix>§</prefix>
@@ -121,7 +131,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Interpret Ordinance No. 83-6, Menominee Nation Personnel Policies and Procedures.<fn path="|I|§56-5|footnotes|2">2</fn></text>
+      <text>Interpret Ordinance No. 83-6, Menominee Nation Personnel Policies and Procedures.<fn path="|I|§56-5|footnotes|3">3</fn></text>
     </para>
     <para>
       <num>E.</num>
@@ -169,7 +179,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>2</num>
+        <num>3</num>
         <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
       </footnote>
     </footnotes>

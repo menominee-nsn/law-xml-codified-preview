@@ -9,7 +9,10 @@
   <container cache:ref-path="I|121|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Rights of Persons Subject to Tribal Jurisdiction [Adopted 2-19-2015 by Ord. No. 14-38]</heading>
+    <heading>Rights of Persons Subject to Tribal Jurisdiction</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 14-38" type="History">Adopted 2-19-2015 by Ord. No. 14-38</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>121-1</num>

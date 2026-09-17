@@ -14,7 +14,8 @@
     <num>I</num>
     <heading>Ballparks</heading>
     <annotations>
-      <annotation type="History">Adopted 8-15-1985 by Ord. No. 85-9; amended in its entirety 11-21-1996</annotation>
+      <annotation type="History">Amended in its entirety 11-21-1996</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 85-9" type="History">Adopted 8-15-1985 by Ord. No. 85-9</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -37,8 +38,10 @@
       <text>As used in <cite path="|II|444|I">this article</cite>, the following terms shall have the meanings indicated:</text>
       <text>BALLPARK — Any tribally owned and/or operated ballpark within the exterior boundaries of the Menominee Indian Reservation.</text>
       <text>DEPARTMENT — The Recreation Department.</text>
-      <text>DIRECTOR — The Director of the Department or his or her designee. ORGANIZATION — Any amateur or professional athletic association or team.</text>
-      <text>ORGANIZER — An individual responsible for coordinating a game or other athletic activity. VENDOR — The license or permit holder for the sale of alcoholic beverages and cigarettes.</text>
+      <text>DIRECTOR — The Director of the Department or his or her designee.</text>
+      <text>ORGANIZATION — Any amateur or professional athletic association or team.</text>
+      <text>ORGANIZER — An individual responsible for coordinating a game or other athletic activity.</text>
+      <text>VENDOR — The license or permit holder for the sale of alcoholic beverages and cigarettes.</text>
       <annotations/>
     </section>
     <section>

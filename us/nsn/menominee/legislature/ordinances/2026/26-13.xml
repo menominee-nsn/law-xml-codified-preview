@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Menominee Tribal Legislature Ord. No. 26-13" codify:doc="Code of the Menominee Indian Tribe">
+  <num>26-13</num>
+  <heading>Amendment in Part to the Code of Menominee Indian Tribe of Wisconsin Chapter 98 — “Government Plan”</heading>
+  <meta>
+    <stub/>
+    <effective>2026-07-16</effective>
+    <citations>
+      <citation type="ord" url="./adopted/26-13.pdf">Ord. 26-13</citation>
+    </citations>
+    <history>
+      <adopted>2026-07-16</adopted>
+    </history>
+  </meta>
+  <codify:replace path="|I|98|II|98-7" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§98-7">
+    <section>
+      <prefix>§</prefix>
+      <num>98-7</num>
+      <heading>Main committees.</heading>
+      <para>
+        <num>A.</num>
+        <text>Creation of committees; defining responsibility and membership. The Legislature hereby establishes the following main committees of the Legislature:</text>
+        <para>
+          <num>(1)</num>
+          <text>Housing Committee, whose responsibility shall include all matters concerning housing and people who are homeless. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Supervisor of Tribal Utilities, Land Management Director, and Housing Director;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Governmental Affairs Committee, whose responsibility shall include all matters concerning the governmental organization of the Tribe. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Administrator, Human Resources Director, Financial Manager, and Information Technology Director;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Community Development Committee, whose responsibility shall include the development of the Tribe’s infrastructure and the local economy. The Committee shall have, among other responsibilities, responsibility to review and approve requests for use of tribally owned outdoor venues, and assess or waive fees related to the use of those venues. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Community Development Director, Housing Director, Transportation Director, Director of Historic Preservation, Director of Environmental Services, Land Management Director;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Law Enforcement Committee, whose responsibility shall include all matters concerning law enforcement. The Committee shall have, among other responsibilities, the responsibility to set Reservation-wide trick-or-treat hours. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Prosecutor, Conservation Director, Public Defender Director, Jail Administrator and a member of the Law Enforcement Department;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Health and Family Services Committee, whose responsibility shall include all matters concerning health and family services programming. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director of Family Services, Maehnowesekiyah Wellness Center Coordinator, Clinic Administrator, Aging and Long-Term Care Director; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Labor, Education and Training Committee, whose responsibility shall include all matters concerning labor, education and training programming. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director of Early Childhood Services, Tribal School Administrator/Principal, Education Director, Community Resource Center Director, and Youth Services Director;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Budget and Finance Committee, whose responsibility shall include the monitoring and development of the tribal budget. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Three legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Chief Financial Officer, Tribal Administrator, Director of Lending and Tribal Tax;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Agriculture and Environmental Committee, whose responsibility shall include all matters concerning agricultural management and all forest and environmental resource concerns. The Committee shall consist of the following members:</text>
+          <para>
+            <num>(a)</num>
+            <text>Two legislative members nominated by the Chairperson;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Conservation Director, Environmental Services Director, Director of Historic Preservation, the Director of Agriculture and Food Systems, an MTE Board of Director member or staff member as appointed by the MTE Board of Directors;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Two community tribal members as appointed by the Menominee Tribal Legislature for a term of two years. The appointments will be staggered, and one community member will be appointed every year; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties of committee.</text>
+        <para>
+          <num>(1)</num>
+          <text>A committee of the Legislature may:</text>
+          <para>
+            <num>(a)</num>
+            <text>Investigate and research any issue assigned to it by the Tribal Chairperson or the Legislature;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Review and approve, without the need for legislative concurrence, general policies implemented by programs or departments within said committee’s subject area, provided those policies have also been reviewed and approved for contract and tribal policy compliance by the Tribe’s Administrative Committee.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Research and investigate potential funding sources for tribal programs or departments;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Report any findings to the Tribal Chairperson;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Set dates, without the need for legislative concurrence, for community-wide events sponsored by departments who report to the committee;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Recommend to the Administrative Committee the granting of administrative leave, for employees or select groups of employees, to participate in community events;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Perform any function granted to it pursuant to a tribal ordinance or policy; and</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Organize subcommittees for special tasks, subject to approval by the Tribal Legislature. Payments for subcommittee meetings shall be made in conformance with all committee payment policies at the committee payment rate, provided that scheduled meetings were approved by the Tribal Chairperson.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The committee and its members shall perform these functions in accordance with all applicable tribal and federal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Bylaws. Committees of the Legislature shall be governed by the bylaws which will identify how often the committee will meet on an annual basis.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Limitation on powers. Pursuant to Bylaw I, Section 2 of the Menominee Tribal Constitution and Bylaws, legislative committees shall only have the power to advise the Legislature. Legislative committees shall not interfere with the day-to-day management of any tribal program or department within their subject area. Legislative committees, except as provided in <cite path="§98-7|F" doc="Menominee Tribal Legislature Ord. No. 26-13">Subsection F</cite> below, do not have the authority to direct any employee of the Menominee Indian Tribe in regard to the performance of his or her duties.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Relationship with Tribal programs or departments. The Legislature may assign departments or programs to present matters to a certain committee first prior to bringing the matter before the entire Legislature or to report regularly to an assigned committee at such intervals prescribed by the committee chairperson. Such department or program assignments shall be reflected in the committee flowchart established pursuant to <cite path="§98-10" doc="Menominee Tribal Legislature Ord. No. 26-13">§ 98-10</cite> of <cite path="|I|98" doc="Menominee Tribal Legislature Ord. No. 26-13">this chapter</cite>. Employees of tribal programs and departments shall cooperate with all such requests unless the Tribal Chairperson determines the request to be unreasonably burdensome.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Limitation on committee membership. An employee whose position requires him/her to serve on a committee and the person is not enrolled in the Menominee Tribe may not serve on a main committee. In the event that an employee identified as a member of the committee is not enrolled with the Menominee Tribe, the Chairperson may nominate an alternate employee who is enrolled in the Tribe, or may leave the seat vacant.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|I|98|III|98-15" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§98-15">
+    <section>
+      <prefix>§</prefix>
+      <num>98-15</num>
+      <heading>Department of finance.</heading>
+      <para>
+        <num>A.</num>
+        <text>Purpose. The Department of Finance shall be responsible for enforcing <cite path="|I|7" doc="Menominee Tribal Legislature Ord. No. 26-13">Chapter 7</cite>, Accounting System, of this Code, which establishes the accounting system and internal controls and authorizes that Department to develop an Accounting Procedures Manual and cause an audit of tribal accounts to be conducted annually.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Duties. The Department of Finance shall be responsible for providing the Chief Financial Officer (“CFO”) with those administrative and financial support services that are necessary for him or her to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Perform those duties described in <cite path="§98-18" doc="Menominee Tribal Legislature Ord. No. 26-13">§ 98-18</cite> of <cite path="|I|98" doc="Menominee Tribal Legislature Ord. No. 26-13">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Enforce or implement directives or initiatives he or she has received from the Chairperson;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Provide technical and professional assistance to the Legislature, and Chairperson in the development and implementation of government-wide policies and initiatives;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Provide and coordinate periodic training to directors and program managers with respect to financial administration and provide such other training as directed by the Chairperson; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Develop and maintain an Accounting Procedures Manual, subject to review by the Governmental Affairs Committee and any approval requirements of the Legislature.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Authority. The CFO shall have the authority under this plan of government to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Exercise the authority described in <cite path="§98-19" doc="Menominee Tribal Legislature Ord. No. 26-13">§ 98-19</cite> of <cite path="|I|98" doc="Menominee Tribal Legislature Ord. No. 26-13">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sign purchase orders, requests for payment or reimbursement, reports of expenditures, and any certifications or assurances required thereunder;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Delegate such authority and tasks to his or her assistants and employees as may be necessary for the Financial Manager to carry out his or her duties; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Implement procedures designed to safeguard the assets of the Tribe.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|I|98|III|98-25 through 98-29" warning="false" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§98-25">
+    <section>
+      <prefix>§</prefix>
+      <num>98-25</num>
+      <heading>References to Finance Manager or Finance Director.</heading>
+      <text>Any reference in a law, regulation, document, paper, or other record of the Tribe to the Finance Manager or Finance Director shall be deemed to be a reference to the Chief Financial Officer.</text>
+    </section>
+  </codify:replace>
+  <codify:insert path="|I|98|III" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§98-26 through 98-29">
+    <section>
+      <prefix>§§</prefix>
+      <num>98-26 through 98-29</num>
+      <reason>Reserved</reason>
+    </section>
+  </codify:insert>
+  <codify:replace path="|I|98|attachments" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|98">
+    <attachments>
+      <heading>Attachments</heading>
+      <attachment name="committee-of-the-menominee-tribal-legislature-bylaws" url="/us/nsn/menominee/legislature/code/attachments/098a.pdf">
+        <heading>Committee of the Menominee Tribal Legislature Bylaws</heading>
+      </attachment>
+      <attachment name="mitw-administrative-flowchart" url="/us/nsn/menominee/legislature/ordinances/2026/adopted/26-13/attachments/098b.pdf">
+        <heading>MITW-Administrative Flowchart</heading>
+      </attachment>
+      <attachment name="mitw-committee-flowchart" url="/us/nsn/menominee/legislature/ordinances/2025/adopted/25-63/attachments/098c.pdf">
+        <heading>MITW-Committee Flowchart</heading>
+      </attachment>
+    </attachments>
+  </codify:replace>
+</document>

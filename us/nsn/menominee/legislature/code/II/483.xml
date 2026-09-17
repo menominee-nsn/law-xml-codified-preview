@@ -4,7 +4,9 @@
   <num>483</num>
   <heading>SEASONAL PERMITS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-09; amended in its entirety 11-20-2014 by Ord. No. 14-27. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 14-27" type="History">Amended in its entirety 11-20-2014 by Ord. No. 14-27</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 02-09" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-09</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -36,7 +38,8 @@
     <text>ELIGIBLE APPLICANT — A tribal member, age 21 or older, who meets the qualifications listed herein.</text>
     <text>GPS POINTS — Coordinates determined through the Global Positioning System "GPS" space-based satellite navigation system by utilizing a GPS receiver.</text>
     <text>LAW ENFORCEMENT OFFICER(S) — Any Menominee tribal police officer, Menominee tribal conservation warden, or any other person who has been granted tribal law enforcement authority by the Constitution and Bylaws of the Tribe and the Code of the Menominee Indian Tribe of Wisconsin.</text>
-    <text>PERMITTEE — A tribal member who has received a seasonal permit as provided herein. PREMISES — Land described for use within the permit.</text>
+    <text>PERMITTEE — A tribal member who has received a seasonal permit as provided herein.</text>
+    <text>PREMISES — Land described for use within the permit.</text>
     <text>PUBLIC NUISANCE — Two types of acts shall be considered public nuisances:</text>
     <para>
       <num>A.</num>
@@ -45,10 +48,10 @@
     <para>
       <num>B.</num>
       <text>Objectionable conditions: disturbances of the peace, to include but not be limited to public drunkenness, harassment of passersby, gambling, prostitution; public urination, lewd conduct, drug trafficking or excess loud noise.</text>
-      <text>SEASON — Refers to a time of year from May 1 to September 30.</text>
-      <text>SEASONAL PERMIT — A permit issued by the Menominee Tribal Legislature to qualified applicants who meet the requirements listed herein.</text>
-      <text>SEASONAL PERMIT REGULATIONS (SPR) — The regulations which apply to seasonal permits which are listed herein.</text>
     </para>
+    <aftertext>SEASON — Refers to a time of year from May 1 to September 30.</aftertext>
+    <aftertext>SEASONAL PERMIT — A permit issued by the Menominee Tribal Legislature to qualified applicants who meet the requirements listed herein.</aftertext>
+    <aftertext>SEASONAL PERMIT REGULATIONS (SPR) — The regulations which apply to seasonal permits which are listed herein.</aftertext>
     <annotations/>
   </section>
   <section>

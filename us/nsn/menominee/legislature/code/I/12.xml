@@ -4,7 +4,8 @@
   <num>12</num>
   <heading>ADMINISTRATIVE PROCEDURES</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-6-1987 by Ord. No. 87-25. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 87-25" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-6-1987 by Ord. No. 87-25</annotation>
   </annotations>
   <section cache:ref-path="I|§12-1">
     <prefix>§</prefix>
@@ -54,7 +55,8 @@
     <prefix>§</prefix>
     <num>12-2</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of <cite path="|I|12">this chapter</cite>, the following terms shall have the meanings indicated: CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.</text>
+    <text>For the purpose of <cite path="|I|12">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>CHAIRPERSON — The person elected as the presiding officer of the Tribal Legislature.</text>
     <text>COMMITTEE — Any tribal board, commission, or officer serving a tribal department and authorized by law to propose rules for adopting by the Tribal Legislature, except that the term "committee" shall not include either the Tribal Legislature or any Tribal Court.</text>
     <text>CONTESTED CASE — A proceeding before the Legislature in which an opportunity for a hearing before the Legislature is required by law prior or subsequent to the determination by the Legislature of the legal rights, duties, or privileges of specific parties. Contested cases shall also include all cases of licensing where a license is revoked, suspended, or modified or in which the granting of an application is contested by a person having standing to contest such matter under the law.</text>
     <text>DEPARTMENT — Any tribal office or program authorized to carry out tribal government functions.</text>
@@ -96,9 +98,10 @@
         <num>(2)</num>
         <text>Declaratory rulings issued pursuant to <cite path="|I|12">this chapter</cite> as now or hereafter amended.</text>
       </para>
-      <aftertext>SPONSORING COMMITTEE — The tribal committee which prepares a rule or other matter under this chapter for action by the Tribal Legislature.</aftertext>
-      <aftertext>TRIBAL LEGISLATURE or LEGISLATURE — The governing body of the Menominee Indian Tribe. TRIBE — The Menominee Indian Tribe.</aftertext>
     </para>
+    <aftertext>SPONSORING COMMITTEE — The tribal committee which prepares a rule or other matter under this chapter for action by the Tribal Legislature.</aftertext>
+    <aftertext>TRIBAL LEGISLATURE or LEGISLATURE — The governing body of the Menominee Indian Tribe.</aftertext>
+    <aftertext>TRIBE — The Menominee Indian Tribe.</aftertext>
     <annotations/>
   </section>
   <section>
@@ -158,8 +161,7 @@
     <prefix>§</prefix>
     <num>12-5</num>
     <heading>Emergency rules and amendments.</heading>
-    <text>If a committee recommends and the Tribal Legislature so finds that immediate adoption or amendment of a rule is necessary for the preservation of the public health, safety, or general welfare of the Reservation population and that observance of the requirements of notice and opportunity to present views on the proposed action would be contrary to the public interest, the Legislature may dispense with such requirements and immediately adopt the rule or amendment as an emergency rule or amendment. The</text>
-    <text>Legislature finding and a brief statement of the reasons for its finding shall be incorporated in the emergency rule or amendment. An emergency rule or amendment shall not remain in effect for longer than 60 days after adoption.</text>
+    <text>If a committee recommends and the Tribal Legislature so finds that immediate adoption or amendment of a rule is necessary for the preservation of the public health, safety, or general welfare of the Reservation population and that observance of the requirements of notice and opportunity to present views on the proposed action would be contrary to the public interest, the Legislature may dispense with such requirements and immediately adopt the rule or amendment as an emergency rule or amendment. The Legislature finding and a brief statement of the reasons for its finding shall be incorporated in the emergency rule or amendment. An emergency rule or amendment shall not remain in effect for longer than 60 days after adoption.</text>
     <annotations/>
   </section>
   <section>

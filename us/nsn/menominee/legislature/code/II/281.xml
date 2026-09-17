@@ -4,7 +4,9 @@
   <num>281</num>
   <heading>CIGARETTES AND TOBACCO PRODUCTS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-11-1979 by Ord. No. 79-4; amended in its entirety 11-19-2020 by Ord. No. 20-36. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 20-36" type="History">Amended in its entirety 11-19-2020 by Ord. No. 20-36</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 79-4" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-11-1979 by Ord. No. 79-4</annotation>
   </annotations>
   <section cache:ref-path="II|§281-1">
     <prefix>§</prefix>
@@ -37,13 +39,24 @@
     <text>As used in <cite path="|II|281">this chapter</cite>, the following terms shall have the meanings indicated:</text>
     <text>CIGARETTE — Any roll of tobacco which is wrapped in paper or any substance other than tobacco.</text>
     <text>COMMERCIAL DISTRIBUTOR — Any person who acquires unstamped cigarettes from the manufacturer thereof, affixes stamps to the packages or other containers, stores them and sells them to other permittees or to retailers for resale or who acquires stamped cigarettes from another permittee for such sales.</text>
-    <text>MOIST SNUFF — Any finely cut, ground, or powdered smokeless tobacco that is intended to be placed or dipped in mouth.<strong>[Added 10-6-2022 by Ord. No. 22-45]</strong></text>
+    <text>MOIST SNUFF — Any finely cut, ground, or powdered smokeless tobacco that is intended to be placed or dipped in mouth.<fn path="|II|§281-2|footnotes|2">2</fn></text>
     <text>RETAILER — Any person who sells, or offers for sale, any cigarettes or tobacco products in a store, market, tavern, package liquor establishment, gas station, bingo parlor, restaurant, pow wow stand, cigarette machine, or any other business venture engaged in the sale of cigarettes and tobacco products on the Menominee Reservation.</text>
-    <text>TOBACCO PRODUCT — Cigars, cheroots, granulated, plug cuts, snuff, chewing tobacco, clippings and other forms of tobacco prepared in such a manner as to be suitable for chewing or smoking in a pipe or otherwise and includes tobacco that can be used for "roll your own" cigarettes, but does not include cigarettes. "Tobacco product" includes moist snuff, except for the purposes of <cite path="§281-5|B">§ 281-5B</cite>.</text>
+    <text>TOBACCO PRODUCT — Cigars, cheroots, granulated, plug cuts, snuff, chewing tobacco, clippings and other forms of tobacco prepared in such a manner as to be suitable for chewing or smoking in a pipe or otherwise and includes tobacco that can be used for "roll your own" cigarettes, but does not include cigarettes. "Tobacco product" includes moist snuff, except for the purposes of <cite path="§281-5|B">§ 281-5B</cite>.<fn path="|II|§281-2|footnotes|3">3</fn></text>
     <text>TRIBAL DISTRIBUTOR — The Menominee Indian Tribe of Wisconsin, who acquires cigarettes and tobacco products from a commercial distributor, stores them, and holds exclusive rights to sell those cigarettes and tobacco products to retailers for resale.</text>
     <text>VAPOR PRODUCT — A noncombustible product that produces vapor or aerosol for inhalation from the application of a heating element to a liquid or other substance that is depleted as the product is used, regardless of whether the liquid or other substance contains nicotine.</text>
+    <footnotes>
+      <footnote>
+        <num>2</num>
+        <text>Editor's Note: Added 10-6-2022 by Ord. No. 22-45</text>
+      </footnote>
+      <footnote>
+        <num>3</num>
+        <text>Editor's Note: Amended 10-6-2022 by Ord. No. 22-45</text>
+      </footnote>
+    </footnotes>
     <annotations>
-      <annotation type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 22-45" type="History">Added 10-6-2022 by Ord. No. 22-45</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 22-45" type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
     </annotations>
   </section>
   <section>
@@ -90,7 +103,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>No sales of tobacco products or cigarettes shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No. 22-45]</strong></text>
+        <text>No sales of tobacco products or cigarettes shall be made to anyone under the age of 21 years.<fn path="|II|§281-4|footnotes|4">4</fn></text>
       </para>
       <para>
         <num>(5)</num>
@@ -118,8 +131,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>No sales shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No.</strong></text>
-        <text>22-45]</text>
+        <text>No sales shall be made to anyone under the age of 21 years.<fn path="|II|§281-4|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>(6)</num>
@@ -143,7 +155,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>No sales shall be made to anyone under the age of 21 years. <strong>[Amended 10-6-2022 by Ord. No. 22-45]</strong></text>
+        <text>No sales shall be made to anyone under the age of 21 years.<fn path="|II|§281-4|footnotes|6">6</fn></text>
       </para>
       <para>
         <num>(5)</num>
@@ -162,7 +174,23 @@
         <text>If a retailer refuses an inspection of the cigarette and tobacco product for the affixed Wisconsin tribal stamp or possession of vapor products, the retailer's license shall be revoked.</text>
       </para>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>4</num>
+        <text>Editor's Note: Amended 10-6-2022 by Ord. No. 22-45</text>
+      </footnote>
+      <footnote>
+        <num>5</num>
+        <text>Editor's Note: Amended 10-6-2022 by Ord. No. 22-45</text>
+      </footnote>
+      <footnote>
+        <num>6</num>
+        <text>Editor's Note: Amended 10-6-2022 by Ord. No. 22-45</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 22-45" type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -185,7 +213,7 @@
       <text>All retailers that have entered into a written agreement with the Menominee Indian Tribe of Wisconsin, approved by the Menominee Tribal Legislature, regarding the distribution of retailer's net revenues to the Menominee Indian Tribe of Wisconsin are exempt from the taxes imposed in <cite path="II|§281-5">Subsections A and B of this section</cite>.</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 22-45" type="History">Amended 10-6-2022 by Ord. No. 22-45</annotation>
     </annotations>
   </section>
   <section>

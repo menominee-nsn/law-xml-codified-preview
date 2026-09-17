@@ -4,7 +4,8 @@
   <num>594</num>
   <heading>KENOSHA TRUST LANDS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-2-2004 by Ord. No. 04-44. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 04-44" type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-2-2004 by Ord. No. 04-44</annotation>
   </annotations>
   <container cache:ref-path="III|594|I">
     <prefix>Article</prefix>
@@ -23,7 +24,7 @@
       <heading>Applicability.</heading>
       <text><cite path="|III|594">This Chapter 594</cite> shall apply to any lands owned by the United States in trust for the Menominee Indian Tribe of Wisconsin located in the City or County of Kenosha, hereinafter "Menominee Kenosha trust lands" or "trust lands."</text>
       <annotations>
-        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 23-58" type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
       </annotations>
     </section>
     <section>
@@ -352,21 +353,48 @@
           <num>(3)</num>
           <text>Loading requirements. There shall be provided at the time any building or structure is erected, enlarged, or expanded loading space in accordance with the following requirements:</text>
           <text>
-            <strong>Loading Spaces Required for Business Uses Gross Floor Area of</strong>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="2">Loading Spaces Required for Business Uses</th>
+                </tr>
+                <tr>
+                  <th>Gross Floor Area of Building (square feet)</th>
+                  <th>Minimum Loading Space Required</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Less than 7,000</td>
+                  <td>0</td>
+                </tr>
+                <tr>
+                  <td>7,001 to 10,000</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>10,001 to 25,000</td>
+                  <td>2</td>
+                </tr>
+                <tr>
+                  <td>25,001 to 50,000</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>50,001 to 100,000</td>
+                  <td>4</td>
+                </tr>
+                <tr>
+                  <td>100,001 to 250,000</td>
+                  <td>5</td>
+                </tr>
+                <tr>
+                  <td>Each additional 200,000</td>
+                  <td>1</td>
+                </tr>
+              </tbody>
+            </table>
           </text>
-          <text>
-            <strong>Building (square feet)</strong>
-          </text>
-          <text>
-            <strong>Minimum Loading Space Required</strong>
-          </text>
-          <text>Less than 7,000	0</text>
-          <text>7,001 to 10,000	1</text>
-          <text>10,001 to 25,000	2</text>
-          <text>25,001 to 50,000	3</text>
-          <text>50,001 to 100,000	4</text>
-          <text>100,001 to 250,000	5</text>
-          <text>Each additional 200,000	1</text>
         </para>
       </para>
       <para>
@@ -840,7 +868,7 @@
         </footnote>
       </footnotes>
       <annotations>
-        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 23-58" type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
       </annotations>
     </section>
     <section>
@@ -924,7 +952,7 @@
         </footnote>
       </footnotes>
       <annotations>
-        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 23-58" type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
       </annotations>
     </section>
   </container>
@@ -953,7 +981,8 @@
       <text>As used in <cite path="|III|594|II">this article</cite>, the following terms shall have the meanings indicated:</text>
       <text>APPEALS BOARD — That entity created by the Menominee Tribal Legislature to hear appeals from decisions of the Health Officer.</text>
       <text>DEPARTMENT — Menominee Tribal Environmental Services Department or any other department of the Tribe or authority charged with enforcing <cite path="|III|594|II">this article</cite>.</text>
-      <text>GROCERY STORE — A retail store whose primary business is the sale of food. HEALTH OFFICER — The Director of the Department or his or her designee.</text>
+      <text>GROCERY STORE — A retail store whose primary business is the sale of food.</text>
+      <text>HEALTH OFFICER — The Director of the Department or his or her designee.</text>
       <text>PERSON — An individual, partnership, association, firm, company, corporation, or tribal business, whether tenant, owner, lessee or licensee, or the agent, heir or assignee of any of these.</text>
       <text>REINSPECTION — A follow-up inspection conducted on a date specified by the Health Officer to verify that an ordered remedial action has been taken and to verify that the noncompliance or violation no longer exists.</text>
       <text>RESTAURANT — Any building or room where, as the establishment's primary business, meals are prepared or served or sold to transients or the general public and all places used in connection with it. "Restaurant" also means a separate dining facility meeting the foregoing criteria located within an establishment such as, but not limited to, a hotel, motel, or retail store whose primary business is not food service.</text>
@@ -1020,8 +1049,7 @@
       <prefix>§</prefix>
       <num>594-15</num>
       <heading>Inspection by Department.</heading>
-      <text>Authorized employees of the Department, upon presenting proper identification, shall have the authority and duty to enter any licensed premises during regular business hours to inspect the same, with respect to businesses open at least 40 hours per week. In the absence of regular business hours, inspection may be made at any time. Inspection includes the right to secure samples or specimens, examine and copy relevant documents and records or obtain photographic or other evidence needed to enforce <cite path="|III|594|II">this article</cite>. The person actually making inspection on behalf of the Health Officer shall have the same minimum training and certification or licensure as is required for inspectors working on behalf of the State of Wisconsin. Each establishment requiring a license under <cite path="|III|594|II">this article</cite> shall be inspected at least once every 12 months. If any violations of <cite path="|III|594|II">this article</cite> are found, the Health Officer shall issue an order for remedial action stating the nature of the violation, the remedial action that must be taken, and the date when such remedial action must</text>
-      <text>be completed. Copies of inspection reports, orders and evidence of corrective action shall be forwarded to the Kenosha County Division of Health within 30 days of receipt or issuance by the Department. Failure to comply with an order for corrective action may result in suspension or revocation of a license.</text>
+      <text>Authorized employees of the Department, upon presenting proper identification, shall have the authority and duty to enter any licensed premises during regular business hours to inspect the same, with respect to businesses open at least 40 hours per week. In the absence of regular business hours, inspection may be made at any time. Inspection includes the right to secure samples or specimens, examine and copy relevant documents and records or obtain photographic or other evidence needed to enforce <cite path="|III|594|II">this article</cite>. The person actually making inspection on behalf of the Health Officer shall have the same minimum training and certification or licensure as is required for inspectors working on behalf of the State of Wisconsin. Each establishment requiring a license under <cite path="|III|594|II">this article</cite> shall be inspected at least once every 12 months. If any violations of <cite path="|III|594|II">this article</cite> are found, the Health Officer shall issue an order for remedial action stating the nature of the violation, the remedial action that must be taken, and the date when such remedial action must be completed. Copies of inspection reports, orders and evidence of corrective action shall be forwarded to the Kenosha County Division of Health within 30 days of receipt or issuance by the Department. Failure to comply with an order for corrective action may result in suspension or revocation of a license.</text>
       <annotations/>
     </section>
     <section>
@@ -1164,7 +1192,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Sections of <cite>Chapter 100</cite>, Wisconsin Statutes, pertaining to advertising as follows: §§ 100.18(6) and (8), 100.183 and 100.184.</text>
+          <text>Sections of Chapter 100, Wisconsin Statutes, pertaining to advertising as follows: §§ 100.18(6) and (8), 100.183 and 100.184.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -1239,7 +1267,8 @@
         <text>Definitions. As used in this section, the following terms shall have the meanings indicated:</text>
         <text>ANIMAL — Any living thing that is not human or a plant and generally capable of voluntary motion or sensation.</text>
         <text>BITTEN — Seizure of any portion of a human being or another animal's anatomy by the teeth or jaws of an animal or contact of saliva from an animal with any break or abrasion of the skin of another animal or person.</text>
-        <text>CAT — Any feline animal, male or female, sexed or neutered. DOG — Any canine animal, male or female, sexed or neutered.</text>
+        <text>CAT — Any feline animal, male or female, sexed or neutered.</text>
+        <text>DOG — Any canine animal, male or female, sexed or neutered.</text>
         <text>OWN — Unless otherwise specified, to keep, harbor, or have control, charge or custody of an animal, or permit an animal to be kept, harbored or fed upon or within premises owned, leased, rented or occupied by a person, and does not require actual legal title or right to the animal.</text>
         <text>OWNER — Any person keeping, harboring or having charge or control of or permitting any animal to habitually be or remain on or be lodged or fed within buildings or land owned, leased, used or occupied by such person, irrespective of whether such person has legal title or claim to the animal. This term shall not apply to veterinarians or kennel operators temporarily maintaining on their premises animals owned by others and shall not apply to the United States of America, the Menominee Indian Tribe, or the Menominee Kenosha Gaming Authority merely by virtue of its ownership or leasehold interests in the trust lands.</text>
         <text>PERSON — Any natural person, limited liability company, corporation, or partnership.</text>
@@ -1598,7 +1627,8 @@
         <text>COMMERCIAL AREA — All areas within the trust lands.</text>
         <text>COMMERCIAL PURPOSE — The use, operation, or maintenance of any sound-amplifying equipment for the purpose of advertising any business or any goods or any services, or for the purpose of attracting the attention of the public to, or advertising for, or soliciting patronage or customers to or for any performance, show, entertainment, exhibition, or event, or for the purpose of demonstrating any such equipment.</text>
         <text>CONSTRUCTION — Any site preparation, assembly, erection, substantial repair, alteration, or similar action, but excluding demolition, for or of public or private rights-of-way, structures, utilities or similar property.</text>
-        <text>CYCLE — The complete sequence of values of a periodic quantity which occurs during a period. DAYTIME — The hours from 7:00 a.m. to 10:00 p.m.</text>
+        <text>CYCLE — The complete sequence of values of a periodic quantity which occurs during a period.</text>
+        <text>DAYTIME — The hours from 7:00 a.m. to 10:00 p.m.</text>
         <text>DECIBEL (dB) — A unit for measuring the volume of a sound, equal to 20 times the logarithm to the base 10 of the ratio of the pressure of the sound measured to reference pressure, which is 20 micropascals (20 micronewtons per square meter).</text>
         <text>DEMOLITION — The dismantling, intentional destruction or removal of structures, utilities, public or private right-of-way surfaces, or similar property.</text>
         <text>EMERGENCY — Any occurrence or set of circumstances involving actual or imminent physical trauma or property damage which demands immediate action.</text>
@@ -1624,24 +1654,24 @@
         <para>
           <num>(3)</num>
           <text>Endangers or injures personal or real property.</text>
-          <text>NONCOMMERCIAL PURPOSE — The use, operation, or maintenance of any sound-amplifying equipment for other than a commercial purpose. "Noncommercial purpose" shall mean and include, but shall not be limited to, philanthropic, political, patriotic, and charitable purpose.</text>
-          <text>PERIOD — The period of a periodic quantity is the smallest increment of time for which the function repeats itself.</text>
-          <text>PERIODIC QUANTITY — Oscillating quantity, the values of which recur for equal increments of time.</text>
-          <text>PERSON — Any individual, association, partnership, or corporation, and includes any officer, employee, department, agency or instrumentality of a state or any political subdivision of a state.</text>
-          <text>POWERED MODEL VEHICLE — Any self-propelled airborne, waterborne, or landborne plane, vessel or vehicle which is not designed to carry persons, including but not limited to any model airplane, boat, car, or rocket.</text>
-          <text>PUBLIC RIGHT-OF-WAY — Any street, avenue, boulevard, highway, sidewalk or alley or similar place designated a public right-of-way by the Tribe.</text>
-          <text>PUBLIC SPACE — Any real property or structures thereon which are designated public space by the Tribe.</text>
-          <text>PURE TONE — Any sound which can be distinctly heard as a single pitch or a set of single pitches. For the purpose of this section, a pure tone shall exist if the one-third octave band sound-pressure level in the band with the tone exceeds the arithmetic average of the sound-pressure levels of the two contiguous one-third octave bands by five dB for center frequencies of 500 Hz and above and by eight dB for center frequencies between 180 and 400 Hz and by 15 dB for center frequencies less than or equal to 125 Hz.</text>
-          <text>REAL PROPERTY BOUNDARY — An imaginary line along the ground surface, and its vertical extension, which separate the real property owned by one person from that owned by another person, but not including intra-building real property divisions.</text>
-          <text>SOUND — An oscillation in pressure, particle displacement, particle velocity or other physical parameter, in a medium with internal forces that cause compression and rarefaction of that medium. The description of sound may include any characteristic of such sound, including duration, intensity and frequency.</text>
-          <text>SOUND-AMPLIFYING EQUIPMENT — Any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios when used and heard only by the occupants of the vehicle in which the automobile radio is installed, and as used in this section shall not include warning devices on authorizing emergency vehicles used only for traffic safety, law enforcement, or authorized emergency purposes.</text>
-          <text>SOUND LEVEL — The weighted sound-pressure level obtained by the use of a sound-level meter and frequency weighting network, such as A, B, or C, as specified in American National Standards Institute specifications for sound-level meters (ANSI S1.4-1971 or the latest approved revision thereof). If the frequency weighting employed is not indicated, the A-weighting shall apply.</text>
-          <text>SOUND-LEVEL METER — An instrument which includes a microphone, amplifier, RMS detector, integrator or time averager, output meter, and weighting networks used to measure sound-pressure levels.</text>
-          <text>SOUND PRESSURE — The instantaneous difference between the actual pressure and the average or barometric pressure at a given point in space, as produced by sound.</text>
-          <text>SOUND-PRESSURE LEVEL — Twenty times the logarithm to the base 10 of the ratio of the RMS sound pressure to the reference pressure of 20 micropascals (20 x 10-6 N/m2). The sound-pressure level is denoted Lp or SPL and is expressed in decibels.</text>
-          <text>SOUND TRUCK — Any vehicle, regardless of motive power, whether in motion or stationary, having mounted thereon, or attached thereto, any sound-amplifying equipment.</text>
-          <text>WEEKDAY — Any day Monday through Friday which is not a legal holiday.</text>
         </para>
+        <aftertext>NONCOMMERCIAL PURPOSE — The use, operation, or maintenance of any sound-amplifying equipment for other than a commercial purpose. "Noncommercial purpose" shall mean and include, but shall not be limited to, philanthropic, political, patriotic, and charitable purpose.</aftertext>
+        <aftertext>PERIOD — The period of a periodic quantity is the smallest increment of time for which the function repeats itself.</aftertext>
+        <aftertext>PERIODIC QUANTITY — Oscillating quantity, the values of which recur for equal increments of time.</aftertext>
+        <aftertext>PERSON — Any individual, association, partnership, or corporation, and includes any officer, employee, department, agency or instrumentality of a state or any political subdivision of a state.</aftertext>
+        <aftertext>POWERED MODEL VEHICLE — Any self-propelled airborne, waterborne, or landborne plane, vessel or vehicle which is not designed to carry persons, including but not limited to any model airplane, boat, car, or rocket.</aftertext>
+        <aftertext>PUBLIC RIGHT-OF-WAY — Any street, avenue, boulevard, highway, sidewalk or alley or similar place designated a public right-of-way by the Tribe.</aftertext>
+        <aftertext>PUBLIC SPACE — Any real property or structures thereon which are designated public space by the Tribe.</aftertext>
+        <aftertext>PURE TONE — Any sound which can be distinctly heard as a single pitch or a set of single pitches. For the purpose of this section, a pure tone shall exist if the one-third octave band sound-pressure level in the band with the tone exceeds the arithmetic average of the sound-pressure levels of the two contiguous one-third octave bands by five dB for center frequencies of 500 Hz and above and by eight dB for center frequencies between 180 and 400 Hz and by 15 dB for center frequencies less than or equal to 125 Hz.</aftertext>
+        <aftertext>REAL PROPERTY BOUNDARY — An imaginary line along the ground surface, and its vertical extension, which separate the real property owned by one person from that owned by another person, but not including intra-building real property divisions.</aftertext>
+        <aftertext>SOUND — An oscillation in pressure, particle displacement, particle velocity or other physical parameter, in a medium with internal forces that cause compression and rarefaction of that medium. The description of sound may include any characteristic of such sound, including duration, intensity and frequency.</aftertext>
+        <aftertext>SOUND-AMPLIFYING EQUIPMENT — Any machine or device for the amplification of the human voice, music, or any other sound, but shall not include standard automobile radios when used and heard only by the occupants of the vehicle in which the automobile radio is installed, and as used in this section shall not include warning devices on authorizing emergency vehicles used only for traffic safety, law enforcement, or authorized emergency purposes.</aftertext>
+        <aftertext>SOUND LEVEL — The weighted sound-pressure level obtained by the use of a sound-level meter and frequency weighting network, such as A, B, or C, as specified in American National Standards Institute specifications for sound-level meters (ANSI S1.4-1971 or the latest approved revision thereof). If the frequency weighting employed is not indicated, the A-weighting shall apply.</aftertext>
+        <aftertext>SOUND-LEVEL METER — An instrument which includes a microphone, amplifier, RMS detector, integrator or time averager, output meter, and weighting networks used to measure sound-pressure levels.</aftertext>
+        <aftertext>SOUND PRESSURE — The instantaneous difference between the actual pressure and the average or barometric pressure at a given point in space, as produced by sound.</aftertext>
+        <aftertext>SOUND-PRESSURE LEVEL — Twenty times the logarithm to the base 10 of the ratio of the RMS sound pressure to the reference pressure of 20 micropascals (20 x 10-6 N/m2). The sound-pressure level is denoted Lp or SPL and is expressed in decibels.</aftertext>
+        <aftertext>SOUND TRUCK — Any vehicle, regardless of motive power, whether in motion or stationary, having mounted thereon, or attached thereto, any sound-amplifying equipment.</aftertext>
+        <aftertext>WEEKDAY — Any day Monday through Friday which is not a legal holiday.</aftertext>
       </para>
       <para>
         <num>B.</num>

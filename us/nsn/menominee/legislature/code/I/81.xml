@@ -4,7 +4,9 @@
   <num>81</num>
   <heading>EXECUTIVE PARDONS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-03; amended in its entirety 12-7-2023 by Ord. No. 23-57. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 23-57" type="History">Amended in its entirety 12-7-2023 by Ord. No. 23-57</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 02-03" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-22-2002 by Ord. No. 02-03</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -17,14 +19,17 @@
     <prefix>§</prefix>
     <num>81-2</num>
     <heading>Definitions.</heading>
-    <text>As used in <cite path="|I|81">this chapter</cite>, the following terms shall have the meanings indicated: FELON — A person who has been convicted by any federal or state court of a felony.</text>
+    <text>As used in <cite path="|I|81">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+    <text>FELON — A person who has been convicted by any federal or state court of a felony.</text>
     <text>FELONY — A crime identified in federal law or the laws of any of the United States as a felony.</text>
     <text>INDIAN — A person whose name appears on the official Menominee tribal roll or the roll of any other federally recognized Indian tribe.</text>
-    <text>LEGISLATURE — The Tribal Legislature, the governing body of the Tribe. MISCREANT — A person who has been convicted of a misdemeanor in Tribal Court.</text>
+    <text>LEGISLATURE — The Tribal Legislature, the governing body of the Tribe.</text>
+    <text>MISCREANT — A person who has been convicted of a misdemeanor in Tribal Court.</text>
     <text>MISDEMEANOR — A violation of a law that is included in the body of law enacted by the Legislature which carries a penalty of not more than a fine of $5,000 or one year's imprisonment, or both.</text>
     <text>PARDON — An action by the Tribal Legislature which has the legal effect of removing and completely erasing from any record of any kind an Indian's criminal conviction in the Menominee Tribal Courts of a violation of tribal law.</text>
     <text>PETITIONER — A person who files a petition for a pardon under <cite path="|I|81">this chapter</cite>.</text>
-    <text>TRIBAL COURT — Those courts established by the Legislature under Article V of the Constitution. TRIBAL LAW — That body of law enacted by the Legislature and in effect.</text>
+    <text>TRIBAL COURT — Those courts established by the Legislature under Article V of the Constitution.</text>
+    <text>TRIBAL LAW — That body of law enacted by the Legislature and in effect.</text>
     <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
@@ -42,8 +47,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Indians must have completed a five-year waiting period after all the requirements of the sentence</text>
-      <text>have been completed. If a petition is denied by the Legislature, Indians must complete an eighteen-month waiting period and have no convictions to be eligible to file another petition for pardon.</text>
+      <text>Indians must have completed a five-year waiting period after all the requirements of the sentence have been completed. If a petition is denied by the Legislature, Indians must complete an eighteen-month waiting period and have no convictions to be eligible to file another petition for pardon.</text>
     </para>
     <para>
       <num>D.</num>

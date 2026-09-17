@@ -11,7 +11,8 @@
     <num>I</num>
     <heading>Firewood</heading>
     <annotations>
-      <annotation type="History">Adopted 4-21-1981 by Ord. No. 81-8; amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-42" type="History">Amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 81-8" type="History">Adopted 4-21-1981 by Ord. No. 81-8</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -40,7 +41,7 @@
     <section cache:ref-path="II|§340-3">
       <prefix>§</prefix>
       <num>340-3</num>
-      <heading>Powers of Menominee Tribal Enterprises.<fn proof="needed" path="|II|§340-3|footnotes|1">1</fn></heading>
+      <heading>Powers of Menominee Tribal Enterprises.<fn path="|II|§340-3|footnotes|1">1</fn></heading>
       <text>The MTE Board:</text>
       <para>
         <num>A.</num>
@@ -295,7 +296,8 @@
     <num>II</num>
     <heading>Stumpage Assessment</heading>
     <annotations>
-      <annotation type="History">Adopted 7-25-2002 by Ord. No. 02-22; amended 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-42" type="History">Amended 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 02-22" type="History">Adopted 7-25-2002 by Ord. No. 02-22</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -372,7 +374,8 @@
     <num>III</num>
     <heading>Logging Practices</heading>
     <annotations>
-      <annotation type="History">Adopted 8-4-2005 by Ord. No. 05-22; amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-42" type="History">Amended in its entirety 1-21-2021 by Ord. No. 20-42</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 05-22" type="History">Adopted 8-4-2005 by Ord. No. 05-22</annotation>
     </annotations>
     <section cache:ref-path="II|§340-17">
       <prefix>§</prefix>
@@ -490,9 +493,9 @@
       <para>
         <num>C.</num>
         <text>EPHEMERAL — One that flows only in direct response to precipitation, and whose channel is at all times above the water table.</text>
-        <text>TIMBER (PRODUCT) — Any product produced from felled trees for the purpose of commercial use, including but not limited to saw logs, pulp, chips, biomass, etc.</text>
-        <text>WETLAND — An area where water is at, near or above the land surface long enough to be capable of supporting aquatic or hydrophytic (water-loving) vegetation and which has soils indicative of wet conditions. Wetlands include marshes, bogs, floodplain forests, wet meadows and low prairies (the Dictionary of Forestry: Helms, John A.; SAF 1998).</text>
       </para>
+      <aftertext>TIMBER (PRODUCT) — Any product produced from felled trees for the purpose of commercial use, including but not limited to saw logs, pulp, chips, biomass, etc.</aftertext>
+      <aftertext>WETLAND — An area where water is at, near or above the land surface long enough to be capable of supporting aquatic or hydrophytic (water-loving) vegetation and which has soils indicative of wet conditions. Wetlands include marshes, bogs, floodplain forests, wet meadows and low prairies (the Dictionary of Forestry: Helms, John A.; SAF 1998).</aftertext>
       <annotations/>
     </section>
     <section cache:ref-path="II|§340-20">

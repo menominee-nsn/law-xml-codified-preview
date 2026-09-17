@@ -4,7 +4,8 @@
   <num>420</num>
   <heading>PROFESSIONAL BOXING AND MIXED MARTIAL ARTS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-20-2022 by Ord. No. 22-51. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 22-51" type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-20-2022 by Ord. No. 22-51</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -71,8 +72,8 @@
       <para>
         <num>(3)</num>
         <text>Be made by and verified by a licensed promoter and include a statement that promoter agrees to the jurisdiction of the Tribe and its courts.</text>
-        <text>Every permit shall be conditioned on payment by the promoter to the Department, prior to the event for which the permit was issued, an event fee of $500.</text>
       </para>
+      <aftertext>Every permit shall be conditioned on payment by the promoter to the Department, prior to the event for which the permit was issued, an event fee of $500.</aftertext>
     </para>
     <para>
       <num>D.</num>
@@ -128,8 +129,7 @@
     <prefix>§</prefix>
     <num>420-7</num>
     <heading>Physician to examine professional contestants.</heading>
-    <text>In addition to any medical requirements provided by rule, prior to entering the ring, each contestant in</text>
-    <text>a professional contest must be examined by a physician who has been licensed to practice in Wisconsin not less than five years and who is appointed by the Department and certifies in writing, over his or her signature, as to the contestant's physical and mental fitness to engage in such contest.</text>
+    <text>In addition to any medical requirements provided by rule, prior to entering the ring, each contestant in a professional contest must be examined by a physician who has been licensed to practice in Wisconsin not less than five years and who is appointed by the Department and certifies in writing, over his or her signature, as to the contestant's physical and mental fitness to engage in such contest.</text>
     <annotations/>
   </section>
   <section>

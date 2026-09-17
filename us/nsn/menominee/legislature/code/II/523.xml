@@ -9,7 +9,10 @@
   <container cache:ref-path="II|523|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Tribal/Private Property [Adopted 10-3-1985 by Ord. No. 85-14]</heading>
+    <heading>Tribal/Private Property</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 85-14" type="History">Adopted 10-3-1985 by Ord. No. 85-14</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>523-1</num>
@@ -60,7 +63,10 @@
   <container cache:ref-path="II|523|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Trespassing to Hunt, Fish or Trap [Adopted 7-8-1993 by Ord. No. 93-9]</heading>
+    <heading>Trespassing to Hunt, Fish or Trap</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-9" type="History">Adopted 7-8-1993 by Ord. No. 93-9</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>523-6</num>
@@ -211,7 +217,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>In addition to the remedies set forth in <cite>Subsections A through D</cite>, the Tribal Court may revoke or suspend for a period of up to three years any or all privileges, permits or licenses pertaining to the use of the natural resources of the Reservation which may have been granted to the violator by the Tribe.</text>
+        <text>In addition to the remedies set forth in Subsections A through D, the Tribal Court may revoke or suspend for a period of up to three years any or all privileges, permits or licenses pertaining to the use of the natural resources of the Reservation which may have been granted to the violator by the Tribe.</text>
       </para>
       <annotations/>
     </section>

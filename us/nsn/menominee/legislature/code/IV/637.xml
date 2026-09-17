@@ -4,7 +4,8 @@
   <num>637</num>
   <heading>COLLEGE OF THE MENOMINEE NATION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-3-1996 by Ord. No. 96-16. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 96-16" type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-3-1996 by Ord. No. 96-16</annotation>
   </annotations>
   <container>
     <prefix>Article</prefix>
@@ -103,7 +104,7 @@
     <section cache:ref-path="IV|§637-7">
       <prefix>§</prefix>
       <num>637-7</num>
-      <heading>Participation by enrolled members of Menominee Indian Tribe.<fn proof="needed" path="|IV|§637-7|footnotes|1">1</fn></heading>
+      <heading>Participation by enrolled members of Menominee Indian Tribe.<fn path="|IV|§637-7|footnotes|1">1</fn></heading>
       <text>The Board of Directors shall call an annual business meeting for the enrolled members for the purposes of receiving reports on the operation of the College for the past year, for the appointment of a Director by the Menominee Tribal Legislature and of transacting such other business as may come before the meeting. In the event of failure, through oversight or otherwise, to hold the annual business meeting on the required date, a subsequent meeting, upon due notice, shall be held in lieu of the regularly-scheduled meeting. Any action taken at such subsequent meeting shall be as valid as if it had been taken at the regularly scheduled annual business meeting.</text>
       <footnotes>
         <footnote>
@@ -295,8 +296,7 @@
       <prefix>§</prefix>
       <num>637-22</num>
       <heading>Conflicts of interest.</heading>
-      <text>No Board member or other officer or employee shall be a party to or interested in any job or contract with the College, and any contract in which any Board member, or other officer or employee, shall be so</text>
-      <text>interested shall be null and void. In the event that any money shall have been paid on any such contract, the amount so paid may be recovered by a joint or several action from the parties to such contract and the Board member or other officer or employee interested in the same.</text>
+      <text>No Board member or other officer or employee shall be a party to or interested in any job or contract with the College, and any contract in which any Board member, or other officer or employee, shall be so interested shall be null and void. In the event that any money shall have been paid on any such contract, the amount so paid may be recovered by a joint or several action from the parties to such contract and the Board member or other officer or employee interested in the same.</text>
       <annotations/>
     </section>
     <section>
@@ -365,8 +365,7 @@
       <prefix>§</prefix>
       <num>637-29</num>
       <heading>Board of Directors to audit accounts and examine books.</heading>
-      <text>The Board of Directors shall examine, audit and adjust the accounts of the Finance Officer and all other officers and agents of the College at such times as it deems proper and also at the end of each year and before the term for which the officers of the College were appointed shall have expired; and the Board shall require all officers and agents to exhibit their books, accounts and vouchers for such examination and</text>
-      <text>settlement.</text>
+      <text>The Board of Directors shall examine, audit and adjust the accounts of the Finance Officer and all other officers and agents of the College at such times as it deems proper and also at the end of each year and before the term for which the officers of the College were appointed shall have expired; and the Board shall require all officers and agents to exhibit their books, accounts and vouchers for such examination and settlement.</text>
       <annotations/>
     </section>
     <section>

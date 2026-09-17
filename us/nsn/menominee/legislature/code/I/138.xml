@@ -4,7 +4,9 @@
   <num>138</num>
   <heading>LEASES AND MORTGAGES</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-1-2016 by Ord. No. 16-27;<fn proof="needed" path="|I|138|footnotes|1">1</fn>amended in its entirety 3-21-2019 by Ord. No. 18-38. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 18-38" type="History">Amended in its entirety 3-21-2019 by Ord. No. 18-38.</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 16-27" type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-1-2016 by Ord. No. 16-27<fn path="|I|138|footnotes|1">1</fn></annotation>
   </annotations>
   <footnotes>
     <footnote>
@@ -15,9 +17,11 @@
   <container cache:ref-path="I|138|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>HEARTH Act Leasing<fn proof="needed" path="|I|138|I|footnotes|2">2</fn></heading>
+    <heading>HEARTH Act Leasing<fn path="|I|138|I|footnotes|2">2</fn></heading>
     <annotations>
-      <annotation type="History">Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27; adopted and amended in its entirety by Ord. No. 18-38; approved by the Secretary of the Interior on 7-25-2019, published approval in Federal Register Vol. 84, No. 201, October 17, 2019</annotation>
+      <annotation type="History">Approved by the Secretary of the Interior on 7-25-2019, published approval in Federal Register Vol. 84, No. 201, October 17, 2019</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 18-38" type="History">Adopted and amended in its entirety by Ord. No. 18-38</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 16-27" type="History">Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27</annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -142,15 +146,14 @@
       <para>
         <num>B.</num>
         <text>Published in the local newspaper(s) nearest to the leased land.</text>
-        <text>DEPARTMENT — The Land Management Department; or any future reorganized and named Tribal department that has taken on the duties involving leasing of tribal lands and real estate services.</text>
-        <text>DEVELOPED LOTS — Developed lots are lots recorded by the Land Management Department in a list of available lots. Generally, although not exclusively, these lots have a certified survey, completed archaeological review, completed environment reviews, and are already approved and zoned for specific uses. Lots not on the Department's list may be placed on the list through the procedures listed in <cite path="|II|340">Chapter 340</cite>, Forest Management and Development; <cite path="|III|600">Chapter 600</cite>, Land Use and Natural Resource Plan; <cite path="|III|625">Chapter 625</cite>, Zoning; Community Development Committee Policies and Procedure, and Land Management Department's Policies and Procedure.</text>
-        <text>EXECUTING OFFICIAL — The Chairperson of the Menominee Indian Tribe of Wisconsin or his/ her designee, if properly designated, who shall have the authority to execute residential, agricultural, commercial site leases on tribal lands controlled by the Menominee Indian Tribe of Wisconsin, and take all necessary and proper action on leases, including amendments, modifications, assignments, and cancellations of leases.</text>
-        <text>FAIR ANNUAL LEASE VALUE — The amount of rental income that a leased tract of tribal land would most probably command in an open market or competitive market, or as determined by competitive bidding.</text>
-        <text>FAIR MARKET RENTAL — The amount of rental income that a leased tract of the Tribe's land would most probably command in an open and competitive market, or as determined by competitive bidding.</text>
-        <text>FAMILY UNIT — Two people legally married and recognized by tribal law, two individuals living together (meaning cohabitation as evidenced by a sworn statement on the application form), or a single adult person residing in the same household as the above, or with any biological children or legally adopted children, including tribal customary adoption, under the age of 18 years old.</text>
-        <text>JUNK — Any of the following that pose a threat to public health, safety or property rights:</text>
-        <annotations/>
       </para>
+      <aftertext>DEPARTMENT — The Land Management Department; or any future reorganized and named Tribal department that has taken on the duties involving leasing of tribal lands and real estate services.<fn path="|I|§138-5|footnotes|3">3</fn></aftertext>
+      <aftertext>DEVELOPED LOTS — Developed lots are lots recorded by the Land Management Department in a list of available lots. Generally, although not exclusively, these lots have a certified survey, completed archaeological review, completed environment reviews, and are already approved and zoned for specific uses. Lots not on the Department's list may be placed on the list through the procedures listed in <cite path="|II|340">Chapter 340</cite>, Forest Management and Development; <cite path="|III|600">Chapter 600</cite>, Land Use and Natural Resource Plan; <cite path="|III|625">Chapter 625</cite>, Zoning; Community Development Committee Policies and Procedure, and Land Management Department's Policies and Procedure.<fn path="|I|§138-5|footnotes|4">4</fn></aftertext>
+      <aftertext>EXECUTING OFFICIAL — The Chairperson of the Menominee Indian Tribe of Wisconsin or his/ her designee, if properly designated, who shall have the authority to execute residential, agricultural, commercial site leases on tribal lands controlled by the Menominee Indian Tribe of Wisconsin, and take all necessary and proper action on leases, including amendments, modifications, assignments, and cancellations of leases.</aftertext>
+      <aftertext>FAIR ANNUAL LEASE VALUE — The amount of rental income that a leased tract of tribal land would most probably command in an open market or competitive market, or as determined by competitive bidding.</aftertext>
+      <aftertext>FAIR MARKET RENTAL — The amount of rental income that a leased tract of the Tribe's land would most probably command in an open and competitive market, or as determined by competitive bidding.</aftertext>
+      <aftertext>FAMILY UNIT — Two people legally married and recognized by tribal law, two individuals living together (meaning cohabitation as evidenced by a sworn statement on the application form), or a single adult person residing in the same household as the above, or with any biological children or legally adopted children, including tribal customary adoption, under the age of 18 years old.</aftertext>
+      <aftertext>JUNK — Any of the following that pose a threat to public health, safety or property rights:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Scrap metal, glass, paper products, metal alloy, wood, perishables, debris, refuse, remnants, garbage, aluminum, steel, tires, concrete or synthetic material, including, but not limited to, tanks, barrels, cages, pallets, wire/cable, furniture, culverts, bricks, appliances, waste or bottles.</text>
@@ -166,8 +169,8 @@
       <para>
         <num>D.</num>
         <text>All parts of dismantled buildings or structures, including, but not limited to, abandoned mobile homes, manufactured homes, or other abandoned homes or structures.</text>
-        <text>JUNK HOME — Any home that is:</text>
       </para>
+      <aftertext>JUNK HOME — Any home that is:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Uninhabitable or unkempt for a period of more than 180 consecutive days;</text>
@@ -183,24 +186,24 @@
       <para>
         <num>D.</num>
         <text>Not in conformance with <cite path="|III|625">Chapter 625</cite>, Zoning, for more than 14 consecutive days.</text>
-        <text>LEASE — The lease or other written agreement for use of tribal land between the Tribe, as lessor and lessee for a specified purpose and duration. Lease agreements may relate to land or land and buildings. The lessee's right to possess will limit the Tribe's right to possess the leased premises only to the extent provided in the lease.</text>
-        <text>LEASED PREMISES — The property and improvements subject to a lease.</text>
-        <text>LEASEHOLD ESTATE — The possessory interest in the Tribe's land established pursuant to a lease between a lessor and a lessee.</text>
-        <text>LEASEHOLD INTEREST — The interest of a lessee in the lease.</text>
-        <text>LEASEHOLD MORTGAGE — A mortgage, deed of trust, or other instrument that pledges a lessee's leasehold interest as security for a debt or other obligation owed by the lessee to a lender or other mortgagee.</text>
-        <text>LEASEHOLDER — The lessee or a person to whom property is leased under a lease; one who has the right to use or occupy a property under a lease agreement.</text>
-        <text>LESSEE — A person or entity to whom property (Menominee Tribal Trust Land) is leased under a lease. One who has the right to use or occupy a property under a lease agreement, e.g., the leaseholder.</text>
-        <text>LESSOR — The Menominee Indian Tribe of Wisconsin.</text>
-        <text>LTRO — The Land Titles and Records Office is the office responsible for maintaining the Indian Land Record of Title and for examining and determining the completeness and accuracy of the records, certifying the findings of examination and reporting the status of title to Indian trust and restricted lands.</text>
-        <text>MEMBER(S) — One or more enrolled members of the Menominee Indian Tribe of Wisconsin.</text>
-        <text>MORTGAGE — A mortgage, deed of trust, security deed, or other instrument that pledges a tenant's leasehold interest as security for a debt or other obligation owed by the tenant to a lender or other mortgagee.</text>
-        <text>MORTGAGEE — Any lender approved by the Tribe to make and hold a mortgage and its successors and assigns, or any heir successor, executor, administrator, or assign therefor, under a leasehold mortgage.</text>
-        <text>MORTGAGOR — The Tribe or any person or entity who has executed a leasehold mortgage, including any heir(s), successor(s), executor(s), administrator(s) or assign(s) thereof.</text>
-        <text>NEPA — The National Environmental Policy Act of 1969, 42 U.S.C. § 4321 et seq.</text>
-        <text>PERMANENT IMPROVEMENT — Buildings, other structures, and associated infrastructure attached to the Tribe's land.</text>
-        <text>PUBLIC FOR PURPOSES OF ENVIRONMENTAL REVIEW — Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are property of the Menominee Tribe and are not public documents except for the documents required to be publicly posted in compliance with the environmental review process in <cite path="|I|138|I">this article</cite>.</text>
-        <text>PUBLIC NUISANCE — A thing, act, occupation, condition, or use of a property which continues for such length of time as to substantially annoy, injure, or endanger the comfort, health, repose, or safety of the public, or in any way render the public insecure in life or in the use of property or greatly offend the public morals or decency or unlawfully and substantially interfere with, obstruct, or tend to obstruct or render dangerous for passage any street, alley, highway, navigable waters or other public way, or the use of public property. The following is a non-exclusive list of actions that may constitute a public nuisance or, when a threat is posed to public health, safety or property rights:</text>
       </para>
+      <aftertext>LEASE — The lease or other written agreement for use of tribal land between the Tribe, as lessor and lessee for a specified purpose and duration. Lease agreements may relate to land or land and buildings. The lessee's right to possess will limit the Tribe's right to possess the leased premises only to the extent provided in the lease.</aftertext>
+      <aftertext>LEASED PREMISES — The property and improvements subject to a lease.</aftertext>
+      <aftertext>LEASEHOLD ESTATE — The possessory interest in the Tribe's land established pursuant to a lease between a lessor and a lessee.</aftertext>
+      <aftertext>LEASEHOLD INTEREST — The interest of a lessee in the lease.</aftertext>
+      <aftertext>LEASEHOLD MORTGAGE — A mortgage, deed of trust, or other instrument that pledges a lessee's leasehold interest as security for a debt or other obligation owed by the lessee to a lender or other mortgagee.</aftertext>
+      <aftertext>LEASEHOLDER — The lessee or a person to whom property is leased under a lease; one who has the right to use or occupy a property under a lease agreement.</aftertext>
+      <aftertext>LESSEE — A person or entity to whom property (Menominee Tribal Trust Land) is leased under a lease. One who has the right to use or occupy a property under a lease agreement, e.g., the leaseholder.</aftertext>
+      <aftertext>LESSOR — The Menominee Indian Tribe of Wisconsin.</aftertext>
+      <aftertext>LTRO — The Land Titles and Records Office is the office responsible for maintaining the Indian Land Record of Title and for examining and determining the completeness and accuracy of the records, certifying the findings of examination and reporting the status of title to Indian trust and restricted lands.</aftertext>
+      <aftertext>MEMBER(S) — One or more enrolled members of the Menominee Indian Tribe of Wisconsin.</aftertext>
+      <aftertext>MORTGAGE — A mortgage, deed of trust, security deed, or other instrument that pledges a tenant's leasehold interest as security for a debt or other obligation owed by the tenant to a lender or other mortgagee.</aftertext>
+      <aftertext>MORTGAGEE — Any lender approved by the Tribe to make and hold a mortgage and its successors and assigns, or any heir successor, executor, administrator, or assign therefor, under a leasehold mortgage.</aftertext>
+      <aftertext>MORTGAGOR — The Tribe or any person or entity who has executed a leasehold mortgage, including any heir(s), successor(s), executor(s), administrator(s) or assign(s) thereof.</aftertext>
+      <aftertext>NEPA — The National Environmental Policy Act of 1969, 42 U.S.C. § 4321 et seq.</aftertext>
+      <aftertext>PERMANENT IMPROVEMENT — Buildings, other structures, and associated infrastructure attached to the Tribe's land.</aftertext>
+      <aftertext>PUBLIC FOR PURPOSES OF ENVIRONMENTAL REVIEW — Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are property of the Menominee Tribe and are not public documents except for the documents required to be publicly posted in compliance with the environmental review process in <cite path="|I|138|I">this article</cite>.</aftertext>
+      <aftertext>PUBLIC NUISANCE — A thing, act, occupation, condition, or use of a property which continues for such length of time as to substantially annoy, injure, or endanger the comfort, health, repose, or safety of the public, or in any way render the public insecure in life or in the use of property or greatly offend the public morals or decency or unlawfully and substantially interfere with, obstruct, or tend to obstruct or render dangerous for passage any street, alley, highway, navigable waters or other public way, or the use of public property. The following is a non-exclusive list of actions that may constitute a public nuisance or, when a threat is posed to public health, safety or property rights:<fn path="|I|§138-5|footnotes|5">5</fn></aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Failure to keep waste, refuse or garbage in an enclosed building or properly contained in a closed container designed for such purposes;</text>
@@ -236,19 +239,19 @@
       <para>
         <num>I.</num>
         <text>Allowing exterior storage of scrap lumber, junk, trash, or other debris, including, but not limited to, discarded objects or equipment such as vehicles, furniture, appliances, litter, farm, manufacturing equipment or building materials.</text>
-        <text>QUALIFIED NON-TRIBAL MEMBER — Per Article XI, Section 2(b) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, a nonmember who is an heir or descendant of a member of the Menominee Indian Tribe who, for purposes of determining inheritance of any land use assignment, have the same status as heir or descendants who are members of the Tribe. Provided that, where a nonmember inherits the land use assignment, and notwithstanding any provision to the contrary in the land use assignment issued to the deceased member, the term of such use assignment shall be deemed to be for 25 years. The Tribal Legislature may renew such assignment for subsequent terms, each not to exceed 25 years.</text>
-        <text>RESERVATION — The land and waters within the exterior boundaries of the Menominee Indian Reservation, as determined by the Treaties of 1854 and 1856.</text>
-        <text>SECRETARY — The Secretary of the Interior or his or her delegate.</text>
-        <text>SIGNIFICANT EFFECT ON THE ENVIRONMENT — A substantial, or potentially substantial, adverse change in the environment, including land, air, water, minerals, flora, fauna, ambient noise, cultural areas and objects of historic, cultural, or aesthetic significance.</text>
-        <text>SUBLEASE — A written agreement by which the lessee grants to an individual or entity a right to possession no greater than held by the lessee under the lease and approved by the Menominee Indian Tribe of Wisconsin.</text>
-        <text>SURETY — One who guarantees the performance of another.</text>
-        <text>TRESPASS — Any unauthorized occupancy, use of, or action on the Tribe's land.</text>
-        <text>TRIBAL COURT — The Menominee Tribal Court as established by Article V of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
-        <text>TRIBAL LAND — Any tract in which the surface estate is owned by the Tribe in trust or restricted status, and includes such lands reserved for BIA administrative purposes. The term also includes the surface estate of lands held by the United States in trust for an Indian corporation chartered to the Tribe under Section 17 of the Act of June 18, 1934 (48 Stat. 988; 25 U.S.C. § 477<fn path="|I|§138-5|footnotes|3">3</fn>).</text>
-        <text>TRIBAL RECORDING CLERK — The person designated by the Tribe to perform the recording functions required by <cite path="|I|138|I">this article</cite> or any deputy or designee of such person.</text>
-        <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, December 22, 1973, P.L. 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|I|§138-5|footnotes|4">4</fn></text>
-        <text>TRUST LAND — Land within the jurisdiction of the Tribe:</text>
       </para>
+      <aftertext>QUALIFIED NON-TRIBAL MEMBER — Per Article XI, Section 2(b) of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, a nonmember who is an heir or descendant of a member of the Menominee Indian Tribe who, for purposes of determining inheritance of any land use assignment, have the same status as heir or descendants who are members of the Tribe. Provided that, where a nonmember inherits the land use assignment, and notwithstanding any provision to the contrary in the land use assignment issued to the deceased member, the term of such use assignment shall be deemed to be for 25 years. The Tribal Legislature may renew such assignment for subsequent terms, each not to exceed 25 years.</aftertext>
+      <aftertext>RESERVATION — The land and waters within the exterior boundaries of the Menominee Indian Reservation, as determined by the Treaties of 1854 and 1856.</aftertext>
+      <aftertext>SECRETARY — The Secretary of the Interior or his or her delegate.</aftertext>
+      <aftertext>SIGNIFICANT EFFECT ON THE ENVIRONMENT — A substantial, or potentially substantial, adverse change in the environment, including land, air, water, minerals, flora, fauna, ambient noise, cultural areas and objects of historic, cultural, or aesthetic significance.</aftertext>
+      <aftertext>SUBLEASE — A written agreement by which the lessee grants to an individual or entity a right to possession no greater than held by the lessee under the lease and approved by the Menominee Indian Tribe of Wisconsin.</aftertext>
+      <aftertext>SURETY — One who guarantees the performance of another.</aftertext>
+      <aftertext>TRESPASS — Any unauthorized occupancy, use of, or action on the Tribe's land.</aftertext>
+      <aftertext>TRIBAL COURT — The Menominee Tribal Court as established by Article V of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</aftertext>
+      <aftertext>TRIBAL LAND — Any tract in which the surface estate is owned by the Tribe in trust or restricted status, and includes such lands reserved for BIA administrative purposes. The term also includes the surface estate of lands held by the United States in trust for an Indian corporation chartered to the Tribe under Section 17 of the Act of June 18, 1934 (48 Stat. 988; 25 U.S.C. § 477<fn path="|I|§138-5|footnotes|6">6</fn>).</aftertext>
+      <aftertext>TRIBAL RECORDING CLERK — The person designated by the Tribe to perform the recording functions required by <cite path="|I|138|I">this article</cite> or any deputy or designee of such person.</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, December 22, 1973, P.L. 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|I|§138-5|footnotes|7">7</fn></aftertext>
+      <aftertext>TRUST LAND — Land within the jurisdiction of the Tribe:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Title to which is held by the United States or any state for the benefit of the Tribe; or</text>
@@ -256,8 +259,8 @@
       <para>
         <num>B.</num>
         <text>That is subject to restrictions against alienation imposed by federal treaty, statute, or executive order.</text>
-        <text>TRUST OR RESTRICTED STATUS —</text>
       </para>
+      <aftertext>TRUST OR RESTRICTED STATUS —</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>That the United States holds title to the tract or interest in trust for the benefit of the Tribe; or</text>
@@ -265,13 +268,13 @@
       <para>
         <num>B.</num>
         <text>That the Tribe holds title to the tract, but can alienate or encumber it only with the approval of the United States because of limitations in the conveyance instruments under federal law or limitations in federal law.</text>
-        <text>UNLAWFUL CONDUCT — Any action which is in violation of Tribal laws, ordinances, regulations, and Constitution, and any applicable federal laws.</text>
-        <text>UNLAWFUL DETAINER ACTION — A suit brought before the Tribal Court to terminate a tenant's interest in real property and/or to evict any person from occupancy of real property.</text>
-        <text>VIOLATION — A failure to take an action, including payment of compensation, when required by the lease, or otherwise not comply with a term of the lease. This definition applies for purpose of enforcement of a lease under <cite path="|I|138|I">this article</cite> no matter how "violation" or "default" is defined in the lease.</text>
-        <text>WASTE — Spoilage, damage or destruction of land, buildings, gardens, trees or other improvements beyond normal wear and tear on the mortgaged property which results in substantial injury to such property.</text>
-        <text>WHEDA — The Wisconsin Housing and Economic Development Authority, an approved lender and mortgagee under <cite path="|I|138|I">this article</cite>.</text>
-        <text>WRIT OF RESTITUTION — An order of the Tribal Court:</text>
       </para>
+      <aftertext>UNLAWFUL CONDUCT — Any action which is in violation of Tribal laws, ordinances, regulations, and Constitution, and any applicable federal laws.</aftertext>
+      <aftertext>UNLAWFUL DETAINER ACTION — A suit brought before the Tribal Court to terminate a tenant's interest in real property and/or to evict any person from occupancy of real property.</aftertext>
+      <aftertext>VIOLATION — A failure to take an action, including payment of compensation, when required by the lease, or otherwise not comply with a term of the lease. This definition applies for purpose of enforcement of a lease under <cite path="|I|138|I">this article</cite> no matter how "violation" or "default" is defined in the lease.</aftertext>
+      <aftertext>WASTE — Spoilage, damage or destruction of land, buildings, gardens, trees or other improvements beyond normal wear and tear on the mortgaged property which results in substantial injury to such property.</aftertext>
+      <aftertext>WHEDA — The Wisconsin Housing and Economic Development Authority, an approved lender and mortgagee under <cite path="|I|138|I">this article</cite>.</aftertext>
+      <aftertext>WRIT OF RESTITUTION — An order of the Tribal Court:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Restoring an owner or lessor or the Secretary to possession of real property; and</text>
@@ -283,15 +286,27 @@
       <footnotes>
         <footnote>
           <num>3</num>
-          <text>Editor's Note: 25 U.S.C. § 477 was transferred to 25 U.S.C. § 5124 by P.L. 101–301, May 24, 1990, 104 Stat. 206.</text>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
         </footnote>
         <footnote>
           <num>4</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: 25 U.S.C. § 477 was transferred to 25 U.S.C. § 5124 by P.L. 101–301, May 24, 1990, 104 Stat. 206.</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
           <text>Editor's Note: P.L. 93-197, § 2, Dec. 22, 1973, 87 Stat. 770, providing definitions, was omitted pursuant to editorial reclassification of provisions of Title 25, Chapters 14 and 19, United States Code.</text>
         </footnote>
       </footnotes>
       <annotations>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
       </annotations>
     </section>
     <section>
@@ -588,11 +603,11 @@
         <text>Residential leases.</text>
         <para>
           <num>(1)</num>
-          <text>A one-acre limit will be set for residential leases. However, the Land Management Department shall require lots to be surveyed at the applicant's expense for lots that are not already surveyed, platted, and recorded by the Department; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+          <text>A one-acre limit will be set for residential leases. However, the Land Management Department shall require lots to be surveyed at the applicant's expense for lots that are not already surveyed, platted, and recorded by the Department;<fn path="|I|§138-11|footnotes|8">8</fn></text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The lessee must have and provide to the Land Management Department proof of ownership of permanent or any physical improvements on the land; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+          <text>The lessee must have and provide to the Land Management Department proof of ownership of permanent or any physical improvements on the land;<fn path="|I|§138-11|footnotes|9">9</fn></text>
         </para>
         <para>
           <num>(3)</num>
@@ -655,7 +670,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>The Land Management Department shall keep written records of the basis used in determining the fair annual lease value as well as the basis for adjustments. These records shall be presented to the lessee for its review and acceptance or non-acceptance and included in the lease file. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+            <text>The Land Management Department shall keep written records of the basis used in determining the fair annual lease value as well as the basis for adjustments. These records shall be presented to the lessee for its review and acceptance or non-acceptance and included in the lease file.<fn path="|I|§138-11|footnotes|10">10</fn></text>
           </para>
         </para>
         <para>
@@ -795,7 +810,23 @@
           </para>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -989,9 +1020,17 @@
       </para>
       <para>
         <num>C.</num>
-        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing.<fn path="|I|§138-19|footnotes|11">11</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>11</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1023,9 +1062,17 @@
       </para>
       <para>
         <num>C.</num>
-        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>For leases held by Departments, Land Management shall create a policy between the leaseholder department, Finance and itself to allow for internal billing.<fn path="|I|§138-20|footnotes|12">12</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1037,11 +1084,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Site availability. The Land Management Department shall maintain a list of property that has been approved for development. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Site availability. The Land Management Department shall maintain a list of property that has been approved for development.<fn path="|I|§138-21|footnotes|13">13</fn></text>
       </para>
       <para>
         <num>C.</num>
-        <text>Requirements. The Land Management Department shall obtain the following information on the lease application: <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Requirements. The Land Management Department shall obtain the following information on the lease application:<fn path="|I|§138-21|footnotes|14">14</fn></text>
         <para>
           <num>(1)</num>
           <text>Any other name(s) used by the applicant;</text>
@@ -1084,7 +1131,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Upon payment of the application fee, the application will be processed by the Land Management Department and appropriate committee, and sent to the Tribal Legislature for approval through the legislative ordinance process. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+          <text>Upon payment of the application fee, the application will be processed by the Land Management Department and appropriate committee, and sent to the Tribal Legislature for approval through the legislative ordinance process.<fn path="|I|§138-21|footnotes|15">15</fn></text>
         </para>
       </para>
       <para>
@@ -1103,7 +1150,23 @@
         <num>I.</num>
         <text>Lease approval. Once the lease application is complete, the Department staff will draft a standard lease per the requirements in <cite path="|I|138|I">this article</cite>. The Department staff will send the proposed lease to the Community Development Committee for review. The Committee will approve or deny the lease per their bylaws. Committee-approved leases will be prepared by the Department and sent to the Legislature for final approval through the ordinance process.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1149,9 +1212,17 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Other exceptions may be made on a case-by-case basis with the discretion of the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Other exceptions may be made on a case-by-case basis with the discretion of the Land Management Department.<fn path="|I|§138-24|footnotes|16">16</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>16</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1217,13 +1288,21 @@
       <text>The Tribe shall have all powers necessary and proper to enforce lease terms, laws, ordinances, regulations, rules, policies, and covenants.</text>
       <para>
         <num>A.</num>
-        <text>Determination of violation and notification. If the Land Management Department determines, either through routine inspection or upon submittal of a written complaint to the department, that the leaseholder is in violation of the lease, the Land Management Department shall notify the leaseholder of said violation within a reasonable time. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Determination of violation and notification. If the Land Management Department determines, either through routine inspection or upon submittal of a written complaint to the department, that the leaseholder is in violation of the lease, the Land Management Department shall notify the leaseholder of said violation within a reasonable time.<fn path="|I|§138-28|footnotes|17">17</fn></text>
       </para>
       <para>
         <num>B.</num>
         <text>Notice shall be mailed to the leaseholder's last known address.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>17</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1232,17 +1311,29 @@
       <text>Within 30 days of notification of the violation, the lessee shall:</text>
       <para>
         <num>A.</num>
-        <text>Cure the violation, and notify the Land Management Department, in writing, that the violation has been cured; <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Cure the violation, and notify the Land Management Department, in writing, that the violation has been cured;<fn path="|I|§138-29|footnotes|18">18</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>Dispute, in writing, the Land Management Department's determination that the lease has not been violated, and explain why the lease should not be cancelled; or <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Dispute, in writing, the Land Management Department's determination that the lease has not been violated, and explain why the lease should not be cancelled; or<fn path="|I|§138-29|footnotes|19">19</fn></text>
       </para>
       <para>
         <num>C.</num>
         <text>Request additional time to cure the lease violation.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>18</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>19</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1270,7 +1361,7 @@
         <text>Pursue any other remedies that may be available.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
       </annotations>
     </section>
     <section>
@@ -1341,7 +1432,7 @@
         <text>Notify the leaseholder that all property of the leaseholder must be removed (including mobile and manufactured homes, junk, waste, garbage or refuse), and that the property must be left in good condition free of junk and public nuisances, or the leaseholder will be charged for cleanup and disposal of any property, junk or public nuisances left behind.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
       </annotations>
     </section>
     <section>
@@ -1380,7 +1471,7 @@
         <text>The acceptable forms of payment are cash, check or money order.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
       </annotations>
     </section>
     <section>
@@ -1389,7 +1480,7 @@
       <heading>Annual or lease term fee accounting procedure.</heading>
       <para>
         <num>A.</num>
-        <text>On an annual basis, the yearly or term lease fee charges will be entered by Finance and provided to Land Management Department with the statement/invoice. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>On an annual basis, the yearly or term lease fee charges will be entered by Finance and provided to Land Management Department with the statement/invoice.<fn path="|I|§138-35|footnotes|20">20</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -1399,7 +1490,15 @@
         <num>C.</num>
         <text>In the event a check for a lease fee payment is returned for insufficient funds or closed accounts, a service fee will be charged. If the leaseholder then fails to pay the appropriate lease fee, penalty fees and service fees, in accordance with the Menominee Indian Tribe of Wisconsin Accounting Procedures, the lease will be cancelled.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>20</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1407,11 +1506,11 @@
       <heading>Notice of fee payments.</heading>
       <para>
         <num>A.</num>
-        <text>The Land Management Department will mail the annual or term lease fee notice to each individual leaseholder at the last known address on file. A reminder is attached to each statement/invoice regarding the penalty if the lease fee is not paid on time. A copy of the statement/invoice is kept on file in the Department. <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+        <text>The Land Management Department will mail the annual or term lease fee notice to each individual leaseholder at the last known address on file. A reminder is attached to each statement/invoice regarding the penalty if the lease fee is not paid on time. A copy of the statement/invoice is kept on file in the Department.<fn path="|I|§138-36|footnotes|21">21</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>Land Management shall notify leaseholders by U.S. mail of fee payments due as follows: <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+        <text>Land Management shall notify leaseholders by U.S. mail of fee payments due as follows:<fn path="|I|§138-36|footnotes|22">22</fn></text>
         <para>
           <num>(1)</num>
           <text>The first notice shall be mailed to leaseholder's last known address 60 days prior to the lease fees being due.</text>
@@ -1423,9 +1522,25 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The final notice shall be mailed to the leaseholder's last known address 15 days after the due date specified in the lease. In addition, Land Management shall place an ad in the Menominee Nation News as a reminder that lease fees are due. <strong>[Amended 11-19-2020 by Ord. No 20-37]</strong></text>
+        <text>The final notice shall be mailed to the leaseholder's last known address 15 days after the due date specified in the lease. In addition, Land Management shall place an ad in the Menominee Nation News as a reminder that lease fees are due.<fn path="|I|§138-36|footnotes|23">23</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>21</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>22</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>23</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1437,7 +1552,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Lease payments, except by leaseholders eligible for extensions due to a catastrophic event, not received in the Land Management Department by 4:00 p.m. on the last working day of the month the fees are due, shall result in cancellation of the lease. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>Lease payments, except by leaseholders eligible for extensions due to a catastrophic event, not received in the Land Management Department by 4:00 p.m. on the last working day of the month the fees are due, shall result in cancellation of the lease.<fn path="|I|§138-37|footnotes|24">24</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -1445,7 +1560,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The Land Management Department shall prepare a list of delinquent leaseholders and submit such list for ordinance cancellation by the Menominee Tribal Legislature. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The Land Management Department shall prepare a list of delinquent leaseholders and submit such list for ordinance cancellation by the Menominee Tribal Legislature.<fn path="|I|§138-37|footnotes|25">25</fn></text>
       </para>
       <para>
         <num>E.</num>
@@ -1463,7 +1578,19 @@
         <num>H.</num>
         <text>Before a leaseholder can reapply or be approved for any future lease, the individual must pay any back lease fees and penalties owed to the Menominee Indian Tribe of Wisconsin.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>24</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>25</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1511,7 +1638,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>After recording at the appropriate register of deeds, the original document will be kept on file in the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>After recording at the appropriate register of deeds, the original document will be kept on file in the Land Management Department.<fn path="|I|§138-39|footnotes|26">26</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -1519,13 +1646,25 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The original documents and request to record at LTRO will be mailed by certified mail. The original recorded document shall be kept on file in the Land Management Department. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The original documents and request to record at LTRO will be mailed by certified mail. The original recorded document shall be kept on file in the Land Management Department.<fn path="|I|§138-39|footnotes|27">27</fn></text>
       </para>
       <para>
         <num>E.</num>
         <text>Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are the property of the Tribe.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>26</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>27</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1534,11 +1673,11 @@
       <text>The recording of documents for leasehold mortgages shall be done as follows:</text>
       <para>
         <num>A.</num>
-        <text>The Land Management Department shall maintain a system for the recording of leasehold mortgages and such other documents as the Tribe may designate by law or resolution. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The Land Management Department shall maintain a system for the recording of leasehold mortgages and such other documents as the Tribe may designate by law or resolution.<fn path="|I|§138-40|footnotes|28">28</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>The Land Management Department shall endorse, upon any leasehold mortgage or other document received for recording, the date and time of receipt of the leasehold mortgage or other document, the filing number, to be assigned by the Land Management Department, which shall be a unique number for each leasehold mortgage or other document received, and the name of the staff member receiving the leasehold mortgage or document. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The Land Management Department shall endorse, upon any leasehold mortgage or other document received for recording, the date and time of receipt of the leasehold mortgage or other document, the filing number, to be assigned by the Land Management Department, which shall be a unique number for each leasehold mortgage or other document received, and the name of the staff member receiving the leasehold mortgage or document.<fn path="|I|§138-40|footnotes|29">29</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -1546,7 +1685,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The Land Management Department shall maintain the copy in the records of the recording system and shall return the original of the leasehold mortgage or other document to the person or entity that presented the same for recording. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The Land Management Department shall maintain the copy in the records of the recording system and shall return the original of the leasehold mortgage or other document to the person or entity that presented the same for recording.<fn path="|I|§138-40|footnotes|30">30</fn></text>
       </para>
       <para>
         <num>E.</num>
@@ -1578,13 +1717,33 @@
       </para>
       <para>
         <num>F.</num>
-        <text>The certified copies of the leasehold mortgages and other documents and the log maintained by the Land Management Department shall be made available for public inspection and copying, upon receiving notice of approval of appropriate tribal records release request. <strong>[Amended 11-19-2020 by Ord. No. 20-37]</strong></text>
+        <text>The certified copies of the leasehold mortgages and other documents and the log maintained by the Land Management Department shall be made available for public inspection and copying, upon receiving notice of approval of appropriate tribal records release request.<fn path="|I|§138-40|footnotes|31">31</fn></text>
       </para>
       <para>
         <num>G.</num>
         <text>All documents recorded under this section shall also be recorded with the Bureau of Indian Affairs in accordance with its recording procedures and with the Register of Deeds of the county where located.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>28</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>29</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>30</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+        <footnote>
+          <num>31</num>
+          <text>Editor's Note: Amended 11-19-2020 by Ord. No. 20-37</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1592,7 +1751,7 @@
       <heading>Tract index and map.</heading>
       <text>The Land Management Department shall maintain a filing system and map, which provides for a chronological history of leased tribal land within the boundaries of the Menominee Indian Reservation. Pertinent leases, cancellations, and other necessary documents shall be placed into this filing system.</text>
       <annotations>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-37" type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
       </annotations>
     </section>
     <section>
@@ -1803,7 +1962,7 @@
   <container cache:ref-path="I|138|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Leasehold Mortgage Regulations<fn proof="needed" path="|I|138|II|footnotes|5">5</fn></heading>
+    <heading>Leasehold Mortgage Regulations<fn path="|I|138|II|footnotes|32">32</fn></heading>
     <section>
       <prefix>§</prefix>
       <num>138-54</num>
@@ -2130,13 +2289,12 @@
       <prefix>§</prefix>
       <num>138-62</num>
       <heading>Tri-party agreement.</heading>
-      <text>In order to be eligible for certain loan programs, the Menominee Indian Tribe may enter into tri-party agreements between the Tribe, Fannie Mae and lending institutions. The terms of any such tri-party agreement, which is listed below, shall be incorporated into <cite path="|I|138|II">this article</cite> by reference and the terms of those agreements are enforceable against the Tribe in Menominee Tribal Court under Article XVIII, Sovereign</text>
-      <text>Immunity of the Constitution and Bylaws of the Tribe. The Tri-party agreement between Menominee Indian Tribe, Fannie Mae and Associated Mortgage, Inc., entered into on or about August 30, 2000, is on file at the office of the Administrative Manager.</text>
+      <text>In order to be eligible for certain loan programs, the Menominee Indian Tribe may enter into tri-party agreements between the Tribe, Fannie Mae and lending institutions. The terms of any such tri-party agreement, which is listed below, shall be incorporated into <cite path="|I|138|II">this article</cite> by reference and the terms of those agreements are enforceable against the Tribe in Menominee Tribal Court under Article XVIII, Sovereign Immunity of the Constitution and Bylaws of the Tribe. The Tri-party agreement between Menominee Indian Tribe, Fannie Mae and Associated Mortgage, Inc., entered into on or about August 30, 2000, is on file at the office of the Administrative Manager.</text>
       <annotations/>
     </section>
     <footnotes>
       <footnote>
-        <num>5</num>
+        <num>32</num>
         <text>Editor's Note: Previously Art. III, Leasehold Mortgage Regulations and Eviction Procedures, adopted 7-1-1999 by Ord. No. 99-10, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. III, Leasehold Mortgage Regulations and Eviction Procedures, did not change and became Art. VII, Leasehold Mortgage Regulations, in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|II">this article</cite> except for renumbering.</text>
       </footnote>
     </footnotes>
@@ -2144,7 +2302,7 @@
   <container cache:ref-path="I|138|III">
     <prefix>Article</prefix>
     <num>III</num>
-    <heading>Tribal Mortgage Lending<fn proof="needed" path="|I|138|III|footnotes|6">6</fn></heading>
+    <heading>Tribal Mortgage Lending<fn path="|I|138|III|footnotes|33">33</fn></heading>
     <section>
       <prefix>§</prefix>
       <num>138-63</num>
@@ -2478,7 +2636,7 @@
     </section>
     <footnotes>
       <footnote>
-        <num>6</num>
+        <num>33</num>
         <text>Editor's Note: Previously Art. IV, Tribal Mortgage Lending, adopted 10-19-2006 by Ord. No. 06-28, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. IV, Tribal Mortgage Lending, did not change and became Art. VIII in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|III">this article</cite> except for renumbering.</text>
       </footnote>
     </footnotes>
@@ -2486,7 +2644,7 @@
   <container cache:ref-path="I|138|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Leasehold Mortgage FHA Section 248 Eviction Procedures<fn proof="needed" path="|I|138|IV|footnotes|7">7</fn></heading>
+    <heading>Leasehold Mortgage FHA Section 248 Eviction Procedures<fn path="|I|138|IV|footnotes|34">34</fn></heading>
     <section>
       <prefix>§</prefix>
       <num>138-69</num>
@@ -2534,22 +2692,19 @@
       <num>138-75</num>
       <heading>Interpretation; sovereign immunity.</heading>
       <text>In their interpretation and application, the provisions of <cite path="|I|138|IV">this article</cite> shall be held to be minimum requirements and shall be liberally construed in favor of the Tribe and shall not be deemed a limitation or repeal of any other Tribal power or authority. The Tribe's sovereign immunity is not waived or affected hereby.</text>
-      <text>
-        <strong>3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|IV">this article</cite> except for renumbering.</strong>
-      </text>
       <annotations/>
     </section>
     <footnotes>
       <footnote>
-        <num>7</num>
-        <text>Editor's Note: Previously Art. I, Eviction Procedures, adopted 6-25-1992 by Ord. No. 92-09, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. I, Eviction Procedures, did not change and became Art. IX, Leasehold Mortgage FHA Section 248 Eviction Procedures in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on</text>
+        <num>34</num>
+        <text>Editor's Note: Previously Art. I, Eviction Procedures, adopted 6-25-1992 by Ord. No. 92-09, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. I, Eviction Procedures, did not change and became Art. IX, Leasehold Mortgage FHA Section 248 Eviction Procedures in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|IV">this article</cite> except for renumbering.</text>
       </footnote>
     </footnotes>
   </container>
   <container cache:ref-path="I|138|V">
     <prefix>Article</prefix>
     <num>V</num>
-    <heading>Veterans Leasehold Mortgage<fn proof="needed" path="|I|138|V|footnotes|8">8</fn></heading>
+    <heading>Veterans Leasehold Mortgage<fn path="|I|138|V|footnotes|35">35</fn></heading>
     <section>
       <prefix>§</prefix>
       <num>138-76</num>
@@ -2571,8 +2726,8 @@
       <para>
         <num>B.</num>
         <text>To assign such lease to the Secretary or the Secretary's assignee.</text>
-        <text>SECRETARY — The Secretary of the United States Department of Veterans Affairs (VA) or designee.</text>
       </para>
+      <aftertext>SECRETARY — The Secretary of the United States Department of Veterans Affairs (VA) or designee.</aftertext>
       <annotations/>
     </section>
     <section>
@@ -2856,7 +3011,7 @@
     </section>
     <footnotes>
       <footnote>
-        <num>8</num>
+        <num>35</num>
         <text>Editor's Note: Previously Art. II, Veterans Leasehold Mortgages, adopted 7-7-1994 by Ord. No. 94-09, in <cite path="|I|138">Ch. 138</cite>, Leases and Mortgages. <cite path="|I|138">Chapter 138</cite> was amended in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27, but the substantive language of the previous named Art. I, Eviction Procedures, did not change and became Art. IX, Leasehold Mortgage FHA Section 248 Eviction Procedures, in the newly amended <cite path="|I|138">Ch. 138</cite>. <cite path="|I|138">Chapter 138</cite> was amended in its entirety on 3-21-2019 by Ord. No. 18-38; no amendments were made to <cite path="|I|138|V">this article</cite> except for renumbering.</text>
       </footnote>
     </footnotes>

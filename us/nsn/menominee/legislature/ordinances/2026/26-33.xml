@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Menominee Tribal Legislature Ord. No. 26-33" codify:doc="Code of the Menominee Indian Tribe">
+  <num>26-33</num>
+  <heading>Amendment to the Code of Menominee Indian Tribe of Wisconsin Chapter 105 — “Historical Acts Board”</heading>
+  <meta>
+    <stub/>
+    <effective>2026-08-20</effective>
+    <citations>
+      <citation type="ord" url="./adopted/26-33.pdf">Ord. 26-33</citation>
+    </citations>
+    <history>
+      <adopted>2026-08-20</adopted>
+    </history>
+  </meta>
+  <codify:replace path="|I|105|105-4" codified:doc="Code of the Menominee Indian Tribe" codified:path="I|§105-4">
+    <section>
+      <prefix>§</prefix>
+      <num>105-4</num>
+      <heading>Board created; membership; terms of office.</heading>
+      <para>
+        <num>A.</num>
+        <text>Creation. There is hereby created a Historical Acts Board.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Members. The Board shall consist of seven members. Two members of the Menominee Tribal Legislature and two community members shall be appointed by Menominee Tribal Legislature, a UNITY member as is referenced in <cite path="§105-4|I" doc="Menominee Tribal Legislature Ord. No. 26-33">paragraph I below</cite>, and the remaining members of the Historical Acts Board Members include the Language and Culture Director, and the Education Director.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Term. The term of the two legislative members shall be for one year, and the term of the remaining community members shall be appointed in staggered terms, one community member at two years and remaining community member at one year.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Qualifications. To be considered for appointment to the Board, all potential candidates must be:</text>
+        <para>
+          <num>(1)</num>
+          <text>An enrolled member of the Tribe; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>18 years of age or older, except for the UNITY member listed below in <cite path="§105-4|I" doc="Menominee Tribal Legislature Ord. No. 26-33">paragraph I below</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Appointment.</text>
+        <para>
+          <num>(1)</num>
+          <text>On the second Monday in January of each year the Tribal Chairperson's office shall solicit letters of interest from those who are qualified and who would like to serve on the Board. Such solicitation notice shall be advertised at least once in the Menominee Nation News and posted in accordance with the Posting Procedures (<cite path="|I|177" doc="Menominee Tribal Legislature Ord. No. 26-33">Chapter 177</cite>). The solicitation shall remain open for a minimum of 30 calendar days.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>At the end of the solicitation period, the Tribal Chairperson shall verify the age, enrollment and address of the applicant to ensure that he/she meets the qualifications specified above.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Members of the Legislature who would like to serve on the Board are encouraged to submit a letter of interest; however, if the Tribal Chairperson does not receive letters of interest from members of the Legislature, he/she may nominate up to two members of the Legislature to serve on the Board.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If, at the end of the solicitation period, the number of applicants is less than the number needed to fill the vacancies on the Board, the Legislature shall reopen the solicitation in increments of 15 calendar days.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>At the second regular meeting of the Legislature in February, subject to reasonable time delays caused by any solicitation reopening, the Tribal Chairperson shall present a list of qualifying applicants and his/her two Legislative nominees. The Legislature shall, by open vote or secret ballot, appoint the requisite number of applicants to the Board and may appoint the Tribal Chairperson's nominees to the Board or select other legislative members.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>For the initial appointment to the Board, the Legislature shall appoint the initial Board members at the regular meeting following adoption of <cite path="|I|105" doc="Menominee Tribal Legislature Ord. No. 26-33">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Term extensions. A Board member's expiring term shall be automatically extended if the Legislature has not filled the Board member's position. Such extended term shall immediately end once the Legislature fills the vacancy.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Removal. Any member of the Board may be removed by a majority vote of the Legislature if the member violates the code of ethical conduct or misses three or more consecutive unexcused regular meetings of the Board.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Limitation on Board Membership. A person who is not enrolled in the Menominee Tribe may not serve on the Board. In the event an employee identified as a member of the Board is not enrolled with the Menominee Tribe, the Tribal Chairperson may nominate an alternate employee who is enrolled in the Tribe.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>A Menominee Youth Council (UNITY) representative, as a non-voting member, may be appointed by the Legislature for a term of one year, to coincide with the Legislative committee appointments.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>

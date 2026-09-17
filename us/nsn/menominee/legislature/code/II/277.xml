@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|277">
+  <prefix>Chapter</prefix>
+  <num>277</num>
+  <heading>CEMETERIES</heading>
+  <annotations>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 21-10" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-18-2021 by Ord. No. 21-10</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>277-1</num>
+    <heading>Purpose and Policy.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Menominee Indian Tribe of Wisconsin enacts this chapter for the purpose of recognizing and protecting tribal, traditional, private, and closed cemeteries and governing the recordkeeping of burial plots within the exterior boundaries of the Menominee Indian Reservation, exercising authority and responsibility over tribal and traditional cemeteries, that would include governing the sale, transfer and recordkeeping of burial plots, and establishing who is eligible for interment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Menominee Nation Cemetery in Middle Village was developed, in part, to honor the agreement between Menominee Indian Tribe and the St. Michael’s Church in 1987. In honor of that agreement, the policy of the Tribe is to allow the Menominee Nation Cemetery to be ‘open to anyone’, including any local church affiliates.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-2</num>
+    <heading>Definitions.</heading>
+    <text>CLOSED CEMETERY — means a cemetery that contains occupied burial plots and has no available burial plots available for new occupants or is no longer being used for burials.</text>
+    <text>IMMEDIATE FAMILY — means, for the purposes of this Chapter, a tribal members’:</text>
+    <para>
+      <num>1.</num>
+      <text>biological (or, if applicable, legally or customarily adopted) father, mother, sister, brother, child, grandchild, grandparent;</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>legal father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law; and</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>legal stepfather, stepmother, stepbrother, stepsister, and stepchildren; legally married spouse.</text>
+    </para>
+    <aftertext>CUSTOMARY ADOPTION — means a traditional tribal practice recognized by the community, for purposes of this Chapter.</aftertext>
+    <aftertext>DEBRIS — means anything broken, weathered, or materials left over after the construction of a structure and not in its proper location.</aftertext>
+    <aftertext>LOCAL CHURCH AFFILIATE — means an individual that is a non-tribal member but has an affiliation with a church located within the exterior boundaries of the Menominee Indian Reservation.</aftertext>
+    <aftertext>PRIVATE CEMETERY — means a cemetery that is managed and maintained by a non-governmental entity, like a church, located within the exterior boundaries of the Menominee Indian Reservation.</aftertext>
+    <aftertext>REPATRIATION — means any aspect of the return of human remains or funerary objects associated with Native American burial sites as described in the 1990 federal law titled, the "Native American Graves Protection and Repatriation Act.</aftertext>
+    <aftertext>REPATRIATION CEMETERY — means the cemetery located near Crow Settlement Road that is used exclusively for the burial of repatriated remains and funerary object.</aftertext>
+    <aftertext>SPOUSE — means the husband or wife. For purposes of this chapter this definition shall include a common law husband or wife of a Tribal member whose marriage took place in a jurisdiction recognizing common law marriages.</aftertext>
+    <aftertext>TRADITIONAL CEMETERY — means a cemetery that is managed by the Historic Preservation Officer and located within the exterior boundaries of the Menominee Indian Reservation.</aftertext>
+    <aftertext>TRIBE or TRIBAL — means the Menominee Indian Tribe of Wisconsin.</aftertext>
+    <aftertext>TRIBAL CEMETERY — means a cemetery that is managed and maintained by the Menominee Indian Tribe through its Community Development Department and Land Management Department.</aftertext>
+    <aftertext>TRIBAL HISTORIC PRESERVATION OFFICER — means the person delegated by the Menominee Tribal Legislature according to Chapter 293.</aftertext>
+    <aftertext>TRIBAL MEMBER — means:</aftertext>
+    <para>
+      <num proof="done">1.</num>
+      <text>those persons of one quarter (1/4) degree Menominee Indian blood whose names appear on the tribal roll compiled pursuant to subsection 4(c) of the Menominee Restoration Act (87 Sta.771), and</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>those persons who possess at least one-quarter (1/4) degree Menominee Indian blood, and who are descendants of persons enrolled on the tribal membership roll compiled pursuant to subsection 4(c) of the Menominee Restoration Act (87 Stat. 771). And who are enrolled on the official tribal roll in accordance with procedures established by the Tribal Legislature by ordinance.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-3</num>
+    <heading>Adoption, Amendment, Severability, and Repealer.</heading>
+    <para>
+      <num>A.</num>
+      <text>This Chapter shall be become effective six months from approval by the Menominee Tribal Legislature. This six month period will allow Tribal department’s delegated authority in this Chapter to establish procedures for the implementation of this Chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Amendments to this Chapter will be promulgated through the Menominee Community Development Committee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If any provision of this Chapter is held invalid by an appropriate court of law, the remainder of this chapter, or the application of the provision to other persons or circumstances, is not affected.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>This Chapter shall repeal Ordinance 10-36 Menominee Nation Cemetery.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-4</num>
+    <heading>Tribal Cemeteries.</heading>
+    <para>
+      <num>A.</num>
+      <text>There are two tribal cemeteries: The Menominee Nation Cemetery, near Middle Village, and the St. Joseph’s Cemetery near St. Joseph’s Church in South Branch.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Maintenance of these tribal cemeteries shall be performed or monitored by the Community Development Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Management of the record keeping for these cemeteries shall be performed by the Land Management Department.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>All interments must be enclosed in an outer container/vault of stone, concrete, steel or synthetic material approved for burial purposes. This is required so that no contaminants are leeched into the surrounding water tables.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Tribal members, their immediate family and any local church affiliates may be buried in these tribal cemeteries.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Family members of the deceased shall be responsible for maintenance of monuments, markers, and grave site items. All debris shall be placed in trash containers where provided or removed from the cemetery by the family.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Regulations for purchasing and fees for burial plots in tribal cemeteries will be set by a recommendation from the Community Development Committee and approved by motion of the Menominee Tribal Legislature. These will become effective 5 days after approval.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-5</num>
+    <heading>Traditional Cemeteries.</heading>
+    <para>
+      <num>A.</num>
+      <text>There are seven publicly recognized tribal cemeteries: Traditional Cemetery at Camp 33, Traditional Cemetery at Crowe Settlement, Traditional Cemetery in Compartment 223, Traditional Cemetery within the Menominee Nation Cemetery, Traditional Cemetery at Neconish Settlement, Traditional Cemetery in Zoar and the St Anthony’s Traditional Cemetery adjacent on the east side of St. Anthony’s Cemetery near Neopit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Management of record keeping of these traditional cemeteries shall be performed by the Tribal Historic Preservation Officer and the Land Management Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal members and their immediate family may be buried in these traditional cemeteries.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Families using burial sites in traditional cemeteries will adhere to traditional burial practices.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>There are small existing home and family burial sites that are considered traditional cemeteries but are not publicly known. These traditional cemeteries are also managed by the Tribal Historic Preservation Officer and Land Management Department.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-6</num>
+    <heading>Private Cemeteries.</heading>
+    <para>
+      <num>A.</num>
+      <text>There are four private cemeteries: St. Michael’s Cemetery, West Branch Cemetery and St. Anthony’s Cemetery and Rest Haven Cemetery.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These are managed and maintained by non-governmental entities.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All interments must be enclosed in an outer container/vault of stone, concrete, steel or synthetic material approved for burial purposes. This is required so that no contaminants are leeched into the surrounding water tables.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>These non-governmental entities determine their own regulations for their private cemeteries that include; cost of burial plots, size of monuments, who has access to their burial plots, etc.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>These non-governmental entitles will provide an annual report to the Menominee Indian Tribe Land Management Department that will include their contact person who is managing and maintaining the private cemetery and an updated map of occupied and unoccupied burials plots.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-7</num>
+    <heading>Repatriation Cemetery.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Repatriation Cemetery is located near Crow Settlement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Repatriation Cemetery is managed by the Tribal Historic Preservation Officer and the Land Management Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It is used exclusively for those repatriated human remains and funerary objects are returned from museums, education institutions, and private collectors to the Tribe in accordance with the policies and procedures established under Native American Graves Protection and Repatriation Act (NAGPRA, 1990).</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-8</num>
+    <heading>Monuments, Flush Markers and Spirit Houses at Burial Sites.</heading>
+    <para>
+      <num>A.</num>
+      <text>Face of monument or flush marker must be located in the direction of the deceased burial site.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Monuments, flush markers, and spirit houses shall be placed fully within the burial plot and shall not be located closer than one foot to the burial plot line.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-9</num>
+    <heading>Interments/Burial Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>The cost of Interments/Burial will be the responsibility of the family of the deceased.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-10</num>
+    <heading>Cremated Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>Cremated remains may be scattered within the boundaries of the Menominee Reservation at reasonable locations for the proper scattering of cremated remains. However, no permanent markers will be allowed at these locations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Under no circumstances shall cremated remains be scattered above ground on burial plots.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If cremated remains will be buried on an existing burial plot, the proper manager of that cemetery shall be notified.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cremated remains shall be placed in a specially designed urn and interred into the burial plot purchased for such purpose.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-11</num>
+    <heading>Administration and Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Community Development Department, Tribal Historic Preservation Officer, and Land Management Department shall work together to see that the provisions of this Chapter are carried out according to their established policy and procedures and they may enter into agreements with person(s) or entities for the purpose of carrying out those duties.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The departments delegated with administration and authority over this Chapter shall meet annually to review applicable policies and procedures, and any active agreements with person(s) or entities.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>277-12</num>
+    <heading>Protection of Cemeteries.</heading>
+    <para>
+      <num>A.</num>
+      <text>Cemeteries are devoted to the sacred burial of the deceased. They shall be afforded the proper protection and respect due them. These protections include:</text>
+      <para>
+        <num>(1)</num>
+        <text>No recreational usage of any kind on cemetery grounds.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No business or political advertising allowed in, around or near any Cemetery grounds.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All visitors’ vehicles shall remain on designated roadways and parking areas.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All visitors shall remain on pathways where available.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Visitors shall not remove, cut, deface or destroy anything considered cemetery property.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>There shall be a 75 foot buffer maintained around all cemeteries for any proposed developments or land disturbances.</text>
+    </para>
+    <annotations/>
+  </section>
+</container>

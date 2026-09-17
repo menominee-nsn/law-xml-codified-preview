@@ -4,7 +4,8 @@
   <num>652</num>
   <heading>ECONOMIC DEVELOPMENT AUTHORITY</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-31. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 09-31" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-31</annotation>
     <annotation type="General References">Investment Plan — See <cite path="|I|111">Ch. 111</cite>.</annotation>
     <annotation type="General References">Economic Development Corporation — See <cite path="|IV|641">Ch. 641</cite>.</annotation>
     <annotation type="General References">Commission on Economic Affairs — See <cite path="|IV|650">Ch. 650</cite>.</annotation>
@@ -30,14 +31,15 @@
     <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
     <text>FELONY — Any state or federal crime where the punishment exceeds one year of imprisonment, or any crime under the laws of a federally recognized Indian tribe, which is comparable in nature to such a state or federal crime.</text>
     <text>GAAP — Generally accepted accounting principles.</text>
-    <text>NET REVENUE — All revenues of MIEDA from whatever source after subtracting the cost of sales. TRIBE — Menominee Indian Tribe of Wisconsin.</text>
+    <text>NET REVENUE — All revenues of MIEDA from whatever source after subtracting the cost of sales.</text>
+    <text>TRIBE — Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section>
     <prefix>§</prefix>
     <num>652-4</num>
     <heading>Powers.</heading>
-    <text>MIEDA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to conduct, manage, oversee, and operate any nongaming commercial activity for the purposes listed in <cite doc="Charter of the Menominee Indian Tribe" path="|652|§652-2">§ 652-2 of this Charter</cite>. MIEDA is specifically authorized and empowered to:</text>
+    <text>MIEDA shall have all the powers of a chartered tribal business pursuant to Article XIII of the Menominee Constitution and all powers necessary to conduct, manage, oversee, and operate any nongaming commercial activity for the purposes listed in <cite doc="Charter of the Menominee Indian Tribe" path="|IV|652|§652-2">§ 652-2 of this Charter</cite>. MIEDA is specifically authorized and empowered to:</text>
     <para>
       <num>A.</num>
       <text>Acquire property in its own name and to pledge, mortgage, lease, or otherwise encumber interests in such property as security for debts, and to acquire, sell, lease, exchange, transfer, or assign personal property or interests therein;</text>
@@ -313,8 +315,7 @@
     <prefix>§</prefix>
     <num>652-7</num>
     <heading>Assets.</heading>
-    <text>MIEDA's assets shall consist of all revenues, earnings and proceeds of the same and whatever other assets it develops, generates or acquires by other means, including through borrowing. Notwithstanding the foregoing, for purposes of clarification and the avoidance of doubt, upon transfer of funds or property from the accounts of MIEDA to the general funds or other accounts of the Tribe in compliance with all contractual restrictions applicable to MIEDA, such funds shall cease to be assets of MIEDA without the</text>
-    <text>requirement of further act or deed.</text>
+    <text>MIEDA's assets shall consist of all revenues, earnings and proceeds of the same and whatever other assets it develops, generates or acquires by other means, including through borrowing. Notwithstanding the foregoing, for purposes of clarification and the avoidance of doubt, upon transfer of funds or property from the accounts of MIEDA to the general funds or other accounts of the Tribe in compliance with all contractual restrictions applicable to MIEDA, such funds shall cease to be assets of MIEDA without the requirement of further act or deed.</text>
     <annotations/>
   </section>
   <section>

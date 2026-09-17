@@ -11,7 +11,8 @@
     <num>I</num>
     <heading>Rafting</heading>
     <annotations>
-      <annotation type="History">Adopted 8-7-1980 by Ord. No. 80-13; amended in its entirety 6-19-2014 by Ord. No. 14-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 14-07" type="History">Amended in its entirety 6-19-2014 by Ord. No. 14-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 80-13" type="History">Adopted 8-7-1980 by Ord. No. 80-13</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -48,7 +49,8 @@
       <text>KAYAK — A portable one- or two-person canoe-like boat, with one or two small openings in the center, propelled by a double-bladed paddle.</text>
       <text>KAYAK WRISTBAND — See "wristband."</text>
       <text>LIABILITY INSURANCE — Public liability insurance adequate to protect the rafting outfitter and the Tribe against risks of damages for personal injury, including death, or for damage to property which may arise pursuant to rafting operations.</text>
-      <text>LICENSEE(S) — See "outfitters." OPERATOR(S) — See "outfitters."</text>
+      <text>LICENSEE(S) — See "outfitters."</text>
+      <text>OPERATOR(S) — See "outfitters."</text>
       <text>OUTFITTER(S) — Any person, partnership, corporation, or other organization, or any combination thereof, duly authorized and licensed by the Menominee Indian Tribe and operating within the Menominee Indian Reservation, which for monetary profit or gain provides or rents whitewater craft or equipment for use in whitewater expeditions on any river, portion of rivers, or waters of the Reservation.</text>
       <text>PARTICIPANT — See "rafter/kayaker."</text>
       <text>PERSONAL FLOTATION DEVICE (PFD) — A buoyant life preserver designed to save a person from drowning by buoying up the body. Specific PFD requirements and descriptions for Article I are as described in <cite path="§268-9">§ 268-9</cite> B.</text>
@@ -140,11 +142,34 @@
       <para>
         <num>A.</num>
         <text>The condition of the river and action steps shall be based on water flow taken at the Langlade gauging site. Flow rate with appropriate action steps are shown on the following table:</text>
-        <text>Flow Rate	Action Steps</text>
-        <text>400 cubic feet per second	At water flow of 400 cfs and above, all rafters shall be required to wear personal flotation devices and helmets.</text>
-        <text>600 cubic feet per second	Watch conditions: Water flow must be closely monitored for rising water levels.</text>
-        <text>700 cubic feet per second	Warning conditions: Rafters shall be warned of serious conditions. Outfitters shall stress the importance to rafters to keep life jackets and helmets on at all times. No person under the age of 18 shall be allowed to raft the designated lower zone of the Wolf River.</text>
-        <text>900 cubic feet per second	Dangerous conditions: Rafting shall not be allowed within the boundaries of the Menominee Indian Reservation.</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Flow Rate</th>
+                <th>Action Steps</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>400 cubic feet per second</td>
+                <td>At water flow of 400 cfs and above, all rafters shall be required to wear personal flotation devices and helmets.</td>
+              </tr>
+              <tr>
+                <td>600 cubic feet per second</td>
+                <td>Watch conditions: Water flow must be closely monitored for rising water levels.</td>
+              </tr>
+              <tr>
+                <td>700 cubic feet per second</td>
+                <td>Warning conditions: Rafters shall be warned of serious conditions. Outfitters shall stress the importance to rafters to keep life jackets and helmets on at all times. No person under the age of 18 shall be allowed to raft the designated lower zone of the Wolf River.</td>
+              </tr>
+              <tr>
+                <td>900 cubic feet per second</td>
+                <td>Dangerous conditions: Rafting shall not be allowed within the boundaries of the Menominee Indian Reservation.</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
       </para>
       <para>
         <num>B.</num>
@@ -692,7 +717,8 @@
     <num>II</num>
     <heading>Boating</heading>
     <annotations>
-      <annotation type="History">Adopted 9-13-2001 by Ord. No. 01-16; amended in its entirety 6-19-2014 by Ord. No. 14-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 14-07" type="History">Amended in its entirety 6-19-2014 by Ord. No. 14-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 01-16" type="History">Adopted 9-13-2001 by Ord. No. 01-16</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>

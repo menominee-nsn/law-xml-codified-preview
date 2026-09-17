@@ -4,7 +4,8 @@
   <num>465</num>
   <heading>RECYCLING</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-19-2019 by Ord. No. 19-26. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 19-26" type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-19-2019 by Ord. No. 19-26</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -53,26 +54,27 @@
     <para>
       <num>C.</num>
       <text>Consists of rigid materials shaped to hold and cushion the packaged article in a shipping container.</text>
-      <text>GLASS CONTAINER — A glass bottle, jar or other packaging container used to contain a product that is the subject of a retail sale and does not include ceramic cups, dishes, ovenware, plate glass, safety and window glass, heat-resistant glass such as pyrex, lead-based glass such as crystal, or TV tubes.</text>
-      <text>HDPE — High-density polyethylene plastic containers marked by the SPI code No. 2.</text>
-      <text>KESHENA TRANSFER SITE — The transfer facility located on Transfer Site Road, where enrolled members of the Menominee Indian Tribe of Wisconsin may deliver their household waste for transfer.</text>
-      <text>LDPE — Low-density polyethylene plastic containers marked by the SPI code No. 4. MAGAZINES — Magazines and other materials printed on similar paper.</text>
-      <text>MAJOR APPLIANCE — A residential or commercial air conditioner, furnace, boiler, dehumidifier, water heater, clothes dryer, clothes washer, dishwasher, freezer, microwave oven, oven, refrigerator or stove.</text>
-      <text>MULTIPLE-FAMILY DWELLING — A property containing five or more residential units, including those which are occupied seasonally.</text>
-      <text>NEWSPAPER — A newspaper and other materials printed on newsprint.</text>
-      <text>NONRESIDENTIAL FACILITIES AND PROPERTIES — Commercial, retail, industrial, institutional and governmental facilities and properties. This term does not include multiple-family dwellings.</text>
-      <text>OFFICE PAPER — High-grade printing and writing papers from offices in nonresidential facilities and properties. Printed white ledger and computer printout are examples of office paper generally accepted as high grade. This term does not include industrial process waste.</text>
-      <text>OTHER RESINS or MULTIPLE RESINS — Plastic containers labeled by the SPI code No.7.</text>
-      <text>PERSON — Includes any individual, corporation, partnership, association, local governmental unit, state agency or authority or federal agency. For purposes of <cite path="|II|465">this chapter</cite> "local governmental unit" shall mean a political subdivision of the State of Wisconsin, a special-purpose district in the State of Wisconsin, an agency or corporation of a political subdivision or special-purpose district, or a combination or subunit of any of the foregoing.</text>
-      <text>PETE or PET — Polyethylene terephthalate plastic containers marked by the SPI code No. 1.</text>
-      <text>PLASTIC CONTAINER — An individual, separate, rigid plastic bottle, can, jar or carton, except for a blister pack, that is originally used to contain a product that is the subject of a retail sale.</text>
-      <text>POSTCONSUMER WASTE — Solid waste other than solid waste generated in the production of goods, hazardous waste, waste from construction and demolition of structures, scrap automobiles, or high-volume industrial waste, which means fly ash, bottom ash, paper mill sludge or foundry process waste. For purposes of <cite path="|II|465">this chapter</cite> "hazardous waste" shall mean U.S. Environmental Protection Agency under Section 6921(b) of the Resource Conservation and Recovery Act.</text>
-      <text>PP — Polypropylene plastic containers marked by the SPI code No. 5. PS — Polystyrene plastic containers marked by the SPI code No. 6.</text>
-      <text>PVC — Polyvinyl chloride plastic containers marked by the SPI code No. 3.</text>
-      <text>RECYCLABLE MATERIALS — Includes lead acid batteries; major appliances; waste oil; yard waste; aluminum containers; corrugated paper or other container board; foam polystyrene packaging; glass containers; magazines; newspaper; office paper; plastic containers, including those made of PETE, HDPE, PVC, LDPE, PP, PS and mixed or other plastic resin types; steel containers; waste tires; and bimetal containers.</text>
-      <text>RESERVATION — The Menominee Indian Reservation.</text>
-      <text>SOLID WASTE — Any garbage, refuse, sludge from a waste treatment plant, or air pollution control facility, and other discarded or salvageable materials, including solid, liquid, semisolid, or contained gaseous materials resulting from industrial, commercial, mining, and agricultural operations, and from community activities. Solid waste does not include:</text>
     </para>
+    <aftertext>GLASS CONTAINER — A glass bottle, jar or other packaging container used to contain a product that is the subject of a retail sale and does not include ceramic cups, dishes, ovenware, plate glass, safety and window glass, heat-resistant glass such as pyrex, lead-based glass such as crystal, or TV tubes.</aftertext>
+    <aftertext>HDPE — High-density polyethylene plastic containers marked by the SPI code No. 2.</aftertext>
+    <aftertext>KESHENA TRANSFER SITE — The transfer facility located on Transfer Site Road, where enrolled members of the Menominee Indian Tribe of Wisconsin may deliver their household waste for transfer.</aftertext>
+    <aftertext>LDPE — Low-density polyethylene plastic containers marked by the SPI code No. 4.</aftertext>
+    <aftertext>MAGAZINES — Magazines and other materials printed on similar paper.</aftertext>
+    <aftertext>MAJOR APPLIANCE — A residential or commercial air conditioner, furnace, boiler, dehumidifier, water heater, clothes dryer, clothes washer, dishwasher, freezer, microwave oven, oven, refrigerator or stove.</aftertext>
+    <aftertext>MULTIPLE-FAMILY DWELLING — A property containing five or more residential units, including those which are occupied seasonally.</aftertext>
+    <aftertext>NEWSPAPER — A newspaper and other materials printed on newsprint.</aftertext>
+    <aftertext>NONRESIDENTIAL FACILITIES AND PROPERTIES — Commercial, retail, industrial, institutional and governmental facilities and properties. This term does not include multiple-family dwellings.</aftertext>
+    <aftertext>OFFICE PAPER — High-grade printing and writing papers from offices in nonresidential facilities and properties. Printed white ledger and computer printout are examples of office paper generally accepted as high grade. This term does not include industrial process waste.</aftertext>
+    <aftertext>OTHER RESINS or MULTIPLE RESINS — Plastic containers labeled by the SPI code No.7.</aftertext>
+    <aftertext>PERSON — Includes any individual, corporation, partnership, association, local governmental unit, state agency or authority or federal agency. For purposes of <cite path="|II|465">this chapter</cite> "local governmental unit" shall mean a political subdivision of the State of Wisconsin, a special-purpose district in the State of Wisconsin, an agency or corporation of a political subdivision or special-purpose district, or a combination or subunit of any of the foregoing.</aftertext>
+    <aftertext>PETE or PET — Polyethylene terephthalate plastic containers marked by the SPI code No. 1.</aftertext>
+    <aftertext>PLASTIC CONTAINER — An individual, separate, rigid plastic bottle, can, jar or carton, except for a blister pack, that is originally used to contain a product that is the subject of a retail sale.</aftertext>
+    <aftertext>POSTCONSUMER WASTE — Solid waste other than solid waste generated in the production of goods, hazardous waste, waste from construction and demolition of structures, scrap automobiles, or high-volume industrial waste, which means fly ash, bottom ash, paper mill sludge or foundry process waste. For purposes of <cite path="|II|465">this chapter</cite> "hazardous waste" shall mean U.S. Environmental Protection Agency under Section 6921(b) of the Resource Conservation and Recovery Act.</aftertext>
+    <aftertext>PP — Polypropylene plastic containers marked by the SPI code No. 5. PS — Polystyrene plastic containers marked by the SPI code No. 6.</aftertext>
+    <aftertext>PVC — Polyvinyl chloride plastic containers marked by the SPI code No. 3.</aftertext>
+    <aftertext>RECYCLABLE MATERIALS — Includes lead acid batteries; major appliances; waste oil; yard waste; aluminum containers; corrugated paper or other container board; foam polystyrene packaging; glass containers; magazines; newspaper; office paper; plastic containers, including those made of PETE, HDPE, PVC, LDPE, PP, PS and mixed or other plastic resin types; steel containers; waste tires; and bimetal containers.</aftertext>
+    <aftertext>RESERVATION — The Menominee Indian Reservation.</aftertext>
+    <aftertext>SOLID WASTE — Any garbage, refuse, sludge from a waste treatment plant, or air pollution control facility, and other discarded or salvageable materials, including solid, liquid, semisolid, or contained gaseous materials resulting from industrial, commercial, mining, and agricultural operations, and from community activities. Solid waste does not include:</aftertext>
     <para>
       <num proof="done">A.</num>
       <text>Solids or dissolved materials in domestic sewage;</text>
@@ -83,7 +85,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Industrial discharges which are point sources subject to permits under Wisconsin Statute <cite>Chapter 283</cite> or the National Pollution Discharge Elimination System (NPDES);</text>
+      <text>Industrial discharges which are point sources subject to permits under Wisconsin Statute Chapter 283 or the National Pollution Discharge Elimination System (NPDES);</text>
     </para>
     <para>
       <num>D.</num>

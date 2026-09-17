@@ -4,7 +4,8 @@
   <num>630</num>
   <heading>AUTO SERVICE CENTER</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-21-1996 by Ord. No. 96-24. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 96-24" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-21-1996 by Ord. No. 96-24</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -24,13 +25,15 @@
     <prefix>§</prefix>
     <num>630-3</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of this Charter, the following terms shall have the following meanings: CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
+    <text>For the purpose of this Charter, the following terms shall have the following meanings:</text>
+    <text>CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
     <text>MASC — The Menominee Auto Service Center, a tribal business enterprise chartered by the Tribal Legislature to direct the auto service center of the Tribe.</text>
     <text>MASC PERSONAL PROPERTY — The tribal personal property, including cash, dedicated for use by MASC by virtue of this Charter.</text>
-    <text>SUBJECT PROPERTY — The present facilities, the personal property, and such additional assets as are obtained by MASC pursuant to <cite doc="Charter of the Menominee Indian Tribe" path="|630|§630-6">§ 630-6 of this Charter</cite>.</text>
+    <text>SUBJECT PROPERTY — The present facilities, the personal property, and such additional assets as are obtained by MASC pursuant to <cite doc="Charter of the Menominee Indian Tribe" path="|IV|630|§630-6">§ 630-6 of this Charter</cite>.</text>
     <text>TRIBAL LEGISLATURE — The tribal governing body elected pursuant to Section 3, Article IV of the Constitution.</text>
     <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
-    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section cache:ref-path="IV|§630-4">
@@ -54,12 +57,12 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Qualifications. To be considered for appointment as manager, a candidate must exhibit an understanding of business principles and have training or education and experience in auto mechanics, mechanical technology or equivalent manufacturing industry experience. <strong>[Amended 8-24-2000]</strong></text>
+        <text>Qualifications. To be considered for appointment as manager, a candidate must exhibit an understanding of business principles and have training or education and experience in auto mechanics, mechanical technology or equivalent manufacturing industry experience.<fn path="|IV|§630-4|footnotes|2">2</fn></text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Conflicts of interest prohibited. In carrying out the duties of MASC, neither the manager nor any agent or employee of MASC shall make or participate in making decisions which involve balancing a substantial personal interest, financial or otherwise, other than interests held in common by all tribal members.<fn path="|IV|§630-4|footnotes|2">2</fn></text>
+      <text>Conflicts of interest prohibited. In carrying out the duties of MASC, neither the manager nor any agent or employee of MASC shall make or participate in making decisions which involve balancing a substantial personal interest, financial or otherwise, other than interests held in common by all tribal members.<fn path="|IV|§630-4|footnotes|3">3</fn></text>
     </para>
     <para>
       <num>E.</num>
@@ -84,10 +87,16 @@
       </footnote>
       <footnote>
         <num>2</num>
+        <text>Editor's Note: Amended 8-24-2000</text>
+      </footnote>
+      <footnote>
+        <num>3</num>
         <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
       </footnote>
     </footnotes>
-    <annotations/>
+    <annotations>
+      <annotation type="History">Amended 8-24-2000</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -102,7 +111,7 @@
     <heading>Assets.</heading>
     <para>
       <num>A.</num>
-      <text>Initial assets. The initial assets of MASC shall consist of MASC personal property described by and incorporated herein by reference into this Charter as Exhibit "A."<fn path="|IV|§630-6|footnotes|3">3</fn></text>
+      <text>Initial assets. The initial assets of MASC shall consist of MASC personal property described by and incorporated herein by reference into this Charter as Exhibit "A."<fn path="|IV|§630-6|footnotes|4">4</fn></text>
     </para>
     <para>
       <num>B.</num>
@@ -114,7 +123,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>3</num>
+        <num>4</num>
         <text>Editor's Note: Exhibit "A" is on file at the office of the Tribal Chairperson.</text>
       </footnote>
     </footnotes>
@@ -133,7 +142,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>An inventory control system, including an inventory of property taken as of the last day of business of each fiscal year of MASC, shall be established;<fn path="|IV|§630-7|footnotes|4">4</fn></text>
+        <text>An inventory control system, including an inventory of property taken as of the last day of business of each fiscal year of MASC, shall be established;<fn path="|IV|§630-7|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>(3)</num>
@@ -170,7 +179,7 @@
     </para>
     <footnotes>
       <footnote>
-        <num>4</num>
+        <num>5</num>
         <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
       </footnote>
     </footnotes>

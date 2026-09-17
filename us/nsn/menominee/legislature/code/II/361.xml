@@ -23,7 +23,10 @@
   <container cache:ref-path="II|361|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Hazardous Materials Transportation [Adopted 6-2-1994 by Ord. No. 94-03]</heading>
+    <heading>Hazardous Materials Transportation</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-03" type="History">Adopted 6-2-1994 by Ord. No. 94-03</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>361-2</num>
@@ -75,12 +78,14 @@
       <para>
         <num>B.</num>
         <text>Any agency or instrumentality of the federal government in accessing civil and criminal fines and injunctive relief set forth in <cite path="§361-8">§ 361-8</cite>.</text>
-        <text>QUALIFIED TRIBAL EMPLOYEE — A Menominee tribal employee authorized by the Tribe to inspect vehicles, drivers, documents, equipment, loads or cargo.</text>
-        <text>RESEARCH AND SPECIAL PROGRAMS ADMINISTRATION (RSPA) — The DOT agency that administers HMTUSA.</text>
-        <text>RESERVATION — All land within the exterior boundaries of the Menominee Indian Reservation and other lands held in trust by the United States for the Menominee Indian Tribe of Wisconsin or any of its members.</text>
-        <text>TRANSPORTATION — Any movement of property by any mode and loading or unloading. TRANSPORTER — A person engaged in transportation and storage incidental thereto.</text>
-        <text>TRIBAL LEGISLATURE — The Legislature of the Menominee Indian Tribe of Wisconsin. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
       </para>
+      <aftertext>QUALIFIED TRIBAL EMPLOYEE — A Menominee tribal employee authorized by the Tribe to inspect vehicles, drivers, documents, equipment, loads or cargo.</aftertext>
+      <aftertext>RESEARCH AND SPECIAL PROGRAMS ADMINISTRATION (RSPA) — The DOT agency that administers HMTUSA.</aftertext>
+      <aftertext>RESERVATION — All land within the exterior boundaries of the Menominee Indian Reservation and other lands held in trust by the United States for the Menominee Indian Tribe of Wisconsin or any of its members.</aftertext>
+      <aftertext>TRANSPORTATION — Any movement of property by any mode and loading or unloading.</aftertext>
+      <aftertext>TRANSPORTER — A person engaged in transportation and storage incidental thereto.</aftertext>
+      <aftertext>TRIBAL LEGISLATURE — The Legislature of the Menominee Indian Tribe of Wisconsin.</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin.</aftertext>
       <annotations/>
     </section>
     <section cache:ref-path="II|§361-5">
@@ -307,7 +312,7 @@
         <text>Presentation of documents. A driver of a vehicle transporting a hazardous material on a highway shall present upon request to a qualified tribal employee all documents required by <cite path="|II|361|II">this article</cite> to be in his possession.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 10-17-2013 by Ord. No. 13-39</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-39" type="History">Amended 10-17-2013 by Ord. No. 13-39</annotation>
       </annotations>
     </section>
     <section>
@@ -427,7 +432,10 @@
   <container cache:ref-path="II|361|III">
     <prefix>Article</prefix>
     <num>III</num>
-    <heading>Resource Conservation and Recovery [Adopted 8-18-1994 by Ord. No. 94-12]</heading>
+    <heading>Resource Conservation and Recovery</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-12" type="History">Adopted 8-18-1994 by Ord. No. 94-12</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>361-10</num>
@@ -548,7 +556,10 @@
   <container cache:ref-path="II|361|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Storage Tanks for Flammable Liquids [Adopted 11-18-1999 by Ord. No. 99-27]</heading>
+    <heading>Storage Tanks for Flammable Liquids</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-27" type="History">Adopted 11-18-1999 by Ord. No. 99-27</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>361-17</num>
@@ -560,7 +571,10 @@
   <container cache:ref-path="II|361|V">
     <prefix>Article</prefix>
     <num>V</num>
-    <heading>Liquefied Petroleum Gases [Adopted 8-24-2000 by Ord. No. 00-08]</heading>
+    <heading>Liquefied Petroleum Gases</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 00-08" type="History">Adopted 8-24-2000 by Ord. No. 00-08</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>361-18</num>
@@ -603,7 +617,8 @@
       <text>QUALIFIED TRIBAL INSPECTOR — A person authorized by the Tribe (the Environmental Services Department) responsible for approving equipment, installations or procedures.</text>
       <text>RESERVATION — All land within the exterior boundaries of the Menominee Indian Reservation and other lands held in trust by the United States for the Menominee Indian Tribe of Wisconsin or any of its members.</text>
       <text>SECONDHAND VESSEL — A pressure vessel that has changed location subsequent to the original installation.</text>
-      <text>TRIBAL LEGISLATURE — The Legislature of the Menominee Indian Tribe of Wisconsin. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBAL LEGISLATURE — The Legislature of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
       <footnotes>
         <footnote>
           <num>4</num>
@@ -755,7 +770,7 @@
     <section cache:ref-path="II|§361-29">
       <prefix>§</prefix>
       <num>361-29</num>
-      <heading>Violations and penalties.<fn proof="needed" path="|II|§361-29|footnotes|9">9</fn></heading>
+      <heading>Violations and penalties.<fn path="|II|§361-29|footnotes|9">9</fn></heading>
       <text>Any person, firm, association or corporation who or which violates any standard, rule or regulation adopted by the Tribe or issues a false installation statement will be fined not less than $25 nor more than $100 and/ or imprisoned not less than 30 days nor more than six months.</text>
       <footnotes>
         <footnote>
@@ -776,7 +791,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>National Fire Protection Association, 11 Tracy Drive, Avon, MA 02322-9908. National Fuel Gas Code, NFPA No. 54-1996; Liquefied Petroleum Gas Code, NFPA No. 58-1998; Recreational Vehicles, NFPA No. 1192-1999, <cite>Chapter 2</cite>, Fuel Systems and Equipment.</text>
+        <text>National Fire Protection Association, 11 Tracy Drive, Avon, MA 02322-9908. National Fuel Gas Code, NFPA No. 54-1996; Liquefied Petroleum Gas Code, NFPA No. 58-1998; Recreational Vehicles, NFPA No. 1192-1999, Chapter 2, Fuel Systems and Equipment.</text>
       </para>
       <para>
         <num>C.</num>

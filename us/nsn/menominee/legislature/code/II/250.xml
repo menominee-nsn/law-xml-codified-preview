@@ -13,13 +13,14 @@
     <num>I</num>
     <heading>Alcoholic Beverage Control</heading>
     <annotations>
-      <annotation type="History">Adopted 12-20-1979 by Ord. No. 79-31; amended in its entirety 5-21-2020 by Ord. No. 20-10</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-10" type="History">Amended in its entirety 5-21-2020 by Ord. No. 20-10</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 79-31" type="History">Adopted 12-20-1979 by Ord. No. 79-31</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
       <num>250-1</num>
       <heading>Incorporation of state law.</heading>
-      <text>Pursuant to applicable federal law, including 25 U.S.C.A. § 1302 and 18 U.S.C. § 1161, which requires that tribal regulation of liquor on Indian reservations be in conformity with the laws of the state in which the reservation is located, the Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law <cite>Ch. 125</cite>, Wis. Stats., as amended from time to time, substituting where necessary the Tribe and is agents and agencies for the state and its agents, agencies or subdivisions.</text>
+      <text>Pursuant to applicable federal law, including 25 U.S.C.A. § 1302 and 18 U.S.C. § 1161, which requires that tribal regulation of liquor on Indian reservations be in conformity with the laws of the state in which the reservation is located, the Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law Ch. 125, Wis. Stats., as amended from time to time, substituting where necessary the Tribe and is agents and agencies for the state and its agents, agencies or subdivisions.</text>
       <annotations/>
     </section>
     <section>
@@ -63,7 +64,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any penalty contained in <cite>Chapter 125</cite> of the Wisconsin Statutes adopted by <cite path="|II|250|I">this article</cite> which exceeds one year of imprisonment or $5,000 is replaced with a penalty of one year of imprisonment or fine of $5,000, or both.</text>
+          <text>Any penalty contained in Chapter 125 of the Wisconsin Statutes adopted by <cite path="|II|250|I">this article</cite> which exceeds one year of imprisonment or $5,000 is replaced with a penalty of one year of imprisonment or fine of $5,000, or both.</text>
         </para>
       </para>
       <annotations/>
@@ -74,7 +75,8 @@
     <num>II</num>
     <heading>Special Permits; Public Intoxication</heading>
     <annotations>
-      <annotation type="History">Adopted 7-7-1983 by Ord. No. 83-11; amended in its entirety 4-23-2020 by Ord. No. 20-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-07" type="History">Amended in its entirety 4-23-2020 by Ord. No. 20-07</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 83-11" type="History">Adopted 7-7-1983 by Ord. No. 83-11</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -103,7 +105,8 @@
     <num>III</num>
     <heading>Intoxication and Alcoholic Beverage Offenses</heading>
     <annotations>
-      <annotation type="History">Adopted 12-7-2000 by Ord. No. 00-33; amended in its entirety 5-21-2020 by Ord. No. 20-10<fn path="|II|250|III|footnotes|1">1</fn></annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-10" type="History">Amended in its entirety 5-21-2020 by Ord. No. 20-10<fn path="|II|250|III|footnotes|1">1</fn></annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 00-33" type="History">Adopted 12-7-2000 by Ord. No. 00-33</annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -137,9 +140,9 @@
       <para>
         <num>C.</num>
         <text>A person who has granted permission to the person consuming the alcoholic beverage or in possession of the open container of the alcoholic beverage to be on the property.</text>
-        <text>PRIVATE RESIDENCE — A house or apartment where persons reside and shall not include any commercial establishment.</text>
-        <text>PUBLIC PLACE —</text>
       </para>
+      <aftertext>PRIVATE RESIDENCE — A house or apartment where persons reside and shall not include any commercial establishment.</aftertext>
+      <aftertext>PUBLIC PLACE —</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>A public place is not:</text>

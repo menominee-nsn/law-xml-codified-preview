@@ -11,7 +11,7 @@
   <container cache:ref-path="II|347|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>(Reserved)<fn proof="needed" path="|II|347|I|footnotes|1">1</fn></heading>
+    <heading>(Reserved)<fn path="|II|347|I|footnotes|1">1</fn></heading>
     <section>
       <prefix>§§</prefix>
       <num>347-1 through 347-11</num>
@@ -28,7 +28,10 @@
   <container cache:ref-path="II|347|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Building Codes for Gaming Facilities [Adopted 12-10-1993 by Ord. No. 93-25]</heading>
+    <heading>Building Codes for Gaming Facilities</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-25" type="History">Adopted 12-10-1993 by Ord. No. 93-25</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>347-12</num>
@@ -47,7 +50,7 @@
       <prefix>§</prefix>
       <num>347-14</num>
       <heading>Adoption of Wisconsin regulations.</heading>
-      <text>The Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law and makes applicable to Class III gaming facilities within the exterior boundaries of the Menominee Indian Reservation <cite>Ch. 101</cite>, Wis. Stats., and the administrative rules adopted thereunder, including but not limited to Chs. Comm 14 (Fire Prevention), 16 (Electrical), 28 (Smoke Detectors), 60 to 66 (Commercial Building Code), and 81 to 87 (Plumbing), Wis. Adm. Code, as amended from time to time, substituting where necessary the Tribe and its agents or agencies for the state and its agents, agencies, or subdivisions.</text>
+      <text>The Menominee Indian Tribe, acting through its governing body, the Menominee Tribal Legislature, hereby incorporates into Menominee law and makes applicable to Class III gaming facilities within the exterior boundaries of the Menominee Indian Reservation Ch. 101, Wis. Stats., and the administrative rules adopted thereunder, including but not limited to Chs. Comm 14 (Fire Prevention), 16 (Electrical), 28 (Smoke Detectors), 60 to 66 (Commercial Building Code), and 81 to 87 (Plumbing), Wis. Adm. Code, as amended from time to time, substituting where necessary the Tribe and its agents or agencies for the state and its agents, agencies, or subdivisions.</text>
       <annotations/>
     </section>
     <section>
@@ -75,7 +78,7 @@
       <prefix>§</prefix>
       <num>347-17</num>
       <heading>Violations and penalties.</heading>
-      <text>Penalties incorporated in <cite>Ch. 101</cite>, Wis. Stats., and the administrative rules shall be assessed by the Menominee Tribal Court for violations; however, the Menominee Tribal Court may not impose any forfeiture or penalty greater than allowed by 25 U.S.C. § 1302 or other applicable tribal or federal law.</text>
+      <text>Penalties incorporated in Ch. 101, Wis. Stats., and the administrative rules shall be assessed by the Menominee Tribal Court for violations; however, the Menominee Tribal Court may not impose any forfeiture or penalty greater than allowed by 25 U.S.C. § 1302 or other applicable tribal or federal law.</text>
       <annotations/>
     </section>
   </container>
@@ -84,7 +87,8 @@
     <num>III</num>
     <heading>Gaming Code</heading>
     <annotations>
-      <annotation type="History">Adopted 1-20-1994 by Ord. No. 93-30; amended in its entirety 1-22-2008</annotation>
+      <annotation type="History">Amended in its entirety 1-22-2008</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-30" type="History">Adopted 1-20-1994 by Ord. No. 93-30</annotation>
     </annotations>
     <section cache:ref-path="II|§347-18">
       <prefix>§</prefix>
@@ -139,14 +143,14 @@
             <num>(b)</num>
             <text>Electronic or electromechanical facsimiles of any game of chance or slot machines of any kind.</text>
           </para>
-          <aftertext>CLASS III GAMING — All forms of gaming that are not Class I gaming or Class II gaming.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
         </para>
+        <aftertext>CLASS III GAMING — All forms of gaming that are not Class I gaming or Class II gaming.<fn path="|II|§347-18|footnotes|3">3</fn></aftertext>
         <aftertext>COMMISSION — The Menominee Tribal Gaming Commission established pursuant to this article to perform regulatory oversight and to monitor compliance with tribal, federal and applicable state regulations and the Compact and also known as the "Gaming Commission" or "Menominee Tribal Gaming Agency." Any reference to "Commission" in this article shall include the staff of the Menominee Tribal Gaming Commission.</aftertext>
         <aftertext>COMMISSION BYLAWS — The rules governing the conduct of the Menominee Tribal Gaming Commission meetings and actions.</aftertext>
         <aftertext>COMMISSIONER — One of the members of the Menominee Tribal Gaming Commission; also known as "Gaming Commissioner."</aftertext>
         <aftertext>COMPLIMENTARY ITEMS — Goods or services, including but not limited to food, beverages, lodging, gift certificates, match play coupons, and merchandise, that are provided to customers of the Menominee Nation Casino, Bingo and Hotel or other gaming operations at no cost or reduced cost.</aftertext>
         <aftertext>DE MINIMUS — Distinct complimentary items that are less than $10 in value and that in the aggregate do not exceed $100 in value annually.</aftertext>
-        <aftertext>GAMING ACTIVITY — Any of the following acts by an employee of the gaming operation:<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        <aftertext>GAMING ACTIVITY — Any of the following acts by an employee of the gaming operation:<fn path="|II|§347-18|footnotes|4">4</fn></aftertext>
         <para>
           <num proof="done">(1)</num>
           <text>Operating, maintaining or servicing any Class I, Class II, or Class III gaming.</text>
@@ -173,11 +177,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Any activity required to be regulated pursuant to the provisions of the Indian Gaming Regulatory Act.<fn path="|II|§347-18|footnotes|3">3</fn></text>
-          <text>GAMING EMPLOYEE — Any employee of the gaming operation whose duties include gaming activity and any person who meets the definition of "key employee" or "primary management official" pursuant to <cite path="|II|347">Chapter 347</cite> or the Indian Gaming Regulatory Act or regulations promulgated pursuant to the Indian Gaming Regulatory Act.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
-          <text>GAMING OPERATION — Each economic entity that is licensed by the Tribe, operates games, receives revenues, issues prizes, and pays expenses. A gaming operation may be operated by the Tribe directly or by a management contractor or by an enterprise established and owned by the Tribe for the conduct of gaming or its enterprise's management contractor.</text>
-          <text>IMMEDIATE FAMILY MEMBER — Biological or legally adopted father, mother, sister, brother, child, grandchild, grandparent; legal father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law; legal stepfather, stepmother, stepbrother, stepsister, and stepchildren; legally married spouse.</text>
+          <text>Any activity required to be regulated pursuant to the provisions of the Indian Gaming Regulatory Act.<fn path="|II|§347-18|footnotes|5">5</fn></text>
         </para>
+        <aftertext>GAMING EMPLOYEE — Any employee of the gaming operation whose duties include gaming activity and any person who meets the definition of "key employee" or "primary management official" pursuant to <cite path="|II|347">Chapter 347</cite> or the Indian Gaming Regulatory Act or regulations promulgated pursuant to the Indian Gaming Regulatory Act.<fn path="|II|§347-18|footnotes|6">6</fn></aftertext>
+        <aftertext>GAMING OPERATION — Each economic entity that is licensed by the Tribe, operates games, receives revenues, issues prizes, and pays expenses. A gaming operation may be operated by the Tribe directly or by a management contractor or by an enterprise established and owned by the Tribe for the conduct of gaming or its enterprise's management contractor.</aftertext>
+        <aftertext>IMMEDIATE FAMILY MEMBER — Biological or legally adopted father, mother, sister, brother, child, grandchild, grandparent; legal father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law; legal stepfather, stepmother, stepbrother, stepsister, and stepchildren; legally married spouse.<fn path="|II|§347-18|footnotes|7">7</fn></aftertext>
         <aftertext>INDIAN LAND — Any lands title to which is either held in trust by the United States for the benefit of the Menominee Indian Tribe of Wisconsin or held by the Menominee Indian Tribe of Wisconsin subject to restriction by the United States against alienation and over which the Menominee Indian Tribe of Wisconsin exercises governmental power.</aftertext>
         <aftertext>KEY EMPLOYEE — Has the same meaning as used in Article V, Authorization of Gaming, of this chapter.</aftertext>
         <aftertext>LEGISLATURE — The Menominee Tribal Legislature, also known as "Tribal Legislature."</aftertext>
@@ -193,11 +197,11 @@
           <num>(2)</num>
           <text>Total gaming-related operating expenses, excluding management fees.</text>
         </para>
-        <aftertext>NONGAMING ACTIVITY — All activities of the gaming operation, and its employees, that do not constitute gaming activity.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
-        <aftertext>NONGAMING EMPLOYEE — Any employee of the gaming operation who is not a gaming employee.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></aftertext>
+        <aftertext>NONGAMING ACTIVITY — All activities of the gaming operation, and its employees, that do not constitute gaming activity.<fn path="|II|§347-18|footnotes|8">8</fn></aftertext>
+        <aftertext>NONGAMING EMPLOYEE — Any employee of the gaming operation who is not a gaming employee.<fn path="|II|§347-18|footnotes|9">9</fn></aftertext>
         <aftertext>PRIMARY MANAGEMENT OFFICIAL — Has the same meaning as used in Article V, Authorization of Gaming, of <cite path="|II|347">this chapter</cite>.</aftertext>
         <aftertext>REGULATION — Regulations promulgated by the Commission pursuant to <cite path="|II|347|III">this article</cite>.</aftertext>
-        <aftertext>TRIBAL COURT — The Tribal Court of the Menominee Indian Tribe of Wisconsin created pursuant to the Menominee Indian Tribe of Wisconsin Constitution and Bylaws and the Judiciary and Law and Order Code<fn path="|II|§347-18|footnotes|4">4</fn> and physically located on the Menominee Indian Reservation or, for the purposes of regulating any gaming conducted outside the boundaries of the Menominee Indian Reservation, a tribunal created by the Menominee Tribal Legislature for the purpose of performing the role of the Tribal Court under <cite path="|II|347|III">this article</cite>.</aftertext>
+        <aftertext>TRIBAL COURT — The Tribal Court of the Menominee Indian Tribe of Wisconsin created pursuant to the Menominee Indian Tribe of Wisconsin Constitution and Bylaws and the Judiciary and Law and Order Code<fn path="|II|§347-18|footnotes|10">10</fn> and physically located on the Menominee Indian Reservation or, for the purposes of regulating any gaming conducted outside the boundaries of the Menominee Indian Reservation, a tribunal created by the Menominee Tribal Legislature for the purpose of performing the role of the Tribal Court under <cite path="|II|347|III">this article</cite>.</aftertext>
         <aftertext>TRIBAL-STATE COMPACT or COMPACT or GAMING COMPACT — A written document, either negotiated and agreed to by the Tribe and an official or agent of the State of Wisconsin or prescribed by the Secretary pursuant to 25 U.S.C. § 2710(d)(7)(B)(vii), governing the conduct of Class III gaming activities on Indian lands.</aftertext>
         <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe; also may be referred to as "Menominee Nation."</aftertext>
         <aftertext>WORKING DAYS — Monday through Friday with the exception of Menominee tribal holidays and administrative leave.</aftertext>
@@ -209,15 +213,40 @@
         </footnote>
         <footnote>
           <num>3</num>
-          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+          <text>Editor's Note: Added 5-2-2013 by Ord. No. 13-08</text>
         </footnote>
         <footnote>
           <num>4</num>
+          <text>Editor's Note: Added 5-2-2013 by Ord. No. 13-08</text>
+        </footnote>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Added 5-2-2013 by Ord. No. 13-08</text>
+        </footnote>
+        <footnote>
+          <num>7</num>
+          <text>Editor's Note: Amended 7-21-2016 by Ord. No. 16-17</text>
+        </footnote>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Added 5-2-2013 by Ord. No. 13-08</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Added 5-2-2013 by Ord. No. 13-08</text>
+        </footnote>
+        <footnote>
+          <num>10</num>
           <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>.</text>
         </footnote>
       </footnotes>
       <annotations>
-        <annotation type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-08" type="History">Added 5-2-2013 by Ord. No. 13-08</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 16-17" type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
       </annotations>
     </section>
     <section cache:ref-path="II|§347-19">
@@ -439,11 +468,11 @@
             </para>
             <para>
               <num>[2]</num>
-              <text>Prohibit key employees, primary management officials, Tribal Legislators, and members of the Gaming Management Board or Gaming Commission from receiving complimentary items other than de minimus complimentary items. <strong>[Amended 7-21-2016 by Ord. No. 16-17]</strong></text>
+              <text>Prohibit key employees, primary management officials, Tribal Legislators, and members of the Gaming Management Board or Gaming Commission from receiving complimentary items other than de minimus complimentary items.<fn path="|II|§347-19|footnotes|11">11</fn></text>
             </para>
             <para>
               <num>[3]</num>
-              <text>For the purposes of <cite path="§347-19|I|(6)(a)|[2]">Subsection I(6)(a)[2]</cite> above, the following goods and services shall not be deemed complimentary items under the following circumstances: <strong>[Added 7-21-2016 by Ord. No. 16-17]</strong></text>
+              <text>For the purposes of <cite path="§347-19|I|(6)(a)|[2]">Subsection I(6)(a)[2]</cite> above, the following goods and services shall not be deemed complimentary items under the following circumstances:<fn path="|II|§347-19|footnotes|12">12</fn></text>
               <para>
                 <num>[a]</num>
                 <text>Goods or services that are a prize in a drawing for gaming operation employees as part of a bona fide employee morale program;</text>
@@ -467,7 +496,7 @@
             </para>
             <para>
               <num>[4]</num>
-              <text>Prohibit employees of the gaming operation from providing complimentary items to their immediate family members or any person with whom they share a residence. <strong>[Added 7-21-2016 by Ord. No. 16-17]</strong></text>
+              <text>Prohibit employees of the gaming operation from providing complimentary items to their immediate family members or any person with whom they share a residence.<fn path="|II|§347-19|footnotes|13">13</fn></text>
             </para>
           </para>
           <para>
@@ -499,11 +528,11 @@
             </para>
             <para>
               <num>[2]</num>
-              <text>The Tribal Gaming Commission shall adopt regulations for eligibility determination which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+              <text>The Tribal Gaming Commission shall adopt regulations for eligibility determination which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact.<fn path="|II|§347-19|footnotes|14">14</fn></text>
             </para>
             <para>
               <num>[3]</num>
-              <text>The Tribal Gaming Commission shall adopt regulations for forwarding the Notice of Results to NIGC which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+              <text>The Tribal Gaming Commission shall adopt regulations for forwarding the Notice of Results to NIGC which, at a minimum, meet the requirements and procedures of 25 CFR 556 and the Compact.<fn path="|II|§347-19|footnotes|15">15</fn></text>
             </para>
             <para>
               <num>[4]</num>
@@ -528,7 +557,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>Report results of background investigations to NIGC as required by the Indian Gaming Regulatory Act (IGRA)<fn path="|II|§347-19|footnotes|5">5</fn> or the Compact.</text>
+            <text>Report results of background investigations to NIGC as required by the Indian Gaming Regulatory Act (IGRA)<fn path="|II|§347-19|footnotes|16">16</fn> or the Compact.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -585,7 +614,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Although not required by the Indian Gaming Regulatory Act,<fn path="|II|§347-19|footnotes|6">6</fn> the Commission shall direct the Executive Director of the Tribal Gaming Commission to require all Commission staff to be licensed by the Commission pursuant to procedures in effect for such licensing in order to set an example for all licensees.</text>
+          <text>Although not required by the Indian Gaming Regulatory Act,<fn path="|II|§347-19|footnotes|17">17</fn> the Commission shall direct the Executive Director of the Tribal Gaming Commission to require all Commission staff to be licensed by the Commission pursuant to procedures in effect for such licensing in order to set an example for all licensees.</text>
         </para>
       </para>
       <para>
@@ -626,7 +655,7 @@
       </para>
       <para>
         <num>P.</num>
-        <text>Employment of Director. The Tribe shall employ a Director who shall be supervised by the Gaming Commission. The Gaming Commission shall hire the Director pursuant to the Tribe's Personnel Policies and Procedures (Ordinance No. 83-6).<fn path="|II|§347-19|footnotes|7">7</fn></text>
+        <text>Employment of Director. The Tribe shall employ a Director who shall be supervised by the Gaming Commission. The Gaming Commission shall hire the Director pursuant to the Tribe's Personnel Policies and Procedures (Ordinance No. 83-6).<fn path="|II|§347-19|footnotes|18">18</fn></text>
       </para>
       <para>
         <num>Q.</num>
@@ -686,19 +715,43 @@
       </para>
       <footnotes>
         <footnote>
-          <num>5</num>
+          <num>11</num>
+          <text>Editor's Note: Amended 7-21-2016 by Ord. No. 16-17</text>
+        </footnote>
+        <footnote>
+          <num>12</num>
+          <text>Editor's Note: Added 7-21-2016 by Ord. No. 16-17</text>
+        </footnote>
+        <footnote>
+          <num>13</num>
+          <text>Editor's Note: Added 7-21-2016 by Ord. No. 16-17</text>
+        </footnote>
+        <footnote>
+          <num>14</num>
+          <text>Editor's Note: Amended 8-1-2013 by Ord. No. 13-26</text>
+        </footnote>
+        <footnote>
+          <num>15</num>
+          <text>Editor's Note: Amended 8-1-2013 by Ord. No. 13-26</text>
+        </footnote>
+        <footnote>
+          <num>16</num>
           <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
         </footnote>
         <footnote>
-          <num>6</num>
+          <num>17</num>
           <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
         </footnote>
         <footnote>
-          <num>7</num>
+          <num>18</num>
           <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
         </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 16-17" type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 16-17" type="History">Added 7-21-2016 by Ord. No. 16-17</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-26" type="History">Amended 8-1-2013 by Ord. No. 13-26</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -744,7 +797,7 @@
           <text>The Commission may license and regulate a tribal-owned Class III gaming activity if:</text>
           <para>
             <num>(a)</num>
-            <text>Such gaming activity is located on Indian lands within the Tribe's jurisdiction and the Menominee Indian Tribe of Wisconsin and State of Wisconsin Gaming Compact permits such gaming (and such gaming is not otherwise specifically prohibited on Indian lands by federal laws); <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+            <text>Such gaming activity is located on Indian lands within the Tribe's jurisdiction and the Menominee Indian Tribe of Wisconsin and State of Wisconsin Gaming Compact permits such gaming (and such gaming is not otherwise specifically prohibited on Indian lands by federal laws);<fn path="|II|§347-20|footnotes|19">19</fn></text>
           </para>
           <para>
             <num>(b)</num>
@@ -760,8 +813,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>All contracts for supplies, services, or concessions for any aggregate amount in excess of</text>
-            <text>$25,000 annually relating to such gaming are also subject to independent audits;</text>
+            <text>All contracts for supplies, services, or concessions for any aggregate amount in excess of $25,000 annually relating to such gaming are also subject to independent audits;</text>
           </para>
           <para>
             <num>(f)</num>
@@ -779,7 +831,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Temporary employment licenses. The Commission may issue a temporary employment license to any person or entity applying for a license to work in a licensed gaming establishment which shall be valid pending the background investigation of the applicant, but in no event longer than 90 days. <strong>[Amended 8-1-2013 by Ord. No. 13-26]</strong></text>
+        <text>Temporary employment licenses. The Commission may issue a temporary employment license to any person or entity applying for a license to work in a licensed gaming establishment which shall be valid pending the background investigation of the applicant, but in no event longer than 90 days.<fn path="|II|§347-20|footnotes|20">20</fn></text>
       </para>
       <para>
         <num>G.</num>
@@ -805,8 +857,20 @@
         <num>H.</num>
         <text>Licensing of distributors. The Commission may authorize, require and issue such annual licenses as the Commission by regulation may provide to any person or entity to engage in the selling, distributing, or otherwise supplying of gambling equipment or paraphernalia for use in connection with licensed gaming activity.</text>
       </para>
+      <footnotes>
+        <footnote>
+          <num>19</num>
+          <text>Editor's Note: Amended 8-1-2013 by Ord. No. 13-26</text>
+        </footnote>
+        <footnote>
+          <num>20</num>
+          <text>Editor's Note: Amended 8-1-2013 by Ord. No. 13-26</text>
+        </footnote>
+      </footnotes>
       <annotations>
-        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-08" type="History">Amended 5-2-2013 by Ord. No. 13-08</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-26" type="History">Amended 8-1-2013 by Ord. No. 13-26</annotation>
       </annotations>
     </section>
     <section cache:ref-path="II|§347-21">
@@ -922,7 +986,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The management contractor has deliberately or substantially failed to comply with the terms of this management contract or the provisions of this code or any regulations adopted pursuant to this code or the Indian Gaming Regulatory Act.<fn path="|II|§347-21|footnotes|8">8</fn></text>
+          <text>The management contractor has deliberately or substantially failed to comply with the terms of this management contract or the provisions of this code or any regulations adopted pursuant to this code or the Indian Gaming Regulatory Act.<fn path="|II|§347-21|footnotes|21">21</fn></text>
         </para>
       </para>
       <para>
@@ -943,7 +1007,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>8</num>
+          <num>21</num>
           <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
         </footnote>
       </footnotes>
@@ -966,7 +1030,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Include an opinion that the financial statement fairly and accurately presents the financial condition of the gaming operation in accordance with generally accepted accounting principals (GAAP) and in accordance with the standards of the accounting profession established by rules and regulations of the Accounting Examining Board of the State of Wisconsin and the American Institute of Certified Public Accountants; <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+          <text>Include an opinion that the financial statement fairly and accurately presents the financial condition of the gaming operation in accordance with generally accepted accounting principals (GAAP) and in accordance with the standards of the accounting profession established by rules and regulations of the Accounting Examining Board of the State of Wisconsin and the American Institute of Certified Public Accountants;<fn path="|II|§347-22|footnotes|22">22</fn></text>
         </para>
         <para>
           <num>(3)</num>
@@ -981,7 +1045,15 @@
         <num>C.</num>
         <text>Commission's right to conduct audit. The Commission shall be able to retain its own appointed accountants or direct an accountant employed by the Tribe to conduct its own audit of any gaming operation.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>22</num>
+          <text>Editor's Note: Amended 1-5-2012 by Ord. No. 11-32</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1023,15 +1095,20 @@
     <section>
       <prefix>§</prefix>
       <num>347-24.5</num>
-      <heading>Applicability to nongaming activity. [Added 5-2-2013 by Ord. No. 13-08]</heading>
+      <heading>Applicability to nongaming activity.</heading>
       <text>Notwithstanding any other provision of <cite path="|II|347|III">this article</cite>, the Menominee Tribal Gaming Commission shall have no power or authority to regulate nongaming activity or nongaming employees, nor any responsibility for nongaming activity or nongaming employees. Any regulation, internal control, or other rule of the Menominee Tribal Gaming Commission promulgated and in place at the time of this amendment related to nongaming activity or nongaming employees shall be null and void and of no effect as of the implementation date of this amendment.</text>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-08" type="History">Added 5-2-2013 by Ord. No. 13-08</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="II|347|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Pull-Tab Sales by Individuals [Adopted 9-21-2000 by Ord. No. 00-24]</heading>
+    <heading>Pull-Tab Sales by Individuals</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 00-24" type="History">Adopted 9-21-2000 by Ord. No. 00-24</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>347-25</num>
@@ -1115,15 +1192,18 @@
   <container cache:ref-path="II|347|V">
     <prefix>Article</prefix>
     <num>V</num>
-    <heading>Authorization of Gaming [Adopted 1-22-2008 by Ord. No. 07-39]</heading>
+    <heading>Authorization of Gaming</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 07-39" type="History">Adopted 1-22-2008 by Ord. No. 07-39</annotation>
+    </annotations>
     <section cache:ref-path="II|§347-30">
       <prefix>§</prefix>
       <num>347-30</num>
       <heading>Purpose.</heading>
-      <text>The Menominee Tribal Legislature, empowered by the Tribe's Constitution to enact ordinances, hereby enacts <cite path="|II|347|V">this article</cite> in order to set the terms for Class II and Class III gaming operations on tribal lands pursuant to the requirement of the Indian Gaming Regulatory Act.<fn path="|II|§347-30|footnotes|9">9</fn></text>
+      <text>The Menominee Tribal Legislature, empowered by the Tribe's Constitution to enact ordinances, hereby enacts <cite path="|II|347|V">this article</cite> in order to set the terms for Class II and Class III gaming operations on tribal lands pursuant to the requirement of the Indian Gaming Regulatory Act.<fn path="|II|§347-30|footnotes|23">23</fn></text>
       <footnotes>
         <footnote>
-          <num>9</num>
+          <num>23</num>
           <text>Editor's Note: See 25 U.S.C. § 2701 et seq.</text>
         </footnote>
       </footnotes>
@@ -1247,8 +1327,8 @@
         <para>
           <num>(2)</num>
           <text>If not otherwise included, the four most highly compensated persons in the gaming operation.</text>
-          <text>PRIMARY MANAGEMENT OFFICIAL —</text>
         </para>
+        <aftertext>PRIMARY MANAGEMENT OFFICIAL —</aftertext>
         <para>
           <num proof="done">(1)</num>
           <text>The person having management responsibility for a management contract;</text>
@@ -1524,7 +1604,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08; 1-18-2024 by Ord. No. 23-71</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 23-71" type="History">Amended 1-18-2024 by Ord. No. 23-71</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-08" type="History">Amended 5-2-2013 by Ord. No. 13-08</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
       </annotations>
     </section>
     <section>

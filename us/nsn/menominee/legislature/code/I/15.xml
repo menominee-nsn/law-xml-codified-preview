@@ -4,7 +4,8 @@
   <num>15</num>
   <heading>ARBITRATION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-1-2008 by Ord. No. 08-06. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 08-06" type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-1-2008 by Ord. No. 08-06</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -20,7 +21,7 @@
     <text>The provisions of <cite path="|I|15">this chapter</cite> shall apply to:</text>
     <para>
       <num>A.</num>
-      <text>Any contract entered into by the Tribe with any third party pursuant to <cite path="|I|90">§ 90-6 of Chapter 90</cite>, Gaming Authorities, Article I, Menominee Indian Gaming Authority, of this Code and any contract entered into by the Authority with any third party (hereinafter "applicable contract"); and</text>
+      <text>Any contract entered into by the Tribe with any third party pursuant to <cite path="§90-6">§ 90-6 of Chapter 90</cite>, Gaming Authorities, Article I, Menominee Indian Gaming Authority, of this Code and any contract entered into by the Authority with any third party (hereinafter "applicable contract"); and</text>
     </para>
     <para>
       <num>B.</num>
@@ -28,18 +29,27 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Any contract entered into between the Menominee Indian Tribe of Wisconsin and Midwest Contract Operations, Inc., related to consultation and management of tribal wastewater systems (hereinafter "applicable contract"); and <strong>[Added 10-20-2016 by Ord. No. 16-29]</strong></text>
+      <text>Any contract entered into between the Menominee Indian Tribe of Wisconsin and Midwest Contract Operations, Inc., related to consultation and management of tribal wastewater systems (hereinafter "applicable contract"); and</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Any lease of land from the Tribe to Standing Pines, LLC, or Wolf River Development Company; any written agreement entered into between Standing Pines, LLC and Bay Bank, or Wolf River Development Company and Bay Bank; and any Branch and Banking Services Agreement entered into between the Tribe and Bay Bank (hereinafter "applicable contract"). <strong>[Added 2-6-2020 by Ord. No. 19-33; amended 7-16-2020 by Ord. No. 20-17]</strong></text>
+      <text>Any lease of land from the Tribe to Standing Pines, LLC, or Wolf River Development Company; any written agreement entered into between Standing Pines, LLC and Bay Bank, or Wolf River Development Company and Bay Bank; and any Branch and Banking Services Agreement entered into between the Tribe and Bay Bank (hereinafter "applicable contract").</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Any written agreement entered into between Bug Tussel Wireless, LLC and the Menominee Indian Tribe of Wisconsin - Utilities Department executed after April 1, 2021 (hereinafter "applicable contract"). <strong>[Added 4-15-2021 by Ord. No. 21-36]</strong></text>
+      <text>Any written agreement entered into between Bug Tussel Wireless, LLC and the Menominee Indian Tribe of Wisconsin - Utilities Department executed after April 1, 2021 (hereinafter "applicable contract").</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any written agreement entered into between Bay Bank and the Menominee Indian Tribe of Wisconsin executed after October 1, 2024 (hereinafter "applicable contract").</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 1-16-2014 by Ord. No. 13-51</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 24-60" type="History">Amended 12-5-2024 by Ord. No. 24-60</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 21-36" type="History">Amended 4-15-2021 by Ord. No. 21-36</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-17" type="History">Amended 7-16-2020 by Ord. No. 20-17</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-33" type="History">Amended 2-6-2020 by Ord. No. 19-33</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 16-29" type="History">Amended 10-20-2016 by Ord. No. 16-29</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 13-51" type="History">Amended 1-16-2014 by Ord. No. 13-51</annotation>
     </annotations>
   </section>
   <section>
@@ -53,8 +63,7 @@
     <prefix>§</prefix>
     <num>15-4</num>
     <heading>Stay of proceedings.</heading>
-    <text>If any suit or proceeding is brought in any of the Courts of the Menominee Indian Tribe upon any issue referable to arbitration under an applicable contract in writing for such arbitration, the Court in which</text>
-    <text>such suit is pending, upon being satisfied that the issue involved in such suit or proceeding is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement, provided that the applicant for the stay is not in default in proceeding with such arbitration.</text>
+    <text>If any suit or proceeding is brought in any of the Courts of the Menominee Indian Tribe upon any issue referable to arbitration under an applicable contract in writing for such arbitration, the Court in which such suit is pending, upon being satisfied that the issue involved in such suit or proceeding is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement, provided that the applicant for the stay is not in default in proceeding with such arbitration.</text>
     <annotations/>
   </section>
   <section>

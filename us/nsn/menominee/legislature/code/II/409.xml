@@ -4,7 +4,8 @@
   <num>409</num>
   <heading>MARRIAGE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-3-2016 by Ord. No. 16-28. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 16-28" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-3-2016 by Ord. No. 16-28</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -50,7 +51,8 @@
     <num>409-5</num>
     <heading>Definitions.</heading>
     <text>The following terms, whenever used or referred to in this code, shall have the following respective meanings:</text>
-    <text>CLERK OF THE COURT or TRIBAL COURT CLERK — The Clerk of the Menominee Tribal Court. CODE or MARRIAGE CODE — This code of the Menominee Indian Tribe of Wisconsin.</text>
+    <text>CLERK OF THE COURT or TRIBAL COURT CLERK — The Clerk of the Menominee Tribal Court.</text>
+    <text>CODE or MARRIAGE CODE — This code of the Menominee Indian Tribe of Wisconsin.</text>
     <text>CONSTITUTION — The Constitution of the Tribe, as amended.</text>
     <text>CUSTODIAN — A person who has legal custody of a child under tribal or state law or to whom temporary physical care, custody and control has been transferred by the parent of the child.</text>
     <text>LEGISLATURE or TRIBAL LEGISLATURE — The elected governing body of the Menominee Indian Tribe of Wisconsin as established by the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</text>
@@ -206,8 +208,7 @@
     <prefix>§</prefix>
     <num>409-15</num>
     <heading>Recognition of previous on-Reservation traditional marriages.</heading>
-    <text>All marriages performed on the Reservation prior to the effective date of this code that meet the requirements of <cite path="§409-7">§ 409-7</cite>, Who may contract; marriageable age, <cite path="§409-8">§ 409-8</cite>, Invalid or prohibited marriages,</text>
-    <text><cite path="§409-9">§ 409-9</cite>, Identification of parties, and <cite path="§409-12">§ 409-12</cite>, Solemnization of marriage contract, shall be valid upon completion of the requirements to obtain a marriage license under this code. Parties to such marriages may obtain a marriage license upon proof to the Licensing and Permit Department by affidavit or otherwise of their eligibility for such a license under this section and payment of a fee set by the Licensing and Permit Department in accordance with applicable tribal law. This fee may be increased from time to time in accordance with tribal law. The Licensing and Permit Department shall provide the document to the Menominee Tribal Clerk of Court so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
+    <text>All marriages performed on the Reservation prior to the effective date of this code that meet the requirements of <cite path="§409-7">§ 409-7</cite>, Who may contract; marriageable age, <cite path="§409-8">§ 409-8</cite>, Invalid or prohibited marriages, <cite path="§409-9">§ 409-9</cite>, Identification of parties, and <cite path="§409-12">§ 409-12</cite>, Solemnization of marriage contract, shall be valid upon completion of the requirements to obtain a marriage license under this code. Parties to such marriages may obtain a marriage license upon proof to the Licensing and Permit Department by affidavit or otherwise of their eligibility for such a license under this section and payment of a fee set by the Licensing and Permit Department in accordance with applicable tribal law. This fee may be increased from time to time in accordance with tribal law. The Licensing and Permit Department shall provide the document to the Menominee Tribal Clerk of Court so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
     <annotations/>
   </section>
   <section>

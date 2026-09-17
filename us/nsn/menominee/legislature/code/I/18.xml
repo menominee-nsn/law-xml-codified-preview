@@ -6,12 +6,15 @@
   <annotations>
     <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Enrollment — See <cite path="|I|69">Ch. 69</cite>.</annotation>
-    <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
+    <annotation type="General References">Charters — See <cite path="|IV">Part IV</cite>.</annotation>
   </annotations>
   <container cache:ref-path="I|18|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Establishment and Operation [Adopted 10-21-2010 by Ord. No. 10-25]</heading>
+    <heading>Establishment and Operation</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 10-25" type="History">Adopted 10-21-2010 by Ord. No. 10-25</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>18-1</num>
@@ -32,7 +35,7 @@
       <heading>Authority of tribal businesses to create separate legal entities.</heading>
       <text>Any tribal business chartered pursuant to Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin ("tribal business"), in addition to any powers granted to such tribal business in its charter, has the power to acquire, create, act through and control Special Purpose Legal Entities.</text>
       <annotations>
-        <annotation type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-17" type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
       </annotations>
     </section>
     <section>
@@ -61,25 +64,28 @@
       <prefix>§</prefix>
       <num>18-5</num>
       <heading>Treatment of tribal businesses as members.</heading>
-      <text>Tribal businesses and Special Purpose Legal Entities shall be deemed members of the Menominee Indian Tribe for the purposes of Article X, Section 2(b), of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin and eligible to lease tribal lands pursuant to that section as long as such</text>
-      <text>tribal business or Special Purpose Legal Entity is ultimately either wholly owned or wholly controlled by enrolled members of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>Tribal businesses and Special Purpose Legal Entities shall be deemed members of the Menominee Indian Tribe for the purposes of Article X, Section 2(b), of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin and eligible to lease tribal lands pursuant to that section as long as such tribal business or Special Purpose Legal Entity is ultimately either wholly owned or wholly controlled by enrolled members of the Menominee Indian Tribe of Wisconsin.</text>
       <annotations>
-        <annotation type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-17" type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>18-6</num>
-      <heading>Treatment of non-member Special Purpose Legal Entity. [Added 4-4-2024 by Ord. No. 24-17]</heading>
+      <heading>Treatment of non-member Special Purpose Legal Entity.</heading>
       <text>Special Purpose Legal Entities that do not meet the requirements of <cite path="§18-5">§ 18-5</cite> to be treated as a member for the purposes of Article X, Section 2(b), of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin shall be eligible to lease tribal lands pursuant to <cite path="|I|138">Chapter 138 of the Menominee Tribal Code</cite> if the Special Purpose Legal Entity is otherwise eligible for a lease of land pursuant to the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, and the lease is part of an exchange of land pursuant to Article X, Section 1, of the Constitution which has been approved by a vote of the Tribe in accordance with Section 3 of Article VI of the Constitution.</text>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-17" type="History">Added 4-4-2024 by Ord. No. 24-17</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>18-7</num>
-      <heading>Special Purpose Legal Entity. [Added 4-4-2024 by Ord. No. 24-17]</heading>
+      <heading>Special Purpose Legal Entity.</heading>
       <text>"Special Purpose Legal Entity," shall mean, for the purposes of §<cite path="§18-3">§ 18-3</cite> and 18-5, a partnership, limited partnership, limited-liability company, or corporation, organized under the laws of the Menominee Indian Tribe, the laws of the United States, or the laws of any state; and for the purposes of <cite path="§18-6">§ 18-6</cite>, a Wisconsin County or Wisconsin School District.</text>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-17" type="History">Added 4-4-2024 by Ord. No. 24-17</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§§</prefix>
@@ -91,7 +97,10 @@
   <container cache:ref-path="I|18|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Limited Liability Company Code [Adopted 4-18-2019 by Ord. No. 19-04]</heading>
+    <heading>Limited Liability Company Code</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-04" type="History">Adopted 4-18-2019 by Ord. No. 19-04</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>18-10</num>
@@ -128,16 +137,15 @@
         <num>E.</num>
         <text>Definitions. Terms used in this code have the following meanings:</text>
         <text>ARTICLES OF ORGANIZATION — The articles filed under <cite path="|I|18|II">this Article</cite> II and those articles as amended or restated.</text>
-        <text>CITIZEN — An enrolled member of the Menominee Indian Tribe of Wisconsin. CODE — <cite path="|I|18|II">This Article</cite> II of <cite path="|I|18">Chapter 18 of the Menominee Tribal Code</cite>.</text>
+        <text>CITIZEN — An enrolled member of the Menominee Indian Tribe of Wisconsin.</text>
+        <text>CODE — <cite path="|I|18|II">This Article</cite> II of <cite path="|I|18">Chapter 18 of the Menominee Tribal Code</cite>.</text>
         <text>CORPORATION — A domestic corporation for profit organized under the laws of the Tribe or a foreign corporation formed under the laws of any other jurisdiction.</text>
         <text>DEPARTMENT — The Lending and Tribal Tax Department of the Menominee Indian Tribe of Wisconsin.</text>
         <text>DISTRIBUTION — A direct or indirect transfer by a limited liability company of money or other property to or for the benefit of its members in respect of their interests.</text>
         <text>ENTITY — Includes an individual, a general partnership, limited partnership, a domestic or foreign limited liability company, a trust, an estate, an association, a corporation or any other legal or commercial entity.</text>
         <text>FOREIGN — Refers to limited liability companies, corporations and limited partnerships organized under the laws of a jurisdiction other than the Tribe.</text>
-        <text>LIMITED LIABILITY COMPANY INTEREST OR INTEREST IN THE LIMITED LIABILITY</text>
-        <text>COMPANY OR MEMBER'S INTEREST — A member's rights in the limited liability company, including rights to distributions, profits and losses, and to participate in management, as specified in the operating agreement.</text>
-        <text>LIMITED LIABILITY COMPANY, DOMESTIC LIMITED LIABILITY COMPANY, OR</text>
-        <text>DOMESTIC LLC — An organization formed under this code. LLC — A limited liability company.</text>
+        <text>LIMITED LIABILITY COMPANY INTEREST OR INTEREST IN THE LIMITED LIABILITY COMPANY OR MEMBER'S INTEREST — A member's rights in the limited liability company, including rights to distributions, profits and losses, and to participate in management, as specified in the operating agreement.</text>
+        <text>LIMITED LIABILITY COMPANY, DOMESTIC LIMITED LIABILITY COMPANY, OR DOMESTIC LLC — An organization formed under this code. LLC — A limited liability company.</text>
         <text>MAJORITY IN INTEREST — A member or members holding more than 50% of the total voting interests in the limited liability company excluding any interest which is not to be counted as voting on a matter as described elsewhere in this code.</text>
         <text>MANAGER OR MANAGERS — The person(s) or entity(ies) designated to manage the LLC pursuant to the articles of organization and operating agreement.</text>
         <text>MEMBER — A person that is a member of a limited liability company or has membership interest in a limited liability company. The term does not include a person that has dissociated as a member under <cite path="§18-12">§ 18-12</cite>.</text>
@@ -146,13 +154,15 @@
         <text>PERSON — Includes a natural person, tribal entity and an organization such as a general partnership, limited partnership, a domestic or foreign limited liability company, a trust, an estate, an association, or a corporation.</text>
         <text>RESERVATION — All lands, water and airspace within the exterior boundaries of the Menominee Indian Reservation and any land which may hereafter be added to the Reservation under any law of the United States and any lands title to which is held by the United States for the benefit of the Menominee Indian Tribe of Wisconsin.</text>
         <text>SECTION 17 CORPORATION — A federally chartered corporation pursuant to Section 17 of the Indian Reorganization Act of 1934, 25 U.S.C. § 477 et seq.</text>
-        <text>STATE — Includes a state, territory, or possession of the United States and the District of Columbia. TRIBAL CONSTITUTION — The Constitution of the Menominee Indian Tribe of Wisconsin.</text>
+        <text>STATE — Includes a state, territory, or possession of the United States and the District of Columbia.</text>
+        <text>TRIBAL CONSTITUTION — The Constitution of the Menominee Indian Tribe of Wisconsin.</text>
         <text>TRIBAL COURT — The Menominee Tribal Court.</text>
         <text>TRIBAL ENTITY — The Tribe, a tribally chartered business, a tribal-entity-owned LLC, or a tribal-entity-owned subsidiary LLC.</text>
         <text>TRIBAL LEGISLATURE — The Menominee Tribal Legislature as established by the Tribal Constitution as the governing body of the Tribe.</text>
         <text>TRIBAL-ENTITY-OWNED LLC — A limited liability company owned by the Tribe or a tribally chartered business.</text>
         <text>TRIBAL-ENTITY-OWNED SUBSIDIARY LLC — A limited liability company wholly owned by a Tribal-Entity-Owned LLC.</text>
-        <text>TRIBALLY CHARTERED BUSINESS — A tribal business chartered pursuant to Article XIII of the Constitution, and Menominee Tribal Enterprises, and College of the Menominee Nation. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+        <text>TRIBALLY CHARTERED BUSINESS — A tribal business chartered pursuant to Article XIII of the Constitution, and Menominee Tribal Enterprises, and College of the Menominee Nation.</text>
+        <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
         <text>TRUST LAND — Land held in trust by the United States for the benefit of the Tribe.</text>
       </para>
       <para>

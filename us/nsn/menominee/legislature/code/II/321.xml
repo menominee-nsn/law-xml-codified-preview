@@ -4,7 +4,9 @@
   <num>321</num>
   <heading>FIREARMS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-8-1993 by Ord. No. 93-11; amended in its entirety 3-3-2016 by Ord. No. 15-39. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 15-39" type="History">Amended in its entirety 3-3-2016 by Ord. No. 15-39</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 93-11" type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-8-1993 by Ord. No. 93-11</annotation>
     <annotation type="General References">Taking of wild game or fish — See <cite path="|II|255|II">Ch. 255, Art. II</cite>. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
     <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
   </annotations>
@@ -34,11 +36,12 @@
     <text>DANGEROUS WEAPON — Any weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily used for, or designed as a weapon or through its use is capable of threatening or producing death or bodily injury, including but not limited to knives, clubs, metal knuckles, nunchaku, throwing stars, explosives, Taser® guns.</text>
     <text>DESTRUCTIVE DEVICE — Any explosive, incendiary, or poison gas; any type of weapon which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than 1/2 inch in diameter; the term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon.</text>
     <text>FIREARM — Any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver or any such weapon, including antique firearms; any firearm muffler or firearm silencer; or any destructive device.</text>
-    <text>FIREARM SILENCER or FIREARM MUFFLER — Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or muffler, and any <cite>part i</cite>ntended only for use in such assembly or fabrication.</text>
+    <text>FIREARM SILENCER or FIREARM MUFFLER — Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or muffler, and any part intended only for use in such assembly or fabrication.</text>
     <text>HANDGUN — Any weapon designed or redesigned, or made or remade, and intended to have a short stock and be fired while held in one hand and to use the energy of an explosive to expel a projectile though a smooth or rifled bore.</text>
     <text>HUNT — The definition of "hunting" from <cite path="|II|287">Chapter 287</cite>, Conservation Code.</text>
     <text>LAW ENFORCEMENT PERSONNEL — Any Menominee tribal police officer, Menominee tribal conservation warden or other bona fide peace officers acting in their official capacity.</text>
-    <text>LEGISLATURE — The Menominee Tribal Legislature, the governing body of the Menominee Nation. RECKLESS USE OF FIREARMS — Any of the following:</text>
+    <text>LEGISLATURE — The Menominee Tribal Legislature, the governing body of the Menominee Nation.</text>
+    <text>RECKLESS USE OF FIREARMS — Any of the following:</text>
     <para>
       <num>A.</num>
       <text>Endangering the safety of his or her own person or property and/or the safety or property of another by a high degree of negligence in the use of a firearm;</text>
@@ -50,14 +53,14 @@
     <para>
       <num>C.</num>
       <text>Conduct which demonstrates ordinary negligence to a high degree, consisting of an act which the person should realize creates risk and high probability of serious property damage, death or great bodily harm to himself or another person.</text>
-      <text>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a metallic cartridge to fire through a rifled barrel a single projectile for each pull of the trigger.</text>
-      <text>SCHOOL — A public, parochial, tribal or private school on the Menominee Indian Reservation which provides an educational program for one or more grades between grades kindergarten and 12 and which is commonly referred to as an "elementary school," "middle school," "junior high school," "senior high school," "high school," "primary school" or "tribal school." For purposes of <cite path="|II|321">this chapter</cite>, "school" also means any Head Start or day-care facility or any college located on the Menominee Indian Reservation.</text>
-      <text>SHORT-BARRELED RIFLE — A rifle having one or more barrels less than 16 inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than 26 inches.</text>
-      <text>SHORT-BARRELED SHOTGUN — A shotgun having one or more barrels less than 18 inches in length and any weapon made from a shotgun (whether by alteration, modification, or otherwise) if such a weapon, as modified, has an overall length of less than 26 inches.</text>
-      <text>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
-      <text>TRIBAL COURT FACILITY — The Tribal Law Enforcement Center (LEC) and the Wilmer J. Peters Judicial Center, and any other tribal courtroom, judges' chambers, witness rooms, jury deliberation rooms, prisoner holding cells, offices of the court clerks, the Tribal Prosecutor, tribal probation officers, and adjoining corridors of any court of the Menominee Indian Tribe.</text>
-      <text>TRIBAL FACILITY — A building or part thereof owned or leased by the Menominee Indian Tribe, where tribal employees are regularly present for the purpose of performing their official duties.</text>
     </para>
+    <aftertext>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a metallic cartridge to fire through a rifled barrel a single projectile for each pull of the trigger.</aftertext>
+    <aftertext>SCHOOL — A public, parochial, tribal or private school on the Menominee Indian Reservation which provides an educational program for one or more grades between grades kindergarten and 12 and which is commonly referred to as an "elementary school," "middle school," "junior high school," "senior high school," "high school," "primary school" or "tribal school." For purposes of <cite path="|II|321">this chapter</cite>, "school" also means any Head Start or day-care facility or any college located on the Menominee Indian Reservation.</aftertext>
+    <aftertext>SHORT-BARRELED RIFLE — A rifle having one or more barrels less than 16 inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than 26 inches.</aftertext>
+    <aftertext>SHORT-BARRELED SHOTGUN — A shotgun having one or more barrels less than 18 inches in length and any weapon made from a shotgun (whether by alteration, modification, or otherwise) if such a weapon, as modified, has an overall length of less than 26 inches.</aftertext>
+    <aftertext>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.</aftertext>
+    <aftertext>TRIBAL COURT FACILITY — The Tribal Law Enforcement Center (LEC) and the Wilmer J. Peters Judicial Center, and any other tribal courtroom, judges' chambers, witness rooms, jury deliberation rooms, prisoner holding cells, offices of the court clerks, the Tribal Prosecutor, tribal probation officers, and adjoining corridors of any court of the Menominee Indian Tribe.</aftertext>
+    <aftertext>TRIBAL FACILITY — A building or part thereof owned or leased by the Menominee Indian Tribe, where tribal employees are regularly present for the purpose of performing their official duties.</aftertext>
     <annotations/>
   </section>
   <section>
@@ -280,13 +283,11 @@
           <text>Fees.</text>
           <para>
             <num>[1]</num>
-            <text>Application  fee.  A  nonrefundable  application  fee,  except  as  described  in</text>
-            <text><cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+            <text>Application fee. A nonrefundable application fee, except as described in <cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
           </para>
           <para>
             <num>[2]</num>
-            <text>Renewal fee. A nonrefundable application renewal fee, except as described in</text>
-            <text><cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
+            <text>Renewal fee. A nonrefundable application renewal fee, except as described in <cite path="§321-8">§ 321-8</cite>C(3)(d) and (e), shall be paid upon filing an application for a tribal concealed carry permit. The application fee shall be set by the Licensing and Permit Department and approved by a motion of the Tribal Legislature. Permit fees shall be posted for five business days before they shall become effective.</text>
           </para>
           <para>
             <num>[3]</num>
@@ -453,8 +454,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Possession of a controlled substance with the intent to manufacture, distribute or deliver,</text>
-        <text><cite path="§306-5|C">§ 306-5C</cite>.</text>
+        <text>Possession of a controlled substance with the intent to manufacture, distribute or deliver, <cite path="§306-5|C">§ 306-5C</cite>.</text>
       </para>
       <para>
         <num>(6)</num>

@@ -4,7 +4,8 @@
   <num>275</num>
   <heading>CAMPING</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-23-2020 by Ord. No. 20-08. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 20-08" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-23-2020 by Ord. No. 20-08</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -36,10 +37,10 @@
     <para>
       <num>B.</num>
       <text>Permitted camping in designated areas.</text>
-      <text>CAMPING PERMIT — A physical certificate that permits camper(s) to temporarily reside on a defined camping location for a time period as specified by the permit.</text>
-      <text>CAMPING RULES — Rules created that address conduct of campers, general camping rules, and specific rules for specific places and campgrounds. These rules shall be developed by the Community Development Department and approved by the Community Development Committee.</text>
-      <text>FAMILY UNITS —</text>
     </para>
+    <aftertext>CAMPING PERMIT — A physical certificate that permits camper(s) to temporarily reside on a defined camping location for a time period as specified by the permit.</aftertext>
+    <aftertext>CAMPING RULES — Rules created that address conduct of campers, general camping rules, and specific rules for specific places and campgrounds. These rules shall be developed by the Community Development Department and approved by the Community Development Committee.</aftertext>
+    <aftertext>FAMILY UNITS —</aftertext>
     <para>
       <num proof="done">A.</num>
       <text>A family unit is defined as:</text>
@@ -59,16 +60,16 @@
     <para>
       <num>B.</num>
       <text>Includes any biological child(ren), legally adopted child(ren), foster children, stepchildren, or children in temporary custody under the age of 18 years who reside in the same household as <cite path="§275-3|A">Subsection A</cite>, B or C.</text>
-      <text>INDIVIDUAL(S) — Either a human person or group of human persons.</text>
-      <text>NATURAL ENVIRONMENT — The physical world that is not man-made and may include both animal and plant life.</text>
-      <text>OTHER AREAS — All lands within the exterior boundaries of the Menominee Indian Reservation that are subject to the jurisdiction of <cite path="|II|275">this chapter</cite>.</text>
-      <text>PARK — Area within the Menominee Indian Tribe of Wisconsin that has been designated for recreational use in the best interest of the community.</text>
-      <text>PHYSICAL PROPERTY — Inanimate items used by individuals that are man-made and include tangible resources provided at park areas.</text>
-      <text>PROHIBITED ACTIVITIES — Any acts by an individual(s) deemed to be unlawful or harmful to an individual(s), physical property, or natural environment, including all Menominee tribal ordinance violations.</text>
-      <text>RECREATIONAL ACTIVITIES — Those activities that result in relaxation and enjoyment of individual(s) which do not violate any current laws of the Menominee Indian Tribe of Wisconsin, which may include, but is not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</text>
-      <text>RESTRICTED AREAS — Any boat launches or areas restricted for cultural learning, emergency closures, or other public safety closures.</text>
-      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.</text>
     </para>
+    <aftertext>INDIVIDUAL(S) — Either a human person or group of human persons.</aftertext>
+    <aftertext>NATURAL ENVIRONMENT — The physical world that is not man-made and may include both animal and plant life.</aftertext>
+    <aftertext>OTHER AREAS — All lands within the exterior boundaries of the Menominee Indian Reservation that are subject to the jurisdiction of <cite path="|II|275">this chapter</cite>.</aftertext>
+    <aftertext>PARK — Area within the Menominee Indian Tribe of Wisconsin that has been designated for recreational use in the best interest of the community.</aftertext>
+    <aftertext>PHYSICAL PROPERTY — Inanimate items used by individuals that are man-made and include tangible resources provided at park areas.</aftertext>
+    <aftertext>PROHIBITED ACTIVITIES — Any acts by an individual(s) deemed to be unlawful or harmful to an individual(s), physical property, or natural environment, including all Menominee tribal ordinance violations.</aftertext>
+    <aftertext>RECREATIONAL ACTIVITIES — Those activities that result in relaxation and enjoyment of individual(s) which do not violate any current laws of the Menominee Indian Tribe of Wisconsin, which may include, but is not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</aftertext>
+    <aftertext>RESTRICTED AREAS — Any boat launches or areas restricted for cultural learning, emergency closures, or other public safety closures.</aftertext>
+    <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93-197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.</aftertext>
     <annotations/>
   </section>
   <section>

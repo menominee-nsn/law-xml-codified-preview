@@ -4,7 +4,9 @@
   <num>310</num>
   <heading>INVASIVE SPECIES PREVENTION AND FOREST HEALTH PROTECTION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2018 by Ord. No. 18-10; amended in its entirety 9-17-2020 by Ord. No. 20-22. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 20-22" type="History">Amended in its entirety 9-17-2020 by Ord. No. 20-22</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 18-10" type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2018 by Ord. No. 18-10</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -41,7 +43,7 @@
   <section cache:ref-path="II|§310-4">
     <prefix>§</prefix>
     <num>310-4</num>
-    <heading>Prohibited/restricted species (see attached list).<fn proof="needed" path="|II|§310-4|footnotes|1">1</fn></heading>
+    <heading>Prohibited/restricted species (see attached list).<fn path="|II|§310-4|footnotes|1">1</fn></heading>
     <text>It shall be illegal to transport into or possess, transfer or introduce within the exterior boundaries of the Menominee Reservation, any of the listed prohibited/restricted species.</text>
     <footnotes>
       <footnote>
@@ -62,8 +64,7 @@
     <prefix>§</prefix>
     <num>310-6</num>
     <heading>Enforcement and penalties.</heading>
-    <text>Violations of this section shall, upon conviction, result in a forfeiture of not less than $50 nor more than</text>
-    <text>$500 per violation and confiscation and destruction of the listed species.</text>
+    <text>Violations of this section shall, upon conviction, result in a forfeiture of not less than $50 nor more than $500 per violation and confiscation and destruction of the listed species.</text>
     <annotations/>
   </section>
   <section>

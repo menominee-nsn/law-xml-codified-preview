@@ -4,7 +4,8 @@
   <num>325</num>
   <heading>FIRE PREVENTION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-2-1981 by Ord. No. 81-9. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 81-9" type="History">Adopted by the Legislature of the Menominee Indian Tribe 4-2-1981 by Ord. No. 81-9</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -12,7 +13,7 @@
     <heading>Outdoor burning restricted.</heading>
     <para>
       <num>A.</num>
-      <text>Within the exterior boundaries of the Menominee Nation, it shall be unlawful for any person to set any fire unless such fire is attended at all times and the person has first obtained a burning permit on forms supplied by the Wisconsin Department of Natural Resources from a duly appointed and designated Wisconsin Department of Natural Resources forest ranger or fire warden, or other person designated by the Tribal Legislature, except: <strong>[Amended 7-12-1990]</strong></text>
+      <text>Within the exterior boundaries of the Menominee Nation, it shall be unlawful for any person to set any fire unless such fire is attended at all times and the person has first obtained a burning permit on forms supplied by the Wisconsin Department of Natural Resources from a duly appointed and designated Wisconsin Department of Natural Resources forest ranger or fire warden, or other person designated by the Tribal Legislature, except:<fn path="|II|§325-1|footnotes|1">1</fn></text>
       <para>
         <num>(1)</num>
         <text>When a fire is set and designed solely for warming the person or cooking food; or</text>
@@ -26,7 +27,15 @@
       <num>B.</num>
       <text>Any person who sets a fire solely for warming the person or cooking food shall extinguish such fire before leaving it and upon failure to do so will be in violation of <cite path="|II|325">this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Editor's Note: Amended 7-12-1990</text>
+      </footnote>
+    </footnotes>
+    <annotations>
+      <annotation type="History">Amended 7-12-1990</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -48,7 +57,7 @@
     <prefix>§</prefix>
     <num>325-4</num>
     <heading>Special authority to restrict burning.</heading>
-    <text><cite path="|II|325">This chapter</cite> includes the authority for the Wisconsin Department of Natural Resources, which the Tribe contracts with for fire protection, to restrict and forbid the setting of any type of fire or burning within the exterior boundaries of the Menominee Nation by any person, resident or nonresident, when there is a dangerously dry season. Setting of a fire or burning in <cite path="|II">this part</cite>icular section will include but will not be limited to the burning of trash or garbage, burning of leaves, campfires, charcoal grill fires, outside cooking units, etc. The only exception to <cite path="|II">this part</cite>icular section will be those homes where a stove or appliance is located inside the home which is needed in the preparation of food or for heat. The Menominee Tribal Legislature will be notified when this restriction goes into effect and proper notice will be given to the public by the following notification:</text>
+    <text><cite path="|II|325">This chapter</cite> includes the authority for the Wisconsin Department of Natural Resources, which the Tribe contracts with for fire protection, to restrict and forbid the setting of any type of fire or burning within the exterior boundaries of the Menominee Nation by any person, resident or nonresident, when there is a dangerously dry season. Setting of a fire or burning in this particular section will include but will not be limited to the burning of trash or garbage, burning of leaves, campfires, charcoal grill fires, outside cooking units, etc. The only exception to this particular section will be those homes where a stove or appliance is located inside the home which is needed in the preparation of food or for heat. The Menominee Tribal Legislature will be notified when this restriction goes into effect and proper notice will be given to the public by the following notification:</text>
     <para>
       <num>A.</num>
       <text>An announcement in the Shawano newspaper.</text>
@@ -64,9 +73,11 @@
   <section>
     <prefix>§</prefix>
     <num>325-5</num>
-    <heading>Negligent handling of materials which might cause forest fire; vehicles causing fire. [Added 7-12-1990]</heading>
+    <heading>Negligent handling of materials which might cause forest fire; vehicles causing fire.</heading>
     <text>Any person who would start, kindle or otherwise encourage a forest fire through careless use of smoking materials, fireworks, motorized equipment, flammable substances, or any other material or item of equipment shall be in violation of this section. Any person whose motorbike, motorcycle, automobile, van, truck, all-terrain vehicle or other vehicle is the cause of a fire shall be in violation of this section. The term "forest fire" as used in <cite path="|II|325">this chapter</cite> means uncontrolled, wild, or running fires occurring on forest, marsh, field, cutover or other lands or involving farm, tribal or village property and improvements incidental to the uncontrolled, wild or running fires occurring on forest, marsh, field, cutover or other lands within the exterior boundaries of the Menominee Indian Reservation.</text>
-    <annotations/>
+    <annotations>
+      <annotation type="History">Added 7-12-1990</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

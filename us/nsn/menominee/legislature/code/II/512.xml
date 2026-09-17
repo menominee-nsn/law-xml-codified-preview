@@ -4,7 +4,8 @@
   <num>512</num>
   <heading>SURFACE WATER</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-22-2004 by Ord. No. 04-22. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 04-22" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-22-2004 by Ord. No. 04-22</annotation>
     <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
     <annotation type="General References">Cultural Resource Management Plan — See <cite path="|II|293">Ch. 293</cite>. Forest management and development — See <cite path="|II|340">Ch. 340</cite>. Gravel, sand and fill removal — See <cite path="|II|354">Ch. 354</cite>.</annotation>
     <annotation type="General References">Hazardous materials — See <cite path="|II|361">Ch. 361</cite>. Mining — See <cite path="|II|415">Ch. 415</cite>.</annotation>
@@ -276,7 +277,8 @@
       <prefix>§</prefix>
       <num>512-5</num>
       <heading>Definitions.</heading>
-      <text>As used in <cite path="|II|512">this chapter</cite>, the following terms shall have the meanings indicated: ACUTE TOXICITY —</text>
+      <text>As used in <cite path="|II|512">this chapter</cite>, the following terms shall have the meanings indicated:</text>
+      <text>ACUTE TOXICITY —</text>
       <para>
         <num>A.</num>
         <text>The ability of a substance to cause poisonous effects that result in severe biological harm or death soon after a single exposure or dose.</text>
@@ -285,7 +287,8 @@
         <num>B.</num>
         <text>A relatively short-term lethal or other adverse effect to a test organism, that is a representative sensitive organism, caused by pollutants with a duration of exposure generally less than four days for fish and large invertebrates and shorter times for smaller organisms.</text>
       </para>
-      <aftertext>ANTHROPOGENIC — Caused by or related to, either directly or indirectly, human actions. ANTIDEGRADATION — See Article VI of this chapter.</aftertext>
+      <aftertext>ANTHROPOGENIC — Caused by or related to, either directly or indirectly, human actions.</aftertext>
+      <aftertext>ANTIDEGRADATION — See Article VI of this chapter.</aftertext>
       <aftertext>AQUATIC LIFE — Animal and plant or other life that resides in water at some stage in life history.</aftertext>
       <aftertext>BACKGROUND CONDITIONS — The biological, chemical, and physical conditions of a water body upstream from a point or nonpoint source of pollution under consideration. Background sampling location(s) in an enforcement action will be upstream from the point of discharge but not upstream from other discharges and inflows. If several discharges to any water body exist and an enforcement action is being taken for possible violations of standards, background sampling will be undertaken immediately upstream from each discharge.</aftertext>
       <aftertext>BEST MANAGEMENT PRACTICES (BMPs) — Schedules of activities, prohibitions or practices, maintenance procedures, and other management activities or engineered structures, or combinations of these, to prevent or reduce pollution to waters of the Reservation. Best management practices also include treatment requirements, operating procedures, and practices to control plant site runoff, spillage or leaks, sludge or waste disposal, or drainage from raw material storage.</aftertext>
@@ -310,9 +313,10 @@
       <para>
         <num>B.</num>
         <text>An evaluation using organisms to measure the effect of a substance, factor, or condition by comparing before and after data.</text>
-        <text>BIOCONCENTRATION — A process by which there is a net accumulation of a chemical directly from water into aquatic organisms.</text>
       </para>
-      <aftertext>BIOTIC INTEGRITY — A measure of the overall health of an ecosystem. CEREMONIAL, RELIGIOUS AND SPIRITUAL USE — See Article II of this chapter.</aftertext>
+      <aftertext>BIOCONCENTRATION — A process by which there is a net accumulation of a chemical directly from water into aquatic organisms.</aftertext>
+      <aftertext>BIOTIC INTEGRITY — A measure of the overall health of an ecosystem.</aftertext>
+      <aftertext>CEREMONIAL, RELIGIOUS AND SPIRITUAL USE — See Article II of this chapter.</aftertext>
       <aftertext>CHRONIC TOXICITY — The capacity of a substance to cause long-term poisonous effects in an organism after long-term exposure.</aftertext>
       <aftertext>COMPLIANCE ORDER — A legal document signed by the Tribe directing a person, business, or other party to take corrective action(s) or refrain from an activity and fulfill certain directives. The order describes the violations and actions to be taken and can be enforced in court. Such orders may be issued and the respondent may be ordered to pay a penalty for violations in addition to corrective action.</aftertext>
       <aftertext>CONTAMINANT — A chemical or biological substance in a form that can be incorporated into or onto or be ingested by and that harms aquatic organisms, consumers of aquatic organisms, or users of the aquatic environment.</aftertext>
@@ -375,7 +379,9 @@
       <aftertext>NAVIGABLE WATERS — Waters with beds and banks and sufficiently deep and wide for navigation with a canoe or other small craft. Navigable waters of the United States are those waters that are subject to the ebb and flow of the tide and/or are presently used, or have been used in the past, or may be susceptible for use to transport tribal, interstate or foreign commerce or other intermittent waterways that may be deemed by the Director to fulfill purposes of navigation. A determination of navigability, once made, applies laterally over the entire surface of the water body and is not extinguished by other actions or events which impede or destroy the navigable capacity.</aftertext>
       <aftertext>NEW AND EXISTING HYDROLOGIC MODIFICATIONS — Include, but are not limited to, dams and other impoundments, straightening and flow alteration activities, wetland drainages, and withdrawal of water.</aftertext>
       <aftertext>NONPOINT SOURCE POLLUTION — Pollution sources that are diffuse and do not have a single point of origin and are not introduced into a receiving stream or other body of water from a specific outlet. The pollutants are generally carried off land by runoff, urban runoff and other sources of pollution that generally cannot be classified as point sources of pollution. Common sources include agriculture, urban areas, certain industrial activities, construction sites, dams and other hydrologic and hydraulic modifications, private on-site waste treatment systems, and land disposal.</aftertext>
-      <aftertext>NPDES — See "National Pollutant Discharge Elimination System." OMRW — Outstanding Menominee resource water; see Article VI. ONRW — Outstanding national resource water; see Article VI.</aftertext>
+      <aftertext>NPDES — See "National Pollutant Discharge Elimination System."</aftertext>
+      <aftertext>OMRW — Outstanding Menominee resource water; see Article VI.</aftertext>
+      <aftertext>ONRW — Outstanding national resource water; see Article VI.</aftertext>
       <aftertext>PERMIT — An authorization, license, or equivalent control document issued by the Tribe, EPA, an approved state, United States Army Corps of Engineers (USACE), or other federal agency to implement the requirements of this chapter, the CWA, and other regulations, including but not limited to a tribal water quality certification, a tribal water permit or a permit issued under the NPDES program.</aftertext>
       <aftertext>PERSON — See "entity."</aftertext>
       <aftertext>PESTICIDE — A substance intended for preventing, destroying, repelling or mitigating any pest. Also, any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant.</aftertext>
@@ -413,7 +419,8 @@
       <aftertext>TOXIC SUBSTANCE — A substance that can cause death, disease, behavioral abnormalities, cancer, genetic mutations, teratogenic effects, physiological or reproductive malfunction or physical deformities in any organism or its offspring through concentration and/or bioaccumulation in the food chain, acting alone or in combination with other substances or breakdown products. These include, but are not limited to, PCBs, heavy metals, pesticides, hazardous wastes, and other components of discharges, effluent, and emissions and other pollution sources that result in atmospheric deposition of these substances.</aftertext>
       <aftertext>TRIBAL LEGISLATURE — The nine-member governing body of the Menominee Indian Tribe of Wisconsin elected by tribal members and empowered with authority and jurisdiction contained in the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin.</aftertext>
       <aftertext>TRIBAL WATER PERMIT — See Article VIII of this chapter.</aftertext>
-      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized sovereign Indian tribe. TRIBUTARY — A stream or creek inlet flowing into a larger body of water.</aftertext>
+      <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized sovereign Indian tribe.</aftertext>
+      <aftertext>TRIBUTARY — A stream or creek inlet flowing into a larger body of water.</aftertext>
       <aftertext>UNAUTHORIZED CONDITIONS — Existing conditions stemming from anthropogenic causes that violate portions of this chapter.</aftertext>
       <aftertext>UNAUTHORIZED DISCHARGE OF SUBSTANCE(S) — Chemicals, toxic substances, hazardous substances or wastes, components of industrial discharge(s), heavy metals, organic compounds, pesticides, discharge(s), loadings, or other pollutants that enter ONRW or affect OMRW designated waters of the Reservation without prior issuance of a tribal water permit.</aftertext>
       <aftertext>URBAN RUNOFF — Stormwater from city streets and adjacent domestic or commercial properties, construction and other surface disturbance sites, and parking lots that may pick up terrestrial contamination and carry pollutants of various kinds into sewer systems and/or receiving waters.</aftertext>
@@ -441,43 +448,160 @@
       <num>512-6</num>
       <heading>Acronyms.</heading>
       <text>As used in <cite path="|II|512">this chapter</cite>, the following acronyms shall have the meanings indicated:</text>
-      <text>BCC	Bioaccumulative chemicals of concern</text>
-      <text>BMPs	Best management practices</text>
-      <text>BOD	Biochemical oxygen demand</text>
-      <text>C1	Candidate species</text>
-      <text>CCC	Criterion continuous concentration</text>
-      <text>CERCLA	Comprehensive Environmental Response Compensation and Liability Act</text>
-      <text>CF	Conversion factor</text>
-      <text>CMC	Criterion maximum concentration</text>
-      <text>CWA	Clear Water Act</text>
-      <text>EPA	Environmental Protection Agency</text>
-      <text>ESA	Endangered Species Act</text>
-      <text>FWS	United States Fish and Wildlife Service</text>
-      <text>GLI	Great Lakes Initiative</text>
-      <text>HCV	Human cancer value</text>
-      <text>HNV	Human noncancer value</text>
-      <text>MITW	Menominee Indian Tribe of Wisconsin</text>
-      <text>MITW WQS	Menominee Indian Tribe of Wisconsin Water Quality Standards</text>
-      <text>ML	Minimum level</text>
-      <text>MS4	Municipal separate storm sewer system</text>
-      <text>NEPA	National Environmental Policy Act</text>
-      <text>NOI	Notice of intent</text>
-      <text>NOT	Notice of termination</text>
-      <text>OMRW	Outstanding Menominee resource waters</text>
-      <text>ONRW	Outstanding national resource waters</text>
-      <text>NPDES	National Pollutant Discharge Elimination System</text>
-      <text>PEL	Preliminary effluent limitations</text>
-      <text>PEQ	Projected effluent quality</text>
-      <text>PMP	Pollutant minimization program</text>
-      <text>POTW	Publicly owned treatment works</text>
-      <text>POWTS	Private on-site wastewater treatment system</text>
-      <text>SS	Suspended solids</text>
-      <text>SWMP	Stormwater management plan</text>
-      <text>SWPPP	Stormwater pollution prevention plan</text>
-      <text>WET	Whole effluent toxicity</text>
-      <text>WLA	Waste load allocation</text>
-      <text>WQBEL	Water-quality-based effluent limitation</text>
-      <text>WQS	Water quality standards</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td>BCC</td>
+              <td>Bioaccumulative chemicals of concern</td>
+            </tr>
+            <tr>
+              <td>BMPs</td>
+              <td>Best management practices</td>
+            </tr>
+            <tr>
+              <td>BOD</td>
+              <td>Biochemical oxygen demand</td>
+            </tr>
+            <tr>
+              <td>C1</td>
+              <td>Candidate species</td>
+            </tr>
+            <tr>
+              <td>CCC</td>
+              <td>Criterion continuous concentration</td>
+            </tr>
+            <tr>
+              <td>CERCLA</td>
+              <td>Comprehensive Environmental Response Compensation and Liability Act</td>
+            </tr>
+            <tr>
+              <td>CF</td>
+              <td>Conversion factor</td>
+            </tr>
+            <tr>
+              <td>CMC</td>
+              <td>Criterion maximum concentration</td>
+            </tr>
+            <tr>
+              <td>CWA</td>
+              <td>Clear Water Act</td>
+            </tr>
+            <tr>
+              <td>EPA</td>
+              <td>Environmental Protection Agency</td>
+            </tr>
+            <tr>
+              <td>ESA</td>
+              <td>Endangered Species Act</td>
+            </tr>
+            <tr>
+              <td>FWS</td>
+              <td>United States Fish and Wildlife Service</td>
+            </tr>
+            <tr>
+              <td>GLI</td>
+              <td>Great Lakes Initiative</td>
+            </tr>
+            <tr>
+              <td>HCV</td>
+              <td>Human cancer value</td>
+            </tr>
+            <tr>
+              <td>HNV</td>
+              <td>Human noncancer value</td>
+            </tr>
+            <tr>
+              <td>MITW</td>
+              <td>Menominee Indian Tribe of Wisconsin</td>
+            </tr>
+            <tr>
+              <td>MITW WQS</td>
+              <td>Menominee Indian Tribe of Wisconsin Water Quality Standards</td>
+            </tr>
+            <tr>
+              <td>ML</td>
+              <td>Minimum level</td>
+            </tr>
+            <tr>
+              <td>MS4</td>
+              <td>Municipal separate storm sewer system</td>
+            </tr>
+            <tr>
+              <td>NEPA</td>
+              <td>National Environmental Policy Act</td>
+            </tr>
+            <tr>
+              <td>NOI</td>
+              <td>Notice of intent</td>
+            </tr>
+            <tr>
+              <td>NOT</td>
+              <td>Notice of termination</td>
+            </tr>
+            <tr>
+              <td>OMRW</td>
+              <td>Outstanding Menominee resource waters</td>
+            </tr>
+            <tr>
+              <td>ONRW</td>
+              <td>Outstanding national resource waters</td>
+            </tr>
+            <tr>
+              <td>NPDES</td>
+              <td>National Pollutant Discharge Elimination System</td>
+            </tr>
+            <tr>
+              <td>PEL</td>
+              <td>Preliminary effluent limitations</td>
+            </tr>
+            <tr>
+              <td>PEQ</td>
+              <td>Projected effluent quality</td>
+            </tr>
+            <tr>
+              <td>PMP</td>
+              <td>Pollutant minimization program</td>
+            </tr>
+            <tr>
+              <td>POTW</td>
+              <td>Publicly owned treatment works</td>
+            </tr>
+            <tr>
+              <td>POWTS</td>
+              <td>Private on-site wastewater treatment system</td>
+            </tr>
+            <tr>
+              <td>SS</td>
+              <td>Suspended solids</td>
+            </tr>
+            <tr>
+              <td>SWMP</td>
+              <td>Stormwater management plan</td>
+            </tr>
+            <tr>
+              <td>SWPPP</td>
+              <td>Stormwater pollution prevention plan</td>
+            </tr>
+            <tr>
+              <td>WET</td>
+              <td>Whole effluent toxicity</td>
+            </tr>
+            <tr>
+              <td>WLA</td>
+              <td>Waste load allocation</td>
+            </tr>
+            <tr>
+              <td>WQBEL</td>
+              <td>Water-quality-based effluent limitation</td>
+            </tr>
+            <tr>
+              <td>WQS</td>
+              <td>Water quality standards</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
       <annotations/>
     </section>
   </container>
@@ -575,7 +699,7 @@
         <text>Lakes of the Menominee Reservation.</text>
         <text>
           <table>
-            <tbody>
+            <thead>
               <tr>
                 <th>Lake Names</th>
                 <th colspan="3">Location</th>
@@ -588,6 +712,8 @@
                 <th>Sec.</th>
                 <td/>
               </tr>
+            </thead>
+            <tbody>
               <tr>
                 <td>Askennette Springs (T)</td>
                 <td>30</td>
@@ -1072,23 +1198,28 @@
                 <td/>
               </tr>
             </tbody>
+            <tfoot>
+              <tr>
+                <td>(L.L.) – Component</td>
+                <td colspan="4">lakes making up present Legend Lake.</td>
+              </tr>
+              <tr>
+                <td>(T) –</td>
+                <td colspan="4">Lakes that presently support or are capable of supporting trout species; these are designated cold water ecosystems.</td>
+              </tr>
+            </tfoot>
           </table>
         </text>
-        <text>NOTES:</text>
-        <text>(L.L.) – Component	lakes making up present Legend Lake.</text>
-        <text>(T) –	Lakes that presently support or are capable of supporting trout species; these are designated cold water ecosystems.</text>
       </para>
       <para>
         <num>B.</num>
         <text>Rivers, streams, and creeks of the Menominee Reservation.</text>
         <text>
           <table>
-            <tbody>
+            <thead>
               <tr>
                 <th>Lake Names</th>
-                <td/>
                 <th colspan="3">Location</th>
-                <td/>
                 <th>Base Map Key</th>
               </tr>
               <tr>
@@ -1098,6 +1229,8 @@
                 <th>Sec.</th>
                 <td/>
               </tr>
+            </thead>
+            <tbody>
               <tr>
                 <td>Big Eddy Creek</td>
                 <td>29</td>
@@ -1693,7 +1826,7 @@
       <heading>Department determinations.</heading>
       <para>
         <num>A.</num>
-        <text>The Department shall review all proposed activities subject to <cite path="|II|512|IV">this article</cite> and shall determine whether the project proponent has shown, based on the factors in <cite>Subsections D and E</cite>, if the activities are in conformance with the provisions of <cite path="|II|512|IV">this article</cite>. The Department shall, upon request, meet with a project proponent and other interested persons to make a preliminary assessment of the scope for an analysis of alternatives and the potential for compliance with <cite path="|II|512|IV">this article</cite>.</text>
+        <text>The Department shall review all proposed activities subject to <cite path="|II|512|IV">this article</cite> and shall determine whether the project proponent has shown, based on the factors in Subsections D and E, if the activities are in conformance with the provisions of <cite path="|II|512|IV">this article</cite>. The Department shall, upon request, meet with a project proponent and other interested persons to make a preliminary assessment of the scope for an analysis of alternatives and the potential for compliance with <cite path="|II|512|IV">this article</cite>.</text>
         <para>
           <num>(1)</num>
           <text>The Department shall review the application for completeness within 30 days of receipt of the application. The Department shall notify the applicant of any additional information reasonably necessary to review the application. An application may not be considered complete until the requirements of the National Environmental Policy Act have been met.</text>
@@ -1929,7 +2062,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Where applicable, and for isolated waters (including wetlands), the Department shall employ the National Water Quality Criteria [corrected April 1999, EPA-822-Z-99-001 as amended (<cite path="revcom.pdf">this article</cite>. The Department shall use its discretion to employ numeric criteria consistent with the overall purpose and goals of these standards when considering discharge proposals for isolated waters. In all cases, uses shall be protected and maintained.)] in place of or in addition to the numeric criteria identified in this article. The Department shall use its discretion to employ numeric criteria consistent with the overall purpose and goals of these standards when considering discharge proposals for isolated waters. In all cases, uses shall be protected and maintained.<fn path="|II|§512-18|footnotes|5">5</fn></text>
+        <text>Where applicable, and for isolated waters (including wetlands), the Department shall employ the National Water Quality Criteria [corrected April 1999, EPA-822-Z-99-001 as amended (<a href="http://www.epa.gov/waterscience/pc/revcom.pdf">http://www.epa.gov/waterscience/pc/revcom.pdf</a>)] in place of or in addition to the numeric criteria identified in this article. The Department shall use its discretion to employ numeric criteria consistent with the overall purpose and goals of these standards when considering discharge proposals for isolated waters. In all cases, uses shall be protected and maintained.<fn path="|II|§512-18|footnotes|5">5</fn></text>
       </para>
       <footnotes>
         <footnote>
@@ -2442,7 +2575,8 @@
       <heading>Antidegradation implementation procedures.</heading>
       <para>
         <num>A.</num>
-        <text>Definitions. In addition to definitions contained elsewhere in <cite path="|II|512">this chapter</cite>, the following shall apply: BCC — Bioaccumulative chemicals of concern; see Tables 5 and 6.<fn path="|II|§512-24|footnotes|7">7</fn></text>
+        <text>Definitions. In addition to definitions contained elsewhere in <cite path="|II|512">this chapter</cite>, the following shall apply:</text>
+        <text>BCC — Bioaccumulative chemicals of concern; see Tables 5 and 6.<fn path="|II|§512-24|footnotes|7">7</fn></text>
         <text>CONTROL DOCUMENT — Any authorization issued by the Department or federal agency to any source of pollutants to waters under its jurisdiction that specifies conditions under which the source is allowed to operate.</text>
         <text>HIGH-QUALITY WATERS — Water bodies in which, on a parameter-by-parameter basis, the quality of the waters exceeds levels necessary to support propagation of fish, shellfish, and wildlife and recreation in and on the water.</text>
         <text>LAKE SUPERIOR BASIN — For the purposes of the MITW WQS, each of the references to "Lake Superior" and "Lake Superior basin" shall include Great Lakes tributary waters that also flow to Lake Michigan.</text>
@@ -2594,7 +2728,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Special provision for remedial actions. Entities proposing remedial actions pursuant to the CERCLA, as amended, corrective actions pursuant to the Resource Conservation and Recovery Act, as amended, or similar actions pursuant to other federal or tribal environmental statutes or ordinances may submit information to the Director that demonstrates that the action utilizes the most cost-effective pollution prevention and treatment techniques available and minimizes the necessary lowering of water quality, in lieu of the information required by <cite>Subsections B through D</cite>.</text>
+        <text>Special provision for remedial actions. Entities proposing remedial actions pursuant to the CERCLA, as amended, corrective actions pursuant to the Resource Conservation and Recovery Act, as amended, or similar actions pursuant to other federal or tribal environmental statutes or ordinances may submit information to the Director that demonstrates that the action utilizes the most cost-effective pollution prevention and treatment techniques available and minimizes the necessary lowering of water quality, in lieu of the information required by Subsections B through D.</text>
       </para>
       <annotations/>
     </section>

@@ -4,7 +4,9 @@
   <num>287</num>
   <heading>CONSERVATION CODE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-1999 by Ord. No. 99-01; amended in its entirety 10-1-2020 by Ord. No. 20-25. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 20-25" type="History">Amended in its entirety 10-1-2020 by Ord. No. 20-25</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 99-01" type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-1999 by Ord. No. 99-01</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -61,7 +63,8 @@
     <text>BIG GAME — Includes deer, bear, elk, moose and buffalo.</text>
     <text>BIG GAME FISH — Includes large-mouth and small-mouth bass, walleye, trout, northern pike, salmon, rock or lake sturgeon, and muskellunge.</text>
     <text>BOW — Any hunting instrument designed for the purpose of propelling arrows which is drawn and held by and through efforts of the person releasing, but does not include a crossbow.</text>
-    <text>BUCK DEER — Any deer with an antler not less than three inches in length. CARCASS — The dead body of fish or wildlife or parts thereof.</text>
+    <text>BUCK DEER — Any deer with an antler not less than three inches in length.</text>
+    <text>CARCASS — The dead body of fish or wildlife or parts thereof.</text>
     <text>CLOSED SEASON — The time and or days during which fish or wildlife may not be taken legally.</text>
     <text>COMMERCIAL USE — The engaging in buying, selling, bartering, or exchange, for goods, services, or money, the natural resources of the Tribe which results from hunting, fishing, trapping or gathering.</text>
     <text>COMMISSION — The Conservation Commission, a seven-member regulatory body organized and empowered herein to issue such rules as are necessary for the preservation and protection of the natural resources of the Tribe.</text>
@@ -90,7 +93,8 @@
     <text>INCENDIARY DEVICE — Any device designed or specially adapted to cause physical harm to persons or property by means of fire, and consisting of an incendiary substance or agency and a means to ignite it.</text>
     <text>LEGISLATURE or MENOMINEE TRIBAL LEGISLATURE — The governing body which is established under, and the members of which are elected pursuant to, Article IV of the Constitution and Bylaws of the Tribe.</text>
     <text>LICENSE — An identification card and license that is issued by the Menominee Tribal License and Permits Department for the purpose of allowing an individual to legally hunt, fish, gather, and trap on the reservation.</text>
-    <text>LICENSEE — Any person who is eligible for and obtains a license specified in <cite path="|II|287">this chapter</cite>. LIGHT — Includes flashlights, automobile lights and other lights.</text>
+    <text>LICENSEE — Any person who is eligible for and obtains a license specified in <cite path="|II|287">this chapter</cite>.</text>
+    <text>LIGHT — Includes flashlights, automobile lights and other lights.</text>
     <text>MIGRATORY GAME BIRDS — Any bird which is migratory and on which an open season has been prescribed by the Commission and belongs to one of the following families:</text>
     <para>
       <num>A.</num>
@@ -103,40 +107,39 @@
     <para>
       <num>C.</num>
       <text>Scolopacidae [woodcock and Wilson's snipe (jacksnipe)].</text>
-      <text>MINNOWS — Includes suckers, mud minnows, madtom, stonecat, killifish, stickleback, trout-perch, darters, sculpin and all minnow family cyprinids except goldfish and carp.</text>
-      <text>MOLEST — Any activity which results in physical damage or destruction of an object and/or animal.<fn path="|II|§287-5|footnotes|1">1</fn></text>
-      <text>NON-LEAD AMMUNITION — Any centerfire, shotgun, muzzleloading, or rimfire ammunition containing projectiles not classified by the federal government as toxic or harmful to wildlife or the environment.</text>
-      <text>PERSON — A natural person, corporation, limited-liability company, cooperative, private or public utility, estate or trust, the United States, a federal agency, the Tribe, or a tribal department or program.</text>
-      <text>PLANT — The undomesticated species, and fruit or part thereof, of the plant kingdom occurring in the natural ecosystem.</text>
-      <text>POSSESSION LIMIT — The amount of fish, wildlife, and plant that may be legally possessed at any one time.</text>
-      <text>PROJECTILE — Any bullet, ball, sabot, slug, buckshot, shot, pellet or other device that is expelled from a firearm through a barrel by force.</text>
-      <text>QUALIFIED DESCENDANT — An individual biologically descended from an enrolled Tribal member possessing at least 1/8° Menominee Blood and who appears on the Menominee Indian Tribe's descendent register per <cite path="|I|46">Chapter 46</cite>.</text>
-      <text>RECREATION — Includes, but not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</text>
-      <text>RESERVATION — The Menominee Indian Reservation; the entire area within the exterior boundaries established by the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, plus the Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</text>
-      <text>ROUGH FISH — Includes dace, suckers, carp, goldfish, redhorse, freshwater drum, burbot, bowfin, garfish, buffalo fish, lamprey, alewife, gizzard shad, smelt, goldeye, mooneye, carpsucker, quill back, and chub.</text>
-      <text>RULE — Any duly enacted rule of the Commission.</text>
-      <text>SECOND SEASON — For the purpose of bear hunting, means a bear that is in its second season after birth.</text>
-      <text>SHINING — The casting of rays of a light on a field, forest or other area for the purpose of illuminating, locating or attempting to illuminate or locate wild animals.</text>
-      <text>SMALL GAME — Includes rabbits, squirrels, fox and raccoon.</text>
-      <text>SMALL GAME FISH — Includes white bass, rock bass, bluegill, crappie, pumpkinseed, yellow perch, bullheads, yellow bass, catfish, cisco and whitefish and spoonbill catfish.</text>
-      <text>SNARE — A steel cable device in the form of a noose with a stop, lock and swivel which is set to capture an animal by the body, neck or foot.</text>
-      <text>SPEAR FISHING — Taking or attempting to take a fish by means of a hand-held spear or other similar device which is directed by the spearer to impale the target fish. Spearing may include the use of an artificial light.</text>
-      <text>SPOUSE — Any male or female lawfully married to a Menominee tribal member. Upon death of tribal member spouses, spousal privileges of non-tribal member spouses shall cease.</text>
-      <text>STOCKING — The intentional release of a fish into the waters of the Menominee Indian Reservation which was not caught in the waters in which it was released.</text>
-      <text>STURGEON CEREMONY — An officially recognized and organized spring ceremony celebrating the</text>
-      <text>return of sturgeon to the Reservation, which has been historically celebrated by Menominee tribal members. This ceremony may be conducted annually. The date and manner of the ceremony shall be determined only by a majority vote of the Menominee Tribal Legislature prior to each proposed ceremony. The number of sturgeon recommended for harvest shall be determined by the Menominee Tribal Conservation Committee. No ceremony shall be conducted without final approval of the Menominee Tribal Legislature.</text>
-      <text>TAG — An identification tag that is issued to a hunter, fisherman, or trapper by the Menominee Conservation Department, which is authorized for use on killed deer, bear, turkey, sturgeon, bobcat, fisher, or otter. When used as a verb, "tag" means the act of attaching a tag to a deer, bear, turkey, sturgeon, bobcat, fisher, or otter.</text>
-      <text>THREATENED SPECIES — Any species of wild animals or wild plants which appears likely, within the foreseeable future, on the basis of scientific evidence, to become endangered.</text>
-      <text>TRACER SHELL — Any bullet or projectile that is built with a pyrotechnic charge in its base used to make the path of the projectile visible to the naked eye.</text>
-      <text>TRAPPING — Includes the taking of, or attempting to take, any wild animals by means of setting or operating any device, mechanism or contraption that is designed, built or made to close upon, hold fast, or otherwise capture a wild animal or animals. When the word "trap" is used as a verb, it shall have the same meaning as the word "trapping" as defined herein.</text>
-      <text>TRAPPING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with trapping.</text>
-      <text>TRIBAL MEMBER — When used with respect to the Tribe, means an individual enrolled in the Tribe.</text>
-      <text>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93- 197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|II|§287-5|footnotes|2">2</fn></text>
-      <text>TROUT WATERS — Any waters capable of sustaining significant populations of naturally producing trout.</text>
-      <text>WATERFOWL — Any migratory game bird of the family Anatidae, including wild ducks, geese and brant.</text>
-      <text>WILD ANIMAL — Any mammal, fish, wild bird, amphibian, reptile, mollusk, crustacean, or arthropod, or any part, products, egg or offspring thereof, or the dead body or parts thereof.</text>
-      <text>WILD PLANT — Any undomesticated species of the plant kingdom occurring in a natural ecosystem.</text>
     </para>
+    <aftertext>MINNOWS — Includes suckers, mud minnows, madtom, stonecat, killifish, stickleback, trout-perch, darters, sculpin and all minnow family cyprinids except goldfish and carp.</aftertext>
+    <aftertext>MOLEST — Any activity which results in physical damage or destruction of an object and/or animal.<fn path="|II|§287-5|footnotes|1">1</fn></aftertext>
+    <aftertext>NON-LEAD AMMUNITION — Any centerfire, shotgun, muzzleloading, or rimfire ammunition containing projectiles not classified by the federal government as toxic or harmful to wildlife or the environment.</aftertext>
+    <aftertext>PERSON — A natural person, corporation, limited-liability company, cooperative, private or public utility, estate or trust, the United States, a federal agency, the Tribe, or a tribal department or program.</aftertext>
+    <aftertext>PLANT — The undomesticated species, and fruit or part thereof, of the plant kingdom occurring in the natural ecosystem.</aftertext>
+    <aftertext>POSSESSION LIMIT — The amount of fish, wildlife, and plant that may be legally possessed at any one time.</aftertext>
+    <aftertext>PROJECTILE — Any bullet, ball, sabot, slug, buckshot, shot, pellet or other device that is expelled from a firearm through a barrel by force.</aftertext>
+    <aftertext>QUALIFIED DESCENDANT — An individual biologically descended from an enrolled Tribal member possessing at least 1/8° Menominee Blood and who appears on the Menominee Indian Tribe's descendent register per <cite path="|I|46">Chapter 46</cite>.</aftertext>
+    <aftertext>RECREATION — Includes, but not be limited to, picnicking, camping, boating, hunting, fishing, hiking, skiing, swimming, and other related activities.</aftertext>
+    <aftertext>RESERVATION — The Menominee Indian Reservation; the entire area within the exterior boundaries established by the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, plus the Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</aftertext>
+    <aftertext>ROUGH FISH — Includes dace, suckers, carp, goldfish, redhorse, freshwater drum, burbot, bowfin, garfish, buffalo fish, lamprey, alewife, gizzard shad, smelt, goldeye, mooneye, carpsucker, quill back, and chub.</aftertext>
+    <aftertext>RULE — Any duly enacted rule of the Commission.</aftertext>
+    <aftertext>SECOND SEASON — For the purpose of bear hunting, means a bear that is in its second season after birth.</aftertext>
+    <aftertext>SHINING — The casting of rays of a light on a field, forest or other area for the purpose of illuminating, locating or attempting to illuminate or locate wild animals.</aftertext>
+    <aftertext>SMALL GAME — Includes rabbits, squirrels, fox and raccoon.</aftertext>
+    <aftertext>SMALL GAME FISH — Includes white bass, rock bass, bluegill, crappie, pumpkinseed, yellow perch, bullheads, yellow bass, catfish, cisco and whitefish and spoonbill catfish.</aftertext>
+    <aftertext>SNARE — A steel cable device in the form of a noose with a stop, lock and swivel which is set to capture an animal by the body, neck or foot.</aftertext>
+    <aftertext>SPEAR FISHING — Taking or attempting to take a fish by means of a hand-held spear or other similar device which is directed by the spearer to impale the target fish. Spearing may include the use of an artificial light.</aftertext>
+    <aftertext>SPOUSE — Any male or female lawfully married to a Menominee tribal member. Upon death of tribal member spouses, spousal privileges of non-tribal member spouses shall cease.</aftertext>
+    <aftertext>STOCKING — The intentional release of a fish into the waters of the Menominee Indian Reservation which was not caught in the waters in which it was released.</aftertext>
+    <aftertext>STURGEON CEREMONY — An officially recognized and organized spring ceremony celebrating the return of sturgeon to the Reservation, which has been historically celebrated by Menominee tribal members. This ceremony may be conducted annually. The date and manner of the ceremony shall be determined only by a majority vote of the Menominee Tribal Legislature prior to each proposed ceremony. The number of sturgeon recommended for harvest shall be determined by the Menominee Tribal Conservation Committee. No ceremony shall be conducted without final approval of the Menominee Tribal Legislature.</aftertext>
+    <aftertext>TAG — An identification tag that is issued to a hunter, fisherman, or trapper by the Menominee Conservation Department, which is authorized for use on killed deer, bear, turkey, sturgeon, bobcat, fisher, or otter. When used as a verb, "tag" means the act of attaching a tag to a deer, bear, turkey, sturgeon, bobcat, fisher, or otter.</aftertext>
+    <aftertext>THREATENED SPECIES — Any species of wild animals or wild plants which appears likely, within the foreseeable future, on the basis of scientific evidence, to become endangered.</aftertext>
+    <aftertext>TRACER SHELL — Any bullet or projectile that is built with a pyrotechnic charge in its base used to make the path of the projectile visible to the naked eye.</aftertext>
+    <aftertext>TRAPPING — Includes the taking of, or attempting to take, any wild animals by means of setting or operating any device, mechanism or contraption that is designed, built or made to close upon, hold fast, or otherwise capture a wild animal or animals. When the word "trap" is used as a verb, it shall have the same meaning as the word "trapping" as defined herein.</aftertext>
+    <aftertext>TRAPPING EQUIPMENT — Any equipment, gear or device commonly used for or in connection with trapping.</aftertext>
+    <aftertext>TRIBAL MEMBER — When used with respect to the Tribe, means an individual enrolled in the Tribe.</aftertext>
+    <aftertext>TRIBE — The Menominee Indian Tribe of Wisconsin, a federally recognized Indian Tribe as provided by the Menominee Restoration Act, Act December 22, 1973, Pub. Law 93- 197, 87 Stat. 770, which appears generally as 25 U.S.C. § 903 et seq.<fn path="|II|§287-5|footnotes|2">2</fn></aftertext>
+    <aftertext>TROUT WATERS — Any waters capable of sustaining significant populations of naturally producing trout.</aftertext>
+    <aftertext>WATERFOWL — Any migratory game bird of the family Anatidae, including wild ducks, geese and brant.</aftertext>
+    <aftertext>WILD ANIMAL — Any mammal, fish, wild bird, amphibian, reptile, mollusk, crustacean, or arthropod, or any part, products, egg or offspring thereof, or the dead body or parts thereof.</aftertext>
+    <aftertext>WILD PLANT — Any undomesticated species of the plant kingdom occurring in a natural ecosystem.</aftertext>
     <footnotes>
       <footnote>
         <num>1</num>
@@ -266,7 +269,7 @@
       <text>Establishment of bylaws. The Commission may adopt such bylaws as it deems appropriate.</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 3-21-2024 by Ord. No. 24-10</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 24-10" type="History">Amended 3-21-2024 by Ord. No. 24-10</annotation>
     </annotations>
   </section>
   <section>
@@ -874,7 +877,7 @@
       <text><cite path="|II|287">This chapter</cite> shall take effect immediately upon final approval by the Menominee Tribal Legislature.</text>
     </para>
     <annotations>
-      <annotation type="History">Amended 4-21-2022 by Ord. No. 22-04</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 22-04" type="History">Amended 4-21-2022 by Ord. No. 22-04</annotation>
     </annotations>
   </section>
 </container>

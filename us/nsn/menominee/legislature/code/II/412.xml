@@ -1,0 +1,1521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="II|412">
+  <prefix>Chapter</prefix>
+  <num>412</num>
+  <heading>CANNABIS CONTROL</heading>
+  <annotations>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 25-15" type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-15-2025 by Ord. No. 25-15</annotation>
+  </annotations>
+  <container>
+    <prefix>Article</prefix>
+    <num>I</num>
+    <heading>General Provisions</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|II|412">this chapter</cite> is to regulate the cultivation, distribution, and use of cannabis on the Menominee Reservation to allow people who suffer from chronic or debilitating medical conditions to obtain cannabis safely and conveniently while maintaining public confidence and by strictly regulating the cultivation, distribution, and use of cannabis pursuant to <cite path="|II|412">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-2</num>
+      <heading>Control of Cannabis.</heading>
+      <text>In order to achieve the purpose of <cite path="|II|412">this chapter</cite> stated above, and in order to provide a source of governmental revenue, the cultivation, processing, wholesale distribution, and distribution of cannabis on the Reservation shall be prohibited by all persons except for Tribal Businesses licensed under <cite path="|II|412">this chapter</cite>, and Wholesale Distributors licensed under <cite path="|II|412">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-3</num>
+      <heading>Definitions.</heading>
+      <text>As used in <cite path="|II|412">this chapter</cite>, the following words shall have the following meanings unless the context clearly requires otherwise:</text>
+      <text>CANNABIS — The plant Cannabis sativa L. and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration greater than 0.3% on a dry weight basis. Cannabis for the purposes of <cite path="|II|412">this chapter</cite> shall have the same meaning as Marijuana as that term is used in <cite path="|II|306">Chapter 306 of the Menominee Tribal Code</cite>.</text>
+      <text>CANNABIS BUSINESS — A cultivation facility, processing facility, Distribution Facility, cannabis concentrate facility, wholesale distributor, or any combination thereof, licensed pursuant to <cite path="|II|412">this chapter</cite>.</text>
+      <text>CANNABIS CONCENTRATE — A specific subset of cannabis that was produced by extracting cannabinoids from cannabis. Types of cannabis concentrates include water-based cannabis concentrates, solvent-based cannabis concentrates, critical fluid extraction cannabis concentrates and fat-based cannabis concentrates.</text>
+      <text>CANNABIS PRODUCT — A product that contains cannabis or an extract thereof and is intended for use or consumption other than by inhalation, including but not limited to foodstuffs, extracts, oils, tinctures and other similar products.</text>
+      <text>CRITICAL FLUID EXTRACTION CANNABIS CONCENTRATE — A cannabis concentrate that was produced by extracting cannabinoids from cannabis through the use of solvents, including only heptane or carbon dioxide.</text>
+      <text>CULTIVATION — The preparing and growing of the plant cannabis, commonly known as marijuana.</text>
+      <text>CULTIVATION FACILITY — Any business under the jurisdiction of the Tribe that acquires, possesses, cultivates, delivers, transfers, transports, supplies or sells cannabis and related supplies to another cultivation facility, a processing facility or Distribution Facility.</text>
+      <text>DEPARTMENT — The Menominee Indian Tribe of Wisconsin Department of Agriculture and Food Services.</text>
+      <text>DISTRIBUTION FACILITY — A Tribal Business that acquires, possesses, delivers, transfers, transports, supplies, sells or dispenses cannabis or related supplies and educational materials to the holder of a valid Medical Registration Card.</text>
+      <text>FAT-BASED CANNABIS CONCENTRATE — A cannabis concentrate that was produced by extracting cannabinoids from cannabis through the use of butter, olive oil or other typical cooking fats as a solvent.</text>
+      <text>INVENTORY CONTROL — A process that may be used to monitor the chain of custody of cannabis from the point of cultivation to the consumer.</text>
+      <text>MANAGEMENT CONTRACTOR — An entity licensed by the Department to manage a Tribal Cannabis Business.</text>
+      <text>MANAGEMENT EMPLOYEES — Those employees who serve in a supervisory role of some nature and are at least 21 years old.</text>
+      <text>MEDICAL REGISTRATION CARD — A medical registration card issued pursuant to <cite path="|II|306">Chapter 306 of the Menominee Tribal Code</cite>.</text>
+      <text>PROCESSING — The harvesting of the plant cannabis or the use of any process or equipment, including but not limited to dehydrators or humidifiers that may be necessary to convert raw cannabis plants or plant parts into a consumable product.</text>
+      <text>PROCESSING FACILITY — Any Tribal Business at which cannabis is processed for supply to a Distribution Facility.</text>
+      <text>REGULATORY AUTHORITY — The Regulatory Authority created pursuant to <cite path="|I|22">Chapter 22 of the Menominee Tribal Code</cite>.</text>
+      <text>RESERVATION — All lands and other property including all waters and air space within the exterior boundaries of the Menominee Reservation, including any land which may hereafter be added to the Reservation under any law of the United States.</text>
+      <text>SHIPPING CONTAINER — Any container or wrapping used solely for the transport of cannabis product to a Distribution Facility.</text>
+      <text>SOLVENT-BASED CANNABIS CONCENTRATE — A cannabis concentrate that was produced by extracting cannabinoids from cannabis through the use of glycerin, isopropyl alcohol, ethanol, or propylene glycol as a solvent.</text>
+      <text>STATE — The State of Wisconsin.</text>
+      <text>TRIBAL BUSINESS — A business chartered by the Tribal Legislature pursuant to Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin, or a limited liability company, limited partnership, or corporation wholly owned and controlled by such a chartered business.</text>
+      <text>TRIBAL LEGISLATURE — The duly elected legislature of the Menominee Indian Tribe of Wisconsin, which is the governing body of the Tribe.</text>
+      <text>TRIBE OR TRIBAL — Refers to Menominee Indian Tribe of Wisconsin, a federally recognized Indian tribe.</text>
+      <text>WATER-BASED CANNABIS CONCENTRATE — A cannabis concentrate that was produced by extracting cannabinoids from cannabis through the use of only water or ice.</text>
+      <text>WHOLESALE DISTRIBUTOR — A business that cultivates, or processes cannabis or cannabis products, including cannabis concentrates, outside the Menominee Reservation, and sells or delivers such cannabis or cannabis products to a Cannabis Distribution Facility.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>II</num>
+    <heading>Licensing</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-4</num>
+      <heading>Cannabis Business License.</heading>
+      <para>
+        <num>A.</num>
+        <text>Only a Tribal Business and any wholesale distributor that obtains a license from the Department pursuant to <cite path="|II|412">this chapter</cite> is authorized to operate a Cannabis Business.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The application for a Cannabis Business License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, and e-mail address of the person filing the application on behalf of the business, and proof that said person is authorized to make such application on behalf of the business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For a license regarding cultivation, manufacture, or distribution, proof that the business is a Tribal Business which shall include, but not be limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Certified copy of Tribal Ordinance chartering said business; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the business is a limited liability company, limited partnership, or corporation wholly owned and controlled by a chartered business, the certified copy of the Tribal Ordinance creating the chartered business, and documents proving the existence of the wholly owned limited liability company, limited partnership, or corporation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Tribal Ordinance referenced in <cite path="§412-4|B|(2)">Subsection B(2)</cite> does not clearly specify that the business is authorized to conduct a Cannabis Business, then proof that the Tribal Legislature has authorized said business to conduct a Cannabis Business.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>List of the names of all persons who have management authority over the business and copies of Cannabis Business Employee License for all such persons, with the exception of any Director of a Tribal Business who is a member of the Tribal Legislature appointed to serve pursuant to the requirements of the charter created by ordinance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Whether the license applied for is for cultivation, processing, or distribution.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Written operating procedures as required for a Cannabis Business by <cite path="|II|412">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Description of the physical premises where the Cannabis Business is to be conducted along with proof of ownership or control of said premises and compliance with all Tribal law including zoning laws.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any other information that the Department deems necessary as part of an application.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Department shall approve a license if it determines that the business has complied with <cite path="§412-4|B">subsection B</cite> above.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Unless otherwise suspended or revoked a Cannabis Business License shall be in effect for one year from the date of issuance, and shall automatically renew for four successive one-year periods if the business pays the renewal fee pursuant to <cite path="§412-4|E">Subsection E</cite> below at least 30 days prior to the end of the current term.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Prior to the issuance or renewal of any Cannabis Business License, the Tribal Business shall pay the Department a fee of established by the Department by rule and approved by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>If, after the issuance of a Cannabis Business License, the Department receives reliable information indicating that the licensee is in violation of <cite path="|II|412">this chapter</cite>, or of any Department regulation or directive, the Department may suspend such license and shall notify in writing the licensee of the suspension and the proposed revocation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Department shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>After a revocation hearing, the Department shall decide to revoke or to reinstate a Cannabis Business License. The decision of the Department shall be final and not subject to judicial review.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The Cannabis Business License referred to in <cite path="§412-4|I.">this subsection</cite> shall not include the processing of cannabis concentrates.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>No Cannabis Business License shall be issued by the Department until the Department has promulgated all the Rules necessary to implement the provisions of <cite path="|II|412">this chapter 412</cite>, and such Rules have been approved by the Tribal Legislature.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-5</num>
+      <heading>Cannabis Concentrates Business License.</heading>
+      <para>
+        <num>A.</num>
+        <text>Only a Tribal Business that obtains a license from the Department pursuant to <cite path="|II|412">this chapter</cite> is authorized to manufacture Cannabis Concentrates.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The application for a Cannabis Concentrates Business License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, and e-mail address of the person filing the application on behalf of the business, and proof that said person is authorized to make such application on behalf of the business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof that the business is a Tribal Business which shall include, but not be limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Certified copy of Tribal Ordinance chartering said business; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the business is a limited liability company, limited partnership, or corporation wholly owned and controlled by a chartered business, the certified copy of the Tribal Ordinance creating the Tribal Business, and the documents proving the existence of such an entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Ordinance referenced in <cite path="§412-5|B|(2)">Subsection B(2)</cite> does not clearly specify that the business is authorized to conduct a Cannabis Concentrates Business, then proof that the Tribal Legislature has authorized said business to conduct a Cannabis Concentrates Business.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>List of the names of all persons who have management authority over the business and copies of Cannabis Business Employee License for all such persons, with the exception of any Director of a Tribal Business who is a member of the Tribal Legislature appointed to serve pursuant to the requirements of the charter created by ordinance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Whether the license applied for is for processing or distribution of cannabis concentrates.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Written operating procedures as required for a Cannabis Concentrates Business by <cite path="|II|412">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Description of the physical premises where the Cannabis Concentrates Business is to be conducted along with proof of ownership or control of said premises and compliance with all Tribal law including zoning laws.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any other information that the Department deems necessary as part of an application.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Department shall approve a license if it determines that the business has complied with <cite path="§412-5|B">Subsection B</cite> above.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Unless otherwise suspended or revoked a Cannabis Concentrates Business License shall be in effect for one year from the date of issuance, and shall automatically renew for four successive one-year periods if the business pays the renewal fee pursuant to <cite path="§412-5|E">Subsection E</cite> below at least 30 days prior to the end of the current term.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Prior to the issuance or renewal of any Cannabis Concentrates Business License, the Tribal Business shall pay the Department a fee established by the Department by rule and approved by the Tribal Legislature.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>If, after the issuance of a Cannabis Concentrates Business License, the Department receives reliable information indicating that the licensee is in violation of <cite path="|II|412">this chapter</cite>, or of any Department regulation or directive, the Department may suspend such license and shall notify in writing the licensee of the suspension and the proposed revocation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The Department shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>After a revocation hearing, the Department shall decide to revoke or to reinstate a Cannabis Concentrates Business License. The decision of the Department shall be final and not subject to judicial review.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Within <cite path="|II|412">this chapter</cite>, for any purpose other than under this <cite path="§412-5">§ 412-5</cite>, Cannabis Concentrates Business License, the term "Cannabis Business" shall include Cannabis Concentrates Business.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-6</num>
+      <heading>Wholesale Distributor License.</heading>
+      <para>
+        <num>A.</num>
+        <text>Only an entity that obtains a license from the Department pursuant to <cite path="|II|412">this chapter</cite> is authorized to operate as a Wholesale Distributor.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The application for a Wholesale Distributor License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, and e-mail address of the person filing the application on behalf of the business, and proof that said person is authorized to make such application on behalf of the business.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the business is a limited liability company, limited partnership, or corporation, the documents proving the existence of such an entity.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>List of the names of all persons who have management authority over the business.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Written operating procedures acceptable to the Department explaining delivery methods, name of Cannabis Business that will receive the Cannabis or Cannabis Product, and plans to ensure that no Cannabis or Cannabis Product is delivered to any person or entity except a Cannabis Business.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any other information that the Department deems necessary as part of an application.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A Wholesale Distributor shall ensure that any cannabis or cannabis product sold to a Cannabis Distribution Facility shall be tested and certified in accordance with any rule or regulation promulgated by the Department.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any Wholesale Distributor shall comply with all rules and regulations promulgated by the Department.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-7</num>
+      <heading>Cannabis Business Employee License.</heading>
+      <para>
+        <num>A.</num>
+        <text>Every employee of a Cannabis Business, except Legislators who are Directors of the Tribal Business appointed to serve pursuant to the requirements of the charter created by Ordinance, shall be required to obtain from the Regulatory Authority a Cannabis Business Employee License as a prerequisite to such employment.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The application for a Cannabis Business Employee License shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address, telephone number, email address, social security number and date of birth of the applicant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof that the applicant is at least 21 years of age.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A current photograph of the applicant;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Documentation establishing whether the applicant is subject to or discharged from felony convictions in five years preceding the application, and felony controlled substance convictions in the 10 years preceding their application date. For each conviction, the name and address of the court involved and the date and disposition. A conviction within the meaning of <cite path="§412-7|B.|(4)">this subsection</cite> means a plea or verdict of guilty or a conviction following a plea of nolo contendere;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Currently and for the previous five years: business and employment positions held, ownership interests in those businesses, business and residence addresses, and driver's license numbers;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Written permission of the applicant authorizing the Regulatory Authority or its designee to seek verification of the information contained within the application;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A statement in writing that the applicant pledges to not dispense or otherwise divert cannabis to any person or entity that is not allowed to lawfully possess cannabis;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A statement in writing that the applicant certifies under penalty of perjury that all the information contained in the application is true and correct; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any other information the Regulatory Authority deems relevant, including, but not limited to valid identification as determined by the Regulatory Authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No person may be employed in a Cannabis Business if that person has been convicted of, or entered a plea of guilty or no contest to, or has a pending unresolved charge of any of the following, unless the person has been pardoned:</text>
+        <para>
+          <num>(1)</num>
+          <text>A felony, other than a felony conviction for an offense in the immediately preceding five years;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An offense of any kind related to the possession with intent to sell or the sale or distribution of a drug in violation of any Tribal, State, or federal law in the immediately preceding 10 years;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An offense of any kind involving violence in violation of any Tribal, State, or federal law in the immediately preceding two years;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An offense of any kind involving theft, fraud, or misrepresentation in violation of any Tribal, State, or federal law in the immediately preceding two years.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Cannabis Business Employee License that is issued to the applicant shall include the following printed statement and the application for the license shall require the individual applicant to acknowledge the following warning, which shall be in bold print:</text>
+        <text>CAUTION: Federal, Tribal, and State laws on the cultivation of cannabis and possession of cannabis and cannabis products differ. In the absence of a federal license, federal law prohibits the cultivation and possession of cannabis and cannabis products even pursuant to a tribal license. If you are in violation of federal law, you may be prosecuted in federal court, imprisoned, required to pay a fine and restitution and your real and personal property deemed related to the cultivation or violation may be forfeited. A tribal license is not a defense to a federal prosecution and forfeiture. The Tribe shall not undertake, or be responsible for the costs of your defense against any criminal charges except to the extent you are eligible for Tribal Public Defender services.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Unless otherwise suspended or revoked, a Cannabis Business Employee License shall expire three years following its issuance. A person may re-apply for a Cannabis Business Employee License for subsequent periods of three years.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Every application for a Cannabis Business Employee License or renewal shall be accompanied by a nonrefundable license fee, as established by the Regulatory Authority from time to time.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The license fee shall not include fingerprinting, photographing or background check costs and such costs shall be payable by the applicant in addition to any other fees imposed by the Regulatory Authority.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Regulatory Authority or its designee shall review an applicant's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility for employment in a Cannabis Business.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The Cannabis Business Employee License shall be valid for employment by a company holding a Cannabis Business License and/or a Cannabis Concentrates or Cannabis Wholesaler Business License.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-8</num>
+      <heading>Grounds for denial of Cannabis Business Employee License.</heading>
+      <text>The grounds for denial of a Cannabis Business Employee License shall be one or more of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>The applicant does not meet the requirements of <cite path="§412-7">§ 412-7</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The applicant has knowingly made a false statement of material fact or has knowingly omitted to state a material fact in the application for a Cannabis Business Employee License, or has failed to completely complete the application for said license.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A determination by the Regulatory Authority that employment of the applicant poses a threat to the public interest or to the effective regulation of cannabis.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The applicant is under 21 years of age.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The required application or renewal fees have not been paid within a reasonable time.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-9</num>
+      <heading>License suspension.</heading>
+      <para>
+        <num>A.</num>
+        <text>If, after the issuance of a Cannabis Business Employee License, the Regulatory Authority receives reliable information indicating that an employee is not eligible for employment under <cite path="|II|412">this chapter</cite>, the Regulatory Authority shall suspend such license and shall notify in writing the licensee of the suspension and the proposed revocation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Regulatory Authority shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>After a revocation hearing, the Regulatory Authority shall decide to revoke or to reinstate a Cannabis Business Employee License. The decision of the Regulatory Authority shall be final and not subject to judicial review.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-10</num>
+      <heading>Reinstatement.</heading>
+      <para>
+        <num>A.</num>
+        <text>No person who has had a Cannabis Business Employee License revoked may have the license restored but upon order of the Regulatory Authority after the filing of a petition for reinstatement.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>No person may petition for reinstatement until the expiration of at least one year from the effective date of the revocation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The petitioner will have the burden of proving by clear, cogent, and convincing evidence that:</text>
+        <para>
+          <num>(1)</num>
+          <text>The petitioner meets the criteria requirements of <cite path="|II|412">this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The petitioner has reformed, rehabilitated, or otherwise overcome the issue or issues underpinning the revocation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Permitting the petitioner to resume employment will not be detrimental to the integrity of the Tribe or to the public interest; and the petitioner paid all fees required under <cite path="|II|412">this chapter</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>III</num>
+    <heading>Cultivating Cannabis</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-11</num>
+      <heading>Cultivation operating procedures.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each cultivation facility shall establish written operating procedures for the cultivation of cannabis. The operating procedures must include the minimum following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The manner in which all pesticide and other agricultural chemicals, if any, are to be applied during its cultivation process. The Department shall, by rule, determine what pesticides and other agricultural chemicals are permitted, and Licensee shall only utilize pesticides and agricultural chemicals permitted by the Department. The Department, prior to finalizing the rule regarding allowable pesticides and other agricultural chemicals shall consult with the Menominee Indian Tribe of Wisconsin's Environmental Services Department (ESD), and shall not allow for the use of any pesticide or agricultural chemical to which the ESD objects;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The equipment and methods employed in the cultivation of the cannabis;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>How the cultivated cannabis will be transported to a processing facility or Distribution Facility;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The measures taken to minimize or offset energy use from the cultivation of cannabis;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The manner in which chemicals will be stored and used at the premises;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The type and quantity of all effluent discharged into the Tribe's wastewater or stormwater system;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The hours and days of the week the cultivation facility will be open;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The number of persons per shift who will be working at the cultivation facility;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The security measures that will be employed at the premises, including but not limited to guards, lighting, alarms, surveillance, and automatic law enforcement notification; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Any other information required by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Operating procedures must be approved by the Department and maintained at every cultivation facility.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-12</num>
+      <heading>On-site consumption.</heading>
+      <text>Use or consumption of cannabis shall be prohibited at a Cannabis Business licensed for cultivation or processing. Use or consumption of cannabis may be allowed at a Cannabis Business licensed for distribution. The Department may promulgate rules regulating any consumption of cannabis at a Cannabis Business licensed for distribution, and no consumption may occur unless the Department promulgates rules regulating consumption, and the Cannabis Business has obtained specific approval from the Department pursuant to said rules.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-13</num>
+      <heading>Adulteration prohibited.</heading>
+      <text>A cultivation facility may not treat or otherwise adulterate cannabis with any chemical or other compound whatsoever to alter its color, appearance, weight, or smell.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-14</num>
+      <heading>Precautions and specific requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>Every cultivation facility shall take all reasonable measures and precautions to ensure that the following requirements are met:</text>
+        <para>
+          <num>(1)</num>
+          <text>All cultivation of cannabis that a cultivation facility carries out or causes to be carried out must take place in an enclosed, locked structure or building.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other abnormal source of microbial contamination for whom there is a reasonable possibility of contact with cannabis shall be excluded from any operations which may be expected to result in such contamination until the condition is corrected.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All persons working in direct contact with cannabis shall conform to hygienic practices while on duty, including but not limited to, maintaining sufficient personal cleanliness.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Litter and waste shall be properly removed and the operating systems for waste disposal shall be maintained in an adequate manner so that they do not constitute a source of contamination in areas where cannabis is exposed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>All floors, walls, and ceilings shall be constructed in such a manner that they may be adequately cleaned and kept clean and kept in good repair.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adequate lighting shall be required in all areas where cannabis is stored.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Adequate screening or other protection against the entry of pests shall be made. Rubbish shall be disposed of so as to minimize the development of odor and minimize the potential for the waste becoming an attractant, harborage, or breeding place for pests.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All buildings, fixtures, and other facilities shall be maintained in a sanitary condition.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Pesticide chemicals shall be identified, held, and stored in a manner that protects against contamination of cannabis, and in a manner that is in accordance with this title and any applicable tribal, state, or federal law, rule, or regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Cultivation facilities shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>The display or sale of paraphernalia employed in the use or consumption of cannabis or any implement that may be used to administer, use, inhale, consume, smoke or ingest cannabis, is prohibited at the cultivation facility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The cultivation of cannabis shall not adversely affect the health or safety of the employees, or the facility in which it is cultivated or processed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The cultivation area shall occur only within a self-contained structure (including, but not limited to a greenhouse) which is adequately ventilated.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The cultivation facility shall comply with stormwater, wastewater, and other requirements of the Tribe.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The water supply shall be sufficient for the operations intended and shall be derived from a source that is a regulated water system. Private water supplies shall be derived from a water source that is capable of providing a safe, potable, and adequate supply of water to meet the facility's needs.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The plumbing shall be of adequate size and design and adequately installed and maintained to carry sufficient quantities of water and that shall properly convey sewage and liquid disposable waste from the cultivation facility. There shall be no cross-connections between the potable and waste water lines.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging, and storing of cannabis or cannabis products shall be conducted in accordance with adequate sanitation principles.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Every cultivation facility shall provide its employees with adequate and readily accessible toilet facilities that are maintained in a sanitary condition and good repair.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>All hand-washing facilities shall be adequate and convenient and be furnished with running water at a suitable temperature. Hand-washing facilities shall be located in the cultivation facility and where good sanitary practices require employees to wash and/or sanitize their hands, and provide effective hand-cleaning and sanitizing preparations and sanitary towel service or suitable drying devices.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Cannabis that can support the rapid growth of undesirable microorganisms shall be held in a manner that prevents the growth of these microorganisms.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>All workers, supervisors, and visitors are required to sign in using provided sign-in forms which shall be kept as business records.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Every cultivation facility shall operate in compliance with all other applicable Tribal laws and the provisions of any requirements of a lease of Tribal land.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Any other regulations which the Department determines is necessary.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IV</num>
+    <heading>Processing Cannabis</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-15</num>
+      <heading>Processing facility operating procedures.</heading>
+      <text>Each processing facility shall establish written operating procedures for the processing of cannabis. The operating procedures must include the minimum following information:</text>
+      <para>
+        <num>A.</num>
+        <text>All applicable provisions contained in Article III of <cite path="|II|412">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>How the cannabis will be transported from a processing facility to a Distribution Facility.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The procedure and documentation process for determining patient dosage including testing for the major active agents in the cannabis product (e.g., cannabinoids tetrahydrocannabinol (THC), cannabidiol (CBD) and cannabinol (CBN)).</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Require standards for the processing cannabis into food and other edibles by cooking, baking, infusing, or grinding. Such standards shall be no less stringent than the standards of the United States Public Health Service.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Require standards for the packaging of edibles and other similar products. Such packaging shall be nondescript and shall not mimic, resemble or be representational of candy, cookies or other food products that might attract or entice children.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any other information required by the Department. Operating procedures must be approved by the Department and a copy maintained at every Processing Facility.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-16</num>
+      <heading>Food safety course.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person who processes cannabis into food and other edibles shall be required to provide evidence of completion of a food safety course that includes basic food handling training and is comparable to or is a course given by a state or county public health agency.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any course taken pursuant to this rule must last at least two hours and cover the following subjects:</text>
+        <para>
+          <num>(1)</num>
+          <text>Causes of foodborne illness, highly susceptible populations and worker illness;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Personal hygiene and food handling practices;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Approved sources of food;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Potentially hazardous foods and food temperatures;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Sanitization and chemical use; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Emergency procedures (fire, flood, sewer backup).</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-17</num>
+      <heading>Quality assurance.</heading>
+      <text>Cannabis processed and each cannabis product must be tested for safety and quality assurance, including but limited to, potency testing, residual solvents testing, microbial testing, aflatoxin testing, pesticide testing, and heavy metal testing.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-18</num>
+      <heading>Precautions and specific requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>Every processing facility shall take all reasonable measures and precautions to ensure that the following requirements are met:</text>
+        <para>
+          <num>(1)</num>
+          <text>All processing of cannabis that a processing facility carries out or causes to be carried out must take place in an enclosed, locked structure or building.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other abnormal source of microbial contamination for whom there is a reasonable possibility of contact with cannabis shall be excluded from any operations which may be expected to result in such contamination until the condition is corrected.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All persons working in direct contact with cannabis shall conform to hygienic practices while on duty, including but not limited to, maintaining sufficient personal cleanliness.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Litter and waste shall be properly removed and the operating systems for waste disposal shall be maintained in an adequate manner so that they do not constitute a source of contamination in areas where cannabis is exposed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>All floors, walls, and ceilings shall be constructed in such a manner that they may be adequately cleaned and kept clean and kept in good repair.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Adequate lighting shall be required in all areas where cannabis is stored.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Adequate screening or other protection against the entry of pests shall be made.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Rubbish shall be disposed of so as to minimize the development of odor and minimize the potential for the waste becoming an attractant, harborage, or breeding place for pests.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>All buildings, fixtures, and other facilities shall be maintained in a sanitary condition.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Toxic cleaning compounds, sanitizing agents, solvents used in the production of cannabis concentrates shall be identified, held, and stored in a manner that protects against contamination of cannabis, and in a manner that is in accordance with <cite path="|II|412">this chapter</cite> and any applicable tribal, state, or federal law, rule, or regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Processing facilities shall be subject to the following specific regulations:</text>
+        <para>
+          <num>(1)</num>
+          <text>There shall be no on-site use or consumption of cannabis;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The display or sale of paraphernalia employed in the use or consumption of cannabis or any implement that may be used to administer, use, inhale, consume, smoke or ingest cannabis, is prohibited at the processing facility.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The processing of cannabis shall not adversely affect the health or safety of the employees, or the facility in which it is cultivated or processed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The processing area shall occur only within a self-contained structure, including, but not limited to a greenhouse which is adequately ventilated.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The processing facility shall comply with stormwater, wastewater, and other requirements of the Tribe.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The water supply shall be sufficient for the operations intended and shall be derived from a source that is a regulated water system. Private water supplies shall be derived from a water source that is capable of providing a safe, potable, and adequate supply of water to meet the facility's needs.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The plumbing shall be of adequate size and design and adequately installed and maintained to carry sufficient quantities of water and that shall properly convey sewage and liquid disposable waste from the processing facility. There shall be no cross-connections between the potable and waste water lines.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging, and storing of cannabis or cannabis product shall be conducted in accordance with adequate sanitation principles.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Every processing facility shall provide its employees with adequate and readily accessible toilet facilities that are maintained in a sanitary condition and good repair.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>All hand-washing facilities shall be adequate and convenient and be furnished with running water at a suitable temperature. Hand-washing facilities shall be located in the cultivation facility and where good sanitary practices require employees to wash and/or sanitize their hands, and provide effective hand-cleaning and sanitizing preparations and sanitary towel service or suitable drying devices.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>All contact surfaces, including utensils and equipment used for the preparation of a cannabis product, shall be cleaned and sanitized as frequently as necessary to protect against contamination.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Equipment and utensils shall be so designed and of such material and workmanship as to be adequately cleanable, and shall be properly maintained.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Every cultivation facility shall operate in compliance with all other applicable Tribal laws and the provisions of any requirements of a lease of Tribal land.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>All workers, supervisors, and visitors are required to sign in using provided sign-in forms which shall be kept as business records.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Any other regulations which the Department determines is necessary.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-19</num>
+      <heading>Cannabis concentrates.</heading>
+      <para>
+        <num>A.</num>
+        <text>A processing facility may produce the following concentrates:</text>
+        <para>
+          <num>(1)</num>
+          <text>Water-based cannabis concentrates;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Fat-based cannabis concentrates;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Solvent-based cannabis concentrate; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Critical fluid extraction cannabis concentrates, provided the solvents used in this process only include heptane or carbon dioxide.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A processing facility that engages in the production of cannabis concentrates, regardless of the method of extraction or type of concentrate being produced, must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Ensure that the space in which any cannabis concentrate is to be produced is a fully enclosed room and clearly designated.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Establish a standard operating procedure for each method used to produce a cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Establish written quality control procedures designed to minimize any potential risks to employees or contamination of cannabis products.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Ensure that all equipment used in the production of a cannabis concentrate is food-grade, including ensuring that all counters and surface areas were constructed in such a manner that it reduces the potential for the development of microbial organisms and mold and can be easily cleaned.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Ensure that all equipment, counters, and surfaces used in the production of a cannabis concentrate is thoroughly cleaned after the completion of each production of a cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Have a comprehensive training manual that provides step-by-step instructions for each method used to produce a cannabis concentrate. The training manual must include, but need not be limited to, all standard operating procedures, quality control procedures and safety procedures for each method of production, instructions on the appropriate use and maintenance of all equipment involved in each process, and any cleaning required to comply with all applicable sanitary rules.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Provide adequate training prior to individual engaging the production of a cannabis concentrate. Adequate training must include, but need not be limited to, providing the appropriate employee or volunteer with the training manual and live, in-person instruction detailing safety procedures for each method of production, instructions on the appropriate use and maintenance of all equipment involved in the process, and any cleaning required to maintain compliance with all applicable sanitary rules.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Maintain clear and comprehensive records that document every phase of each step in the production of the cannabis concentrate, which must include the name and license number of every employee or volunteer that worked on the production of that cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Ensure that the room in which cannabis concentrate shall be produced contains an emergency eye-wash station.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>With respect to critical fluid extraction cannabis concentrates, the processing facility must also ensure that the facility and all equipment used in production of the critical fluid extraction cannabis concentrate meets the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>A professional grade, closed-loop extraction system capable of recovering the solvent used.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a pressurized extraction system is utilized, then every vessel in the system must be rated to a minimum of 900 pounds per square inch.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A sufficient fume hood and exhaust system is installed in the room in which a critical fluid extraction cannabis concentrate shall be produced and that the system is fully functioning prior to the production a critical fluid extraction cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All flammable material used in the production of a critical fluid extraction cannabis concentrate are stored in a storage-tank designed to hold flammable material and is outside of the room in which the concentrates are to be produced.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A sufficient fire-suppression system is installed in the room in which a critical fluid extraction cannabis concentrate shall be produced and that the system is fully functioning prior to the production a critical fluid extraction cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>A hydro-carbon gas monitoring system, a carbon dioxide gas monitoring system or both, depending on the type of cannabis concentrate to be produced, with emergency shutdown relays is installed in the room in which a critical fluid extraction cannabis concentrate shall be produced and that the system is fully functioning prior to the production a critical fluid extraction cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The room in which a critical fluid extraction cannabis concentrate shall be produced is a spark-free environment.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The room in which a critical fluid extraction cannabis concentrate shall be produced contains an emergency shower.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Ensure that all fluids used in the extraction process are food-grade and 99% pure.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Establish a standard operating procedure for each type of critical fluid extraction cannabis concentrate to be produced that is designed to maximize employee safety and minimize potential contamination of products with residual solvents or microbial organisms and mold.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>V</num>
+    <heading>Distributing Cannabis</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-20</num>
+      <heading>Distribution Facility operating procedures.</heading>
+      <text>A Distribution Facility shall not distribute any cannabis or cannabis product that has not been received from a Cannabis Business licensed pursuant to <cite path="|II|412">this chapter</cite>. Each Distribution Facility shall establish written operating procedures for the distribution of cannabis. The operating procedures must include the minimum following information:</text>
+      <para>
+        <num>A.</num>
+        <text>All applicable provisions contained in Articles III and IV of <cite path="|II|412">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A description of the screening, registration, and validation process for consumers.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A description of consumer records acquisition and retention procedures.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The process for tracking cannabis quantities and inventory controls.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The procedure and documentation process for assuring the safety and quality of all cannabis and cannabis products (including, but not limited to, testing for bacteria, mold, pesticides and other contaminants).</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The procedure and documentation process for determining patient dosage including testing for the major active agents in the cannabis (e.g., cannabinoids tetrahydrocannabinol (THC), cannabidiol (CBD) and cannabinol (CBN)).</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any other information required by the Department. Operating Procedures must be approved by the Department and a copy maintained at every Distribution Facility.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-21</num>
+      <heading>Access.</heading>
+      <para>
+        <num>A.</num>
+        <text>Only Distribution Facility employees, holders of a valid Medical Registration Card and persons with bona fide purposes for visiting the premises shall be permitted access into a Distribution Facility.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Potential customers shall not visit any Distribution Facility without first having obtained a valid Medical Registration Card.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All other visitors shall remain in a designated waiting area in the Distribution Facility.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Notwithstanding these requirements, nothing shall prohibit tribal law enforcement from entering any area of the facility upon presentation of official credentials identifying them as such.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-22</num>
+      <heading>Duties of Distribution Facility.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each Distribution Facility shall ensure all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The weight, concentration, and content of THC in all cannabis and edible cannabis products that the Distribution Facility sells is clearly and accurately stated on the product sold.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the Distribution Facility does not sell to a person 50 grams of usable cannabis flower, or 1 gram of cannabis product, or 2.5 grams of cannabis concentrate within one business day. The weight of an edible shall not be included in the calculation of grams per this section, only cannabis concentrate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That, posted clearly and conspicuously within the Distribution Facility, are the legal limits on the possession of cannabis, as set forth in <cite path="§412-22|A|(2)">Subsection A(2)</cite>. Each Distribution Facility is free to place greater limits on sales, and may refuse sales to persons for good cause as provided for in the Facilities' operating procedures.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each Distribution Facility shall be staffed with at least one person during hours of operation who shall not be responsible for dispensing cannabis. The Distribution Facility shall have a responsible person who shall be at least 21 years of age and shall be on the premises to act as manager at all times during which the Distribution Facility is open to the public or any portion thereof.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-23</num>
+      <heading>Precautions and specific requirements.</heading>
+      <text>The Distribution Facility shall be subject to the following specific regulations:</text>
+      <para>
+        <num>A.</num>
+        <text>The Distribution Facility shall only distribute cannabis or cannabis products to a holder of a valid Medical Registration Card.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Distribution Facility shall display rules and regulations in a conspicuous place that is readily seen by all persons entering the Distribution Facility.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Each building entrance to the Distribution Facility shall be clearly and legibly posted with a notice indicating that persons under the age of 21 are precluded from entering the premises.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Distribution Facility shall only distribute cannabis or cannabis products during normal business hours.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Distribution Facility shall not distribute cannabis to any person more than once a day.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The on-site display of cannabis plants visible from the outside shall be prohibited, including live plants or graphic representations of the cannabis plant.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The distribution of cannabis shall not adversely affect the health or safety of the employees, volunteers or the facility in which it is distributed, or nearby properties through creation of mold, mildew, dust, glare, heat, noise, noxious gasses, odor, smoke, traffic, vibration, or other impacts, or be hazardous because of the use or storage of materials, processes, products or wastes.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>All workers, supervisors, and visitors are required to sign in using provided sign-in forms which shall be kept as business records.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Any other regulations which the Department determines is necessary.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-24</num>
+      <heading>Packaging.</heading>
+      <para>
+        <num>A.</num>
+        <text>Every package or unit of cannabis or cannabis product, distributed shall have a label or labels that state the following, as may be applicable:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name of the product.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An identification and tracking number for the specific package or unit of cannabis, or cannabis product.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The species or strain of the cannabis.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of the strength and dosage of the cannabis.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A statement that the cannabis or cannabis product has been tested for safety and quality assurance and that the testing results, and chain of custody information is available by contacting the Distribution Facility.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Keep Out the Reach of Children.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>National Poison Control Center: 1-800-222-1222.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>A QR Code for the Certificate of Analysis ("COA").</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The following warning placed in a conspicuous location on the package:</text>
+        <text>"Smoking may be hazardous to the health of the user, and smoking by pregnant women may result in fetal injury, premature birth, and low birth weight. Further, ingestion of cannabis in any form may be hazardous to the health of the user and may impair the judgment of the user."</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The following specific requirements for edible cannabis products:</text>
+        <para>
+          <num>(1)</num>
+          <text>List of all ingredients used to manufacture the edible cannabis product; which may include a list of any potential allergens contained within, or used in the manufacture of, the product.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A statement that the cannabis product, if perishable, must be refrigerated.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A product expiration date, for perishable cannabis products, upon which the product will no longer be fit for consumption, or a use-by date, upon which the product will no longer be optimally fresh. Once a label with a use-by or expiration date has been affixed to a container of a cannabis product, it may not be altered in any way or have a new label affixed with a later use-by or expiration date.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All edibles must be sold in child-resistant packaging that is commonly accepted in the cannabis industry.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-25</num>
+      <heading>Electronic verification system.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each Distribution Facility shall maintain an electronic verification system.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The electronic verification system must be able to monitor and report information, including, without limitation:</text>
+        <para>
+          <num>(1)</num>
+          <text>For each person who holds a valid Medical Registration Card and who purchased cannabis from the Distribution Facility in the immediately preceding 60-day period;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The number of the card;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The date on which the card was issued;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The date on which the card will expire;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Verification of the identity of a person to whom cannabis or cannabis products are sold or otherwise distributed; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Such other information as the Department may require.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Nothing in this section prohibits more than one Distribution Facility from co-owning an electronic verification system in cooperation with another Distribution Facility, or sharing the information obtained therefrom.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A Distribution Facility must exercise reasonable care to ensure that the personal identifying information of persons who hold valid Medical Registration Cards, which is contained in an electronic verification system is encrypted, protected and not divulged for any purpose not specifically authorized by law.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VI</num>
+    <heading>Transportation of Cannabis</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-26</num>
+      <heading>Transportation.</heading>
+      <text>Provided that appropriate in-transit security measures are taken in conformance with <cite path="|II|412">this chapter</cite> and any rules or regulations promulgated by the Department, the delivery or transportation of cannabis or cannabis products between licensees within the boundaries of the Reservation is permitted.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-27</num>
+      <heading>Shipping containers.</heading>
+      <para>
+        <num>A.</num>
+        <text>Every Cannabis Business shall be responsible for sealing all shipping containers of cannabis or cannabis products immediately upon the conclusion of the safe and secure stuffing process and must keep a record of each seal number.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Only management employees at a licensee or Department officials having custody of a shipping container of cannabis or cannabis products, may break the seal for legitimate reasons.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-28</num>
+      <heading>Transportation security program.</heading>
+      <text>Every Cannabis Business shall establish a detailed transportation security program, approved by the Department, which shall include at a minimum the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Standards and procedures to enhance the physical security of shipping containers, including standards for seals and locks.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Standards and procedures for screening and evaluating shipping containers prior to transportation and upon delivery at the Distribution Facility.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Standards and procedures for securing shipping containers and monitoring that security while in transit.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Standards and procedures for allowing government officials to ensure and validate compliance with this program.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any other measures the Department considers necessary to ensure the security and integrity of transporting cannabis or cannabis products.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-29</num>
+      <heading>Transportation outside the reservation.</heading>
+      <text>Delivery or transportation of cannabis or cannabis products beyond the exterior boundaries of the reservation is prohibited, unless it is done in a manner that conforms to federal and/or state law applicable to regulation of cannabis.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VII</num>
+    <heading>Security and Inventory Control</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-30</num>
+      <heading>Security.</heading>
+      <text>Every Cannabis Business shall provide adequate security for all facilities and laboratories, which shall include at a minimum the following:</text>
+      <para>
+        <num>A.</num>
+        <text>All employees shall be required to hold and properly display a current identification badge issued by the Tribe at all times. Proper display of the license badge shall consist of wearing the badge in a plainly visible manner, at or above the waist, and with the photo of the holder visible. The holder shall not alter, obscure, damage, or deface the badge in any manner.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Security surveillance cameras shall be installed and maintained in good working condition to monitor the main entrance and exterior of all Cannabis Businesses and laboratories to discourage loitering, crime, illegal or nuisance activities. Security video shall be maintained for a minimum of 72 hours.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Professionally monitored robbery alarm and burglary alarm systems shall be installed and maintained in good working condition.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Professionally monitored fire alarm and fire suppression systems shall be installed and maintained in good working condition.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>At all times, there shall be at least one licensed, uniformed security guard or a tribal police officer present on the premises.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>All points of ingress and egress shall have commercial-grade, nonresidential door locks.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-31</num>
+      <heading>Inventory control system.</heading>
+      <text>Every Cannabis Business shall maintain an inventory control system. The inventory control system must be able to monitor and report information, including, without limitation:</text>
+      <para>
+        <num>A.</num>
+        <text>Insofar as is practicable, the chain of custody and current whereabouts, in real time, of cannabis from the point that it is harvested at a cultivation facility until it is sold at a Distribution Facility and, if applicable, if it is processed at a facility for the production of cannabis products;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A real time accounting of the total amount of product sold; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Such other information as the Department may require.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Nothing in this section prohibits a cultivation facility, processing facility, or Distribution Facility from co-owning an inventory control system in cooperation with other facilities, or sharing the information obtained therefrom.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-32</num>
+      <heading>Audits.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each Cannabis Business shall cause to be prepared an annual financial statement of every facility using generally accepted accounting principles that are audited by an independent certified public accountant in conformity with generally accepted auditing standards.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Every Cannabis Business shall undergo an annual health and sanitary audit of any facility by an independent consultant. The scope of the audit may include, but not limited to, whether each facility and laboratory is in compliance with the requirements set forth in <cite path="|II|412">this chapter</cite> and other applicable health, sanitary or food handling laws, rules and regulations. Failure to perform to the independent audit may result in suspension of operations until the completion of the independent audit and the implementation of any required remedial measures is made.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-33</num>
+      <heading>Training.</heading>
+      <text>All employees shall receive appropriate training for their intended duties to ensure understanding of rules and procedures regarding cannabis in compliance with <cite path="|II|412">this chapter</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>VIII</num>
+    <heading>Research and Testing</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-34</num>
+      <heading>Research License.</heading>
+      <text>The Department is authorized to issue a Research License to the College of Menominee Nation, or any other person or entity engaged in research. Entities other than the College of Menominee Nation must be approved by the Department. Such Research License may authorize the growth and cultivation of Cannabis or Marijuana for the purpose of engaging in agricultural or academic research upon application for such a license to the Department. The Department shall state in the Research License any applicable license conditions.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-35</num>
+      <heading>Testing License.</heading>
+      <text>The Department is authorized to issue a Testing License to any entity engaged in testing of Cannabis and Cannabis products. Such Testing License may authorize the possession and transportation of Cannabis or Cannabis Products for the purpose of engaging in testing upon application for such a license to the Department. The Department shall state in the Testing License any applicable license conditions. The Department itself is authorized to conduct testing with its own employees as part of its general duties under <cite path="|II|412">this chapter 412</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>IX</num>
+    <heading>Medical Registration Cards</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-36</num>
+      <heading>Requirement for Medical Registration Card prior to distribution.</heading>
+      <text>In order to purchase or otherwise obtain cannabis from a Cannabis Business licensed to distribute cannabis under <cite path="|II|412">this chapter</cite>, a person must obtain a Medical Registration Card pursuant to <cite path="|II|306">Chapter 306 of the Menominee Tribal Code</cite>.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>X</num>
+    <heading>Powers, Duties, and Reporting and Enforcement</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-37</num>
+      <heading>Powers and duties of the Department, Regulatory Authority, and Member Services Department.</heading>
+      <text>The Department, Regulatory Authority, and Member Services Department shall have all the necessary power and the duty to enforce the provisions of <cite path="|II|412">this chapter</cite>, including, but not limited to the power to adopt rules and regulations to implement the provisions of <cite path="|II|412">this chapter</cite>, to impose and collect fees authorized by <cite path="|II|412">this chapter</cite>, and to have access to inspect, examine, photocopy, and audit all papers, books, and records of a Cannabis Business.</text>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-38</num>
+      <heading>Quarterly reports.</heading>
+      <text>The Department, Regulatory Authority, and License and Permits Department shall provide a quarterly report to the Tribal Legislature summarizing their official actions, activities, in a manner and form directed by the Tribal Legislature.</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Article</prefix>
+    <num>XI</num>
+    <heading>Violations, Penalties and Enforcement</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-39</num>
+      <heading>Violations.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any act in violation of the provisions of <cite path="|II|412">this chapter 412</cite>, or any regulation promulgated by the Department, or any directive issued by the Department pursuant to <cite path="|II|412">this chapter</cite> or any regulation shall be deemed a violation of <cite path="|II|412">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Violations shall include, but not be limited to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Conducting any part of a Cannabis Business or research or testing without a license.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conducting any part of a Cannabis Business or research or testing contrary to the terms of a license, including contrary to the terms of any suspension of a license.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A cultivation or production licensee selling, providing, or in any way transferring cannabis to any person or entity other than a distribution licensee acting though licensed employees;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A distribution licensee selling, providing, or in any way transferring cannabis to any person or entity other than a person holding a valid Medical Registration Card issued by the Member Services Department.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Violation of any provision of <cite path="|II|412">this chapter</cite> or any rule or regulation adopted by the Department pursuant to <cite path="|II|412">this chapter</cite>.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>412-40</num>
+      <heading>Penalties and enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text>Failure to comply with any or all parts of <cite path="|II|412">this chapter 412</cite> shall result in a forfeiture of not less than $100 and not more than $1,000 per day for each day of noncompliance.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><cite path="|II|412">This chapter</cite> shall be enforced by the Menominee Tribal Police Department through the issuance of citations upon referral from the Department or its designated agent.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Tribal Court shall have jurisdiction, upon petition of the Department through the Tribal Prosecutor, to enjoin any actions in violation of Chapter 412 where there is a substantial probability that death or serious physical harm could result to any person immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by <cite path="|II|412">this chapter 412</cite>. Any order issued under this section may require such steps to be taken as may be necessary to avoid, correct, or remove such danger.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+  <container cache:ref-path="II|412|XII">
+    <prefix>Article</prefix>
+    <num>XII</num>
+    <heading>Management Contract</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>412-41</num>
+      <heading>Department approval required.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any management contract entered into by a Cannabis Business for the operation and management of a Cannabis Business must be submitted to the Department for approval, but before approving such contract the Department shall require and obtain the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The name, address and other additional pertinent background information on each person or entity (including persons comprising such entity) having direct or indirect financial interest in, or management responsibility for, such agreement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of any previous experience that each person listed pursuant to <cite path="§412-41|A|(1)">Subsection A(1)</cite> has had with other cannabis management contracts with Indian Tribes or with the cannabis industry generally, including specifically the name and address of any licensing or regulatory agency with which such person has had a contract relating to cannabis.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any further or additional information as may be required by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person listed pursuant to <cite path="§412-41|A|(1)">Subsection A(1)</cite> shall be required to respond to such written or oral questions that the Department may propound in accordance with its responsibilities under this <cite path="§412-41|A">Subsection A</cite>.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For purposes of <cite path="|II|412|XII">this article</cite>, any reference to the management contract described in <cite path="§412-41|A|(1)">Subsection A(1)</cite> shall be considered to include all collateral agreements to such contract that relate to the cannabis activity.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Department may approve any management contract entered into by the cannabis business pursuant to this section only if it determines that such contract provides at least for:</text>
+        <para>
+          <num>(1)</num>
+          <text>Adequate accounting procedures that are maintained and verifiable financial reports that are prepared by or for the cannabis business on a monthly basis;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Access to the daily operations of the cannabis business by appropriate cannabis business and tribal officials, who shall also have a right to verify the daily gross revenues and income made from any such cannabis activity;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A contract term not to exceed five years, except that, upon the request of the cannabis business, the Department may authorize a contract term that exceeds five years but does not exceed seven years if the Department is satisfied that the capital investment required, and the income projections, for the particular cannabis activity require additional time;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Grounds and mechanisms for terminating such contract, but actual contract termination shall not require the approval of the Department; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Preference to tribal members and nonmember Indians in hiring of employees for the cannabis business.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The Department shall not approve any contract if it determines that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person listed pursuant to <cite path="§412-41|A|(1)">Subsection A(1)</cite>:</text>
+          <para>
+            <num>(a)</num>
+            <text>Is an elected member of the Legislature; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Has been or subsequently is convicted of any felony, or any offense that would render such person ineligible for a cannabis employee license under <cite path="|II|412">this chapter</cite>; or</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Has knowingly and willfully provided materially important false statements of information to the Department or the cannabis business or has refused to respond to questions propounded pursuant to Subsection B; or</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Has been determined to be a person whose prior activities, criminal record, if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of cannabis or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The management contractor has or has attempted unduly to interfere or to influence for its gain or advantage any decision or process of tribal government relating to cannabis activity; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The management contractor has deliberately or substantially failed to comply with the terms of a management contract or the provisions of <cite path="|II|412">this chapter</cite> or any regulations or rules adopted pursuant to <cite path="|II|412">this chapter</cite> or other Tribal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The Department, after notice and hearing, shall have the authority to require appropriate contract modifications or may void any contract if it subsequently determines that any of the provisions of this section have been violated. If the cannabis business elects to contractually agree to resolve disputes in a manner other than the revocation of a license, such contractual agreement shall supersede any conflicting provisions of this section, so long as the agreement provides a reasonable avenue for the Tribe to ensure a licensee's compliance with all other aspects of <cite path="|II|412">this chapter</cite> and other Tribal law.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Changes in ownership interest. Any transfer of an ownership interest in a management contract subsequent to approval of such contract by the Department requires Department approval under this section and is void until and unless so approved. The management contractor shall provide the information required under <cite path="§412-41|A">Subsection A</cite> as to such transfer.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The Department shall require a potential contractor to pay a fee to cover the actual cost of the investigation necessary to reach a determination required by this section.</text>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</container>

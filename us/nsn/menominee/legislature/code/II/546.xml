@@ -4,7 +4,9 @@
   <num>546</num>
   <heading>VEHICLES AND MOBILE HOMES, JUNKED</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-18-1987 by Ord. No. 87-19; amended in its entirety 1-16-2020 by Ord. No. 19-35. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 19-35" type="History">Amended in its entirety 1-16-2020 by Ord. No. 19-35</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 87-19" type="History">Adopted by the Legislature of the Menominee Indian Tribe 9-18-1987 by Ord. No. 87-19</annotation>
     <annotation type="General References">Salvage yards — See <cite path="|II|504">Ch. 504, § 504-23</cite>.</annotation>
     <annotation type="General References">Vehicles and traffic — See <cite path="|II|550">Ch. 550</cite>.</annotation>
   </annotations>
@@ -44,14 +46,14 @@
     <para>
       <num>D.</num>
       <text>Not in conformance with <cite path="|III|625">Chapter 625</cite>, Zoning, for more than 14 days.</text>
-      <text>JUNK VEHICLE — Any unlicensed and inoperable or disassembled or junked or wrecked motor vehicle, motor vehicle body, motor vehicle engine, or motor vehicle drive train parts.</text>
-      <text>MOBILE HOME — A portable structure with a permanent chassis and axles designed to be towed as a single unit, or in sections, upon a highway and which is equipped, used or intended to be used primarily as a single-family dwelling with walls of rigid, uncollapsible construction and which has an overall length in excess of 45 feet.</text>
-      <text>MOTOR VEHICLE — Any automobile, truck, tractor, motorcycle, recreational vehicle, van, motor scooter, lawn mower, snowmobile, all-terrain vehicle, airplane, or any other motorized object used for transportation.</text>
-      <text>PUBLIC NUISANCE — An act of omission that obstructs, damages, or inconveniences the health, safety, comfort, convenience, or welfare of a community.</text>
-      <text>SURFACE WATER — All waters open to the atmosphere, including rivers, streams, creeks, lakes, reservoirs, impoundments, and wetlands, but excluding sewage lagoons and other facilities constructed for the treatment of wastewater, settling ponds, and cooling lakes.</text>
-      <text>TRAILER — A vehicle designed to serve wherever parked as a temporary or permanent human dwelling or business and/or a nonautomotive vehicle designed for hauling.</text>
-      <text>USED MOTOR VEHICLE TIRE — A tire, with or without a rim, that has been used on a motor vehicle and is not attached to a motor vehicle and is not being reasonably used for landscaping or other utilitarian or recreational purpose.</text>
     </para>
+    <aftertext>JUNK VEHICLE — Any unlicensed and inoperable or disassembled or junked or wrecked motor vehicle, motor vehicle body, motor vehicle engine, or motor vehicle drive train parts.</aftertext>
+    <aftertext>MOBILE HOME — A portable structure with a permanent chassis and axles designed to be towed as a single unit, or in sections, upon a highway and which is equipped, used or intended to be used primarily as a single-family dwelling with walls of rigid, uncollapsible construction and which has an overall length in excess of 45 feet.</aftertext>
+    <aftertext>MOTOR VEHICLE — Any automobile, truck, tractor, motorcycle, recreational vehicle, van, motor scooter, lawn mower, snowmobile, all-terrain vehicle, airplane, or any other motorized object used for transportation.</aftertext>
+    <aftertext>PUBLIC NUISANCE — An act of omission that obstructs, damages, or inconveniences the health, safety, comfort, convenience, or welfare of a community.</aftertext>
+    <aftertext>SURFACE WATER — All waters open to the atmosphere, including rivers, streams, creeks, lakes, reservoirs, impoundments, and wetlands, but excluding sewage lagoons and other facilities constructed for the treatment of wastewater, settling ponds, and cooling lakes.</aftertext>
+    <aftertext>TRAILER — A vehicle designed to serve wherever parked as a temporary or permanent human dwelling or business and/or a nonautomotive vehicle designed for hauling.</aftertext>
+    <aftertext>USED MOTOR VEHICLE TIRE — A tire, with or without a rim, that has been used on a motor vehicle and is not attached to a motor vehicle and is not being reasonably used for landscaping or other utilitarian or recreational purpose.</aftertext>
     <annotations/>
   </section>
   <section>
@@ -68,7 +70,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>For purposes of enforcement of <cite path="|II|546">this chapter</cite>, Menominee Tribal Police and Menominee Tribal Conservation are hereby authorized to cause the towing away and/or removal of public nuisance vehicles in violation of <cite>this article</cite>. The owner of said vehicle shall be liable for all costs of towing, removal and/or storage associated with removal under <cite>this article</cite>. This liability begins once the tow truck has been dispatched, whether or not the vehicle is actually towed or removed.</text>
+      <text>For purposes of enforcement of <cite path="|II|546">this chapter</cite>, Menominee Tribal Police and Menominee Tribal Conservation are hereby authorized to cause the towing away and/or removal of public nuisance vehicles in violation of this article. The owner of said vehicle shall be liable for all costs of towing, removal and/or storage associated with removal under this article. This liability begins once the tow truck has been dispatched, whether or not the vehicle is actually towed or removed.</text>
     </para>
     <annotations/>
   </section>

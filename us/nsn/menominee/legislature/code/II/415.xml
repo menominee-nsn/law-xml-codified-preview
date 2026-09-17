@@ -12,7 +12,10 @@
   <container cache:ref-path="II|415|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Sulfide Metallic Mining [Adopted 1-22-1998 by Ord. No. 97-25]</heading>
+    <heading>Sulfide Metallic Mining</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 97-25" type="History">Adopted 1-22-1998 by Ord. No. 97-25</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>415-1</num>

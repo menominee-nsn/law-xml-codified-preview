@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="I|95">
+  <prefix>Chapter</prefix>
+  <num>95</num>
+  <heading>GENERAL WELFARE ASSISTANCE</heading>
+  <annotations>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 24-61" type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-21-2024 by Ord. No. 24-61</annotation>
+  </annotations>
+  <section>
+    <prefix>§</prefix>
+    <num>95-1</num>
+    <heading>General.</heading>
+    <text><cite path="|I|95">This chapter</cite> shall be known as the General Welfare Ordinance.</text>
+    <para>
+      <num>A.</num>
+      <text>Purpose. The first purpose of <cite path="|I|95">this chapter</cite> is to memorialize the procedures used by the Tribe to determine what services or programs are needed to promote public health, safety and other basic need services for the promotion of the general welfare of the Tribe such as sewer, water, electrical service/ power, infrastructure, housing, public sanitation services, public education and other such functions that support the long historical and cultural general welfare of the Tribe. The second purpose of <cite path="|I|95">this chapter</cite> is to establish basic guidelines and procedures for programs to follow in ensuring compliance with the general welfare doctrine and Internal Revenue Code Section 139E.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Background and intent. The Menominee Indian Tribe of Wisconsin ("Tribe"), a federally recognized Indian Tribe, exercises its inherent rights of sovereignty to promote the general welfare of the Tribe, its self-determination, culture, and tradition, by providing general welfare assistance, including Indian general welfare benefits within the meaning of Internal Revenue Code Section 139E. Both the United States Congress, through its enactment of the Tribal General Welfare Exclusion Act of 2014, and the Internal Revenue Service, through its traditional application of the general welfare doctrine, have long recognized the sovereign right of Indian tribal governments to provide financial assistance to individuals under certain circumstances on a non-taxable basis. <cite path="|I|95">This chapter</cite> is intended to affirm the Tribe's inherent sovereign rights to promote the general welfare of the Tribe and provide qualifying assistance and program benefits on a tax free basis. In this regard, the Constitution of the Tribe confirms the sovereign duty and responsibility of the Menominee Indian Tribe of Wisconsin to maintain the culture and independence of its members, to encourage the economic well-being of its members, and to promote the rights of its members and their common welfare. The Assistance authorized by <cite path="|I|95">this chapter</cite> is intended to qualify for tax free treatment to the fullest extent permitted at law. Without limitation, the following benefits shall be treated as non-taxable hereunder:</text>
+      <para>
+        <num>(1)</num>
+        <text>Benefits that satisfy the requirements for exemption under Code Section 139E;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Benefits that are provided under an IRS Safe Harbor Program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Benefits that qualify for exclusion under the IRS General Test; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Benefits that meet another express exemption under the Internal Revenue Code, such as the exemption provided for tribal medical expenses under Internal Revenue Code Section 139D, or that meet other recognized exemptions including, for, example, resource or land-based exemptions under 25 U.S.C. Sections 117a-b, 1407 and 1408.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Definitions. In construing the provisions of <cite path="|I|95">this chapter</cite>, the following words and phrases shall have the meanings designated in this section unless a different meaning is expressly provided or the context provides otherwise.</text>
+      <text>APPLICANT(S) — Means an enrolled Tribal Member who has applied for Assistance under <cite path="|I|95">this chapter</cite>. It also includes an Identified Group, as defined below.</text>
+      <text>ASSISTANCE — Means any Program benefits or payments that qualify for tax free treatment under the General Welfare Exclusion.</text>
+      <text>BENEFICIARY — Means any person or persons entitled to receive Assistance in accordance with specific Program guidelines. Programs designed to qualify for exemption under Code Section 139E may benefit Members, spouses of a Member, and/or Dependents of a Member. Programs designed to meet the Safe Harbor may benefit any Member.</text>
+      <text>CODE — Means the Internal Revenue Code of 1986, as amended.</text>
+      <text>COMPENSATION — For services should reflect that qualifying Programs are not disguised employment. However, this shall not prevent the Tribe from structuring Programs with community service ties so long as such ties are consistent with the General Welfare Exclusion.</text>
+      <text>CONSTITUTION — Means the Constitution of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>DEPENDENT — For purposes of Code Section 139E, has the meaning given such term by Code Section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B).</text>
+      <text>DISABILITY OR DISABLED — Means, for purposes of Programs covered by <cite path="|I|95">this chapter</cite>, the inability of an individual to care for himself/herself due to physical or mental limitations and shall be determined in accordance with tribal law.</text>
+      <text>GENERAL TEST — Means Assistance will be treated as meeting the General Test under the General Welfare Exclusion if the benefits are: (1) paid by or on behalf of an Indian tribe (2) under a social benefit program, (3) based on either needs of the Indian community itself or upon individual needs of the recipient (which need not be financial in nature), and (4) are not Compensation for services or (5) are not gaming per capita payments as referenced in the Indian Gaming Regulatory Act.</text>
+      <text>GENERAL WELFARE EXCLUSION — Means that Assistance shall be treated as nontaxable so long as it satisfies the requirements for exclusion under Code Section 139E, it is provided under a Safe Harbor Program, or it meets the General Test.</text>
+      <text>IDENTIFIED GROUP — Means Tribal Members who are members of an identified group, such as Elders.</text>
+      <text>INDIAN GAMING REGULATORY ACT, IGRA — Means the United States federal law that establishes the jurisdictional framework that governs Indian gaming, Federal Act (Pub.L. 100497, 25 U.S.C. § 2701 et seq.</text>
+      <text>LAVISH OR EXTRAVAGANT — Shall have the meaning, except as otherwise required for compliance with final guidance issued under Code Section 139E following consultation, shall be determined by the Tribal Legislature in its sole discretion based on all facts and circumstances, taking into account needs unique to the Tribe as well as the social purpose being served by the particular Assistance at hand.</text>
+      <text>MEMBER — Shall mean an enrolled member of the Tribe.</text>
+      <text>ORDINANCE — Means the General Welfare Ordinance.</text>
+      <text>PAY OR PAID OR PAYMENT — Means pay or reimburse in whole or in part.</text>
+      <text>PROGRAM OR APPROVED PROGRAM — Means any program established by or under authority of the Tribal Legislature, including any program authorized through the annual budget process, to provide Assistance hereunder. A program shall not fail to be treated as an Indian tribal government Program solely by reason of the Program being established by tribal custom or government practice.</text>
+      <text>PROMOTION OF THE GENERAL WELFARE OR SOCIAL BENEFIT — Should reflect a goal or goals established by and in the sole discretion of the Tribal Legislature for the promotion of the general welfare of the Tribe, for example, in furtherance of tribal self-determination, culture and tradition.</text>
+      <text>RESERVATION — Means the reservation of the Menominee Indian Tribe of Wisconsin.</text>
+      <text>SAFE HARBOR PROGRAM — Shall refer to a Program that meets the safe harbor requirements set forth herein and IRS Revenue Procedure 2014-35, as the same may hereafter be amended. Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
+      <text>SELF-DETERMINATION — Should be construed broadly to reflect traditional health, education and welfare programs as well as unique cultural and traditional based programs and economic development. See, e.g., PLR 199924026 (tax free business grants in part to promote on-reservation employment).</text>
+      <text>SERVICE AREA — Has the same meaning as in 25 C.F.R. Section 20.100.</text>
+      <text>SERVICE UNIT AREA — Means an area designated for purposes of administration of Indian Health Service programs under 42 C.F.R. Section 136.21(1).</text>
+      <text>SPOUSE — Shall be determined in accordance with Tribal laws, customs and traditions.</text>
+      <text>TRIBAL LEGISLATURE — Means the Menominee Indian Tribe of Wisconsin Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-2</num>
+    <heading>Ratification of prior acts; intent of legislation.</heading>
+    <text><cite path="|I|95">This chapter</cite> does not establish a new program or programs. <cite path="|I|95">This chapter</cite> is intended to memorialize and confirm existing procedures used in the administration of general welfare assistance programs and services and is not to be construed as the creation of new general welfare assistance rights that previously did not exist. Assistance provided prior to the enactment of <cite path="|I|95">this chapter</cite> is hereby ratified and confirmed as general welfare assistance pursuant to the authority of the Tribal Constitution. It is intended to establish a framework to improve the coordination of general welfare doctrine compliance. Programs and services referred to herein must be authorized by independent action of the Tribal Legislature or its designees.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-3</num>
+    <heading>General Welfare Doctrine and IRS Revenue Procedure 2014-35/Tribal General Welfare Exclusion of 2014; rules of construction.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Internal Revenue Service recognizes that Assistance to Applicants under a legislatively provided Approved Program for the promotion of the general welfare of the Tribe is excludable from the gross income of those Applicants.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition, the Service, in IRS Revenue Procedure 2014-35, provided for safe harbor programs under which, if approved and in writing, need would be presumed and qualifying benefits would be excluded.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Assistance authorized by <cite path="|I|95">this chapter</cite> is intended to qualify for such favorable tax treatment under the General Welfare Doctrine to the fullest extent permitted at law. All amounts budgeted by the Tribe for Assistance shall remain general assets of the Tribe until such payments are disbursed.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Assistance authorized by <cite path="|I|95">this chapter</cite> shall be an unfunded arrangement and shall be limited to funds appropriated, at the discretion of the Legislature.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Assistance is not subject to information reporting by the Tribe to the Internal Revenue Service.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Without limitation, the following benefits shall be treated as non-taxable hereunder:</text>
+      <para>
+        <num>(1)</num>
+        <text>Benefits that satisfy the requirements for the exemption under Code Section 139E;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Benefits that qualify for exclusion under an IRS Safe Harbor Program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Benefits that qualify for exclusion under the IRS General Test of General Welfare exclusion; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Benefits that meet another express exemption under the Internal Revenues Code, such as the exemption provided for tribal medical expenses under Internal Revenue Code Section 139D, or that meet other recognized exemptions including, for example, resource or land-based exemptions under 25 USC Sections 117a-b, 1407 and 1408.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-4</num>
+    <heading>Non-resource designation.</heading>
+    <text>General welfare services and payments hereunder are paid from assets of Tribal government; all payments are based on budget availability of the Tribal government, and the Tribal government does not guarantee any payments hereunder. Benefits paid hereunder on the basis of need shall not be treated as a resource of the Member for any purpose. The Tribal Legislature reserves the right to cancel, adjust, modify or revoke any benefits that are treated as a resource of the Tribal Member.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-5</num>
+    <heading>Federal trust obligations; executive orders.</heading>
+    <text>The Tribe reserves the right to provide Assistance including circumstances where federal funding is insufficient to operate federal programs designed to benefit Tribal Members and when federal funding is insufficient to adequately and consistently fulfill federal trust obligations. The Tribe's adoption of its Approved Programs is not intended to relieve or diminish the federal government of its funding and trust responsibilities. Nothing herein shall waive the Tribe's right to seek funding shortfalls or to enforce the trust rights of the Tribe and its members. The Tribe shall be entitled to government-to-government consultation and coordination rights in regard to <cite path="|I|95">this chapter</cite> with the Federal government.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-6</num>
+    <heading>Indian General Welfare Benefits (Code Section 139E).</heading>
+    <text>Programs that meet the following criteria for exemption under Code Section 139E shall be treated as non-taxable Assistance under the General Welfare Exclusion without the Applicant having to demonstrate individual need.</text>
+    <para>
+      <num>A.</num>
+      <text>General Criteria for Qualification under Code Section 139E. Each payment made or service provided to or on behalf of a Member (or any Spouse or Dependent of the Member) pursuant to a Program under <cite path="|I|95">this chapter</cite> shall be treated as non-taxable Assistance under the General Welfare Exclusion so long as the following criteria are met:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Program is administered under specified guidelines and does not discriminate in favor of the members of the governing body of the Tribe;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Program benefits are available to any Tribal Member who meets such guidelines;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Program benefits are for the "promotion of the general welfare";</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Program benefits are not Lavish or Extravagant; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Program benefits are not Compensation for services.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Ceremonial activities. Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as Compensation for services.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Special effective dates. Code Section 139E is effective for Assistance in taxable years for which the period of limitations on a refund or credit under Code Section 6511 has not expired. If the period of limitation on a refund or credit resulting from the application of Code Section 139E (a) would otherwise expire before the one-year period beginning on the date of the enactment of Code Section 139E, a refund or credit (to the extent attributed thereto) may be made or allowed if a claim is filed before the close of such one-year period.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-7</num>
+    <heading>Safe Harbor Programs.</heading>
+    <text>Programs that meet the following general criteria for Safe Harbor Treatment, and provide qualifying safe harbor benefits, shall be treated as non-taxable Assistance under the General Welfare Exclusion without the Applicant having to demonstrate individual need:</text>
+    <para>
+      <num>A.</num>
+      <text>General criteria for safe harbor treatment. Each Safe Harbor Program shall satisfy the following general criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>The benefit is provided under a specific approved program of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Program has written guidelines specifying how individuals may qualify for the benefit.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The benefit is available to any Tribal Member, or identified group of Tribal Members who satisfy the Program guidelines, subject to budgetary restraints.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The distribution of benefits from the Program does not discriminate in favor of the governing body of the Tribe.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The benefit is not Compensation for services; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The benefit is not Lavish or Extravagant under the facts and circumstances as determined by the Tribal Legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Qualifying safe harbor benefits. The following benefits may be provided under a Safe Harbor Program. The benefits listed in the parenthetical language herein are illustrative only, rather than an exhaustive list. Thus, a benefit may qualify for exclusion from gross income as a Safe Harbor Program even though the benefit is not expressly described in the parenthetical language herein, provided that it meets all other requirements of Article VI and Revenue Procedure 2014-35 (as may be amended):</text>
+      <para>
+        <num>(1)</num>
+        <text>Housing programs. Programs relating to principal residences and ancillary structures that are not used in any trade or business, or for investment purposes that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Pay mortgage payments, down payments, or rent payments (including but not limited to security deposits) for principal residences;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Enhance habitability of housing, such as by remedying water, sewage, or sanitation service, safety issues (including but not limited to mold remediation), or heating or cooling issues;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide basic housing repairs or rehabilitation (including but not limited to roof repair and replacement);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pay utility bills and charges (including but not limited to water, electricity, gas, and basic communications services such as phone, internet, and cable);</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Pay property taxes or make payments in lieu of taxes (PILOTs).</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Educational programs. Programs to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide students (including but not limited to postsecondary students) transportation to and from school, tutors, and supplies (including but not limited to clothing, backpacks, laptop computers, musical instruments, and sports equipment) for use in school activities and extracurricular activities;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide tuition payments for students (including but not limited to allowances for room and board on or off campus for the student, spouse, domestic partner, and Dependents) to attend preschool, school, college or university, online school, educational seminars, vocational education, technical education, adult education, continuing education, or alternative education;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide for the care of children away from their homes to help their parents or other relatives responsible for their care to be gainfully employed or to pursue education; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide job counseling and programs for which the primary objective is job placement or training, including but not limited to allowances for expenses for interviewing or training away from home (including but not limited to travel, auto expenses, lodging, and food); tutoring; and appropriate clothing for a job interview or training (including but not limited to an interview suit or a uniform required during a period of training).</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Elder and disabled programs. Programs for individuals who have reached age 55 or are mentally or physically disabled (as defined under applicable law, including but not limited to tribal government disability codes or laws) that provide:</text>
+        <para>
+          <num>(a)</num>
+          <text>Meals through home-delivered meal programs or at a community center or similar facility;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Home care such as assistance with preparing meals or doing chores, or day care outside the home;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Local transportation assistance;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Improvements to adapt housing to special needs (including but not limited to grab bars and ramps).</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Cultural and religious programs. Programs to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Pay expenses (including but not limited to admission fees, transportation, food, and lodging) to attend or participate in an Indian tribe's cultural, social, religious, or community activities such as pow-wows, ceremonies, and traditional dances;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pay expenses (including but not limited to admission fees, transportation, food, and lodging) to visit sites that are culturally or historically significant for the Tribe, including but not limited to other Indian reservations;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pay the costs of receiving instruction about an Indian tribe's culture, history, and traditions (including but not limited to traditional language, music, and dances);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pay funeral and burial expenses and expenses of hosting or attending wakes, funerals, burials, other bereavement events, and subsequent honoring events; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Pay transportation costs and admission fees to attend educational, social, or cultural programs offered or supported by the Tribe or another tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Other qualifying assistance programs. Programs to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Pay transportation costs such as rental cars, substantiated mileage, and fares for bus, taxi, and public transportation between an Indian reservation, service area, or service unit area and facilities that provide essential services to the public (such as medical facilities and grocery stores);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pay for the cost of transportation, temporary meals, and lodging of a Tribal Member while the individual is receiving medical care away from home;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide assistance to individuals in exigent circumstances (including but not limited to victims of abuse), including but not limited to the costs of food, clothing, shelter, transportation, auto repair bills, and similar expenses;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pay costs for temporary relocation and shelter for individuals displaced from their homes (including but not limited to situations in which a home is destroyed by a fire or natural disaster);</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Provide assistance for transportation emergencies (for example, when stranded away from home) in the form of transportation costs, a hotel room, and meals; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Pay the cost of nonprescription drugs (including but not limited to traditional Indian tribal medicines).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compensation safe harbor. For Safe Harbor Programs, and subject to amendments to Revenue Procedure 2014-35 hereafter, the Tribe will presume that individual need is met for religious leaders or spiritual officials or leaders (including but not limited to Pipe-carriers, Firekeepers, Traditional Healers, the Drum and Singers, Flag-carriers, and other cultural or spiritual and religious officiants) receiving the following benefits, and that the benefits do not represent Compensation for services: benefits provided under an Indian tribal governmental Program that are items of cultural significance that are not lavish or extravagant under the facts and circumstances or nominal cash honoraria provided to religious or spiritual officials or leaders (including but not limited to Pipe-carriers, Firekeepers, Traditional Healers, the Drum and Singers, Flag-carriers, and other cultural or spiritual and religious officiants) to recognize their participation in cultural, religious, and social events (including but not limited to pow-wows, rite of passage ceremonies, funerals, wakes, burials, other bereavement events, and subsequent honoring events). In accordance with 26 U.S. Code § 139E - Indian General Welfare Benefits, "deference shall be given to Indian tribal governments for the programs administered and authorized by the tribe to benefit the general welfare of the tribal community."</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Safe harbor effective dates. Safe harbor treatment shall be afforded to any Program or benefit that otherwise satisfies the safe harbor rule as of, or after, December 6, 2012, or for any earlier taxable period for which the period of limitation on refund or credit under Internal Revenue Code Section 6511 has not expired.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Non-Safe Harbor programs. Nothing in <cite path="|I|95">this chapter</cite> or the IRS safe harbor guidance shall limit the Tribe's right to provide Assistance outside of the safe harbor rules.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any changes to the safe harbor programs as a result of the Indian General Welfare Exclusion Act of 2014 or other applicable law will be immediately incorporated, by reference, into <cite path="|I|95">this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-8</num>
+    <heading>Programs meeting the General Test.</heading>
+    <text>Programs that do not qualify for non-taxable treatment under Code Section 139E or under an IRS Safe Harbor, will nonetheless be treated as non-taxable if Program benefits meet the General Test for treatment under the General Welfare Exclusion. For purposes of the General Test only, needs must be shown in one of the following manners:</text>
+    <para>
+      <num>A.</num>
+      <text>Individual needs. Certain Programs may be based on individual need, rather than an overall need of the Tribe. For those Programs, the Tribal Legislature may establish income guidelines unique to the Tribe or may use readily available income guidelines used by state or federal programs to demonstrate individual or family need. When individual or family need must be shown, the Program may take into account individual circumstances or extraordinary need to overcome presumptions based on income alone.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Community needs. Certain Programs may be based on community needs, which are so important to the self-determination, culture and traditions of the Tribe that Assistance may be deemed necessary regardless of individual income or wealth. For example, states provide public education to all citizens regardless of individual income or wealth. Some Programs may address both individual and community-based needs. The Tribal Legislature reserves the right to require any Applicant applying for consideration based on non-financial or community-based needs to demonstrate how the Program benefits will benefit the tribal community as a whole, including preservation of culture, tradition and self-determination. Approval based on non-financial need criteria is made on a facts and circumstances basis and will be guided by traditional values and culture. A Program will be deemed to be based on community or non-financial needs if so designated by the Tribal Legislature.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-9</num>
+    <heading>Promotion of general welfare.</heading>
+    <text>All Assistance disbursed pursuant to <cite path="|I|95">this chapter</cite> shall be designed to promote the general welfare, self-determination, culture and tradition of the Tribe. The Tribal Legislature shall establish objectives for the furtherance of the general welfare, self-determination, culture and tradition of the Tribe and assess progress on said objectives in connection with its budgeting and/or strategic planning process. Approved Programs shall be renewed, established, modified, or terminated based upon the needs of the Tribe as compared to the objectives set by the Tribal Legislature from time to time hereunder. All Programs hereunder shall provide a social benefit for the promotion of the general welfare of the Tribe and be limited to purposes consistent with treatment under <cite path="|I|95">this chapter</cite>. Such purposes may include, for example, and not by way of limitation, assistance for medical care, food, shelter, health, education, subsistence, housing, elder and disabled care, assistance to meet cultural, traditional and religious needs of the Tribe and its membership, and assistance to promote self-sufficiency, self-determination, Tribal image, entrepreneurship, and the employment of Tribal Members. Designation by the Tribal Legislature of a Program as falling under <cite path="|I|95">this chapter</cite> shall be conclusive evidence that the Tribal Legislature, following a good faith review of Tribal needs and goals, has determined that said Program is established to achieve a social benefit and to promote the general welfare of the Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-10</num>
+    <heading>Eligibility and application procedures.</heading>
+    <text>Each Approved Program shall set forth the specific eligibility rules and limitations applied to that Program. Each designated department shall present program descriptions, which include eligibility rules and limitations, along with application forms and procedures, for approval by the Tribal Legislature or its designee. Only those descriptions, application forms and procedures which are approved by the Tribal Legislature or its designee shall be in force and effect. Program guidelines may limit benefits to an identified group of Members. All Programs may be limited by budget availability. In the absence of specific Program guidelines to the contrary, all Programs shall be deemed to incorporate eligibility criteria necessary for compliance with Code Section 139E.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-11</num>
+    <heading>Limited use of assistance; substantiation.</heading>
+    <text>All Assistance disbursed or provided pursuant to <cite path="|I|95">this chapter</cite> must be used for the purpose stated in the Approved Program description, and any application for the applicable Assistance. The Tribe or its designee shall keep books or records deemed appropriate to demonstrate compliance with the Ordinance. Recipients of benefits hereunder are responsible for maintaining books or records as may be required for substantiation to the IRS for individual income tax purposes. In the event that Assistance payments and/ or services are used or pledged for a purpose inconsistent with the purpose set forth in the applicable Approved Program or the Member's application, the Tribal Legislature or designee may require the repayment of the welfare Assistance payment. The Tribal Legislature or designee is authorized to offset any other payments owed to a Tribal Member if such an offset is necessary to secure repayment of a welfare Assistance payment in accordance with this Section.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-12</num>
+    <heading>Limitation on payments; annual budgeting.</heading>
+    <para>
+      <num>A.</num>
+      <text>Limitations on welfare assistance payments. The Tribal Legislature, within its annual budgets, by resolution or by motion, may adopt guidelines establishing the maximum Assistance payments to be made to Tribal Members for certain specified purposes or programs or may delegate the establishment of such limitations to the program level. Such guidelines may also include, by way of example, factors to be considered in determining whether deviations from the general payment limitations should be permitted. Departments charged with administering particular programs may be delegated authority to adopt program guidelines to the extent not contrary to the overall guidelines and limitations established by the Tribal Legislature hereunder. In no event shall Assistance be lavish or extravagant.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Annual budgeting; unfunded program. The Tribal Legislature, through its annual budgeting process, by resolution or by motion, shall designate those funding sources that are available for the payment of Assistance benefits. Notwithstanding anything to the contrary, the Assistance payments authorized hereunder shall be "unfunded" for tax purposes and no Beneficiary shall have an interest in or right to any funds budgeted for or set aside for Assistance payments until actually paid. Assistance benefits shall remain assets of the Tribe until distributed, and the Approved Programs shall be administered to avoid premature taxation through the doctrines of constructive receipt and/or economic benefit.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-13</num>
+    <heading>Forfeiture of General Welfare Assistance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Forfeiture. Notwithstanding anything herein to the contrary, Assistance benefits may be revoked or forfeited for any Beneficiary who is found to have misapplied program funds or to have made any misrepresentations during the application process. Assistance may also be forfeited should said benefits be treated as a resource to the detriment of the Tribe or a Beneficiary. The Tribe shall have a right of recovery with regard to any excess or improper payments hereunder.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Due process. Each program shall offer procedures that afford a Beneficiary an opportunity to address forfeiture issues or concerns with the program director or designee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Anti-alienation. A Tribal Member's rights to apply for General Welfare Assistance payments and/or services under <cite path="|I|95">this chapter</cite> are not subject to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, levy, attachment or garnishment by creditors, except as provided under 95-19.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-14</num>
+    <heading>Tribal Legislature-Approved Programs.</heading>
+    <text>The Tribal Legislature shall designate Approved Programs for which funds will be budgeted each fiscal year, consistent with the purposes of <cite path="|I|95">this chapter</cite>. Each Approved Program shall be consistent with the General Welfare Doctrine as to purpose, eligibility, and funding. The Tribal Legislature reserves the right to cancel, adjust, modify or revoke any Assistance provided by the Tribe in accordance with its budget.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-15</num>
+    <heading>Administration.</heading>
+    <text>Tribal Administration and Member Services departments are charged with the responsibility and authority to administer the General Welfare Assistance Program, as authorized by the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-16</num>
+    <heading>Eligibility and application procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>Each Approved Program shall set forth the specific eligibility rules and limitations applied to that program. Each designated department shall present program descriptions, which include eligibility rules and limitations, along with application forms and procedures, for approval by the Tribal Legislature. Only those descriptions, application forms and procedures which are approved by the Tribal Legislature shall be in force and effect. Program guidelines may limit benefits to an identified group of Tribal Members. All Programs may be limited by budget availability. In the absence of specific Program guidelines to the contrary, all programs shall be deemed to incorporate eligibility criteria necessary for compliance with Code Section 139E.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Annual tribal member general welfare assistance. Any Tribal Member may apply for the Annual General Welfare Assistance Program. The Tribal Member shall agree to use general welfare payment to offset the inflationary costs of household expenses, or the Tribal Member can choose to opt out of this program, which means they would not receive the general welfare payment.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribe will issue a general welfare assistance payment to or on behalf of each enrolled Tribal Member who completes an application before the date specified in the notice of annual General Welfare Assistance Program.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Payments to minors will be paid into minor trust accounts. Parents and legal guardians can access these funds through the established procedure of the Department of Family Services.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-17</num>
+    <heading>Application and documentation requirements.</heading>
+    <text>To be eligible for an Annual General Welfare Assistance Payment, an Applicant must complete a general welfare assistance application which shall include the following:</text>
+    <para>
+      <num>A.</num>
+      <text>The Applicant's date of birth, enrollment number and signature certifying that Applicant is an enrolled Member of the Menominee Indian Tribe of Wisconsin and Applicant is eligible for the General Welfare Assistance Payment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Applicant certifies that the above information is true and correct and that the Applicant understands that providing incorrect information could subject the Applicant to recoupment of funds and other legal penalties. Said application may be available through an online application form on the Tribe's Members Portal website.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-18</num>
+    <heading>Distribution of General Welfare Assistance Program funds.</heading>
+    <text>Each General Welfare Assistance Payment shall be sent by United States mail to the eligible Tribal Member at the address that Member Services has for the Tribal Member. In the case of a check that is returned by the Postal Service undelivered, the Tribe will release the check to the Tribal Member upon presentation of picture identification deemed adequate by the Tribe, after s/he has provided the Member Services department with her/his current mailing address, and after s/he has executed a written acknowledgement that s/he has received the payment.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-19</num>
+    <heading>General Welfare Assistance Payments subject to interception for child support arrears but not to debt collection.</heading>
+    <para>
+      <num>A.</num>
+      <text>For purposes of <cite path="|I|44">Chapter 44</cite>, Debt Collection, this payment will not be considered a per capita payment and therefore <cite path="|I|44">Chapter 44</cite> would not apply.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Legislature, through its assertion of tribal sovereignty and by incorporating Menominee traditions values and customs has determined that a Tribal Member's child/children should have priority to the general welfare payment. The Tribal Legislature has determined that under <cite path="|II|368">Chapter 368</cite>, Article III, this general welfare payment can be intercepted for child support arrears. Child support is meant to facilitate the stability of families and the community by determining the needs of the child and assuring that the legal obligations are established thereby promoting the general welfare of a Tribal Member's child/children.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-20</num>
+    <heading>Programs not limited to means testing.</heading>
+    <text>Programs that qualify under Code Section 139E or the IRS Safe Harbor shall not require a showing of individual need or means testing in order to achieve non-taxable treatment under the General Welfare Exclusion. The Tribe also reserves the right to provide community-based Programs and Programs based on non-financial need under the General Test that are not individually means tested. The Tribe recognizes that means testing can distort certain tribal cultural and community values. The Tribe has participated in consultation with the United States Treasury Department and IRS and will evaluate Programs periodically as guidance is further developed through consultation with the Tribe.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-21</num>
+    <heading>Privacy; information sharing.</heading>
+    <text>The Tribe will maintain records regarding sensitive tribal and tribal Member matters, including tribal customs, religion and traditions, confidential from third party disclosures to the fullest extent permitted at law. If information is requested by IRS or other government agencies or third parties during a compliance review or examination, disclosures shall be limited to the extent necessary and required by law pending an effort to address such requests through consultation and other rights under Executive Order 13175 on a government-to-government basis. Confidential Tribal information shall not be shared in a manner that would open up additional disclosure, for example, under information sharing agreements the recipient may be subject to or under the Freedom of Information Act.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-22</num>
+    <heading>Government-to-government relationship; Executive Order 13175.</heading>
+    <text>Coordination with IRS and the United States Treasury Department on General Welfare matters shall be grounded on a government-to-government relationship that recognizes the unique relationship between the federal government and the Tribal government. The federal government, as a result of its treaty obligations and trust responsibility, has committed to providing education, housing, clean water, and many other basic needs for Indian people. Through a conscientious shift in policy in recent decades, the federal government has encouraged the Tribe itself to provide for such needs in partnership with the federal government and, increasingly in recent years, instead of the federal government. Essential to the government-to-government relationship is mutual respect and deference to Tribal governance decisions. Future consultations on General Welfare matters should reflect these concerns and the fact that the Tribal government, through its own policy setting process, is best situated to determine the needs of the Tribe and its Members and the appropriate policy solutions. All references to Executive Order 13175 shall include any future amendments thereto.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-23</num>
+    <heading>Other tax exemptions.</heading>
+    <text>Notwithstanding anything herein to the contrary, the Tribe reserves the right to waive income limits or needs basis criteria, to the extent otherwise applicable, for expenditures that otherwise qualify for tax exemptions including tax exemptions under Titles 25 or 26 of the United States Code so long as the conditions for exemption are met. Without limitation, this includes Member medical benefits exempt under Section 9021 of the Patient Protection and Affordable Care Act of 2010 (Code Section 139D) and per capita expenses exempt under 25 U.S.C. Sections 1407 and 1408.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-24</num>
+    <heading>Governing law.</heading>
+    <para>
+      <num>A.</num>
+      <text>All rights and liabilities associated with the enactment of <cite path="|I|95">this chapter</cite>, or the welfare assistance payments made hereunder, shall be construed and enforced according to the laws of the Menominee Indian Tribe of Wisconsin and applicable Federal law.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Nothing in <cite path="|I|95">this chapter</cite> or the related policies or procedures adopted for its implementation, if any, shall be construed to make applicable to the Tribe any laws or regulations (1) which are otherwise inapplicable to the Tribe, or (2) from which the Tribe is entitled to exemption because of its sovereign status.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-25</num>
+    <heading>Severability.</heading>
+    <text>If any provision of <cite path="|I|95">this chapter</cite> is held to be invalid, the remainder of <cite path="|I|95">this chapter</cite> shall not be affected.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-26</num>
+    <heading>Sovereign immunity preserved.</heading>
+    <para>
+      <num>A.</num>
+      <text>Nothing in <cite path="|I|95">this chapter</cite> shall be interpreted as a waiver of the Tribe's sovereign immunity for any purpose.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Specifically, nothing in <cite path="|I|95">this chapter</cite> or the related policies and procedures of any approved program developed hereunder, constitutes a waiver of the sovereign immunity of the Tribe.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>§</prefix>
+    <num>95-27</num>
+    <heading>Effective date.</heading>
+    <text>The ordinance codified in <cite path="|I|95">this chapter</cite> shall take full effect immediately after final approval by the Tribal Legislature.</text>
+    <annotations/>
+  </section>
+</container>

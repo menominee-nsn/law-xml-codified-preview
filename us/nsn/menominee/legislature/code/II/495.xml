@@ -11,7 +11,10 @@
   <container cache:ref-path="II|495|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Private Sewage Systems [Adopted 7-6-2000 by Ord. No. 00-14]</heading>
+    <heading>Private Sewage Systems</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 00-14" type="History">Adopted 7-6-2000 by Ord. No. 00-14</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>495-1</num>
@@ -68,7 +71,8 @@
       <text>CESSPOOL — A covered excavation in the ground which receives sewage or other organic wastes from a drainage system and is so designed as to retain the organic matter and solids, permitting the liquids to seep into the soil cavities.</text>
       <text>CLEANOUT — A plug or cover made of material approved by the Department and joined by means of a screw thread to an opening in a pipe which can be removed for the purpose of cleaning or examining the interior of the pipe.</text>
       <text>CLEAR WATER WASTES — Cooling water and condensate drainage from refrigeration compressors and air-conditioning equipment, water used for equipment chilling purposes, liquid having no impurities or where impurities have been reduced below a minimum concentration considered harmful, and cooled condensate from steam heating systems or other equipment.</text>
-      <text>COLOR — The moist color of the soil based on Munsell Soil Color Charts. DEPARTMENT — The Menominee Indian Tribe Environmental Services Department.</text>
+      <text>COLOR — The moist color of the soil based on Munsell Soil Color Charts.</text>
+      <text>DEPARTMENT — The Menominee Indian Tribe Environmental Services Department.</text>
       <text>DETAILED SOIL MAP — A map prepared by or for a state or federal agency participating in the National Cooperative Soil Survey showing soil series, type and phases at a scale of not more than 2,000 feet to the inch and includes related explanatory information.</text>
       <text>DOSING SOIL ABSORPTION SYSTEM — A system that employs a pump or automatic siphon to elevate or distribute effluent to the soil through the use of a seepage trench or bed. Distribution piping in seepage trenches or beds shall be four-inch perforated pipe approved by the Department.</text>
       <text>DWELLING UNIT — One or more rooms with provisions for living, sanitary and sleeping facilities which are used or intended to be use by one person or by two or more persons maintaining a common household.</text>
@@ -90,15 +94,16 @@
       <text>MASTER PLUMBER RESTRICTED (SEWER) — Any person skilled in the planning, superintending and practical installation of private on-site waste treatment systems and other exterior plumbing.</text>
       <text>MOBILE HOME — A transportable structure mounted on a chassis and designed to be used with or without a permanent foundation as a dwelling unit.</text>
       <text>MOBILE HOME PARK — Any plot or plots upon which two or more mobile homes, occupied for dwelling or sleeping purposes, are located.</text>
-      <text>NUISANCE — Any source of filth, odor or probable cause of sickness. PERMEABILITY — The ease with which liquids move through the soil. PIPE DIAMETER — The inside diameter.</text>
+      <text>NUISANCE — Any source of filth, odor or probable cause of sickness.</text>
+      <text>PERMEABILITY — The ease with which liquids move through the soil.</text>
+      <text>PIPE DIAMETER — The inside diameter.</text>
       <text>PLUMBING SYSTEM — All piping, fixtures, appliances, equipment, devices and appurtenances in connection with the water supply, water distribution and drainage systems.</text>
       <text>POTABLE WATER — Water which is satisfactory for human consumption, hygiene and culinary use.</text>
       <text>PRESSURE DISTRIBUTION SYSTEM — A soil absorption system that employs a pump or automatic siphon and small-diameter distribution piping with small-diameter perforations to introduce effluent into the soil.</text>
       <text>PRIVATE ON-SITE WASTE TREATMENT SYSTEM (POWTS) — A sewage treatment and disposal system serving a single structure with a septic or other treatment tank and soil absorption field located on the same parcel as the structure. This term also means an alternative sewage system approved by the Department, including a substitute for the septic tank or soil absorption field, a holding tank, a system serving more than one structure or a system located on a different parcel than the structure. A private sewage system may be owned by the property owner or by a special purpose district.</text>
       <text>PRIVATE RESIDENCE — A one- or two-family building or dwelling unit.</text>
       <text>PRIVY — A structure that is not connected to a plumbing system which is used by persons for the deposition of human body wastes.</text>
-      <text>PUBLIC BUILDING — Any structure used in whole or in part as a place of resort, assemblage, lodging,</text>
-      <text>trade, traffic, occupancy or use by the public or by three or more tenants.</text>
+      <text>PUBLIC BUILDING — Any structure used in whole or in part as a place of resort, assemblage, lodging, trade, traffic, occupancy or use by the public or by three or more tenants.</text>
       <text>PUBLIC GARAGE — A building or part of a building used for the storage of land, air or water vehicles by three or more persons not of the same family.</text>
       <text>RESERVOIR — A watertight receptacle basin or vault constructed above the ground surface or underground for storage of potable water.</text>
       <text>SEEPAGE BED — An excavated area larger than five feet in width which contains a bedding of aggregate and has more than one distribution line.</text>
@@ -1811,7 +1816,7 @@
             <para>
               <num>[4]</num>
               <text>Trench spacing (C) shall be determined by comparing the estimated wastewater flow, the infiltrative capacity of the natural soil and the trench length (B). The calculated trench spacing (C) shall be measured from center to center of the trenches. Trench spacing (C) shall be calculated as:</text>
-              <text>(C) =	<u>Estimated wastewater flow</u></text>
+              <text>(C) = <u>Estimated wastewater flow</u></text>
               <text>Number of trenches</text>
               <text>÷ (0.24 gal/ft2/day) ÷ trench length (B)</text>
             </para>
@@ -1827,7 +1832,7 @@
           <para>
             <num>(a)</num>
             <text>Mound height. On sites the mound height shall be calculated using the following equation where D equals sand fill depth, E equals the downslope fill depth, F equals the bed or trench depth, and H equals the cap and topsoil depth:</text>
-            <text>Mound height =	<u>(D + E)</u> 2</text>
+            <text>Mound height = <u>(D + E)</u> 2</text>
             <text>+ F + H</text>
             <para>
               <num>[1]</num>
@@ -1881,7 +1886,7 @@
               <num>[4]</num>
               <text>The mound width (W) for a trench system =</text>
               <text>upslope width (J) + trench width (A) + [(number or trenches – 1) x</text>
-              <text>(trench spacing (C)] +	<u>trench width (A)</u> 2</text>
+              <text>(trench spacing (C)] + <u>trench width (A)</u> 2</text>
               <text>+ downslope width (I)</text>
             </para>
           </para>
@@ -2045,7 +2050,10 @@
   <container cache:ref-path="II|495|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Sewer Rates, Rules and Regulations [Adopted 11-12-2002 by Ord. No. 02-44]</heading>
+    <heading>Sewer Rates, Rules and Regulations</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 02-44" type="History">Adopted 11-12-2002 by Ord. No. 02-44</annotation>
+    </annotations>
     <section cache:ref-path="II|§495-23">
       <prefix>§</prefix>
       <num>495-23</num>
@@ -2085,7 +2093,7 @@
     <section cache:ref-path="II|§495-25">
       <prefix>§</prefix>
       <num>495-25</num>
-      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn proof="needed" path="|II|§495-25|footnotes|21">21</fn></heading>
+      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn path="|II|§495-25|footnotes|21">21</fn></heading>
       <text>The Department of Tribal Utilities of the Menominee Indian Tribe shall have the power to construct sewer lines for public use and shall have the power to lay sewer pipes in and through the alleys, streets, and public grounds of the Menominee Indian Tribe and, generally, to do all such work as may be found necessary or convenient in the management of the sewer system. The Menominee Department of Tribal Utilities shall have the power by itself, its agents, servants and employees to enter upon any land for the purpose of making examination or supervise in the performance of their duties under <cite path="|II|495|II">this article</cite> without liability therefor, and the Menominee Tribal Legislature shall have the power to purchase and acquire for the Department of Tribal Utilities all real and personal property which may be necessary for construction of the sewer system or for any repair, remodeling, or additions thereto.</text>
       <footnotes>
         <footnote>
@@ -2184,7 +2192,7 @@
     <section cache:ref-path="II|§495-32">
       <prefix>§</prefix>
       <num>495-32</num>
-      <heading>Septic tank and holding tank disposal.<fn proof="needed" path="|II|§495-32|footnotes|22">22</fn></heading>
+      <heading>Septic tank and holding tank disposal.<fn path="|II|§495-32|footnotes|22">22</fn></heading>
       <text>No person in the business of gathering and disposing of septic tank sludge or holding tank sewage shall transfer such material into any disposal area or sewer manhole on the Menominee Reservation without permission of the Menominee Department of Tribal Utilities.</text>
       <footnotes>
         <footnote>
@@ -2303,8 +2311,7 @@
       <prefix>§</prefix>
       <num>495-38</num>
       <heading>Violations and penalties.</heading>
-      <text>Any person who shall violate any of the provisions of <cite path="|II|495|II">this article</cite> or rules or regulations of the Department of Tribal Utilities or who shall connect a service pipe without first having obtained a permit therefor shall, upon conviction thereof, forfeit not less than $50 nor more than $500 and the costs of prosecution. This, however, shall not bar the Department of Tribal Utilities from enforcing the connection duties set out in</text>
-      <text><cite path="§495-34">§ 495-34</cite> for mandatory hookup.</text>
+      <text>Any person who shall violate any of the provisions of <cite path="|II|495|II">this article</cite> or rules or regulations of the Department of Tribal Utilities or who shall connect a service pipe without first having obtained a permit therefor shall, upon conviction thereof, forfeit not less than $50 nor more than $500 and the costs of prosecution. This, however, shall not bar the Department of Tribal Utilities from enforcing the connection duties set out in <cite path="§495-34">§ 495-34</cite> for mandatory hookup.</text>
       <annotations/>
     </section>
     <section>

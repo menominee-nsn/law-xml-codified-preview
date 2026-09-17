@@ -13,7 +13,8 @@
     <num>I</num>
     <heading>Tribal Housing Limited Partnership Nos. 5 and 6</heading>
     <annotations>
-      <annotation type="History">Adopted 12-17-2009 by Ord. No. 09-26; amended in its entirety 10-21-2010</annotation>
+      <annotation type="History">Amended in its entirety 10-21-2010</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 09-26" type="History">Adopted 12-17-2009 by Ord. No. 09-26</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -29,11 +30,11 @@
       <text><cite path="|I|50|I">This article</cite> shall pertain to:</text>
       <para>
         <num>A.</num>
-        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 5, dated    , and the amendment to those lease or leases dated    ; and</text>
+        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 5, dated _____, and the amendment to those lease or leases dated _____; and</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 6, dated    , and the amendment to those lease or leases dated    ; and</text>
+        <text>The lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 6, dated _____, and the amendment to those lease or leases dated _____; and</text>
       </para>
       <para>
         <num>C.</num>
@@ -87,7 +88,10 @@
   <container cache:ref-path="I|50|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Tribal Housing Limited Partnership Nos. 7 and 8 [Adopted 6-2-2011 by Ord. No. 11-13]</heading>
+    <heading>Tribal Housing Limited Partnership Nos. 7 and 8</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 11-13" type="History">Adopted 6-2-2011 by Ord. No. 11-13</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>50-5</num>
@@ -111,11 +115,11 @@
       <text>The Menominee Tribal Legislature approves and authorizes the Tribal Chairperson to execute all documents necessary to further the rehabilitation of housing contemplated by this project. This approval and authorization includes, but is not limited to:</text>
       <para>
         <num>A.</num>
-        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7, dated April 8, 2011, pertaining to those properties listed in <cite path="§50-10">§ 50-10</cite> of <cite path="|I|50|II">this article</cite>; and <strong>[Amended 7-21-2011]</strong></text>
+        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 7, dated April 8, 2011, pertaining to those properties listed in <cite path="§50-10">§ 50-10</cite> of <cite path="|I|50|II">this article</cite>; and<fn path="|I|§50-7|footnotes|1">1</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8 pertaining to those properties listed in <cite path="§50-11">§ 50-11</cite> of <cite path="|I|50|II">this article</cite>; and <strong>[Amended 7-21-2011]</strong></text>
+        <text>The lease or leases and any amendments to such lease or leases entered into by and between the Menominee Indian Tribe of Wisconsin and Menominee Tribal Housing Limited Partnership No. 8 pertaining to those properties listed in <cite path="§50-11">§ 50-11</cite> of <cite path="|I|50|II">this article</cite>; and<fn path="|I|§50-7|footnotes|2">2</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -153,7 +157,19 @@
         <num>K.</num>
         <text>Any other written agreements authorized by the Menominee Tribal Legislature, and entered into between the Menominee Indian Tribe of Wisconsin and any third party, in furtherance of the acquisition of low-income housing tax credits and necessary actions connected with such acquisition by Menominee Tribal Housing Limited Partnership No. 7 and Menominee Tribal Housing Limited Partnership No. 8. All such agreements, in order to be considered subject to the terms of <cite path="|I|50|II">this article</cite>, shall contain a statement that the third party contracting with the Tribe understands and agrees to be subject to the jurisdiction of the Menominee Tribal Courts for the purposes of enforcement of such agreement and <cite path="|I|50|II">this article</cite>.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended 7-21-2011</text>
+        </footnote>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Amended 7-21-2011</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 7-21-2011</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

@@ -13,7 +13,7 @@
     <num>I</num>
     <heading>Police Department</heading>
     <annotations>
-      <annotation type="History">Adopted 11-20-1980 by Ord. No. 80-28</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 80-28" type="History">Adopted 11-20-1980 by Ord. No. 80-28</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -182,7 +182,7 @@
         </para>
       </para>
       <annotations>
-        <annotation type="History">Amended 1-18-2018 by Ord. No. 17-32</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 17-32" type="History">Amended 1-18-2018 by Ord. No. 17-32</annotation>
       </annotations>
     </section>
   </container>
@@ -191,7 +191,8 @@
     <num>II</num>
     <heading>Extradition</heading>
     <annotations>
-      <annotation type="History">Adopted 9-18-1981 by Ord. No. 81-22; amended in its entirety 5-17-2007</annotation>
+      <annotation type="History">Amended in its entirety 5-17-2007</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 81-22" type="History">Adopted 9-18-1981 by Ord. No. 81-22</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -231,8 +232,7 @@
       <prefix>§</prefix>
       <num>132-7</num>
       <heading>Hearing.</heading>
-      <text>If from the examination before the Judge it appears that the person held is the person charged with having committed the crime alleged and that person held has fled from justice and is using the Menominee</text>
-      <text>Reservation as a haven from prosecution, the Judge shall inform the person of the demand made for his or her surrender and that the person has the right to obtain legal counsel at his or her expense, and if the person desires to test the legality of his or her arrest, the Judge of the Tribal Court shall fix a reasonable time to be allowed the person within which to commence an action for habeas corpus. When such action is commenced, notice thereof, and of the time and place of hearing thereon, shall be given to the prosecuting officer of the Tribe and to the agent of the demanding state.</text>
+      <text>If from the examination before the Judge it appears that the person held is the person charged with having committed the crime alleged and that person held has fled from justice and is using the Menominee Reservation as a haven from prosecution, the Judge shall inform the person of the demand made for his or her surrender and that the person has the right to obtain legal counsel at his or her expense, and if the person desires to test the legality of his or her arrest, the Judge of the Tribal Court shall fix a reasonable time to be allowed the person within which to commence an action for habeas corpus. When such action is commenced, notice thereof, and of the time and place of hearing thereon, shall be given to the prosecuting officer of the Tribe and to the agent of the demanding state.</text>
       <annotations/>
     </section>
     <section>
@@ -298,7 +298,8 @@
     <num>III</num>
     <heading>Police Chief</heading>
     <annotations>
-      <annotation type="History">Adopted by 3-7-1985 by Ord. No. 85-1; amended in its entirety 7-2-2020 by Ord. No. 20-11</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-11" type="History">Amended in its entirety 7-2-2020 by Ord. No. 20-11</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 85-1" type="History">Adopted by 3-7-1985 by Ord. No. 85-1</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -317,7 +318,7 @@
     <section>
       <prefix>§</prefix>
       <num>132-16</num>
-      <heading>Eligibility; petition; qualifications; candidate certification.</heading>
+      <heading>Eligibility; petition; qualifications; candidate certification; write-in candidates.</heading>
       <para>
         <num>A.</num>
         <text>Eligibility review by Election Commission prior to nomination. The candidate must meet the following criteria to be eligible for nomination:</text>
@@ -367,11 +368,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>The candidate shall have a bachelor's degree in criminal justice, management, public administration, or business administration and seven years of experience in a management or supervisory role. In the absence of a bachelor's degree in one of the areas above, the candidate shall have 10 years of experience in a management or supervisory role within a police department.</text>
+          <text>The candidate shall have completed at least 60 credits toward a bachelor's degree in criminal justice, management, public administration, or business administration and four years of experience in a management or supervisory role. In the absence of 60 credits toward a bachelor's degree in one of the areas above, the candidate shall have six years of experience in a management or supervisory role within a police department.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>The candidate must not have been terminated for cause or resigned from a police department within the past year.</text>
+          <text>The candidate must not have been terminated for cause or received any disciplinary actions from a police department within the past year.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -382,7 +383,57 @@
         <num>D.</num>
         <text>Candidate certification. The Election Commission, in conjunction with the Tribal Human Resource Department, will verify the above-listed Police Chief qualifications for each candidate who has completed the petition and submitted the required documents for verification. Only eligible candidates who have completed the petition and meet the Police Chief qualifications within timelines set forth in <cite path="|I|63">Chapter 63</cite>, Elections, will be certified by the Election Commission and placed on the ballot.</text>
       </para>
-      <annotations/>
+      <para>
+        <num>E.</num>
+        <text>Write-in candidates.</text>
+        <para>
+          <num>(1)</num>
+          <text>Eligibility. Any tribal member meeting the criteria and qualifications in <cite path="§132-16">§ 132-16</cite> A and C of <cite path="|I|132">this chapter</cite> may become a write-in candidate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Eligibility period. A tribal member seeking to become a write-in candidate shall adhere to the write-in time frame specified in <cite path="§63-17">§ 63-17</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Disadvantages. Write-in candidates are not eligible for the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>To have their names be printed on official election ballots, absentee ballots, and all other official election notices;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To submit for free an autobiographical statement and election campaign profile to the Menominee Nation News for inclusion in a special Menominee Nation News newspaper edition devoted to election coverage;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To designate poll monitors; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To file a request for recount.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A tribal member seeking to become a write-in candidate for Chief of Police shall provide the Election Commission with a signed, written notice of his or her intention to run as a write-in candidate.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A tribal member who has not provided the Commission with this written notice shall not be deemed a candidate for Chief of Police.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Election Commission shall issue a report to the Chairperson's office and the Chief Justice of the Tribal Judiciary within five working days following the deadline date for providing written notice of a tribal member's intention to run as a write-in candidate. The report shall include a list of all candidates that will be running as a write-in candidate, and such other information as the Election Commission may determine.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If any Write-In Candidate wins the election, the Write-In Candidate must be certified by the Election Commission in conjunction with the Human Resource Department according to the criteria and qualifications in <cite path="§132-16">§ 132-16</cite> A and C of <cite path="|I|132">this chapter</cite> prior to taking office. If the winning Write-In Candidate is not certified, the candidate with the next highest votes shall win.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-62" type="History">Amended 10-31-2024 by Ord. No. 24-62</annotation>
+      </annotations>
     </section>
     <section cache:ref-path="I|§132-17">
       <prefix>§</prefix>
@@ -458,7 +509,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Direction and supervision. <strong>[Amended 2-4-2021 by Ord. No. 20-44]</strong></text>
+        <text>Direction and supervision.<fn path="|I|§132-17|footnotes|3">3</fn></text>
         <para>
           <num>(1)</num>
           <text>The Police Commission shall direct and supervise the Tribal Police Chief. Failure by the Tribal Police Chief to carry out the directions of the Police Commission shall be deemed to be an act of insubordination and cause for removal as provided for herein; provided, however, that lawfully made decisions/actions by the Tribal Police Chief in regard to criminal investigations and arrest or citation shall be at the sole discretion of the Tribal Police Chief pursuant to applicable law. Time cards for the Chief of Police shall be signed by the Chairperson of the Police Commission.</text>
@@ -473,8 +524,14 @@
           <num>2</num>
           <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
         </footnote>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended 2-4-2021 by Ord. No. 20-44</text>
+        </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-44" type="History">Amended 2-4-2021 by Ord. No. 20-44</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -531,7 +588,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Compensation. <strong>[Amended 2-4-2021 by Ord. No. 20-44]</strong></text>
+        <text>Compensation.<fn path="|I|§132-19|footnotes|4">4</fn></text>
         <para>
           <num>(1)</num>
           <text>The initial salary of the newly elected Tribal Police Chief shall be determined by the Police Commission, based on experience according to the GS Scale, law enforcement services 638 contract. The Tribal Police Chief will receive an annual cost-of-living adjustment (COLA) in accordance with the law enforcement services 638 contract. If the initial Police Commission has not yet been fully seated, the salary of the newly elected Tribal Police Chief shall be determined by the Chairperson of the Tribal Legislature in consultation with the rest of the Legislature.</text>
@@ -541,7 +598,15 @@
           <text>Annual evaluations shall be made by the Police Commission, which may result in salary increases.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Amended 2-4-2021 by Ord. No. 20-44</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 20-44" type="History">Amended 2-4-2021 by Ord. No. 20-44</annotation>
+      </annotations>
     </section>
     <section cache:ref-path="I|§132-19.1">
       <prefix>§</prefix>
@@ -572,7 +637,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Violation of any rules contained in the Personnel Policies and Procedures of the Menominee Indian Tribe which may result in termination of the employment of a tribal employee.<fn path="|I|§132-19.1|footnotes|3">3</fn></text>
+          <text>Violation of any rules contained in the Personnel Policies and Procedures of the Menominee Indian Tribe which may result in termination of the employment of a tribal employee.<fn path="|I|§132-19.1|footnotes|5">5</fn></text>
         </para>
         <para>
           <num>(7)</num>
@@ -719,27 +784,44 @@
         <num>K.</num>
         <text>Upon removal of the Police Chief, the Legislature may appoint an interim Police Chief upon the recommendation of the Police Commission.</text>
       </para>
-      <para>
-        <num>L.</num>
-        <text>Automatic vacancy. The office of an elected Tribal Police Chief who is removed, dies, resigns or who is convicted of a major crime, as defined in Bylaw V of the Bylaws of the Menominee Constitution, shall be deemed to be automatically vacant. Resignation of office shall be written and shall be deemed to be effective as of the date tendered.</text>
-      </para>
-      <para>
-        <num>M.</num>
-        <text>An automatic vacancy in office for Tribal Police Chief shall be filled through the next regularly scheduled election for Tribal Legislature, unless the Menominee Tribal Legislature requests the Election Commission to hold an earlier special election.</text>
-      </para>
       <footnotes>
         <footnote>
-          <num>3</num>
+          <num>5</num>
           <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
         </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-62" type="History">Amended 10-31-2024 by Ord. No. 24-62</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>132-19.2</num>
+      <heading>Vacancy in office.</heading>
+      <para>
+        <num>A.</num>
+        <text>Automatic vacancy. The office of an elected Tribal Police Chief who is removed, dies, resigns or who is convicted of a major crime, as defined in Bylaw V of the Bylaws of the Menominee Constitution, shall be deemed to be automatically vacant. Resignation of office shall be written and shall be deemed to be effective as of the date tendered.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>An automatic vacancy in office for Tribal Police Chief shall be filled through the next regularly scheduled election for Tribal Legislature, unless the Menominee Tribal Legislature requests the Election Commission to hold an earlier special election.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If there is no eligible candidate or certified write-in candidate eligible to take office, the vacancy shall be filled pursuant to Article VII, Section 4, Menominee Constitution.</text>
+      </para>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-62" type="History">Added 10-31-2024 by Ord. No. 24-62</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="I|132|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Entry by State and County Officials [Adopted 9-3-1987 by Ord. No. 87-15]</heading>
+    <heading>Entry by State and County Officials</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 87-15" type="History">Adopted 9-3-1987 by Ord. No. 87-15</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>132-20</num>
@@ -760,7 +842,10 @@
   <container cache:ref-path="I|132|V">
     <prefix>Article</prefix>
     <num>V</num>
-    <heading>Civil Remedial Forfeitures [Adopted 7-8-1993 by Ord. No. 93-8]</heading>
+    <heading>Civil Remedial Forfeitures</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-8" type="History">Adopted 7-8-1993 by Ord. No. 93-8</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>132-22</num>
@@ -785,11 +870,11 @@
       <text>INDIAN — Any person of Native American ancestry who is subject to federal criminal jurisdiction under the Major Crimes Act, 18 U.S.C. § 1153.</text>
       <text>NON-INDIAN — Any person who is not an Indian as defined in this section.</text>
       <text>RESERVATION — The entire area within the boundaries established by the Treaty of Wolf River, May 12, 1854, 10 Stat. 1064, as modified by the Treaty of Keshena, February 11, 1856, 11 Stat. 679, plus the Wolf River Ranch and any other lands which now or in the future may be held in trust for the use and benefit of the Tribe by the United States.</text>
-      <text>TRIBAL COURT — The Menominee Tribal Court, as established by Article V of the Menominee Constitution and implementing tribal ordinances.<fn path="|I|§132-24|footnotes|4">4</fn></text>
+      <text>TRIBAL COURT — The Menominee Tribal Court, as established by Article V of the Menominee Constitution and implementing tribal ordinances.<fn path="|I|§132-24|footnotes|6">6</fn></text>
       <text>TRIBE (or TRIBAL) — The Menominee Tribe of Wisconsin.</text>
       <footnotes>
         <footnote>
-          <num>4</num>
+          <num>6</num>
           <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
         </footnote>
       </footnotes>
@@ -1165,7 +1250,8 @@
     <num>VI</num>
     <heading>Probation and Parole</heading>
     <annotations>
-      <annotation type="History">Adopted 5-6-1994 by Ord. No. 94-01; amended in its entirety 10-15-2020 by Ord. No. 20-30</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-30" type="History">Amended in its entirety 10-15-2020 by Ord. No. 20-30</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-01" type="History">Adopted 5-6-1994 by Ord. No. 94-01</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -1215,7 +1301,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any person who violates the terms, conditions, agreements, or pledges of his or her probation may be required by the Court to serve not more than 1.5 times the sentence originally imposed minus time already served. However, such revocation of probation shall not be ordered without a hearing before the Court, at which time the offender shall have the opportunity to explain his or her actions, with or without counsel, at his or her own expense. Signing the Probation and Parole Rules shall not be a pre-requisite for revocation, as the individual is under the control of the Department and under conditions set by the Court at the time of sentencing, and a person may be revoked even if they have not signed such rules and have violated the same. The Court may revoke all consecutive or concurrent terms of probation so that the jail sentences are aggregated into one continuous period. The Court may not aggregate consecutive or concurrent sentences for offenses in a single criminal proceeding in which the term of imprisonment imposed on the defendant is more than 12 months unless the enhanced sentencing rights required by the Indian Civil Rights Act<fn path="|I|§132-33|footnotes|5">5</fn> are provided by the Court.</text>
+          <text>Any person who violates the terms, conditions, agreements, or pledges of his or her probation may be required by the Court to serve not more than 1.5 times the sentence originally imposed minus time already served. However, such revocation of probation shall not be ordered without a hearing before the Court, at which time the offender shall have the opportunity to explain his or her actions, with or without counsel, at his or her own expense. Signing the Probation and Parole Rules shall not be a pre-requisite for revocation, as the individual is under the control of the Department and under conditions set by the Court at the time of sentencing, and a person may be revoked even if they have not signed such rules and have violated the same. The Court may revoke all consecutive or concurrent terms of probation so that the jail sentences are aggregated into one continuous period. The Court may not aggregate consecutive or concurrent sentences for offenses in a single criminal proceeding in which the term of imprisonment imposed on the defendant is more than 12 months unless the enhanced sentencing rights required by the Indian Civil Rights Act<fn path="|I|§132-33|footnotes|7">7</fn> are provided by the Court.</text>
         </para>
       </para>
       <para>
@@ -1224,7 +1310,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>5</num>
+          <num>7</num>
           <text>Editor's Note: See 25 U.S.C. § 1301 et seq.</text>
         </footnote>
       </footnotes>
@@ -1236,19 +1322,25 @@
       <heading>Probation and parole officers.</heading>
       <para>
         <num>A.</num>
-        <text>The Tribal Legislature shall have cause to hire one or more persons to be probation and/or parole officers of which the Menominee Indian Tribe, pursuant to administrative policy, shall determine the qualifications, terms of employment, and compensation in accordance with Ordinance No. 83-6, Personnel Policies and Procedures.<fn path="|I|§132-34|footnotes|6">6</fn></text>
+        <text>The Tribal Legislature shall have cause to hire one or more persons to be probation and/or parole officers of which the Menominee Indian Tribe, pursuant to administrative policy, shall determine the qualifications, terms of employment, and compensation in accordance with Ordinance No. 83-6, Personnel Policies and Procedures.<fn path="|I|§132-34|footnotes|8">8</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>The Department, subject to the supervision of the Chief Justice, pursuant to the administrative structure adopted under <cite path="|I|98">Chapter 98</cite>, Government Plan, of this Code, shall have the responsibility of assuring the faithful performance of probation or parole terms, conditions, agreements, or pledges by persons subject thereto, referral or counseling such persons and their families, and preparing pre-sentence or such other reports as requested or ordered by the Courts or otherwise required by law. <strong>[Amended 6-16-2022 by Ord. No. 22-26]</strong></text>
+        <text>The Department, subject to the supervision of the Chief Justice, pursuant to the administrative structure adopted under <cite path="|I|98">Chapter 98</cite>, Government Plan, of this Code, shall have the responsibility of assuring the faithful performance of probation or parole terms, conditions, agreements, or pledges by persons subject thereto, referral or counseling such persons and their families, and preparing pre-sentence or such other reports as requested or ordered by the Courts or otherwise required by law.<fn path="|I|§132-34|footnotes|9">9</fn></text>
       </para>
       <footnotes>
         <footnote>
-          <num>6</num>
+          <num>8</num>
           <text>Editor's Note: The Personnel Policies and Procedures Manual is on file at the office of the Administrative Manager.</text>
         </footnote>
+        <footnote>
+          <num>9</num>
+          <text>Editor's Note: Amended 6-16-2022 by Ord. No. 22-26</text>
+        </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 22-26" type="History">Amended 6-16-2022 by Ord. No. 22-26</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1457,7 +1549,10 @@
   <container>
     <prefix>Article</prefix>
     <num>VII</num>
-    <heading>Empowerment of Conservation Wardens to Enforce Tribal Laws [Adopted 9-1-2011 by Ord. No. 11-24]</heading>
+    <heading>Empowerment of Conservation Wardens to Enforce Tribal Laws</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 11-24" type="History">Adopted 9-1-2011 by Ord. No. 11-24</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>132-44</num>
@@ -1476,10 +1571,10 @@
       <prefix>§</prefix>
       <num>132-46</num>
       <heading>Enforcement of Conservation Code.</heading>
-      <text>The Menominee Tribal Conservation Department and its wardens may execute and serve warrants and processes issued for violations of Menominee Tribal Ordinance No. 99-01 (Conservation Code)<fn path="|I|§132-46|footnotes|7">7</fn> that occur within the exterior boundaries of the Menominee Indian Reservation; and may arrest a person, with or without a warrant, who is detected committing such a violation, or whom the warden has probable cause to believe is guilty of such a violation, and may take the person before the Menominee Tribal Court and make proper complaint. For the purpose of enforcing the Tribe's Conservation Code, any warden may stop and board any boat and may stop any vehicle if the warden reasonably suspects there is a violation of the Conservation Code.</text>
+      <text>The Menominee Tribal Conservation Department and its wardens may execute and serve warrants and processes issued for violations of Menominee Tribal Ordinance No. 99-01 (Conservation Code)<fn path="|I|§132-46|footnotes|10">10</fn> that occur within the exterior boundaries of the Menominee Indian Reservation; and may arrest a person, with or without a warrant, who is detected committing such a violation, or whom the warden has probable cause to believe is guilty of such a violation, and may take the person before the Menominee Tribal Court and make proper complaint. For the purpose of enforcing the Tribe's Conservation Code, any warden may stop and board any boat and may stop any vehicle if the warden reasonably suspects there is a violation of the Conservation Code.</text>
       <footnotes>
         <footnote>
-          <num>7</num>
+          <num>10</num>
           <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
         </footnote>
       </footnotes>
@@ -1489,8 +1584,7 @@
       <prefix>§</prefix>
       <num>132-47</num>
       <heading>Additional arrest powers.</heading>
-      <text>In addition to the arrest powers, a warden who has completed a program of law enforcement training and has been certified as qualified to be a law enforcement officer and has complied with any applicable requirements while on duty and in uniform or on duty and upon display of proper credentials may assist another law enforcement agency, including making an arrest at the request of the agency, may arrest a person pursuant to an arrest warrant concerning the commission of a felony or may arrest a person who has committed a crime in the presence of the warden. If the warden makes an arrest without the presence</text>
-      <text>of another law enforcement agency, the warden shall cause the person arrested to be delivered to the chief of police or sheriff in the jurisdiction where the arrest is made, along with the documents and reports pertaining to the arrest. The warden shall be available as a witness for any tribal, state, or federal court system.</text>
+      <text>In addition to the arrest powers, a warden who has completed a program of law enforcement training and has been certified as qualified to be a law enforcement officer and has complied with any applicable requirements while on duty and in uniform or on duty and upon display of proper credentials may assist another law enforcement agency, including making an arrest at the request of the agency, may arrest a person pursuant to an arrest warrant concerning the commission of a felony or may arrest a person who has committed a crime in the presence of the warden. If the warden makes an arrest without the presence of another law enforcement agency, the warden shall cause the person arrested to be delivered to the chief of police or sheriff in the jurisdiction where the arrest is made, along with the documents and reports pertaining to the arrest. The warden shall be available as a witness for any tribal, state, or federal court system.</text>
       <annotations/>
     </section>
     <section>
@@ -1504,10 +1598,10 @@
       <prefix>§</prefix>
       <num>132-49</num>
       <heading>Killing of dogs injuring wildlife.</heading>
-      <text>A warden may kill a dog found chasing wildlife, causing injury to wildlife, or killing any wildlife referenced in Menominee Tribal Ordinance No. 99-01 (Conservation Code).<fn path="|I|§132-49|footnotes|8">8</fn> A warden may also kill a dog found running if immediate action is necessary to protect wildlife habitat or wildlife from injury or death.</text>
+      <text>A warden may kill a dog found chasing wildlife, causing injury to wildlife, or killing any wildlife referenced in Menominee Tribal Ordinance No. 99-01 (Conservation Code).<fn path="|I|§132-49|footnotes|11">11</fn> A warden may also kill a dog found running if immediate action is necessary to protect wildlife habitat or wildlife from injury or death.</text>
       <footnotes>
         <footnote>
-          <num>8</num>
+          <num>11</num>
           <text>Editor's Note: See <cite path="|II|287">Ch. 287</cite>, Conservation Code.</text>
         </footnote>
       </footnotes>
@@ -1519,7 +1613,8 @@
     <num>VIII</num>
     <heading>Police Commission</heading>
     <annotations>
-      <annotation type="History">Adopted 1-2-2020 by Ord. No. 19-31; amended in its entirety 7-2-2020 by Ord. No. 20-12</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 20-12" type="History">Amended in its entirety 7-2-2020 by Ord. No. 20-12</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 19-31" type="History">Adopted 1-2-2020 by Ord. No. 19-31</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -1563,7 +1658,8 @@
       <text>POLICE OFFICERS — All qualified and sworn members of the Menominee Tribal Police Department.</text>
       <text>RELATIVE — As defined as "immediate family" and/or "extended family" pursuant to the Menominee Indian Tribe of Wisconsin Personnel Policies and Procedures Manual.</text>
       <text>TRIBAL LEGISLATURE — The legislative body of the Menominee Indian Tribe of Wisconsin.</text>
-      <text>TRIBAL POLICE — The Menominee Tribal Police Department. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+      <text>TRIBAL POLICE — The Menominee Tribal Police Department.</text>
+      <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
       <annotations/>
     </section>
     <section>

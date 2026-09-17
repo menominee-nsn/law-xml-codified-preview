@@ -4,7 +4,9 @@
   <num>656</num>
   <heading>FUEL STATION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-6-2005 by Ord. No. 05-29; amended in its entirety 7-19-2012 by Ord. No. 12-19. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 12-19" type="History">Amended in its entirety 7-19-2012 by Ord. No. 12-19</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 05-29" type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-6-2005 by Ord. No. 05-29</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -24,11 +26,13 @@
     <prefix>§</prefix>
     <num>656-3</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of this charter, the following terms shall have the following meanings: CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
+    <text>For the purpose of this charter, the following terms shall have the following meanings:</text>
+    <text>CONSTITUTION — The Constitution and Bylaws of the Tribe.</text>
     <text>MFS — The Menominee Fuel Station, a tribal business enterprise chartered by the Tribal Legislature to direct the fuel station of the Tribe.</text>
     <text>TRIBAL LEGISLATURE — The tribal governing body elected pursuant to Section 3, Article IV of the Constitution.</text>
     <text>TRIBAL MEMBER — Any person included on the official roll of the Tribe.</text>
-    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior. TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
+    <text>TRIBAL REAL PROPERTY — Land held in trust for the Tribe by the Secretary of the Interior.</text>
+    <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>
     <annotations/>
   </section>
   <section>

@@ -4,7 +4,8 @@
   <num>480</num>
   <heading>RENTAL HOUSING AND EVICTION CODE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-20-2018 by Ord. No. 18-35. Amendments noted where applicable</annotation>
+    <annotation type="History">Amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 18-35" type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-20-2018 by Ord. No. 18-35</annotation>
     <annotation type="General References">Judiciary and Law and Order Code — See <cite path="|I|120">Ch. 120</cite>, Part 1</annotation>
     <annotation type="General References">Trespassing — See <cite path="|II|523">Ch. 523</cite>.</annotation>
   </annotations>
@@ -118,8 +119,7 @@
       <num>480-5</num>
       <heading>Definitions.</heading>
       <text>As used in this Code, the following terms shall have the meanings as indicated below:</text>
-      <text>ACTION, SUIT OR LAWSUIT, CLAIM, COMPLAINT OR DEFENSE — Is any dispute between</text>
-      <text>persons or entities which relates to the sale, rental, lease, use or occupancy of any housing, dwelling, or accommodation for human occupancy, including claims for the payment of monies for such housing, dwellings or accommodations, damages to such units, including the right to occupy them.</text>
+      <text>ACTION, SUIT OR LAWSUIT, CLAIM, COMPLAINT OR DEFENSE — Is any dispute between persons or entities which relates to the sale, rental, lease, use or occupancy of any housing, dwelling, or accommodation for human occupancy, including claims for the payment of monies for such housing, dwellings or accommodations, damages to such units, including the right to occupy them.</text>
       <text>ADULT — Is any person 18 years of age or older.</text>
       <text>BUILDING OR HOUSING LAWS — Is any law or governmental regulation of the Tribe or an agency of the United States which deals with fitness for habitation, health conditions, or the safety, construction, maintenance, operation, occupancy, use, or appearance of any dwelling unit. Where appropriate to the situation, standard or recognized building standards or codes may be applied as building or housing codes.</text>
       <text>DRUG-RELATED CRIMINAL ACTIVITY — Is the illegal manufacture, sale, distribution, use or possession with intent to manufacture, sell, distribute, or use, of a controlled substance as defined in Menominee Tribal Law Controlled Substances Act § 306, Section 102 of the Controlled Substance Act (21 U.S.C. § 802), as amended, or other applicable federal requirements.</text>
@@ -137,7 +137,8 @@
       <text>PREMISES — Is a dwelling unit and the structure of which it is a part, and all facilities and areas connected with it, including grounds, common areas, and facilities intended for the use of tenants or the use of which is promised for tenants.</text>
       <text>RENT — Is all periodic payments to be made to a landlord or lessor under a rental agreement.</text>
       <text>RENTAL AGREEMENT — Is a written or oral agreement between two parties, as well as valid rules and regulations regarding the tenants and conditions of the use and occupancy of real property, dwelling unit, building, or premises.</text>
-      <text>RENTAL PREMISES — Is the property and improvements subject to a rental agreement. RESERVATION — Is the Menominee Indian Tribe of Wisconsin Reservation.</text>
+      <text>RENTAL PREMISES — Is the property and improvements subject to a rental agreement.</text>
+      <text>RESERVATION — Is the Menominee Indian Tribe of Wisconsin Reservation.</text>
       <text>SHALL — Is defined as mandatory or must.</text>
       <text>TENANT — Is the lessee(s), sublessee(s), or person(s) entitled under a rental agreement to occupy a dwelling unit to the exclusion of others.</text>
       <text>TRIBAL COURT — Is the Court as established by the laws of this Tribe or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a Court of law.</text>
@@ -633,7 +634,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>The landlord may follow the provisions of <cite path="§480-15">§ 480-15</cite>, Abandoned dwelling units, <cite>Subsections B through D</cite>, for the notice of and disposal of personal possessions of the deceased tenant, except that notice shall be given to the designee or representative of the deceased tenant's estate, or next of kin if no designee or representative comes forward.</text>
+        <text>The landlord may follow the provisions of <cite path="§480-15">§ 480-15</cite>, Abandoned dwelling units, Subsections B through D, for the notice of and disposal of personal possessions of the deceased tenant, except that notice shall be given to the designee or representative of the deceased tenant's estate, or next of kin if no designee or representative comes forward.</text>
       </para>
       <annotations/>
     </section>

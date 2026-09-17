@@ -10,7 +10,10 @@
   <container cache:ref-path="II|526|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Use of Deceased Tribal Leader's Name, Voice, Signature, Photograph or Likeness [Adopted 3-17-2011 by Ord. No. 11-06]</heading>
+    <heading>Use of Deceased Tribal Leader's Name, Voice, Signature, Photograph or Likeness</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 11-06" type="History">Adopted 3-17-2011 by Ord. No. 11-06</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>526-1</num>

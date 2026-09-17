@@ -13,7 +13,10 @@
   <container cache:ref-path="II|562|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Groundwater Quality [Adopted 2-4-1988 by Ord. No. 87-28]</heading>
+    <heading>Groundwater Quality</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 87-28" type="History">Adopted 2-4-1988 by Ord. No. 87-28</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>562-1</num>
@@ -39,8 +42,7 @@
       <prefix>§</prefix>
       <num>562-4</num>
       <heading>Interaction with other governments.</heading>
-      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of groundwater quality rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has full responsibility for all matters of tribal policy under <cite path="|II|562|I">this article</cite>. The Wisconsin Department of Natural Resources, as a neighboring government agency whose interests are served by the</text>
-      <text>development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination with each other, as they all share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
+      <text>In accordance with a Memorandum of Understanding between the Menominee Indian Tribe, the State of Wisconsin Department of Natural Resources and the United States Environmental Protection Agency regarding the implementation of groundwater quality rules and regulations on the Menominee Reservation, the Menominee Tribe, as a sovereign nation and governing body for jurisdictional affairs on the Reservation, has full responsibility for all matters of tribal policy under <cite path="|II|562|I">this article</cite>. The Wisconsin Department of Natural Resources, as a neighboring government agency whose interests are served by the development of a strong tribal regulatory presence on the Reservation, will provide advice and technical assistance to the Tribe. All parties to the Memorandum will endeavor to establish and maintain close communication and coordination with each other, as they all share a common sense of purpose to protect precious natural resources from the threat of pollution.</text>
       <annotations/>
     </section>
     <section>
@@ -74,7 +76,7 @@
       <heading>Groundwater quality standards.</heading>
       <para>
         <num>A.</num>
-        <text>Public-health-related groundwater standards. The groundwater quality standards for substances of public health concern are listed in Table 1. Note: For all substances that have carcinogenic, mutagenic or teratogenic properties or interactive effects, the preventive action limit is 10% of the enforcement standard. The preventive action limit is 20% of the enforcement standard for all other substances that are of public health concern. Enforcement standards and preventive action limits for additional substances will be added to Table 1 as recommendations are developed pursuant to §§ 160.07, 160.13 and <cite doc="Wis. Stat." path="§160.15">160.15, Wis. Stats.</cite> <strong>[Amended 4-4-2013 by Ord. No. 13-07]</strong></text>
+        <text>Public-health-related groundwater standards. The groundwater quality standards for substances of public health concern are listed in Table 1. Note: For all substances that have carcinogenic, mutagenic or teratogenic properties or interactive effects, the preventive action limit is 10% of the enforcement standard. The preventive action limit is 20% of the enforcement standard for all other substances that are of public health concern. Enforcement standards and preventive action limits for additional substances will be added to Table 1 as recommendations are developed pursuant to §§ 160.07, 160.13 and <cite doc="Wis. Stat." path="§160.15">160.15, Wis. Stats.</cite><fn path="|II|§562-6|footnotes|1">1</fn></text>
         <text class="center">Table 1</text>
         <text class="center">
           <strong>Public Health Groundwater Quality Standards</strong>
@@ -849,16 +851,40 @@
                 <td>0.4 mg/l</td>
               </tr>
             </tbody>
+            <tfoot>
+              <tr>
+                <td>1</td>
+                <td>Appendix 1 contains Chemical Abstract Service (CAS) registry numbers and trade names for most substances listed in Table 1.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Total chlorinated atrazine residues includes parent compound and the following metabolites of health concern: 2-chloro-4-amino-6-isopropylamino-s-triazine (formerly deethylatrazine), 2-chloro-4-amino-6-ethylamino-5-s-triazine (formerly deisopropylatrazine) and 2-chloro-4, 6-diamino-s-triazine (formerly diaminoatrazine).</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Total coliform bacteria may not be present in any 100 ml sample using either the membrane filter (MF) technique, the presence-absence (P-A) coliform test, the minimal medium ONPG-MUG (MMO-MUG) test or not present in any 10 ml portion of the 10 tube multiple tube fermentation (MTF) technique.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>"Cyanide, free" refers to the simple cyanides (HCN, CN-) and/or readily dissociable metal-cyanide complexes. Free cyanide is regulatorily equivalent to cyanide quantified by approved analytical methods for "amenable cyanide" or "available cyanide."</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Dinitrotoluene, total residues includes the dinitrotoluene (DNT) isomers: 2,3-DNT, 2,4-DNT, 2,6-DNT, 3,4-DNT, and 3,5-DNT.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Xylene includes mets-, ortho-, and para-xylene combined.</td>
+                <td/>
+              </tr>
+            </tfoot>
           </table>
         </text>
-        <text>NOTES:</text>
-        <text>1	Appendix 1 contains Chemical Abstract Service (CAS) registry numbers and trade names for most substances listed in Table 1.</text>
-        <text>2	Total chlorinated atrazine residues includes parent compound and the following metabolites of health concern: 2-chloro-4-amino-6-isopropylamino-s-triazine (formerly deethylatrazine), 2-chloro-4-amino-6-ethylamino-5-s-triazine (formerly deisopropylatrazine) and 2-chloro-4, 6-diamino-s-triazine (formerly diaminoatrazine).</text>
-        <text>3	Total coliform bacteria may not be present in any 100 ml sample using either the membrane filter (MF) technique, the presence-absence (P-A) coliform test, the minimal medium ONPG-MUG (MMO-MUG) test or not present in any</text>
-        <text>10 ml portion of the 10 tube multiple tube fermentation (MTF) technique.</text>
-        <text>4	"Cyanide, free" refers to the simple cyanides (HCN, CN-) and/or readily dissociable metal-cyanide complexes. Free cyanide is regulatorily equivalent to cyanide quantified by approved analytical methods for "amenable cyanide" or "available cyanide."</text>
-        <text>5	Dinitrotoluene,  total  residues  includes  the dinitrotoluene (DNT) isomers: 2,3-DNT, 2,4-DNT, 2,6-DNT, 3,4-DNT, and 3,5-DNT.</text>
-        <text>6	Xylene includes mets-, ortho-, and para-xylene combined.</text>
       </para>
       <para>
         <num>B.</num>
@@ -927,28 +953,14 @@
                 <td>500</td>
                 <td>250</td>
               </tr>
+              <tr>
+                <td>Zinc</td>
+                <td>5</td>
+                <td>2.5</td>
+              </tr>
             </tbody>
           </table>
         </text>
-        <text class="center">
-          <strong>Table 2</strong>
-        </text>
-        <text class="center">
-          <strong>Public Welfare Groundwater Quality Standards</strong>
-        </text>
-        <text>
-          <strong>Substance</strong>
-        </text>
-        <text class="center">
-          <strong>Enforcement Standard (milligrams per liter except as noted)</strong>
-        </text>
-        <text class="center">
-          <strong>Preventive Action Limit</strong>
-        </text>
-        <text class="center">
-          <strong>(milligrams per liter except as noted)</strong>
-        </text>
-        <text>Zinc	5	2.5</text>
       </para>
       <para>
         <num>C.</num>
@@ -1030,7 +1042,15 @@
           <text>If the owner or operator of a facility, practice or activity believes that a sample result does not represent groundwater quality in the vicinity of the facility, practice or activity, the owner or operator shall resample the appropriate well or wells to obtain a representative sample at the earliest possible time. All sample results shall be submitted to the Tribe with an explanation of why the owner or operator believes that all or some of the results are invalid.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended 4-4-2013 by Ord. No. 13-07</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-07" type="History">Amended 4-4-2013 by Ord. No. 13-07</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1063,93 +1083,84 @@
             <text class="center">
               <strong>Methodology for Establishing Preventive Action Limit for Indicator Parameters</strong>
             </text>
+            <text>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Parameter</th>
+                    <th>Minimum Increase (mg/l)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Alkalinity</td>
+                    <td>100</td>
+                  </tr>
+                  <tr>
+                    <td>Biochemical oxygen demand (BOD)</td>
+                    <td>25</td>
+                  </tr>
+                  <tr>
+                    <td>Boron</td>
+                    <td>2</td>
+                  </tr>
+                  <tr>
+                    <td>Calcium</td>
+                    <td>25</td>
+                  </tr>
+                  <tr>
+                    <td>Chemical oxygen demand (COD)</td>
+                    <td>25</td>
+                  </tr>
+                  <tr>
+                    <td>Magnesium</td>
+                    <td>25</td>
+                  </tr>
+                  <tr>
+                    <td>Nitrogen series</td>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-5">Ammonia nitrogen</td>
+                    <td>2</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-5">Organic nitrogen</td>
+                    <td>2</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-5">Total nitrogen</td>
+                    <td>5</td>
+                  </tr>
+                  <tr>
+                    <td>Potassium</td>
+                    <td>5</td>
+                  </tr>
+                  <tr>
+                    <td>Sodium</td>
+                    <td>10</td>
+                  </tr>
+                  <tr>
+                    <td>Field specific conductance</td>
+                    <td>200 micromhos/cm</td>
+                  </tr>
+                  <tr>
+                    <td>Total hardness</td>
+                    <td>100</td>
+                  </tr>
+                  <tr>
+                    <td>Total organic carbon (TOC)</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>Total organic halogen (TOX)</td>
+                    <td>0.25</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
           </para>
         </para>
-        <aftertext>
-          <strong>Minimum Increase</strong>
-        </aftertext>
-        <aftertext>
-          <table>
-            <thead>
-              <tr>
-                <th>Parameter</th>
-                <th>(mg/l)</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Alkalinity</td>
-                <td>100</td>
-              </tr>
-              <tr>
-                <td>Biochemical oxygen demand (BOD)</td>
-                <td>25</td>
-              </tr>
-              <tr>
-                <td>Boron</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Calcium</td>
-                <td>25</td>
-              </tr>
-              <tr>
-                <td>Chemical oxygen demand (COD)</td>
-                <td>25</td>
-              </tr>
-              <tr>
-                <td>Magnesium</td>
-                <td>25</td>
-              </tr>
-              <tr>
-                <td>Nitrogen series</td>
-                <td/>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Ammonia nitrogen</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Organic nitrogen</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Total nitrogen</td>
-                <td>5</td>
-              </tr>
-              <tr>
-                <td>Potassium</td>
-                <td>5</td>
-              </tr>
-              <tr>
-                <td>Sodium</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Field specific conductance</td>
-                <td>200 micromhos/cm</td>
-              </tr>
-              <tr>
-                <td>Total hardness</td>
-                <td>100</td>
-              </tr>
-            </tbody>
-          </table>
-        </aftertext>
-        <aftertext class="center">
-          <strong>Table 3</strong>
-        </aftertext>
-        <aftertext class="center">
-          <strong>Methodology for Establishing Preventive Action Limit for Indicator Parameters</strong>
-        </aftertext>
-        <aftertext>
-          <strong>Parameter</strong>
-        </aftertext>
-        <aftertext>
-          <strong>Minimum Increase (mg/l)</strong>
-        </aftertext>
-        <aftertext>Total organic carbon (TOC)	1</aftertext>
-        <aftertext>Total organic halogen (TOX)	0.25</aftertext>
       </para>
       <para>
         <num>B.</num>
@@ -1373,8 +1384,7 @@
           </text>
           <para>
             <num>1.</num>
-            <text>No action pursuant to</text>
-            <text><cite path="§562-7">§ 562-7</cite>C(5).</text>
+            <text>No action pursuant to <cite path="§562-7">§ 562-7</cite>C(5).</text>
           </para>
           <para>
             <num>2.</num>
@@ -1382,8 +1392,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>Require a change in the monitoring	program,</text>
-            <text>including	increased monitoring.</text>
+            <text>Require a change in the monitoring program, including increased monitoring.</text>
           </para>
           <para>
             <num>4.</num>
@@ -1551,8 +1560,7 @@
           <text>Exemptions required.</text>
           <para>
             <num>(a)</num>
-            <text>The Tribe may not approve a proposed facility, practice or activity at a location where a</text>
-            <text>preventive action limit or enforcement standard has been attained or exceeded unless an exemption has been granted under this section.</text>
+            <text>The Tribe may not approve a proposed facility, practice or activity at a location where a preventive action limit or enforcement standard has been attained or exceeded unless an exemption has been granted under this section.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1620,11 +1628,11 @@
                 <num>[b]</num>
                 <text>The facility is designed to achieve the lowest possible concentration of that substance which is technically and economically feasible and:</text>
                 <para>
-                  <num>[i]</num>
+                  <num proof="done">[i]</num>
                   <text>The existing or anticipated increase in the concentration of the substance has not caused or will not cause an increased threat to public health or welfare; and</text>
                 </para>
                 <para>
-                  <num>[ii]</num>
+                  <num proof="done">[ii]</num>
                   <text>The existing or anticipated incremental increase in the concentration of the substance, by itself, has not exceeded or will not exceed the preventive action limit.</text>
                 </para>
               </para>
@@ -1704,7 +1712,10 @@
   <container cache:ref-path="II|562|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Water Rates, Rules and Regulations [Adopted 4-21-2005 by Ord. No. 05-01]</heading>
+    <heading>Water Rates, Rules and Regulations</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 05-01" type="History">Adopted 4-21-2005 by Ord. No. 05-01</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>562-9</num>
@@ -1715,11 +1726,11 @@
     <section cache:ref-path="II|§562-10">
       <prefix>§</prefix>
       <num>562-10</num>
-      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn path="|II|§562-10|footnotes|1">1</fn></heading>
+      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn path="|II|§562-10|footnotes|2">2</fn></heading>
       <text>The Department of Tribal Utilities of the Menominee Indian Tribe shall have the power to construct waterlines for public use and shall have the power to lay water pipes in and through the alleys, streets, and public grounds of the Menominee Indian Tribe and, generally, to do all such work as may be found necessary or convenient in the management of the water system. The Menominee Department of Tribal Utilities shall have the power by itself, its agents, servants and employees to enter upon any land for the purpose of making examination or supervise in the performance of their duties under <cite path="|II|562|II">this article</cite> without liability therefor, and the Menominee Tribal Legislature shall have the power to purchase and acquire for the Department of Tribal Utilities all real and personal property which may be necessary for construction of the water system or for any repair, remodeling, or additions thereto.</text>
       <footnotes>
         <footnote>
-          <num>1</num>
+          <num>2</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -1735,7 +1746,7 @@
     <section cache:ref-path="II|§562-12">
       <prefix>§</prefix>
       <num>562-12</num>
-      <heading>User rules and regulations.<fn path="|II|§562-12|footnotes|2">2</fn></heading>
+      <heading>User rules and regulations.<fn path="|II|§562-12|footnotes|3">3</fn></heading>
       <text>The rules, regulations, and water rates of the Menominee Department of Tribal Utilities of the Menominee Indian Tribe hereinafter set forth shall be considered a part of the contract with every person, company or corporation who or which is connected with the water system of the Menominee Tribe, and every such person, company, or corporation by connecting with the water system shall be considered as expressing his or its assent to be bound thereby. Whenever any of said rules and regulations, or such others as said Department of Tribal Utilities of the Menominee Tribe may hereafter adopt, are violated, the service shall be shut off from the building or place of such violation (even though two or more parties are receiving service through the same connection) and shall not be reestablished except by order of the Director of Tribal Utilities and on payment of all arrears and the expenses and established charges of shutting off and putting on and such other terms as the Director of Tribal Utilities shall determine, and a satisfactory understanding with the party that no further cause for complaint shall arise. In case of such violation, said Director of Tribal Utilities, furthermore, may declare any payment made for the service by the party or parties committing such violation to be forfeited, and the same shall thereupon be forfeited. The right is reserved to the Menominee Department of Tribal Utilities with approval from the Menominee Tribal Legislature by motion to change said rules, regulations, and water rates from time to time as it may deem advisable and to make special rates and contracts in all proper cases.</text>
       <para>
         <num>A.</num>
@@ -1775,7 +1786,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>2</num>
+          <num>3</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -1798,11 +1809,11 @@
     <section cache:ref-path="II|§562-15">
       <prefix>§</prefix>
       <num>562-15</num>
-      <heading>Installation of house laterals.<fn path="|II|§562-15|footnotes|3">3</fn></heading>
+      <heading>Installation of house laterals.<fn path="|II|§562-15|footnotes|4">4</fn></heading>
       <text>All service pipes (laterals) on private property will be installed in accordance with State of Wisconsin Administrative Code Chapter Comm 82, Design, Construction, Installation, Supervision and Inspection of Plumbing. All buildings under construction will be inspected by a designated representative of the Department of Tribal Utilities. The building shall be inspected upon completion of placement of the pipe and before backfilling and tested before or after backfilling. Any service pipe that is backfilled prior to inspection shall be reexcavated to allow said inspection at the owner's expense.</text>
       <footnotes>
         <footnote>
-          <num>3</num>
+          <num>4</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -1814,7 +1825,7 @@
       <heading>Water user charge system.</heading>
       <para>
         <num>A.</num>
-        <text>It shall be the policy of the Menominee Department of Tribal Utilities to obtain sufficient revenues to pay the cost of the annual debt retirement payment on any bonded indebtedness, any required cash reserve account payment, and operation and maintenance of the water works, including a replacement fund, through a system of user charges defined in this section. The system shall assure that each user of the water works pays a proportionate share of the cost of such works.<fn path="|II|§562-16|footnotes|4">4</fn></text>
+        <text>It shall be the policy of the Menominee Department of Tribal Utilities to obtain sufficient revenues to pay the cost of the annual debt retirement payment on any bonded indebtedness, any required cash reserve account payment, and operation and maintenance of the water works, including a replacement fund, through a system of user charges defined in this section. The system shall assure that each user of the water works pays a proportionate share of the cost of such works.<fn path="|II|§562-16|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -1834,7 +1845,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>4</num>
+          <num>5</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -1853,7 +1864,7 @@
       <heading>Maintenance of services.</heading>
       <text>The Department of Tribal Utilities shall maintain the water service from the street main to the property line and including all controls between the same, without expense to the property owner, except when it is damaged as a result of negligence or carelessness on the part of the property owner, a tenant, or an agent of the owner, in which case it will be repaired at the expense of the property owner. All water service from the point of maintenance by the system to and throughout the premises must be maintained free of defective conditions by and at the expense of the owner or occupant of the property. When any water service is to be relaid and there are two or more buildings on such service, each building shall be disconnected from such service and a new water service shall be installed for each building.</text>
       <annotations>
-        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
       </annotations>
     </section>
     <section>
@@ -1869,7 +1880,7 @@
       <heading>Damage recovery.</heading>
       <text>In addition to any other penalty provided by <cite path="|II|562|II">this article</cite> or other law, the Department of Tribal Utilities shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties imposed on the Tribe due to a violation of <cite path="|II|562|II">this article</cite> or other law, correction of conditions impairing the proper operation to the water system and the repair or replacement of any water pipe or other property of the water system damaged in any manner by any negligent or intended act or omission by such person or by others under his control.</text>
       <annotations>
-        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
       </annotations>
     </section>
     <section>
@@ -1897,7 +1908,10 @@
   <container cache:ref-path="II|562|III">
     <prefix>Article</prefix>
     <num>III</num>
-    <heading>Cross-Connection Control Program [Adopted 3-17-2011 by Ord. No. 11-05]</heading>
+    <heading>Cross-Connection Control Program</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 11-05" type="History">Adopted 3-17-2011 by Ord. No. 11-05</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>562-24</num>
@@ -1953,13 +1967,13 @@
       <para>
         <num>G.</num>
         <text>Sprinkler systems.</text>
-        <text>HOSE BIB VACUUM BREAKER — A device that is permanently attached to a hose bib and which acts as an atmospheric vacuum breaker.</text>
-        <text>LOW HAZARD SITUATION — A current or potential risk of a cross-connection or backflow situation that would not cause serious sickness or death to users of the water from the system. This risk is usually associated with the aesthetic quality of the water.</text>
-        <text>METER or WATER METER — A device used to measure the amount of water used by a customer of the community water system.</text>
-        <text>OWNER — Any person who has legal title to, or license to operate, a business upon which a cross-connection inspection is to be made or upon which a cross-connection is present.</text>
-        <text>PRESSURE VACUUM BREAKER — A device containing one or two independently operated spring-loaded check valves and an independently operated spring-loaded air inlet valve located on the discharge side of the check or checks. The device includes tightly closing shutoff valves on each side of the check valves and properly located test cocks for the testing of the check valve(s).</text>
-        <text>REDUCED PRESSURE PRINCIPLE DEVICE — An assembly consisting of two independently operating check valves with an automatically operating differential relief valve located between the two check valves, tightly closing shutoff valves on each side of the check valves plus properly located test cocks for the testing of the check valves and the relief valve.</text>
       </para>
+      <aftertext>HOSE BIB VACUUM BREAKER — A device that is permanently attached to a hose bib and which acts as an atmospheric vacuum breaker.</aftertext>
+      <aftertext>LOW HAZARD SITUATION — A current or potential risk of a cross-connection or backflow situation that would not cause serious sickness or death to users of the water from the system. This risk is usually associated with the aesthetic quality of the water.</aftertext>
+      <aftertext>METER or WATER METER — A device used to measure the amount of water used by a customer of the community water system.</aftertext>
+      <aftertext>OWNER — Any person who has legal title to, or license to operate, a business upon which a cross-connection inspection is to be made or upon which a cross-connection is present.</aftertext>
+      <aftertext>PRESSURE VACUUM BREAKER — A device containing one or two independently operated spring-loaded check valves and an independently operated spring-loaded air inlet valve located on the discharge side of the check or checks. The device includes tightly closing shutoff valves on each side of the check valves and properly located test cocks for the testing of the check valve(s).</aftertext>
+      <aftertext>REDUCED PRESSURE PRINCIPLE DEVICE — An assembly consisting of two independently operating check valves with an automatically operating differential relief valve located between the two check valves, tightly closing shutoff valves on each side of the check valves plus properly located test cocks for the testing of the check valves and the relief valve.</aftertext>
       <annotations/>
     </section>
     <section>
@@ -2009,11 +2023,11 @@
         <text>All commercial, industrial, and public facilities and structures that are connected to the community water system are required to install a backflow prevention device. All backflow prevention devices shall be installed in accordance with the requirements of the Department of Tribal Utilities in such locations as determined by the Department.</text>
         <para>
           <num>(1)</num>
-          <text>All devices, assemblies and mechanisms intended to protect potable water supplies relative to cross-connection or backflow shall be of a type that complies with the referenced standard in Table 84.11 of § Comm 84.11, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|5">5</fn></text>
+          <text>All devices, assemblies and mechanisms intended to protect potable water supplies relative to cross-connection or backflow shall be of a type that complies with the referenced standard in Table 84.11 of § Comm 84.11, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|6">6</fn></text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Hose bibbs are considered high hazard cross-connections and must be protected by a device, assembly or mechanism of a type that complies with Table 82.41-1 of § Comm 82.41, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|6">6</fn></text>
+          <text>Hose bibbs are considered high hazard cross-connections and must be protected by a device, assembly or mechanism of a type that complies with Table 82.41-1 of § Comm 82.41, Wis. Adm. Code.<fn path="|II|§562-27|footnotes|7">7</fn></text>
         </para>
         <para>
           <num>(3)</num>
@@ -2070,11 +2084,11 @@
       </para>
       <footnotes>
         <footnote>
-          <num>5</num>
+          <num>6</num>
           <text>Editor's Note: See now Table 384.11 of § SPS 384.11, Wis. Adm. Code.</text>
         </footnote>
         <footnote>
-          <num>6</num>
+          <num>7</num>
           <text>Editor's Note: See now Table 382.41-1 of § SPS 382.41, Wis. Adm. Code.</text>
         </footnote>
       </footnotes>

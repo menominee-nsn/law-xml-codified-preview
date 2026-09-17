@@ -13,7 +13,7 @@
     <num>I</num>
     <heading>Dogs</heading>
     <annotations>
-      <annotation type="History">Adopted 10-1-2009 by Ord. No. 09-12<fn path="|II|255|I|footnotes|1">1</fn></annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 09-12" type="History">Adopted 10-1-2009 by Ord. No. 09-12<fn path="|II|255|I|footnotes|1">1</fn></annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -42,15 +42,15 @@
       <para>
         <num>B.</num>
         <text>When unprovoked and while off its owner's property, approaches a domestic animal in a menacing fashion, and it is clear that the dog is not merely being protective in a particular set of circumstances.</text>
-        <text>DISPOSAL and DISPOSE — The surrender to an animal rescue organization or local humane society. As a last resort or by order of the court, the killing of a dog in a quick and humane manner, including euthanasia and shooting with a firearm.</text>
-        <text>DOG — Any canine, regardless of type, age, size, or gender.</text>
-        <text>DOG POUND or IMPOUNDMENT FACILITY — The facility provided by the Menominee Tribe and maintained by the Tribal Police Department for purposes of impounding dogs. May include any facility or secure place utilized by an animal rescue organization or local humane society working with the Tribal Police Department when the facility provided by the Tribe is full.</text>
-        <text>DOMESTIC ANIMAL — Livestock, domesticated dogs, and domesticated cats.</text>
-        <text>HUNTING DOG — Any dog controlled under the definition of "controlled" above except that the owner has trained the dog and releases the dog for the specific purpose of hunting.</text>
-        <text>KENNEL — An establishment where dogs are bred, trained, or boarded.</text>
-        <text>LAW ENFORCEMENT OFFICER or OFFICER — Any member of the Menominee Tribal Police Department, Conservation Warden, or other bonafide peace officers acting in their official capacities. Conservation Wardens shall offer secondary assistance to other law enforcement officers in the enforcement of <cite path="|II|255|I">this article</cite>.</text>
-        <text>MENACING FASHION — Demonstrating an intent to cause injury by one or more of the following actions:</text>
       </para>
+      <aftertext>DISPOSAL and DISPOSE — The surrender to an animal rescue organization or local humane society. As a last resort or by order of the court, the killing of a dog in a quick and humane manner, including euthanasia and shooting with a firearm.</aftertext>
+      <aftertext>DOG — Any canine, regardless of type, age, size, or gender.</aftertext>
+      <aftertext>DOG POUND or IMPOUNDMENT FACILITY — The facility provided by the Menominee Tribe and maintained by the Tribal Police Department for purposes of impounding dogs. May include any facility or secure place utilized by an animal rescue organization or local humane society working with the Tribal Police Department when the facility provided by the Tribe is full.</aftertext>
+      <aftertext>DOMESTIC ANIMAL — Livestock, domesticated dogs, and domesticated cats.</aftertext>
+      <aftertext>HUNTING DOG — Any dog controlled under the definition of "controlled" above except that the owner has trained the dog and releases the dog for the specific purpose of hunting.</aftertext>
+      <aftertext>KENNEL — An establishment where dogs are bred, trained, or boarded.</aftertext>
+      <aftertext>LAW ENFORCEMENT OFFICER or OFFICER — Any member of the Menominee Tribal Police Department, Conservation Warden, or other bonafide peace officers acting in their official capacities. Conservation Wardens shall offer secondary assistance to other law enforcement officers in the enforcement of <cite path="|II|255|I">this article</cite>.</aftertext>
+      <aftertext>MENACING FASHION — Demonstrating an intent to cause injury by one or more of the following actions:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>An attempt to bite a person or another animal in such a fashion to show plainly to a reasonable person an unfriendly intent and put them in fear of attack.</text>
@@ -58,9 +58,9 @@
       <para>
         <num>B.</num>
         <text>Growling or barking in an unfriendly manner while approaching, chasing, or making physical contact with a person or a domestic animal.</text>
-        <text>OWNER — Any person, firm, corporation, organization, or department possessing, harboring or having the care or custody, whether temporarily or permanently, of a dog.</text>
-        <text>PUBLIC NUISANCE — Any dog or dogs which:</text>
       </para>
+      <aftertext>OWNER — Any person, firm, corporation, organization, or department possessing, harboring or having the care or custody, whether temporarily or permanently, of a dog.</aftertext>
+      <aftertext>PUBLIC NUISANCE — Any dog or dogs which:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Molests passersby or passing vehicles;</text>
@@ -84,10 +84,11 @@
       <para>
         <num>F.</num>
         <text>Barks, whines, or howls in an excessive, continuous, or untimely fashion.</text>
-        <text>RUNNING AT LARGE — Not controlled under the definition of "controlled" above.</text>
       </para>
+      <aftertext>RUNNING AT LARGE — Not controlled under the definition of "controlled" above.</aftertext>
       <annotations>
-        <annotation type="History">Amended 11-16-2017 by Ord. No. 17-25; 5-2-2024 by Ord. No. 24-16</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-16" type="History">Amended 5-2-2024 by Ord. No. 24-16</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 17-25" type="History">Amended 11-16-2017 by Ord. No. 17-25</annotation>
       </annotations>
     </section>
     <section>
@@ -288,7 +289,7 @@
         <text>Licenses shall be effective for one year, from the first day of January to the 31st day of December, and renewable by the Licensing and Permit Department 10 days prior to expiration date, with no prorated fees.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 11-21-2013 by Ord. No. 13-41</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 13-41" type="History">Amended 11-21-2013 by Ord. No. 13-41</annotation>
       </annotations>
     </section>
     <section>
@@ -301,7 +302,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Impounded dogs will be held for a minimum of four days before being determined unclaimed, abandoned, or stray and appropriate for disposal or adoption. If at any time the tribal impoundment facility has no room to safely and securely impound a dog, the Tribal Police Department is authorized to dispose of a dog in accordance with <cite path="§255-2">§ 255-2</cite>. Safe impoundment includes the safety of caretakers as well as the safety of dogs. Safety of the dog includes, but is not limited to, concerns of inclement weather and other conditions that would adversely affect the health condition of the dog. Transfers due to safety do not remove the minimum hold requirement but are cumulative between the tribal and nontribal placement. Owners reclaiming their dogs will be subject to the daily fees set by the animal rescue organization or local humane society, in addition to the fees set by <cite path="|II|255|I">this article</cite>. <strong>[Amended 11-16-2017 by Ord. No. 17-25]</strong></text>
+        <text>Impounded dogs will be held for a minimum of four days before being determined unclaimed, abandoned, or stray and appropriate for disposal or adoption. If at any time the tribal impoundment facility has no room to safely and securely impound a dog, the Tribal Police Department is authorized to dispose of a dog in accordance with <cite path="§255-2">§ 255-2</cite>. Safe impoundment includes the safety of caretakers as well as the safety of dogs. Safety of the dog includes, but is not limited to, concerns of inclement weather and other conditions that would adversely affect the health condition of the dog. Transfers due to safety do not remove the minimum hold requirement but are cumulative between the tribal and nontribal placement. Owners reclaiming their dogs will be subject to the daily fees set by the animal rescue organization or local humane society, in addition to the fees set by <cite path="|II|255|I">this article</cite>.<fn path="|II|§255-11|footnotes|2">2</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -333,9 +334,21 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Known owners of impounded dogs who do not claim or refuse to claim their dogs after the required minimum days provided in this section will be assessed the appropriate dog pound fees in accordance with the fee schedule in the event that the dog in question is not adopted by another person. <strong>[Amended 11-16-2017 by Ord. No. 17-25]</strong></text>
+        <text>Known owners of impounded dogs who do not claim or refuse to claim their dogs after the required minimum days provided in this section will be assessed the appropriate dog pound fees in accordance with the fee schedule in the event that the dog in question is not adopted by another person.<fn path="|II|§255-11|footnotes|3">3</fn></text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>2</num>
+          <text>Editor's Note: Amended 11-16-2017 by Ord. No. 17-25</text>
+        </footnote>
+        <footnote>
+          <num>3</num>
+          <text>Editor's Note: Amended 11-16-2017 by Ord. No. 17-25</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 17-25" type="History">Amended 11-16-2017 by Ord. No. 17-25</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -411,7 +424,7 @@
         <text>If the owner objects to the declaration of dangerousness, they may file a letter with the Clerk of Court within 48 hours to have the dog held until the court hearing. Upon filing an objection, the owner shall pay a deposit of $150 for storage of the dog, to be charged at a rate of $5/day until the court hearing.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 5-2-2024 by Ord. No. 24-16</annotation>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-16" type="History">Amended 5-2-2024 by Ord. No. 24-16</annotation>
       </annotations>
     </section>
     <section>
@@ -436,15 +449,17 @@
     <section cache:ref-path="II|§255-13.3">
       <prefix>§</prefix>
       <num>255-13.3</num>
-      <heading>Criminal offenses and penalties. [Added 5-2-2024 by Ord. No. 24-16<fn proof="needed" path="|II|§255-13.3|footnotes|2">2</fn>]</heading>
+      <heading>Criminal offenses and penalties.</heading>
       <text>See <cite path="|II|290">Chapter 290</cite>, Article XIX, Uncontrolled Dangerous Dog, <cite path="§290-80">§ 290-80</cite>, Failure to control dangerous dog, and <cite path="§290-81">§ 290-81</cite>, Homicide resulting from failure to control dangerous dog.</text>
       <footnotes>
         <footnote>
-          <num>2</num>
+          <num>4</num>
           <text>Editor's Note: This ordinance also renumbered former <cite path="§255-13">§ 255-13</cite>.3 as <cite path="§255-13">§ 255-13</cite>.4.</text>
         </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-16" type="History">Added 5-2-2024 by Ord. No. 24-16<fn path="|II|§255-13.3|footnotes|4">4</fn></annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -456,22 +471,27 @@
     <section>
       <prefix>§</prefix>
       <num>255-13.5</num>
-      <heading>Housing Authority staff. [Added 5-2-2024 by Ord. No. 24-16]</heading>
+      <heading>Housing Authority staff.</heading>
       <text>Housing Authority staff who have completed training on <cite path="|II|255|I">this article</cite> are authorized to issue citations for dangerous dogs as defined in <cite path="§255-13">§ 255-13</cite>.1 of <cite path="|II|255|I">this article</cite>.</text>
-      <annotations/>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 24-16" type="History">Added 5-2-2024 by Ord. No. 24-16</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="II|255|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Taking of Wild Game or Fish [Adopted 11-17-1983 by Ord. No. 83-20]</heading>
+    <heading>Taking of Wild Game or Fish</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 83-20" type="History">Adopted 11-17-1983 by Ord. No. 83-20</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>255-14</num>
       <heading>Prohibited acts.</heading>
       <para>
         <num>A.</num>
-        <text>The taking of wild game/fish of any species and the sale or offer to sell of any species of wild game/ fish, regardless of how obtained, within the exterior boundaries of the Menominee Reservation is expressly prohibited. Any tribal member who engages in such prohibited activity shall be charged with violation of <cite path="|II|255|II">this article</cite> and shall be subjected to penalty as provided below. <strong>[Amended 1-5-2012 by Ord. No. 11-32]</strong></text>
+        <text>The taking of wild game/fish of any species and the sale or offer to sell of any species of wild game/ fish, regardless of how obtained, within the exterior boundaries of the Menominee Reservation is expressly prohibited. Any tribal member who engages in such prohibited activity shall be charged with violation of <cite path="|II|255|II">this article</cite> and shall be subjected to penalty as provided below.<fn path="|II|§255-14|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -489,7 +509,15 @@
           <text>Third and succeeding convictions: same as <cite path="§255-14|B|(2)">Subsection B(2)</cite>.</text>
         </para>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended 1-5-2012 by Ord. No. 11-32</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 11-32" type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -509,7 +537,7 @@
   <container cache:ref-path="II|255|III">
     <prefix>Article</prefix>
     <num>III</num>
-    <heading>(Reserved)<fn proof="needed" path="|II|255|III|footnotes|3">3</fn></heading>
+    <heading>(Reserved)<fn path="|II|255|III|footnotes|6">6</fn></heading>
     <section>
       <prefix>§§</prefix>
       <num>255-16 through 255-22</num>
@@ -518,7 +546,7 @@
     </section>
     <footnotes>
       <footnote>
-        <num>3</num>
+        <num>6</num>
         <text>Editor's Note: Former Art. III, Dangerous Dogs, adopted 7-25-2002 by Ord. No. 02-27, was repealed 10-1-2009 by Ord. No. 09-12. See now <cite path="§255-13">§ 255-13</cite>.1.</text>
       </footnote>
     </footnotes>
@@ -526,7 +554,10 @@
   <container cache:ref-path="II|255|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Fish Diseases and Exotic Species [Adopted 7-2-2008 by Ord. No. 08-12]</heading>
+    <heading>Fish Diseases and Exotic Species</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 08-12" type="History">Adopted 7-2-2008 by Ord. No. 08-12</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>255-23</num>

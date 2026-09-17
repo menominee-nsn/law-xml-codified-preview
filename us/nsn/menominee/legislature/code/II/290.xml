@@ -14,7 +14,10 @@
   <container>
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>Assault and Battery [Adopted 8-19-1982 by Ord. No. 82-9]</heading>
+    <heading>Assault and Battery</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 82-9" type="History">Adopted 8-19-1982 by Ord. No. 82-9</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-1</num>
@@ -51,7 +54,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Penalties. <strong>[Amended 8-27-1993]</strong></text>
+        <text>Penalties.<fn path="|II|§290-2|footnotes|1">1</fn></text>
         <para>
           <num>(1)</num>
           <text>First offense: fine not less than $100 nor more than $5,000 plus costs or not less than 30 days in jail, or both, and restitution to the victim for any medical expenses, property damage, and loss of wages.</text>
@@ -61,15 +64,26 @@
           <text>Second offense: fine not less than $250 nor more than $5,000 plus costs or not less than 60 days nor more than one year in jail, or both, and restitution to the victim for any medical expenses, property damage, and loss of wages.</text>
         </para>
       </para>
+      <footnotes>
+        <footnote>
+          <num>1</num>
+          <text>Editor's Note: Amended 8-27-1993</text>
+        </footnote>
+      </footnotes>
       <annotations>
-        <annotation type="History">Amended 7-7-1983; 3-12-1987</annotation>
+        <annotation type="History">Amended 3-12-1987</annotation>
+        <annotation type="History">Amended 7-7-1983</annotation>
+        <annotation type="History">Amended 8-27-1993</annotation>
       </annotations>
     </section>
   </container>
   <container>
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Breaking and Entering [Adopted 12-1-1983 by Ord. No. 83-22]</heading>
+    <heading>Breaking and Entering</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 83-22" type="History">Adopted 12-1-1983 by Ord. No. 83-22</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-3</num>
@@ -102,7 +116,8 @@
         <text>Third offense: fine of $400 and 90 days in jail and restitution for any damages to or loss of property.</text>
       </para>
       <annotations>
-        <annotation type="History">Amended 5-23-1984; 1-8-1987</annotation>
+        <annotation type="History">Amended 1-8-1987</annotation>
+        <annotation type="History">Amended 5-23-1984</annotation>
       </annotations>
     </section>
   </container>
@@ -111,7 +126,8 @@
     <num>III</num>
     <heading>Battery: Special Circumstances</heading>
     <annotations>
-      <annotation type="History">Adopted 1-2-1986 by Ord. No. 85-24; amended in its entirety 11-19-1987</annotation>
+      <annotation type="History">Amended in its entirety 11-19-1987</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 85-24" type="History">Adopted 1-2-1986 by Ord. No. 85-24</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -152,7 +168,10 @@
   <container cache:ref-path="II|290|IV">
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Unlawful Use of Telephone [Adopted 4-9-1986 by Ord. No. 86-4]</heading>
+    <heading>Unlawful Use of Telephone</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 86-4" type="History">Adopted 4-9-1986 by Ord. No. 86-4</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-10</num>
@@ -207,23 +226,27 @@
   <container cache:ref-path="II|290|V">
     <prefix>Article</prefix>
     <num>V</num>
-    <heading>Disorderly Conduct and Unlawful Assemblies [Adopted 9-4-1986 by Ord. No. 86-10]</heading>
+    <heading>Disorderly Conduct and Unlawful Assemblies</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 86-10" type="History">Adopted 9-4-1986 by Ord. No. 86-10</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-12</num>
       <heading>Disorderly conduct.</heading>
       <text>Whoever, in a public or private place, engages in any one or more of the following types of behavior is in violation of <cite path="|II|290|V">this article</cite> and, upon conviction, shall be subject to a forfeiture of not more than $500 or a jail term of not more than six months, or both: violent, abusive, indecent, profane, boisterous, unreasonable, loud, or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
       <annotations>
-        <annotation type="History">Amended 1-8-1987, 5-2-2002</annotation>
+        <annotation type="History">Amended 5-2-2002</annotation>
+        <annotation type="History">Amended 1-8-1987</annotation>
       </annotations>
     </section>
     <section cache:ref-path="II|§290-13">
       <prefix>§</prefix>
       <num>290-13</num>
-      <reason>Reserved<fn path="|II|§290-13|footnotes|1">1</fn></reason>
+      <reason>Reserved<fn path="|II|§290-13|footnotes|2">2</fn></reason>
       <footnotes>
         <footnote>
-          <num>1</num>
+          <num>2</num>
           <text>Editor's Note: Former <cite path="§290-13">§ 290-13</cite>, Unlawful assembly, was repealed 9-3-2015 by Ord. No. 14-30.</text>
         </footnote>
       </footnotes>
@@ -235,7 +258,8 @@
     <num>VI</num>
     <heading>Harassment</heading>
     <annotations>
-      <annotation type="History">Adopted 9-3-1987 by Ord. No. 87-14; amended in its entirety 11-1-2012 by Ord. No. 12-30</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 12-30" type="History">Amended in its entirety 11-1-2012 by Ord. No. 12-30</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 87-14" type="History">Adopted 9-3-1987 by Ord. No. 87-14</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -387,7 +411,10 @@
   <container>
     <prefix>Article</prefix>
     <num>VII</num>
-    <heading>Obstruction of Justice [Adopted 9-17-1987 by Ord. No. 87-17]</heading>
+    <heading>Obstruction of Justice</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 87-17" type="History">Adopted 9-17-1987 by Ord. No. 87-17</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-21</num>
@@ -413,7 +440,10 @@
   <container>
     <prefix>Article</prefix>
     <num>VIII</num>
-    <heading>Solicitation to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-6]</heading>
+    <heading>Solicitation to Commit Crime</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 88-6" type="History">Adopted 7-28-1988 by Ord. No. 88-6</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-23</num>
@@ -432,15 +462,18 @@
   <container>
     <prefix>Article</prefix>
     <num>IX</num>
-    <heading>Conspiracy to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-7]</heading>
+    <heading>Conspiracy to Commit Crime</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 88-7" type="History">Adopted 7-28-1988 by Ord. No. 88-7</annotation>
+    </annotations>
     <section cache:ref-path="II|§290-25">
       <prefix>§</prefix>
       <num>290-25</num>
-      <heading>Prohibited acts.<fn path="|II|§290-25|footnotes|2">2</fn></heading>
+      <heading>Prohibited acts.<fn path="|II|§290-25|footnotes|3">3</fn></heading>
       <text>Whoever, with the intent that a crime be committed, agrees or combines with another for the purpose of committing that crime may be subject to a penalty as provided in <cite path="§290-26">§ 290-26</cite>, if one or more of the parties to the conspiracy does an act to effect its object.</text>
       <footnotes>
         <footnote>
-          <num>2</num>
+          <num>3</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -457,15 +490,18 @@
   <container>
     <prefix>Article</prefix>
     <num>X</num>
-    <heading>Attempt to Commit Crime [Adopted 7-28-1988 by Ord. No. 88-8]</heading>
+    <heading>Attempt to Commit Crime</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 88-8" type="History">Adopted 7-28-1988 by Ord. No. 88-8</annotation>
+    </annotations>
     <section cache:ref-path="II|§290-27">
       <prefix>§</prefix>
       <num>290-27</num>
-      <heading>Prohibited acts.<fn path="|II|§290-27|footnotes|3">3</fn></heading>
+      <heading>Prohibited acts.<fn path="|II|§290-27|footnotes|4">4</fn></heading>
       <text>Whoever knowingly attempts to commit a crime which requires that the actor have an intent to perform acts and attain a result which, if accomplished, would constitute such a crime and that he/she does act toward the commission of the crime which demonstrates unequivocally, under all the circumstances, that he formed that intent and would commit the crime except for the intervention of another person or some extraneous factor may be subject to a penalty as provided in <cite path="§290-28">§ 290-28</cite>..</text>
       <footnotes>
         <footnote>
-          <num>3</num>
+          <num>4</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -484,7 +520,7 @@
     <num>XI</num>
     <heading>Parties to Crime</heading>
     <annotations>
-      <annotation type="History">Adopted 10-17-1991 by Ord. No. 91-15</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 91-15" type="History">Adopted 10-17-1991 by Ord. No. 91-15</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -537,7 +573,10 @@
   <container cache:ref-path="II|290|XII">
     <prefix>Article</prefix>
     <num>XII</num>
-    <heading>Resisting or Obstructing Officer [Adopted 10-14-1993 by Ord. No. 93-20]</heading>
+    <heading>Resisting or Obstructing Officer</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-20" type="History">Adopted 10-14-1993 by Ord. No. 93-20</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-33</num>
@@ -573,7 +612,10 @@
   <container cache:ref-path="II|290|XIII">
     <prefix>Article</prefix>
     <num>XIII</num>
-    <heading>Curfew and Hitchhiking [Adopted 6-20-1996 by Ord. No. 96-08]</heading>
+    <heading>Curfew and Hitchhiking</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 96-08" type="History">Adopted 6-20-1996 by Ord. No. 96-08</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-36</num>
@@ -601,17 +643,29 @@
       <heading>Curfew.</heading>
       <para>
         <num>A.</num>
-        <text>No child 17 years of age or under shall loiter, idle or remain in or upon any of the streets, alleys, or public places, with or without permission of his or her parent or guardian, or in a private home other than his or her own without the permission of his or her parent or guardian, within the exterior boundaries of the Menominee Reservation between 9:00 p.m. and 6:00 a.m., or at any time that child is required to be in school according to <cite path="|II|368">Chapter 368</cite>, Article VI, Compulsory School Attendance, of this Code. <strong>[Amended 12-7-2000]</strong></text>
+        <text>No child 17 years of age or under shall loiter, idle or remain in or upon any of the streets, alleys, or public places, with or without permission of his or her parent or guardian, or in a private home other than his or her own without the permission of his or her parent or guardian, within the exterior boundaries of the Menominee Reservation between 9:00 p.m. and 6:00 a.m., or at any time that child is required to be in school according to <cite path="|II|368">Chapter 368</cite>, Article VI, Compulsory School Attendance, of this Code.<fn path="|II|§290-39|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>B.</num>
-        <text>No parent or guardian shall knowingly permit his child or ward of such age as indicated above to loiter, idle or remain in or upon any of the streets, alleys, or public places within the hours stated herein, unless such child is accompanied by a parent, guardian or some person of lawful age having legal custody of such child, or unless any such child is going home from school activities, church programs, approved organizational activities, or his or her place of employment, in which case <cite path="|II|290|XIII">this article</cite> shall not apply. <strong>[Amended 12-7-2000]</strong></text>
+        <text>No parent or guardian shall knowingly permit his child or ward of such age as indicated above to loiter, idle or remain in or upon any of the streets, alleys, or public places within the hours stated herein, unless such child is accompanied by a parent, guardian or some person of lawful age having legal custody of such child, or unless any such child is going home from school activities, church programs, approved organizational activities, or his or her place of employment, in which case <cite path="|II|290|XIII">this article</cite> shall not apply.<fn path="|II|§290-39|footnotes|6">6</fn></text>
       </para>
       <para>
         <num>C.</num>
         <text>Any such child shall have a reasonable time after school activities, church programs, and approved organizational activities, not to exceed one hour of termination of such meeting, to be within the definition of the term "going home."</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>5</num>
+          <text>Editor's Note: Amended 12-7-2000</text>
+        </footnote>
+        <footnote>
+          <num>6</num>
+          <text>Editor's Note: Amended 12-7-2000</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation type="History">Amended 12-7-2000</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -639,7 +693,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>A conviction or admission of guilt under the provisions of <cite path="|II|290|XIII">this article</cite> shall result in a forfeiture of $30 for a first offense and an increase of a ten-dollar forfeiture for each succeeding conviction. The Court may also, in its discretion, assign community service in lieu of, or in addition to, the forfeitures stated above. <strong>[Amended 12-7-2000]</strong></text>
+        <text>A conviction or admission of guilt under the provisions of <cite path="|II|290|XIII">this article</cite> shall result in a forfeiture of $30 for a first offense and an increase of a ten-dollar forfeiture for each succeeding conviction. The Court may also, in its discretion, assign community service in lieu of, or in addition to, the forfeitures stated above.<fn path="|II|§290-41|footnotes|7">7</fn></text>
       </para>
       <para>
         <num>E.</num>
@@ -647,15 +701,25 @@
       </para>
       <para>
         <num>F.</num>
-        <text>The Court shall order an early offender, defined as a juvenile who has five or fewer referrals into the Court system under <cite path="|II|290|XIII">this article</cite>, to Menominee County Human Services or other available social services entity for a six-month supervised program. <strong>[Amended 12-7-2000</strong><fn path="|II|§290-41|footnotes|4">4</fn><strong>]</strong></text>
+        <text>The Court shall order an early offender, defined as a juvenile who has five or fewer referrals into the Court system under <cite path="|II|290|XIII">this article</cite>, to Menominee County Human Services or other available social services entity for a six-month supervised program.<fn path="|II|§290-41|footnotes|8">8</fn><fn path="|II|§290-41|footnotes|9">9</fn></text>
       </para>
       <footnotes>
         <footnote>
-          <num>4</num>
+          <num>7</num>
+          <text>Editor's Note: Amended 12-7-2000</text>
+        </footnote>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Amended 12-7-2000</text>
+        </footnote>
+        <footnote>
+          <num>9</num>
           <text>Editor's Note: This amendment also repealed original § 7, Other penalties, which immediately followed this section.</text>
         </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Amended 12-7-2000</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -668,7 +732,10 @@
   <container cache:ref-path="II|290|XIV">
     <prefix>Article</prefix>
     <num>XIV</num>
-    <heading>Gang-Related Crimes [Adopted 6-20-1996 by Ord. No. 96-09]</heading>
+    <heading>Gang-Related Crimes</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 96-09" type="History">Adopted 6-20-1996 by Ord. No. 96-09</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-43</num>
@@ -768,12 +835,12 @@
       <para>
         <num>R.</num>
         <text>Any other crime against a person or property.</text>
-        <text>CRIMINAL GANG MEMBER — Any person who participates in criminal gang activity, as defined in <cite path="|II|290|XIV">this article</cite>, with a criminal gang.</text>
-        <text>PATTERN OF CRIMINAL GANG ACTIVITY — The commission of, attempt to commit or solicitation to commit two or more of the crimes enumerated above, or acts that would be crimes if the actor were an adult, where at least one of those acts or crimes occurs after the effective date of <cite path="|II|290|XIV">this article</cite>, the last of those acts or crimes occurred within three years after a prior act or crime, and the acts or crimes are committed, attempted or solicited on separate occasions or by two or more persons.<fn path="|II|§290-46|footnotes|5">5</fn></text>
       </para>
+      <aftertext>CRIMINAL GANG MEMBER — Any person who participates in criminal gang activity, as defined in <cite path="|II|290|XIV">this article</cite>, with a criminal gang.</aftertext>
+      <aftertext>PATTERN OF CRIMINAL GANG ACTIVITY — The commission of, attempt to commit or solicitation to commit two or more of the crimes enumerated above, or acts that would be crimes if the actor were an adult, where at least one of those acts or crimes occurs after the effective date of <cite path="|II|290|XIV">this article</cite>, the last of those acts or crimes occurred within three years after a prior act or crime, and the acts or crimes are committed, attempted or solicited on separate occasions or by two or more persons.<fn path="|II|§290-46|footnotes|10">10</fn></aftertext>
       <footnotes>
         <footnote>
-          <num>5</num>
+          <num>10</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -794,11 +861,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The penalty of banishment from the Menominee Indian Reservation may be imposed.<fn path="|II|§290-47|footnotes|6">6</fn></text>
+        <text>The penalty of banishment from the Menominee Indian Reservation may be imposed.<fn path="|II|§290-47|footnotes|11">11</fn></text>
       </para>
       <footnotes>
         <footnote>
-          <num>6</num>
+          <num>11</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -817,7 +884,8 @@
     <num>XV</num>
     <heading>Sexual Assault</heading>
     <annotations>
-      <annotation type="History">Adopted 9-2-1999 by Ord. No. 99-20; amended in its entirety 1-8-2009</annotation>
+      <annotation type="History">Amended in its entirety 1-8-2009</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-20" type="History">Adopted 9-2-1999 by Ord. No. 99-20</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -847,12 +915,12 @@
       <para>
         <num>B.</num>
         <text>A person who is unconscious or for any other reason is physically unable to communicate unwillingness to an act.</text>
-        <text>GREAT BODILY HARM — Bodily injury which creates a substantial risk of death, or which causes serious permanent disfigurement, or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.</text>
-        <text>INPATIENT FACILITY — Has the meaning designated in § 51.01(10), Wis. Stats.</text>
-        <text>PATIENT — Any person who receives care or treatment or arrives at a facility or program to receive care or treatment from a facility or program, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</text>
-        <text>RESIDENT — Any person who resides in a facility, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</text>
-        <text>SEXUAL CONTACT — Any of the following:</text>
       </para>
+      <aftertext>GREAT BODILY HARM — Bodily injury which creates a substantial risk of death, or which causes serious permanent disfigurement, or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.</aftertext>
+      <aftertext>INPATIENT FACILITY — Has the meaning designated in § 51.01(10), Wis. Stats.</aftertext>
+      <aftertext>PATIENT — Any person who receives care or treatment or arrives at a facility or program to receive care or treatment from a facility or program, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</aftertext>
+      <aftertext>RESIDENT — Any person who resides in a facility, including an adult family home, a community-based residential facility, an inpatient health care facility or a state treatment facility.</aftertext>
+      <aftertext>SEXUAL CONTACT — Any of the following:</aftertext>
       <para>
         <num proof="done">A.</num>
         <text>Intentional touching by the complainant or defendant, either directly or through clothing, by the use of any body part or object, of the complainant's or defendant's intimate parts if that intentional touching is either for the purpose of sexually degrading or for the purpose of sexually humiliating the complainant or sexually arousing or gratifying the defendant or if the touching contains the elements of actual or attempted battery under Article I, Assault and Battery, of <cite path="|II|290">this chapter</cite>.</text>
@@ -860,15 +928,15 @@
       <para>
         <num>B.</num>
         <text>Intentional penile ejaculation of ejaculate or intentional emission of urine or feces by the defendant upon any part of the body, clothed or unclothed, of the complainant, if that ejaculation or emission is either for the purpose of sexually degrading or sexually humiliating the complainant or for the purpose of sexually arousing or gratifying the defendant.</text>
-        <text>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</text>
-        <text>STATE TREATMENT FACILITY — Has the meaning designated in § 51.01(15), Wis. Stats.</text>
       </para>
+      <aftertext>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</aftertext>
+      <aftertext>STATE TREATMENT FACILITY — Has the meaning designated in § 51.01(15), Wis. Stats.</aftertext>
       <annotations/>
     </section>
     <section cache:ref-path="II|§290-52">
       <prefix>§</prefix>
       <num>290-52</num>
-      <heading>Sexual assault.<fn proof="needed" path="|II|§290-52|footnotes|7">7</fn></heading>
+      <heading>Sexual assault.<fn path="|II|§290-52|footnotes|12">12</fn></heading>
       <para>
         <num>A.</num>
         <text>First degree sexual assault. Whoever does any of the following is guilty of the crime of first degree sexual assault:</text>
@@ -927,7 +995,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>7</num>
+          <num>12</num>
           <text>Editor's Note: See also <cite path="|II|368|XI">Ch. 368, Art. XI</cite>, Sexual Assault of a Child.</text>
         </footnote>
       </footnotes>
@@ -1008,7 +1076,16 @@
   <container cache:ref-path="II|290|XVI">
     <prefix>Article</prefix>
     <num>XVI</num>
-    <heading>Sex Offender Registration and Notification [Adopted 6-17-2010 by Ord. No. 10-13<fn proof="needed" path="|II|§290-57|footnotes|8">8</fn>]</heading>
+    <heading>Sex Offender Registration and Notification</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 10-13" type="History">Adopted 6-17-2010 by Ord. No. 10-13<fn path="|II|290|XVI|footnotes|13">13</fn></annotation>
+    </annotations>
+    <footnotes>
+      <footnote>
+        <num>13</num>
+        <text>Editor's Note: This ordinance also repealed former Art. XVI, Sex Offender Registration, adopted 8-9-2001 by Ord. No. 01-12, as amended.</text>
+      </footnote>
+    </footnotes>
     <section cache:ref-path="II|§290-57">
       <prefix>§</prefix>
       <num>290-57</num>
@@ -1019,7 +1096,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Purpose. The intent of <cite path="|II|290|XVI">this article</cite> is to implement the federal Sex Offender Registration and Notification Act (SORNA) (Title I of Public Law 109-248)<fn path="|II|290|XVI|footnotes|9">9</fn> and shall be interpreted liberally to comply with the terms and conditions of SORNA as presently written or hereafter amended.</text>
+        <text>Purpose. The intent of <cite path="|II|290|XVI">this article</cite> is to implement the federal Sex Offender Registration and Notification Act (SORNA) (Title I of Public Law 109-248)<fn path="|II|§290-57|footnotes|14">14</fn> and shall be interpreted liberally to comply with the terms and conditions of SORNA as presently written or hereafter amended.</text>
       </para>
       <para>
         <num>C.</num>
@@ -1039,7 +1116,7 @@
       </para>
       <footnotes>
         <footnote>
-          <num>8</num>
+          <num>14</num>
           <text>Editor's Note: See 42 U.S.C. § 16901 et seq.</text>
         </footnote>
       </footnotes>
@@ -1051,7 +1128,8 @@
       <heading>Terminology; covered offenses.</heading>
       <para>
         <num>A.</num>
-        <text>Definitions. The definitions below apply to <cite path="|II|290|XVI">this article</cite> only. CONVICTED —</text>
+        <text>Definitions. The definitions below apply to <cite path="|II|290|XVI">this article</cite> only.</text>
+        <text>CONVICTED —</text>
         <para>
           <num>(1)</num>
           <text>An adult sex offender is convicted, for the purposes of <cite path="|II|290|XVI">this article</cite>, if the sex offender has been subjected to penal consequences based on the conviction, however the conviction may be styled.</text>
@@ -1067,11 +1145,11 @@
             <num>(b)</num>
             <text>Is adjudicated delinquent as a juvenile for a sex offense, but only if the offender is 14 years of age or older at the time of the offense and the offense adjudicated was comparable to or more severe than aggravated sexual abuse (as described in either <cite path="§290-58|(a)">Subsection (a)</cite> or (b) of 18 U.S.C. § 2241), or was an attempt or conspiracy to commit such an offense.</text>
           </para>
-          <aftertext>DRU SJODIN NATIONAL SEX OFFENDER PUBLIC WEBSITE (NSOPW) — The public website</aftertext>
-          <aftertext>maintained by the Attorney General of the United States pursuant to 42 U.S.C. § 16920.</aftertext>
         </para>
+        <aftertext>DRU SJODIN NATIONAL SEX OFFENDER PUBLIC WEBSITE (NSOPW) — The public website maintained by the Attorney General of the United States pursuant to 42 U.S.C. § 16920.</aftertext>
         <aftertext>EMPLOYEE — The term "employee," as used in this article, includes, but is not limited to, an individual who is self-employed or works for any other entity, regardless of compensation. Volunteers of a tribal agency or organization are included within the definition of "employee" for registration purposes.</aftertext>
-        <aftertext>FOREIGN CONVICTION — A foreign conviction is one obtained outside of the United States. IMMEDIATE — The terms "immediate" and "immediately" mean within three business days.</aftertext>
+        <aftertext>FOREIGN CONVICTION — A foreign conviction is one obtained outside of the United States.</aftertext>
+        <aftertext>IMMEDIATE — The terms "immediate" and "immediately" mean within three business days.</aftertext>
         <aftertext>IMPRISONMENT — Refers to incarceration pursuant to a conviction, regardless of the nature of the institution in which the offender serves the sentence. The term is to be interpreted broadly to include, for example, confinement in a state prison as well as in a federal, military, foreign, BIA, private or contract facility, or a local or tribal jail. Persons under house arrest following conviction of a covered sex offense are required to register pursuant to the provisions of this article during their period of house arrest.</aftertext>
         <aftertext>JURISDICTION — The term "jurisdiction," as used in this article, refers to the 50 states, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, and any Indian tribe.</aftertext>
         <aftertext>MINOR — An individual who has not attained the age of 18 years.</aftertext>
@@ -1092,11 +1170,11 @@
         <para>
           <num>(4)</num>
           <text>One to four other persons appointed by the Menominee Tribal Legislature with experience in one of the fields of health care, education, social services, law enforcement or corrections.</text>
-          <text>RESIDES — The term "reside" or "resides" means, with respect to an individual, the location of the individual's home or other place where the individual habitually lives or sleeps.</text>
-          <text>SEX OFFENDER — A person convicted of a sex offense.</text>
-          <text>SEX OFFENDER REGISTRY — The registry of sex offenders, and a notification program, maintained by the Menominee Tribal Police Department.</text>
-          <text>SEX OFFENSE — Except as limited by Subsection (6) or (7) of this definition:</text>
         </para>
+        <aftertext>RESIDES — The term "reside" or "resides" means, with respect to an individual, the location of the individual's home or other place where the individual habitually lives or sleeps.</aftertext>
+        <aftertext>SEX OFFENDER — A person convicted of a sex offense.</aftertext>
+        <aftertext>SEX OFFENDER REGISTRY — The registry of sex offenders, and a notification program, maintained by the Menominee Tribal Police Department.</aftertext>
+        <aftertext>SEX OFFENSE — Except as limited by Subsection (6) or (7) of this definition:</aftertext>
         <para>
           <num proof="done">(1)</num>
           <text>A criminal offense that has an element involving a sexual act or sexual contact with another.</text>
@@ -1143,7 +1221,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>A federal offense (including an offense prosecuted under 18 U.S.C. § 1152 or § 1153) under Section 1591, or <cite>Chapter 109</cite>A, 110 (other than Section 2257, 2257A, or 2258), or 117, of Title 18 of the United States Code.</text>
+          <text>A federal offense (including an offense prosecuted under 18 U.S.C. § 1152 or § 1153) under Section 1591, or Chapter 109A, 110 (other than Section 2257, 2257A, or 2258), or 117, of Title 18 of the United States Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1168,8 +1246,8 @@
             <num>(b)</num>
             <text>Under the laws of any foreign country when the United States State Department, in its Country Reports on Human Rights Practices, has concluded that an independent judiciary generally or vigorously enforced the right to a fair trial in that country during the year in which the conviction occurred.</text>
           </para>
-          <aftertext>SEXUAL ACT —</aftertext>
         </para>
+        <aftertext>SEXUAL ACT —</aftertext>
         <para>
           <num proof="done">(1)</num>
           <text>Contact between the penis and the vulva or the penis and the anus, and for purposes of this definition, contact involving the penis occurs upon penetration, however slight;</text>
@@ -1185,14 +1263,14 @@
         <para>
           <num>(4)</num>
           <text>The intentional touching, not through the clothing, of the genitalia of another person that has not attained the age of 18 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.</text>
-          <text>SEXUAL CONTACT — The intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desires of another person.</text>
-          <text>SMART OFFICE — The Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking, which was established within the United States Department of Justice under the general authority of the Attorney General of the United States pursuant to 42 U.S.C. § 16945.</text>
-          <text>SORNA — The Sex Offender Registration and Notification Act (Title I of the Adam Walsh Child Protection and Safety Act of 2006, P.L. 109-248), 42 U.S.C. § 16911 et seq., as amended.</text>
-          <text>STUDENT — A person who enrolls in or attends either a private or public education institution, including a secondary school, trade or professional school, or an institution of higher education.</text>
-          <text>TIER 1 SEX OFFENDER — A "Tier 1 sex offender," or a sex offender designated as "Tier 1," is one that has been convicted of a Tier 1 sex offense as defined in <cite path="§290-59|A">§ 290-59A</cite>.</text>
-          <text>TIER 2 SEX OFFENDER — A "Tier 2 sex offender," or a sex offender designated as "Tier 2," is one that has been either convicted of a Tier 2 sex offense as defined in <cite path="§290-59|B">§ 290-59B</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>B(2).</text>
-          <text>TIER 3 SEX OFFENDER — A "Tier 3 sex offender," or a sex offender designated as "Tier 3," is one that has been either convicted of a Tier 3 sex offense as defined in <cite path="§290-59|C">§ 290-59C</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>C(2).</text>
         </para>
+        <aftertext>SEXUAL CONTACT — The intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desires of another person.</aftertext>
+        <aftertext>SMART OFFICE — The Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking, which was established within the United States Department of Justice under the general authority of the Attorney General of the United States pursuant to 42 U.S.C. § 16945.</aftertext>
+        <aftertext>SORNA — The Sex Offender Registration and Notification Act (Title I of the Adam Walsh Child Protection and Safety Act of 2006, P.L. 109-248), 42 U.S.C. § 16911 et seq., as amended.</aftertext>
+        <aftertext>STUDENT — A person who enrolls in or attends either a private or public education institution, including a secondary school, trade or professional school, or an institution of higher education.</aftertext>
+        <aftertext>TIER 1 SEX OFFENDER — A "Tier 1 sex offender," or a sex offender designated as "Tier 1," is one that has been convicted of a Tier 1 sex offense as defined in <cite path="§290-59|A">§ 290-59A</cite>.</aftertext>
+        <aftertext>TIER 2 SEX OFFENDER — A "Tier 2 sex offender," or a sex offender designated as "Tier 2," is one that has been either convicted of a Tier 2 sex offense as defined in <cite path="§290-59|B">§ 290-59B</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>B(2).</aftertext>
+        <aftertext>TIER 3 SEX OFFENDER — A "Tier 3 sex offender," or a sex offender designated as "Tier 3," is one that has been either convicted of a Tier 3 sex offense as defined in <cite path="§290-59|C">§ 290-59C</cite> or who is subject to the recidivist provisions of <cite path="§290-59">§ 290-59</cite>C(2).</aftertext>
       </para>
       <para>
         <num proof="done">A.</num>
@@ -1384,15 +1462,15 @@
           </para>
           <para>
             <num>(hh)</num>
-            <text><cite>Chapter 940</cite>: crimes against life and bodily security if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+            <text>Chapter 940: crimes against life and bodily security if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text><cite>Chapter 944</cite>: crimes against sexual morality if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+            <text>Chapter 944: crimes against sexual morality if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
           </para>
           <para>
             <num>(jj)</num>
-            <text><cite>Chapter 948</cite>: crimes against children if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
+            <text>Chapter 948: crimes against children if the court determines the underlying conduct was sexually motivated, and in the best interest of public safety (discretionary).</text>
           </para>
         </para>
         <para>
@@ -1845,7 +1923,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Wisconsin <cite>Chapter 980</cite> commitments. Commitment under Wisconsin <cite>Chapter 980</cite> shall classify the offender as a Tier 3 offender and subject the offender to the registration requirements of a Tier 3 offender.</text>
+          <text>Wisconsin Chapter 980 commitments. Commitment under Wisconsin Chapter 980 shall classify the offender as a Tier 3 offender and subject the offender to the registration requirements of a Tier 3 offender.</text>
         </para>
       </para>
       <annotations/>
@@ -2809,19 +2887,14 @@
       <reason>Reserved</reason>
       <annotations/>
     </section>
-    <footnotes>
-      <footnote>
-        <num>9</num>
-        <text>Editor's Note: This ordinance also repealed former Art. XVI, Sex Offender Registration, adopted 8-9-2001 by Ord. No. 01-12, as amended.</text>
-      </footnote>
-    </footnotes>
   </container>
   <container cache:ref-path="II|290|XVII">
     <prefix>Article</prefix>
     <num>XVII</num>
     <heading>Bomb Scares</heading>
     <annotations>
-      <annotation type="History">Adopted 1-24-2000 by Ord. No. 99-33; amended in its entirety 9-6-2007</annotation>
+      <annotation type="History">Amended in its entirety 9-6-2007</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-33" type="History">Adopted 1-24-2000 by Ord. No. 99-33</annotation>
     </annotations>
     <section cache:ref-path="II|§290-70">
       <prefix>§</prefix>
@@ -2830,11 +2903,11 @@
       <text>Whoever intentionally conveys or causes to be conveyed any threat or false information, knowing such to be false, concerning an attempt or alleged attempt being made or to be made to destroy any property by the means of explosives is guilty of a tribal crime and subject to the following penalties:</text>
       <para>
         <num>A.</num>
-        <text>Penalties. Upon conviction, the Court shall impose a fine of not less than $1,000 nor more than $5,000 and a jail term of not less than six months nor more than one year in tribal jail. In addition to the above penalties, the Court may order the defendant to pay for all expenses caused as a result of the threat, including but not limited to evacuation costs, operational costs and property damage. In the case of a violation of <cite path="|II|290|XVII">this article</cite> by a student pursuant to <cite path="§290-71">§ 290-71</cite> below, the Court shall have broad discretion pursuant to <cite path="§290-71">§ 290-71</cite>B(2) to determine the penalties and/or the disposition; provided, however, that in no case shall the Court assess a penalty in excess of $5,000 and/or a jail term exceeding six months, if the student is an adult, or to determine disposition if the student is prosecuted under the tribally adopted juvenile code.<fn path="|II|§290-70|footnotes|10">10</fn></text>
+        <text>Penalties. Upon conviction, the Court shall impose a fine of not less than $1,000 nor more than $5,000 and a jail term of not less than six months nor more than one year in tribal jail. In addition to the above penalties, the Court may order the defendant to pay for all expenses caused as a result of the threat, including but not limited to evacuation costs, operational costs and property damage. In the case of a violation of <cite path="|II|290|XVII">this article</cite> by a student pursuant to <cite path="§290-71">§ 290-71</cite> below, the Court shall have broad discretion pursuant to <cite path="§290-71">§ 290-71</cite>B(2) to determine the penalties and/or the disposition; provided, however, that in no case shall the Court assess a penalty in excess of $5,000 and/or a jail term exceeding six months, if the student is an adult, or to determine disposition if the student is prosecuted under the tribally adopted juvenile code.<fn path="|II|§290-70|footnotes|15">15</fn></text>
       </para>
       <footnotes>
         <footnote>
-          <num>10</num>
+          <num>15</num>
           <text>Editor's Note: See <cite path="|II|278">Ch. 278</cite>, Children's Code.</text>
         </footnote>
       </footnotes>
@@ -2867,7 +2940,10 @@
   <container cache:ref-path="II|290|XVIII">
     <prefix>Article</prefix>
     <num>XVIII</num>
-    <heading>Theft, Embezzlement, Fraud and Forgery [Adopted 7-25-2002 by Ord. No. 02-25]</heading>
+    <heading>Theft, Embezzlement, Fraud and Forgery</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 02-25" type="History">Adopted 7-25-2002 by Ord. No. 02-25</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-72</num>
@@ -2908,8 +2984,7 @@
       <prefix>§</prefix>
       <num>290-75</num>
       <heading>Embezzlement.</heading>
-      <text>Embezzlement is a crime defined as any Indian who shall, having lawful custody of property not his own but belonging to the Tribe or another person, appropriate the same for his own use, with intent to deprive the owner thereof, and that Indian shall be charged with embezzlement and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months and community service and shall be</text>
-      <text>required to make reparation/restitution of the property to the owner.</text>
+      <text>Embezzlement is a crime defined as any Indian who shall, having lawful custody of property not his own but belonging to the Tribe or another person, appropriate the same for his own use, with intent to deprive the owner thereof, and that Indian shall be charged with embezzlement and, upon conviction, shall be sentenced to loss of liberty for a period not to exceed 12 months and community service and shall be required to make reparation/restitution of the property to the owner.</text>
       <annotations/>
     </section>
     <section>
@@ -2959,7 +3034,10 @@
   <container>
     <prefix>Article</prefix>
     <num>XIX</num>
-    <heading>Uncontrolled Dangerous Dog [Adopted 5-2-2024 by Ord. No. 24-18]</heading>
+    <heading>Uncontrolled Dangerous Dog</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 24-18" type="History">Adopted 5-2-2024 by Ord. No. 24-18</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>290-80</num>

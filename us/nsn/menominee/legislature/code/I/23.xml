@@ -4,7 +4,9 @@
   <num>23</num>
   <heading>CONTEST POW-WOW BOARD</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2007 by Ord. No. 07-03; amended in its entirety 7-19-2018 by Ord. No. 18-15. Subsequent amendments noted where applicable</annotation>
+    <annotation type="History">Subsequent amendments noted where applicable</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 18-15" type="History">Amended in its entirety 7-19-2018 by Ord. No. 18-15</annotation>
+    <annotation doc="Menominee Tribal Legislature Ord. No. 07-03" type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-3-2007 by Ord. No. 07-03</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -24,8 +26,10 @@
     <prefix>§</prefix>
     <num>23-3</num>
     <heading>Definitions.</heading>
-    <text>For the purpose of <cite path="|I|23">this chapter</cite>, the following words and terms shall have the following meanings: BOARD — The Menominee Nation Contest Pow-Wow Board.</text>
-    <text>COMMUNITY MEMBER — A member of the Board who is not a member of the Legislature. LEGISLATIVE MEMBER — A member of the Legislature who is appointed to the Board.</text>
+    <text>For the purpose of <cite path="|I|23">this chapter</cite>, the following words and terms shall have the following meanings:</text>
+    <text>BOARD — The Menominee Nation Contest Pow-Wow Board.</text>
+    <text>COMMUNITY MEMBER — A member of the Board who is not a member of the Legislature.</text>
+    <text>LEGISLATIVE MEMBER — A member of the Legislature who is appointed to the Board.</text>
     <text>LEGISLATURE — The Menominee Tribal Legislature.</text>
     <text>MEMBER — A member of the Board, regardless of whether he/she is a legislative member or a community member.</text>
     <text>TRIBE — The Menominee Indian Tribe of Wisconsin.</text>

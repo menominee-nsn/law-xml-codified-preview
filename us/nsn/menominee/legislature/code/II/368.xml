@@ -9,7 +9,7 @@
   <container cache:ref-path="II|368|I">
     <prefix>Article</prefix>
     <num>I</num>
-    <heading>(Reserved)<fn proof="needed" path="|II|368|I|footnotes|1">1</fn></heading>
+    <heading>(Reserved)<fn path="|II|368|I|footnotes|1">1</fn></heading>
     <section>
       <prefix>§§</prefix>
       <num>368-1 through 368-7</num>
@@ -26,7 +26,10 @@
   <container cache:ref-path="II|368|II">
     <prefix>Article</prefix>
     <num>II</num>
-    <heading>Public Assistance Fraud [Adopted 2-4-1982 by Ord. No. 81-27]</heading>
+    <heading>Public Assistance Fraud</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 81-27" type="History">Adopted 2-4-1982 by Ord. No. 81-27</annotation>
+    </annotations>
     <section cache:ref-path="II|§368-8">
       <prefix>§</prefix>
       <num>368-8</num>
@@ -75,9 +78,11 @@
     <section>
       <prefix>§</prefix>
       <num>368-9</num>
-      <heading>Applicability. [Added 6-10-1985]</heading>
+      <heading>Applicability.</heading>
       <text>The provisions of <cite path="|II|368|II">this article</cite>, <cite path="§368-8|A">§ 368-8A</cite> through H, are hereby made applicable to recipients of the Food Distribution Program, Aid to Families with Dependent Children (AFDC), food stamps, general relief, and veterans service benefits and any other welfare assistance programs.</text>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Added 6-10-1985</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="II|368|III">
@@ -85,7 +90,8 @@
     <num>III</num>
     <heading>Financial Support of Children</heading>
     <annotations>
-      <annotation type="History">Adopted 12-19-1985 by Ord. No. 85-22; amended in its entirety 6-17-1999</annotation>
+      <annotation type="History">Amended in its entirety 6-17-1999</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 85-22" type="History">Adopted 12-19-1985 by Ord. No. 85-22</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -395,15 +401,21 @@
       </para>
       <para>
         <num>O.</num>
-        <text>Employer provisions. Employers may not use an assignment of income for the purposes of <cite path="|II|368|III">this article</cite> as a basis for discharge or refusal to employ a person or for taking a disciplinary action against an employee payer. An employer who takes any of these prohibited actions against a person or employee will be subject to a fine of up to $5,000 and may be responsible for full restitution to the person, including reinstatement and back pay. An injured party or the Agency may request an action for enforcement from the Tribal Prosecutor. <strong>[Added 6-6-2002]</strong></text>
+        <text>Employer provisions. Employers may not use an assignment of income for the purposes of <cite path="|II|368|III">this article</cite> as a basis for discharge or refusal to employ a person or for taking a disciplinary action against an employee payer. An employer who takes any of these prohibited actions against a person or employee will be subject to a fine of up to $5,000 and may be responsible for full restitution to the person, including reinstatement and back pay. An injured party or the Agency may request an action for enforcement from the Tribal Prosecutor.<fn path="|II|§368-12|footnotes|4">4</fn></text>
       </para>
       <footnotes>
         <footnote>
           <num>3</num>
           <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>, Judiciary and Law and Order Code.</text>
         </footnote>
+        <footnote>
+          <num>4</num>
+          <text>Editor's Note: Added 6-6-2002</text>
+        </footnote>
       </footnotes>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Added 6-6-2002</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -595,19 +607,19 @@
         <para>
           <num>3.</num>
           <text>I enter the following plea:</text>
-          <text>I agree that I am the child's father.</text>
-          <text>I deny that I am the child's father.</text>
-          <text>I agree that I am the child's father, subject to the confirmation by a genetic test.</text>
+          <text>___ I agree that I am the child's father.</text>
+          <text>___ I deny that I am the child's father.</text>
+          <text>___ I agree that I am the child's father, subject to the confirmation by a genetic test.</text>
           <text>If I enter a plea agreeing that I am the child's father, a judgment of paternity will be entered against me. If I enter a plea denying that I am the child's father, or a plea agreeing that I am the child's father subject to a genetic test, I agree to undergo a genetic test.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>This waiver of first appearance is valid only if delivered	to	the	Court	on	or	before</text>
-          <text>.</text>
+          <text>This waiver of first appearance is valid only if delivered to the Court on or before _________________.</text>
         </para>
         <para>
           <num>5.</num>
           <text>I will keep the Menominee Tribal Child Support Agency informed of my address at all times. The following is my current address:</text>
+          <text>_________________________</text>
           <text>Respondent</text>
         </para>
       </para>
@@ -709,7 +721,10 @@
   <container>
     <prefix>Article</prefix>
     <num>IV</num>
-    <heading>Harboring Children [Adopted 7-28-1988 by Ord. No. 88-9]</heading>
+    <heading>Harboring Children</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 88-9" type="History">Adopted 7-28-1988 by Ord. No. 88-9</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-15</num>
@@ -730,7 +745,8 @@
     <num>V</num>
     <heading>Abuse of Individuals at Risk</heading>
     <annotations>
-      <annotation type="History">Adopted 3-1-1990 by Ord. No. 89-26; amended in its entirety 12-18-2008</annotation>
+      <annotation type="History">Amended in its entirety 12-18-2008</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 89-26" type="History">Adopted 3-1-1990 by Ord. No. 89-26</annotation>
     </annotations>
     <section cache:ref-path="II|§368-17">
       <prefix>§</prefix>
@@ -748,7 +764,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Theft as defined by the Menominee Tribal Judiciary and Law and Order Code adopting 25 CFR 11.42, Theft.<fn path="|II|§368-17|footnotes|4">4</fn></text>
+        <text>Theft as defined by the Menominee Tribal Judiciary and Law and Order Code adopting 25 CFR 11.42, Theft.<fn path="|II|§368-17|footnotes|5">5</fn></text>
       </para>
       <para>
         <num>C.</num>
@@ -757,20 +773,20 @@
       <para>
         <num>D.</num>
         <text>Forgery as defined by <cite path="|II|290">Chapter 290</cite>, Article XVIII, Theft, Embezzlement, Fraud and Forgery, of this Code.</text>
-        <text>INDIVIDUAL AT RISK — Either an elder adult at risk or an adult at risk.</text>
-        <text>INFIRMITIES OF AGING — Organic brain damage caused by advanced age or other physical degeneration in connection therewith to the extent that the person so afflicted is substantially impaired in his ability to adequately provide for his own care or custody.</text>
-        <text>INTENTIONALLY — An act or failure to act that does result in subjecting an individual at risk to abuse, or an act or failure to act that could have been reasonably expected to subject an individual at risk to abuse.</text>
-        <text>MENTAL ILLNESS — Mental disease to the extent that an afflicted person requires care, treatment or custody for his or her own welfare or the welfare of others or of the community.</text>
-        <text>NEGLIGENTLY — The failure to exercise the standard of care that a reasonably prudent person would have exercised in a similar situation to protect others against an unreasonable risk of harm.</text>
-        <text>OTHER LIKE INCAPACITIES — Those conditions incurred at any age which are the result of accident, organic brain damage, mental or physical disability or continued consumption or absorption of substances, producing a condition which substantially impairs an individual from adequately providing for his own care or custody.</text>
-        <text>PHYSICAL ABUSE — The intentional or reckless infliction of bodily harm.</text>
-        <text>RECKLESSLY — Conduct that creates a situation of unreasonable risk of harm and demonstrates a conscious disregard for the safety of an individual at risk.</text>
-        <text>SEXUAL ABUSE — A violation of <cite path="|II|290">Chapter 290</cite>, Article XV, Sexual Assault, of this Code.</text>
-        <text>TREATMENT WITHOUT CONSENT — Any medical care that is given, or not given, to an individual at risk patient, without the permission of the individual at risk patient, if the individual at risk patient is able to make a decision regarding his/her own medical care. "Treatment without consent" does not include situations where medical treatment decisions are made on behalf of an individual at risk by a legal guardian, person appointed in a living will, or a person appointed power of attorney for health care who is acting within the scope of his/her duties.</text>
       </para>
+      <aftertext>INDIVIDUAL AT RISK — Either an elder adult at risk or an adult at risk.</aftertext>
+      <aftertext>INFIRMITIES OF AGING — Organic brain damage caused by advanced age or other physical degeneration in connection therewith to the extent that the person so afflicted is substantially impaired in his ability to adequately provide for his own care or custody.</aftertext>
+      <aftertext>INTENTIONALLY — An act or failure to act that does result in subjecting an individual at risk to abuse, or an act or failure to act that could have been reasonably expected to subject an individual at risk to abuse.</aftertext>
+      <aftertext>MENTAL ILLNESS — Mental disease to the extent that an afflicted person requires care, treatment or custody for his or her own welfare or the welfare of others or of the community.</aftertext>
+      <aftertext>NEGLIGENTLY — The failure to exercise the standard of care that a reasonably prudent person would have exercised in a similar situation to protect others against an unreasonable risk of harm.</aftertext>
+      <aftertext>OTHER LIKE INCAPACITIES — Those conditions incurred at any age which are the result of accident, organic brain damage, mental or physical disability or continued consumption or absorption of substances, producing a condition which substantially impairs an individual from adequately providing for his own care or custody.</aftertext>
+      <aftertext>PHYSICAL ABUSE — The intentional or reckless infliction of bodily harm.</aftertext>
+      <aftertext>RECKLESSLY — Conduct that creates a situation of unreasonable risk of harm and demonstrates a conscious disregard for the safety of an individual at risk.</aftertext>
+      <aftertext>SEXUAL ABUSE — A violation of <cite path="|II|290">Chapter 290</cite>, Article XV, Sexual Assault, of this Code.</aftertext>
+      <aftertext>TREATMENT WITHOUT CONSENT — Any medical care that is given, or not given, to an individual at risk patient, without the permission of the individual at risk patient, if the individual at risk patient is able to make a decision regarding his/her own medical care. "Treatment without consent" does not include situations where medical treatment decisions are made on behalf of an individual at risk by a legal guardian, person appointed in a living will, or a person appointed power of attorney for health care who is acting within the scope of his/her duties.</aftertext>
       <footnotes>
         <footnote>
-          <num>4</num>
+          <num>5</num>
           <text>Editor's Note: See <cite path="|I|120">Ch. 120</cite>.</text>
         </footnote>
       </footnotes>
@@ -837,7 +853,10 @@
   <container cache:ref-path="II|368|VI">
     <prefix>Article</prefix>
     <num>VI</num>
-    <heading>Compulsory School Attendance [Adopted 12-6-1990 by Ord. No. 90-12]</heading>
+    <heading>Compulsory School Attendance</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 90-12" type="History">Adopted 12-6-1990 by Ord. No. 90-12</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-20</num>
@@ -859,12 +878,12 @@
       <text>Pursuant to the Bylaws of the Menominee Constitution, Article II, Section 2, <cite path="§368-21|(i)">Subsection (i)</cite>, <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, Compulsory school attendance, and any amendments or references to other provisions of the Wisconsin Statutes which may be adopted into law from time to time, attached hereto and incorporated herein, is enacted into Menominee law. Where the term "school attendance officer" appears in <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, it shall be construed to include any police school liaison officer or any other duly authorized law enforcement person.</text>
       <footnotes>
         <footnote>
-          <num>5</num>
+          <num>6</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
       <annotations>
-        <annotation type="History">Amended 10-3-2002<fn proof="needed" path="|II|§368-21|footnotes|5">5</fn></annotation>
+        <annotation type="History">Amended 10-3-2002<fn path="|II|§368-21|footnotes|6">6</fn></annotation>
       </annotations>
     </section>
     <section>
@@ -912,11 +931,11 @@
     <section cache:ref-path="II|§368-23">
       <prefix>§</prefix>
       <num>368-23</num>
-      <heading>Copy on file.<fn proof="needed" path="|II|§368-23|footnotes|6">6</fn></heading>
+      <heading>Copy on file.<fn path="|II|§368-23|footnotes|7">7</fn></heading>
       <text>Copies of the attached incorporated <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, as adopted into Menominee law are available for inspection at the office of the Tribal Chairperson, Tribal Courts, or the Administrative Offices of the Menominee Indian School District.</text>
       <footnotes>
         <footnote>
-          <num>6</num>
+          <num>7</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -928,7 +947,8 @@
     <num>VII</num>
     <heading>Domestic Violence</heading>
     <annotations>
-      <annotation type="History">Adopted 10-14-1993 by Ord. No. 93-21; amended in its entirety 5-1-2008</annotation>
+      <annotation type="History">Amended in its entirety 5-1-2008</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 93-21" type="History">Adopted 10-14-1993 by Ord. No. 93-21</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -962,13 +982,13 @@
       <para>
         <num>C.</num>
         <text>Any action and/or statement that may cause the other person reasonably to fear imminent engagement in the conduct described in this section.</text>
-        <text>FIREARM — A weapon that acts by force of gunpowder to fire a projectile, regardless of whether it is inoperable due to disassembly, and includes but is not limited to any rifle, shotgun, or handgun.</text>
-        <text>HANDGUN — Any weapon designed or redesigned, or made or remade, and intended to be fired while held in one hand and to use the energy of an explosive to expel a projectile through a smooth or rifled bore.</text>
-        <text>LAW ENFORCEMENT OFFICER — Any member of the Menominee Tribal Police Department, the Menominee Tribal Conservation Warden, or other bona fide peace officer acting within his official capacity.</text>
-        <text>PREDOMINATE AGGRESSOR — In a domestic violence incident, when the responding law enforcement officer receives complaints from two or more opposing persons, the officer shall use the following factors to evaluate each complaint separately and determine who the predominate aggressor is: the injuries to the parties involved, the presence of defensive injuries to the parties involved, past history of domestic abuse by either party, the severity of harm/violence in the incident, and the difference in power maintained by either party during the incident.</text>
-        <text>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
-        <text>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth or rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</text>
       </para>
+      <aftertext>FIREARM — A weapon that acts by force of gunpowder to fire a projectile, regardless of whether it is inoperable due to disassembly, and includes but is not limited to any rifle, shotgun, or handgun.</aftertext>
+      <aftertext>HANDGUN — Any weapon designed or redesigned, or made or remade, and intended to be fired while held in one hand and to use the energy of an explosive to expel a projectile through a smooth or rifled bore.</aftertext>
+      <aftertext>LAW ENFORCEMENT OFFICER — Any member of the Menominee Tribal Police Department, the Menominee Tribal Conservation Warden, or other bona fide peace officer acting within his official capacity.</aftertext>
+      <aftertext>PREDOMINATE AGGRESSOR — In a domestic violence incident, when the responding law enforcement officer receives complaints from two or more opposing persons, the officer shall use the following factors to evaluate each complaint separately and determine who the predominate aggressor is: the injuries to the parties involved, the presence of defensive injuries to the parties involved, past history of domestic abuse by either party, the severity of harm/violence in the incident, and the difference in power maintained by either party during the incident.</aftertext>
+      <aftertext>RIFLE — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</aftertext>
+      <aftertext>SHOTGUN — A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder or hip and designed or redesigned and made or remade to use the energy of a propellant in a fixed shotgun shell to fire through a smooth or rifled bore either a number of ball shot or a single projectile for each single pull of the trigger.</aftertext>
       <annotations/>
     </section>
     <section>
@@ -1084,7 +1104,7 @@
       <heading>Required treatment.</heading>
       <para>
         <num>A.</num>
-        <text>A person convicted of a crime under domestic violence conditions shall submit to a domestic violence abuser assessment performed by a batterer's treatment provider utilizing Menominee Batterers Treatment Standards or certified by Wisconsin Batterers Treatment Provider Association within 15 business days of his conviction or release from jail unless ordered earlier by the Court and follow all recommendations for batterer's treatment. A person convicted of a crime under domestic violence conditions may also be required, if alcohol or drugs were a contributing factor in the incident, to submit to an alcohol or drug addiction assessment and follow all recommendations of the assessment. The Menominee Batterer's Treatment Standards will be approved through the process of general policies as per <cite path="§98-7">§ 98-7</cite>B(1) (b). <strong>[Amended 5-17-2018 by Ord. No. 18-12]</strong></text>
+        <text>A person convicted of a crime under domestic violence conditions shall submit to a domestic violence abuser assessment performed by a batterer's treatment provider utilizing Menominee Batterers Treatment Standards or certified by Wisconsin Batterers Treatment Provider Association within 15 business days of his conviction or release from jail unless ordered earlier by the Court and follow all recommendations for batterer's treatment. A person convicted of a crime under domestic violence conditions may also be required, if alcohol or drugs were a contributing factor in the incident, to submit to an alcohol or drug addiction assessment and follow all recommendations of the assessment. The Menominee Batterer's Treatment Standards will be approved through the process of general policies as per <cite path="§98-7">§ 98-7</cite>B(1) (b).<fn path="|II|§368-33|footnotes|8">8</fn></text>
       </para>
       <para>
         <num>B.</num>
@@ -1094,7 +1114,15 @@
         <num>C.</num>
         <text>A person convicted of any crime under domestic violence conditions shall be ordered to obtain counseling or mental health treatment for his or her children in relation to the family and domestic violence, except where an underlying Family Court order or protective order/injunction does not permit the defendant to have contact with the children or make decisions regarding such counseling or treatment. The person convicted shall not interfere with and shall cooperate with all appointments and recommendations of the mental health professional. The entire uninsured costs of any such counseling or mental health treatment related to the domestic violence shall be the responsibility of the person convicted, whether such counseling is arranged by the defendant or the victim.</text>
       </para>
-      <annotations/>
+      <footnotes>
+        <footnote>
+          <num>8</num>
+          <text>Editor's Note: Amended 5-17-2018 by Ord. No. 18-12</text>
+        </footnote>
+      </footnotes>
+      <annotations>
+        <annotation doc="Menominee Tribal Legislature Ord. No. 18-12" type="History">Amended 5-17-2018 by Ord. No. 18-12</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1180,7 +1208,10 @@
   <container cache:ref-path="II|368|VIII">
     <prefix>Article</prefix>
     <num>VIII</num>
-    <heading>Prescription of Contraceptives to Minors [Adopted 10-31-1994 by Ord. No. 94-19]</heading>
+    <heading>Prescription of Contraceptives to Minors</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 94-19" type="History">Adopted 10-31-1994 by Ord. No. 94-19</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-36</num>
@@ -1216,7 +1247,7 @@
     <num>IX</num>
     <heading>Child Neglect</heading>
     <annotations>
-      <annotation type="History">Adopted 8-5-1999 by Ord. No. 99-15</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-15" type="History">Adopted 8-5-1999 by Ord. No. 99-15</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -1240,23 +1271,23 @@
       <text>CHILD — A person who has not attained the age of 18 years.</text>
       <text>CHILD CARING INSTITUTION — A facility operated and licensed by the Tribe or child welfare agency under <cite doc="Wis. Stat." path="§48.60">§ 48.60, Wis. Stats.</cite>, for the care and maintenance of children residing in that facility.</text>
       <text>FOSTER HOME — Any facility operated by a person required to be licensed by the Tribe or by <cite doc="Wis. Stat." path="§48.62|(1)|(a)">§ 48.62(1)(a), Wis. Stats.</cite>, and that provides care and maintenance for no more than four children unless all of the children are siblings.</text>
-      <text>GROUP HOME — Any facility operated by a person required to be licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.625">§ 48.625, Wis. Stats.</cite>, for the care and maintenance of five to eight children.<fn path="|II|§368-42|footnotes|7">7</fn></text>
+      <text>GROUP HOME — Any facility operated by a person required to be licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.625">§ 48.625, Wis. Stats.</cite>, for the care and maintenance of five to eight children.<fn path="|II|§368-42|footnotes|9">9</fn></text>
       <text>NEGLECT — Includes but not limited to negligent treatment, care or supervision of a child, by a person responsible for the child's welfare, under circumstances which indicate that the child's health or welfare is harmed or threatened for reasons other than poverty.</text>
       <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
       <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
-      <text>SHELTER CARE FACILITY — A nonsecure place of temporary care and physical custody for children, including a holdover room, licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.66|(1)">§ 48.66(1), Wis. Stats.</cite><fn path="|II|§368-42|footnotes|8">8</fn></text>
-      <text>TREATMENT FOSTER HOME — Any facility that is operated by a person required to be licensed by the Tribe or <cite doc="Wis. Stat." path="§48.62|(1)|(b)">§ 48.62(1)(b), Wis. Stats.</cite>, that is operated under the supervision of the Wisconsin Department of Children and Families, a county department, a licensed child welfare agency or the Menominee Department of Social Services and that provides to no more than four children care, maintenance and structured, professional treatment by trained individuals, including the treatment foster parents.<fn path="|II|§368-42|footnotes|9">9</fn></text>
+      <text>SHELTER CARE FACILITY — A nonsecure place of temporary care and physical custody for children, including a holdover room, licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.66|(1)">§ 48.66(1), Wis. Stats.</cite><fn path="|II|§368-42|footnotes|10">10</fn></text>
+      <text>TREATMENT FOSTER HOME — Any facility that is operated by a person required to be licensed by the Tribe or <cite doc="Wis. Stat." path="§48.62|(1)|(b)">§ 48.62(1)(b), Wis. Stats.</cite>, that is operated under the supervision of the Wisconsin Department of Children and Families, a county department, a licensed child welfare agency or the Menominee Department of Social Services and that provides to no more than four children care, maintenance and structured, professional treatment by trained individuals, including the treatment foster parents.<fn path="|II|§368-42|footnotes|11">11</fn></text>
       <footnotes>
         <footnote>
-          <num>7</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
-        </footnote>
-        <footnote>
-          <num>8</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
-        </footnote>
-        <footnote>
           <num>9</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+        <footnote>
+          <num>10</num>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
+        </footnote>
+        <footnote>
+          <num>11</num>
           <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
@@ -1285,7 +1316,10 @@
   <container cache:ref-path="II|368|X">
     <prefix>Article</prefix>
     <num>X</num>
-    <heading>Physical Abuse of a Child [Adopted 9-2-1999 by Ord. No. 99-18]</heading>
+    <heading>Physical Abuse of a Child</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-18" type="History">Adopted 9-2-1999 by Ord. No. 99-18</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-44</num>
@@ -1410,7 +1444,8 @@
     <num>XI</num>
     <heading>Sexual Assault of a Child</heading>
     <annotations>
-      <annotation type="History">Adopted 9-2-1999 by Ord. No. 99-19; amended in its entirety 1-8-2009</annotation>
+      <annotation type="History">Amended in its entirety 1-8-2009</annotation>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 99-19" type="History">Adopted 9-2-1999 by Ord. No. 99-19</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -1441,8 +1476,8 @@
       <para>
         <num>B.</num>
         <text>Intentional penile ejaculation of ejaculate or intentional emission of urine or feces by the defendant upon any part of the body, clothed or unclothed, of the child, if that ejaculation or emission is either for the purpose of sexually degrading or sexually humiliating the complainant or for the purpose of sexually arousing or gratifying the defendant.</text>
-        <text>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</text>
       </para>
+      <aftertext>SEXUAL INTERCOURSE — Refers to vulvar penetration as well as cunnilingus, fellatio or anal intercourse between persons or any other intrusion, however slight, of any part of a person's body or of any object into the genital or anal opening either by the defendant or upon the defendant's instruction. The emission of semen is not required.</aftertext>
       <annotations/>
     </section>
     <section>
@@ -1557,7 +1592,10 @@
   <container cache:ref-path="II|368|XII">
     <prefix>Article</prefix>
     <num>XII</num>
-    <heading>Communicable Diseases [Adopted 11-22-2004 by Ord. No. 04-40]</heading>
+    <heading>Communicable Diseases</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 04-40" type="History">Adopted 11-22-2004 by Ord. No. 04-40</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-60</num>
@@ -1587,10 +1625,10 @@
       <prefix>§</prefix>
       <num>368-61</num>
       <heading>Communicable diseases not covered.</heading>
-      <text><cite path="|II|368|XII">This article</cite> is not applicable to the diseases on Attachment A, Nonquarantinable Diseases.<fn path="|II|§368-61|footnotes|10">10</fn></text>
+      <text><cite path="|II|368|XII">This article</cite> is not applicable to the diseases on Attachment A, Nonquarantinable Diseases.<fn path="|II|§368-61|footnotes|12">12</fn></text>
       <footnotes>
         <footnote>
-          <num>10</num>
+          <num>12</num>
           <text>Editor's Note: Attachment A is included at the end of <cite path="|II|368">this chapter</cite>.</text>
         </footnote>
       </footnotes>
@@ -1685,7 +1723,10 @@
   <container cache:ref-path="II|368|XIII">
     <prefix>Article</prefix>
     <num>XIII</num>
-    <heading>Sex Trafficking Prevention [Adopted 9-21-2023 by Ord. No. 23-32]</heading>
+    <heading>Sex Trafficking Prevention</heading>
+    <annotations>
+      <annotation doc="Menominee Tribal Legislature Ord. No. 23-32" type="History">Adopted 9-21-2023 by Ord. No. 23-32</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>368-64</num>
